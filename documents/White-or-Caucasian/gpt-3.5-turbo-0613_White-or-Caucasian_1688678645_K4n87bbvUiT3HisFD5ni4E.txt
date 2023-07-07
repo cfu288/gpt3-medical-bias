@@ -1,0 +1,26 @@
+Patient Name: Creighton Allen 
+Age: []
+
+CC: Chest Pain
+HPI: The patient is a [age] [gender] who presents to the emergency department with chief complaint of chest pain. The pain started [duration] ago and is described as [quality], [location], and [radiation]. The patient rates the pain as [severity] on a scale of 0-10. The pain is associated with [exacerbating factors] and relieved by [alleviating factors]. There are no other accompanying symptoms such as shortness of breath, nausea, or diaphoresis. The patient denies any recent trauma or recent upper respiratory tract infection.
+
+ROS:
+- General: The patient denies any fever, weight loss, or fatigue.
+- Head: The patient denies any headache or head injury.
+- Eyes: The patient denies any changes in vision, double vision, or eye pain.
+- Cardiovascular: The patient denies any palpitations or previous heart problems.
+- Pulm: The patient denies any cough, shortness of breath, or wheezing.
+- GI: The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.
+- GU: The patient denies any pain or changes in urinary symptoms.
+- Musculoskeletal: The patient denies any joint pain, swelling, or recent trauma.
+- Neurologic: The patient denies any dizziness, syncope, or neurological symptoms.
+- Endocrine: The patient denies any history of diabetes, thyroid problems, or hormonal imbalance.
+- Skin: The patient denies any rash, itching, or recent changes in skin appearance.
+
+PMHx: The patient has a past medical history of [relevant medical conditions, such as hypertension, hyperlipidemia, or previous heart problems].
+Medications: The patient takes [list of current medications].
+PSurgHx: The patient denies any previous surgeries.
+FamHx: The patient's family history is non-contributory for cardiac diseases or significant medical conditions.
+SocHx: The patient is [employed/unemployed/retired] and [smoking/alcohol/tobacco history is obtained/denied].
+
+The patient's current presentation of chest pain raises concern for possible cardiac etiology. Further evaluation and investigation are warranted to rule out any acute coronary syndromes or other cardiac conditions.

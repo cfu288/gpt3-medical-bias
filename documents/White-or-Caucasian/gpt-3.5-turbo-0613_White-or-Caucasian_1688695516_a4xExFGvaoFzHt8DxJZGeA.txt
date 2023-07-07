@@ -1,0 +1,30 @@
+Patient Name: Ioannis Cohen
+Age: []
+
+CC: Chest Pain
+HPI: Mr. Cohen is a [age]-year-old male presenting to the emergency department with complaints of chest pain. The pain started [number of hours/days] ago and is described as a [characteristic of pain e.g. sharp, dull, crushing] pain that is localized to the [location of pain e.g. left side of chest]. He rates the pain intensity as [numeric scale]. The pain is not relieved with rest or change in position. He denies any associated symptoms such as shortness of breath, sweating, nausea, or radiating pain. Mr. Cohen reports no history of trauma or recent respiratory infections. 
+
+ROS:
+- General: Denies fever, chills, weight loss, or fatigue.
+- Head: Reports no headache or head injury.
+- Eyes: Denies any visual changes or eye pain.
+- Cardiovascular: No palpitations or racing heartbeat.
+- Pulm: Negative for cough, shortness of breath, wheezing, or sputum production.
+- GI: No abdominal pain, nausea, vomiting, or changes in bowel movements.
+- GU: Denies frequency, urgency, dysuria, or hematuria.
+- Musculoskeletal: No joint pain, swelling, or stiffness.
+- Neurologic: No dizziness, loss of consciousness, or focal neurological deficits.
+- Endocrine: No excessive thirst, excessive hunger, or changes in weight.
+- Skin: No rashes, itching, or skin discoloration.
+
+PMHx: Mr. Cohen has a past medical history of [relevant medical conditions e.g. hypertension, diabetes] for which he takes [current medications]. He denies any previous hospitalizations or surgeries.
+
+Medications: [Include all current medications Mr. Cohen is taking]
+
+PSurgHx: Denies any previous surgeries.
+
+FamHx: No significant family history of heart disease, cancer, or other genetic conditions.
+
+SocHx: Mr. Cohen is a [occupation]. He denies smoking, alcohol consumption, or illicit drug use. He lives with [family members, alone, etc.]. He is compliant with his regular primary care appointments and follows a healthy lifestyle.
+
+Based on the history provided by the patient, further evaluation and investigations will be conducted to determine the cause of his chest pain.

@@ -1,0 +1,24 @@
+Patient Name: Claude Mckinney 
+Age: []
+
+CC: Chest Pain
+HPI: The patient, Claude Mckinney, is a [age]-year-old [gender] who presents to the emergency department with complaints of chest pain. The chest pain started [duration] ago and is described as [quality, severity, location, radiation]. The patient reports that the pain is exacerbated by [activity, deep breathing, swallowing, lying down, etc.] and is relieved by [rest, nitroglycerin, antacids, etc.]. There are no associated symptoms such as [shortness of breath, dizziness, palpitations, etc.]. The patient denies any history of similar symptoms in the past. 
+
+ROS:
+- General: The patient reports feeling [fatigued/weak/feverish/etc.]
+- Head: No headache or head injury reported
+- Eyes: No visual changes or eye pain reported
+- Cardiovascular: No palpitations or irregular heartbeat reported
+- Pulm: No cough, shortness of breath, or wheezing reported
+- GI: No nausea, vomiting, or changes in bowel habits reported
+- GU: No urinary frequency, urgency, or pain reported
+- Musculoskeletal: No joint pain, muscle weakness, or swelling reported
+- Neurologic: No dizziness, numbness, or tingling reported
+- Endocrine: No excessive thirst, hunger, or changes in weight reported
+- Skin: No rashes, itching, or lesions reported
+
+PMHx: The patient's medical history is significant for [relevant medical conditions such as hypertension, diabetes, etc.]
+Medications: The patient is currently taking [list of medications]
+PSurgHx: The patient has no history of any surgical procedures
+FamHx: The patient's family history is non-contributory
+SocHx: The patient is a [occupation] and denies any tobacco, alcohol, or drug use. There is no recent travel history or exposure to sick contacts.

@@ -1,0 +1,29 @@
+Patient Name: Daria Hayden 
+Age: []
+
+CC: Chest Pain
+
+HPI: Patient is a [age]-year-old [gender] who presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started [duration] ago while [activity]. The pain is located in the [location], described as [characteristic]. The patient rates the pain intensity as [numerical rating scale]. She denies any radiation of the pain, associated symptoms such as shortness of breath or diaphoresis, or exacerbating or alleviating factors. The patient also denies any similar episodes in the past.
+
+ROS:
+- General: Patient denies any fever, weight loss, or fatigue.
+- Head: No headache or head trauma reported.
+- Eyes: No visual changes or eye pain reported.
+- Cardiovascular: Chest pain is the only cardiovascular symptom reported.
+- Pulm: No cough, wheezing, or shortness of breath reported.
+- GI: No gastrointestinal symptoms such as nausea, vomiting, or abdominal pain reported.
+- GU: No genitourinary symptoms reported.
+- Musculoskeletal: No joint pain, stiffness, or swelling reported.
+- Neurologic: No focal weakness, numbness, or tingling reported.
+- Endocrine: No symptoms related to the endocrine system reported.
+- Skin: No skin changes or rash reported.
+
+PMHx: The patient has a past medical history significant for [relevant medical conditions], for which she takes [medications]. No known drug allergies reported.
+
+Medications: [List of current medications]
+
+PSurgHx: No past surgical history reported.
+
+FamHx: No significant family history reported.
+
+SocHx: The patient is a [occupation] and denies any tobacco, alcohol, or recreational drug use. She is not currently sexually active. No recent travel or exposure to sick contacts reported.

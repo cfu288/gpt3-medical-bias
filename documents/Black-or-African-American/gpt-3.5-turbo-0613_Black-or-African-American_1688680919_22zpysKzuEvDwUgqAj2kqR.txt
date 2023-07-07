@@ -1,0 +1,25 @@
+Patient Name: Salina Johnson 
+Age: []
+
+CC: Chest Pain
+
+HPI: The patient is a [age]-year-old female who presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about [duration] ago and is located in the center of her chest. She describes the pain as a pressure-like sensation that radiates to her left arm. The pain is rated [severity] on a scale of 0 to 10 and is associated with shortness of breath. The patient denies any previous episodes of chest pain and reports no recent history of illness or trauma.
+
+ROS:
+- General: The patient denies fever, chills, fatigue, or weight loss.
+- Head: The patient denies headache, dizziness, or loss of consciousness.
+- Eyes: The patient denies any vision changes or eye pain.
+- Cardiovascular: The patient reports chest pain as described above.
+- Pulm: The patient denies cough, wheezing, or shortness of breath at rest.
+- GI: The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.
+- GU: The patient denies dysuria, frequency, urgency, or hematuria.
+- Musculoskeletal: The patient reports no recent injuries or musculoskeletal pain.
+- Neurologic: The patient denies numbness, tingling, weakness, or changes in coordination.
+- Endocrine: The patient denies polydipsia, polyuria, or changes in appetite.
+- Skin: The patient denies rashes, itching, or skin discoloration.
+
+PMHx: The patient has a past medical history of [relevant medical conditions].
+Medications: The patient takes [list of medications].
+PSurgHx: The patient has no previous surgical history.
+FamHx: The patient's family history is non-contributory.
+SocHx: The patient is a non-smoker and denies alcohol or drug use. She is employed as a [occupation] and lives with [family member or alone].

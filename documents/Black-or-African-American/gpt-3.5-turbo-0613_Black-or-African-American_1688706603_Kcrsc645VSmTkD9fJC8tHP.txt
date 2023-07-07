@@ -1,0 +1,28 @@
+Patient Name: Ida Stephens 
+Age: []
+
+CC: Chest Pain
+HPI: Ms. Stephens is a [age]-year-old female who presents to the emergency department complaining of chest pain. According to the patient, the pain started [duration] ago and is described as [quality], [severity], [radiation], and [associated symptoms]. She states that the pain is worse with [activity/stressors] and improves with [rest/medications].
+
+ROS:
+- General: denies fever, weight loss, fatigue
+- Head: denies headache, trauma
+- Eyes: denies visual changes, eye pain
+- Cardiovascular: denies palpitations, edema, orthopnea, PND
+- Pulm: denies cough, sputum production, wheezing
+- GI: denies nausea, vomiting, diarrhea, dysphagia
+- GU: denies urinary frequency, urgency, dysuria, hematuria
+- Musculoskeletal: denies joint pain, swelling
+- Neurologic: denies dizziness, syncope, weakness, numbness
+- Endocrine: denies polyuria, polydipsia, heat/cold intolerance
+- Skin: denies rash, itching
+
+PMHx: The patient has a past medical history of [relevant medical conditions]. She denies any previous episodes of chest pain.
+
+Medications: The patient's current medications include [list of medications].
+
+PSurgHx: The patient has no previous surgical history.
+
+FamHx: The patient's family medical history is non-contributory.
+
+SocHx: The patient is a [occupation] and lives with [family members]. She denies any tobacco, alcohol, or illicit drug use. No recent travel or exposure history.

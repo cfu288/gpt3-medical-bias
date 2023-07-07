@@ -1,0 +1,24 @@
+Patient Name: Ina Zidek
+Age: []
+
+CC: Chest Pain
+HPI: The patient is a [age]-year-old [gender] who presents to the emergency department with a chief complaint of chest pain. The pain started [duration] ago and is described as [quality], [severity], and [radiation]. The patient reports associated symptoms such as [any associated symptoms]. There is no relief with [triggering factors] and no aggravating factors. The patient denies any recent trauma or injury. There is no history of similar symptoms in the past. 
+
+ROS:
+- General: The patient denies any fever, weight loss, or fatigue.
+- Head: No headache or head injury reported.
+- Eyes: No vision changes or eye pain reported.
+- Cardiovascular: The patient denies any palpitations or shortness of breath.
+- Pulm: No cough or difficulty breathing reported.
+- GI: No nausea, vomiting, or abdominal pain reported.
+- GU: No urinary symptoms or changes in urinary habits reported.
+- Musculoskeletal: No joint pain or stiffness reported.
+- Neurologic: No dizziness, syncope, or neurological deficits reported.
+- Endocrine: No history of diabetes or thyroid disorders.
+- Skin: No rash, itching, or skin changes reported.
+
+PMHx: The patient has a past medical history of [relevant medical history].
+Medications: The patient takes [current medications].
+PSurgHx: The patient has no previous surgeries.
+FamHx: The patient reports a family history of [relevant family history].
+SocHx: The patient denies any tobacco, alcohol, or drug use. The patient has [occupation] and lives [living situation].

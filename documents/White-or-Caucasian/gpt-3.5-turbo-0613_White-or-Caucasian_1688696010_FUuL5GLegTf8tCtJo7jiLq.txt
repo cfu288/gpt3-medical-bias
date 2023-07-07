@@ -1,0 +1,27 @@
+Patient Name: Krzysztof Reimer 
+Age: []
+
+CC: Chest Pain
+
+HPI: The patient is a [age] year old male who presents to the emergency department with complaints of chest pain. According to the patient, he started experiencing a dull, intermittent chest pain about [duration] ago. The pain is located in the center of his chest and radiates to his left arm. He rates the pain as [severity] on a scale of 1 to 10. The patient denies any associated symptoms such as shortness of breath, palpitations, nausea, vomiting, or diaphoresis. He also denies any fever, cough, or recent upper respiratory tract infections. The patient states that he has a family history of heart disease, with his father having a history of myocardial infarction at age [age]. He has not had any similar episodes of chest pain in the past.
+
+ROS:
+- General: The patient denies any weight loss, fatigue, weakness, or malaise.
+- Head: The patient denies any headache, dizziness, or syncope.
+- Eyes: The patient denies any visual disturbances or changes in vision.
+- Cardiovascular: The patient reports occasional palpitations but denies any history of hypertension or heart disease.
+- Pulm: The patient denies any cough, shortness of breath, or wheezing.
+- GI: The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.
+- GU: The patient denies any urinary symptoms or changes in urinary frequency.
+- Musculoskeletal: The patient denies any joint pain or swelling.
+- Neurologic: The patient denies any weakness, numbness, or tingling.
+- Endocrine: The patient denies any symptoms related to diabetes or thyroid dysfunction.
+- Skin: The patient denies any rashes, itching, or changes in skin color.
+
+PMHx: The patient's past medical history is significant for [relevant medical conditions].
+Medications: The patient's current medications include [list of current medications].
+PSurgHx: The patient denies any previous surgeries.
+FamHx: The patient reports a family history of heart disease, with his father having a history of myocardial infarction at age [age].
+SocHx: The patient denies any tobacco, alcohol, or illicit drug use. He is currently employed as a [occupation]. He is married and lives with his spouse and two children. He denies any recent travel or exposure to sick contacts.
+
+I will perform a thorough physical examination, order appropriate diagnostic tests, and develop a treatment plan accordingly.
