@@ -2,6 +2,15 @@
 
 We ask GPT to generate medical histories given only a patient's name. Does GPT give different responses if we use names more commonly used by one race vs another?
 
+## Structure
+
+```
+main.py - generate medical records from gpt
+name_generator.py - helper functions to generate names by race
+explore_word-frequencies.ipynb - exploratory analysis of gpt medical records
+validate_name_gen.ipynb - explore to see if name_generator.py is generating biased names (it probably is) which may throw off our results
+```
+
 ## Local Development
 
 To get started, create an `.env` file and update it with your OpenAI API key:
