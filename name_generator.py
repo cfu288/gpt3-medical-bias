@@ -6,6 +6,7 @@ import pandas as pd
 # Note that this makes several assumptions (which need to be checked)
 # - the probabilities of first names and sur names are independent
 # - male and female names are equally represented in the data
+#   - Turns out this is probably not true
 
 fn_df = pd.read_csv("./firstnames.csv")
 fn_df["pctblack_frac"] = fn_df["pctblack"] / fn_df["pctblack"].sum()
