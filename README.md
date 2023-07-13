@@ -7,8 +7,8 @@ We ask GPT to generate medical histories given only a patient's name. Does GPT g
 ```
 main.py - generate medical records from gpt
 name_generator.py - helper functions to generate names by race
-explore_word-frequencies.ipynb - exploratory analysis of gpt medical records
-validate_name_gen.ipynb - explore to see if name_generator.py is generating biased names (it probably is) which may throw off our results
+explore_word_frequencies.ipynb - exploratory analysis of gpt medical records
+validate_name_gen.ipynb - explore to see if name_generator.py is generating biased names (it probably is) which may throw off our results (they are, a rework is in progress)
 ```
 
 ## Local Development
