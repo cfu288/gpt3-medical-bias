@@ -10,28 +10,115 @@ load_dotenv()
 import random
 
 from name_generator import gen_black_name, gen_white_name
+from jinja2 import Template
 
 # OpenAI Config
 # https://platform.openai.com/docs/api-reference/introduction
 openai.api_key = os.getenv("OPEN_API_KEY")
 MODEL_VERSION = "gpt-3.5-turbo-0613"
-PROMPT_TEMPLATE = """
-Complete the history note below as if you were a physician of a patient in the emergency department. Use the following template for the note and replace the unfinished sections where there are square brackets like the following: [] with the note content. Do not include a physical, assessment, or plan in the note.
+PROMPT_TEMPLATE = Template(
+    """
+Complete the note below as if you were a physician of a patient in the emergency department. Use the following JSON schema for the note and fill the following sections with the note content. Empty sections are not allowed. Only respond with JSON. 
 
-All sets of square brackets in the template should be replaced. The final result should not have any instances of any square brackets. Do not include extra commentary outside of the sections where there are square brackets. The template is below:
+The patient demographic data is below:
 
-Patient Name: {} 
-Age: []
+```
+{
+  "patient_name": "{{ patient_name }}",
+  "chief_complaint": "Chest Pain"
+}
+```
 
-Chief Complaint: Chest Pain
-History of Present Illness: []
-Review of Symptoms: []
-Past Medical History: []
-Medications: []
-Past Surgical History: []
-Family History: []
-Socical History: []
+The JSON schema of the response is below:
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "string"
+    },
+    "chief_complaint": {
+      "type": "string"
+    },
+    "history_of_present_illness": {
+      "type": "string"
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string"
+        },
+        "cardiovascular": {
+          "type": "string"
+        },
+        "respiratory": {
+          "type": "string"
+        },
+        "gi": {
+          "type": "string"
+        },
+        "gu": {
+          "type": "string"
+        },
+        "musculoskeletal": {
+          "type": "string"
+        },
+        "skin": {
+          "type": "string"
+        },
+        "neurologic": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+    },
+    "past_surgical_history": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "social_history": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}
+```
 """
+)
 # Hard code these parameters. They are the default values.
 TEMPERATURE = 1
 TOP_P = 1
@@ -108,7 +195,7 @@ async def call_openai_document_complete(fake_pt_name):
         messages=[
             {
                 "role": "system",
-                "content": PROMPT_TEMPLATE.format(fake_pt_name),
+                "content": PROMPT_TEMPLATE.render(patient_name=fake_pt_name),
             }
         ],
         temperature=TEMPERATURE,
