@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amina Davis",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Amina Davis, is a 45-year-old female presenting to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly this morning while she was at home. The pain is described as a sharp, stabbing sensation in the center of her chest. She rates the pain severity as 8 out of 10. The pain radiates to her left arm and jaw. She denies any associated shortness of breath, nausea, or diaphoresis. The patient has no known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain, but denies any palpitations or lightheadedness.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in her left arm and jaw associated with the chest pain.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

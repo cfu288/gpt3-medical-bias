@@ -1,0 +1,21 @@
+{
+  "patient_name": "Soren Sigler",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a dull, pressure-like sensation located in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has not resolved. He denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and smokes half a pack of cigarettes per day. He is currently on medication for his hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes lisinopril 20mg once daily for his hypertension.",
+  "past_surgical_history": "Negative",
+  "family_history": "Father had a history of myocardial infarction at age 55.",
+  "social_history": "Patient smokes half a pack of cigarettes per day. Denies alcohol or illicit drug use."
+}

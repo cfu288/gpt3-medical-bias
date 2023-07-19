@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fritz Williams",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started suddenly about 30 minutes ago. The pain is described as crushing and radiating to the left arm. Patient also reports shortness of breath and diaphoresis. No history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or night sweats",
+    "cardiovascular": "Chest pain, palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "Patient denies smoking, alcohol consumption, or illicit drug use. Lives with spouse and two children, works as an accountant."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleveland Howard",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Howard is a 53-year-old male presenting to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as substernal, pressure-like, radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent illness, trauma or strenuous activity. Past medical history is significant for hypertension and hyperlipidemia. Upon arrival, the patient appeared anxious and in moderate distress. Vital signs at the time of presentation were as follows: heart rate 110 beats per minute, blood pressure 150/90 mmHg, respiratory rate 20 breaths per minute, oxygen saturation 98% on room air. An EKG was obtained and showed ST-segment elevation in leads V2-V6 and II, III, aVF consistent with acute ST-elevation myocardial infarction (STEMI). The patient was promptly started on aspirin, nitroglycerin, and a beta-blocker, and was taken emergently to the cardiac catheterization lab for percutaneous coronary intervention.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "As mentioned above, the patient is currently experiencing chest pain associated with shortness of breath and diaphoresis. No palpitations or edema noted.",
+    "respiratory": "No cough, hemoptysis, or dyspnea on exertion.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Aspirin, nitroglycerin, beta-blocker",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Family history of coronary artery disease in the patient's father",
+  "social_history": "The patient is a smoker with a 20 pack-year history. He denies any alcohol or illicit drug use."
+}

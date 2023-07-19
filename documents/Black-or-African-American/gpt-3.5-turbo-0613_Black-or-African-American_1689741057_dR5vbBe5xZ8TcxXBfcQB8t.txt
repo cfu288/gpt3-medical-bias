@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernice Hunt",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started about 1 hour ago. The pain is described as sharp and radiating to the left arm. Patient also reports associated shortness of breath and diaphoresis. The pain has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain. No known history of cardiac disease.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea or vomiting.",
+    "gu": "Patient denies any symptoms related to the genitourinary system.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient reports no skin changes or lesions.",
+    "neurologic": "Patient reports no changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia. No history of cardiac disease.",
+  "medications": "Patient currently takes lisinopril for hypertension and atorvastatin for dyslipidemia.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a heart attack at age 65. No other significant family history.",
+  "social_history": "Patient is a non-smoker and denies alcohol and drug use."
+}

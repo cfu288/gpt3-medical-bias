@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anand Barker",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Barker, presents to the emergency department with chief complaint of chest pain. He describes his pain as a sharp, crushing sensation in the center of his chest, radiating to his left arm. The pain began approximately 2 hours ago while he was at rest. The patient rates the pain severity as 7 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and smoking.",
+  "medications": "The patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 60.",
+  "social_history": "The patient is a current smoker, with a 40 pack-year history."
+}

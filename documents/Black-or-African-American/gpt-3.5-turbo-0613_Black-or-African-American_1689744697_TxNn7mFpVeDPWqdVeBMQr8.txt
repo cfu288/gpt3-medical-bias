@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chantelle Smith",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about an hour ago while she was watching TV at home. The pain is described as a sharp, stabbing sensation in the center of her chest. The pain is not radiating to the arms or shoulders. She denies any shortness of breath, lightheadedness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash, itching, or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or movement"
+  },
+  "past_medical_history": "Patient has a history of hypertension",
+  "medications": "The patient takes lisinopril 10mg daily for her hypertension",
+  "past_surgical_history": "Patient had a cholecystectomy in 2018",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol"
+}

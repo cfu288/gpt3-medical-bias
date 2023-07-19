@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chuck Niles",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Chuck Niles, presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest, radiating down his left arm. The pain started approximately 2 hours ago and has been constant since then. The patient rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia. He takes medications for these conditions but is unable to recall the names of the medications. The patient denies any recent surgeries. His father and grandfather both had a history of heart disease. The patient works as a construction worker and has a 30-pack-year smoking history. He does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient does not report any palpitations or dyspnea on exertion.",
+    "respiratory": "The patient denies any cough, hemoptysis, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient does not report any joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, but is unable to recall their names.",
+  "past_surgical_history": "The patient denies any past surgeries.",
+  "family_history": "The patient's father and grandfather both had a history of heart disease.",
+  "social_history": "The patient works as a construction worker and has a 30-pack-year smoking history. He does not consume alcohol."
+}

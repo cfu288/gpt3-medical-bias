@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Karim Walter",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain began approximately 1 hour ago and is described as a sharp, stabbing pain in the central chest. He rates the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He does not have any history of similar chest pain in the past. The pain is not relieved with rest and is worsened with deep breathing and movement.",
+  "review_of_symptoms": {
+    "constitutional": "There are no related constitutional symptoms such as fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any history of heart disease, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "There are no related gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "There are no related genitourinary symptoms such as dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient reports no recent injuries or musculoskeletal pain.",
+    "skin": "There are no related skin symptoms such as rashes or lesions.",
+    "neurologic": "The patient denies any history of seizures, loss of consciousness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes losartan 50mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

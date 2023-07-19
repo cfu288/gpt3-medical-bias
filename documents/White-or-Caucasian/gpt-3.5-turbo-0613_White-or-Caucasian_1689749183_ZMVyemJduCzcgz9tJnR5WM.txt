@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sunita Harris",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe chest pain that started 2 hours ago. She describes the pain as a pressure-like sensation that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. She denies any recent trauma or injury to the chest.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and weakness.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis as described above.",
+    "respiratory": "Negative for cough, sputum production, and chest congestion.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, and changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, and hematuria.",
+    "musculoskeletal": "Negative for recent trauma or injury.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, and changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at age 60.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

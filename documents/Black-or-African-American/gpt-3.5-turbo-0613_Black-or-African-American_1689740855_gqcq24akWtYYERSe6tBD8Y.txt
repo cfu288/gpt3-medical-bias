@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleo Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cleo Jones, a 45-year-old female, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago and is described as a substernal, squeezing sensation that radiates to the left arm. She rates the pain as 9/10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, sweats, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and simvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "Negative for family history of cardiac disease or sudden cardiac death.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

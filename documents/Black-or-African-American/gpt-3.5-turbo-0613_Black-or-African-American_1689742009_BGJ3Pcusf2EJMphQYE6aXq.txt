@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alix Taylor",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started about 2 hours ago. The pain is constant and localized to the center of the chest. The pain is described as crushing and burning, and it radiates to the left arm. The patient also reports shortness of breath and dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, no shortness of breath at rest or with exertion, no palpitations.",
+    "respiratory": "Positive for shortness of breath, no cough or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient had an appendectomy in childhood.",
+  "family_history": "No family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reginald Murray",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Murray, presented to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly about 2 hours ago and is located in the center of his chest. The pain is described as a pressure-like sensation and he rates it as 8 out of 10 in severity. The pain is radiating to his left arm and jaw. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has no history of similar symptoms in the past. He has no known cardiac history and denies any risk factors for heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports the chest pain as the primary cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in the left arm in addition to the chest pain.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions.",
+  "medications": "lisinopril, atorvastatin",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. Other family members have no history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He has a sedentary lifestyle and does not engage in regular physical exercise."
+}

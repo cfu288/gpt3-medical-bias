@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shelagh Meyer",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shelagh Meyer, a 47-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports the pain started suddenly about 2 hours ago while she was at rest. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain is associated with shortness of breath. She denies any other symptoms such as nausea, diaphoresis, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No known history of heart disease. No palpitations or orthopnea.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. Her mother has hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

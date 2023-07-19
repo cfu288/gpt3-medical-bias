@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bassam Jovanovich",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Bassam Jovanovich presents to the emergency department with a chief complaint of chest pain. The chest pain started approximately 2 hours ago while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient rates the pain as 8 out of 10 on the pain scale. The patient denies any other associated symptoms such as shortness of breath, dizziness, or nausea. Cardiac risk factors include a history of smoking and a family history of coronary artery disease. EKG was performed in triage, and it shows ST-segment elevation in leads V2 to V5. Given the possibility of an acute myocardial infarction, the patient was immediately brought to the resuscitation bay for further evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, numbness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes losartan and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

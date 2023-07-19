@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Farmer",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Norris Farmer, is a 45-year-old male who presented to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a sharp, squeezing pain in the center of the chest. He rates the pain severity as 8 out of 10. The pain is radiating to his left arm and jaw. Additionally, he reports shortness of breath and diaphoresis. The patient denies any recent trauma or injury. He has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. He denies palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath. He denies cough or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria or frequency.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies rashes or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no family history of cardiovascular diseases.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}

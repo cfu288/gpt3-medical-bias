@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Janis Ellison",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Janis Ellison, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago and is described as a sharp, stabbing sensation that radiates to her left arm. She rates the pain as 8 out of 10 in intensity. The pain has not improved with rest or over-the-counter pain medication. She denies any shortness of breath, nausea, or diaphoresis. Upon further questioning, she reports a history of hypertension and high cholesterol, for which she takes prescribed medications. She denies any recent illnesses or injuries. She also denies any recent travel or exposure to sick contacts. She has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or lightheadedness.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and high cholesterol.",
+  "medications": "The patient takes prescribed medications for hypertension and high cholesterol but does not recall the names.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

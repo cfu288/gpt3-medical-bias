@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gus Umlah",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived in the emergency department complaining of chest pain. He describes the pain as a pressure-like sensation that radiates to his left arm. He rates the intensity of the pain as 7 out of 10. The pain started approximately 2 hours ago and has been continuous since then. Patient denies any shortness of breath, dizziness, or diaphoresis. No alleviating or exacerbating factors identified.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain reported as chief complaint.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "Left arm pain reported as radiating from chest pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had myocardial infarction at age 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

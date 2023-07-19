@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millie Mcgraw",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Millie Mcgraw, a 45-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started approximately 2 hours ago. She describes the pain as a sharp, squeezing sensation, radiating down her left arm. She denies any shortness of breath, palpitations, or diaphoresis. Millie states that she has a history of hypertension and takes medication for it. She has never experienced this type of pain before and is concerned it could be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, radiating down left arm",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or confusion"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for hypertension in mother",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

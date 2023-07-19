@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tonja Brewer",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of chest pain that started approximately 2 hours ago. The pain is described as a sharp, stabbing pain in the center of the chest. It is worsened with deep breathing and movement, and it is slightly relieved with rest. The patient denies any associated symptoms such as shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or syncope.",
+    "respiratory": "Patient denies cough or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and simvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of heart disease, with her father having suffered a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use. She works as a secretary and is married with two children."
+}

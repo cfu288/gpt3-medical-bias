@@ -1,0 +1,21 @@
+{
+  "patient_name": "Federico Williamson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Federico Williamson, a 45-year-old male, presents to the emergency department complaining of chest pain that started suddenly about an hour ago. The pain is described as a squeezing and pressure-like sensation in the center of the chest. He also reports radiation of the pain to his left arm and jaw. The pain is accompanied by shortness of breath and sweating. He denies any associated symptoms such as nausea, vomiting, or dizziness. The patient has a past medical history significant for hypertension and hyperlipidemia. He is not currently taking any medications. His past surgical history is unremarkable. The patient denies any family history of heart disease. Socially, he is a non-smoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain with radiation to left arm and jaw",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, no alcohol or illicit drug use"
+}

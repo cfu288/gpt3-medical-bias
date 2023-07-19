@@ -1,0 +1,21 @@
+{
+  "patient_name": "Trevor Giddens",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Giddens is a 52-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as palpitations, diaphoresis, or lightheadedness. He states that the pain is not relieved with rest and is of moderate severity.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations, diaphoresis, or lightheadedness.",
+    "respiratory": "Positive for shortness of breath associated with chest pain. Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urgency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a current smoker with a 20-pack-year history. He works as a construction worker and denies any illicit drug use."
+}

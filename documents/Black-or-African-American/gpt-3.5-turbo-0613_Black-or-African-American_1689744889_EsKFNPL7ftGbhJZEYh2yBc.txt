@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mahmoud Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 3 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is worsened with deep inspiration and is accompanied by shortness of breath. The patient denies any associated symptoms such as diaphoresis or radiation of the pain. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension, but denies any previous history of myocardial infarction, congestive heart failure, or arrhythmias.",
+    "respiratory": "The patient reports a history of smoking 1 pack of cigarettes per day for the past 20 years, but denies any chronic cough or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any history of headaches or neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecile Jones",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaint of chest pain. Pain is described as a sharp, stabbing sensation in the center of the chest. Pain started approximately 1 hour ago while the patient was resting. Patient denies any shortness of breath, diaphoresis, or radiation of pain. Patient rates pain intensity as 7 out of 10 on the pain scale. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or lightheadedness",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for these conditions.",
+  "medications": "Lisinopril 20mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had myocardial infarction at age 65",
+  "social_history": "Patient is a former smoker, quit 10 years ago. Drinks alcohol occasionally."
+}

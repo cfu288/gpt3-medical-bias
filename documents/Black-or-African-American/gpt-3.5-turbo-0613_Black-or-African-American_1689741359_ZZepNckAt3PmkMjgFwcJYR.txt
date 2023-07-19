@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodrick Sloan",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Sloan presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago, while he was at rest. He described the pain as a heavy pressure in the center of his chest that radiates to his left arm. The pain has not resolved and is not relieved with rest or nitroglycerin. He denies any associated shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or malaise.",
+    "cardiovascular": "Positive for chest pain as described. Negative for palpitations or syncope.",
+    "respiratory": "Negative for dyspnea or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Hypertension, well controlled with medications. Type 2 diabetes, well controlled with diet and exercise. No known history of coronary artery disease.",
+  "medications": "Lisinopril 10 mg daily for hypertension. Metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "Appendectomy in 2005.",
+  "family_history": "Negative for family history of coronary artery disease or other cardiac conditions.",
+  "social_history": "Non-smoker. Drinks alcohol occasionally. Works as a software engineer and denies any significant occupational exposures."
+}

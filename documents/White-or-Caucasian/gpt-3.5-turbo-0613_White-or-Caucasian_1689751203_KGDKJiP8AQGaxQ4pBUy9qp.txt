@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vladimir Wendt",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. Patient describes the pain as a squeezing sensation in the center of the chest, radiating to the left arm. Pain is rated 7/10 in severity and is associated with shortness of breath and diaphoresis. Patient denies any prior episodes of chest pain or similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued in the past few days.",
+    "cardiovascular": "Patient reports no history of cardiovascular symptoms such as palpitations or syncope.",
+    "respiratory": "Patient denies any respiratory symptoms such as cough or wheezing.",
+    "gi": "Patient denies any gastrointestinal symptoms such as nausea or vomiting.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms such as joint pain or swelling.",
+    "skin": "Patient denies any abnormal skin findings.",
+    "neurologic": "Patient denies any neurologic symptoms such as headaches or dizziness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and dyslipidemia.",
+  "medications": "Patient is currently taking amlodipine for hypertension and atorvastatin for dyslipidemia.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

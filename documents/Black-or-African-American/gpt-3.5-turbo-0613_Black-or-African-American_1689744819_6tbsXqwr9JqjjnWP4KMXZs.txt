@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnestine Jackson",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Earnestine Jackson, a 58-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The pain has not radiated to any other part of the body. The patient denied any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain is constant and has not changed in intensity since it started. The pain did not improve with rest. She denies any recent trauma or injury. On further questioning, she reports a history of hypertension and hyperlipidemia. She is currently taking medications for these conditions as prescribed. She denies any other significant past medical history or surgical history. She does not have any family history of cardiovascular diseases. Her social history is significant for smoking 1 pack of cigarettes per day for the past 20 years. She denies any use of alcohol or illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or exertional dyspnea.",
+    "respiratory": "The patient denies any shortness of breath, cough, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Medication A for hypertension, Medication B for hyperlipidemia",
+  "past_surgical_history": "",
+  "family_history": "No family history of cardiovascular diseases.",
+  "social_history": "The patient has a 20-year history of smoking 1 pack of cigarettes per day."
+}

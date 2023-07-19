@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Quincy Dudley",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. Pain is a crushing sensation radiating to the left arm, and has been persistent for the past hour. Patient denies any associated shortness of breath, diaphoresis, or nausea. No known precipitating factors. Patient rates pain as 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Patient reports chest pain, but denies palpitations or lightheadedness.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or genital abnormalities reported.",
+    "musculoskeletal": "Patient reports no joint pain or stiffness.",
+    "skin": "No rashes, itchiness, or changes in skin color.",
+    "neurologic": "No history of headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Current medications include lisinopril 10 mg daily and atorvastatin 40 mg daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient has no known previous surgeries.",
+  "family_history": "No significant family history of cardiovascular diseases.",
+  "social_history": "Patient is a nonsmoker, does not consume alcohol, and denies illicit drug use. Patient is employed as an office worker with no current sources of stress at work or at home."
+}
+```

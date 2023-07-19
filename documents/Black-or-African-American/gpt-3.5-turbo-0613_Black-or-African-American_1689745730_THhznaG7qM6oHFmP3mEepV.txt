@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnson Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain that started 2 hours ago. The pain is described as a sharp, squeezing pain in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath and sweating. The patient denies any previous episodes of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in their father.",
+  "social_history": "The patient has a 10 pack-year smoking history and drinks alcohol occasionally."
+}

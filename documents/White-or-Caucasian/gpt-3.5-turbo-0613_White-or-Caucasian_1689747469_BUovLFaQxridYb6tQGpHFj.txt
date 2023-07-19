@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wende Barber",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Wende Barber, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain has been intermittent for the past 4 hours and is located in the center of her chest. She describes the pain as a burning sensation that radiates to her back. The pain is worsened with deep breaths and movement. She denies any associated shortness of breath, diaphoresis, or lightheadedness. She states that she has never had a similar episode in the past. Upon further questioning, she reports no recent trauma or injury. Vital signs upon arrival are as follows: blood pressure 126/80 mmHg, heart rate 78 beats per minute, respiratory rate 16 breaths per minute, oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Negative for palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or changes in speech or vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, both of which are well-controlled with medications. She has no history of coronary artery disease or other cardiac disorders.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of cardiac or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office administrator and lives with her husband and two children."
+}
+```

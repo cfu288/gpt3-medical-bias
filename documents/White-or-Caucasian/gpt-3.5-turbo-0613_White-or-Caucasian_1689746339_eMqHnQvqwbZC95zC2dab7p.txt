@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Miroslaw Reyes",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Reyes, is a 45-year-old male who presented to the emergency department with complaints of chest pain. He described the pain as a sharp, stabbing sensation that started 2 hours ago and is located predominantly in the center of his chest. The pain radiates to his left arm and is associated with shortness of breath and diaphoresis. The patient denies any history of chest pain or cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, or visual changes."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension that is well controlled with medication. He denies any other significant medical conditions.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any cardiovascular disease.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}
+```

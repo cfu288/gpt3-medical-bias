@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bob Luhman",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Luhman, is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest that radiates to his left arm. He states that the pain started approximately 2 hours ago and has been constant since then. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin.",
+  "medications": "Metoprolol, atorvastatin",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

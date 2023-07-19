@@ -1,0 +1,21 @@
+{
+  "patient_name": "Truman Sailor",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain started 2 hours ago while the patient was at rest. Patient describes the pain as a squeezing sensation in the center of the chest, radiating to the left arm. Patient denies any associated shortness of breath, diaphoresis, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "Patient reports chest pain.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "Patient denies headaches, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Patient is on medications for these conditions.",
+  "medications": "Patient takes Lisinopril and Atorvastatin.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and does not drink alcohol."
+}

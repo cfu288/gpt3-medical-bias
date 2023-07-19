@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamal Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Brown presented to the emergency department with complaints of sudden onset severe chest pain that began while he was watching TV at home. He described the pain as a crushing sensation in the center of his chest that radiates to his left arm and jaw. The pain has been constant since it started and is associated with shortness of breath. He denies any palpitations or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and takes medications for it. He denies any history of angina or myocardial infarction.",
+    "respiratory": "Patient denies any cough, hemoptysis, or shortness of breath prior to this episode.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any trauma or recent injuries.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headaches, syncope, or seizures."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No relevant family history",
+  "social_history": "Patient is a lifetime non-smoker, denies any alcohol or illicit drug use."
+}

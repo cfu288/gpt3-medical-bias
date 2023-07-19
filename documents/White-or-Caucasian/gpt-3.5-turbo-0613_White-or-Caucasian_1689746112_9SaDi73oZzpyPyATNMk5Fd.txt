@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bart Thomas",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bart Thomas, a 42-year-old man, presented to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the severity of the pain as 8/10. He denies any associated symptoms, such as shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension but denies any prior episodes of chest pain or heart attack.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any recent trauma or musculoskeletal pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any neurological symptoms, such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine for management. He has no other significant past medical history.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of hypertension but no history of coronary artery disease or myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married and works as a software engineer."
+}

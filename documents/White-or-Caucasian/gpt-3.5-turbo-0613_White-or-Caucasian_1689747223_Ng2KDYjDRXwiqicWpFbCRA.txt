@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Malissa Kalpakoff",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Malissa Kalpakoff, a 45-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. The patient rates the pain as 8/10 in severity. She denies any associated shortness of breath, diaphoresis, or lightheadedness. Upon arrival, the patient denied using any nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations and edema.",
+    "respiratory": "Negative for cough, shortness of breath, and wheezing.",
+    "gi": "Negative for nausea, vomiting, and abdominal pain.",
+    "gu": "Negative for dysuria and hematuria.",
+    "musculoskeletal": "Negative for joint pain and stiffness.",
+    "skin": "Negative for rash and bruising.",
+    "neurologic": "Negative for headache and dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

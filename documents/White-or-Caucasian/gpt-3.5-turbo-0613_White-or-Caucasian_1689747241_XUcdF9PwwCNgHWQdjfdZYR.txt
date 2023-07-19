@@ -1,0 +1,21 @@
+{
+    "patient_name": "Steve Alt",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Mr. Steve Alt, a 45-year-old male, presents to the emergency department with complaints of severe chest pain. The pain began approximately 2 hours ago and is described as a crushing, pressure-like sensation in the center of the chest. It radiates to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or exertion. He states that the pain is not relieved with rest or nitroglycerin. He has no previous history of similar episodes.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, or weight loss.",
+        "cardiovascular": "Patient has a history of hypertension and takes metoprolol.",
+        "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+        "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+        "gu": "Patient denies dysuria, frequency, or urgency.",
+        "musculoskeletal": "Patient denies any joint pain or swelling.",
+        "skin": "Patient denies any rashes or lesions.",
+        "neurologic": "Patient denies headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Patient has a history of hypertension and takes metoprolol.",
+    "medications": "Metoprolol 50mg daily",
+    "past_surgical_history": "No previous surgeries",
+    "family_history": "No significant family history of cardiac disease",
+    "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

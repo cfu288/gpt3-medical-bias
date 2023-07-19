@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clayton James",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Clayton James, presents to the emergency department with complaints of chest pain. He describes the pain as a dull ache that started about 2 hours ago. He rates the pain as a 6/10 and states that it radiates to his left arm. He denies any shortness of breath, nausea, or palpitations. He has no prior history of angina or heart disease. Vital signs are stable upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fevers, or chills.",
+    "cardiovascular": "The patient reports chest pain as his only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of some mild discomfort in his left arm, but denies any joint pain or weakness.",
+    "skin": "The patient denies any rashes or skin abnormalities.",
+    "neurologic": "The patient denies any neurologic symptoms such as headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions. His current blood pressure is 130/80 mmHg and his heart rate is 80 beats per minute.",
+  "medications": "The patient takes lisinopril 10 mg daily for his hypertension and atorvastatin 20 mg daily for his hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 65.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He drinks alcohol occasionally, usually one to two glasses of wine per week."
+}

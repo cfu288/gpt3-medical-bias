@@ -1,0 +1,21 @@
+{
+  "patient_name": "Margot Norris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Margot Norris, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the center of the chest. The pain is described as a squeezing or pressure-like sensation and is associated with shortness of breath and diaphoresis. The patient denies any radiation of pain, palpitations, or dizziness. The pain is not relieved with rest and worsens with exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

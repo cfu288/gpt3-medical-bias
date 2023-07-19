@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adria Swanner",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presenting to the Emergency Department with complaints of chest pain. Pain is described as a sharp, stabbing sensation located in the center of the chest. Pain started approximately 2 hours ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. Patient reports that the pain is worse with deep breathing and movement. Pain is not relieved with over-the-counter pain medications. Patient has no prior history of similar symptoms. No known cardiac or respiratory conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports occasional back pain but no recent injuries or trauma.",
+    "skin": "No skin changes or lesions reported.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies, well-controlled with inhalers and antihistamines, respectively.",
+  "medications": "Albuterol inhaler as needed for asthma and cetirizine daily for allergies.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of heart disease, respiratory conditions, or other relevant illnesses.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

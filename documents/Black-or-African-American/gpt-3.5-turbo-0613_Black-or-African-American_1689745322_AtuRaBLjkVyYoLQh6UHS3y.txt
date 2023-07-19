@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilfred Smith",
+  "age": "68 years old",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Smith presents to the emergency department with complaints of chest pain. He reports that the pain started approximately 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation, which radiates to his left arm. The pain is accompanied by shortness of breath. The patient denies any associated symptoms such as nausea, vomiting, or diaphoresis. He has no prior history of similar symptoms. Mr. Smith states that the pain is worsening and is concerned that it might be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or itching",
+    "neurologic": "No headaches or weakness"
+  },
+  "past_medical_history": "Mr. Smith has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "There is a family history of coronary artery disease in Mr. Smith's father and brother.",
+  "social_history": "Mr. Smith is a retired accountant and has been living a sedentary lifestyle. He does not smoke or use illicit drugs. He drinks alcohol socially."
+}

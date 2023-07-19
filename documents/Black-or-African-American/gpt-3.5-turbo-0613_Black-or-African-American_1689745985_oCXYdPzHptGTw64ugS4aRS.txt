@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrietta Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Henrietta Thomas, a 45-year-old female, presents with a chief complaint of chest pain. She reports that the pain started suddenly approximately 2 hours ago while she was resting at home. She describes the pain as a tightness and pressure in the center of her chest that radiates to her left arm. The pain is persistent and she rates its severity as an 8/10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no history of similar episodes in the past. The pain has not improved with rest or over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fatigue or weight loss.",
+    "cardiovascular": "Positive for chest pain described above. Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, which are both well-controlled with medications.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at age 55. Mother is alive with no significant medical history. No family history of cancer or other hereditary diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works in an office setting and is married with two children."
+}

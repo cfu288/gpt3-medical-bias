@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hank Coin",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Coin presents to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly about an hour ago and is a squeezing sensation in the center of his chest. He rates the pain as a 7 out of 10 and describes it as radiating to his left arm. He also reports feeling short of breath and lightheaded. He denies any nausea, vomiting, or diaphoresis. He has no prior history of similar chest pain. Patient denies any recent illness, physical exertion, or emotional stress that could have triggered the symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient states he feels generally unwell.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms.",
+    "skin": "Patient denies any skin symptoms.",
+    "neurologic": "Patient reports feeling lightheaded."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient reports a family history of heart disease in his father.",
+  "social_history": "Patient is a smoker with a 20 pack-year history. He does not drink alcohol."
+}

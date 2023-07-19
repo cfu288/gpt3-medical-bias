@@ -1,0 +1,27 @@
+{
+  "patient_name": "Susie Triplett",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Susie Triplett, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of her chest. The pain is 7/10 in intensity and radiates to her left arm. She denies any shortness of breath, nausea, or diaphoresis. She states that she has never experienced this type of pain before and it is causing her significant distress. She has no known cardiac history and denies any recent trauma or injury. On arrival, she was alert and oriented with stable vital signs. The pain has not subsided despite taking over-the-counter pain medication.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations or prior episodes of chest pain.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any recent trauma or injuries.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any changes in sensation, strength, or coordination."
+  },
+
+  "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril 10 mg daily. She has no known allergies.",
+
+  "medications": "Lisinopril 10 mg daily for hypertension",
+
+  "past_surgical_history": "The patient has no history of surgeries.",
+
+  "family_history": "The patient's family history is negative for any significant cardiac, respiratory, or neurological conditions.",
+
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a teacher and denies any recent travel or exposure to sick contacts."
+}

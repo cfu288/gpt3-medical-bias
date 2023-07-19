@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vikki Jackson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Vikki Jackson, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a sharp, squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8/10 and reports feeling shortness of breath and nausea. She denies any recent trauma or injury. The patient has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in the left arm and jaw.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any changes in vision or neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

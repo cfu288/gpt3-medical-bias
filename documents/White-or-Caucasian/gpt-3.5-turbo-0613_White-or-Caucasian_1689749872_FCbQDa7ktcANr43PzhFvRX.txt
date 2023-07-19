@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abram Killian",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Killian presents to the emergency department today with a chief complaint of chest pain. He describes the pain as a pressure-like sensation in the center of his chest that started approximately one hour ago. The pain is intermittent and worsens with exertion. He denies any shortness of breath, palpitations, lightheadedness, or radiation of the pain to his arms or jaw. He has no history of angina or heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for intermittent chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Killian has a history of hypertension and hyperlipidemia. He takes lisinopril 20mg daily and atorvastatin 40mg daily for these conditions.",
+  "medications": "lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease or other chronic illnesses.",
+  "social_history": "Mr. Killian is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Milo Bristow",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bristow presents to the emergency department with a chief complaint of chest pain. He reports that he started experiencing the pain approximately 2 hours ago. The pain is located in the center of his chest and is described as a squeezing sensation. He rates the severity of the pain as 8 out of 10. The pain radiates to his left arm and jaw. He denies any associated shortness of breath, nausea, or diaphoresis. He has no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain, denies palpitations.",
+    "respiratory": "Patient denies shortness of breath, cough, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient reports left arm pain.",
+    "skin": "Patient denies rashes or itching.",
+    "neurologic": "Patient denies headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, but is currently not taking any medication.",
+  "medications": "None",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in his father.",
+  "social_history": "Patient is a smoker with a 10-pack-year smoking history. He drinks alcohol occasionally, but denies any illicit drug use."
+}

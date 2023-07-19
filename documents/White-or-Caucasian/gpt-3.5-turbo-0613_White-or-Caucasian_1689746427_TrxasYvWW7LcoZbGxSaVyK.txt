@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nelson Meyer",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Meyer presents to the emergency department with complaints of chest pain. The pain started suddenly about an hour ago and is described as a squeezing sensation in the center of his chest. He rates the pain as 8 out of 10 in intensity. He also reports associated shortness of breath and diaphoresis. The pain radiates down his left arm. He denies any nausea or vomiting. He has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies any urinary symptoms",
+    "musculoskeletal": "Denies any joint pain or swelling",
+    "skin": "Denies any rashes or sores",
+    "neurologic": "Denies any headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg PO daily, Atorvastatin 20mg PO daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

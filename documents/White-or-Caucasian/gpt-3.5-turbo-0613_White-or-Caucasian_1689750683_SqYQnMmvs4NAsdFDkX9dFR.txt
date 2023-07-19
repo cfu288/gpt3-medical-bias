@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lucie Hart",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, squeezing sensation located in the center of the chest. The pain radiates down the left arm and is associated with shortness of breath. The patient rates the pain as 8/10 on the pain scale. She states that the pain is worse with deep breaths and lying down.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Pain in the chest. No previous history of heart disease.",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No numbness or tingling"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Mother with hypertension and father with diabetes",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

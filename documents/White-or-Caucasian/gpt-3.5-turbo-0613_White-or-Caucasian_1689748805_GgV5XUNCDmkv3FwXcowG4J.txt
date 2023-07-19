@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rod Davidson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rod Davidson, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a tightness in the center of his chest, which started approximately 2 hours ago. The pain is radiating to his left arm and is associated with shortness of breath. He denies any other associated symptoms or precipitating factors. The pain is not relieved with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin for these conditions.",
+  "medications": "Metoprolol 50 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He consumes alcohol occasionally."
+}

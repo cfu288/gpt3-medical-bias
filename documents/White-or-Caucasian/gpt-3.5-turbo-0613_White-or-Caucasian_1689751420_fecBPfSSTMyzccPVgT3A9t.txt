@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Inna Kaplow",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the Emergency Department with complaints of sudden onset chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is exacerbated by deep breathing and movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "Patient had an appendectomy at age 10.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

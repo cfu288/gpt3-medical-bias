@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cheryl Miller",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Miller is a 42-year-old female who presented to the emergency department with complaints of sharp chest pain. She states the pain started approximately 1 hour ago and is located in the center of her chest. The pain radiates to her left shoulder and she rates the severity as a 7 out of 10. She denies any shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or frequency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash, lesions, or itching",
+    "neurologic": "No headache, numbness, or tingling"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "Appendectomy at age 20",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

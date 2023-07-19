@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sidney Toole",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while the patient was at rest. The pain is described as pressure-like, radiating to the left arm and jaw. The patient denies any associated shortness of breath or diaphoresis. Past medical history is significant for hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with history of coronary artery disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

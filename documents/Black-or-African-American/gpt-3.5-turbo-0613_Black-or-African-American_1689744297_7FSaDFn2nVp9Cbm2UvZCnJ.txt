@@ -1,0 +1,21 @@
+{
+  "patient_name": "Isaac Clarke",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago and is described as a crushing, substernal pain radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or strenuous activity. Onset of symptoms occurred at rest. There is no relief with rest or change in position. The patient has a history of hypertension and hyperlipidemia and is on medication for these conditions. No prior history of similar symptoms. Currently, the patient rates the pain as 9 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with hypertension, father with type 2 diabetes",
+  "social_history": "Non-smoker, occasional alcohol use, no illicit drug use"
+}

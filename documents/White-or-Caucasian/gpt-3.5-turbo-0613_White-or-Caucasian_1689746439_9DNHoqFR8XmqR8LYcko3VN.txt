@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brandt Howard",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Brandt Howard, is a 47-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that started approximately 1 hour ago. He rates the pain as 8/10 in severity and states that it radiates to his left arm. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a past medical history of hypertension and takes medications for this condition. He denies any history of heart disease or previous cardiac events.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medications for hypertension, the names of which he is unable to provide at this time.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of heart disease in his father and two siblings.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago, and does not drink alcohol or use illicit drugs."
+}
+```

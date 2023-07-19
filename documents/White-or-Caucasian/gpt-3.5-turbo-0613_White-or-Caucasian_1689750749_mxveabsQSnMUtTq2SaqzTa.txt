@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Forbes",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Forbes is a 52-year-old man who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been constant since then. He rates the intensity of the pain as 8 out of 10. He denies any associated shortness of breath, nausea, or diaphoresis. He decided to come to the hospital because his wife insisted due to the severity of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or changes in urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or skin changes",
+    "neurologic": "Denies headache, vision changes, or numbness/weakness in extremities"
+  },
+  "past_medical_history": "Mr. Forbes has a history of hypertension, for which he takes lisinopril. He denies any other significant medical conditions.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Negative",
+  "family_history": "Positive for hypertension in both parents",
+  "social_history": "Mr. Forbes is a smoker with a 30 pack-year history. He does not consume alcohol or recreational drugs."
+}

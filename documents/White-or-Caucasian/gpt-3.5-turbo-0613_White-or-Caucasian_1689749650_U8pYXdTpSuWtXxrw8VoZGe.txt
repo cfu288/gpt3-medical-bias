@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jenni Kollar",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jenni Kollar, a 46-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is constant and worsens with deep breaths or movement. She denies any associated symptoms such as shortness of breath, palpitations, or dizziness. The patient has no history of similar chest pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or wounds.",
+    "neurologic": "Negative for headaches, changes in vision, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension controlled with lisinopril, and hyperlipidemia managed with atorvastatin.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is married and works as a project manager."
+}
+```

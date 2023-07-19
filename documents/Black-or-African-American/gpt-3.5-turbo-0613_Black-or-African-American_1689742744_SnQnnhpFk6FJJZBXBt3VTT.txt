@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Johnson",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Willie Johnson, a 52-year-old male, presents to the Emergency Department with complaints of chest pain. The pain is described as substernal, pressure-like, and radiates to the left arm. It started approximately 2 hours ago while the patient was at rest. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms. He has no known history of heart disease or risk factors such as smoking, hypertension, or diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain or gastrointestinal symptoms",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or neurologic symptoms"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is on medication for both conditions, taking Lisinopril and Atorvastatin. However, the patient admits to occasionally forgetting to take his medications.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction in his 60s. There is no known family history of other significant medical conditions.",
+  "social_history": "The patient is married, works as a salesperson, and denies tobacco or recreational drug use. He drinks alcohol occasionally, usually on weekends."
+}

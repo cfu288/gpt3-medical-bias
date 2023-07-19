@@ -1,0 +1,21 @@
+{
+  "patient_name": "Van Ferris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Ferris, is a 45-year-old male who presented to the emergency department with complaints of severe chest pain. The pain started approximately two hours ago while he was at rest. The pain is described as a crushing sensation located in the center of his chest. The patient denies any radiation of the pain or associated shortness of breath, nausea, or diaphoresis. EKG performed in the emergency department shows ST-segment elevation in leads V2, V3, and V4, consistent with an acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath",
+    "gi": "Denies abdominal pain or nausea",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies any recent injuries",
+    "skin": "Denies any rashes or lesions",
+    "neurologic": "Denies any neurological symptoms"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently on lisinopril for blood pressure control and atorvastatin for hyperlipidemia.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Positive for a family history of coronary artery disease in his father",
+  "social_history": "The patient denies smoking, alcohol consumption, or drug use. He works as a accountant and denies any recent travel."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherman Williams",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Williams is a 52-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been continuous. He rates the pain as a 9/10 in intensity. He denies any exacerbating or relieving factors. He has not taken any medications to alleviate the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Positive for pain radiating to left arm",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, weakness, or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily, Hydrochlorothiazide 25mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

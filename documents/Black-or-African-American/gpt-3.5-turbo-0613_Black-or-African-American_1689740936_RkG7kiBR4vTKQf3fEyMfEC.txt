@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fernanda Freeman",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Freeman presents to the emergency department with a chief complaint of chest pain. The pain began approximately 3 hours ago while she was at rest. She describes the pain as a 7/10 pressure-like sensation in the center of her chest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no history of similar episodes in the past. On examination, her vitals are stable and there is no evidence of cardiac or respiratory distress.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough, dyspnea or wheezing",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Patient has a medical history significant for hypertension and hyperlipidemia.",
+  "medications": "Patient is taking lisinopril 10 mg daily and atorvastatin 40 mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Patient denies any significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

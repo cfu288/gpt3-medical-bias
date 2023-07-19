@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alvin Williams",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as 8/10 in severity and states that it started approximately 2 hours ago. The pain is associated with shortness of breath and diaphoresis. He denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports chest pain.",
+    "skin": "No pertinent findings on skin examination.",
+    "neurologic": "Patient reports no headache, dizziness, or neurologic changes."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Family history is significant for coronary artery disease in the patient's father.",
+  "social_history": "Patient is a current smoker with a 20-pack year history. He denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "William Croce",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, William Croce, a 55-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is located in the center of his chest. The pain is described as a pressure sensation and is radiating to his left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is constant and has not changed in intensity since it started. He states that the pain is worse with exertion and improves with rest. The patient has a known history of hypertension and is currently taking medication for it. He denies any recent illnesses or injuries. On physical examination, the patient appears uncomfortable but is in no acute distress. His vital signs are within normal limits and his oxygen saturation is 98% on room air. His cardiac and respiratory exams are unremarkable. An EKG was performed and showed some nonspecific ST-T wave changes. The patient has been given aspirin and started on oxygen therapy. Cardiology consult has been requested for further evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac events",
+  "social_history": "Non-smoker, social alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Morris Griffith",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started about 2 hours ago. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight changes",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath, cough, or wheezing",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling",
+    "skin": "Denies rash, itching, or lesions",
+    "neurologic": "Denies headache, dizziness, weakness, or numbness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "Patient had a cholecystectomy 5 years ago",
+  "family_history": "Patient has a family history of cardiovascular disease",
+  "social_history": "Patient is a current smoker, smoking about a pack a day for the past 30 years. He drinks alcohol occasionally."
+}

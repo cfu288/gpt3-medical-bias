@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosetta George",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago while the patient was at rest. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient has a history of hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, denies palpitations or leg swelling",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies dysuria, frequency, or urgency",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash or changes in skin color",
+    "neurologic": "Denies headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "Hypertension, dyslipidemia",
+  "medications": "1. Lisinopril 10mg daily\n2. Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Father had a history of myocardial infarction at the age of 65 years",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

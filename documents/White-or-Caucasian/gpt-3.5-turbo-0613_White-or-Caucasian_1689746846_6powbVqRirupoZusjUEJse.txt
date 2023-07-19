@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Susan Keim",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Susan Keim, a 52-year-old female, presented to the emergency department with complaints of chest pain that started about an hour ago. The pain is described as a squeezing sensation in the chest that radiates to the left arm. She rates the pain as 8 out of 10 in severity. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or edema reported.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "No joint pains or muscle aches.",
+    "skin": "No rashes, wounds, or skin changes.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes medication for hypertension (details of medications pending).",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rex Mckeehan",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rex Mckeehan, a 45-year-old male, presents to the Emergency Department with complaints of severe chest pain. The onset of the pain was sudden and it radiates to the left arm. He describes the pain as a crushing sensation and rates it 8/10 in severity. The pain started approximately 1 hour ago while he was at rest. There is no relieving or aggravating factors reported. He denies any associated shortness of breath, nausea, or diaphoresis. He has no past medical history of cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight changes.",
+    "cardiovascular": "Reports chest pain as mentioned earlier. Denies palpitations or orthopnea.",
+    "respiratory": "Denies cough, dyspnea, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or frequency.",
+    "musculoskeletal": "Reports pain in left arm along with chest pain. Denies any other joint pain or swelling.",
+    "skin": "No rashes, itching, or lesions reported.",
+    "neurologic": "Denies headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient takes over-the-counter ibuprofen occasionally for mild headaches.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in his father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

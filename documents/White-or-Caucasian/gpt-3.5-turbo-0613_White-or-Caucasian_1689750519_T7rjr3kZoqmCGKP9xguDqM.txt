@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luciano Lang",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a pressure-like sensation in the center of the chest. The pain is radiating to the left arm and is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough or difficulty breathing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia for which he takes losartan and atorvastatin, respectively.",
+  "medications": "Losartan, atorvastatin",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Positive for family history of coronary artery disease",
+  "social_history": "Patient is a non-smoker, consumes alcohol occasionally, and denies any illicit drug use"
+}

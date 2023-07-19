@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marshall Harris",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Harris presents to the emergency department with a chief complaint of chest pain. He reports that the pain began approximately 2 hours ago while he was resting at home. The pain is described as a squeezing sensation in the center of his chest, with radiation to his left arm. He rates the intensity of the pain as 8/10. He denies any associated symptoms such as shortness of breath, lightheadedness, or diaphoresis. He has a history of hypertension and hyperlipidemia and is currently on medication for these conditions. He also smokes one pack of cigarettes per day and drinks alcohol occasionally. He denies any recent illnesses, injuries, or surgeries. He reports no family history of heart disease or other significant medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease or other significant medical conditions",
+  "social_history": "Smokes one pack of cigarettes per day, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Price",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Price is a 54-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, squeezing sensation in the chest that started approximately one hour ago. He rates the pain as an 8 out of 10 in severity and reports that it radiates to his left arm. He denies any associated symptoms such as shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient complains of chest pain. Denies palpitations or syncope.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and simvastatin for his blood pressure and cholesterol.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

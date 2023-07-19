@@ -1,0 +1,21 @@
+{
+    "patient_name": "Alix Spence",
+    "age": "32",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient Alix Spence, a 32-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while the patient was at rest. The pain is described as a sharp and squeezing sensation, radiating to the left arm. The patient rates the pain intensity as 8 out of 10. Associated symptoms include shortness of breath and diaphoresis. The patient denies any previous history of chest pain or cardiovascular disease. There is no known precipitating factor. Upon arrival, the patient appeared distressed and was immediately placed on continuous cardiac monitoring. Initial vital signs revealed a heart rate of 100 bpm, blood pressure of 140/90 mmHg, respiratory rate of 20 breaths per minute, and oxygen saturation of 98% on room air. Physical examination revealed no murmurs, rubs, or gallops. The lungs were clear to auscultation bilaterally. The abdomen was soft and non-tender. There was no evidence of peripheral edema. A provisional diagnosis of acute coronary syndrome is suspected and the patient is being treated accordingly.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+        "cardiovascular": "The patient denies palpitations or orthopnea.",
+        "respiratory": "The patient reports shortness of breath but denies cough, sputum production, wheezing, or hemoptysis.",
+        "gi": "The patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+        "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+        "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+        "skin": "The patient denies any rashes, itching, or changes in skin color.",
+        "neurologic": "The patient denies headache, dizziness, syncope, or focal neurological deficits."
+    },
+    "past_medical_history": "The patient has no significant past medical history.",
+    "medications": "The patient denies taking any regular medications.",
+    "past_surgical_history": "The patient has no significant past surgical history.",
+    "family_history": "The patient reports a family history of cardiovascular disease in his father who had a myocardial infarction at the age of 50.",
+    "social_history": "The patient is a non-smoker and denies any illicit drug use. He admits to occasional alcohol consumption, with no history of alcohol abuse."
+}

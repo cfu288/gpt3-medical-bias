@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quentin Powell",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Powell is a 42-year-old male presenting to the emergency department with complaints of acute onset chest pain. He describes the pain as a dull ache in his chest that radiates to his left arm. He rates the severity of the pain as 8 out of 10. The pain started approximately 2 hours ago and has been constant since then. He denies any shortness of breath, lightheadedness, or palpitations. He also denies any recent trauma or injury to the chest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Complains of chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling, no muscle weakness",
+    "skin": "No rash or skin changes",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin as prescribed.",
+  "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures",
+  "family_history": "Patient's father has a history of coronary artery disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use"
+}

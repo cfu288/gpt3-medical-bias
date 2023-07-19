@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleveland Macias",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sharp chest pain radiating to the left arm. Patient reports that the pain started approximately 2 hours ago and has been progressively worsening. Patient denies any recent trauma or injury. Currently, his pain is rated at a 9/10 on the pain scale. He has no previous history of similar symptoms. Patient also reports associated shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Patient reports chest pain and shortness of breath",
+    "respiratory": "Patient reports shortness of breath with no cough or sputum production",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or skin changes",
+    "neurologic": "No headaches, changes in vision, or loss of consciousness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia. He is currently on metoprolol and atorvastatin for these conditions. Patient is non-smoker and denies any history of illicit drug use.",
+  "medications": "Metoprolol 25 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient denies any previous surgeries",
+  "family_history": "Patient states that his father had a heart attack at the age of 60. Rest of the family history is unremarkable.",
+  "social_history": "Patient is married and works as a software engineer. He denies any history of alcohol or recreational drug use."
+}

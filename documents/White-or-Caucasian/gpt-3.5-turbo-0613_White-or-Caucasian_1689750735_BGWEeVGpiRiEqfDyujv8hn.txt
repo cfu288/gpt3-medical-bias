@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jackie Tedesco",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain for the past two hours. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain started while she was at rest and has not resolved. She also reports a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies urinary frequency or urgency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or wounds.",
+    "neurologic": "Denies headache or dizziness."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had a myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

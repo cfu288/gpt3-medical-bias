@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Paulette Hendricks",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started 2 hours ago and is described as a sharp, stabbing pain in the left side of the chest. The pain radiates to the left arm and is associated with shortness of breath. Patient denies any previous episodes of similar pain or any known triggers. She also denies any associated symptoms such as nausea, vomiting, or diaphoresis. Patient does not have any known risk factors for cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain as described above. No palpitations or syncope reported. No peripheral edema.",
+    "respiratory": "Patient reports shortness of breath associated with the chest pain.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient complains of pain radiating to the left arm associated with the chest pain.",
+    "skin": "No rashes, lesions, or changes in the skin reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension, managed with medications.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No family history of cardiovascular disease, diabetes, or cancer reported.",
+  "social_history": "Patient is a non-smoker and denies any history of alcohol or drug use. She works as an office administrator and denies any significant occupational exposures."
+}
+```

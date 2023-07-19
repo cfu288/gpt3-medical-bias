@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aliza Robb",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started suddenly while resting at home. The pain is described as a crushing sensation and is associated with shortness of breath and diaphoresis. The patient denies any prior episodes of chest pain or similar symptoms. Onset of symptoms was approximately 1 hour ago.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or syncope.",
+    "respiratory": "Patient reports shortness of breath. No cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Currently taking amlodipine and atorvastatin.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy in 2010",
+  "family_history": "Father has a history of coronary artery disease.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use."
+}

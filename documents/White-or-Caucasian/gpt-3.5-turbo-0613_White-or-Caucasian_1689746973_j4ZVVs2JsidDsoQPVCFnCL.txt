@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kathi Williams",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kathi Williams, arrived at the emergency department complaining of chest pain. The pain started earlier today and is described as a sharp, stabbing pain in the center of the chest. The pain radiates to both arms and is associated with shortness of breath. The patient denies any previous episodes of chest pain or cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain and shortness of breath. No palpitations or heart murmurs reported.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain. No cough or wheezing reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary complaints reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No skin changes or rashes reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and hyperlipidemia. She currently takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker. She denies any alcohol or illicit drug use."
+}

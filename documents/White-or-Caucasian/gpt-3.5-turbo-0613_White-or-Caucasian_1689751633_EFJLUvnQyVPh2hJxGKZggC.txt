@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geoff Zanoni",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Zanoni is a 45-year-old male who presents to the emergency department with complaints of chest pain. The pain started earlier today and is described as a sharp, stabbing pain in the center of his chest. The pain worsens with deep breaths and movement. He denies any associated symptoms such as shortness of breath, nausea, or sweating.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports no history of heart disease or palpitations.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no history of musculoskeletal issues.",
+    "skin": "Patient denies any rashes, itching, or lesions.",
+    "neurologic": "Patient denies any neurologic symptoms such as headaches, dizziness, or seizures."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient has a family history of heart disease, with his father having a myocardial infarction at the age of 52.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or recreational drug use. He works as an accountant and exercises regularly."
+}

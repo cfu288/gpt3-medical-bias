@@ -1,0 +1,21 @@
+{
+  "patient_name": "Camilla Henze",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while the patient was at rest. The pain is described as a pressure-like sensation located in the center of the chest. The pain is radiating to the left arm and jaw. The patient also reports shortness of breath and sweating associated with the pain. The patient denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain, which is the chief complaint. No palpitations or irregular heartbeats.",
+    "respiratory": "Reports shortness of breath associated with chest pain. No cough or sputum production.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or frequency.",
+    "musculoskeletal": "Reports pain radiating to the left arm and jaw. No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive family history of coronary artery disease in father and maternal grandfather.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Louanne Riley",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a sharp, stabbing sensation that radiates to the left arm. The patient rates the pain as a 7 out of 10 on the pain scale. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes Lisinopril.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

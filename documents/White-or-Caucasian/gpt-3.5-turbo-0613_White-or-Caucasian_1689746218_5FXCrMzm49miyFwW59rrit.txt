@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luther Griffin",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Griffin is a 45-year-old male who presents to the emergency department with a chief complaint of severe chest pain that started approximately 1 hour ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "Negative for early-onset cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Octavia Comer",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset chest pain that started approximately 2 hours ago. The pain is described as a sharp, stabbing sensation and is located in the center of the chest. The pain is worse with deep inspiration and is accompanied by shortness of breath. Patient denies any preceding trauma or recent illness. No relief with rest or change in position.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+        "cardiovascular": "Patient reports a history of hypertension.",
+        "respiratory": "Patient denies cough, wheezing, or hemoptysis.",
+        "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+        "gu": "Patient denies dysuria or urinary frequency.",
+        "musculoskeletal": "Patient denies joint pain or swelling.",
+        "skin": "Patient denies rash or pruritus.",
+        "neurologic": "Patient denies headache or dizziness."
+    },
+    "past_medical_history": "Patient has a past medical history of hypertension and takes medication for it.",
+    "medications": "Patient takes a daily medication for hypertension.",
+    "past_surgical_history": "Patient has no history of surgical procedures.",
+    "family_history": "Patient has no known family history of cardiovascular disease.",
+    "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

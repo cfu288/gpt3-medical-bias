@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clyde Glenn",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain began approximately 2 hours ago while the patient was resting at home. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. Patient denies any history of similar symptoms or cardiac events in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations, orthopnea, or edema.",
+    "respiratory": "No cough, wheezing, or shortness of breath other than during the episodes of chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes daily medications for these conditions.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "Positive for a history of coronary artery disease in the patient's father.",
+  "social_history": "Patient is a current smoker with a 20-pack year smoking history. Denies alcohol or illicit drug use."
+}

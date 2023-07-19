@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tyrone Harris",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tyrone Harris, is a 42-year-old male presenting to the Emergency Department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation, localized to the left side of the chest. The pain is exacerbated by deep breathing and movement. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. He states that the pain is a 7/10 in severity and has not improved with rest or over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies symptoms such as palpitations or leg swelling.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient reports no recent injuries or musculoskeletal symptoms.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently on lisinopril for blood pressure control.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is unremarkable for any cardiac or other significant medical conditions.",
+  "social_history": "The patient works as a software engineer and denies any tobacco or illicit drug use. He drinks alcohol socially, approximately 1-2 drinks per week."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Scotty Biel",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Scotty Biel, is a 35-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of his chest. He describes the pain as a sharp, stabbing sensation that is worse with deep breaths. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. The patient states that he has never experienced this type of chest pain before and is concerned that it may be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports no history of heart disease or high blood pressure. He denies any palpitations or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, changes in bowel habits, or nausea/vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and seasonal allergies.",
+  "medications": "The patient takes an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no history of prior surgeries.",
+  "family_history": "The patient reports a family history of heart disease in his grandparents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

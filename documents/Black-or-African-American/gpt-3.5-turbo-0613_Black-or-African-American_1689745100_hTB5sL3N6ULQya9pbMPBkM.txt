@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damion Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain began 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath and diaphoresis. There is no associated nausea or vomiting. The patient denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "No cough or shortness of breath at rest.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a smoker and drinks alcohol occasionally."
+}

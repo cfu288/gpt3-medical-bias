@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mack Hale",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Mack Hale, a 56-year-old male presenting with sudden onset of severe chest pain. Pain is intensifying with deep inspiration and is radiating to his left arm. The patient denies any previous episodes of chest pain or similar symptoms. However, he has a history of hypertension. He appeared diaphoretic and anxious upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintended weight loss.",
+    "cardiovascular": "The patient complains of chest pain radiating to the left arm. No palpitations or edema noted.",
+    "respiratory": "Patient has no history of shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "No history of urinary symptoms or difficulty in urinating.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "No skin rashes, itching, or lesions.",
+    "neurologic": "The patient denies any history of seizures, headaches, or neurologic deficits."
+  },
+  "past_medical_history": "The patient has a known history of hypertension.",
+  "medications": "The patient takes Lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "No previous surgical history reported by the patient.",
+  "family_history": "No significant family history reported by the patient.",
+  "social_history": "The patient denies smoking or alcohol use. He is currently employed in an office setting."
+}
+```

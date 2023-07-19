@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dyan Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dyan Thomas, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly 2 hours ago and is located in the center of the chest. She describes the pain as a squeezing sensation and rates the intensity as 8 out of 10. The pain radiates to her left arm, and she also feels shortness of breath and lightheadedness. She denies any fever, cough, or recent illness. She has no significant medical history and no known risk factors for cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain radiating to left arm, shortness of breath, and lightheadedness.",
+    "respiratory": "Patient denies cough or shortness of breath, except during the episode of chest pain.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies any regular medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient is unaware of any family history of cardiac disease.",
+  "social_history": "Patient denies smoking, alcohol intake, or illicit drug use. She works as a teacher and lives with her spouse and two children."
+}

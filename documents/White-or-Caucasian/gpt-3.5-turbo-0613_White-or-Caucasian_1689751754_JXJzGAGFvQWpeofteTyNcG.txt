@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jan Strader",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm. The patient rates the pain as 7/10 in intensity. The pain is associated with shortness of breath and diaphoresis. The patient denies any nausea or vomiting. The patient has a history of hypertension and is currently on medication.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough or wheezing",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Paternal grandfather had a myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

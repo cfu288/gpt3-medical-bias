@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vera Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Jones presents to the emergency department with complaints of severe chest pain that started approximately 1 hour ago. She describes the pain as a crushing sensation in the center of her chest, radiating to her left arm and jaw. The pain is associated with shortness of breath and sweating. She denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath at rest.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "Patient takes metoprolol 50 mg daily and atorvastatin 20 mg nightly.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's father had a heart attack at the age of 60.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She works as an office manager and denies any illicit drug use."
+}

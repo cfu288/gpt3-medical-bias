@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamila Holmes",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Jamila Holmes presents to the emergency department with complaints of chest pain. The pain started suddenly about 1 hour ago and is described as a pressure-like sensation in the center of the chest. The pain is radiating to the left arm and is associated with shortness of breath. The patient denies any previous episodes of chest pain. She states that the pain is not relieved by rest and is getting worse.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, radiating to left arm, shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or chest congestion.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for hypertension in immediate family members.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

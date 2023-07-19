@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lita Dean",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Patient reports that pain started suddenly and is located in the center of the chest. Patient describes the pain as heavy and crushing, and reports that it radiates to the left shoulder and arm. Pain is associated with shortness of breath and sweating. Symptoms started approximately 30 minutes ago. Denies any known precipitating factors. No previous episodes of similar pain. No relief with rest. Given the severity and potential cardiac nature of the pain, further evaluation is warranted to rule out acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and night sweats.",
+    "cardiovascular": "As mentioned in the history of present illness.",
+    "respiratory": "Patient denies cough, shortness of breath, and wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, and changes in bowel habits.",
+    "gu": "Patient denies dysuria and hematuria.",
+    "musculoskeletal": "Patient denies muscle pain or joint stiffness.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, weakness, numbness, and changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "Patient is a nonsmoker and denies alcohol and drug use. Patient is married and works as a teacher."
+}

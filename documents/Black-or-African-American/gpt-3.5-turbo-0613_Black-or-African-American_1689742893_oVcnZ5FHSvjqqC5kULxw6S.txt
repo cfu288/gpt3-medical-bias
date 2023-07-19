@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oren Gwyn",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Oren Gwyn, a 47-year-old male, presents to the emergency department with complaints of severe chest pain. He describes the pain as a squeezing sensation in his chest that started approximately 2 hours ago. He states that the pain radiates to his left arm and jaw. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any recent trauma or injury. Upon arrival, the patient appeared uncomfortable and appeared pale. Vital signs were stable upon arrival with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. The patient was immediately placed on a cardiac monitor and an EKG was obtained which showed ST-segment elevation in leads II, III, and aVF.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient reports chest pain, shortness of breath, diaphoresis, and palpitations.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath at rest.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, hematuria, or frequency of urination.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is on a daily regimen of amlodipine for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Amlodipine 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. His mother has a history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies any use of illicit drugs. He consumes alcohol occasionally."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mustafa Firkins",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mustafa Firkins, a 28-year-old male, presents to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation that began approximately 2 hours ago. The patient rates the pain as a 7 out of 10 in intensity and reports that it radiates to his left arm. He denies any associated shortness of breath, sweating, or nausea. The pain is not relieved with rest and is exacerbated by deep breathing and movement.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or leg swelling",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for chest pain, negative for joint pain",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies. No other significant medical history.",
+  "medications": "The patient uses an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother has a history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

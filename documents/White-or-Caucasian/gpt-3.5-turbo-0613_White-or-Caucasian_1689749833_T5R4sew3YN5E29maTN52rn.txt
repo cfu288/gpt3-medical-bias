@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carmela Gooley",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carmela Gooley, a 50-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, crushing sensation located in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8/10 in intensity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Denies palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "Denies abdominal pain or changes in bowel habits",
+    "gu": "No urinary symptoms or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes metoprolol and atorvastatin daily.",
+  "medications": "Metoprolol 100mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother had a history of myocardial infarction at age 60. Her father has a history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse."
+}
+```

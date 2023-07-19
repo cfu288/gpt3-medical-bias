@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sidney Walton",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Walton is a 70-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started 2 hours ago and is located in the center of his chest. He describes the pain as a squeezing sensation that radiates to his left arm. The pain is associated with shortness of breath and nausea. He denies any recent trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis and lightheadedness.",
+    "cardiovascular": "Positive for palpitations and chest discomfort.",
+    "respiratory": "Negative for cough or wheezing.",
+    "gi": "Negative for abdominal pain or changes in bowel movements.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or change in sensation."
+  },
+  "past_medical_history": "Mr. Walton has a history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "His father had a history of myocardial infarction.",
+  "social_history": "He is a retired teacher and has never smoked or consumed alcohol."
+}
+```

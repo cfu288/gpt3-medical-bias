@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bessie Sullivan",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started about an hour ago. Patient describes the pain as a dull ache in the center of her chest. She rates the pain as a 7 out of 10 and states that it radiates to her left arm. She denies any shortness of breath, nausea, or diaphoresis. Patient reports no prior episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes",
+  "medications": "Patient takes lisinopril, atorvastatin, and metformin",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago",
+  "family_history": "No known family history of cardiovascular disease or other significant medical conditions",
+  "social_history": "Patient is a smoker with a 20 pack-year history. She does not use alcohol or illicit drugs."
+}

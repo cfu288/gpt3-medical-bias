@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tod Holmes",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tod Holmes, a 42-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is radiating to the left shoulder and jaw. The patient rates the pain as 8/10 in intensity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it. He denies any recent illnesses or injuries. Upon further questioning, the patient states that he has been experiencing high levels of stress at work recently. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for pain radiating to left shoulder and jaw",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg once daily",
+  "past_surgical_history": "None",
+  "family_history": "Family history of hypertension",
+  "social_history": "The patient is married and has two children. He works in a high-stress job as a lawyer and denies any tobacco or illicit drug use. He consumes alcohol occasionally."
+}

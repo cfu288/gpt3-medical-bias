@@ -1,0 +1,21 @@
+{
+  "patient_name": "Micheal Lee",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Lee is a 45-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of his chest. The pain radiates to his left arm. He rates the pain as 7/10 and reports it is constant. He denies any associated shortness of breath, diaphoresis, or nausea. The patient has no previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain radiating to left arm.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Denies headache or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes metoprolol.",
+  "medications": "Metoprolol 50mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker and reports a 10 pack-year smoking history. He denies alcohol or illicit drug use."
+}

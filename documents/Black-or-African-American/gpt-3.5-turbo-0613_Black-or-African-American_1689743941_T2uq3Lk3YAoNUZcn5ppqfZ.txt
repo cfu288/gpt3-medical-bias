@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Ruth",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is substernal, pressure-like, and radiates to the left arm. The pain started approximately 1 hour ago and is associated with shortness of breath and diaphoresis. Patient denies any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Patient has a history of hypertension and takes medication for it. No palpitations or edema noted.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "No rashes or skin abnormalities.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, no other significant medical history.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking, alcohol, or recreational drug use. Works as an accountant and lives with spouse."
+}

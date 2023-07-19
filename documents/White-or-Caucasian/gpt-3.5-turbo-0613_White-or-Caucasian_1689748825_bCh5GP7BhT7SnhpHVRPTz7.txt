@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rufus Ison",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rufus Ison is a 54-year-old male who presents to the emergency department with complaints of severe chest pain. The pain started abruptly 2 hours ago and is located in the center of his chest. The pain is described as a pressure-like sensation and radiates to his left arm. The patient denies any associated symptoms such as shortness of breath, diaphoresis, lightheadedness, or nausea. He has a past medical history of hypertension and hyperlipidemia. On physical examination, the patient appears uncomfortable but is in no acute distress. His vital signs are stable and within normal limits. Cardiac auscultation reveals regular rate and rhythm with no murmurs, rubs, or gallops. ECG shows ST-segment elevation in leads II, III, and aVF. Based on the clinical presentation and ECG findings, a working diagnosis of acute myocardial infarction (MI) is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, radiating to left arm",
+    "respiratory": "No dyspnea or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease or other significant medical conditions",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. He works as a construction worker and denies any illicit drug use."
+}

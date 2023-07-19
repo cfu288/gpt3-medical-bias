@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dorinda Willis",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe chest pain that started suddenly about an hour ago. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and lightheadedness. The symptoms have persisted since onset and have not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies urinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. Current medications include lisinopril 20mg daily for hypertension and atorvastatin 40mg daily for hyperlipidemia.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of heart disease, with her father having a myocardial infarction at age 65.",
+  "social_history": "The patient is a former smoker and quit 10 years ago. She denies any alcohol or illicit drug use."
+}

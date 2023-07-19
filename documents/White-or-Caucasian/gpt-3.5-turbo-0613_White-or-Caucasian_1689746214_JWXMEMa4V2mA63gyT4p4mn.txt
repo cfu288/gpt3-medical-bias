@@ -1,0 +1,21 @@
+{
+  "patient_name": "Athanasios Hass",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hass is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately one hour ago and is described as a sharp and squeezing sensation in the center of his chest. He rates the intensity of the pain as 8 out of 10. The pain radiates to his left arm and is associated with shortness of breath. He denies any nausea, diaphoresis, or palpitations. He admits to feeling anxious and scared. Upon arrival, he was tachycardic with a heart rate of 110 beats per minute and had a blood pressure of 150/90 mmHg. His oxygen saturation on room air was 96%. Based on the initial assessment, the patient is being treated as a potential cardiac event and is currently receiving nitroglycerin and aspirin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain radiating to left arm. Denies palpitations",
+    "respiratory": "Reports dyspnea with chest pain",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria, frequency, or urgency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Hass has a history of hypertension, hyperlipidemia, and smoking",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "The patient is currently employed as a construction worker and has a 20 pack-year smoking history. He denies any recent travel or exposure to sick individuals. He drinks alcohol in moderation and denies illicit drug use."
+}

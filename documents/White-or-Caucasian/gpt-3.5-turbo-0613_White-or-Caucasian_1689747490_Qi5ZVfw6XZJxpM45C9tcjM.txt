@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kent Waldon",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient denies any shortness of breath, diaphoresis, or nausea. He noticed the pain after exertion and it has persisted since then. The patient has a history of hypertension and currently takes medication for it. He has no prior history of cardiac events.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Chest pain as described above. No palpitations or edema.",
+    "respiratory": "No shortness of breath, cough, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, nocturia, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, ulcers, or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiac events.",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

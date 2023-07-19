@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Merry Pagett",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Merry Pagett, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the left side of her chest. She rates the pain 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or itchiness.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily and atorvastatin 40mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

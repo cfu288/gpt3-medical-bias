@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrel Denaro",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Denaro presented to the emergency department with complaints of chest pain. According to the patient, the pain started suddenly while he was at rest. He describes the pain as a tightness and pressure in his chest that radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports a history of smoking for the past 20 years and a positive family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Denaro has a history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking amlodipine 10mg daily for hypertension and atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "Mr. Denaro is a smoker with a 20 pack-year history. He denies any alcohol or illicit drug use."
+}

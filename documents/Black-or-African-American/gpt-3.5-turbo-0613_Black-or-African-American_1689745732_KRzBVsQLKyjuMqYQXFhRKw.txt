@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lorenzo Coleman",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Coleman is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of his chest. The pain is exacerbated with deep inspiration and is associated with shortness of breath. He denies any radiation of the pain, but does report feeling lightheaded. He denies any palpitations or diaphoresis. He has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions regularly. He denies any recent illnesses or surgeries. There is no family history of cardiac disease. Socially, he is a non-smoker and does not consume alcohol. He works as a desk clerk and denies any recent changes in his activity level or stress. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Reports chest pain as stated above. Denies palpitations or edema.",
+    "respiratory": "Reports shortness of breath as stated above. Denies cough or sputum production.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash or changes in skin color or texture.",
+    "neurologic": "Reports feeling lightheaded as stated above. Denies headache or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiac disease.",
+  "social_history": "Non-smoker, non-drinker, works as a desk clerk, denies recent changes in occupational or activity level."
+}

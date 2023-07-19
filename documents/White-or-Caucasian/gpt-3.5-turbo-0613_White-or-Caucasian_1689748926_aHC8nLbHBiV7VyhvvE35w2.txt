@@ -1,0 +1,27 @@
+{
+  "patient_name": "Ronit Beaudoin",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ronit Beaudoin, a 45-year-old male, presents to the emergency department with complaints of sudden-onset severe chest pain. He describes the pain as a crushing or squeezing sensation in the center of his chest, radiating to his left arm and jaw. The pain started approximately 1 hour ago and has been constant ever since. He denies any associated symptoms such as shortness of breath, nausea, vomiting, sweating, or dizziness. The patient states that he has never experienced chest pain like this before and is concerned that he may be having a heart attack.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations, syncope, or peripheral edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a history of hyperlipidemia and is on a statin medication. He has no known history of cardiovascular disease or diabetes. He has never undergone any surgeries in the past.",
+
+  "medications": "The patient is taking atorvastatin 40 mg daily for hyperlipidemia.",
+
+  "past_surgical_history": "No previous surgeries.",
+
+  "family_history": "Positive for a family history of heart disease. The patient's father had a myocardial infarction in his 50s.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He has a sedentary lifestyle and does not engage in regular exercise."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marc Norris",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. Onset of pain was sudden and described as sharp in nature. Pain is localized to the left side of the chest and radiates to the left arm. Patient rates the pain intensity as 8/10. Pain is aggravated by physical exertion and relieved with rest. Patient denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described in HPI",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Positive for chest pain as described in HPI",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, weakness, or numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Mother with history of coronary artery disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

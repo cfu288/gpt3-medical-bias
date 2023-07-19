@@ -1,0 +1,21 @@
+{
+  "patient_name": "Candis Adams",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Adams presents to the emergency department today with complaints of chest pain. She describes the pain as a tightness in her chest that started about 2 hours ago while she was resting. She rates the pain as 7/10 and says it radiates to her left arm. She denies any shortness of breath, nausea, or vomiting. She also denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies any urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "Denies any rashes or lesions",
+    "neurologic": "No headache, dizziness, or seizure activity"
+  },
+  "past_medical_history": "Ms. Adams has a history of hypertension and hyperlipidemia.",
+  "medications": "She takes metoprolol and simvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "She has a family history of heart disease, with her father having a heart attack in his 50s.",
+  "social_history": "Ms. Adams is a non-smoker and denies any alcohol or drug use. She is married and works as a teacher."
+}

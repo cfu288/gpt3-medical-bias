@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bruno Leddy",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started one hour ago and is described as a squeezing sensation in the center of the chest. The pain is not radiating and is not associated with shortness of breath or nausea. The patient also denies any palpitations or lightheadedness. Physical examination reveals no abnormal findings. EKG shows sinus rhythm with no ST-T wave changes.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "No history of heart disease or palpitations",
+    "respiratory": "No history of cough, shortness of breath, or wheezing",
+    "gi": "No history of abdominal pain, nausea, or vomiting",
+    "gu": "No history of urinary symptoms",
+    "musculoskeletal": "No history of joint pain or swelling",
+    "skin": "No history of rashes or skin changes",
+    "neurologic": "No history of headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and atorvastatin daily",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies smoking, alcohol, or drug use"
+}

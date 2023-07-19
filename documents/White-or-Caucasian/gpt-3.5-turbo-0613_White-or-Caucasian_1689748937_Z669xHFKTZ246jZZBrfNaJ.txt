@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Florin Watson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Florin Watson, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain that started one hour ago. The pain is described as crushing in nature and radiating to the left arm. There is no relief with rest or nitroglycerin. No history of palpitations or shortness of breath.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

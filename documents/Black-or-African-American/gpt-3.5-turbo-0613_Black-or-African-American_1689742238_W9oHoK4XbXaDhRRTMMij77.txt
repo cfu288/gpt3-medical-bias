@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gary Fitzpatrick",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Fitzpatrick, presents to the emergency department with a complaint of severe chest pain. He describes the pain as a gripping sensation that radiates down his left arm. He rates the pain as 9 out of 10 in intensity. The pain started suddenly about 2 hours ago while he was at rest. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. He has a history of hypertension but is not currently taking any medications for it. On physical examination, his vital signs are stable. His lungs are clear to auscultation, and his heart sounds are normal. There are no signs of distress. Given the severity of his symptoms and the concern for cardiac etiology, he has been started on supplemental oxygen, an EKG was performed, and blood tests including troponin levels have been ordered."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies urinary symptoms or any genital discomfort.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother had hypertension but no other significant family history.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is married and works as an accountant."
+}

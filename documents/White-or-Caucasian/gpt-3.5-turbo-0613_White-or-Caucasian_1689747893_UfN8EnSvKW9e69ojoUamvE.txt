@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lillian Mcconnell",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lillian Mcconnell, a 58-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that she first started experiencing the pain approximately 2 hours ago. The pain is described as a burning sensation in the center of her chest, and it radiates to her left arm. The pain is constant and has not been relieved with rest or change in position. She denies any associated shortness of breath, diaphoresis, nausea, or vomiting. She denies any recent trauma or injury. She has a history of hypertension and is currently on medication for it. She was non-compliant with her medication for the past week and ran out of her prescription. She denies any prior history of similar symptoms. Upon further questioning, the patient reports a mild cough and occasional dizziness over the past week. She has no other significant medical history and denies any allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Positive for a mild cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Positive for occasional dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient was taking medication for hypertension, however, she ran out of her prescription and was non-compliant with it for the past week.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

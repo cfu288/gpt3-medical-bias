@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barney Robinson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain started approximately 1 hour ago and is located in the center of the chest. The pain is described as crushing and radiating to the left arm. Patient denies any shortness of breath or diaphoresis. Onset of pain was sudden and has not resolved since it started. Patient has a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or wounds",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of heart disease",
+  "social_history": "Non-smoker, social drinker"
+}

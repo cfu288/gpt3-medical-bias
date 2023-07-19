@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bertrand Boyce",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of chest pain. He states that the pain started suddenly about 2 hours ago and is located in the center of his chest. The pain is described as a squeezing sensation and radiates to his left arm. He rates the pain as 8/10 in intensity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest. Patient has a past medical history of hypertension and hyperlipidemia. Upon further questioning, the patient admits to smoking for the past 20 years and consuming a high-fat diet. He denies any recent illness or trauma. The patient called emergency medical services due to the severity of the chest pain. EKG was performed at the scene and was unremarkable. The patient was transported to the Emergency Department for further evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, and fatigue.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, blurred vision, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father and brother with history of myocardial infarction in their 50s.",
+  "social_history": "Heavy smoker for the past 20 years. Consumes a high-fat diet."
+}

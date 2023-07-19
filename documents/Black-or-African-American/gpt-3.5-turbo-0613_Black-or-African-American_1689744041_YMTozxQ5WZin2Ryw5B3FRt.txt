@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marie Frazier",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of chest pain. She describes the pain as a sharp, stabbing sensation located in the center of her chest. Pain began approximately 2 hours ago while she was at rest. Pain is associated with shortness of breath and radiates to her left arm. She denies any prior episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, fatigue, or weight changes.",
+    "cardiovascular": "Patient reports chest pain as described above. Denies palpitations or lightheadedness.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain. Denies cough or sputum production.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient's father has a history of myocardial infarction at age 55.",
+  "social_history": "Patient is a non-smoker. Denies alcohol or drug use."
+}

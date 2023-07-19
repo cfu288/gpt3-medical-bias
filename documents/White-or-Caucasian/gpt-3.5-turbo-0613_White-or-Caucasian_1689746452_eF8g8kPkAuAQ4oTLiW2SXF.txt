@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carri Shuman",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that radiates to her left arm. She states that the pain started about 2 hours ago and has been constant since then. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She reports no significant past cardiac history. On further questioning, she reveals that she has a family history of heart disease, with her father having a heart attack in his 50s. Given her symptoms and family history, cardiac etiology of her chest pain is a concern.",
+  "review_of_symptoms": {
+    "constitutional": "No recent weight loss, fever, or night sweats.",
+    "cardiovascular": "Denies palpitations or chest pain other than the current episode.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10 mg once daily",
+  "past_surgical_history": "Appendectomy at age 16",
+  "family_history": "Father with a history of MI in his 50s",
+  "social_history": "Patient is a current smoker (1 pack per day) and denies any alcohol or illicit drug use."
+}

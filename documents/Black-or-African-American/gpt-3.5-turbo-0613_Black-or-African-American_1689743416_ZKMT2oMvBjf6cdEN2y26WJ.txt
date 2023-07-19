@@ -1,0 +1,21 @@
+{
+  "patient_name": "Conrad Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Thomas is a 45-year-old male who presents to the Emergency Department with complaints of severe chest pain. The pain started 2 hours ago and is located in the center of his chest. He describes the pain as a crushing sensation that radiates to his left arm.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports intermittent palpitations but denies past history of heart disease.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Reports mild dizziness but denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Mr. Thomas has a history of hypertension and high cholesterol. He takes medications for these conditions including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "Appendectomy at age 20",
+  "family_history": "No significant family history of heart disease or other genetic conditions.",
+  "social_history": "Mr. Thomas is a non-smoker and denies illicit drug use. He consumes alcohol occasionally and denies any recent heavy drinking."
+}

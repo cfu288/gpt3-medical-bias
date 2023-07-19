@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonso Gordon",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Gordon presents to the emergency department with complaints of sudden onset severe chest pain. He states that the pain started about 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation that radiates to his left arm and jaw. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Denies palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Mr. Gordon has a past medical history significant for hypertension and hyperlipidemia. He is currently on amlodipine and atorvastatin.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Noncontributory.",
+  "social_history": "Mr. Gordon is a current smoker with a 20 pack-year history. He admits to occasional alcohol use but denies any illicit drug use."
+}

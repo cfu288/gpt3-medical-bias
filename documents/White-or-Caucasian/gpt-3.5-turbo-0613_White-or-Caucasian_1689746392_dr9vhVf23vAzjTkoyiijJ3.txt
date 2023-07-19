@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tomi Danielson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tomi Danielson, a 42-year-old female, presents to the emergency department with complaints of chest pain. She states the pain started suddenly about 2 hours ago and is located in the center of her chest. She describes the pain as a dull ache that radiates to her left arm. She denies any other associated symptoms such as shortness of breath, nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for pain in the left arm",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril 20 mg daily and Atorvastatin 40 mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

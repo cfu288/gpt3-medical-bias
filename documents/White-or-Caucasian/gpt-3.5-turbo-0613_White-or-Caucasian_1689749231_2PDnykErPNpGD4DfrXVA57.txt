@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patrick Mcbath",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Patrick Mcbath, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started abruptly about 1 hour ago while he was at home watching TV. He describes the pain as a sharp, stabbing sensation in the center of his chest that radiates to his left arm. The pain is at a severity of 7/10 and is associated with shortness of breath. The patient denies any recent trauma or falls.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. He denies any history of previous heart attacks or heart disease.",
+    "respiratory": "The patient denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports mild lower back pain unrelated to his current complaint.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any history of seizures, loss of consciousness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

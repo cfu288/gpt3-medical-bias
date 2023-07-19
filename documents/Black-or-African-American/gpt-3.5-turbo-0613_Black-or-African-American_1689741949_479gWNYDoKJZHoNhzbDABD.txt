@@ -1,0 +1,21 @@
+{
+  "patient_name": "Titus Jelks",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jelks, presents to the emergency department with complaints of severe chest pain. The pain is described as a crushing sensation, radiating to the left arm and jaw. It began approximately 2 hours ago while he was at rest. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. He has a history of hypertension and smokes one pack of cigarettes per day. His vital signs on presentation are as follows: blood pressure 150/90 mmHg, heart rate 90 bpm, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Smokes one pack of cigarettes per day."
+}

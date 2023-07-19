@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donn Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that radiates down his left arm and jaw. He describes the pain as a squeezing sensation and rates it as 8 out of 10 in severity. He states that the pain started suddenly approximately 2 hours ago while he was at rest. The patient denies any shortness of breath, diaphoresis, or lightheadedness. He admits to a history of hypertension and has been taking medication for it. EKG shows ST-segment elevation in leads II, III, and aVF, indicating an acute inferior ST-elevation myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, malaise, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies shortness of breath, cough, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "No complaints of joint pain, muscle pain, or stiffness.",
+    "skin": "No complaints of rashes, lesions, or itching.",
+    "neurologic": "No complaints of headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 55.",
+  "social_history": "Patient is a smoker with a 10 pack-year smoking history."
+}

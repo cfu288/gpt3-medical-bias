@@ -1,0 +1,21 @@
+{
+  "patient_name": "Terrance Franklin",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Franklin is a 45-year-old male presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago, is described as a sharp, squeezing sensation, and radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous history of similar symptoms. Upon arrival, the patient was pale and diaphoretic. A 12-lead EKG was obtained and showed ST-segment elevation in leads II, III, and AVF consistent with acute ST-elevation myocardial infarction (STEMI). The patient was started on aspirin, nitroglycerin, and received thrombolytic therapy.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, hemoptysis, or dyspnea.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria or urinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 52.",
+  "social_history": "The patient is a smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

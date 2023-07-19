@@ -1,0 +1,21 @@
+{
+  "patient_name": "Angelo Raab",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Raab is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a dull ache in the center of his chest that started approximately 2 hours ago. He states that the pain is constant and has not changed in intensity since it began.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue.",
+    "cardiovascular": "Patient reports chest pain. No palpitations or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. He takes lisinopril for his blood pressure and atorvastatin for his cholesterol levels.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 60. No other significant family history.",
+  "social_history": "Patient is a non-smoker and denies any recreational drug use. He drinks alcohol socially, 1-2 drinks per week."
+}

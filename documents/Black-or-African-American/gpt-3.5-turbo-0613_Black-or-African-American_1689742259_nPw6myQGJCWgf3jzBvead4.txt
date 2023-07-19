@@ -1,0 +1,21 @@
+{
+  "patient_name": "Greta Williams",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of acute onset chest pain. The pain is described as tightness and pressure in the center of the chest, radiating to the left arm and jaw. The pain has been present for the past hour and is associated with shortness of breath and diaphoresis. The patient denies any known triggers or relieving factors. No previous history of similar chest pain. No associated symptoms of nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint. No palpitations or syncope.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash, itching, or swelling.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily, and Metformin 1000mg twice daily.",
+  "past_surgical_history": "Appendectomy at age 25.",
+  "family_history": "Positive for coronary artery disease in father at age 65.",
+  "social_history": "Non-smoker, social drinker."
+}

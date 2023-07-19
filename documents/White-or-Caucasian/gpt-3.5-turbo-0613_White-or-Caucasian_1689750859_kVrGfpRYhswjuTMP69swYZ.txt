@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeanie Davis",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jeanie Davis, a 42-year-old female, presents with complaints of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. She states that the pain started approximately 1 hour ago and has been continuous. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath",
+    "gi": "Denies nausea or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Positive for left arm pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril daily. She denies any other significant medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No history of surgical procedures",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a secretary and has no known occupational exposures."
+}

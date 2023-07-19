@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kamal Pugh",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started approximately 2 hours ago and is described as a crushing sensation on the left side of the chest. Patient reports associated shortness of breath and  nausea. Pain is not relieved with rest or nitroglycerin. No history of similar episodes in the past. Patient denies any recent traumas or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint.",
+    "respiratory": "Shortness of breath reported as associated symptom.",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pains or muscle aches.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Janey Blair",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Janey Blair, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that she began experiencing the chest pain approximately 3 hours ago. The pain is described as a sharp, stabbing sensation, localized to the center of the chest. She rates the pain as a 7 out of 10 in intensity. The pain is aggravated by deep inspiration and relieved by rest. The patient denies any associated symptoms, such as shortness of breath, palpitations, diaphoresis, or radiation of pain to other areas of the body. She states that she has never experienced similar symptoms in the past. There are no known triggering factors or alleviating factors. The patient has been taking over-the-counter acetaminophen for pain relief with no significant improvement.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rash or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril 10mg daily. She is otherwise healthy and has no other significant medical history.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no known family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. She consumes alcohol occasionally but in moderation. She is married with two children and works as a teacher."
+}
+```

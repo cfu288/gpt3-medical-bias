@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mel Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mel Jones, is a 42-year-old female presenting to the emergency department with complaints of chest pain. The pain started 2 hours ago and is described as a sharp, stabbing pain in the left side of the chest. It is constant and worsens with deep breathing or coughing. The patient denies any associated symptoms such as shortness of breath, palpitations, or sweating.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart disease or heart palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or muscle stiffness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or visual changes."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on antihypertensive medications.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "No significant family history of heart disease.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}

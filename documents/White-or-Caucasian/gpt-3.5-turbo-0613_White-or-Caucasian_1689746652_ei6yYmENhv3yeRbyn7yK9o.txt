@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Suzanne Rolland",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Rolland is a 52-year-old female who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a pressure-like sensation in the center of her chest. It radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has no significant past medical history and is otherwise healthy. Electrocardiogram and cardiac enzymes have been ordered to rule out myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

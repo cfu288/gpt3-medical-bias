@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Richelle Ragsdale",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain started approximately 2 hours ago and is described as a sharp and squeezing sensation in the center of the chest. Patient denies associated symptoms such as shortness of breath, nausea, or diaphoresis. No relieving or aggravating factors reported. No significant medical history or risk factors for cardiovascular disease. No previous episodes of chest pain. Currently pain is rated 7 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss reported.",
+    "cardiovascular": "No palpitations, edema, or syncope reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain reported.",
+    "gu": "No urinary frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement reported.",
+    "skin": "No rashes, itching, or changes in color or texture reported.",
+    "neurologic": "No headache, dizziness, or changes in sensation or movement reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient currently taking ibuprofen for occasional headaches.",
+  "past_surgical_history": "No previous surgical interventions reported.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Darci Radcliffe",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started two hours ago. The pain is described as a squeezing sensation in the center of the chest and radiates to the left arm. The patient also reports shortness of breath and diaphoresis. No associated symptoms such as nausea or vomiting. Onset of symptoms was sudden.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath, denies palpitations or abnormal heart rhythms.",
+    "respiratory": "Patient reports shortness of breath but denies cough, wheezing, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "Patient reports some discomfort in the left arm.",
+    "skin": "No skin complaints.",
+    "neurologic": "Patient reports no headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and simvastatin daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and denies illicit drug use. Moderate alcohol consumption."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geneva Stuart",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain is described as sharp and crushing, radiating to the left arm. Patient reports shortness of breath and diaphoresis accompanying the pain. The pain started approximately 1 hour ago and has been constant since then. Patient denies any history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight changes.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom experienced.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath except when experiencing the chest pain.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms except for the pain in the chest.",
+    "skin": "Patient denies any skin symptoms.",
+    "neurologic": "Patient reports no neurological symptoms except for the pain in the chest."  
+  },
+  "past_medical_history": "Patient reports a history of hypertension.",
+  "medications": "Patient takes amlodipine 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

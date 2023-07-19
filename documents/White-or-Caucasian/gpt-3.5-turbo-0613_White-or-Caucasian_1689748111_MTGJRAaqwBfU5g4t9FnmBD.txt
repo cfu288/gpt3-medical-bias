@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Katrin Mcinnis",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Mcinnis is a 50-year-old female who presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about an hour ago and is located in the center of her chest. The pain is described as a heaviness and pressure and radiates down her left arm. She rates the pain as 7 out of 10 in severity. She denies any shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers or chills.",
+    "cardiovascular": "No known heart disease, palpitations, or edema.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No weakness or numbness."
+  },
+  "past_medical_history": "Mrs. Mcinnis has a history of hypertension and hyperlipidemia.",
+  "medications": "She is currently taking lisinopril and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Her father had a heart attack at the age of 65.",
+  "social_history": "She is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

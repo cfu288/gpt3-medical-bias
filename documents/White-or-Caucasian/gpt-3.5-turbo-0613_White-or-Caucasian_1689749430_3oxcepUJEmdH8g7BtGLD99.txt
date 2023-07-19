@@ -1,0 +1,21 @@
+{
+  "patient_name": "Phoebe Crenshaw",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 7 out of 10 in severity. She denies any shortness of breath, nausea, or diaphoresis. She has a past medical history of hypertension and hyperlipidemia. Upon arrival to the emergency department, an EKG was performed which showed ST segment elevation in leads II, III, and aVF. Considering the patient's symptoms and EKG findings, a diagnosis of acute myocardial infarction is strongly suspected.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Chest pain, no palpitations or syncope",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnathan Wilson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Johnathan Wilson, a 42-year-old male, presented to the emergency department with a chief complaint of chest pain. He described the pain as a squeezing sensation in the center of his chest that started 2 hours ago. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any shortness of breath, dizziness, or diaphoresis. Upon arrival, the patient appeared in moderate distress and was immediately taken to the exam room for evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above. No prior history of similar episodes.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria, frequency, hesitancy or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or limited range of motion.",
+    "skin": "The patient denies rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, seizures, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes medication for both conditions but does not recall the names of the medications.",
+  "medications": "The patient is unsure of the names of the medications for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's father has a history of coronary artery disease and his mother has a history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

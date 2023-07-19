@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eddy Fields",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Fields presents to the emergency department with complaints of chest pain. He describes the pain as a pressure-like sensation that started about 2 hours ago. The pain radiates to his left arm and is associated with shortness of breath and diaphoresis. He denies any prior episodes of similar chest pain. Upon arrival, his vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Positive for chest pain, radiating to left arm, associated with shortness of breath and diaphoresis.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary complaints.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Mr. Fields has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril 10mg daily for blood pressure control and atorvastatin 20mg daily for cholesterol management.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of heart disease.",
+  "social_history": "Mr. Fields is a non-smoker and denies any alcohol or illicit drug use."
+}

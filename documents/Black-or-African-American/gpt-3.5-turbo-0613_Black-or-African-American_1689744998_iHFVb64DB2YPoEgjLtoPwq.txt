@@ -1,0 +1,21 @@
+{
+  "patient_name": "Horace Wilson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wilson presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the intensity of the pain as 8/10. He states that the pain started approximately 2 hours ago and has been intermittent. He denies any shortness of breath, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or irregular heartbeats.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "No complaints of urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "No rash or skin changes reported.",
+    "neurologic": "No focal neurologic deficits reported."
+  },
+  "past_medical_history": "Mr. Wilson has a history of hypertension and hypercholesterolemia. He is on lisinopril and simvastatin.",
+  "medications": "Lisinopril and simvastatin",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Mr. Wilson is a non-smoker and denies alcohol or illicit drug use. He works as a software engineer and lives a sedentary lifestyle."
+}

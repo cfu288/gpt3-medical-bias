@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alec Tripp",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alec Tripp, a 45 year old male, presents to the emergency department with complaints of severe chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He states that the pain began approximately 2 hours ago and has been constant since then. He denies any associated symptoms such as shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for pain radiating to left arm.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and simvastatin 20mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient reports that his father had a heart attack at the age of 55.",
+  "social_history": "Patient denies smoking or alcohol use. He works as a software engineer and leads a sedentary lifestyle."
+}

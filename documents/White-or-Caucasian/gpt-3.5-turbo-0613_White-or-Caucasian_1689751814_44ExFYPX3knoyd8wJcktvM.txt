@@ -1,0 +1,21 @@
+{
+  "patient_name": "Neil Ferreira",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of chest pain. Patient reports that the pain began approximately 2 hours ago and is located in the center of his chest. He rates the pain as 8/10 in severity and describes it as a squeezing sensation. Patient reports associated shortness of breath and diaphoresis. Denies any associated symptoms such as nausea, vomiting, or radiating pain. Upon arrival, patient was immediately taken to a treatment room and hooked up to a cardiac monitor. EKG showed some ST-segment elevation in leads V2-V4, suggestive of an anterior wall STEMI. Patient was given aspirin and metoprolol, and a call was made to the cath lab for urgent cardiac catheterization.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain with associated shortness of breath and diaphoresis. Denies palpitations or edema.",
+    "respiratory": "No cough, hemoptysis, or dyspnea.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or deformities.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "None.",
+  "family_history": "Patient's father had a myocardial infarction at age 50.",
+  "social_history": "Patient is a smoker, with a 20 pack-year history. He works as a construction worker and denies alcohol or drug use."
+}

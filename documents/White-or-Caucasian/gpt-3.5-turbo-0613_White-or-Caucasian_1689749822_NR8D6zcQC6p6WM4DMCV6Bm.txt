@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aimee Levine",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is located in the center of the chest and radiates to the left arm. The pain is accompanied by shortness of breath, diaphoresis, and nausea. The patient denies any previous episodes of chest pain. Upon arrival, the patient appeared anxious and in distress.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss reported.",
+    "cardiovascular": "Patient reports palpitations and occasional dizziness.",
+    "respiratory": "Patient reports shortness of breath, especially with exertion.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or stiffness.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "Patient reports occasional headaches but denies weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient takes a daily multivitamin.",
+  "past_surgical_history": "No past surgical procedures reported.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient denies tobacco or recreational drug use. Social drinker, consumes alcohol occasionally."
+}
+```

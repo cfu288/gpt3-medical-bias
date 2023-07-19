@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cornelia Harris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cornelia Harris, a 45-year-old female, presents to the emergency department complaining of chest pain. She reports that the pain is located in the center of her chest and started approximately 2 hours ago. She describes the pain as a sharp, stabbing sensation, and rates it as a 6 out of 10 in severity. The pain radiates to her left arm and jaw. She denies any shortness of breath or diaphoresis associated with the chest pain. She has no history of cardiac or respiratory conditions. Upon further questioning, she reports that she has been experiencing some stress and anxiety lately. No relieving or exacerbating factors are identified at this time. She has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations or edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient is currently taking lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}
+```

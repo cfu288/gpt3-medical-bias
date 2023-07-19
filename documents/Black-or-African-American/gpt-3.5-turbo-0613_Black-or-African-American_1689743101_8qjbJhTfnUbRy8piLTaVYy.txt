@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lawanda Cooley",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation, radiating to her left arm and jaw. She rates the pain as 8/10 in intensity. It is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar pain. She states that the pain is worse with exertion and improves slightly with rest. No alleviating factors have been identified. The patient has a history of hypertension and was recently started on a new medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, denies palpitations or orthopnea",
+    "respiratory": "Denies cough, dyspnea, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or paresthesias"
+  },
+  "past_medical_history": "Hypertension, no other significant medical history",
+  "medications": "Current medications include: Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for family history of coronary artery disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

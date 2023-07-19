@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shlomo Crane",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Crane is a 48-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as an 8 out of 10 and states that it is not relieved with rest. He denies any associated shortness of breath, diaphoresis, or nausea. He has a history of hypertension and takes medication for it. He denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for pain in the left arm",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Medication for hypertension",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Negative for cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

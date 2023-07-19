@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charley Hicks",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of severe chest pain. Upon further questioning, the patient describes the pain as a squeezing sensation in the center of the chest that radiates to the left arm and jaw. The pain started approximately 2 hours ago and has been constant since then. The patient denies any shortness of breath, nausea, or diaphoresis. It is important to note that the patient has a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

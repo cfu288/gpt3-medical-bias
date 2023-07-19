@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Willy Stevens",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Willy Stevens, a 45-year-old male, presents to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is located in the center of his chest. The pain is described as a dull ache and is radiating to his left arm. He rates the pain as a 8/10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

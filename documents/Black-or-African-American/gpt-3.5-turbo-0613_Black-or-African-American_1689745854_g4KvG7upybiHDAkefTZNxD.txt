@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gerry Graham",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Graham is a 45-year-old male who presents to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation and rates it as 8 out of 10 in severity. The pain radiates to his left arm and jaw. He denies any shortness of breath, nausea, or diaphoresis. He has a history of hypertension and is currently taking amlodipine.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Amlodipine",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

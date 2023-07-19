@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eddy Hill",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Eddy Hill, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started 2 hours ago while he was at home and has been constant since then. He describes the pain as a tightness in his chest that radiates to his left arm. He denies any shortness of breath, nausea, or lightheadedness. The pain has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for left arm pain, negative for back pain or joint pain.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "He takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "Negative for family history of heart disease.",
+  "social_history": "The patient denies smoking or recreational drug use. He consumes alcohol occasionally."
+}

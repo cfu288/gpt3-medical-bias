@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rocky Scott",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He rates the pain as 8 out of 10 and states that it started suddenly while he was at rest. The pain has been constant for the past hour and is not relieved by rest or medication. He denies any shortness of breath, dizziness, or nausea. He has no prior history of chest pain and no known risk factors for cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for pain radiating to left arm",
+    "skin": "Denies rashes or skin changes",
+    "neurologic": "Denies headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10mg daily and atorvastatin 20mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father who had a heart attack in his 50s.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He drinks alcohol occasionally but denies any illicit drug use."
+}

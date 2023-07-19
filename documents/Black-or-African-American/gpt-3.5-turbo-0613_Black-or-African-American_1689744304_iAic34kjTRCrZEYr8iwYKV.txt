@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rupert Smart",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Rupert Smart, is a 55-year-old man who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while he was at rest and has been constant since then. He describes the pain as a tightness and pressure in the center of his chest, radiating to his left arm. He denies any shortness of breath, nausea, or vomiting. He also denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or headache.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10 mg once daily",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Negative for family history of coronary artery disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jacinta Johnson",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jacinta Johnson, a 35-year-old female, presents to the Emergency Department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as an intermittent, sharp, and stabbing pain located in the left side of her chest. She rates the pain as a 7 out of 10 in severity. She denies any associated shortness of breath, diaphoresis, or radiation of pain. She states that she has never experienced this type of pain before and it is concerning to her. On further questioning, the patient reports no recent exertion, trauma, or history of lung disease. She denies any history of cardiac disease or risk factors for coronary artery disease. She reports no significant medical or surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "Denies cough, wheezing, or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, swelling, stiffness, or recent trauma.",
+    "skin": "Denies rash, pruritus, or changes in skin color or texture.",
+    "neurologic": "Denies headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient denies tobacco use, illicit drug use, or alcohol consumption."
+}
+```

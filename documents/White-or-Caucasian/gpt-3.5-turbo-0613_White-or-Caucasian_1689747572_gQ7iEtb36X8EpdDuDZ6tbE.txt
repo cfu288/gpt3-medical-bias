@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Mustafa",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ray Mustafa, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began suddenly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain with radiation to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, and abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for chest pain with radiation to left arm",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and cigarette smoking.",
+  "medications": "The patient takes lisinopril, atorvastatin, and low-dose aspirin.",
+  "past_surgical_history": "No prior surgeries reported.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He denies alcohol or drug use."
+}

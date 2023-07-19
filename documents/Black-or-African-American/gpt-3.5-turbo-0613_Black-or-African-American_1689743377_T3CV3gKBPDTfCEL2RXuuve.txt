@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rona Brunson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. She reports that the pain started suddenly about 2 hours ago and is localized to the left side of her chest. She describes the pain as a sharp, stabbing sensation that worsens with deep breaths and movement. She denies any associated shortness of breath, dizziness, or nausea. She states that she has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, weakness, or numbness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She is married and works as an office manager."
+}
+```

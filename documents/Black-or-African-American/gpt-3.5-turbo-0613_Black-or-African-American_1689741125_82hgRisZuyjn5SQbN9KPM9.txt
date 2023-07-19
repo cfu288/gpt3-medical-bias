@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Emanuel Crayton",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Crayton is a 45-year-old male presenting with acute onset severe chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain started approximately two hours ago and is not relieved with rest. He denies any shortness of breath, nausea, or diaphoresis. He has no history of angina or myocardial infarction. On physical examination, the patient appears uncomfortable and diaphoretic. Vital signs are as follows: blood pressure 140/90 mmHg, heart rate 100 bpm, respiratory rate 18 breaths per minute, temperature 98.6°F. "
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "Denies palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Atenolol 50mg daily, simvastatin 40mg daily",
+  "past_surgical_history": "Cholecystectomy at age 30",
+  "family_history": "Father had a myocardial infarction at age 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

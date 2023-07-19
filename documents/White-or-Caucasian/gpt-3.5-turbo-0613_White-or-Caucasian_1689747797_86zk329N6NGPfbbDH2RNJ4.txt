@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joseph Halterman",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Halterman is a 42-year-old male who presents to the emergency department with complaints of severe chest pain. The pain started suddenly while he was at rest and has not improved with rest or position. He describes the pain as a crushing sensation in the center of his chest, radiating down his left arm. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Positive for palpitations and shortness of breath.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Positive for pain in the left arm and shoulder.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Halterman has a history of hypertension and hyperlipidemia. He takes lisinopril for blood pressure control and atorvastatin for high cholesterol.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for coronary artery disease in his father.",
+  "social_history": "Mr. Halterman is a smoker with a 20-pack-year history. He denies alcohol or illicit drug use."
+}

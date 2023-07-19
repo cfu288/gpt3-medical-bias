@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bertrand Weaver",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient rates the pain as 8 out of 10 in severity. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports palpitations.",
+    "respiratory": "Patient complains of shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin for his medical conditions.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carlotta Smith",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carlotta Smith, a 58-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient states that the pain started suddenly approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm and jaw. The patient rates the intensity of the pain as 8 out of 10. She denies any associated shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia. She takes lisinopril for her hypertension and atorvastatin for her dyslipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use."
+}

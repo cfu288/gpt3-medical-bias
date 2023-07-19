@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tomeka Spriggs",
+  "age": "Not specified",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tomeka Spriggs, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a dull ache that started approximately 2 hours ago while she was at work. She states that the pain is located in the center of her chest and radiates to her left arm. She denies any shortness of breath, palpitations, or diaphoresis. She also denies any associated symptoms such as nausea or lightheadedness. She reports that the pain is not relieved with rest and is slightly worsened with deep inspiration. The patient denies any previous episodes of chest pain and has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or change in bowel movements",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no significant family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

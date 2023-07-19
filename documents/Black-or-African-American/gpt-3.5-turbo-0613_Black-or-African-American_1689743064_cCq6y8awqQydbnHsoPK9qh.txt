@@ -1,0 +1,21 @@
+{
+  "patient_name": "Farrah Cooper",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Cooper presented to the emergency department with a complaint of chest pain. The pain started suddenly while she was at rest and lasted for approximately 30 minutes. She describes the pain as a sharp, stabbing sensation localized to the left side of her chest. The pain radiated to her left arm. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that this is the first episode of chest pain she has experienced. There is no known trigger for the pain and it resolved on its own. She denies any recent illness or trauma. She does have a family history of heart disease, with her father having a heart attack in his 50s. She smokes 1 pack of cigarettes per day and has been doing so for the past 10 years.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described in HPI. Negative for palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for father with history of heart attack.",
+  "social_history": "Smokes 1 pack of cigarettes per day for the past 10 years."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frederic Flanagan",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Flanagan presents to the emergency department with a chief complaint of chest pain. The pain radiates to his left arm and has been present for the past 2 hours. He describes the pain as squeezing and rates it as 8 out of 10 in intensity. The pain is not relieved with rest. He denies any shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain radiating to left arm",
+    "respiratory": "No shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Mr. Flanagan has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Mr. Flanagan is a non-smoker and rarely drinks alcohol. He works as a software engineer and leads a sedentary lifestyle."
+}

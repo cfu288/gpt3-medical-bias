@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cary Waiters",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cary Waiters, a 45-year-old male, presents to the emergency department with chief complaint of chest pain. He reports that the pain began approximately 2 hours ago while he was at rest and has been persistent since then. The pain is described as a pressure-like sensation in the center of his chest, radiating to his left arm. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. On further questioning, the patient acknowledges a past medical history of hypertension and high cholesterol, and a family history of coronary artery disease. The patient denies any past surgical history and reports taking metoprolol and atorvastatin for his medical conditions. He also admits to current smoking status of 10 cigarettes per day for the past 20 years.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No numbness or weakness."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease",
+  "social_history": "Current smoker (10 cigarettes/day for 20 years)"
+}

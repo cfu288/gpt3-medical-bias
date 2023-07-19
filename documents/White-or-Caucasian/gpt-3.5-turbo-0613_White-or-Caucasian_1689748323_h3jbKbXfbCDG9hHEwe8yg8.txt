@@ -1,0 +1,21 @@
+{
+  "patient_name": "Philippe Dyer",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Dyer is a 45-year-old male who presents to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the intensity of the pain as 9 out of 10. He also reports associated shortness of breath and nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain, radiating to left arm and jaw",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Positive for nausea",
+    "gu": "No significant complaints",
+    "musculoskeletal": "No significant complaints",
+    "skin": "No significant complaints",
+    "neurologic": "No significant complaints"
+  },
+  "past_medical_history": "Mr. Dyer has a history of hypertension and hyperlipidemia",
+  "medications": "Enalapril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "Positive for coronary artery disease in his father",
+  "social_history": "Mr. Dyer is a smoker with a 20 pack-year history. He does not consume alcohol or use illicit drugs."
+}

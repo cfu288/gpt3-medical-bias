@@ -1,0 +1,21 @@
+{
+  "patient_name": "Natasha Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with severe chest pain that radiates to the left arm. Pain started approximately 1 hour ago and has progressively worsened. Patient describes the pain as crushing and heavy. No relieving or aggravating factors mentioned.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain is the main concern.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease or other significant illnesses.",
+  "social_history": "Non-smoker, occasional alcohol use, no illicit drug use."
+}

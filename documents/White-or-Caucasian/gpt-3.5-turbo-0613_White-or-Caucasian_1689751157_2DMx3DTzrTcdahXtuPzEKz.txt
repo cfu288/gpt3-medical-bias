@@ -1,0 +1,21 @@
+{
+  "patient_name": "Meagan Moore",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to ED with complaint of acute-onset severe chest pain. Pain is described as squeezing and radiating to left arm. Patient states pain started 30 minutes ago and has been constant since then. No alleviating or aggravating factors reported. Denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. No known history of heart disease. No recent trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, night sweats.",
+    "cardiovascular": "Reports chest pain, no palpitations, no edema.",
+    "respiratory": "Denies cough, shortness of breath, wheezing.",
+    "gi": "Denies nausea, vomiting, abdominal pain, changes in bowel movements.",
+    "gu": "No dysuria, no hematuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, swelling.",
+    "skin": "No rash, no pruritus.",
+    "neurologic": "Denies headache, dizziness, syncope."
+  },
+  "past_medical_history": "Patient has a history of hypertension for 5 years. Takes hydrochlorothiazide for blood pressure control.",
+  "medications": "Hydrochlorothiazide 25 mg daily",
+  "past_surgical_history": "Appendectomy at age 18, no other surgeries.",
+  "family_history": "Father has a history of coronary artery disease.",
+  "social_history": "Patient is a nonsmoker. Denies alcohol or drug use."
+}

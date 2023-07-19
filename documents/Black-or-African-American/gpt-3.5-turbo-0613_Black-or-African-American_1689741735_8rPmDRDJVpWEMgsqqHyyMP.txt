@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Winston Jackson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jackson presents to the emergency department complaining of severe chest pain that started suddenly this evening. The pain is located in the center of his chest and is described as a tightness with a burning sensation. He rates the severity of the pain as an 8/10. The pain has not radiated to other areas and is not relieved with rest or change in position. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. The patient reports a history of hypertension and takes medication for it. He denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Negative for palpitations or edema.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headaches or dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 65",
+  "social_history": "Smokes 1 pack of cigarettes per day for the past 30 years"
+}
+```

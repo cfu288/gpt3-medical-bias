@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brett Wiegman",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Brett Wiegman, a 42-year-old male, presents to the emergency department complaining of sudden onset severe chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm and jaw. The pain began approximately 30 minutes ago and has persisted since then. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He states that this is the first time he has experienced this type of pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily for hypertension and dyslipidemia, respectively.",
+  "past_surgical_history": "None.",
+  "family_history": "Patient's father passed away from a myocardial infarction at the age of 60. No history of other cardiovascular diseases in the family.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He works as a computer programmer and leads a sedentary lifestyle."
+}

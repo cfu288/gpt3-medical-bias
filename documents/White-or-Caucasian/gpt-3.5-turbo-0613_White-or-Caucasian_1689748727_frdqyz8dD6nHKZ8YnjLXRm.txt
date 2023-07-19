@@ -1,0 +1,21 @@
+{
+  "patient_name": "Glory Hawkins",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating down her left arm. She rates the pain as a 7 out of 10 and states that it started about an hour ago while she was resting at home. The pain is not relieved with rest or over-the-counter pain medications. She denies any shortness of breath, nausea, or diaphoresis. She has no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, pruritus, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Negative for any family history of heart disease or other significant medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

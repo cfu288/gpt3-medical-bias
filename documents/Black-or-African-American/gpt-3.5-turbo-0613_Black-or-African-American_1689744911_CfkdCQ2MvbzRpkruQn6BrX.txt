@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Gavin",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Cornell Gavin, a 52-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8 out of 10 in intensity. He denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and high cholesterol. He takes medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain or changes in bowel habits",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Denies rash or changes in skin color",
+    "neurologic": "Denies headache or confusion"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "No known surgical history",
+  "family_history": "Mother had a heart attack at age 60",
+  "social_history": "Non-smoker, drinks alcohol occasionally"
+}

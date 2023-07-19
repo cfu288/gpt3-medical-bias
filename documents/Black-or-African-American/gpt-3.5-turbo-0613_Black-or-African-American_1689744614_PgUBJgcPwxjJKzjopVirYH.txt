@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shon Harris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started 1 hour ago, is described as a squeezing sensation, and is radiating to the left arm. Patient also reports shortness of breath and dizziness. No associated symptoms of nausea or vomiting. No known triggers for the pain. No previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss or weight gain",
+    "cardiovascular": "Reports palpitations and chest pain",
+    "respiratory": "Reports shortness of breath",
+    "gi": "Denies abdominal pain, nausea or vomiting",
+    "gu": "Denies urinary frequency, urgency or pain",
+    "musculoskeletal": "No complaints of joint pain or muscle pain",
+    "skin": "No rash or changes in the skin",
+    "neurologic": "Reports dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient is taking lisinopril (10mg daily) and atorvastatin (20mg daily) for hypertension and hyperlipidemia",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "Positive family history of coronary artery disease in father",
+  "social_history": "Patient is a smoker with a 20 pack-year history. Denies alcohol or illicit drug use."
+}

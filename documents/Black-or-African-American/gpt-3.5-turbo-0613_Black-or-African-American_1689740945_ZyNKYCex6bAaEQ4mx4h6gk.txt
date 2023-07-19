@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cordelia Duncan",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started around 2 hours ago. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the pain as a 9 out of 10 and reports feeling short of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Chest pain and shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 50",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

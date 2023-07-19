@@ -1,0 +1,18 @@
+{ "patient_name": "Wes Walker",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Wes Walker, is a 54-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as sudden onset, radiating to his left arm, and associated with shortness of breath and diaphoresis. He states that the pain started approximately 30 minutes ago while he was resting. He denies any alleviating or aggravating factors. The patient denies any previous episodes of chest pain or similar symptoms. He reports no significant medical history.",
+  "review_of_symptoms": { "constitutional": "Denies fever, chills, fatigue, or weight loss.",
+                           "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+                           "respiratory": "Negative for cough, sputum, or shortness of breath at rest.",
+                           "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+                           "gu": "Negative for dysuria, frequency, polyuria, or changes in urine color.",
+                           "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+                           "skin": "Negative for rash, itching, or sores.",
+                           "neurologic": "Negative for headache, dizziness, or changes in coordination." },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies any current medications.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease or other relevant conditions.",
+  "social_history": "The patient denies any tobacco use, alcohol use, or illicit drug use. He works as a computer programmer and is divorced."
+}

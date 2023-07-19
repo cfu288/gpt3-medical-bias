@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pearl Johnson",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately two hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

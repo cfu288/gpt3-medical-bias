@@ -1,0 +1,21 @@
+{
+  "patient_name": "Admir Brown",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Brown, presented to the Emergency Department with a chief complaint of chest pain. He described the pain as a crushing sensation in his chest that radiates to his left arm. He also reported accompanying symptoms such as difficulty breathing and sweating. He mentioned that the pain started approximately 30 minutes ago and has been constant since then. The pain intensifies with exertion and subsides with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension managed with losartan 50 mg daily.",
+  "medications": "Losartan 50 mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

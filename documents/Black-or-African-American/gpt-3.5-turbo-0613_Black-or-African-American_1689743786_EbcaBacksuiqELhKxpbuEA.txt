@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Bush",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bush presented to the emergency department today with a chief complaint of chest pain. He states that the pain started approximately 2 hours ago and is described as a squeezing sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any other symptoms such as palpitations, lightheadedness, or nausea. He has a past medical history of hypertension and hyperlipidemia. He is currently taking medications for these conditions. He has not had any surgeries in the past. His family history is significant for coronary artery disease in his father who had a myocardial infarction at the age of 60. In terms of social history, he is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "",
+  "family_history": "Father with coronary artery disease",
+  "social_history": "Nonsmoker, no alcohol or illicit drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tresa Smith",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Smith presents to the emergency department with a chief complaint of acute onset chest pain. She describes the pain as a sharp, stabbing sensation that radiates to her left arm. The pain started approximately 2 hours ago while she was at rest. She denies any shortness of breath, diaphoresis, or nausea. She has no known history of heart disease or other cardiac issues.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of seasonal allergies and occasional migraines.",
+  "medications": "The patient takes over-the-counter antihistamines as needed for allergies and ibuprofen for migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of heart disease or other cardiac issues.",
+  "social_history": "The patient works as a teacher and lives with her husband and two children. She denies smoking, alcohol use, or illicit drug use."
+}

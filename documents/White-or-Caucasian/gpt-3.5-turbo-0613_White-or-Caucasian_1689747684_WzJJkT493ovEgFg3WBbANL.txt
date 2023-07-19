@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kaye Mantell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kaye Mantell, a 45-year-old female, presents with complaints of acute onset chest pain. The pain is described as a sharp, stabbing sensation localized to the left side of the chest. The pain began approximately 3 hours ago and has persisted since then. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. She reports that the pain worsens with deep inspiration and movement. There is no history of trauma or recent illness. The patient has never experienced these symptoms before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or changes in heart rhythm.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or pruritus.",
+    "neurologic": "Negative for headaches or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. She takes hydrochlorothiazide and atorvastatin for her conditions. She is up to date on her medications.",
+  "medications": "Hydrochlorothiazide 25 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Negative for any significant family medical history, including heart disease, diabetes, or cancer.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as an office administrator and denies any illicit drug use."
+}
+```

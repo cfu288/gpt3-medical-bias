@@ -1,0 +1,21 @@
+{
+  "patient_name": "Art Teamer",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 1 hour ago. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and nausea. The pain is not relieved with rest and has a severity of 8 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "Nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

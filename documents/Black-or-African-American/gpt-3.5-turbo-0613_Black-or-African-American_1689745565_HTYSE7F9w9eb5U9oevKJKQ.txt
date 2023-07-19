@@ -1,0 +1,21 @@
+{
+  "patient_name": "Samuel Tate",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Samuel Tate, a 42-year-old male, presents to the emergency department with complaints of severe chest pain that started approximately two hours ago. The pain is described as a squeezing sensation and radiates to the left arm. Mr. Tate denies any shortness of breath, dizziness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough, sputum production, dyspnea",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms or abnormalities",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "No rashes, lesions, or discolorations",
+    "neurologic": "No headaches, dizziness, weakness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Tate has a past medical history significant for hypertension and hyperlipidemia. He is currently taking lisinopril 10mg daily and atorvastatin 40mg daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Mr. Tate is a non-smoker, denies alcohol or illicit drug use, and works as a software engineer"
+}

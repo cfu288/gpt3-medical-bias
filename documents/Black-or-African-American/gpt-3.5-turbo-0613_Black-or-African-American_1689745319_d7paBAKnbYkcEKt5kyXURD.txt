@@ -1,0 +1,21 @@
+{
+  "patient_name": "Franklyn Aristide",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Aristide is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while he was at rest and is described as a crushing sensation in the center of his chest. The pain radiates to his left arm and jaw. Mr. Aristide also reports associated shortness of breath and diaphoresis. He denies any prior episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting",
+    "gu": "Negative for dysuria, frequency, urgency",
+    "musculoskeletal": "Negative for joint pain, swelling",
+    "skin": "Negative for rash, pruritus",
+    "neurologic": "Negative for headache, dizziness"
+  },
+  "past_medical_history": "Mr. Aristide has a history of hypertension and hyperlipidemia.",
+  "medications": "He takes amlodipine 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "He has no prior surgeries.",
+  "family_history": "Positive for coronary artery disease in his father.",
+  "social_history": "Mr. Aristide denies tobacco use, alcohol use, or illicit drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

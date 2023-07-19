@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donnie Pink",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Donnie Pink, a 42-year-old male presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while he was at work. He describes the pain as a squeezing sensation in the center of his chest that radiates down his left arm. He also reports feeling short of breath and sweaty. He denies any nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations.",
+    "respiratory": "Negative for cough or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest discomfort and left arm pain.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Negative for dizziness or confusion."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father.",
+  "social_history": "The patient is a non-smoker and denies any history of drug or alcohol abuse."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daria Wallace",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain started 2 hours ago while she was resting at home. She denies any associated shortness of breath, diaphoresis, or nausea. She has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as her only cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports some generalized muscle soreness, but denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

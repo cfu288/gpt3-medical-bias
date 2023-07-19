@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hattie Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Hattie Jones, a 45-year-old female, presented to the emergency department with complaints of acute onset of chest pain. She described the pain as a squeezing sensation in her chest that radiates to her left arm. The pain started approximately 1 hour ago and is associated with shortness of breath and diaphoresis. She denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports occasional palpitations but denies any history of heart disease or high blood pressure.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain but denies any other respiratory symptoms such as cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient does not report any joint or muscle pain.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling sensations."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medication for these conditions but is unsure of the exact names.",
+  "medications": "The patient reports taking medications for hypertension and hyperlipidemia but is unsure of the exact names or dosages.",
+  "past_surgical_history": "The patient does not have a history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of heart disease, stroke, or cancer.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. She works as a secretary and lives with her husband and two children."
+}

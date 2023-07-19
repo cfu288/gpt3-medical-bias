@@ -1,0 +1,21 @@
+{
+  "patient_name": "Perry Dreyer",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Perry Dreyer, a 45-year-old male, presented to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of his chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, diaphoresis, or palpitations. He has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations",
+    "respiratory": "Negative for cough or shortness of breath at rest",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for radiating pain to the left arm",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He is married and employed as a software engineer."
+}

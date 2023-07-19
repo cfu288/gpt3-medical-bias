@@ -1,0 +1,21 @@
+{
+  "patient_name": "Peggie Ellison",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Ellison presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain started approximately 2 hours ago while she was resting at home. It is associated with shortness of breath and diaphoresis. She denies any recent trauma or exertion leading up to the onset of symptoms. She states that the pain is not relieved by rest or change in position. She denies any associated symptoms such as nausea, vomiting, or radiation of the pain. She has a past medical history of hypertension and type 2 diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or hemoptysis.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash, changes in skin color, or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, type 2 diabetes.",
+  "medications": "Metoprolol 25 mg daily, Metformin 500 mg twice daily.",
+  "past_surgical_history": "None",
+  "family_history": "Positive for hypertension and diabetes in father and mother.",
+  "social_history": "Non-smoker, occasional alcohol use, denies illicit drug use."
+}

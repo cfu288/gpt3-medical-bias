@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hassan Dukes",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Hassan Dukes, a 42-year-old male, presented to the emergency department with complaints of severe chest pain. The pain started about 2 hours ago and is described as a crushing sensation. It radiates to the left arm and jaw. The patient also reports shortness of breath and diaphoresis. He denies any previous episodes of similar pain. Initial assessment reveals elevated blood pressure and a heart rate of 112 beats per minute. The patient appears pale and anxious.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough, wheezing, or sputum production",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Patient reports a history of hypertension for which he takes medications",
+  "medications": "Hypertension medications: amlodipine and lisinopril",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had a myocardial infarction at the age of 55",
+  "social_history": "Patient is a smoker with a 20-pack-year history. He denies any alcohol or drug use."
+}

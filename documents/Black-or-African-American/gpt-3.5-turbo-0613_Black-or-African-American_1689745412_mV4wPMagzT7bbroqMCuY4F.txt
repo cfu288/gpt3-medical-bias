@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosie Strong",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosie Strong, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. The pain started approximately two hours ago and has persisted since then. She rates the severity of the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or lightheadedness. She has no previous history of chest pain or cardiac issues. The pain is not relieved with rest or nitroglycerin. She denies any recent trauma or injury to the chest. She reports a family history of heart disease, with her father having had a heart attack in his 50s. Her past medical history is significant for hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily. She has never had any surgeries. She does not smoke or use illicit drugs. She drinks alcohol socially.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of heart disease and heart attack",
+  "social_history": "Non-smoker, non-drinker, no illicit drug use"
+}

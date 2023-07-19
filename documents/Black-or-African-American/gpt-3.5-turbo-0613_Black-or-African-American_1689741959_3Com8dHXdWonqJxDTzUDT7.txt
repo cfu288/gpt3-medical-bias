@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sammy Melton",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started suddenly about 2 hours ago. The pain is described as a sharp, squeezing sensation and radiates to the left arm. The patient rates the pain as 8 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No known heart disease.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is taking losartan and simvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive family history of heart disease in father and maternal grandfather.",
+  "social_history": "Patient is a non-smoker and does not use illicit drugs. Drinks alcohol occasionally."
+}

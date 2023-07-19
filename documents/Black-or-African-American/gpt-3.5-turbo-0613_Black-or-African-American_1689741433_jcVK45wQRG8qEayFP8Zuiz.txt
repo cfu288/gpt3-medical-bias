@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Arline Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Arline Johnson, a 45-year-old female, presents to the emergency department with complaints of chest pain. She describes the chest pain as a sharp, stabbing sensation that is localized to the left side of her chest. The pain started suddenly about 2 hours ago and has been persistent. She rates the intensity of the pain as 8 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension, for which she takes medications. She denies any shortness of breath, palpitations, or lower extremity swelling.",
+    "respiratory": "The patient denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports no joint pain, swelling, or limitations of movement.",
+    "skin": "The patient denies any skin rashes, lesions, or changes in moles.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for it.",
+  "medications": "The patient takes medications for hypertension.",
+  "past_surgical_history": "The patient has no known history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and heart disease.",
+  "social_history": "The patient denies any tobacco or alcohol use. She works as a teacher and lives with her family."
+}
+```

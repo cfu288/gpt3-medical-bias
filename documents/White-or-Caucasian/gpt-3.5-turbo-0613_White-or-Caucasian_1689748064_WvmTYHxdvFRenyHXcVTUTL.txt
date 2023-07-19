@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gene Dolce",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain started about 1 hour ago and is radiating to the left arm. Patient also reports shortness of breath and sweating. No previous history of similar symptoms. No known triggers of the pain. Pain is not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both well controlled with medications.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for coronary artery disease or heart attack in immediate family members.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Works as a software engineer. No recent travel or exposure to sick contacts."
+}
+```

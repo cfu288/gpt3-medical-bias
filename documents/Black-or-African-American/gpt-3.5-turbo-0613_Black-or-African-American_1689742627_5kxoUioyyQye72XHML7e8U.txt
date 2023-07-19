@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chantel Manor",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Chantel Manor, a 32-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing or pressure-like sensation that radiates to her left arm. She also reports feeling shortness of breath and lightheadedness. There is no aggravating or relieving factors reported at this time. She denies any previous episodes of chest pain or cardiac history. Upon further questioning, she reports no associated symptoms such as nausea, vomiting, or diaphoresis. The patient denies any recent travel, recent illness, or known exposure to COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath as previously mentioned.",
+    "respiratory": "No cough, wheezing, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, wounds, or lesions.",
+    "neurologic": "No headaches or focal neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies any regular medications or current use of over-the-counter medications.",
+  "past_surgical_history": "The patient reports no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiac disease, cancer, or any other hereditary conditions.",
+  "social_history": "The patient denies any tobacco or illicit drug use. Moderate alcohol use reported, approximating 1-2 drinks per week. No history of recent travel or exposure to sick contacts."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wilson Mckenzie",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Mckenzie is a 45-year-old male who presents with a chief complaint of chest pain. He reports that the pain started approximately 1 hour ago while he was at rest. The pain is described as a pressure-like sensation in the center of his chest, radiating to his left arm. He rates the pain as a 7 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or nausea. He has no history of angina or myocardial infarction. His vital signs are stable, with no signs of distress.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports chest pain, denies palpitations or swelling in the legs.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash, itching, or skin changes.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is compliant with his medications, which include lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 50s. The patient's mother is alive and has a history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as an accountant and does not participate in any regular exercise."
+}
+```

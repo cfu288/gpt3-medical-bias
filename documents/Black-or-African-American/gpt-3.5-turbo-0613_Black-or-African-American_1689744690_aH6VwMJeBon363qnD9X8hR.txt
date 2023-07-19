@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jonas Magee",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Magee presents to the emergency department with complaints of chest pain. He describes the pain as a 7/10, sharp, and radiating to his left arm. He reports that the chest pain started approximately 2 hours ago while he was at rest. The pain has not subsided since then. He denies any shortness of breath, palpitations, or diaphoresis. He also denies any recent trauma or illness. Given the severity and nature of his symptoms, further evaluation is warranted to rule out any cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "No constitutional symptoms.",
+    "cardiovascular": "Chest pain, no shortness of breath, palpitations, or diaphoresis.",
+    "respiratory": "No cough, dyspnea, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "Chest pain radiating to left arm.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Losartan 50mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 55.",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

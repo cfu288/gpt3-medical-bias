@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ora Abdi",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation, localized to the left side of the chest. It started approximately 1 hour ago and has since worsened in intensity. The pain is not relieved with rest or changing positions. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. No prior history of similar episodes. Patient has no known cardiac risk factors.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "Patient is currently taking lisinopril 20 mg daily for hypertension.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

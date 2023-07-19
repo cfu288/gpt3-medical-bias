@@ -1,0 +1,21 @@
+{
+  "patient_name": "Issa Ellinger",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Issa Ellinger, a 42-year-old male, presented to the emergency department with a chief complaint of chest pain. The chest pain began approximately 1 hour ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8 out of 10 on the pain scale. The pain is radiating to the left arm and jaw. The patient denies any shortness of breath, palpitations, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and radiating pain to left arm and jaw, negative for palpitations and diaphoresis.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin daily for hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient has a family history of heart disease. His father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

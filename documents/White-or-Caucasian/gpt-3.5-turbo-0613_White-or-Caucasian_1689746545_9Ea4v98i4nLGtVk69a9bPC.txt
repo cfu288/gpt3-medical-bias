@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lorie Hampton",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of chest pain. The pain started this evening while the patient was at home watching television. The pain is described as a squeezing sensation in the center of the chest and radiates to the left arm. The patient rates the pain severity as a 7 out of 10. There is no alleviating or exacerbating factors reported at this time. The patient denies any shortness of breath or palpitations. The patient has no history of similar episodes in the past. Initial assessment reveals mild diaphoresis and normal vital signs.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or changes in skin appearance.",
+    "neurologic": "No changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril and atorvastatin.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "Positive for heart disease in both parents.",
+  "social_history": "Patient is a smoker with a 10-pack-year history. Denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mavis Gambrel",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mavis Gambrel, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly approximately one hour ago while she was at rest. The pain is described as a sharp, stabbing sensation located in the center of her chest. She rates the intensity of the pain as 8/10 and states that it has not improved or worsened since onset. She denies any associated symptoms such as shortness of breath, sweating, or nausea. Upon further questioning, she reports a previous history of hypertension and hyperlipidemia. She is currently taking medication for both conditions. No recent surgeries or hospitalizations. No known allergies. She has a family history of coronary artery disease in her father. Socially, she works as a teacher and denies any tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint. Negative for palpitations or irregular heartbeats.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rashes, pruritus, or skin lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father with history of coronary artery disease",
+  "social_history": "Non-smoker, non-drinker, no illicit drug use"
+}

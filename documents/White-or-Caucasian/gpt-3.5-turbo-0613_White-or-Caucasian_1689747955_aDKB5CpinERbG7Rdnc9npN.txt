@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claudine Stoker",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is radiating to the left arm and is associated with shortness of breath. The patient denies any palpitations, diaphoresis, or nausea. There is no history of similar episodes in the past. Patient's blood pressure is 130/80 mmHg, heart rate is 90 beats per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any recent weight loss, fevers, or night sweats.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient has a family history of coronary artery disease in her father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

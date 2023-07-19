@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderick Pearson",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He rates the pain as a 7 out of 10 in intensity. The pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or leg swelling.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain. No cough or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Patient reports left arm pain associated with chest pain.",
+    "skin": "No rashes or sores.",
+    "neurologic": "No headache, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father had a heart attack at age 65.",
+  "social_history": "Patient smokes 1 pack of cigarettes per day and drinks alcohol occasionally."
+}

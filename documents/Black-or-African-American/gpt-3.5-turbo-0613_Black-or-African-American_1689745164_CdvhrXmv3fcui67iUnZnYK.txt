@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ola Daley",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ola Daley, a 47-year-old male, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a dull, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient states that he feels shortness of breath and is diaphoretic. He denies any associated symptoms like nausea, vomiting, or dizziness. He has no history of similar symptoms in the past. He denies any recent illness, trauma, or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath and denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions, including amlodipine and atorvastatin. He denies any other significant medical history.",
+  "medications": "Amlodipine 5 mg daily and atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of heart disease and died from a myocardial infarction at the age of 60. The patient's mother is alive and has no significant medical history.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug use. He works as a software engineer and denies any occupational exposures."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodney Tonks",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rodney Tonks, a 48-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. It started approximately 2 hours ago and has been constant since then. The patient rates the pain as 8 out of 10 on a pain scale. He denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. He has no significant past medical history and is not taking any medications. Upon arrival to the emergency department, the patient was given aspirin and nitroglycerin. The initial EKG showed ST elevation in leads II, III, and aVF, suggesting an acute inferior wall myocardial infarction. The patient was immediately started on aspirin, clopidogrel, heparin, and beta-blocker therapy. He has been stable since admission and is currently being scheduled for cardiac catheterization to assess coronary artery disease. ",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Father had a heart attack at age 60.",
+  "social_history": "The patient has a 20 pack-year smoking history and drinks alcohol occasionally."
+}

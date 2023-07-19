@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gale Everette",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Gale Everette, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of his chest. He rates the pain as an 8 out of 10 and states that it radiates to his left arm. The pain is exacerbated by exertion and relieved with rest. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has no history of cardiovascular disease or previous chest pain episodes. On examination, the patient appears uncomfortable and diaphoretic. His vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 99% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Negative for cough, dyspnea, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or ulcerations",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin daily.",
+  "medications": "Metoprolol 25 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "Negative",
+  "family_history": "Positive for hypertension in mother and father. Negative for heart disease or stroke.",
+  "social_history": "The patient is a lifelong non-smoker. He exercises regularly and follows a healthy diet."
+}

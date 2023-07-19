@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shanna Sanders",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. The pain is described as a dull ache, radiating to the left arm. Patient states the pain started approximately 2 hours ago and has been constant since then. Patient denies any associated shortness of breath, nausea, or diaphoresis. Upon further questioning, patient reports a history of hypertension and high cholesterol. She takes medications for these conditions but is unsure of the names.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "No shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Pain radiating to left arm.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches or changes in vision."
+  },
+  "past_medical_history": "Hypertension and high cholesterol.",
+  "medications": "Patient is unsure of the names of her medications.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "Patient denies tobacco use, alcohol use, or illicit drug use. She is married and works as an accountant."
+}

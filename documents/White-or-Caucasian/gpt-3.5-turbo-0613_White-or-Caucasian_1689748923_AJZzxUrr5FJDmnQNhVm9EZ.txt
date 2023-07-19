@@ -1,0 +1,21 @@
+{
+  "patient_name": "Guy Gray",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started suddenly 2 hours ago and is described as a pressure-like sensation in the center of the chest. Patient also reports radiation of pain to the left arm. Pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, and weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, diaphoresis. Negative for palpitations and syncope.",
+    "respiratory": "Negative for cough, sputum production, wheezing, and hemoptysis.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, and changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, and hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, and swelling.",
+    "skin": "Negative for rash, itching, and lesions.",
+    "neurologic": "Negative for headache, dizziness, numbness, and weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril and simvastatin.",
+  "past_surgical_history": "No history of any surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular diseases.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use. Works as a software engineer and is sedentary for most of the day."
+}

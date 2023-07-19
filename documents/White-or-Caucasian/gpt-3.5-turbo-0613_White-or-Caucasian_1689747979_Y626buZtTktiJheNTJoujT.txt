@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nataliya Raveling",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Raveling is a 43-year-old female who presents to the emergency department with complaints of chest pain. The pain started this morning and is substernal in location. She describes it as a sharp, stabbing pain that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. She denies any recent trauma or strenuous activity that could have caused the pain. She states that she has never experienced this type of pain before. She has taken some over-the-counter antacids, but they did not relieve her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Ms. Raveling has a history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 20 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for heart disease in both parents",
+  "social_history": "Ms. Raveling works as a software engineer. She is married and has two children. She denies tobacco, alcohol, or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duncan Johnson",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. He describes the pain as a pressure-like sensation in the center of the chest, radiating to the left arm. The pain started approximately 1 hour ago and has been constant since then. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient reports no previous history of chest pain or heart disease. He states that he exercises regularly and has a healthy lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for shortness of breath, palpitations, or edema.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies any current use of medications.",
+  "past_surgical_history": "Patient reports no previous surgeries.",
+  "family_history": "No family history of heart disease or other significant illnesses.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

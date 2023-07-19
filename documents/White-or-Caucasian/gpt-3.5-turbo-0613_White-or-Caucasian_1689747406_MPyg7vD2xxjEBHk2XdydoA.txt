@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nadeem Parker",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Parker, presented to the emergency department with complaints of severe chest pain. He reported that the pain began approximately two hours ago and is located in the center of his chest. The pain is described as a crushing sensation and is associated with shortness of breath. He denies any radiation of the pain, but does note some mild diaphoresis. He denies any recent trauma or physical exertion that could have caused the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath at rest",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Parker has a history of hypertension and hyperlipidemia, both of which are well-controlled with medications. He had an episode of chest pain two years ago that was ruled out as musculoskeletal in nature.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history",
+  "family_history": "Unknown",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

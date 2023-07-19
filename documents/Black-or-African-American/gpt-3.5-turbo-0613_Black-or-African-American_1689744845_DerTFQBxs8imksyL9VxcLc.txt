@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Germaine Carder",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Germaine Carder, a 45-year-old female presented to the emergency department with complaints of chest pain. The patient states that the pain started suddenly approximately 1 hour ago and is located in the center of her chest. She describes the pain as aching and crushing in nature, with a intensity of 8 out of 10. The patient denies any radiation of the pain. She also reports associated symptoms of shortness of breath and diaphoresis. The patient has no prior history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No muscle or joint pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of heart disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any recreational drug use. She drinks alcohol occasionally."
+}
+```

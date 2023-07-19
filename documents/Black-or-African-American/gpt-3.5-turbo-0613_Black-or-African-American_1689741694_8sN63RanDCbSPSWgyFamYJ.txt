@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ulysses Haney",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago and is described as a crushing and heavy sensation in the center of the chest. The pain radiates to the left arm and neck. The patient also reports shortness of breath and diaphoresis accompanying the chest pain. The patient denies any associated symptoms such as nausea, vomiting, or lightheadedness. The pain has not changed in intensity since it began.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported",
+    "cardiovascular": "Chest pain and shortness of breath as described above",
+    "respiratory": "No cough or shortness of breath at rest",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. The patient is taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a current smoker with a 30 pack-year smoking history. The patient drinks alcohol occasionally but denies any illicit drug use."
+}
+```

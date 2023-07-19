@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Timmy Watkins",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Watkins is a 42-year-old male who presents to the emergency department with complaints of severe chest pain. The pain started suddenly while he was at home, and he describes it as a crushing, pressure-like sensation in the center of his chest. The pain radiates to his left arm and jaw. He denies any associated shortness of breath, nausea, or diaphoresis. He states that the pain is persistent and has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or lightheadedness.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No skin rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Watkins has a history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "Mr. Watkins is a non-smoker and denies alcohol or illicit drug use."
+}
+```

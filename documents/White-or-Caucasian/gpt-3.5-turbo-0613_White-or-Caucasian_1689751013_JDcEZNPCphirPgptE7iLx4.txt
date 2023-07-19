@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kinga Willis",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of severe chest pain that started 2 hours ago. Pain is described as sharp and radiates to the left arm. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Pain is not relieved with rest. Patient previously had a coronary artery bypass graft (CABG) procedure and takes daily medications for hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations or irregular heartbeat.",
+    "respiratory": "No respiratory symptoms reported.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, prior CABG",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Coronary artery bypass graft (CABG)",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

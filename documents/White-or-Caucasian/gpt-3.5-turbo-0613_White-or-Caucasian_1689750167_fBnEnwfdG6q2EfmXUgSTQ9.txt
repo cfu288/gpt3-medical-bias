@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stephany Howerton",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stephany Howerton, is a 42-year-old female who presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about 2 hours ago while she was at home. The pain is located in the center of her chest and radiates to her left arm. She describes the pain as a squeezing or pressure-like sensation. She denies any shortness of breath, nausea, or diaphoresis. The pain has not resolved with rest or over-the-counter medications. She is concerned about the possibility of a heart attack given her family history of coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and obesity. She takes lisinopril and atorvastatin daily.",
+  "medications": "lisinopril, atorvastatin",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "Her mother had a heart attack at age 55. Her father has a history of hypertension.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a sedentary office worker and denies any illicit drug use."
+}
+```

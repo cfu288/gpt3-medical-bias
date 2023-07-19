@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ashraf Smith",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Smith is a 42-year-old male who presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while he was at work. He described the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denied any previous episodes of chest pain or similar symptoms. He has no known history of heart disease or risk factors for cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both well-controlled with medications. He has no history of diabetes, stroke, or heart disease.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia. He denies any other medications or allergies.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient reports a family history of hypertension and hyperlipidemia in his parents. There is no history of heart disease, strokes, or cancers in his immediate family.",
+  "social_history": "Patient is a social drinker and denies tobacco or illicit drug use. He is married and works as a software engineer. He denies any recent travel or sick contacts."
+}

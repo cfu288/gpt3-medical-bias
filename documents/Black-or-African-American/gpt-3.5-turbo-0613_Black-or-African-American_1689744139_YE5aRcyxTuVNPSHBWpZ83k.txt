@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kermit Henry",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Henry is a 45-year-old male who presents with a chief complaint of severe chest pain that started 2 hours ago. The pain is located in the center of his chest and radiates to his left arm. The pain is described as crushing and is associated with shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Mr. Henry denies fever, chills, or weight loss.",
+    "cardiovascular": "Mr. Henry reports chest pain, but denies palpitations or edema.",
+    "respiratory": "Mr. Henry reports shortness of breath, but denies cough or sputum production.",
+    "gi": "Mr. Henry denies abdominal pain, nausea, or vomiting.",
+    "gu": "Mr. Henry denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Mr. Henry denies joint pain or swelling.",
+    "skin": "Mr. Henry denies rash, pruritus, or skin lesions.",
+    "neurologic": "Mr. Henry denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Mr. Henry has a history of hypertension and hyperlipidemia.",
+  "medications": "Mr. Henry takes amlodipine 10mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Mr. Henry has no history of surgeries.",
+  "family_history": "Mr. Henry's father had a myocardial infarction at age 55.",
+  "social_history": "Mr. Henry is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

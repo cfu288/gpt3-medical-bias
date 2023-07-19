@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Jackson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is a 54-year-old female who presented to the emergency department with a chief complaint of severe chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. The pain started 2 hours ago and has been constant. The patient also reports accompanying symptoms of shortness of breath, diaphoresis, and nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight changes.",
+    "cardiovascular": "In addition to the chest pain, the patient also reports palpitations and lightheadedness.",
+    "respiratory": "The patient complains of shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary symptoms or changes.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies rashes or changes in skin color.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

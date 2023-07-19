@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charley Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of chest pain that started one hour ago. The pain is described as a squeezing sensation in the middle of the chest, radiating to the left arm. The patient denies any shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain or nausea.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Denies rash or itching.",
+    "neurologic": "Denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril and Atorvastatin daily.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "There is a positive family history of coronary artery disease in the patient's father.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

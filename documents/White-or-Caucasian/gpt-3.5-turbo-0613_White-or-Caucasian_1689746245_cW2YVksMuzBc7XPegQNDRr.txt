@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dariusz Nabi",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started suddenly approximately 2 hours ago. The pain is crushing in nature and radiates to the left arm. Patient also reports shortness of breath and diaphoresis. ECG shows ST-segment elevation in leads V1 to V4.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Denies cough or difficulty breathing",
+    "gi": "Denies abdominal pain or bowel changes",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for pain radiating to left arm",
+    "skin": "Denies rashes or skin lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Losartan 50mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Father with history of coronary artery disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

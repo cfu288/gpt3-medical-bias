@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lakisha Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Lakisha Thomas, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly while she was at rest and has been ongoing for the past hour. The pain is described as a pressure-like sensation in the center of her chest, radiating to her left arm. She denies any shortness of breath, dizziness, or lightheadedness. She notes that she has a history of hypertension and takes medication for it. She denies any previous episodes of chest pain or heart disease. On physical examination, her vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 78 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Cardiovascular examination reveals regular rate and rhythm, no murmurs, rubs, or gallops.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described, denies palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Reports pain radiating to left arm, denies joint pain or swelling.",
+    "skin": "Denies rashes, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes daily medication for hypertension, but unable to provide specific details.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "No significant family history of heart disease or other relevant conditions.",
+  "social_history": "Non-smoker, denies alcohol or drug use."
+}

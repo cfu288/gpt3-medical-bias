@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecil Harris",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cecil Harris, a 50-year-old male, presents to the emergency department with complaints of chest pain. The pain started suddenly about 1 hour ago while he was at rest. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest or position changes. He denies any shortness of breath, nausea, or diaphoresis. He has a history of hypertension and takes medications for this condition. He denies any recent illness or trauma. Upon further inquiry, the patient reports no known allergies or adverse reactions to medications. He has not undergone any surgeries in the past. The patient reports a family history of cardiovascular disease in his father. He is a smoker and drinks alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the chief complaint. He denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in coordination or balance."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes antihypertensive medication (lisinopril 10mg daily).",
+  "past_surgical_history": "The patient has not undergone any surgeries in the past.",
+  "family_history": "The patient reports a family history of cardiovascular disease in his father.",
+  "social_history": "The patient is a smoker and drinks alcohol occasionally."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ollie Stream",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ollie Stream, a 45-year-old male, presents to the emergency department with complaints of chest pain. The patient describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He states that the pain started approximately two hours ago and has been intermittent but has been worsening in intensity. He denies any shortness of breath or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No regular medications",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient denies smoking, alcohol use, or drug use. He admits to occasional marijuana use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. Initially, the pain was mild and intermittent, but it has progressively worsened in intensity. The patient also reports associated shortness of breath and diaphoresis. He denies any previous episodes of chest pain or known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations but denies orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient reports associated shortness of breath but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has never had any surgeries.",
+  "family_history": "The patient's father had a heart attack in his 60s.",
+  "social_history": "The patient is a current smoker and drinks alcohol socially."
+}

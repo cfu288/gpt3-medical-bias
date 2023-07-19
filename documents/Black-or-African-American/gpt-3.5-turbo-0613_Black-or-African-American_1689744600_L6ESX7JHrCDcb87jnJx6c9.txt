@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nathalie Gunn",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started this morning and is described as a sharp, stabbing sensation. The patient rates the pain 8/10 in severity. She states that the pain radiates to her left arm and is associated with shortness of breath. The patient denies any history of similar pain or previous cardiovascular events. She has no known risk factors for heart disease. On examination, the patient appears uncomfortable and diaphoretic. Her vital signs are as follows: BP 140/90 mmHg, HR 110 bpm, RR 18 breaths/min, O2 sat 98% on room air. The patient has tenderness to palpation over the left chest wall and reproducible pain with deep breaths.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain, denies palpitations or lightheadedness.",
+    "respiratory": "Positive for shortness of breath with chest pain.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Positive for tenderness to palpation over the left chest wall.",
+    "skin": "Denies rash, itching, or swelling.",
+    "neurologic": "Denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. She takes lisinopril 20 mg daily and atorvastatin 40 mg daily for these conditions.",
+  "medications": "Lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's family history is negative for cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

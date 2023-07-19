@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bill Franklin",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started about 2 hours ago and is described as a squeezing sensation that radiates to the left arm. Patient also reports shortness of breath and diaphoresis accompanying the pain. No associated symptoms of nausea or vomiting. Patient has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above. No palpitations or syncope.",
+    "respiratory": "Shortness of breath reported with chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No other musculoskeletal complaints.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No numbness or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and simvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Family history is noncontributory.",
+  "social_history": "Patient denies smoking or alcohol use. Patient regularly exercises and follows a healthy diet."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenya Bowers",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm and jaw. Pain started approximately 2 hours ago while the patient was at rest. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. There is a history of hypertension and high cholesterol in the patient's family.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as the primary symptom.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports chest pain as the primary symptom.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. No previous cardiac history.",
+  "medications": "Patient is currently taking Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for high cholesterol.",
+  "past_surgical_history": "Patient has no history of prior surgeries.",
+  "family_history": "Patient's family has a history of hypertension and high cholesterol.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. Works as an office manager and lives a sedentary lifestyle."
+}

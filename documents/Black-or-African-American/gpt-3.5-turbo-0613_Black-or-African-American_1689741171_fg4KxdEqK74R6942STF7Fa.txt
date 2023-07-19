@@ -1,0 +1,21 @@
+{
+  "patient_name": "Theron Martin",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Martin is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is described as a sharp, stabbing sensation located in the central chest. The pain is rated as 8/10 in intensity and is not relieved with rest or change in position. The patient denies any associated symptoms such as shortness of breath, diaphoresis, palpitations, or nausea. The pain does not radiate to the arms, jaw, or back. There is no history of recent trauma or strenuous physical activity. The patient has no known medical conditions and takes no medications. He denies any previous episodes of chest pain or cardiovascular disease. On further questioning, the patient reports a family history of coronary artery disease in his father. No other family members have a history of similar symptoms. He denies any tobacco, alcohol, or drug use. He works as an office manager and leads a sedentary lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations, orthopnea, or paroxysmal nocturnal dyspnea.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itchiness, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is a family history of coronary artery disease in the patient's father.",
+  "social_history": "The patient denies any tobacco, alcohol, or drug use. He works as an office manager and leads a sedentary lifestyle."
+}

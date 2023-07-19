@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jodie Waters",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is located in the center of the chest and is described as a sharp, stabbing sensation. The pain started suddenly approximately 1 hour ago and has persisted since then. The patient rates the pain as 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The patient has no history of cardiac problems and no known risk factors for heart disease. Further evaluation and investigation are needed to determine the cause of the chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or irregular heartbeats.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for muscle or joint pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes Lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history of cardiac disease, diabetes, or cancer.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

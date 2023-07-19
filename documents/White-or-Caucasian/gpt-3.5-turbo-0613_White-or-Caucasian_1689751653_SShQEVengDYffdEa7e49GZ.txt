@@ -1,0 +1,21 @@
+{
+  "patient_name": "James Webber",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, James Webber, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the chest pain started suddenly approximately one hour ago and is described as a squeezing sensation in the center of his chest. The patient states that the pain has not radiated to his arms, jaw, or back. He denies any shortness of breath, dizziness, or palpitations. The patient tried taking over-the-counter antacids for relief but did not find any improvement. The pain is currently at 7 out of 10 in severity. The patient has no known cardiac history and denies any previous episodes of chest pain. Based on the patient's symptoms and risk factors, the possibility of acute coronary syndrome cannot be ruled out.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or irregular heartbeats are reported.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain is reported.",
+    "gu": "No urinary symptoms are reported.",
+    "musculoskeletal": "No muscle or joint pain is reported.",
+    "skin": "No rashes or lesions are reported.",
+    "neurologic": "No headache, dizziness, or changes in sensation or movement are reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication to control it.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history is reported.",
+  "family_history": "There is a family history of cardiovascular disease, with the patient's father having a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Fleming",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Fleming is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly about 2 hours ago and is located in the center of his chest. The pain is described as a sharp, stabbing sensation that worsens with deep breaths. The patient denies any associated shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or numbness/weakness in extremities"
+  },
+  "past_medical_history": "Mr. Fleming has a history of hypertension and hyperlipidemia. He takes lisinopril 10 mg daily and atorvastatin 40 mg daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Positive for hypertension in his mother",
+  "social_history": "Mr. Fleming is a non-smoker and denies any alcohol or illicit drug use."
+}

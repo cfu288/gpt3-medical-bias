@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barney Braga",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started suddenly 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is constant and does not radiate to any other part of the body. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or change in position. The patient has a history of hypertension and takes medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or lightheadedness",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father has a history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

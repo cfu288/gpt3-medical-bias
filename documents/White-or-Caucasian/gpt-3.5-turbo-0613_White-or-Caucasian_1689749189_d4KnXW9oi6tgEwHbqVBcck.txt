@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dmitriy Crotts",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of acute onset chest pain. The pain is described as a sharp, stabbing sensation located in the center of the chest. The pain started approximately 1 hour ago while the patient was at rest. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain. Patient rates the pain as 7/10 on the pain scale. Initial assessment reveals stable vital signs with normal oxygen saturation on room air. EKG obtained on arrival showed sinusal rhythm with no acute ST-T wave changes. Given the patient's symptoms and history, the differential diagnosis includes myocardial infarction, angina, musculoskeletal pain, and anxiety.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or irregular heartbeat.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin discoloration.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or recreational drug use."
+}

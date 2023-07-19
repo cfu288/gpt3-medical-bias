@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keisha Daniels",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started 3 hours ago. Pain is located in the center of the chest and has a squeezing quality. Patient rates the pain as 7/10 on the pain scale and describes it as radiating to the left arm. Pain is not relieved with rest. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or racing heart.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Patient has no prior surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

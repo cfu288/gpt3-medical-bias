@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reginald Birge",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Birge presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is radiating to his left arm and is associated with shortness of breath and diaphoresis. He denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "negative",
+    "cardiovascular": "positive for chest pain, shortness of breath",
+    "respiratory": "negative",
+    "gi": "negative",
+    "gu": "negative",
+    "musculoskeletal": "negative",
+    "skin": "negative",
+    "neurologic": "negative"
+  },
+  "past_medical_history": "Mr. Birge has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril and atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "His family history is significant for coronary artery disease in his father.",
+  "social_history": "Mr. Birge is a non-smoker and denies any illicit drug use or alcohol consumption."
+}

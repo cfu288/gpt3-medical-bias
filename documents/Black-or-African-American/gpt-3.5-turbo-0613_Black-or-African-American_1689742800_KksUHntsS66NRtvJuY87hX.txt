@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roosevelt Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Roosevelt Jones, a 45-year-old male, presents to the emergency department with complaints of chest pain. He states that the pain began approximately 1 hour ago and is located in the center of his chest, radiating to his left arm. He rates the pain as 8 out of 10 in severity. The patient states that he has never experienced this type of pain before and is concerned that it could be related to his heart. He denies any shortness of breath, diaphoresis, nausea, or lightheadedness. In addition to the chest pain, he complains of occasional indigestion and heartburn.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "In addition to the chest pain mentioned above, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports occasional indigestion and heartburn, but denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine 5mg daily. He reports good blood pressure control and denies any major complications from hypertension.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's father had a history of heart disease and passed away from a myocardial infarction at the age of 62. The patient's mother is alive and has hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married, works as a computer programmer, and exercises regularly."
+}

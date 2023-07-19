@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mordechai Haberman",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Haberman is a 55-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a tightness in the center of his chest that started about 2 hours ago. He rates the pain as a 8 out of 10 and states that it radiates to his left arm.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain, no palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or focal neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy in 1995.",
+  "family_history": "Father had a heart attack at age 60.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}
+```

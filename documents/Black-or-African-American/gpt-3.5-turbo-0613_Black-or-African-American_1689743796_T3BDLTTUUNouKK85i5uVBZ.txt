@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ina Buckingham",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. Patient also reports shortness of breath and diaphoresis. No associated symptoms of nausea or vomiting. Patient denies any known triggers or relieving factors. Patient states that the pain is persistent and has not improved with rest or over-the-counter pain relievers.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No muscle or joint pain",
+    "skin": "No rash or itching",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Currently taking medication for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgeries",
+  "family_history": "Mother had a history of coronary artery disease",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

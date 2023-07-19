@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Pender",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Pender presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation in the left side of his chest that started about 2 hours ago. He rates the pain as a 7 out of 10 and states that it radiates to his left arm. He denies any associated shortness of breath, nausea, or diaphoresis. He has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "Positive for left arm pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Pender has a history of hypertension, for which he takes lisinopril daily.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Mother with history of hypertension",
+  "social_history": "Non-smoker, drinks alcohol occasionally"
+}

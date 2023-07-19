@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cameron Allen",
+  "age": "29",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cameron Allen, a 29-year-old male, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago while the patient was at rest. The pain is described as a sharp, stabbing sensation in the center of the chest. The patient rates the pain as 8 out of 10 and reports that it radiates to the left arm. The pain is associated with shortness of breath. The patient denies any history of similar chest pain in the past. There is no known trigger for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension but denies any palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient reports shortness of breath that is associated with the current chest pain.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no history of recent trauma or injury.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a documented history of hypertension.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient denies any family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not use recreational drugs. He consumes alcohol socially, but reports no excessive alcohol use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dani Bullock",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain is described as a tightness and pressure in the center of the chest. It started approximately 2 hours ago and has been constant since then. The pain is not alleviated with rest or change in position. The patient denies any associated symptoms such as shortness of breath, nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or irregular heartbeats.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or muscle aches.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "The patient’s father has a history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamal Bowen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain located in the center of the chest. The patient rates the pain as 8 on a scale of 1-10. He also reports associated shortness of breath and sweating. The patient denies any other symptoms such as nausea, vomiting, or lightheadedness. He has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or change in bowel habits",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient has a history of smoking for 20 years but quit 5 years ago. He consumes alcohol occasionally."
+}

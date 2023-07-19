@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scarlett Blumberg",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Scarlett Blumberg, a 35-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation located in the substernal region. The pain started approximately 2 hours ago and has been constant since then. The patient rates the pain as 7 out of 10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain to other parts of the body. The patient denies any history of similar chest pain in the past or any known cardiac risk factors. She states that she had a large meal prior to the onset of the pain. She denies any recent trauma or physical exertion. On further questioning, the patient reports a history of gastroesophageal reflux disease (GERD) with occasional heartburn, which she treats with over-the-counter antacids. No relief has been obtained from taking antacids for the current pain. The patient denies any fever, cough, or other respiratory symptoms. She denies any abdominal pain, nausea, vomiting, or changes in bowel movements. She denies any genitourinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for gastroesophageal reflux disease (GERD).",
+  "medications": "The patient takes over-the-counter antacids as needed for management of GERD symptoms. No other medications are currently being taken.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no known family history of cardiac disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol regularly. She denies any illicit drug use."
+}

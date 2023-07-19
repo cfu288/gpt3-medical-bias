@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elden Silverman",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Silverman presents to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is a crushing sensation in the center of his chest. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or radiating pain. He reports that the pain is constant and has not changed in intensity since it started.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father had myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use, sedentary lifestyle"
+}

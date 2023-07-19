@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cedric Johnson",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Cedric Johnson is a 43-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately one hour ago and is located in the center of his chest. Mr. Johnson describes the pain as a squeezing sensation that radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any shortness of breath, diaphoresis, nausea, or vomiting. He further denies any fever, cough, or other respiratory symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lloyd Hendrix",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been constant. The patient denies any shortness of breath, lightheadedness, or palpitations. Physical examination reveals no abnormalities.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No known history of heart disease, hypertension, or hyperlipidemia. No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath, cough, or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at age 55. No other significant family history.",
+  "social_history": "Patient is a non-smoker. He drinks alcohol occasionally and denies any illicit drug use."
+}

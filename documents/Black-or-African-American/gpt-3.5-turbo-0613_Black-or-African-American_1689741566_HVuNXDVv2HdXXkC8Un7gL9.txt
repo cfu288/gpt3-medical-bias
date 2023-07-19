@@ -1,0 +1,21 @@
+{
+  "patient_name": "Otis Allen",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Allen, is a 58-year-old male who presents to the emergency department with complaints of chest pain. He reports that the pain started suddenly about an hour ago while he was at rest. He describes the pain as a dull, pressure-like sensation in the center of his chest, radiating to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any other symptoms such as nausea, vomiting, or lightheadedness. Upon further questioning, he states that he has never experienced chest pain like this before. He is concerned about the possibility of a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "Father with history of myocardial infarction at age 65",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

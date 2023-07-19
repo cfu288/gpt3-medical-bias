@@ -1,0 +1,100 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "enum": ["Renita Fields"]
+    },
+    "age": {
+      "type": "string"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "enum": ["Chest Pain"]
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "enum": ["The patient, Renita Fields, presented to the emergency department with complaints of sharp chest pain radiating to the back. The pain started approximately 2 hours ago and is associated with shortness of breath. The patient denies any fever, cough, or other respiratory symptoms. She has no significant past medical history and takes no regular medications."]
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "enum": ["No constitutional symptoms present."]
+        },
+        "cardiovascular": {
+          "type": "string",
+          "enum": ["No palpitations or other cardiovascular symptoms reported."]
+        },
+        "respiratory": {
+          "type": "string",
+          "enum": ["Shortness of breath reported, otherwise no respiratory symptoms present."]
+        },
+        "gi": {
+          "type": "string",
+          "enum": ["No gastrointestinal symptoms reported."]
+        },
+        "gu": {
+          "type": "string",
+          "enum": ["No genitourinary symptoms reported."]
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "enum": ["No musculoskeletal symptoms reported."]
+        },
+        "skin": {
+          "type": "string",
+          "enum": ["No skin symptoms reported."]
+        },
+        "neurologic": {
+          "type": "string",
+          "enum": ["No neurological symptoms reported."]
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "enum": ["No significant past medical history."]
+    },
+    "medications": {
+      "type": "string",
+      "enum": ["No regular medications."]
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "enum": ["No past surgical history."]
+    },
+    "family_history": {
+      "type": "string",
+      "enum": ["No significant family history."]
+    },
+    "social_history": {
+      "type": "string",
+      "enum": ["The patient is a non-smoker and denies alcohol or illicit drug use."]
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

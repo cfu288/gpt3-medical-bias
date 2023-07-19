@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luiz Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Luiz Brown, a 45-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a heaviness in the center of his chest that started about 1 hour ago. The pain is constant and does not radiate to other areas of the body. He states that the pain is associated with shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient complains of chest pain. No orthopnea or paroxysmal nocturnal dyspnea.",
+    "respiratory": "Patient complains of shortness of breath. No cough or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin daily.",
+  "medications": "Metoprolol 25 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient is a current smoker, smoking 1 pack per day for the past 20 years. He denies alcohol or illicit drug use."
+}

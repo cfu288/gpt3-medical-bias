@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cyril Kitchen",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started suddenly approximately one hour ago. The pain is described as a crushing sensation in the center of the chest with radiation to the left arm. The patient reports associated shortness of breath and diaphoresis. There is no alleviating or exacerbating factors reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as mentioned in the chief complaint.",
+    "respiratory": "Positive for shortness of breath as mentioned in the history of present illness.",
+    "gi": "Denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "No complaints of joint pain, back pain, or muscle weakness.",
+    "skin": "No rashes or wounds reported.",
+    "neurologic": "No complaints of headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension.",
+  "medications": "The patient takes a daily dose of Lisinopril for blood pressure control.",
+  "past_surgical_history": "No previous surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

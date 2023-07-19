@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adolph Rhoads",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as crushing and radiating to the left arm. The patient also reports shortness of breath and lightheadedness. He denies any nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash, itching, or changes in the skin",
+    "neurologic": "Negative for headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "The patient smokes 1 pack of cigarettes per day and denies alcohol or illicit drug use."
+}

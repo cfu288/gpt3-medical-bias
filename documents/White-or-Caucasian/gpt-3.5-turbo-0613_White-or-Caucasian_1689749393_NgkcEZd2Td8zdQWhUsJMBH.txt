@@ -1,0 +1,21 @@
+{
+  "patient_name": "Christiana Guthrie",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of acute onset severe chest pain. The pain is described as a burning sensation and is located in the center of the chest. The pain started approximately 1 hour ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, palpitations, diaphoresis, or radiation of pain. There is no known trigger for the pain. The patient has no significant past medical history and is currently not taking any medications. There is no past surgical history. On physical examination, the patient appears uncomfortable due to the pain. Vital signs are stable. Cardiovascular exam reveals regular rate and rhythm with no murmurs, gallops, or rubs. Respiratory and neurological exams are unremarkable. Initial EKG shows sinus rhythm, no ST-segment elevations or depressions, and no T-wave inversions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or peripheral edema",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not taking any medications currently",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

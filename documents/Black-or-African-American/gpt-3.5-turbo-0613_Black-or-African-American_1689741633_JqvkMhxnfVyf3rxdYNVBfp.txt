@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Darcy Loiseau",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Darcy Loiseau, a 32-year-old male, presents to the emergency department with complaints of severe chest pain. The pain started abruptly approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. He rates the pain 9/10 in severity. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any palpitations, diaphoresis, or syncope. He has no significant medical history or risk factors for cardiovascular disease. Upon arrival, the patient was hypotensive with a blood pressure reading of 90/60 mmHg. The patient was given aspirin and nitroglycerin sublingually, and an EKG was obtained, showing ST-segment elevation in leads II, III, and AVF suggesting an acute inferior wall myocardial infarction. The patient was immediately taken to the cardiac catheterization lab for emergent intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "The patient denies any previous history of chest pain, angina, or heart attack. He has no known cardiac conditions and has not had any previous surgeries. There is no family history of early cardiovascular disease.",
+    "respiratory": "The patient reports shortness of breath that is worse with exertion and relieved by rest. He denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness. He has no history of fractures or musculoskeletal surgeries.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no significant family history of cardiovascular disease or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker. He denies any alcohol or illicit drug use. He is employed as a software engineer and lives with his partner."
+}
+```

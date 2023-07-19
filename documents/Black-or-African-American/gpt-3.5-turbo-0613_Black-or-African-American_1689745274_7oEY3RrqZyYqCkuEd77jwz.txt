@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nona Calhoun",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started 1 hour ago. Pain is described as a crushing sensation in the center of the chest, radiating to the left arm. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and palpitations.",
+    "respiratory": "Patient reports shortness of breath and cough.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports mild back pain.",
+    "skin": "Patient denies skin rash or lesions.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "Patient currently takes lisinopril and atorvastatin.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient reports a family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

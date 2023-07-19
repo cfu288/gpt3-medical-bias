@@ -1,0 +1,21 @@
+{
+  "patient_name": "Veronique Mccoy",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is located in the center of the chest. The pain is described as a squeezing or pressure-like sensation. Patient denies any radiation of pain. Patient states that the pain is associated with shortness of breath and diaphoresis. She also reports feeling lightheaded and nauseous. The patient has a history of hypertension and high cholesterol. She denies any recent illness or trauma. Upon arrival to the ED, the patient was given 325 mg aspirin orally.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough or shortness of breath at rest.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient reports feeling lightheaded."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for hypertension and high cholesterol, respectively.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and rarely drinks alcohol. She works as a bank teller and denies any illicit drug use."
+}

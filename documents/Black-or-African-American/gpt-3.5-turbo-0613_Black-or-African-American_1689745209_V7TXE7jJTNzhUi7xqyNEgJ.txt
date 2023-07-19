@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pierre Layne",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Layne presents to the emergency department with complaints of severe chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm and jaw. The pain started suddenly about an hour ago while he was at rest. He also reports experiencing shortness of breath and diaphoresis (excessive sweating) with the pain. The pain has not improved with rest and he denies any alleviating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Patient denies cough, dyspnea, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, hematuria, or urinary urgency.",
+    "musculoskeletal": "Patient reports no joint pain or stiffness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril for blood pressure control and Atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient denies any significant family history of heart disease or other medical conditions.",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or illicit drug use."
+}

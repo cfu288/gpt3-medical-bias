@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chester Armstrong",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Armstrong presents to the emergency department with complaints of sudden onset chest pain. The pain is described as a squeezing sensation, radiating to the left arm. He rates the pain as a 8 out of 10 in severity. The patient has no history of similar symptoms in the past. He denies any shortness of breath, lightheadedness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain",
+    "skin": "No skin rashes or lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "Mr. Armstrong has a history of hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin.",
+  "medications": "Lisinopril (10mg daily) and atorvastatin (20mg daily)",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of coronary artery disease or other cardiovascular conditions",
+  "social_history": "Mr. Armstrong is a non-smoker and denies alcohol or illicit drug use."
+}

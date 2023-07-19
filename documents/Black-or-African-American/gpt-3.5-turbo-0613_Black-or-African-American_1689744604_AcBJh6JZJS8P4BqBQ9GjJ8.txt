@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josiah Moore",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Moore is a 62-year-old male presenting to the emergency department with complaints of severe chest pain. The patient states that the pain started approximately one hour ago and is located in the center of his chest. He describes it as a heavy pressure that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any recent trauma or injury. The patient has a history of hypertension and is currently taking medication for it. He has never experienced a similar episode in the past. Upon further questioning, the patient admits to a family history of heart disease, with his father having a heart attack at a young age.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or sputum production.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Father had a heart attack at a young age.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tanya Bullock",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a squeezing sensation in the central chest, radiating to the left arm and jaw. Pain started approximately 1 hour ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. No alleviating or exacerbating factors identified. No previous episodes of chest pain reported. Patient states that she has a history of hypertension and takes medication for it. She denies any recent illness or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies palpitations, edema, or syncope.",
+    "respiratory": "Patient denies cough, shortness of breath, or chest congestion.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes medication for hypertension, the details of which will be updated by the pharmacy.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient denies any significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies any history of alcohol or drug abuse."
+}

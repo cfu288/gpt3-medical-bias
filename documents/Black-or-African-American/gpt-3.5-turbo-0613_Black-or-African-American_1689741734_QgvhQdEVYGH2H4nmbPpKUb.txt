@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilburn Stevens",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of chest pain. The pain is described as a crushing sensation in the central chest. It started approximately 2 hours ago and has been constant since then. The patient rates the pain as 8/10 in severity. The pain radiates to the left arm and jaw. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or nitroglycerin. The patient has a history of hypertension. On examination, the patient appears diaphoretic and in distress. Heart sounds are normal. Blood pressure is 150/90 mmHg. EKG shows ST segment elevation in leads V2-V5 and ST segment depression in leads II, III, and aVF. Given the clinical presentation and EKG findings, the patient is being worked up for acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above. No palpitations or lightheadedness.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin color changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes hydrochlorothiazide 25 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient has a 30 pack-year smoking history and drinks alcohol socially."
+}

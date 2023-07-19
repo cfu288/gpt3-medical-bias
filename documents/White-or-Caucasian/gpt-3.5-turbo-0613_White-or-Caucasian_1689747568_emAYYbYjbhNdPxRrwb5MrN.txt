@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wolfgang Eno",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. Pain is described as sharp and radiating to the left arm. Pain has been present for the past 2 hours. Patient denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "No shortness of breath or coughing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "Pain radiates to the left arm.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No changes in consciousness or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Takes lisinopril daily for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Father had a myocardial infarction at age 65.",
+  "social_history": "Patient is a smoker with a 20 pack-year smoking history."
+}

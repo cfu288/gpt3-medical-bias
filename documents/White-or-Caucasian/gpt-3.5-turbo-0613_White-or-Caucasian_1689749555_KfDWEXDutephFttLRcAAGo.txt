@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mike House",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a tightness in his chest that started approximately 2 hours ago. The pain is intermittent and radiates to his left arm. He denies any associated shortness of breath, nausea, or diaphoresis. He has a past medical history of hypertension and hyperlipidemia. He reports a family history of coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Intermittent chest pain radiating to left arm",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or wounds",
+    "neurologic": "No headache or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease",
+  "social_history": "Patient is a former smoker and drinks alcohol occasionally"
+}

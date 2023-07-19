@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winifred Tolbert",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe, squeezing chest pain that radiated to the left arm. Pain started approximately 1 hour ago and has progressively worsened. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She states that the pain is similar to a previous episode she experienced 2 years ago which was diagnosed as a heart attack. Upon arrival, patient appeared in distress, pale, and diaphoretic. Vital signs: blood pressure 160/90 mmHg, heart rate 90 beats per minute, respiratory rate 20 breaths per minute, temperature 98.6°F, oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, no chills, no weight loss",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath, no cough, no sputum production",
+    "gi": "No abdominal pain, no nausea, no vomiting, no changes in bowel habits",
+    "gu": "No dysuria, no frequency, no urgency",
+    "musculoskeletal": "No joint pain, no muscle pain",
+    "skin": "No rash, no lesions",
+    "neurologic": "No dizziness, no syncope, no changes in vision, no numbness or tingling"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, previous myocardial infarction",
+  "medications": "Metoprolol 50 mg twice daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "Coronary artery bypass graft",
+  "family_history": "Mother had a heart attack at age 60, father has hypertension",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

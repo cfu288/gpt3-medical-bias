@@ -1,0 +1,21 @@
+{
+  "patient_name": "Liza Evans",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Liza Evans, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is worse with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, lightheadedness, nausea, or diaphoresis. On physical examination, the patient appears alert and oriented. Her vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. The patient has decreased breath sounds on the left side of her chest. Further investigations are underway to determine the cause of the chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or syncope",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes medication daily.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient's past surgical history is unremarkable.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

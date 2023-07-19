@@ -1,0 +1,21 @@
+{
+  "patient_name": "Risa Rehberg",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. Pain began approximately 2 hours ago while the patient was at rest. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Patient has a history of hypertension and high cholesterol. On physical examination, the patient appears uncomfortable but is in no acute distress. Vital signs are stable with a blood pressure of 130/80 mmHg and a heart rate of 80 beats per minute. Lungs are clear to auscultation bilaterally. Cardiac examination reveals regular rate and rhythm with no murmurs, gallops, or rubs. Abdomen is soft and non-tender without organomegaly. Neurologic examination is unremarkable. Given the patient's age, risk factors, and presenting symptoms, a workup for acute coronary syndrome is being initiated, including an EKG and cardiac enzymes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue",
+    "cardiovascular": "Chest pain radiating to left arm",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction in his 50s, mother with history of hypertension",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

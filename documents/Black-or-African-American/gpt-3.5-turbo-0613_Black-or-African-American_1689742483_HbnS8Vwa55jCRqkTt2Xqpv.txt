@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julien Bailey",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bailey presented to the emergency department with a complaint of chest pain. He described the pain as a sharp, stabbing sensation that radiates to his left arm. He also mentioned feeling shortness of breath and dizziness. The pain started approximately 2 hours ago and has been constant since then. He denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain and dizziness. No palpitations or leg swelling.",
+    "respiratory": "Complains of shortness of breath but denies cough or sputum production.",
+    "gi": "No complaints of nausea, vomiting, or abdominal pain.",
+    "gu": "No complaints of urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Reports dizziness. Denies any changes in vision or focal neurological deficits."
+  },
+  "past_medical_history": "Mr. Bailey has a history of hypertension and hyperlipidemia. He takes lisinopril for his hypertension and atorvastatin for his hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "His father has a history of myocardial infarction at age 55.",
+  "social_history": "Mr. Bailey is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and lives with his wife and two children."
+}

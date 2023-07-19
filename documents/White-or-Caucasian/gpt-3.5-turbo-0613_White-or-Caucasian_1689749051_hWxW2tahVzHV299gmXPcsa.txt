@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marijo Ryan",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marijo Ryan, presented to the emergency department with complaints of severe chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and has been constant since then. The patient rates the pain as 8 out of 10 on the pain scale and reports that it is not relieved with rest. There are no associated symptoms such as shortness of breath, nausea, or diaphoresis. On further assessment, the patient denies any history of heart disease or risk factors such as smoking, hypertension, or diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of intermittent episodes of palpitations but denies any prior heart attacks or heart failure symptoms.",
+    "respiratory": "The patient denies any cough, shortness of breath, or chest congestion.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well controlled with medication. There are no other significant past medical history.",
+  "medications": "The patient takes Lisinopril 10 mg daily for hypertension. No other medications are reported.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history of heart disease or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. The patient works as a software engineer and denies any significant occupational exposures."
+}

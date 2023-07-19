@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tony Bradford",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Bradford, presented to the emergency department with complaints of chest pain. He describes the pain as a dull ache in the center of his chest, which radiates to his left arm. He rates the pain as 8 out of 10 and states that it started approximately 2 hours ago. He denies any shortness of breath, diaphoresis, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Chest pain, no palpitations, no past history of heart disease",
+    "respiratory": "No cough, no shortness of breath",
+    "gi": "No abdominal pain, no nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain and left arm pain",
+    "skin": "No rashes, no skin lesions",
+    "neurologic": "No headache, no weakness or numbness"
+  },
+  "past_medical_history": "HTN, Hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy in childhood",
+  "family_history": "Father with history of MI at age 50, mother with history of HTN",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

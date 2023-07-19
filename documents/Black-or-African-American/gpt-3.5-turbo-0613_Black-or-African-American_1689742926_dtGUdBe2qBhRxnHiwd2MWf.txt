@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gisele Grady",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Gisele Grady presented to the emergency department with complaints of severe stabbing chest pain. The pain started suddenly while she was at work and is described as a 10/10 intensity. She states that the pain is radiating to her left arm and jaw. She denies any associated shortness of breath, nausea, or diaphoresis. Upon arrival, the patient appears to be in distress and is clutching her chest.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or fatigue",
+    "cardiovascular": "Positive for chest pain radiating to the left arm and jaw",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache or visual changes"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She reports being on losartan and atorvastatin, but has not been taking her medications consistently.",
+  "medications": "1. Losartan 50 mg daily\n2. Atorvastatin 20 mg daily",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Patient's mother has a history of coronary artery disease and her father has a history of hypertension.",
+  "social_history": "Patient does not smoke and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kathlyn Kucala",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of chest pain. The chest pain started approximately 2 hours ago while the patient was at rest. The pain is described as a sharp, stabbing sensation in the center of the chest. The patient denies any associated shortness of breath, diaphoresis, or radiation of the pain. Upon further questioning, the patient reports no history of similar symptoms in the past and denies any other significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats reported.",
+    "cardiovascular": "No palpitations, lightheadedness, or syncope reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No dysuria, frequency, or hematuria reported.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported.",
+    "skin": "No rash, itching, or lesions reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "No prior surgical history reported.",
+  "family_history": "The patient reports a negative family history for heart disease, diabetes, and cancer.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or drug use."
+}
+```

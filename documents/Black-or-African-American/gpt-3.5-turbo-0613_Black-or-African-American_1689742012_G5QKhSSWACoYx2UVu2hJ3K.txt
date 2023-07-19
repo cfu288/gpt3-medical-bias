@@ -1,0 +1,21 @@
+{
+  "patient_name": "Len Smith",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Smith presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation in the center of chest, radiating to the left arm. The pain started approximately 1 hour ago and has been constant. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He states that the pain is exacerbated by deep breathing and movement.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient reports no palpitations or syncope.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any history of seizures or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes atenolol daily for blood pressure control and simvastatin for cholesterol management.",
+  "medications": "Atenolol 50mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of hypertension and his father had a heart attack in his 60s.",
+  "social_history": "The patient is a former smoker, quitting 10 years ago. He reports occasional alcohol use and denies illicit drug use."
+}

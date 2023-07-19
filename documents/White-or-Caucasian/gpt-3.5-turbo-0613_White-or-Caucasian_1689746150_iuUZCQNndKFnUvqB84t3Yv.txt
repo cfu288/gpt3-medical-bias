@@ -1,0 +1,21 @@
+{
+  "patient_name": "Werner Harper",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain, radiating to the left arm. Pain started approximately 2 hours ago and has been progressively worsening. Patient states that the pain is not relieved with rest or nitroglycerin. Also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain and shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or change in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Pain radiating to left arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 50 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Appendectomy at age 20",
+  "family_history": "Father with history of myocardial infarction at age 50",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

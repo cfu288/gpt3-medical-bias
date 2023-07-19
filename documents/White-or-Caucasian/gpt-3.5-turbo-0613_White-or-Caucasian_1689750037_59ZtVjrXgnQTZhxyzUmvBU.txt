@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zachery Schoenwetter",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset chest pain. Patient describes the pain as a crushing sensation, radiating to the left arm. Pain started approximately 2 hours ago and has been constant since then. No alleviating or aggravating factors reported. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports no previous cardiac history or similar episodes of chest pain. No palpitations or syncope reported.",
+    "respiratory": "Patient denies cough, dyspnea, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports no recent trauma or injuries.",
+    "skin": "Patient denies rashes or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension and atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. Patient works as a software engineer and is sedentary for most of the day."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Mcbride",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Willie Mcbride, a 45-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain radiates to both arms and is associated with shortness of breath. The patient denies any fever, cough, or sputum production. He also denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain radiating to both arms. He denies any palpitations or shortness of breath at rest.",
+    "respiratory": "The patient complains of shortness of breath associated with chest pain. He denies any cough or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia. He is currently taking losartan and atorvastatin.",
+  "medications": "Losartan 50mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 55. There is no other significant family history.",
+  "social_history": "The patient is a smoker with a 20 pack-year smoking history. He drinks alcohol occasionally but denies any illicit drug use."
+}

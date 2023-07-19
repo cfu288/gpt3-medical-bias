@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bradly Smiley",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Smiley presents to the Emergency Department with chief complaint of severe chest pain. He reports that the pain started abruptly about 2 hours ago and is located in the center of his chest. He rates the pain as 8 out of 10 and describes it as a squeezing and pressure-like sensation. He denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of the pain. The pain is not relieved by rest or nitroglycerin. On further questioning, he reports that he has a history of hypertension and hyperlipidemia, for which he takes amlodipine and atorvastatin. He has never experienced similar chest pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or night sweats",
+    "cardiovascular": "Denies any palpitations or lightheadedness",
+    "respiratory": "Denies any cough, shortness of breath, or wheezing",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies any urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Denies any joint pain or swelling",
+    "skin": "Denies any rash or skin lesions",
+    "neurologic": "Denies any headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father had myocardial infarction at age 50",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

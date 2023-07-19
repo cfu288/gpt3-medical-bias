@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Paris Young",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Paris Young, a 27-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that started about 2 hours ago. She rates the pain as a 7 out of 10 and states that it worsens with deep breaths and movement. She denies any shortness of breath, dizziness, or palpitations. There is no history of trauma or recent illness. On physical examination, the patient appears uncomfortable and is clutching her chest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or changes in moles.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no known family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

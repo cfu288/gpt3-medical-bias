@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marianna Keller",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset of chest pain. The pain is described as a squeezing sensation in the center of the chest that radiates to the left arm and jaw. The pain started approximately 2 hours ago and has been persistent since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. There is no known precipitating event or history of trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or other cardiovascular symptoms.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness and tingling."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She takes medications for both of these conditions.",
+  "medications": "Patient takes amlodipine for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient has a family history of myocardial infarction in her mother at the age of 55.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher."
+}

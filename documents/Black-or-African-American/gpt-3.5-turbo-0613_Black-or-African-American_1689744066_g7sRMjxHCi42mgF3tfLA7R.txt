@@ -1,0 +1,21 @@
+{
+  "patient_name": "Horace Porter",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started this morning and is described as a sharp, stabbing sensation in the center of the chest. The pain is exacerbated by deep breathing and movement. The patient denies any recent trauma or injury. No associated symptoms such as shortness of breath, dizziness, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart disease or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. No history of heart disease, diabetes, or stroke.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension and atorvastatin 10mg daily for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at age 60. No other significant family history.",
+  "social_history": "Patient is a non-smoker and does not use alcohol or recreational drugs. No known exposure to tuberculosis. Lives alone, works as an accountant."
+}

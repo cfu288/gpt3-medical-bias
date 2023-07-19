@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Walker",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Walker presented to the emergency department with a chief complaint of chest pain. He described the pain as a squeezing sensation in his chest, radiating down his left arm. The chest pain began approximately 2 hours ago and has been constant. He rates the pain as a 7 out of 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest pain but denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient's current medications include lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "The patient has no known history of surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

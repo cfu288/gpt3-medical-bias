@@ -1,0 +1,21 @@
+{
+  "patient_name": "Minnie Petty",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness" : "The patient, Minnie Petty, a 45-year-old female presented to the emergency department with a chief complaint of chest pain. The patient states that the chest pain started suddenly while she was at rest. The pain is described as a sharp and severe chest pressure that radiates to her left arm. She also reports associated shortness of breath. The patient has no significant medical history and denies any prior episodes of chest pain. Upon arrival, the patient was in moderate distress and appeared anxious.",
+  "review_of_symptoms" : {
+    "constitutional" : "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular" : "The patient reports chest pain and shortness of breath. No palpitations or lightheadedness.",
+    "respiratory" : "The patient reports shortness of breath and denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi" : "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu" : "No frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal" : "No joint pain, swelling, or limitation of motion.",
+    "skin" : "No rashes, itching, or changes in color.",
+    "neurologic" : "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history" : "The patient has no significant past medical history.",
+  "medications" : "The patient takes no regular medications.",
+  "past_surgical_history" : "The patient has no past surgical history.",
+  "family_history" : "The patient has no family history of cardiovascular disease.",
+  "social_history" : "The patient is a non-smoker and denies alcohol or drug use."
+}

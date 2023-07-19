@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosemary Fox",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Rosemary Fox, a 45-year-old female, presents to the emergency department complaining of chest pain. The pain started suddenly about an hour ago and is located in the center of her chest. She describes it as a squeezing sensation that radiates to her left arm. She rates the pain as a 7 out of 10. She denies any associated symptoms such as shortness of breath, lightheadedness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies palpitations.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's mother had a history of heart disease and her father had hypertension.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luciana Johnson",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation that started two hours ago. The pain is located in the center of her chest and radiates to her left arm. She rates the pain as a 7 out of 10. She denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. She has no history of similar episodes in the past. Upon arrival, she was administered sublingual nitroglycerin, which provided partial relief of the pain. She has been monitored closely and there have been no alarming changes in her vital signs.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies cough or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or skin changes.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother has a history of diabetes.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

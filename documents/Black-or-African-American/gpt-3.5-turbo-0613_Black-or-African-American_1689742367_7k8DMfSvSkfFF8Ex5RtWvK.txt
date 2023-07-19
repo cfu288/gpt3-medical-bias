@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elma Berryhill",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elma Berryhill, a 52-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates down her left arm. The pain started approximately one hour ago and has been constant since then. She rates the intensity of the pain as 8 out of 10. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that she has never experienced this kind of pain before and is concerned about a heart attack. Upon initial examination, the patient appears anxious and is diaphoretic. Her vital signs are as follows: blood pressure 150/90 mmHg, heart rate 110 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain as described above. No palpitations or irregular heartbeats.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for dyslipidemia.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father who had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and has no history of illicit drug use. She is married and works as a secretary."
+}

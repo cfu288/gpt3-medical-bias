@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gwendolyn Smith",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 52-year-old female presenting to the emergency department with complaints of chest pain. She describes the pain as a heaviness or tightness in her chest that started suddenly about an hour ago. She rates the pain as 8 out of 10 and says it radiates to her left arm. She denies any shortness of breath, nausea, or sweating. She also denies any recent injuries or illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain, muscle weakness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, numbness or tingling"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily",
+  "past_surgical_history": "Patient had an appendectomy in 2005",
+  "family_history": "Mother had a myocardial infarction at age 65",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use"
+}

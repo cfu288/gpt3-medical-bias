@@ -1,0 +1,21 @@
+{
+  "patient_name": "Russel Pinto",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient states the pain started approximately 2 hours ago and is described as a tightness and pressure in the center of the chest. The pain is radiating to the left arm and jaw. Patient denies any associated shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as the main symptom.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient complains of pain radiating to the left arm.",
+    "skin": "No abnormalities noted.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease or other major illnesses.",
+  "social_history": "Patient is a non-smoker and denies any illicit drug use. Patient consumes alcohol occasionally in moderation."
+}

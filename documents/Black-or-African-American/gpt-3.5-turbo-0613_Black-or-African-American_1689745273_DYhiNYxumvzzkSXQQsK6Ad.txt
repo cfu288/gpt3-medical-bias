@@ -1,0 +1,21 @@
+{
+  "patient_name": "Trenton Wilson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wilson is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation in the left side of his chest that radiates to his left arm. The pain started approximately 2 hours ago while he was at rest. He denies any shortness of breath, lightheadedness, or palpitations. He states that he has never experienced this type of pain before and is concerned it may be related to his heart.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Mr. Wilson has a past medical history significant for hypertension and hyperlipidemia. He is currently on Lisinopril and Atorvastatin for management of these conditions.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Positive for family history of cardiovascular disease. His father had a myocardial infarction at age 60.",
+  "social_history": "Mr. Wilson is a non-smoker and denies any history of alcohol or illicit drug use. He works as a computer programmer and has a sedentary lifestyle."
+}

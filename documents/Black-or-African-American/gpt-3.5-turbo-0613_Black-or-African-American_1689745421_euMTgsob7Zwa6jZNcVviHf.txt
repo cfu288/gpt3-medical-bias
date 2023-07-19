@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alexander Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Thomas presents to the ED with a complaint of chest pain that started yesterday evening. The pain is described as a dull ache that radiates to the left arm. It is associated with shortness of breath and sweating. The patient states that the pain is worse with exertion and improves with rest. He denies any previous history of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described. Negative for palpitations or irregular heartbeats.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Thomas has a history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for a family history of heart disease. His father had a heart attack in his 60s.",
+  "social_history": "Mr. Thomas is a non-smoker and does not drink alcohol. He works as a software engineer and exercises regularly."
+}

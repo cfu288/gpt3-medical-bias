@@ -1,0 +1,21 @@
+{
+  "patient_name": "Davin Harden",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Denies cough or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or skin changes.",
+    "neurologic": "Denies headache, changes in vision, or neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for high cholesterol.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

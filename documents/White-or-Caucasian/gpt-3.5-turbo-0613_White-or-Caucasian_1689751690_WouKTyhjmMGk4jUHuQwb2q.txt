@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alva Guidroz",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alva Guidroz, a 58-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been persistent since then. She rates the pain as 8 out of 10 in severity and states that it has not changed in intensity. She denies any associated symptoms such as shortness of breath, palpitations, sweating, or nausea. The patient reports no previous history of similar chest pain or cardiac issues.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies skin rash, lesions, or changes.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's mother had a history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit substance use."
+}
+```

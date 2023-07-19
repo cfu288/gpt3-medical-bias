@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shelton Hurst",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hurst is a 55-year-old male who presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago and is described as a crushing sensation located in the center of the chest. The pain radiates to the left arm and jaw. He rates the pain as 8/10 in severity and states that it has not improved with rest. He denies any shortness of breath, nausea, vomiting, or diaphoresis. He has a past medical history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

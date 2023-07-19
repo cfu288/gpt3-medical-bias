@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Van Ballew",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of chest pain for the past 2 hours. Pain is described as a sharp, stabbing sensation located in the center of the chest. Patient rates the pain as severe and states that it radiates to the left arm. Pain is associated with shortness of breath and diaphoresis. Symptoms started while the patient was at rest. No alleviating or exacerbating factors noted. No previous episodes of chest pain reported.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for muscle pain or joint swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, numbness or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. No history of heart disease, diabetes, or lung disease.",
+  "medications": "Patient takes lisinopril 10mg once daily and simvastatin 20mg once daily for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had a heart attack at the age of 60. No other significant family history.",
+  "social_history": "Patient is a smoker with a 15 pack-year history. Denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Pierre Stanford",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Mr. Pierre Stanford, a 42-year-old male, presents to the emergency department with chief complaint of chest pain. The pain is described as a crushing sensation located in the center of the chest, radiating to the left arm. The pain started suddenly about 2 hours ago and is accompanied by shortness of breath. The patient denies any recent trauma or illness.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or night sweats.",
+        "cardiovascular": "Chest pain and shortness of breath are the primary cardiovascular symptoms.",
+        "respiratory": "Shortness of breath is the primary respiratory symptom.",
+        "gi": "No abdominal pain, nausea, or vomiting.",
+        "gu": "No urinary frequency, urgency, or burning.",
+        "musculoskeletal": "No joint pain or muscle aches.",
+        "skin": "No rashes or lesions.",
+        "neurologic": "No headache or dizziness."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+    "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+    "past_surgical_history": "The patient has no past surgical history.",
+    "family_history": "There is a family history of coronary artery disease in the patient's mother and father.",
+    "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Myrtle Smith",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Smith is a 65-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest, which started approximately 1 hour ago. The pain radiates to her left arm and jaw. She denies any shortness of breath, nausea, or diaphoresis. She has no prior history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or focal symptoms"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 50mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

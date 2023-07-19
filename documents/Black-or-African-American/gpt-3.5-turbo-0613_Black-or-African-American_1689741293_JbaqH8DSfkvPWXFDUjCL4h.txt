@@ -1,0 +1,21 @@
+{
+  "patient_name": "Corbin Dangerfield",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents with chest pain, which started 3 hours ago. The pain is described as a tightness in the chest and radiates to the left arm. The pain is rated 8/10 in severity. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports radiating pain to the left arm, but denies any joint swelling or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any neurologic symptoms such as headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension and atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker with a 20 pack-year history. He consumes alcohol occasionally and denies illicit drug use."
+}

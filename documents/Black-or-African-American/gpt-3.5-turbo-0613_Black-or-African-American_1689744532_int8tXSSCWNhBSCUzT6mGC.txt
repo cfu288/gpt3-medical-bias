@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eva Wilson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Eva Wilson, a 45-year-old female, presented to the emergency department complaining of severe chest pain that began approximately 2 hours ago. The pain is radiating to her left arm and jaw. She describes the pain as a squeezing sensation, and rates it 8 out of 10 in intensity. She does not have any known cardiac history or risk factors, such as smoking or family history of heart disease. The pain is not relieved by rest and is associated with shortness of breath and diaphoresis. She denies any recent trauma, dental procedures, or heavy lifting. She has no recent history of respiratory infections or changes in activity level. She denies any fever, cough, or dyspnea. The patient denies any gastrointestinal symptoms or genitourinary symptoms. She reports no recent musculoskeletal injuries or changes, but she does have a history of chronic back pain managed with physical therapy. She denies any rashes, lesions, or changes to the skin. She does report some occasional numbness and tingling in her hands and feet, but it has not been bothersome. She denies any changes to her vision, hearing, or coordination.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight changes",
+    "cardiovascular": "Positive for chest pain radiating to left arm and jaw, shortness of breath, and diaphoresis",
+    "respiratory": "Negative for cough, dyspnea, or recent respiratory infections",
+    "gi": "Negative for gastrointestinal symptoms",
+    "gu": "Negative for genitourinary symptoms",
+    "musculoskeletal": "Negative for recent injuries or changes",
+    "skin": "Negative for rashes, lesions, or changes to skin",
+    "neurologic": "Positive for occasional numbness and tingling in hands and feet, but not bothersome"
+  },
+  "past_medical_history": "The patient has a history of chronic back pain managed with physical therapy. No prior cardiac history or hospitalizations.",
+  "medications": "Patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for family history of heart disease or other serious medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is married and works as a teacher. She reports no recent stressors or changes in her daily routine."
+}

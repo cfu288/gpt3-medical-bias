@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marlo Buggs",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a substernal pressure sensation, radiating to the left arm. The pain started approximately 1 hour ago and is associated with sweating and shortness of breath. The patient denies any history of similar symptoms in the past. Physical examination reveals tachycardia and elevated blood pressure. Given the concerning nature of the symptoms, further evaluation is warranted to rule out a cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described above, no palpitations",
+    "respiratory": "Shortness of breath with associated chest pain",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with history of myocardial infarction in her 60s",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

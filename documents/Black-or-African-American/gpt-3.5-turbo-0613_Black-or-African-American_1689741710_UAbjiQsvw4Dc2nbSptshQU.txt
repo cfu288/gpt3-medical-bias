@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Renfroe",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Renfroe is a 45-year-old male who presents to the emergency department with chief complaint of sudden onset of severe chest pain. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm. It started approximately 1 hour ago and has been constant since then. He denies any associated symptoms such as shortness of breath, lightheadedness, or diaphoresis. The patient did not take any medication prior to the onset of the pain. He states that he has never experienced similar symptoms before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for severe chest pain with radiation to the left arm.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or visual changes."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and smoking.",
+  "medications": "The patient takes lisinopril for hypertension and a statin for hyperlipidemia.",
+  "past_surgical_history": "The patient had an appendectomy in childhood.",
+  "family_history": "Positive for coronary artery disease in father and mother.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He admits to occasional alcohol use."
+}

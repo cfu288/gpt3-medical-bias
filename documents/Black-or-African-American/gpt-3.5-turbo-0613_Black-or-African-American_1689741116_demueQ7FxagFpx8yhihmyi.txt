@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kendrick Nelson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "This is a 45-year-old male patient, Kendrick Nelson, who presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly and is located in the center of his chest. He describes the pain as a squeezing sensation that radiates to his left shoulder and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain. He has no history of heart disease or risk factors such as smoking, hypertension, or diabetes. On physical examination, the patient appears anxious and uncomfortable. His vital signs are as follows: blood pressure 140/90 mmHg, heart rate 110 beats per minute, respiratory rate 20 breaths per minute, temperature 37°C. The patient's lung sounds are clear bilaterally, and his heart sounds are regular without murmurs.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or wheezing",
+    "gi": "No abdominal pain or changes in bowel habits",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "medications": "1. Lisinopril 20 mg daily\n2. Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 55.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}

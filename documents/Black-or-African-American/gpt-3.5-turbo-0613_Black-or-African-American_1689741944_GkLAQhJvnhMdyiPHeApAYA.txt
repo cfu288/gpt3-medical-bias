@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Henri Jones, a 42-year-old male, presents to the Emergency Department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is rated 7 out of 10 in severity and is exacerbated by deep breathing and movement. There is no alleviating factor identified. The patient denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. He also denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight change, fevers, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, sores, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently on Lisinopril 10 mg daily and Atorvastatin 20 mg daily.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient had an appendectomy at the age of 25. No other surgeries reported.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 55. No other significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as an office manager and is currently married with two children."
+}

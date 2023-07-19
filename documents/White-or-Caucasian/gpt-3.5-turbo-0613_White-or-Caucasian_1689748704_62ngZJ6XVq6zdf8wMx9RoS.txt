@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gunther Cordon",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Cordon is a 37-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been constant since then. He rates the pain severity as 8 out of 10. There is no alleviating or exacerbating factors. He denies any shortness of breath, nausea, or diaphoresis. He has no significant medical history. On physical examination, his vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. He appears uncomfortable but is able to speak in full sentences. His lungs are clear to auscultation and his cardiovascular examination reveals normal heart sounds with no murmurs, rubs, or gallops.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for exertional chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "None",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Negative for any significant family history of cardiac conditions.",
+  "social_history": "Mr. Cordon is a non-smoker and denies any alcohol or drug use."
+}

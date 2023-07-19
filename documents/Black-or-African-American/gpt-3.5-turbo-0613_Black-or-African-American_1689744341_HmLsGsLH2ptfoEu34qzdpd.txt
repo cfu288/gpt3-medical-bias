@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marva Smith",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marva Smith, a 48-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a dull, squeezing sensation that started approximately 2 hours ago. The pain is radiating to her left arm and jaw. She denies any shortness of breath, nausea, or diaphoresis. The patient states that she has a history of hypertension and takes medications for it. She denies any recent illness or fever. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain, denies palpitations or edema",
+    "respiratory": "Denies cough, shortness of breath or wheezing",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or frequency",
+    "musculoskeletal": "Reports pain in left arm and jaw",
+    "skin": "Denies rash or itching",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unknown",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

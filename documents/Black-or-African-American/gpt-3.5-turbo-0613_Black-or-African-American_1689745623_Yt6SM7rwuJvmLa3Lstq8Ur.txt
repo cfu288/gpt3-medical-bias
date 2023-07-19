@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rodrick Guerrier",
+  "chief_complaint": "Chest Pain",
+  "age": "32",
+  "history_of_present_illness": "The patient, Rodrick Guerrier, a 32-year-old male, presented to the Emergency Department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago while he was at rest. He describes the pain as a crushing sensation in the center of his chest, radiating down his left arm. He also reports shortness of breath and diaphoresis. He denies any previous episodes of similar pain or any known cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and lightheadedness.",
+    "respiratory": "The patient complains of shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no family history of cardiac disease.",
+  "social_history": "The patient is an occasional smoker and denies any alcohol or illicit drug use."
+}
+```

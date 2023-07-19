@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dannie Starr",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain is described as a crushing sensation that started approximately 1 hour ago. The patient rates the pain as 8/10 on the pain scale. The pain is radiating to the left arm and jaw. The patient also reports associated shortness of breath and diaphoresis. The patient denies any previous history of chest pain",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the main symptom. No palpitations or lightheadedness",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain",
+    "gi": "The patient denies any abdominal pain, nausea or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in bowel movements.",
+    "musculoskeletal": "No complaints of joint pain or stiffness",
+    "skin": "No rash or skin changes noted",
+    "neurologic": "The patient denies any changes in speech, balance or motor skills."
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Patient reports taking over-the-counter ibuprofen for occasional headaches.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "No family history of heart disease or other significant medical conditions.",
+  "social_history": "Patient is a non-smoker and does not use recreational drugs. Patient denies alcohol use."
+}
+```

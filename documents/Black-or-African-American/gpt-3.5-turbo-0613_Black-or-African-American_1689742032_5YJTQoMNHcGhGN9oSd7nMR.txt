@@ -1,0 +1,21 @@
+{
+  "patient_name": "Peyton Williams",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient states the pain started earlier today and describes it as a sharp, stabbing pain in the center of the chest. The pain is worsened with deep breaths and movement. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Patient has no history of chest pain and is concerned about the possibility of having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart disease or palpitations. Denies any chest pain radiating to the arm, jaw, or back.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. No other significant past medical history.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No history of any surgeries.",
+  "family_history": "Positive family history of hypertension in both parents.",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. Works as an accountant and is not currently physically active."
+}

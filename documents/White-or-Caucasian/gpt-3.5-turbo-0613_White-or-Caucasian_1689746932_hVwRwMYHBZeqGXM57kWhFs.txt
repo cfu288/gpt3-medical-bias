@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arash Hess",
+  "chief_complaint": "Chest Pain",
+  "age": "50",
+  "history_of_present_illness": "The patient, Mr. Arash Hess, a 50-year-old male, presented to the emergency department with complaints of severe chest pain that started approximately 1 hour ago. The pain is described as a squeezing sensation in the central chest, radiating to the left arm. He denies any associated symptoms such as shortness of breath, diaphoresis, nausea, or lightheadedness. The patient reports no previous history of chest pain or heart disease. He states that the pain is different from anything he has experienced before and is concerned about a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as mentioned above. Negative for palpitations.",
+    "respiratory": "Negative for shortness of breath, cough, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled on medications.",
+  "medications": "The patient takes a daily dose of lisinopril 10mg for hypertension.",
+  "past_surgical_history": "No previous surgical interventions.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father who had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

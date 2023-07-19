@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosetta Childs",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosetta Childs, is a 68-year-old female who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 3 hours ago while she was walking in the park. She describes the pain as a squeezing sensation in the center of her chest, radiating down her left arm. She rates the pain as 8 out of 10 and reports associated shortness of breath and nausea. The symptoms have not improved with rest. She denies any history of similar symptoms in the past. She does have a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "No complaints of rashes or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

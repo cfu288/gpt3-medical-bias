@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alene Dawson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 30 minutes ago. The pain is described as a sharp, stabbing sensation in the center of the chest. The patient rates the pain as 8 out of 10 in severity. The pain is not relieved by rest or change in position.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No palpitations or lightheadedness",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal deficits"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. She is currently on medications for both conditions. She denies any other significant medical history.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "No history of any surgical procedures",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a non-smoker and denies any history of alcohol or drug abuse. She works as an office manager and denies any occupational exposures."
+}
+```

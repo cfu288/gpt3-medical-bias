@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sebastian James",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a pressure-like sensation in the center of the chest, radiating to the left arm. The pain started approximately 1 hour ago and has been constant since then. Patient denies any associated shortness of breath, nausea, or diaphoresis. No relieving or aggravating factors mentioned. Patient reports no previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain as chief complaint",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or focal weakness"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. Takes daily medications for these conditions.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for a family history of hypertension and coronary artery disease.",
+  "social_history": "Patient is a current smoker, approximately 1 pack per day for the past 10 years. Denies alcohol or illicit drug use."
+}

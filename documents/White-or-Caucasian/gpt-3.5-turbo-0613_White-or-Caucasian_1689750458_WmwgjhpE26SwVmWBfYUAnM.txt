@@ -1,0 +1,21 @@
+{
+  "patient_name": "Admir Johnson",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Johnson presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation, radiating to his left arm. He rates the intensity of the pain as 7 out of 10. The pain is persistent and has not been relieved with rest. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or weight loss",
+    "cardiovascular": "Chest pain as described",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain as described",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No headache or focal neurological symptoms"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker. Social alcohol drinker."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Layne Jorgensen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Layne Jorgensen, a 45-year-old male, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about an hour ago and is described as a crushing sensation in the center of the chest. The pain radiates down the left arm and is associated with shortness of breath. The patient denies any relevant medical history or recent trauma.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing at rest.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker, does not use alcohol or illicit drugs. He works as a computer programmer and is physically active, engaging in regular exercise."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gertrude Frank",
+  "age": "62 years",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Frank presented to the emergency department with a chief complaint of chest pain. She stated that the pain started suddenly about 2 hours ago, while she was at rest. She describes the pain as a squeezing sensation in her chest, radiating down her left arm. She rates the pain as 8/10 in intensity and states that it has not improved or worsened since onset. She denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or lightheadedness. She has no prior history of chest pain or any cardiac issues.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg once daily and atorvastatin 20mg once daily.",
+  "past_surgical_history": "Patient has no prior surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 70.",
+  "social_history": "Patient is a former smoker, having quit 10 years ago. She denies alcohol or recreational drug use."
+}

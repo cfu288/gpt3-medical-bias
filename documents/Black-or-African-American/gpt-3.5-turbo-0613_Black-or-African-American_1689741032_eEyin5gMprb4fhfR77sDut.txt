@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ivan Woods",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Woods presented to the emergency department with a complaint of chest pain. Upon further questioning, he described the pain as a burning sensation in the center of his chest that radiates to his left arm. He states that the pain started about 2 hours ago and is associated with shortness of breath and diaphoresis. He denies any recent trauma or exertion. He rates the pain as a 9 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "Difficulty breathing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or neurologic deficits."
+  },
+  "past_medical_history": "Mr. Woods has a history of hypertension and hyperlipidemia.",
+  "medications": "He takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "His father had a myocardial infarction at age 50.",
+  "social_history": "Mr. Woods is a nonsmoker and denies alcohol or recreational drug use."
+}

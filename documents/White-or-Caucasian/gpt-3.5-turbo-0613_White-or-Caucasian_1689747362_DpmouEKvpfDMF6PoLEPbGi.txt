@@ -1,0 +1,21 @@
+{
+  "patient_name": "Travis Burke",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Burke presents to the emergency department with a chief complaint of chest pain. He states that the pain began this morning and is a dull, aching pain in the center of his chest. He describes the pain as a pressure-like sensation that radiates to his left arm. He denies any shortness of breath, diaphoresis, or nausea. He has a past medical history of hypertension and hyperlipidemia. His vital signs on presentation are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Mr. Burke is a non-smoker and does not consume alcohol regularly.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for family history of cardiac disease",
+  "social_history": "Non-smoker, does not consume alcohol regularly"
+}

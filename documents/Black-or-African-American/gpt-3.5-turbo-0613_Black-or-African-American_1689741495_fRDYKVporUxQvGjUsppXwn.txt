@@ -1,0 +1,21 @@
+{ 
+  "patient_name": "Roosevelt Sayles",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset chest pain. Pain is described as a tightness and pressure in the center of the chest, radiating to the left arm. Patient also reports shortness of breath and diaphoresis. Pain started approximately 1 hour ago and has been persistent since then.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or changes in bowel or bladder function",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Father has a history of coronary artery disease",
+  "social_history": "Patient is a smoker with a 30 pack-year history. No alcohol or illicit drug use."
+}

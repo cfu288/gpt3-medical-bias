@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bobby Maki",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bobby Maki, is a 32-year-old male who presents to the emergency department with a chief complaint of chest pain. The chest pain started suddenly about 2 hours ago and is located in the center of his chest. The pain is described as a squeezing sensation and is radiating to his left arm. He rates the pain as 8 out of 10 in intensity. The pain is not relieved with rest. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports a history of hypertension and takes amlodipine 5mg daily for blood pressure control. He denies any recent upper respiratory tract infections or traumatic events. He is otherwise healthy with no known allergies to medications. The patient also reports that his father had a myocardial infarction at the age of 45. He denies any tobacco or recreational drug use, but admits to occasionally drinking alcohol. He is currently employed as a software engineer.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as his chief complaint. No other cardiovascular symptoms are reported.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine 5mg daily for blood pressure control.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 45.",
+  "social_history": "The patient denies any tobacco or recreational drug use. He occasionally drinks alcohol and is currently employed as a software engineer."
+}

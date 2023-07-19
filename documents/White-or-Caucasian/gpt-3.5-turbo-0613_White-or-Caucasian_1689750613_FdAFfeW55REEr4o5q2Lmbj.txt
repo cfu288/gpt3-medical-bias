@@ -1,0 +1,21 @@
+{
+  "patient_name": "Truman Klotz",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Klotz presents to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly about 2 hours ago while he was at home. The pain is described as a sharp, stabbing sensation located in the center of his chest. He rates the intensity of the pain as a 7 out of 10. The pain is aggravated by deep breathing and movement. He denies any associated symptoms such as shortness of breath, palpitations, or dizziness. He has no significant past medical history and is not currently taking any medications. He has never had any surgeries. He reports no family history of cardiac disease. His social history is significant for a 20-pack-year smoking history and occasional alcohol use. He denies illicit drug use or any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies palpitations or irregular heartbeat",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache or changes in sensation"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No family history of cardiac disease",
+  "social_history": "20-pack-year smoking history, occasional alcohol use"
+}

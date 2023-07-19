@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donovan Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones is a 45-year-old male who presents with complaints of chest pain. He describes the pain as a sharp, squeezing sensation that radiates to his left arm. The pain started 2 hours ago and has been constant since then. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or palpitations. The pain is not relieved by rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No dysuria or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No weakness or numbness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father had history of myocardial infarction at age 50",
+  "social_history": "Non-smoker, social alcohol drinker"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Saeed Freshwater",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Freshwater, presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation that started suddenly while he was resting at home. The pain is located in the center of his chest and radiates to his left arm. He rates the intensity of the pain as 8 out of 10. The pain has been ongoing for the past 2 hours and is not relieved with rest. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Denies palpitations or swelling in the legs.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or sensory changes."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for it.",
+  "medications": "The patient is taking lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's father passed away from a heart attack at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

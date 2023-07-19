@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Archie Johnson, is a 45-year-old male presenting to the emergency department with complaints of chest pain. He describes the pain as a dull, pressure-like sensation located in the center of his chest. The pain started approximately 2 hours ago, and he rates it as a 7 out of 10 on the pain scale. It is associated with shortness of breath and diaphoresis. The pain has not significantly changed since onset. He denies any trauma or recent illnesses. His vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or difficulty breathing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No headaches or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin daily.",
+  "medications": "Metoprolol 50 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother has a history of coronary artery disease.",
+  "social_history": "The patient is a smoker, with a 20 pack-year history, and drinks alcohol occasionally."
+}

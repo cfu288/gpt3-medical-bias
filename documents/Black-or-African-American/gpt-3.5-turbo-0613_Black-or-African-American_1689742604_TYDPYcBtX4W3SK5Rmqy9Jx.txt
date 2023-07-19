@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mina Smith",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mina Smith, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a dull, aching sensation located in the center of her chest. She rates the pain as 7/10 in severity and states that it has been constant for the past hour. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or positional changes. The patient has no previous history of chest pain or cardiac disease. She denies any recent trauma or exertion. She is concerned about the possibility of a heart attack and requests evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with lisinopril.",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension in her mother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and lives with her husband and two children."
+}

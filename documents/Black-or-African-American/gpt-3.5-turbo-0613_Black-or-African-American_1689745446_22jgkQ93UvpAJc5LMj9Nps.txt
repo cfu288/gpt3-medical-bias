@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosemary Allen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came in with complaints of chest pain that started earlier today. She described the pain as a dull ache in the center of her chest. The pain is not radiating and is not associated with shortness of breath or sweating. She did not try any medication at home. The pain is still persistent at the moment.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, denied shortness of breath or palpitations",
+    "respiratory": "Denies cough or difficulty breathing",
+    "gi": "No nausea, vomiting or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or wounds",
+    "neurologic": "No headache, dizziness or loss of consciousness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "She takes atenolol 100mg daily and simvastatin 40mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Positive for hypertension and heart disease in both parents",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She works as a teacher and lives with her husband and two children."
+}

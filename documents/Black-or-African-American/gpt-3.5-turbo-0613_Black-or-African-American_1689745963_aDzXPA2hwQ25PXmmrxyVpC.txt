@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reginald Williams",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Williams is a 45-year-old male who presents to the Emergency Department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a crushing, pressure-like sensation that radiates to his left arm. He rates the pain as a 9 out of 10 in severity. He is diaphoretic and also complains of shortness of breath. He denies any associated symptoms such as nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports palpitations.",
+    "respiratory": "Patient complains of shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "Patient is a non-smoker and denies any illicit drug use. He consumes alcohol occasionally in moderation."
+}

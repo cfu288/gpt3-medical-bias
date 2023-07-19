@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Ford",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Henri Ford, a 56-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any nausea, vomiting, or diaphoresis. He states that the pain is not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fatigue, fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient has a history of hypertension and high cholesterol. He denies any palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient denies any cough, sputum production, wheezing, or shortness of breath at rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, high cholesterol, and type 2 diabetes. He takes Lisinopril 20mg daily, Atorvastatin 40mg daily, and Metformin 1000mg twice daily for his medical conditions.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. His mother is alive with no significant medical history.",
+  "social_history": "The patient is a current smoker with a 30 pack-year history. He drinks alcohol occasionally and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Sherwin Jones",
+    "age": "48",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Jones presented to the emergency department with complaints of chest pain. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. He states the pain began about 2 hours ago and has been constant. He denies any shortness of breath, nausea, or diaphoresis. He does admit to occasional episodes of chest pain in the past, but never as severe as the current episode.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss",
+        "cardiovascular": "Denies palpitations or edema",
+        "respiratory": "No cough, shortness of breath, or wheezing",
+        "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+        "gu": "No urinary symptoms",
+        "musculoskeletal": "No joint pain or swelling",
+        "skin": "No rashes or lesions",
+        "neurologic": "No headache or dizziness"
+    },
+    "past_medical_history": "Hypertension, hyperlipidemia",
+    "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+    "past_surgical_history": "Appendectomy, cholecystectomy",
+    "family_history": "Father had a myocardial infarction at age 55",
+    "social_history": "Non-smoker, occasional alcohol use"
+}

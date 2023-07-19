@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harold Pontrelli",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Pontrelli is a 58-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 1 hour ago and is associated with shortness of breath. He denies any other symptoms such as nausea, vomiting, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient complains of shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports radiating pain to his left arm.",
+    "skin": "No skin complaints reported.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Mr. Pontrelli has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a former smoker and quit smoking 10 years ago. He has a sedentary lifestyle and does not engage in regular exercise."
+}

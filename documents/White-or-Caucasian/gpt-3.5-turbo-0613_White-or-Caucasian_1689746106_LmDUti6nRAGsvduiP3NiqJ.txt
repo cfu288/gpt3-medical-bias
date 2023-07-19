@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antoine Fisher",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain is substernal in location, radiates to the left arm, and is associated with shortness of breath. The pain started approximately 2 hours ago while the patient was at rest. The patient denies any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain with associated shortness of breath.",
+    "respiratory": "Patient denies cough or difficulty breathing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin changes.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no prior surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

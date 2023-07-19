@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rico Varela",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Varela presented to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as crushing in nature and radiating to the left arm. The patient also reports shortness of breath and diaphoresis. He denies any associated symptoms such as nausea, vomiting, or palpitations. The pain is not relieved with rest. He has a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue",
+    "cardiovascular": "Chest pain, shortness of breath, diaphoresis",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or focal deficits"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for cardiac disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

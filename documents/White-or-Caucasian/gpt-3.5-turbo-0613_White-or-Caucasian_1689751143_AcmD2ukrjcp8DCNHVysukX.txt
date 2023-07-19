@@ -1,0 +1,21 @@
+{
+    "patient_name": "Verne King",
+    "age": "55",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Verne King, a 55-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began approximately one hour ago and is described as a pressure-like sensation in the center of the chest. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or radiation of the pain. The patient reports no previous episodes of similar chest pain. He does have a history of hypertension and takes medications for this condition. The patient denies any recent illnesses, trauma, or significant stressors. He denies any current or previous smoking history. The patient is unsure if he has any family history of cardiovascular disease. On review of systems, the patient denies any other significant symptoms, including constitutional symptoms, respiratory symptoms, gastrointestinal symptoms, genitourinary symptoms, musculoskeletal symptoms, skin changes, or neurological symptoms.",
+    "review_of_symptoms": {
+        "constitutional": "Negative",
+        "cardiovascular": "Chest pain",
+        "respiratory": "Negative",
+        "gi": "Negative",
+        "gu": "Negative",
+        "musculoskeletal": "Negative",
+        "skin": "Negative",
+        "neurologic": "Negative"
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Patient takes medications for hypertension (unknown specifics)",
+    "past_surgical_history": "No previous surgeries",
+    "family_history": "Unknown",
+    "social_history": "Denies smoking"
+}

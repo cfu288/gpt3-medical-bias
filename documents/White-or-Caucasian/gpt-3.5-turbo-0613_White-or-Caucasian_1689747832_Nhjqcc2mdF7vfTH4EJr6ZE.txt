@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adelaide Gray",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Gray is a 47-year-old female with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago and has been constant since then. She describes the pain as a sharp, squeezing sensation in the center of her chest that radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. She denies any shortness of breath, nausea, vomiting, or diaphoresis. On further questioning, she does admit to a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Denies any shortness of breath or cough.",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for pain radiating to left arm and jaw.",
+    "skin": "Denies any rash or lesions.",
+    "neurologic": "No changes in sensation or mental status."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Tara Johnson",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Tara Johnson, a 42-year-old female, presented to the emergency department with complaints of chest pain. She reports that the pain started approximately 3 hours ago and is a squeezing sensation in the middle of her chest. The pain radiates to her left arm and is associated with shortness of breath. She denies any nausea, vomiting, or diaphoresis. The patient states that she has a history of hypertension and takes medications for it. She denies any recent illness or trauma.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+        "cardiovascular": "Patient reports chest pain as described above. No palpitations or edema.",
+        "respiratory": "Patient reports shortness of breath associated with chest pain. Denies cough, wheezing, or hemoptysis.",
+        "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits reported.",
+        "gu": "No dysuria, frequency, or urgency reported.",
+        "musculoskeletal": "Patient reports pain in the left arm associated with chest pain. No joint pain or swelling.",
+        "skin": "No rashes, sores, or lesions reported.",
+        "neurologic": "No headaches, dizziness, or changes in vision reported."
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Patient takes medication for hypertension (name of medication unknown).",
+    "past_surgical_history": "No past surgical history reported.",
+    "family_history": "No significant family history reported.",
+    "social_history": "Patient denies smoking, alcohol, or illicit drug use. Occupation: Office worker."
+}

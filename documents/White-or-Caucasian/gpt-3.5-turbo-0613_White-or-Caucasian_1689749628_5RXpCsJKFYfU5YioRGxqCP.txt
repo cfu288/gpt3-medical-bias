@@ -1,0 +1,21 @@
+{
+  "patient_name": "Igor Garcia",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Igor Garcia, a 35-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 7/10 in intensity. He denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for arm and jaw pain",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for his chronic medical conditions.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Family history is significant for coronary artery disease. Both of the patient's parents have a history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any history of illicit drug use. He consumes alcohol occasionally."
+}

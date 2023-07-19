@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freda Minor",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Freda Minor, a 45-year-old female, presents with complaints of chest pain. She describes the pain as a sharp, squeezing sensation in the center of her chest. The pain started approximately 2 hours ago and is radiating to her left arm. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The patient states that the pain is not relieved with rest and has a severity of 8 on a scale of 1 to 10. She reports no previous history of chest pain or similar symptoms. The patient is currently experiencing the chest pain at rest and it does not worsen with exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain as described",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Reports radiating pain to left arm",
+    "skin": "No skin changes reported",
+    "neurologic": "No history of neurologic symptoms"
+  },
+  "past_medical_history": "The patient reports a history of hypertension and takes regular medication for it.",
+  "medications": "The patient takes Amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports a family history of heart disease. Her father had a heart attack at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

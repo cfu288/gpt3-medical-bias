@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oliver Simon",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain. Upon arrival, the patient was tachycardic with a heart rate of 110 beats per minute and blood pressure was 140/90 mmHg. An initial EKG was obtained which showed ST segment elevation in leads II, III, and AVF. The patient was immediately brought to the cardiac catheterization lab for further evaluation and possible intervention.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss or weight gain.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea or vomiting.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient notes no joint pain, stiffness or swelling.",
+    "skin": "Patient denies rash, itching or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

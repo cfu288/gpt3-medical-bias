@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lionel Campbell",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started about 1 hour ago. Pain is described as a crushing sensation and radiates to the left arm. Patient also reports shortness of breath and sweating. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for radiating pain to the left arm.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for family history of coronary artery disease.",
+  "social_history": "Patient is a current smoker with a 20-pack-year smoking history."
+}

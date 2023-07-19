@@ -1,0 +1,21 @@
+{
+    "patient_name": "Theodore Payne",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain began approximately two hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is radiating to the left arm and neck. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon arrival, patient's vital signs were stable and EKG showed no acute ST-T wave changes.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+        "cardiovascular": "Patient denies palpitations or edema.",
+        "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+        "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+        "gu": "Patient denies dysuria, hematuria, or frequency.",
+        "musculoskeletal": "Patient denies joint pain or stiffness.",
+        "skin": "Patient denies rash, itching, or lesions.",
+        "neurologic": "Patient denies headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+    "medications": "Patient takes lisinopril 20mg daily, simvastatin 40mg daily, and aspirin 81mg daily.",
+    "past_surgical_history": "Patient has no previous surgeries.",
+    "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+    "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

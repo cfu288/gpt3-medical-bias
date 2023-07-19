@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marilyn Martin",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Marilyn Martin, a 55-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about 1 hour ago while she was at rest. She describes it as a sharp, stabbing pain located in the center of her chest. The pain is aggravated by deep breathing and lying flat, but it improves when she sits up and leans forward. She denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. She has no prior history of similar episodes. Given the nature of her symptoms, we need to consider the possibility of a cardiac etiology and initiate appropriate measures for evaluation and management.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies palpitations or prior episodes of chest pain.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Denies joint pain, swelling, or recent trauma.",
+    "skin": "Denies rashes, itching, or changes in moles.",
+    "neurologic": "Denies headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking amlodipine 5 mg daily and simvastatin 20 mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her mother who had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use. She is married and works as a receptionist."
+}

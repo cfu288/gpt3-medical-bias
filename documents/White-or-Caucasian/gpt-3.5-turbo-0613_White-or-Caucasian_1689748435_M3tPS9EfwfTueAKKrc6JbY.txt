@@ -1,0 +1,21 @@
+{
+  "patient_name": "Graydon Sievert",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. He describes the pain as a sharp, squeezing sensation in the middle of his chest. The pain started abruptly approximately 2 hours ago. It is not radiating to his arms or jaw, but he does feel some discomfort in his left shoulder. He denies any shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or nitroglycerin. It is associated with mild dyspnea on exertion. The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily. Upon arrival, he was given 324 mg of aspirin, and an EKG was obtained which showed ST-segment elevation in leads II, III, and aVF. Troponin levels were drawn and are currently pending. A chest X-ray was performed and was unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for discomfort in left shoulder.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Denies any past surgical procedures.",
+  "family_history": "Positive family history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

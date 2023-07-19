@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alice Dubose",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alice Dubose, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about 2 hours ago while she was at home. The pain is described as a squeezing sensation, radiating to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated shortness of breath, nausea, or diaphoresis. She states that she has a history of hypertension and takes medication for it regularly.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "None",
+  "family_history": "Mother has a history of hypertension",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marcos Butler",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marcos Butler, a 45-year-old male, presents to the emergency department with a complaint of chest pain. The pain started approximately 2 hours ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest. The pain radiates to his left arm. The pain has not resolved and is associated with shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No documented symptoms of fever, fatigue, or weight loss.",
+    "cardiovascular": "Chest pain, radiating to the left arm. No palpitations or syncope.",
+    "respiratory": "Shortness of breath associated with chest pain.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No complaints of urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No skin rash or wounds.",
+    "neurologic": "No headache, dizziness, or neurologic changes."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "There is a family history of coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Salina King",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started 2 hours ago. Pain is described as squeezing and radiating to the left arm. Patient also reports shortness of breath and lightheadedness. No associated symptoms such as nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No numbness, weakness, or changes in sensation"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Father with history of myocardial infarction",
+  "social_history": "Non-smoker, social alcohol use"
+}

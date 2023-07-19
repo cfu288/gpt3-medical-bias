@@ -1,0 +1,22 @@
+{
+  "patient_name": "Kerrie Mendez",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kerrie Mendez, a 32-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago while she was at rest. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain is accompanied by shortness of breath and sweating. She denies any associated symptoms such as nausea, vomiting, or dizziness. The pain is not relieved with rest or change in position. She does not have any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or urinary frequency",
+    "musculoskeletal": "Denies joint pain or stiffness",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headache or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "The patient is a non-smoker and denies the use of alcohol or illicit drugs",
+  "$schema": "http://json-schema.org/draft-04/schema#"
+}

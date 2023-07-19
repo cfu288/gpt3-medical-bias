@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Melissa Soeder",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain started approximately 2 hours ago while the patient was at rest. The pain is described as a sharp, squeezing sensation located in the center of the chest. The pain radiates to the left arm and jaw. The patient denies any shortness of breath, nausea, or diaphoresis. There is no associated trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or syncope.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or changes in moles.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Atenolol, Lisinopril, Simvastatin, and Metformin.",
+  "past_surgical_history": "Appendectomy at age 18.",
+  "family_history": "Father with history of myocardial infarction at age 55.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}
+```

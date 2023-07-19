@@ -1,0 +1,21 @@
+{
+  "patient_name": "Denis Keating",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Keating is a 55-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a heaviness and pressure in the center of his chest, lasting for about 30 minutes. The pain radiates to his left arm and jaw, and is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema",
+    "respiratory": "Negative for cough, sputum production, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Keating has a history of hypertension, hyperlipidemia, and smoking",
+  "medications": "He takes lisinopril 20mg daily, atorvastatin 40mg daily, and uses nicotine patches",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Positive for coronary artery disease in his father",
+  "social_history": "Mr. Keating is a smoker of 30 pack-years and drinks alcohol occasionally"
+}

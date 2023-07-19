@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chet Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Chet Jones, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. He rates the pain as a 7 out of 10 in intensity and reports that it radiates to his left arm. The patient has no significant past medical history and denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain but denies any palpitations, shortness of breath, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports discomfort in his left arm but denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

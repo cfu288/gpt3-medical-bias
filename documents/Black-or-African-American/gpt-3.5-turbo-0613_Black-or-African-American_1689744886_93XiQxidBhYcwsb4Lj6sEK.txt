@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rayna Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms. No alleviating or aggravating factors have been identified.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above, associated with shortness of breath and diaphoresis. No palpitations or lightheadedness.",
+    "respiratory": "Patient denies cough, sputum production, or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "No complaints of joint pain or swelling.",
+    "skin": "No rashes, lesions, or changes in the skin.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both controlled with medications.",
+  "medications": "Patient currently takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a current smoker, smoking approximately 1 pack per day for the past 15 years. No alcohol or illicit drug use. Works as an office manager."
+}

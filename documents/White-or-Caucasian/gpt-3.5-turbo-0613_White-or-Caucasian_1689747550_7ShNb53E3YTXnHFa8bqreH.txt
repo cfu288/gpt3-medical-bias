@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joao Faron",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a crushing sensation that radiates to the left arm. It started approximately 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Patient reports a history of hypertension and is currently taking medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or visual changes"
+  },
+  "past_medical_history": "Hypertension, on medication",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with a history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

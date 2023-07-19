@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leonard Lilly",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Lilly presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of his chest. The pain is severe and radiates to his left arm. He denies any associated shortness of breath, diaphoresis, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Mr. Lilly has a history of hypertension and hyperlipidemia. He takes daily medications for these conditions.",
+  "medications": "Amlodipine, Atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive family history of coronary artery disease in both parents",
+  "social_history": "Mr. Lilly is a smoker and reports consuming alcohol in moderation."
+}

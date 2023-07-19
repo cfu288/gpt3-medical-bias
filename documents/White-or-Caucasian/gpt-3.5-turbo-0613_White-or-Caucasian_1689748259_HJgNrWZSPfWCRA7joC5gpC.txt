@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fiona Bloom",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Bloom is a 42-year-old female presenting to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation in the left side of her chest. It started approximately 2 hours ago and has been continuous since then. The pain is aggravated by deep breaths and movement. She denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. The patient does not have a history of cardiac disease or any risk factors for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations, racing heart, or edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or urinary frequency.",
+    "musculoskeletal": "Aside from the chest pain, the patient denies any joint pain or stiffness.",
+    "skin": "No significant skin changes or rashes.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of asthma.",
+  "medications": "The patient takes a daily inhaler for her asthma.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and does not use recreational drugs. She drinks alcohol occasionally but denies any excessive use."
+}
+```

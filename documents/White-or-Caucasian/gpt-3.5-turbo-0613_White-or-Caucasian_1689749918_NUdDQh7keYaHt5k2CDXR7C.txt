@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sally Jozwiak",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sally Jozwiak, is a 55-year-old female who presents to the emergency department with complaints of persistent chest pain. The patient describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She states that the pain started approximately 2 hours ago and has not subsided. The pain is rated as a 7 out of 10 in severity. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain as described in the history of present illness. There is no history of palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of radiating pain to her left arm. There is no joint swelling or stiffness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is currently on medications for these conditions.",
+  "medications": "The patient is taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is a family history of coronary artery disease in the patient's father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

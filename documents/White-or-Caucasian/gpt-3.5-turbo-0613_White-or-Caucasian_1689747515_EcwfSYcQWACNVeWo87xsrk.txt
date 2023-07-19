@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deanna Sokolowski",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a dull ache in the center of the chest that started approximately 2 hours ago. Patient reports that the pain is radiating to the left arm and jaw. Patient denies any shortness of breath, diaphoresis, or palpitations. Upon further questioning, the pain is exacerbated with exertion and relieved with rest. Patient has no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and denies palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports a dull ache in the left arm.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient reports no headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and simvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's family history is unremarkable.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

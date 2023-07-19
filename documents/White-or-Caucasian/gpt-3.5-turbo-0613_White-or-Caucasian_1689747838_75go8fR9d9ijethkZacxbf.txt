@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "John Blood",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, John Blood, a 45-year-old male, presents to the emergency department with complaints of sudden onset chest pain. The pain is described as a sharp and crushing sensation, radiating to the left arm. It started approximately 2 hours ago and has gradually worsened since then. The patient denies any associated symptoms such as shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain, but denies palpitations, syncope, or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, diarrhea, or vomiting.",
+    "gu": "The patient denies any dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient has no skin rashes, lesions, or pruritus.",
+    "neurologic": "The patient has no history of seizures, headaches, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgical interventions.",
+  "family_history": "The patient has a family history of coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use."
+}
+```

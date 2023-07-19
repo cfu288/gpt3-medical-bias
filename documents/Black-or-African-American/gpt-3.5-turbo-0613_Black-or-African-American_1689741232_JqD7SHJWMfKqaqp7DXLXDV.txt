@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gisele Blackmon",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of chest pain that started approximately 2 hours ago. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain is associated with shortness of breath and sweating.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash, itching, or changes in moles.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril 10mg daily and Atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient had an appendectomy in 2005.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

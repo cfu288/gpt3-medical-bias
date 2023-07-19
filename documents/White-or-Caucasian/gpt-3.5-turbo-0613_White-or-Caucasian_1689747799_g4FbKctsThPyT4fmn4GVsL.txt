@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marcello Hahn",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hahn is a 35-year-old male who presented to the emergency department with complaints of severe chest pain. The pain started suddenly while he was at rest and has persisted for the past hour. He described the pain as a crushing sensation in the center of the chest, which radiates to his left arm. He denies any shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Pain radiating to left arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or numbness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, social alcohol drinker"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Carr",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presenting to the emergency department with complaints of severe chest pain for the past 2 hours. The pain is described as a crushing sensation in the middle of the chest, radiating down the left arm. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue",
+    "cardiovascular": "Positive for chest pain, shortness of breath",
+    "respiratory": "Denies cough or wheezing",
+    "gi": "Denies abdominal pain or nausea",
+    "gu": "Denies urinary frequency or urgency",
+    "musculoskeletal": "Denies muscle pain or joint swelling",
+    "skin": "Denies rashes or skin lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and atorvastatin daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family history of cardiovascular disease",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. He works as an office manager and exercises regularly."
+}

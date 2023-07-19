@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rodrick Young",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaint of severe chest pain that started an hour ago. The pain is described as a burning sensation in the center of the chest and radiates to the left arm. Patient denies any shortness of breath or diaphoresis. There is no known trigger for the pain. Patient rates the pain as 8 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports occasional palpitations but denies any known heart disease.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or seizures."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both diagnosed 5 years ago. He is on medications for these conditions.",
+  "medications": "Patient takes amlodipine and atorvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a heart attack at the age of 60. Mother is alive and has no significant medical history.",
+  "social_history": "Patient is a smoker, smoking 1 pack of cigarettes per day for the past 20 years. He consumes alcohol occasionally but denies any illicit drug use."
+}
+```

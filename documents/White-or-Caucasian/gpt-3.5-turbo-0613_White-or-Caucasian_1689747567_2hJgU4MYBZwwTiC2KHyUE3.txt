@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Greg Dowdey",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Dowdey is a 45-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a dull ache in his chest that started about 2 hours ago. The pain is radiating down his left arm and is associated with shortness of breath. He denies any previous episodes of chest pain or heart problems. He also denies any recent trauma or injury. There is no known family history of heart disease. On physical examination, the patient appears diaphoretic and is in moderate distress. His vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Cardiac auscultation reveals normal heart sounds without any murmurs or rubs. His lungs are clear to auscultation bilaterally. EKG shows ST segment elevation in leads II, III, aVF, and V2 to V6, consistent with an acute inferior wall myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes metoprolol for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Metoprolol 50 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No known family history of heart disease",
+  "social_history": "The patient works as an accountant and denies any tobacco or alcohol use"
+}
+```

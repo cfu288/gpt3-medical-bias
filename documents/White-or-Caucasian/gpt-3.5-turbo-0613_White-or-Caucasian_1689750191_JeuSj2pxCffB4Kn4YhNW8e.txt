@@ -1,0 +1,21 @@
+{
+  "patient_name": "Catherine Peoples",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Catherine Peoples, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of the chest. She rates the pain as a 6 out of 10 on the pain scale. The pain radiates to her left arm and neck. She denies any shortness of breath, palpitations, or lightheadedness. The pain is not relieved by rest and has been constant since onset.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers or chills",
+    "cardiovascular": "Denies palpitations",
+    "respiratory": "Denies shortness of breath",
+    "gi": "Denies nausea or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Reports pain in left arm and neck",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother has a history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

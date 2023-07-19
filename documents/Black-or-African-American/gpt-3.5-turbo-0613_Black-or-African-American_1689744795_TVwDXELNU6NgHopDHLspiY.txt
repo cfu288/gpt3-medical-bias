@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kevin Brown",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Kevin Brown is a 42-year-old male presenting to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago while he was at rest. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations, dizziness, or syncope.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both well-controlled with medications. No history of diabetes, lung disease, or cardiac surgeries.",
+  "medications": "Patient takes lisinopril 20 mg daily for hypertension and simvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had a heart attack at the age of 58. No other significant family history of cardiac diseases.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

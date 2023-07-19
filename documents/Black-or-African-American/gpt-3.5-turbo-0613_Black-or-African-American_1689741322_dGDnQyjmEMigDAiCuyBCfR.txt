@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Johnie Mason",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Mason presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as a 9 out of 10. The pain is not relieved with rest and is associated with shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pains or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

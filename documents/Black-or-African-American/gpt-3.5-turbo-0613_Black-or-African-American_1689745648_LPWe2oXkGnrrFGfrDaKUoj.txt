@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbur Straughter",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Straughter, is a 54-year-old male presenting to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of his chest. It started approximately 2 hours ago and has been constant since then. He rates the pain 9/10 in severity. There is no radiation of the pain to his arms or jaw. He denies any shortness of breath, diaphoresis, or nausea. He has a past medical history of hypertension and hyperlipidemia. His last EKG performed 3 months ago was normal. He takes lisinopril and atorvastatin for his medical conditions. There is no history of recent surgeries. He denies any family history of heart disease. Socially, he is a non-smoker and denies any drug or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "The patient complains of chest pain as described above. No palpitations or syncope reported.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or skin lesions noted.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "No history of surgeries",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, no drug or alcohol use"
+}

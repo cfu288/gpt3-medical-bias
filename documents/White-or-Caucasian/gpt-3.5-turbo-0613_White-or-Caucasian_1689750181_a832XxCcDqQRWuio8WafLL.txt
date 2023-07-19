@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deidre Bowen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Bowen is a 45-year-old female presenting to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a dull, pressure-like sensation that radiates to her left arm. She denies any shortness of breath, dizziness, or diaphoresis. The pain has not changed in intensity since it began. She states that she has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies limb pain or joint swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, vision changes, or focal weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father and maternal grandfather.",
+  "social_history": "Patient is a non-smoker and occasionally consumes alcohol."
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Rose Butler",
+    "age": "56",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mrs. Butler presents to the emergency department today with a chief complaint of chest pain. She describes the pain as a sharp, squeezing sensation in the center of her chest that started about 2 hours ago. The pain is radiating to her left arm and she also feels shortness of breath. She denies any nausea or vomiting. She has a history of hypertension and hyperlipidemia.",
+    "review_of_symptoms": {
+        "constitutional": "Denies fever, chills, or weight loss.",
+        "cardiovascular": "Positive for chest pain and shortness of breath.",
+        "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+        "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+        "gu": "Denies urinary frequency, urgency, or dysuria.",
+        "musculoskeletal": "Denies any joint pain or stiffness.",
+        "skin": "Denies any rashes or lesions.",
+        "neurologic": "Denies headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Hypertension, hyperlipidemia",
+    "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+    "past_surgical_history": "None",
+    "family_history": "Negative for coronary artery disease or any other major medical illnesses in her immediate family.",
+    "social_history": "Mrs. Butler is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Avery Fox",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient arrived at the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as a 7/10 in severity and reports that it radiates to the left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient reports a history of hypertension and high cholesterol. He states that he takes medications for these conditions but is unable to provide specific details. His past surgical history is unremarkable. The patient denies any family history of cardiovascular disease. In terms of social history, he is a non-smoker and denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue.",
+    "cardiovascular": "Chest pain as described above. No palpitations or syncope.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Unknown",
+  "past_surgical_history": "Unremarkable",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, denies illicit drug use"
+}

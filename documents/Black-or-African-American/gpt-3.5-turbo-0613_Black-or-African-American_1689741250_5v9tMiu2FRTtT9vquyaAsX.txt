@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Valentin Boutte",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Valentin Boutte, a 56-year-old male with a chief complaint of chest pain, presented to the emergency department. The chest pain began suddenly approximately one hour ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports feeling short of breath and nauseous. He denies any history of similar episodes in the past. Upon arrival, the patient was alert and oriented with stable vital signs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath associated with chest pain. Denies cough or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any history of seizures, headaches, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and high cholesterol. He takes metoprolol and atorvastatin daily for these conditions.",
+  "medications": "Metoprolol 50mg daily and atorvastatin 20mg nightly.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father who had a heart attack at the age of 60.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He drinks alcohol occasionally and denies any recreational drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dora Cox",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dora Cox, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago while she was at rest. The pain is described as a dull ache in the center of her chest and radiates to her left arm. The patient denies any shortness of breath, nausea, or diaphoresis. She states she has never experienced chest pain like this before and is concerned it may be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash or changes in color",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on metoprolol and lisinopril. She denies any other significant medical history.",
+  "medications": "Metoprolol 25 mg daily and lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Family history is significant for hypertension and heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

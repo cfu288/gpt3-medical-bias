@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kinga Dalton",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset of chest pain. The pain is located in the center of the chest and radiates to the left arm. The pain is described as squeezing and tightness, with a severity of 7/10. Patient states that the pain started approximately 2 hours ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. There is no known triggering event. Patient has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headache, changes in vision, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and simvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no prior surgeries.",
+  "family_history": "Patient has a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or recreational drug use."
+}

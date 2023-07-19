@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hendrik Fifield",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Fifield, is a 45-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in his chest that started approximately 2 hours ago. He rates the severity of the pain as 8 out of 10 and states that it radiates to his left arm. He denies any shortness of breath, dizziness, or diaphoresis. He reports no previous episodes of chest pain. The patient has a history of hypertension and takes medication for this condition. He denies any recent illnesses or traumas. His vital signs on arrival are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Aside from the chest pain he is currently experiencing, the patient denies palpitations or edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "There are no rashes, lesions, or changes in the patient's skin.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for this condition. He has no other significant past medical history.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient denies tobacco or alcohol use. He is married and works as an accountant."
+}

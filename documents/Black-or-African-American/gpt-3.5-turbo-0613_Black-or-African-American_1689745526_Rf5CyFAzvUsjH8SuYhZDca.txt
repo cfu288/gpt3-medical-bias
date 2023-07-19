@@ -1,0 +1,21 @@
+{
+  "patient_name": "Latrice Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Jones is a 42-year-old female who presents to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating down her left arm. The pain started approximately 2 hours ago and has been constant since then. She rates the pain as 8 out of 10 in intensity. She denies any associated shortness of breath, nausea, or diaphoresis. She has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for cardiac or vascular diseases in the immediate family.",
+  "social_history": "Non-smoker, occasional alcohol use, no illicit drug use."
+}

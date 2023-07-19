@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Drew Britsch",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Britsch is a 43-year-old male with a chief complaint of chest pain. He reports that the pain has been present for the past hour and is described as a squeezing sensation across his chest. The pain started while he was resting at home and has not resolved. He denies any radiation of the pain or associated shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling generally well otherwise.",
+    "cardiovascular": "No previous history of cardiac disease or related symptoms such as palpitations or syncope.",
+    "respiratory": "No history of respiratory disease or symptoms such as cough or shortness of breath.",
+    "gi": "No history of gastrointestinal disease or symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "No history of genitourinary disease or symptoms such as urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No history of musculoskeletal disease or symptoms such as joint pain or stiffness.",
+    "skin": "No history of skin disease or symptoms such as rash or itching.",
+    "neurologic": "No history of neurological disease or symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiac disease or other significant medical conditions.",
+  "social_history": "Patient denies tobacco use. Occasional alcohol use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earlene Fisher",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Earlene Fisher, a 55-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a dull and squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the intensity of her pain as 8 out of 10. The patient denies any associated shortness of breath, nausea, or diaphoresis. She has a history of hypertension and diabetes. On examination, her blood pressure is 150/90 mmHg, heart rate is 90 beats per minute, respirations are 18 per minute, oxygen saturation is 98% on room air, and temperature is 98.6°F. Cardiac auscultation reveals normal heart sounds with no murmurs or gallops. Lung auscultation is clear bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports chest pain but denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath, cough, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or morning stiffness.",
+    "skin": "The patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes.",
+  "medications": "The patient takes metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "There is no significant family history of cardiovascular disease, diabetes, or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone."
+}

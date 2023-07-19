@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stevie Chappell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Stevie Chappell, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient states that the pain began approximately 2 hours ago and is a retrosternal, pressure-like sensation. The pain is radiating to the left arm and jaw. The patient denies any associated symptoms and reports no previous history of similar episodes. He states that the pain is currently at a 6/10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or sweating.",
+    "cardiovascular": "The patient denies any palpitations, shortness of breath, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient's medications include lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}
+```

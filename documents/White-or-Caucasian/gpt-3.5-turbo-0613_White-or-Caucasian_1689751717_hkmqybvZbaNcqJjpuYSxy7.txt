@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenny Allen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a dull ache in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and has been persistent. The patient denies any associated shortness of breath, diaphoresis, or nausea. Onset was sudden. The patient has a history of hypertension and takes medications for it. No recent changes in medication or activity level.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers or chills",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or urinary frequency",
+    "musculoskeletal": "No other joint or muscle pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes daily medication for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a non-smoker and denies alcohol and drug use"
+}

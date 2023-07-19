@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dara Roberts",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dara Roberts, is a 47-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation that started approximately 3 hours ago. The pain is located in the center of her chest and radiates to her left arm. She rates the pain as a 7 out of 10 in severity. The pain is not relieved by rest or change in position. She denies any associated shortness of breath, nausea, vomiting, diaphoresis, or lightheadedness. There is no specific trigger for the pain. She has no history of similar episodes in the past. It is important to note that she has a family history of coronary artery disease, with her father having a heart attack at the age of 55. On physical examination, she appears to be in mild discomfort, but is otherwise stable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. She takes amlodipine 5mg daily for blood pressure control and atorvastatin 20mg daily for cholesterol management.",
+  "medications": "Amlodipine 5mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a heart attack at the age of 55. Her mother is alive and has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is married and works as a teacher."
+}

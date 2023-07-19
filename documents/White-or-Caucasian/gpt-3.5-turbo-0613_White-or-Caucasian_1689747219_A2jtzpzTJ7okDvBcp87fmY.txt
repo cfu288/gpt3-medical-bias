@@ -1,0 +1,21 @@
+{
+  "patient_name": "Denis Price",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Price is a 52-year-old male presenting to the emergency department with complaints of chest pain. The patient reports that the pain started approximately 2 hours ago, is located in the center of his chest, and is described as a pressure-like sensation. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it. On examination, the patient appears uncomfortable and diaphoretic. His vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air. His lung and heart sounds are clear, and there are no abnormal findings on the physical examination. Given the patient's presentation and risk factors, an electrocardiogram and cardiac enzymes have been ordered.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Apart from the chest pain, the patient denies palpitations or edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is currently taking amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug abuse."
+}

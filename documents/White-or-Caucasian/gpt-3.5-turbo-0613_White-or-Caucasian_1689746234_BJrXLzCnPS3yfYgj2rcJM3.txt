@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Eugene Shipley",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Shipley is a 43-year-old male who presented to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. He rates the pain as 8/10 in severity and states that it is accompanied by shortness of breath and diaphoresis. There is no history of trauma or recent illness. Onset of symptoms was sudden and he has never experienced similar symptoms in the past. The patient denies any associated symptoms such as nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea or vomiting.",
+    "gu": "Negative for dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, which are well controlled with medications.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. His mother is alive and has no significant medical history.",
+  "social_history": "The patient is a current smoker, smoking 1 pack of cigarettes per day. He denies any alcohol or illicit drug use."
+}
+```

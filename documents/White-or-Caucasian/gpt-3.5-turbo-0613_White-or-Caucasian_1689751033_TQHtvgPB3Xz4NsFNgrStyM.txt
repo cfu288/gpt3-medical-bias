@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Allyson Neighoff",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Neighoff is a 42-year-old female presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while she was at rest. The pain is described as a constant pressure in the center of her chest. She denies any radiation of the pain or associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations, difficulty breathing, or leg swelling.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "She takes lisinopril and atorvastatin.",
+  "past_surgical_history": "No major surgeries.",
+  "family_history": "Negative for any significant family history of heart disease or other genetic disorders.",
+  "social_history": "The patient works as an accountant and denies tobacco use, alcohol use, or illicit drug use."
+}
+```

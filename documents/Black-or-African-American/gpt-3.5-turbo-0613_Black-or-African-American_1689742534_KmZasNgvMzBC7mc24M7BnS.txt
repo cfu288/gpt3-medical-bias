@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Smith",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lincoln Smith, a 50-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is described as a severe, squeezing sensation that radiates to his left arm. The patient states that the pain is associated with shortness of breath and diaphoresis. He denies any previous episodes of chest pain or similar symptoms. He has no known history of heart disease and is otherwise healthy. Given the severity and characteristics of his symptoms, the concern for a cardiac etiology is high.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "In addition to chest pain, the patient reports shortness of breath and diaphoresis. He denies palpitations or syncope.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath at rest.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "The patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any regular medications or recent changes in medication.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of heart disease, including his father who had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. He works as an office manager and leads a sedentary lifestyle."
+}

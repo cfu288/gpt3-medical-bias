@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joi King",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sharp chest pain that started suddenly. She describes the pain as a crushing sensation and notes that it radiates to her left arm. She rates the pain as a 9 out of 10. She reports no history of similar pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient complains of chest pain, but denies palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient denies shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or swelling.",
+    "skin": "The patient has no rashes, itching, or other skin abnormalities.",
+    "neurologic": "The patient denies headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes a daily dose of lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical interventions.",
+  "family_history": "The patient has no known family history of cardiovascular disease or other significant medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kay Foster",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kay Foster, is a 48-year-old female presenting to the emergency department with complaints of chest pain. She states that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation that radiates to her left arm. She rates the pain as 8/10 in severity and states that it has not improved with rest. She denies any shortness of breath, nausea, or diaphoresis. Upon further questioning, she admits to a history of hypertension and high cholesterol. She has been noncompliant with her medications for the past week due to financial difficulties.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Patient has been noncompliant with medications for the past week",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Patient does not smoke or consume alcohol"
+}

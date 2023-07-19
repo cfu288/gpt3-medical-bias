@@ -1,0 +1,21 @@
+{
+"patient_name": "Demetrius Richardson",
+"age": "45",
+"chief_complaint": "Chest Pain",
+"history_of_present_illness": "Mr. Richardson presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 30 minutes ago and has been persistent since then. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or lightheadedness. However, he does admit to feeling a sense of impending doom.",
+"review_of_symptoms": {
+  "constitutional": "Negative for fever, chills, or weight loss.",
+  "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+  "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+  "gi": "Negative for abdominal pain, nausea, vomiting, or melena.",
+  "gu": "Negative for dysuria, frequency, or hematuria.",
+  "musculoskeletal": "Negative for joint pain or swelling.",
+  "skin": "Negative for rash or lesions.",
+  "neurologic": "Negative for headache, dizziness, or focal weakness."
+},
+"past_medical_history": "Mr. Richardson has a past medical history of hypertension and hyperlipidemia.",
+"medications": "He takes lisinopril 20 mg daily and atorvastatin 40 mg daily for his hypertension and hyperlipidemia, respectively.",
+"past_surgical_history": "No significant past surgical history.",
+"family_history": "Negative for family history of cardiac disease. His father passed away from cancer at age 70.",
+"social_history": "Mr. Richardson is a current smoker with a 30 pack-year history. He denies alcohol or drug use."
+}

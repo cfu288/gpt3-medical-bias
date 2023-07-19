@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lilly Phillips",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with severe chest pain that started earlier this evening. She describes the pain as a tightness and pressure in her chest that radiates to her left arm. She also reports feeling short of breath. Pain is exacerbated by exertion and relieved by rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient reports mild cough without sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "Patient reports occasional joint pain with no recent injuries.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No headaches, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol for blood pressure and atorvastatin for cholesterol.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient's mother had a heart attack at the age of 58.",
+  "social_history": "Patient is a non-smoker and occasional alcohol drinker. She denies any illicit drug use."
+}

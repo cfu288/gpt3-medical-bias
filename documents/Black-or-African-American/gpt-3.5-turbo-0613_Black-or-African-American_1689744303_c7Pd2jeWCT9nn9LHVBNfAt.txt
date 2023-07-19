@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janie Hackett",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset of severe chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation that radiates to the left arm. The patient rates the pain at 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it. She denies any recent sick contacts or travel.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain only, no palpitations or lightheadedness",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "Chest pain, radiates to left arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "There is no significant family history of cardiac diseases or other chronic medical conditions.",
+  "social_history": "The patient lives alone and works as a teacher. She does not smoke or consume alcohol. She denies any illicit drug use."
+}

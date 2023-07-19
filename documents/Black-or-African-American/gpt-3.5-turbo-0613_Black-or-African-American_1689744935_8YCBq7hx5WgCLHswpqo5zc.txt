@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alix Ross",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest. Pain started approximately 2 hours ago and has been constant. Patient rates the pain as 8 out of 10 in intensity. Pain is not relieved with rest or change in position. He denies any associated shortness of breath, diaphoresis, or radiation of pain. Patient states that he has a history of hypertension and takes medication regularly. He denies any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies any rashes or skin changes.",
+    "neurologic": "Denies dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Positive for coronary artery disease in father.",
+  "social_history": "Patient denies smoking or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tia Gibbs",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tia Gibbs, is a 30-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation located on the left side of her chest. The pain started approximately 30 minutes ago and has been gradually worsening. The patient denies any associated symptoms such as shortness of breath, diaphoresis, nausea, or vomiting. There is no history of trauma or recent illness. Upon further questioning, the patient reports that she has a family history of heart disease, with her father having a myocardial infarction at the age of 55. She has never experienced similar symptoms in the past. The patient is currently experiencing the chest pain at rest and rates it as a 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or night sweats",
+    "cardiovascular": "Denies palpitations or orthopnea",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Father had a myocardial infarction at the age of 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

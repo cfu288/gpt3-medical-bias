@@ -1,0 +1,21 @@
+{
+  "patient_name": "Junior Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Johnson is a 45-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation located in the middle of his chest. The pain started approximately 2 hours ago and has been constant since then. He rates the pain as 8 out of 10 in intensity. The pain is not relieved with rest or position changes. He denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness. He also denies any recent trauma or known heart disease. His medical history is significant for hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or pain",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, no alcohol or drug use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latoya Carter",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Latoya Carter, a 35-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a dull ache that started approximately 2 hours ago. She rates the intensity of the pain as a 6 out of 10. The pain is located in the center of her chest and radiates to her left arm. The patient denies any shortness of breath, nausea, or diaphoresis. She has no previous history of chest pain. The patient states that the pain worsens with deep breathing and movement.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or swelling.",
+    "neurologic": "Denies headache, dizziness, or visual changes."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of cardiovascular disease.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She works as a teacher and lives with her husband and two children."
+}
+```

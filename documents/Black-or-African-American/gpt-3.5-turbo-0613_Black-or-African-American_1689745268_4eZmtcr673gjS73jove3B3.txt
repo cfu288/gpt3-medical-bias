@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnnie Jones",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with a complaint of chest pain that started approximately one hour ago. The pain is described as sharp and located in the center of his chest. He rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, lightheadedness, or diaphoresis. He has a history of hypertension and smokes one pack of cigarettes per day. He denies any prior episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Smokes one pack of cigarettes per day, denies alcohol or illicit drug use."
+}

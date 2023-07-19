@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Laverne Johnson",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of chest pain. The pain started approximately 2 hours ago and is described as a tightness and squeezing sensation in the center of the chest. Patient denies any radiation of the pain. The pain is associated with shortness of breath and diaphoresis. No relieving or exacerbating factors have been identified. Patient has a history of hypertension and hyperlipidemia. Upon arrival, patient had an initial blood pressure reading of 150/90 mmHg and heart rate of 90 beats per minute. Initial EKG showed ST-segment elevation in leads V2-V4.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain as described above, shortness of breath, diaphoresis",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic symptoms"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Cataract surgery",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use"
+}
+```

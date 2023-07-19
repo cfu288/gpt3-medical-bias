@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dorothy Taylor",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath, diaphoresis, and nausea. She denies any associated symptoms such as cough, fever, or palpitations. The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "No cough or sputum production.",
+    "gi": "Nausea, but no vomiting or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or changes in consciousness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily.",
+  "past_surgical_history": "Cholecystectomy in 2008.",
+  "family_history": "Mother had a history of myocardial infarction at age 60.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

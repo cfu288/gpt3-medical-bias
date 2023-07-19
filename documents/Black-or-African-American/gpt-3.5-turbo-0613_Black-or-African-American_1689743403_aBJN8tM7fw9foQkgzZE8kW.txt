@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sami Mainor",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sami Mainor, a 45-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started 1 hour ago, while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain has not resolved with rest or nitroglycerin. The patient has a history of hypertension and hyperlipidemia, for which he takes medication.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or recreational drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Penny Chandler",
+    "age": "47",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presented to the emergency department with complaint of severe chest pain. Patient reports that the pain started approximately 2 hours ago and is primarily located in the center of the chest. The pain is described as a sharp, stabbing pain and is worsened by deep breaths and movement. Patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. The pain has not improved with rest or over-the-counter pain medications. Patient does have a history of hypertension and is currently taking medication for it. Given the severity of the pain and the potential for cardiac involvement, it was decided to further evaluate the patient.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, or weight loss.",
+        "cardiovascular": "No chest pain at rest, palpitations, or syncope.",
+        "respiratory": "No cough, dyspnea, or wheezing.",
+        "gi": "No nausea, vomiting, abdominal pain or changes in bowel habits.",
+        "gu": "No dysuria, frequency, or hematuria.",
+        "musculoskeletal": "No joint pain or swelling, back pain, or deformities.",
+        "skin": "No rash, itching, or changes in skin color.",
+        "neurologic": "No headache, dizziness, numbness, or tingling."
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Patient is currently taking losartan 50 mg daily for hypertension.",
+    "past_surgical_history": "None",
+    "family_history": "Father with history of myocardial infarction in his 50s",
+    "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deidra Malveaux",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Malveaux is a 45-year-old female presenting to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while she was at rest. She describes the pain as a substernal pressure that radiates to her left arm. She denies any associated shortness of breath, diaphoresis, palpitations, or nausea. She reports no previous episodes of chest pain. She has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin for these conditions. On review of symptoms, she denies any constitutional symptoms. Cardiovascular review of symptoms reveals no palpitations or orthopnea. Respiratory, gastrointestinal, genitourinary, musculoskeletal, and neurologic reviews of symptoms are unremarkable. Skin review of symptoms reveals no rash or lesions. She denies any family history of heart disease. Social history is noncontributory.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Non-contributory"
+}

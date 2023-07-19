@@ -1,0 +1,21 @@
+{
+  "patient_name": "Devon Shelly",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaint of  severe and crushing chest pain that radiates to the jaw and left arm. Pain began approximately 2 hours ago and has been constant. Patient denies any associated symptoms such as shortness of breath or diaphoresis. He states that the pain is the worst he has ever experienced and rates it 10/10 in intensity. Upon further questioning, patient admits to a history of tobacco use and a sedentary lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain as described in the chief complaint. No palpitations or edema",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hypercholesterolemia. Takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy in childhood",
+  "family_history": "Father has a history of myocardial infarction at age 60.",
+  "social_history": "Patient is a current smoker and has a sedentary lifestyle. Denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abe Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Brown presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago. He describes the pain as a sharp, stabbing sensation in the center of his chest. He rates the pain as 6 out of 10 in severity. The pain is intermittent and worsens with deep breaths. He denies any radiation of the pain, shortness of breath, or associated symptoms such as nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or lightheadedness.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or limited mobility.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Mr. Brown has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "He takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "He has no history of surgical procedures.",
+  "family_history": "There is a family history of coronary artery disease in his father and brother.",
+  "social_history": "Mr. Brown is a nonsmoker. He consumes alcohol socially and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tyrone Cook",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tyrone Cook, a 42-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as sharp and stabbing in nature. It is located in the central chest and radiates to the left arm. The patient rates the pain as 8/10 in intensity. He denies any associated symptoms such as difficulty breathing, palpitations, or diaphoresis. He has no history of chest pain or any cardiovascular risk factors. Given the potential seriousness of the symptoms, cardiac etiology needs to be ruled out.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medications for it.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies any history of illicit drug use. He drinks alcohol occasionally."
+}

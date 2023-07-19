@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Ford",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Ford is a 56-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a constant, squeezing sensation in the center of his chest. He rates the intensity of the pain as 8 out of 10. He denies any radiation of the pain and reports that it is not aggravated or relieved by any specific factors. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No changes in sensation or weakness"
+  },
+  "past_medical_history": "Mr. Ford has a history of hypertension and hyperlipidemia. He takes medications for both conditions, including metoprolol and atorvastatin.",
+  "medications": "Metoprolol 50 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Positive for heart disease in his father at the age of 65",
+  "social_history": "Mr. Ford is a non-smoker and denies alcohol or illicit drug use."
+}

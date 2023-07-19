@@ -1,0 +1,21 @@
+{
+  "patient_name": "Susann Hackney",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came to the emergency department complaining of severe chest pain that started 3 hours ago. She describes the pain as a sharp, stabbing sensation that worsens with deep breaths and movement. She denies any associated symptoms, such as shortness of breath or diaphoresis. On examination, the patient's vital signs are stable and there are no signs of respiratory distress. EKG shows no acute ST-segment changes. Given the patient's symptoms and the possibility of a cardiac etiology, further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies palpitations or irregular heartbeats.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient does not complain of joint pain or muscle stiffness.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of asthma and migraines.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma and sumatriptan for migraines.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father has a history of heart disease.",
+  "social_history": "Patient is a non-smoker, does not drink alcohol, and denies illicit drug use."
+}

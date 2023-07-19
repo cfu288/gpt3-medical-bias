@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lucian Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lucian Jones, a 42-year-old male, presented to the emergency department with complaints of severe, crushing chest pain that started approximately 2 hours ago. The pain is described as a pressure-like sensation that radiates to the left arm and jaw. The patient rates the intensity of the pain as 9/10. He denies any similar episodes in the past. On further questioning, the patient reports associated shortness of breath and diaphoresis. No alleviating or exacerbating factors were identified. Given the severity and concerning symptoms, the patient was immediately brought to the emergency department.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath at rest. He reports mild shortness of breath with exertion, which he attributes to his sedentary lifestyle.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any genitourinary symptoms such as hematuria, dysuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any neurologic symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes medication for its management.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a nonsmoker, denies alcohol or drug use, and leads a sedentary lifestyle with minimal physical activity."
+}

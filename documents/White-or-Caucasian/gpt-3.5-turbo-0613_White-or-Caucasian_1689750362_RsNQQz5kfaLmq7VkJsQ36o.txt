@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dixie Oliver",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dixie Oliver, a 54-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about 2 hours ago and is located in the center of her chest. She describes the pain as crushing and squeezing, with a severity of 8 out of 10. The pain radiates to her left arm and jaw. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, she reports no previous episodes of chest pain or similar symptoms. She states that she has taken an aspirin prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain as described above, otherwise no palpitations or edema",
+    "respiratory": "No shortness of breath, cough, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or itching",
+    "neurologic": "No headache, dizziness, weakness, or changes in vision"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, for which she takes medication daily. She has no other significant past medical history.",
+  "medications": "The patient takes lisinopril 20 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in her father who had a myocardial infarction at age 65.",
+  "social_history": "The patient denies any tobacco or alcohol use."
+}
+```

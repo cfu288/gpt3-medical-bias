@@ -1,0 +1,21 @@
+{
+  "patient_name": "Errol Owen",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Owen presents to the emergency department with a chief complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest, which radiates to his left arm. The pain started approximately 1 hour ago and has been constant since then. He rates the pain as a 9 out of 10 in severity. He denies any associated shortness of breath, nausea, or diaphoresis. No alleviating or aggravating factors reported. He denies any similar episodes in the past. He has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin. No surgical history reported. Family history and social history not obtained at this time. Patient was given nitroglycerin sublingually with temporary relief. EKG was performed and showed ST segment elevations in leads V2-V6, consistent with an acute ST-elevation myocardial infarction (STEMI).",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain as described in history of present illness",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No focal weakness, numbness, or tingling"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}

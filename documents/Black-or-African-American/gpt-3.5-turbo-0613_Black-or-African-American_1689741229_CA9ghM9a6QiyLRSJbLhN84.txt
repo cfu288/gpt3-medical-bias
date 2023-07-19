@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenya Brown",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Brown is a 42-year-old female who presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started suddenly approximately 2 hours ago and is described as a sharp, squeezing sensation that radiates to her left arm. She rates the pain as a 7 out of 10 on a pain scale. She denies any associated shortness of breath, palpitations, nausea, or diaphoresis. The patient states that she has never experienced this type of pain before and is concerned that she might be having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

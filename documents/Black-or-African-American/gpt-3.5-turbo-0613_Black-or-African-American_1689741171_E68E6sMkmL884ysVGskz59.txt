@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stacia Dorsey",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stacia Dorsey, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest. The pain started approximately 2 hours ago and has been constant since then. She rates the severity of the pain as 8 out of 10. There is no radiation of the pain to her arms or jaw. She denies any associated shortness of breath, palpitations, or diaphoresis. She has a past medical history of hypertension and takes medication for it. Upon further questioning, she reports no recent illnesses or injuries. She denies any history of cardiac disease or myocardial infarction. She denies any recent surgeries or hospitalizations. There is no family history of cardiac disease. Her social history is significant for smoking 1 pack of cigarettes per day for the past 20 years.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or irregular heart rhythm",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint swelling or stiffness",
+    "skin": "Negative for rash or itching",
+    "neurologic": "Negative for headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiac disease",
+  "social_history": "Smokes 1 pack of cigarettes per day for the past 20 years"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marta Harris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient denies any shortness of breath, palpitations, or diaphoresis. No associated symptoms such as nausea or vomiting. The pain has not resolved and is currently at a 6/10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain",
+    "skin": "No rashes",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Father with history of myocardial infarction at age 55",
+  "social_history": "Current smoker, 10 pack-years"
+}

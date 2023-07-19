@@ -1,0 +1,21 @@
+{
+  "patient_name": "Germaine Jones",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of chest pain. The pain started 2 hours ago while the patient was at rest. The pain is described as a sharp stabbing sensation located in the center of the chest. The pain has not radiated to other areas and is not worsened by deep breathing or movement. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. Upon arrival, the patient's blood pressure is 142/86 mmHg, heart rate is 88 bpm, respiratory rate is 18 breaths per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or frequency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Denies headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}

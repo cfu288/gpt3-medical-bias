@@ -1,0 +1,21 @@
+{
+  "patient_name": "Van Kell",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain, radiating to the left arm. Patient reports the pain started suddenly about 2 hours ago. Pain is described as crushing and pressure-like in nature. Patient denies any shortness of breath, diaphoresis, or nausea. Patient has a history of hypertension and hyperlipidemia. EKG was performed and showed ST segment elevation in leads II, III, and aVF, suggestive of an inferior STEMI.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or previous heart attacks.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No dizziness or headaches."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

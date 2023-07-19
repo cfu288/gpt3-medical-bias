@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrell Peterson",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a substernal burning sensation that radiates to his left arm. Pain started approximately 2 hours ago and has been intermittent. He reports associated shortness of breath and diaphoresis. Pain is exacerbated with exertion and relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history":  "Positive for coronary artery disease in his father",
+  "social_history": "Patient is a current smoker with a 20 pack-year history. He denies alcohol and illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenya Winston",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient states that the pain is somewhat relieved with rest but is still present.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for this. Patient also has a history of hyperlipidemia and takes a statin medication.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's mother had a heart attack at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

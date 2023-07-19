@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brad Powell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Powell is a 45-year-old male presenting to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, squeezing sensation in the center of his chest. The pain radiates to his left arm and has not improved with rest. He denies any shortness of breath, palpitations, or lightheadedness. He has a history of hypertension and is currently taking medication for it. Upon further questioning, he reports no recent illnesses or infections and denies any recent travel. He denies any similar episodes of chest pain in the past. He denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain as described above, no palpitations",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

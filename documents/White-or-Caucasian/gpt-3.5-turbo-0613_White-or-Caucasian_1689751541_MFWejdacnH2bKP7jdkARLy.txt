@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clare Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Johnson, presents to the emergency department with complaints of severe chest pain. She describes the pain as a sharp and squeezing sensation in the center of her chest, radiating to her left arm. The pain started suddenly about one hour ago while she was at rest. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The pain has not improved with rest and is not relieved by nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for both conditions.",
+  "medications": "The patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

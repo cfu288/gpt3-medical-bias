@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harrison Yancy",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset chest pain. He describes the pain as a sharp, stabbing sensation in the center of his chest. The pain started approximately 2 hours ago while he was at rest and has been constant since then. He denies any associated symptoms such as shortness of breath, palpitations, or dizziness. It is worth noting that the patient has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No previous history of heart disease or chest pain. Denies palpitations, irregular heartbeat, or edema in lower extremities.",
+    "respiratory": "No cough, shortness of breath, wheezing, or productive sputum.",
+    "gi": "No abdominal pain, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement.",
+    "skin": "No skin rash, lesions, or changes in color.",
+    "neurologic": "No headaches, dizziness, or changes in coordination or balance."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease or other chronic conditions.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

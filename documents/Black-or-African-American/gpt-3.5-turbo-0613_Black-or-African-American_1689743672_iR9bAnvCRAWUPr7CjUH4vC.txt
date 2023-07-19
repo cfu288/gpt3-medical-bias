@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilburn Clayton",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Wilburn Clayton presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a dull, squeezing sensation in the center of the chest. The pain radiates down the left arm and is associated with diaphoresis and shortness of breath. The patient denies any nausea or vomiting. The pain is not relieved with rest or nitroglycerin. On further questioning, the patient reports a history of hypertension and hyperlipidemia. He is a smoker with a 30-year pack history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Positive for dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Positive for coronary artery disease in father",
+  "social_history": "Current smoker, 30-year pack history"
+}

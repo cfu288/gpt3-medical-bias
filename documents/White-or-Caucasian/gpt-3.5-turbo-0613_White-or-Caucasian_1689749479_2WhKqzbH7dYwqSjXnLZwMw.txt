@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brooks Holloway",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports the chest pain as the only cardiovascular symptom at this time.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports no musculoskeletal symptoms.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia and is currently taking medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

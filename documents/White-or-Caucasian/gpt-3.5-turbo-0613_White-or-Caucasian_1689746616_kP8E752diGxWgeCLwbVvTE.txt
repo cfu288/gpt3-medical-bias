@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nigel Watford",
+  "chief_complaint": "Chest Pain",
+  "age": "45",
+  "history_of_present_illness": "Mr. Watford is a 45-year-old male who presented to the emergency department with a chief complaint of chest pain. The patient reports the pain began approximately 2 hours ago while he was at rest. The pain is described as a squeezing sensation in the center of his chest, radiating to his left arm. The patient rates the pain as 8 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis. However, the patient does report a history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or deformities.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is controlled with losartan.",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in his father who experienced a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

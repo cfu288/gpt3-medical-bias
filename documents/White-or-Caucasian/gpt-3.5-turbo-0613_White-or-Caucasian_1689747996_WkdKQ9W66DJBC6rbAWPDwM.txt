@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nick Jones",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. Upon further questioning, the patient reports feeling anxious and reports a family history of coronary artery disease. Vital signs are stable at this time with a heart rate of 78 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain, denies palpitations or syncope",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Positive for coronary artery disease in father",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. Works as an accountant and exercises regularly."
+}

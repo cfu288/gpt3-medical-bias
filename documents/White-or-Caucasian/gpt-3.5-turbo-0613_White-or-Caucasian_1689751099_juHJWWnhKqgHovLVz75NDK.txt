@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sima Boucher",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Sima Boucher, a 45-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the chest. She rates the pain as 8/10 in intensity and states that it radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. She denies any nausea or vomiting. The patient has a past medical history of hypertension and hyperlipidemia. She takes regular medications for these conditions. On physical examination, the patient appears pale and sweaty. Her vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, and respiratory rate of 18 breaths per minute. Cardiac auscultation reveals normal S1 and S2 heart sounds without any murmurs or rubs. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, weight loss, or fatigue.",
+    "cardiovascular": "Patient complains of chest pain with associated shortness of breath.",
+    "respiratory": "No cough or shortness of breath at rest. Patient denies history of lung disease.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No complaints of dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "No rashes, discoloration, or skin lesions.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes regular medications for hypertension and hyperlipidemia, which include lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease.",
+  "social_history": "The patient denies tobacco or alcohol use. She works as an accountant and leads a sedentary lifestyle."
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Zachariah Wilkes",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient Zachariah Wilkes is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of the chest that began approximately 2 hours ago. The pain is radiating to the left arm and is associated with shortness of breath. The patient denies any previous episodes of similar chest pain. Upon further questioning, the patient reports a history of smoking for 20 years and a family history of heart disease.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss.",
+        "cardiovascular": "Chest pain, shortness of breath.",
+        "respiratory": "Shortness of breath.",
+        "gi": "No abdominal pain, nausea, or vomiting.",
+        "gu": "No urinary symptoms.",
+        "musculoskeletal": "No joint pain or swelling.",
+        "skin": "No rashes or lesions.",
+        "neurologic": "No headache, dizziness, or weakness."
+    },
+    "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+    "medications": "The patient takes lisinopril and atorvastatin.",
+    "past_surgical_history": "No previous surgeries.",
+    "family_history": "The patient has a family history of heart disease, with both parents having coronary artery disease.",
+    "social_history": "The patient has a history of smoking for 20 years but denies alcohol or illicit drug use."
+}

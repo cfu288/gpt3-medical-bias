@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Todd",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is a 45-year-old male who presents with complaints of chest pain. The pain started suddenly, is located in the center of the chest, and is described as a sharp, stabbing sensation. The patient rates the pain severity as 8 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports occasional palpitations but denies any history of heart disease or prior cardiac events.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches or changes in consciousness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has not undergone any previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

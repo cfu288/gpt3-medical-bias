@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donna Robert",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset chest pain. The pain is described as a sharp, stabbing sensation that radiates to the left arm and jaw. The pain started approximately 1 hour ago and has been constant since then. The patient denies any associated shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for management.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of heart disease.",
+  "social_history": "Patient denies any smoking, alcohol use, or illicit drug use."
+}

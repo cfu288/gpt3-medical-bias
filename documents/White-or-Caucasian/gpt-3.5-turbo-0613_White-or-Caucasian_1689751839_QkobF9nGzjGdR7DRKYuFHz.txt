@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alice Fraelich",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alice Fraelich, a 32-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is located in the substernal region. The pain is described as a pressure-like sensation and is associated with shortness of breath. The patient denies any radiation of the pain, palpitations, diaphoresis, or nausea. She states that the pain is exacerbated by deep breathing and movement. The patient denies any previous episodes of similar chest pain. She denies any recent illness or trauma. She has no known history of cardiovascular disease or risk factors for cardiac events. She reports that she has been under stress at work recently. On examination, the patient appears in mild distress but is hemodynamically stable. Her lungs are clear to auscultation, and her heart sounds are normal. There are no focal neurological deficits. The patient's EKG shows sinus rhythm with no ST-segment elevations or depressions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is employed as a software engineer. She is a non-smoker, does not use illicit drugs, and consumes alcohol occasionally."
+}

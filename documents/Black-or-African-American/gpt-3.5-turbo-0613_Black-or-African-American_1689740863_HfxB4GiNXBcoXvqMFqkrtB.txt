@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roosevelt Burgher",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a sharp sensation in the center of his chest that started approximately 2 hours ago. The pain radiates to his left arm. He says the pain is constant and rates it as a 7 out of 10 in severity. He denies any shortness of breath or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No dysuria or frequency",
+    "musculoskeletal": "Pain in left arm",
+    "skin": "No rashes or wounds",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily and simvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "Patient denies tobacco use. He consumes alcohol occasionally."
+}

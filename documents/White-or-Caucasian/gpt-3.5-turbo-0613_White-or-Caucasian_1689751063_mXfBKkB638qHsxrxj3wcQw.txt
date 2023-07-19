@@ -1,0 +1,21 @@
+{
+    "patient_name": "Alicja Brown",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Alicja Brown, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation, radiating to her left arm. The pain is accompanied by shortness of breath and sweating. She denies any associated symptoms such as nausea, vomiting, or lightheadedness. She states that she has not experienced this type of pain before and it is more severe than any previous episodes of chest pain she has had. Given her symptoms, the concern for cardiac etiology is high and she was brought to the emergency department by ambulance.",
+    "review_of_symptoms": {
+        "constitutional": "Denies fever, chills, or weight loss",
+        "cardiovascular": "Positive for chest pain and shortness of breath",
+        "respiratory": "Denies cough, wheezing, or hemoptysis",
+        "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+        "gu": "Denies dysuria or hematuria",
+        "musculoskeletal": "Denies joint pain or swelling",
+        "skin": "Denies rashes or lesions",
+        "neurologic": "Denies headache, dizziness, or changes in vision"
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and migraine headaches. She takes lisinopril daily for blood pressure control and atorvastatin for hyperlipidemia. She does not take any medications for migraines.",
+    "medications": "1. Lisinopril - 10 mg daily, for hypertension\n2. Atorvastatin - 20 mg daily, for hyperlipidemia",
+    "past_surgical_history": "The patient has no significant past surgical history",
+    "family_history": "The patient has a family history of myocardial infarction in her father and siblings. There is no known history of other cardiovascular diseases.",
+    "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and is married with two children."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "India Holmes",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Holmes presents to the emergency department with complaints of chest pain that started 2 hours ago. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain is worse with deep breaths and when she leans forward. She denies any associated shortness of breath, nausea, or sweating. The pain is not radiating to her neck, jaw, or arms. She denies any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or edema",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine for management.",
+  "medications": "Amlodipine 5 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease or other notable medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

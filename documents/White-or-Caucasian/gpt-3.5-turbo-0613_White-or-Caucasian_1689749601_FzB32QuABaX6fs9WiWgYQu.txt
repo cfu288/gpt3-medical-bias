@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rainer Aspelund",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm and jaw. The pain started approximately one hour ago and has been constant since then. He states that the pain is accompanied by shortness of breath and diaphoresis. Patient denies any previous episodes of chest pain, but has a family history of heart disease. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss or weight gain.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "Patient reports shortness of breath, denies cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary complaints.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "No rashes or lesions noted by the patient.",
+    "neurologic": "Patient is alert and oriented. No focal neurological deficits observed."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes metoprolol and simvastatin as prescribed.",
+  "medications": "Metoprolol 50 mg PO daily, Simvastatin 20 mg PO daily",
+  "past_surgical_history": "Appendectomy at age 15.",
+  "family_history": "Patient has a family history of heart disease. His father had a myocardial infarction at age 60.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

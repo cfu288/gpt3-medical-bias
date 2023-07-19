@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winston Weathers",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Winston Weathers, a 58-year-old male, presents to the emergency department with complaints of chest pain. He states that the pain started suddenly approximately one hour ago while he was at rest. He describes the pain as a heaviness in his chest, which radiates to his left arm. He denies any associated shortness of breath, nausea, or diaphoresis. On further questioning, he admits to a history of hypertension for which he takes medication. He denies any previous episodes of similar chest pain. He has no known allergies and has not taken any medications or natural remedies for his symptoms. His vital signs on arrival are stable, with a blood pressure of 140/90 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described above. No history of palpitations or syncope.",
+    "respiratory": "Denies shortness of breath, cough, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No complaints of joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No history of headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension.",
+  "medications": "The patient takes hydrochlorothiazide 25 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

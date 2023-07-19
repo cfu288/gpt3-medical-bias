@@ -1,0 +1,21 @@
+{
+  "patient_name": "Iwona Greene",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Iwona Greene, a 45-year-old female, presents to the emergency department with sudden onset of severe chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 9 out of 10 in severity and reports associated shortness of breath. There is no alleviating or aggravating factor reported. The patient denies any previous history of similar symptoms. On arrival, the patient was tachycardic with a heart rate of 110 beats per minute and blood pressure of 150/90 mmHg. EKG was performed and showed ST-segment elevation in leads II, III, and AVF suggesting an acute ST-elevation myocardial infarction (STEMI).",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats reported",
+    "cardiovascular": "The patient reports a history of hypertension",
+    "respiratory": "No cough, shortness of breath, or wheezing reported",
+    "gi": "No nausea, vomiting, or diarrhea reported",
+    "gu": "No urinary symptoms reported",
+    "musculoskeletal": "No joint pain or muscle weakness reported",
+    "skin": "No rashes or lesions reported",
+    "neurologic": "No headache, dizziness, or numbness reported"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes Lisinopril daily",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use"
+}

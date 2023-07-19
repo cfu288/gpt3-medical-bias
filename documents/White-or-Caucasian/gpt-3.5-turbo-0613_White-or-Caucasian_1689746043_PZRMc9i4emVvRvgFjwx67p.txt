@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stepan Johnson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stepan Johnson, presents to the emergency department with complaints of chest pain. He describes the pain as a tight, squeezing sensation in the center of his chest that radiates to his left arm and jaw. He states that the pain began approximately one hour ago and has been steadily worsening. He denies any shortness of breath, dizziness, or nausea. Upon further questioning, the patient reports a history of hypertension and high cholesterol. He states that he has been compliant with his medications and has not experienced any previous cardiac events. The patient denies any recent illnesses or injuries that may have precipitated his current symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes, lesions, or changes in color or texture.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for high cholesterol.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction in his 60s.",
+  "social_history": "The patient is a non-smoker and reports drinking alcohol in moderation."
+}

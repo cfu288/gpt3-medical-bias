@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnest James",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. James presents to the emergency department with complaints of severe chest pain that started about an hour ago. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. He also reports shortness of breath and nausea. The pain does not improve with rest and seems to worsen with exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Fever and chills denied",
+    "cardiovascular": "Palpitations denied",
+    "respiratory": "Cough and sputum production denied",
+    "gi": "Abdominal pain denied",
+    "gu": "Urinary symptoms denied",
+    "musculoskeletal": "Joint pain denied",
+    "skin": "Rash denied",
+    "neurologic": "Headache and dizziness denied"
+  },
+  "past_medical_history": "Mr. James has a history of hypertension and hyperlipidemia. He is currently on medications for both conditions.",
+  "medications": "Lisinopril 20mg daily for hypertension and atorvastatin 40mg nightly for hyperlipidemia.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Mr. James is a non-smoker and denies any alcohol or drug use."
+}

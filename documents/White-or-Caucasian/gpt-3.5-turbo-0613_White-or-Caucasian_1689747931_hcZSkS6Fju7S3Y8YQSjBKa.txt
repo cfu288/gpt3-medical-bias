@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pat Ray",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. Patient rates the pain as 8/10 in severity. Pain is worsened with deep inspiration and radiates to the left arm. Patient denies associated symptoms such as shortness of breath, nausea, or diaphoresis. No prior history of similar chest pain. EKG performed on arrival shows ST-segment elevation in leads V3-V6. Differential diagnosis includes myocardial infarction, pulmonary embolism, and aortic dissection. Cardiology consult requested.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain, denies palpitations or shortness of breath",
+    "respiratory": "Denies cough, sputum production, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "Reports pain in left arm, no joint swelling or stiffness",
+    "skin": "Denies rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction at age 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

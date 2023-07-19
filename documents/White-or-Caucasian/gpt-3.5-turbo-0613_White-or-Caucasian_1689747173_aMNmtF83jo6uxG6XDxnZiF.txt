@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pascal Sayre",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a sharp, stabbing sensation in the center of the chest. It started earlier today and has been constant since then. Patient also reports shortness of breath and mild sweating. No history of similar episodes in the past. No known precipitating factors.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

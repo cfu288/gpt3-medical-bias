@@ -1,0 +1,21 @@
+{
+  "patient_name": "Curt Scott",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Curt Scott, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull ache in the center of the chest. He rates the pain as a 6 out of 10 and states that it radiates to his left arm.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or shortness of breath",
+    "respiratory": "Denies cough or difficulty breathing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms or pain",
+    "musculoskeletal": "No joint pain or muscle aches",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia. He takes Lisinopril and Atorvastatin daily.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. His mother has diabetes.",
+  "social_history": "The patient works as a construction worker. He denies smoking, alcohol, or illicit drug use."
+}

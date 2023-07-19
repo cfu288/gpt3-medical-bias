@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bina Holmes",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started earlier today. Patient describes the pain as a crushing sensation in the middle of the chest that radiates to the left arm. Pain is accompanied by shortness of breath and diaphoresis. Patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain with radiation to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No family history of coronary artery disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ned Boris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation that started suddenly while he was at rest. He rates the severity of the pain as 8 out of 10. The pain is localized to the left side of his chest and radiates to his left arm. The patient has no history of similar symptoms in the past. He denies any associated symptoms such as shortness of breath, sweating, or nausea. The pain is relieved slightly with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or orthopnea",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and simvastatin.",
+  "medications": "Lisinopril, 40 mg once daily\NSimvastatin, 20 mg once daily",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}

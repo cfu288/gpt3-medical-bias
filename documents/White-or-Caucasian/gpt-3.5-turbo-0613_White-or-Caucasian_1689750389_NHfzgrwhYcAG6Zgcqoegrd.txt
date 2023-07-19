@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dell Barlow",
+  "chief_complaint": "Chest Pain",
+  "age": "52",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is exacerbated by deep breaths and movement. There is no associated shortness of breath, nausea, or diaphoresis. Patient denies any recent trauma or previous episodes of similar chest pain. Vital signs are stable with normal heart rate, blood pressure, and oxygen saturation levels. EKG shows no acute ST-segment changes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for trauma or recent physical activity.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

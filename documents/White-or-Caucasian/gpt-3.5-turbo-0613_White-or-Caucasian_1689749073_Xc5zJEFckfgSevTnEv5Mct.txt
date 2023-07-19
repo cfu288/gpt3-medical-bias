@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Caren Roa",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sharp and severe chest pain that started 2 hours ago. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain is also associated with shortness of breath and diaphoresis. She denies any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "No cough, wheezing, or hemoptysis.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash, itching, or changes in moles.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is on amlodipine 10mg daily and simvastatin 20mg daily.",
+  "medications": "Amlodipine 10mg daily, simvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy at age 25.",
+  "family_history": "No family history of cardiovascular diseases or other significant medical conditions.",
+  "social_history": "Patient is a nonsmoker and denies alcohol and illicit drug use. She works as a bank teller and lives with her husband and two children."
+}
+```

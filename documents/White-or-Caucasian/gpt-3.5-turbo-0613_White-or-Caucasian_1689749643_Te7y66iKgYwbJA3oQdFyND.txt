@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ila Rosenberg",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 3 hours ago. The pain is described as a squeezing sensation and radiates to the left arm. Patient reports associated shortness of breath and sweating. The pain is not relieved with rest and has been getting progressively worse. Patient denies any history of chest pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 10mg daily and atorvastatin 40mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no prior surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

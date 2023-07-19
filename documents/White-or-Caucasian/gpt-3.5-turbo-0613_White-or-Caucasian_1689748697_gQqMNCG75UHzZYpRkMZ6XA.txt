@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daniel Gross",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Gross, presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, squeezing sensation that started approximately 2 hours ago. The pain is radiating to his left arm and jaw. He rates the pain as a 7 on a scale of 0-10 and states that it is not relieved by rest. He denies any shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described above. Denies palpitations.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Reports pain in left arm and jaw.",
+    "skin": "Denies any rashes or skin changes.",
+    "neurologic": "Reports no changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy at age 18.",
+  "family_history": "Father had a myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gia Griffin",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of chest pain. Patient reports the pain started about 3 hours ago. Patient describes the pain as a sharp, pressure-like sensation in the center of the chest. The pain is radiating to the left arm and jaw. Patient denies any shortness of breath, dizziness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and previous myocardial infarction.",
+  "medications": "Patient takes losartan and atorvastatin daily.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at age 55.",
+  "social_history": "Patient is a non-smoker, occasional social drinker."
+}

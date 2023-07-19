@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Lawson",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain is described as sharp and located on the left side of the chest. It started this morning while the patient was at rest and has been persistent since then. The pain is rated 8/10 in intensity. The patient denies any associated symptoms such as shortness of breath, palpitations, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies palpitations.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies nausea or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies musculoskeletal symptoms.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Denies headache or neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant cardiac or vascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

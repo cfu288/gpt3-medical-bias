@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shae Gray",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shae Gray, is a 38-year-old who presents to the emergency department with complaints of chest pain. The pain began approximately one hour ago and is described as a dull, pressure-like sensation in the center of the chest. The patient states that the pain radiates to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any known triggers or alleviating factors. The patient has no significant medical history and denies any recent illnesses or injuries. Upon arrival to the ED, the patient appeared diaphoretic and was in mild distress. EKG showed ST-segment elevation in leads II, III, and aVF, consistent with inferior wall myocardial infarction (MI). The patient was immediately started on oxygen, aspirin, nitroglycerin, and morphine for pain relief. An urgent cardiology consult was obtained and the patient is currently awaiting cardiac catheterization.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient has a history of hypertension but denies any previous heart-related symptoms.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or wounds.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension but no history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any history of illicit drug use. The patient consumes alcohol occasionally and denies any recent travel or exposure to sick contacts."
+}

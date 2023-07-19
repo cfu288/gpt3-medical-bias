@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zoltan Parker",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain started approximately 1 hour ago and is associated with shortness of breath and diaphoresis. He denies any other symptoms or precipitating factors. Patient has no known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and weight loss.",
+    "cardiovascular": "Patient complains of palpitations and chest pain.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, and abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports no pain or stiffness in his joints or muscles.",
+    "skin": "Patient has no rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has no known significant past medical history.",
+  "medications": "Patient takes no medications.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has no family history of cardiac disease.",
+  "social_history": "Patient denies tobacco, alcohol, and drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodrick Parker",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Parker is a 42-year-old male presenting to the emergency department with complaints of sudden onset chest pain. The pain is located in the center of the chest and is described as a crushing sensation. The pain started approximately 1 hour ago and has worsened since then. Mr. Parker denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. He states that the pain is constant and has not radiated to any other part of his body. He rates the pain as an 8 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No history of heart disease or elevated blood pressure",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No history of urinary tract infections or kidney stones",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "Mr. Parker has a past medical history of hyperlipidemia, controlled with statin medication.",
+  "medications": "Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Family history is significant for coronary artery disease in his father at age 60.",
+  "social_history": "Mr. Parker is a non-smoker and denies any illicit drug use. He drinks alcohol socially on occasion but does not have a history of alcohol abuse."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alexandre Williams",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alexandre Williams, a 42-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. The pain is associated with shortness of breath. He denies any nausea, vomiting, diaphoresis, or palpitations. He has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a current smoker and drinks alcohol occasionally."
+}

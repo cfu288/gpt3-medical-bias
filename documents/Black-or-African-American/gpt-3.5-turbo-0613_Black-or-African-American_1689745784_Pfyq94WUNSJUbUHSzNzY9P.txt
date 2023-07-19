@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Francis",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, crushing pain in the center of the chest. Patient reports radiating pain to both arms, particularly the left arm. Patient denies any shortness of breath, nausea, or dizziness. Onset of pain was sudden and occurred while the patient was resting at home. Patient has tried taking antacid medication without relief. Patient is concerned about the possibility of a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and describes it as a sharp, crushing pain radiating to both arms.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency or urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports pain in both arms.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, vision changes, or numbness/tingling."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and high cholesterol. Patient is currently taking lisinopril for hypertension and atorvastatin for high cholesterol.",
+  "medications": "Lisinopril 20mg once daily, atorvastatin 40mg once daily",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient reports a family history of heart disease, with both parents having a history of myocardial infarctions.",
+  "social_history": "Patient is a lifelong non-smoker and does not consume alcohol."
+}

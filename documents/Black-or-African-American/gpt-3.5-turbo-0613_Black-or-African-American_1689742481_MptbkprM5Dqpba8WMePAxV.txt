@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ruthanne Perkins",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ruthanne Perkins, is a 52-year-old female who presents to the emergency department with complaints of chest pain. She states that the pain started approximately two hours ago and is located in the center of her chest. She describes the pain as a crushing sensation and rates it as 8 out of 10 on the pain scale. The pain is radiating to her left arm and jaw. She denies any shortness of breath, nausea, or diaphoresis. She has a medical history of hypertension and hyperlipidemia. She takes medications for these conditions but does not recall the names. She denies any recent surgeries. There is a family history of heart disease, with her father having a myocardial infarction at the age of 60. She is a nonsmoker and denies any alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient reports pain in her left arm and jaw.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Unknown",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had a myocardial infarction at the age of 60",
+  "social_history": "Nonsmoker, denies alcohol or drug use"
+}

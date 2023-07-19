@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cora Williams",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cora Williams, a 65-year-old female, presents to the emergency department with complaints of severe, crushing chest pain that started about 2 hours ago. The pain is radiating to her left arm and jaw. She also reports feeling short of breath, nauseous, and sweaty. She denies any previous episodes of similar chest pain. She does not have any known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss.",
+    "cardiovascular": "Positive for chest pain radiating to left arm and jaw, shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, and difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, and hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, and swelling.",
+    "skin": "Negative for rashes, lesions, and itching.",
+    "neurologic": "Negative for headache, dizziness, numbness, and tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia. She takes amlodipine and atorvastatin daily for these conditions.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Troxel",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Troxel is a 57-year-old male presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located substernally. He describes the pain as sharp and radiating to his left arm. He rates the pain intensity as 7/10. He also reports associated symptoms of shortness of breath and diaphoresis. The pain was not relieved with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough, sputum production, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin changes",
+    "neurologic": "Negative for headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Mr. Troxel has a history of hypertension and hyperlipidemia. He had a previous myocardial infarction 3 years ago and underwent percutaneous coronary intervention with stent placement.",
+  "medications": "He takes lisinopril 20mg daily and simvastatin 40mg daily.",
+  "past_surgical_history": "Percutaneous coronary intervention with stent placement",
+  "family_history": "Positive for coronary artery disease in his father and brother",
+  "social_history": "Mr. Troxel is a smoker with a 30 pack-year history. He works as a construction worker and denies any illicit drug or alcohol use."
+}

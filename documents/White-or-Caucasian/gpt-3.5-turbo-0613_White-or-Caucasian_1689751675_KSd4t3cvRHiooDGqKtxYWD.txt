@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arla Lamm",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Arla Lamm, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started approximately 2 hours ago while she was at rest. The pain is described as a pressure-like sensation in the center of her chest, radiating to her left arm. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. On examination, the patient appears uncomfortable but is in no acute distress. Vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 84 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Upon auscultation, the patient has normal heart sounds and no evidence of murmurs, rubs, or gallops.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss",
+    "cardiovascular": "Reports chest pain as described above",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria, hematuria, or frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "No rashes or changes in the skin reported",
+    "neurologic": "No headaches, visual disturbances, or focal weakness reported"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes losartan 50 mg daily.",
+  "medications": "Losartan 50 mg daily",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use"
+}

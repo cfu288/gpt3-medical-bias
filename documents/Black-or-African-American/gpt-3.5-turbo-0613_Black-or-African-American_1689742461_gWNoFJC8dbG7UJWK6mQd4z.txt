@@ -1,0 +1,21 @@
+{
+    "patient_name": "Terrell Mosley",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Mosley is a 42-year-old male who presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 3 hours ago and is described as a sharp, stabbing sensation in the center of his chest. He rates the severity of the pain as 7/10. He denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. He states that the pain worsens with deep breaths and movement.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss",
+        "cardiovascular": "No palpitations or edema",
+        "respiratory": "No cough or shortness of breath",
+        "gi": "No nausea, vomiting, or abdominal pain",
+        "gu": "No urinary symptoms",
+        "musculoskeletal": "Pain in the chest only",
+        "skin": "No rashes or lesions",
+        "neurologic": "No headache or weakness"
+    },
+    "past_medical_history": "Mr. Mosley has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily for his conditions.",
+    "medications": "Lisinopril and atorvastatin",
+    "past_surgical_history": "None",
+    "family_history": "Positive for hypertension in both parents",
+    "social_history": "Mr. Mosley works as a software engineer and denies any tobacco or alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carole Pitts",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe retrosternal chest pain that started suddenly about 3 hours ago. The pain is described as a crushing sensation and has radiated to both arms. Patient also reports shortness of breath and diaphoresis. She denies any previous episodes of chest pain or any known cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath as already described.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports some discomfort in both arms.",
+    "skin": "No skin changes reported by the patient.",
+    "neurologic": "Patient denies any headache or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine and simvastatin.",
+  "past_surgical_history": "No previous surgical history reported by the patient.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 70.",
+  "social_history": "Patient is a lifelong non-smoker. No alcohol or drug use. Lives alone and is independent with activities of daily living."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kori Woods",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. Patient describes the pain as a pressure-like sensation in the center of the chest. It is radiating to the left arm, and she also reports some shortness of breath. Symptoms were not relieved with rest or nitroglycerin. She denies any associated symptoms such as nausea, diaphoresis, or lightheadedness. No recent injuries or illnesses that could explain the pain. She has no personal or family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Pain radiating to the left arm",
+    "respiratory": "Mild shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No known medical conditions",
+  "medications": "None",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No known family history of heart disease",
+  "social_history": "Patient is a non-smoker and does not drink alcohol. She exercises regularly and follows a healthy diet."
+}
+```

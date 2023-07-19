@@ -1,0 +1,21 @@
+{
+  "patient_name": "Linda Evans",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Linda Evans, a 52-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started approximately 1 hour ago and is located in the center of her chest. She describes the pain as a 7 out of 10 in severity, sharp in nature, and radiating to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms. She states that she has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pains or muscle aches",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "Negative for cardiac conditions in the family",
+  "social_history": "The patient is a non-smoker, non-drinker, and denies any illicit drug use"
+}

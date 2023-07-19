@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marlon Davis",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Davis presented to the emergency department today complaining of severe chest pain. The pain started suddenly this morning and is described as a sharp, stabbing sensation. The pain is exacerbated by deep breathing and movement. He denies any associated symptoms such as shortness of breath, palpitations, or lightheadedness. He has no history of chest pain or similar symptoms in the past. The pain has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations, orthopnea, or edema.",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for chest pain as detailed in the chief complaint.",
+    "skin": "Negative for rashes or wounds.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Davis has a history of hypertension, which is well-controlled with medication.",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for family history of heart disease.",
+  "social_history": "Mr. Davis is a non-smoker and denies alcohol or illicit drug use. He is physically active and maintains a healthy diet."
+}

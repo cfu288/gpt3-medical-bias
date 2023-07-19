@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wendie Bouchard",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp sensation localized to the left side of the chest, radiating to the left arm. The pain started approximately 2 hours ago after physical exertion. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's mother had a history of myocardial infarction in her 60s.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use. She works as a librarian and lives alone."
+}

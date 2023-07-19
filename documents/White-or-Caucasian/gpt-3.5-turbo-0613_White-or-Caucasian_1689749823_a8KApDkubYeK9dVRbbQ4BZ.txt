@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Susannah Kautzman",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Susannah Kautzman, a 37-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began suddenly about 2 hours ago while she was at rest and has persisted since then. The pain is described as a sharp, stabbing sensation in the center of the chest. She rates the intensity of the pain as 8/10. She denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain to the arms or jaw. Upon further questioning, the patient states that she has never experienced chest pain like this before. There is no known triggering factor. The pain is not relieved with rest or change in position. The patient denies any recent illnesses, trauma, or significant medical history. She does not take any regular medications and has no known allergies. No prior surgeries. The patient denies any significant family history of cardiac disease. She is a non-smoker and does not consume alcohol or illicit drugs. No known social risk factors.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies experiencing any fevers, weight loss, or malaise.",
+    "cardiovascular": "No history of palpitations or orthopnea.",
+    "respiratory": "No history of cough, dyspnea, or wheezing.",
+    "gi": "No history of abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No history of dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No history of joint pain or swelling.",
+    "skin": "No history of rashes or changes in pigmentation.",
+    "neurologic": "No history of headaches, paresthesias, or gait abnormalities."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications or over-the-counter medications. No known allergies.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs. No known social risk factors."
+}
+```

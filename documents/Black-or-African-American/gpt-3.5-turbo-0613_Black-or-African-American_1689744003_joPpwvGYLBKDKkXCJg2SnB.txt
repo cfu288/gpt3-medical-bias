@@ -1,0 +1,21 @@
+{
+  "patient_name": "Irving Ahmed",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Ahmed presents to the emergency department with complaints of chest pain that started approximately two hours ago. He describes the pain as a squeezing sensation in the middle of his chest, radiating to his left arm. The pain is accompanied by shortness of breath and sweating. He denies any previous episodes of similar pain and states that this is the first time he has experienced this symptom. The pain has not improved with rest or any over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above.",
+    "respiratory": "Patient reports shortness of breath that is worse with exertion.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions on the skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. He takes lisinopril and atorvastatin regularly.",
+  "medications": "Lisinopril and atorvastatin.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's father had a history of heart disease and suffered a heart attack at the age of 65.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He is married and works as an accountant."
+}

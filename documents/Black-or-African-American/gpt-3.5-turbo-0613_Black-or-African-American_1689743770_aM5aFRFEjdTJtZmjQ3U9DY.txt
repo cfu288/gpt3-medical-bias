@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jerrold Harris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jerrold Harris, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started one hour ago and is described as a sharp, stabbing sensation radiating to the left arm. It is associated with shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain radiating to the left arm.",
+    "respiratory": "The patient complains of shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril daily. He denies any other significant medical history.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. The rest of the family history is unremarkable.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an accountant and reports no significant occupational exposures."
+}
+```

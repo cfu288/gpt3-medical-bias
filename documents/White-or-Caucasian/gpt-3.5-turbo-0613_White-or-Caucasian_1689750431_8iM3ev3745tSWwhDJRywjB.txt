@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherie Lee",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of chest pain for the past hour. The pain is described as a squeezing sensation in the center of the chest, radiating to the jaw and left arm. The pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of similar chest pain. No relieving factors identified.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, patient denies palpitations or history of heart disease.",
+    "respiratory": "Patient denies cough, shortness of breath or history of asthma.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency or dysuria.",
+    "musculoskeletal": "Patient denies any recent injuries or joint pains.",
+    "skin": "Patient denies rashes or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes daily medication for blood pressure control.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of heart disease, with both parents having a history of myocardial infarctions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

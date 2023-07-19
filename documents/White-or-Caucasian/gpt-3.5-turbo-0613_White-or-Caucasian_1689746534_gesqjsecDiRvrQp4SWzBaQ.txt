@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hendrik Rogers",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of chest pain that started suddenly this afternoon. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. The pain is accompanied by shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports occasional palpitations, but denies history of heart disease or murmurs.",
+    "respiratory": "No cough or shortness of breath, except with the current episode of chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or flank pain.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No numbness, tingling, or weakness in any extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. He takes lisinopril and simvastatin.",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Father had a heart attack at the age of 60. No other significant family history.",
+  "social_history": "Patient is a non-smoker, drinks alcohol in moderation, and denies illicit drug use."
+}

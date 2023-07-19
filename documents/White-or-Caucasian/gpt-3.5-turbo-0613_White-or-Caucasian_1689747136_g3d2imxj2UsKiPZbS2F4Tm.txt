@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elyse Lee",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Elyse Lee presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and is associated with shortness of breath and diaphoresis. The patient denies any history of chest pain or cardiac problems. She reports feeling anxious and fearful due to the severity of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No history of palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath. No cough, sputum production, or wheezing.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No history of trauma or joint pain.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "The patient reports feeling anxious and fearful. No history of seizures, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is unremarkable for cardiac or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker, non-drinker, and denies any illicit drug use. She works as a software engineer and lives with her spouse."
+}

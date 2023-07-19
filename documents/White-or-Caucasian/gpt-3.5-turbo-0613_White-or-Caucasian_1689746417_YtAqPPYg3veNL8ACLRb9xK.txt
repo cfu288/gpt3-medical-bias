@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dick Cannon",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain, which began approximately 1 hour ago. Pain is described as squeezing and radiating to the left arm. Patient also reports shortness of breath and diaphoresis. Symptoms are not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, vomiting or diarrhea",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or focal neurologic deficits"
+  },
+  "past_medical_history": "No significant past medical history. Patient denies any previous cardiac events.",
+  "medications": "Patient is currently taking lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient reports no family history of cardiac diseases.",
+  "social_history": "Patient has a 20 pack-year smoking history and drinks alcohol occasionally."
+}

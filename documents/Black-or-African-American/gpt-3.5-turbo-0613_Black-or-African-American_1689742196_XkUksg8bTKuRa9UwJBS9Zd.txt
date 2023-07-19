@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odessa Smith",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Smith, presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation that started suddenly about 2 hours ago. She rates the pain as 8 out of 10 in intensity and states that it radiates to her left arm. She denies any shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest. She has no significant past medical history and there is no known history of cardiac disease in her family.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain radiating to left arm",
+    "respiratory": "Denies cough, dyspnea, or wheezing",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms reported",
+    "musculoskeletal": "Reports pain in left arm",
+    "skin": "No rashes or lesions reported",
+    "neurologic": "No focal neurologic deficits reported"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No known history of cardiac disease in the family",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

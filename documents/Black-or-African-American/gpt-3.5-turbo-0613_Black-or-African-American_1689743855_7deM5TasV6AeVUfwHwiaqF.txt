@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wendell Saunders",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Saunders is a 55-year-old male presenting to the emergency department with complaints of chest pain. The pain is described as a tightness and pressure in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been constant since then. He also reports shortness of breath and diaphoresis accompanying the chest pain. He denies any associated symptoms such as nausea, vomiting, dizziness, or palpitations. He states that the pain is worse with exertion and improves with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. No history of palpitations or syncope.",
+    "respiratory": "Reports shortness of breath with the chest pain. No cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Mr. Saunders has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "He takes atenolol 50 mg daily and simvastatin 20 mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Positive for coronary artery disease in his father who had a myocardial infarction at age 60.",
+  "social_history": "Mr. Saunders is a current smoker with a 30 pack-year smoking history. He reports drinking alcohol occasionally but denies illicit drug use."
+}

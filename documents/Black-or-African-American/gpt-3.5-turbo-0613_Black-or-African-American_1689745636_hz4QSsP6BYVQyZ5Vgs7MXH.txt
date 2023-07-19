@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jamal Horton",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Horton presents to the emergency department with complaints of chest pain that started approximately 1 hour ago. He describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He rates the severity of the pain as 8 out of 10. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. He denies any previous episodes of chest pain or similar symptoms. He has a family history of coronary artery disease. Upon arrival, his blood pressure is 140/90 mmHg, heart rate is 90 beats per minute, respiratory rate is 18 breaths per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Mr. Horton has a history of hypertension and hyperlipidemia. He takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Family history of coronary artery disease in his father.",
+  "social_history": "Mr. Horton is a non-smoker, does not drink alcohol, and is married with two children."
+}
+```

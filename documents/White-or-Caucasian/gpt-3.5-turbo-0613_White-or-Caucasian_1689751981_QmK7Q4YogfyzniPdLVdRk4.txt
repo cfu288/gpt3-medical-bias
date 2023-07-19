@@ -1,0 +1,21 @@
+{
+  "patient_name": "Loyd Gaydos",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started about 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain has radiated to the left arm and jaw. The patient also reports some shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No complaints",
+    "gu": "No complaints",
+    "musculoskeletal": "No complaints",
+    "skin": "No complaints",
+    "neurologic": "No complaints"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of heart disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

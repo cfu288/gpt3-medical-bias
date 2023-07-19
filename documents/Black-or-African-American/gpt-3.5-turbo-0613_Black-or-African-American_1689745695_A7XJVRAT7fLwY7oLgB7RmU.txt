@@ -1,0 +1,21 @@
+{
+  "patient_name": "Theo Robbins",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Robbins is a 42-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while he was at rest. He describes the pain as a dull, squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He also reports feeling short of breath and lightheaded. He denies any nausea or vomiting. Mr. Robbins has a past medical history significant for hypertension and smoking.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain, shortness of breath, lightheadedness.",
+    "respiratory": "No cough, shortness of breath at rest, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or pruritus.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "Hypertension, smoking",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction",
+  "social_history": "Smoker, drinks alcohol occasionally"
+}

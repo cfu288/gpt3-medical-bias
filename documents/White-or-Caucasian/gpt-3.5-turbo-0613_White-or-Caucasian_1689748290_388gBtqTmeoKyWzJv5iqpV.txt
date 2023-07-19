@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nils Miller",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nils Miller, is a 42-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a tightness or pressure in the center of his chest that radiates to his left arm. The pain started approximately 1 hour ago and is associated with shortness of breath and diaphoresis. He denies any recent trauma or injury. On further questioning, he reports that he has a family history of heart disease, with his father having a heart attack at a young age. He is concerned that he may be experiencing a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of heart disease, with his father experiencing a heart attack at a young age.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and is married with two children."
+}

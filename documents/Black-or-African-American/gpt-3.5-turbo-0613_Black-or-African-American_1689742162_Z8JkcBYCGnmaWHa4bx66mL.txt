@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornelia Cantrell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started earlier today. The pain is described as crushing and radiates to the left arm. Patient also reports shortness of breath and sweating. Pain worsens with exertion and is relieved by rest. No history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above. No palpitations or syncope.",
+    "respiratory": "Positive for shortness of breath, otherwise no cough or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or discoloration",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for both conditions.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Positive for family history of coronary artery disease",
+  "social_history": "Patient is a lifelong non-smoker and does not consume alcohol excessively"
+}

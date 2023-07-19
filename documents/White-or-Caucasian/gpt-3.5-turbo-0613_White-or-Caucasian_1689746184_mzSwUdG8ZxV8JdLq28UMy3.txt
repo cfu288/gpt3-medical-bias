@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ben Black",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Black is a 45-year-old male who presents to the emergency department with complaints of sudden onset chest pain. The pain is described as a sharp, squeezing sensation in the center of the chest that radiates to the left arm. He rates the pain as a 7 out of 10. The pain started approximately 2 hours ago and has been constant since then. Mr. Black denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Black has a history of hypertension, for which he takes lisinopril daily. He also has a history of hyperlipidemia.",
+  "medications": "Lisinopril for hypertension",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction at age 60",
+  "social_history": "Mr. Black is a non-smoker and denies alcohol or drug use"
+}

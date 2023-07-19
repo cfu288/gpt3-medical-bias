@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bree Erickson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of chest pain, which started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to both arms. The patient rates the intensity of the pain as 8 out of 10. Patient denies any associated shortness of breath, nausea, or diaphoresis. Upon arrival, the patient was administered sublingual nitroglycerin, which provided minimal relief. EKG was performed and showed ST-segment elevation in leads II, III, and aVF, indicative of an inferior wall myocardial infarction (MI). The patient was immediately started on aspirin, beta-blockers, and nitroglycerin drip, and transferred to the cardiac catheterization laboratory for urgent angiography.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "Patient currently takes lisinopril, atorvastatin, and metformin for her medical conditions.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Patient's father had a history of coronary artery disease.",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. Patient is married and works as an office manager."
+}

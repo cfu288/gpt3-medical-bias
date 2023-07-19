@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Davis",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain that started 2 hours ago. The pain is described as a sharp, stabbing sensation located in the center of the chest. The pain is exacerbated by deep breaths and is associated with shortness of breath. The patient has no known history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain without radiation, palpitations, or syncope.",
+    "respiratory": "The patient complains of shortness of breath and denies cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or limitation of movement.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension for which he takes medications.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction in his late 60s.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use."
+}

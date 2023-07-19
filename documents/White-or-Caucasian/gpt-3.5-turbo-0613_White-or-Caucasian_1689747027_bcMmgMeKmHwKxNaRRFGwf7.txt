@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosemary Conn",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Conn presents to the emergency department with complaints of chest pain that started an hour ago. The pain is described as sharp and localized to the center of her chest. She rates the pain as 8 out of 10 and states that it radiates to her left shoulder and arm. She denies any shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for left shoulder and arm pain.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Ms. Conn has a history of hypertension and hyperlipidemia. She is currently taking lisinopril and simvastatin.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "No surgical history.",
+  "family_history": "Negative for any significant family history of cardiovascular disease or other chronic illnesses.",
+  "social_history": "Ms. Conn is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and is under moderate stress."
+}

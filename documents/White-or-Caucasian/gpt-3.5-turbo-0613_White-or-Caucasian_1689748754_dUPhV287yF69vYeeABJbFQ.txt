@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Carbonara",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a sharp, stabbing sensation that started suddenly and has been constant for the past hour. Patient rates the severity of the pain as 8 out of 10. Pain is worse with deep breaths and movement. No associated shortness of breath, dizziness, or nausea noted. No prior history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No palpitations or irregular heart beats",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or pain",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or visual disturbances"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes lisinopril and simvastatin for management.",
+  "medications": "lisinopril 20mg daily, simvastatin 40mg daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history of cardiovascular disease or other relevant conditions.",
+  "social_history": "Patient is a non-smoker and denies illicit drug use. Patient drinks alcohol occasionally."
+}

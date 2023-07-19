@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Merrill Wolfe",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Merrill Wolfe, a 42-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 1 hour ago and is described as a sharp, stabbing sensation located in the center of the chest. The patient rates the pain as a 7 out of 10 in severity. The pain is not relieved with rest or position change. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. The patient has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations, chest discomfort with exertion, or history of heart disease.",
+    "respiratory": "The patient denies any cough, shortness of breath, or history of lung disease.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or history of gastrointestinal disorders.",
+    "gu": "The patient denies any urinary symptoms or history of genitourinary disorders.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or history of musculoskeletal disorders.",
+    "skin": "The patient denies any rash, itching, or history of skin conditions.",
+    "neurologic": "The patient denies any headache, dizziness, or history of neurologic disorders."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril 20 mg daily and simvastatin 40 mg daily.",
+  "medications": "See past medical history.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father at age 55.",
+  "social_history": "The patient is a non-smoker and drinks alcohol socially. He denies any illicit drug use."
+}

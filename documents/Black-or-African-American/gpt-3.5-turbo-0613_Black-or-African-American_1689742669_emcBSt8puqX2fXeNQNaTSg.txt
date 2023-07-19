@@ -1,0 +1,21 @@
+{
+  "patient_name": "Samantha Evans",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started about 2 hours ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath and nausea. She denies any recent trauma or injury. The pain has not been relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Positive for nausea.",
+    "gu": "Negative symptoms.",
+    "musculoskeletal": "Negative symptoms.",
+    "skin": "Negative symptoms.",
+    "neurologic": "Negative symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She is currently taking metoprolol and atorvastatin.",
+  "medications": "Metoprolol 50 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. She works as an accountant and denies any recent stressors."
+}

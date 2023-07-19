@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mia Jacobs",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mia Jacobs, a 32-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started suddenly about 2 hours ago and is located in the center of her chest. She describes the pain as a sharp, stabbing sensation that is worsened with deep breaths and movement. The pain has not radiated to any other areas. She denies any associated symptoms such as shortness of breath, palpitations, dizziness, or sweating. The patient has no significant medical history and denies any recent illnesses or injuries. She has not had any similar episodes in the past. On physical examination, the patient appears uncomfortable due to the pain and is in no acute distress. Her vitals are stable with a blood pressure of 120/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 bpm, and oxygen saturation of 98% on room air. Cardiac auscultation reveals regular rate and rhythm with no murmurs, rubs, or gallops. Lung sounds are clear bilaterally. The abdomen is soft and non-tender. There are no abnormalities noted on examination of other systems.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or muscle weakness.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, or neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any medications regularly. She takes acetaminophen as needed for occasional headaches.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "No significant family history of cardiovascular diseases, cancer, or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs. She works as a software engineer and lives alone."
+}

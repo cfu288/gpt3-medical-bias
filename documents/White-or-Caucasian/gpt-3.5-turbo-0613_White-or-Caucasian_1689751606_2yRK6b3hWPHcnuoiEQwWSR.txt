@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Myers",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Calvin Myers, a 42-year-old male, presented to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest, which started approximately 2 hours ago. The pain radiates to his left arm and jaw. He rates the intensity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He does not have a history of similar episodes in the past. Onset of pain was sudden, and it is constant. He denies any alleviating or exacerbating factors. He states that he took an aspirin 325mg at home prior to coming to the emergency department. No relief was noted following the administration of aspirin. He denies any recent trauma or injury. His vital signs on arrival are as follows: blood pressure 150/90 mmHg, heart rate 90 beats per minute, respiratory rate 18 breaths per minute, oxygen saturation 99% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Denies palpitations.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness. No history of recent trauma or injury.",
+    "skin": "No rashes, lesions, or bruising noted.",
+    "neurologic": "No history of headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He does not have a history of diabetes or any cardiovascular diseases.",
+  "medications": "The patient takes aspirin 81mg daily, lisinopril 20mg daily, and atorvastatin 40mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of cardiovascular diseases or other notable medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. He lives with his spouse and has a sedentary lifestyle."
+}

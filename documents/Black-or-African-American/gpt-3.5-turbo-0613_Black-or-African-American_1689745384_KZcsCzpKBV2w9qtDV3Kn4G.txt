@@ -1,0 +1,21 @@
+{
+  "patient_name": "Essie Mason",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Essie Mason, a 56-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started approximately 2 hours ago and is a constant, oppressive sensation in her chest. The pain radiates to her left shoulder and is associated with shortness of breath. She denies any diaphoresis or nausea. She states that she has a history of hypertension and takes medication for it. She denies any recent illnesses or injuries. Upon further inquiry, the patient states that she has a family history of heart disease, with her father having a myocardial infarction at the age of 65. She reports being a non-smoker and denies any drug or alcohol use. She also denies any recent travels or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or leg swelling.",
+    "respiratory": "Other than the shortness of breath associated with the chest pain, the patient denies any cough, hemoptysis, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or change in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medication for hypertension, but she is unable to recall the specific name of the medication.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is a family history of heart disease, with the patient's father having a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any drug or alcohol use. She works as a teacher and denies any recent travels or sick contacts."
+}

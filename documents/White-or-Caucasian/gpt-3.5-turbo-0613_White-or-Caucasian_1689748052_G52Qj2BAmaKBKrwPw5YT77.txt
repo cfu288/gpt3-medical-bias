@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harris Swartz",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 52-year-old male who presents to the emergency department with complaints of chest pain. He reports that the pain started approximately 3 hours ago and is located in the center of his chest. The pain is described as a pressure-like sensation and is radiating to his left arm. He rates the severity of the pain as 7 out of 10. He denies any shortness of breath, nausea, or diaphoresis. Patient states that he has a history of hypertension and takes medication for it. He denies any recent illness or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, denies palpitations or irregular heartbeats",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain or change in bowel habits",
+    "gu": "Denies dysuria or changes in urinary frequency",
+    "musculoskeletal": "Positive for left arm pain",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 55",
+  "social_history": "Denies tobacco or alcohol use, works as an accountant"
+}

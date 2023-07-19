@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ebony Branham",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 1 hour ago. The pain is described as a crushing sensation in the center of the chest, radiating down the left arm. Patient also reports shortness of breath and diaphoresis. No associated symptoms such as fever, cough, or abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath as mentioned above. No palpitations or syncope.",
+    "respiratory": "Patient complains of shortness of breath associated with chest pain, but denies cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No complaints of joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes losartan and atorvastatin regularly.",
+  "medications": "Losartan 50mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother has a history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Works as a bank teller and is married with two children."
+}

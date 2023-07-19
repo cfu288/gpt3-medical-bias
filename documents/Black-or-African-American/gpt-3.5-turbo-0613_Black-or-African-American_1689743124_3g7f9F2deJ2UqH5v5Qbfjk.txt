@@ -1,0 +1,21 @@
+{
+    "patient_name": "Ollie Clark",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Clark is a 45-year-old male presenting to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation in the center of his chest. The pain started suddenly about 2 hours ago and has been persistent since then. The pain is exacerbated by deep breaths and is associated with shortness of breath. He denies any radiation of the pain or any other associated symptoms such as dizziness or palpitations. He reports that the pain is worse when he lies down and improves when he sits up. On further questioning, he reports no recent trauma or physical exertion that could have precipitated the pain. He denies any history of similar episodes in the past.",
+    "review_of_symptoms": {
+        "constitutional": "No fevers, chills, or night sweats",
+        "cardiovascular": "Denies chest pain other than the present complaint. No palpitations or edema.",
+        "respiratory": "Shortness of breath associated with the chest pain",
+        "gi": "No abdominal pain, nausea, vomiting or change in bowel habits",
+        "gu": "No urinary complaints",
+        "musculoskeletal": "No musculoskeletal complaints",
+        "skin": "No rashes or wounds",
+        "neurologic": "No headache, dizziness or changes in vision"
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Lisinopril 10mg daily",
+    "past_surgical_history": "Appendectomy",
+    "family_history": "Father with history of myocardial infarction at the age of 50",
+    "social_history": "No history of smoking. Social drinker, consumes alcohol occasionally."
+}

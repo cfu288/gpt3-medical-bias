@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chantel Wheat",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that started yesterday evening. The pain is worse with deep breathing and movement. She denies any associated symptoms such as shortness of breath, palpitations, or dizziness. The patient states that the pain started suddenly and has not improved since onset. She has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypercholesterolemia. She is on medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril and simvastatin for her hypertension and hypercholesterolemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular or other chronic diseases.",
+  "social_history": "The patient does not smoke cigarettes or use recreational drugs. She consumes alcohol occasionally."
+}

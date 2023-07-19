@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ole Vitullo",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Vitullo presented to the emergency department with complaints of chest pain that started 2 hours ago. The pain is described as a squeezing sensation in the center of the chest. He rates the intensity of the pain as 8 out of 10. The pain has not radiated to any other part of the body. He denies any shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain or nausea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Mr. Vitullo has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and simvastatin.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "Negative",
+  "family_history": "Negative for cardiovascular disease, diabetes, or cancer in immediate family members.",
+  "social_history": "Mr. Vitullo is a non-smoker and he denies any alcohol or illicit drug use."
+}

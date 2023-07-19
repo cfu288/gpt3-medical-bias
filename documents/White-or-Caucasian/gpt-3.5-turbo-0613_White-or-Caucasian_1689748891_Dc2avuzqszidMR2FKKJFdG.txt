@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rex Smith",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rex Smith, is a 45-year-old male presenting to the emergency department with complaints of chest pain. He reports that the pain started approximately 1 hour ago and is located in the center of his chest. He describes the pain as a squeezing sensation, radiating down his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any history of chest pain or similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. He denies any palpitations or edema.",
+    "respiratory": "The patient complains of shortness of breath. He denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient does not report any muscle or joint pain.",
+    "skin": "The patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medication for these conditions.",
+  "medications": "The patient takes lisinopril and simvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. There is no other significant family history.",
+  "social_history": "The patient is a smoker, with a 20 pack-year history. He drinks alcohol occasionally and denies any illicit drug use."
+}

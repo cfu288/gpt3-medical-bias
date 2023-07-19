@@ -1,0 +1,21 @@
+{
+  "patient_name": "Solomon Jones",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department with complaints of severe chest pain. He states that the pain started approximately 1 hour ago and is radiating to his left arm. He describes the pain as a crushing sensation and rates it 9/10 in intensity. The pain is not relieved by rest or nitroglycerin. Patient denies any associated symptoms such as shortness of breath or diaphoresis. He has a history of hypertension and takes medication daily. He denies any recent illnesses or recent changes in medication. On physical examination, the patient appears diaphoretic and in significant distress. His blood pressure is 160/90 mmHg, heart rate is 110 bpm, respiratory rate is 22 bpm, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills or weight loss.",
+    "cardiovascular": "Aside from the chest pain, patient denies any palpitations, edema or chest discomfort.",
+    "respiratory": "Patient denies any shortness of breath, cough or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting or changes in bowel movement.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, lesions or changes in skin color.",
+    "neurologic": "Patient denies any dizziness, syncope, numbness or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

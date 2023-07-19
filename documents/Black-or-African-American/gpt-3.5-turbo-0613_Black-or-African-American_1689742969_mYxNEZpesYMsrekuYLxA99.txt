@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Williams",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Williams presents to the Emergency Department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any alleviating or aggravating factors. He has no previous history of similar symptoms and denies any recent trauma or infections. On physical examination, the patient appears anxious and diaphoretic, with a heart rate of 110 beats per minute and blood pressure of 150/90 mmHg.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain radiating to the left arm. He denies palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath. He denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient complains of mild bilateral shoulder pain. He denies any other joint pain or muscle weakness.",
+    "skin": "The patient denies rash, itching, or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Raja Durand",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 30 minutes ago. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. The patient denies any associated symptoms such as shortness of breath or nausea. He states that the pain is not relieved by rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or irregular heartbeat.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain or nausea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for dizziness or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies the use of alcohol or illicit drugs."
+}

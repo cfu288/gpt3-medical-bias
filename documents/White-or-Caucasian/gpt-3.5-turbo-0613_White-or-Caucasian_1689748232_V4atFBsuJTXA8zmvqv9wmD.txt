@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mason Hyde",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started suddenly about 30 minutes ago while the patient was at rest. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. The patient also reports shortness of breath and sweating. No history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, but denies palpitations or syncope.",
+    "respiratory": "Positive for shortness of breath, denies cough or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Family history of heart disease in the father.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

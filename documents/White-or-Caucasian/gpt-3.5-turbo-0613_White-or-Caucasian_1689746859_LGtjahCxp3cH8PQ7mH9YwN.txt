@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joy Engel",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of chest pain. She reports that the pain began suddenly about 30 minutes ago while she was at rest. She describes the pain as a sharp, squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain is persistent and has not improved with rest. The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions on a daily basis. She has no known drug allergies. She has not had any recent surgeries. There is no family history of cardiovascular disease. The patient is a smoker of 10 cigarettes per day and she has a sedentary lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats",
+    "cardiovascular": "Chest pain, no palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Smoker of 10 cigarettes per day, sedentary lifestyle"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sunday Hopkins",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sunday Hopkins, presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is described as a sharp and squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. There is no known trigger for the pain. She denies any palpitations, dizziness, or syncope. There is no history of similar pain in the past.",
+  "review_of_symptoms":{
+    "constitutional": "No fevers, chills, or diaphoresis",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "Shortness of breath associated with chest pain",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or musculoskeletal symptoms",
+    "skin": "No skin changes or rashes",
+    "neurologic": "No neurologic symptoms such as headache or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril for her blood pressure and atorvastatin for her cholesterol.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "Negative for family history of heart disease, stroke, or any other significant medical conditions.",
+  "social_history": "Sunday Hopkins is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and is married with two children."
+}

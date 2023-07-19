@@ -1,0 +1,21 @@
+{
+  "patient_name": "Branko Vaughn",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest. He rates the pain as 8 out of 10 in severity. The pain radiates to his left arm and jaw. He denies any associated shortness of breath, nausea, or diaphoresis. He has no previous history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and takes medication for it. No palpitations or leg swelling.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family medical history",
+  "social_history": "Non-smoker, occasional alcohol use, no illicit drug use"
+}

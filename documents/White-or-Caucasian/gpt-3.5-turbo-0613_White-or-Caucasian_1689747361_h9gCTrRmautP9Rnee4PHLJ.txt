@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Benita Meeker",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain started abruptly approximately 2 hours ago and is described as a crushing sensation in the center of the chest. It is radiating to the left arm and jaw. The pain is rated 9/10 in intensity and has not improved with rest. Patient denies any associated shortness of breath, palpitations, or diaphoresis. On further questioning, the patient reports a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or pruritus",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and denies any illicit drug use. Occasional alcohol use, but not exceeding 1-2 drinks per week."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeannine Zipkin",
+  "chief_complaint": "Chest Pain",
+  "age": "45",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset of severe chest pain. Patient states that the pain started about 2 hours ago and is located in the center of the chest. The pain is described as a squeezing sensation and radiates to the left arm. Patient states the pain is constant and has not improved with rest or over-the-counter pain medication. No associated symptoms such as shortness of breath, nausea, or diaphoresis. No known precipitating factor.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough, shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, swelling",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and obesity.",
+  "medications": "Patient is currently taking lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient denies any significant family history of cardiovascular disease or other chronic illnesses.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Works as a sedentary office clerk and does not engage in regular exercise."
+}
+```

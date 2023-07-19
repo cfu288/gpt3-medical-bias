@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frank Wagner",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wagner presents to the emergency department with a chief complaint of chest pain. He describes the pain as a dull ache in the center of his chest that started approximately 2 hours ago. He rates the pain as a 7 out of 10 and says it is constant. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, Mr. Wagner states that he has a history of hypertension and takes medication for it. He denies any recent changes in his medication regimen or lifestyle. He has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with myocardial infarction at age 60, mother with hypertension.",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Richie Mohling",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Pain started approximately 2 hours ago and is located in the center of the chest. Patient describes the pain as a squeezing sensation that radiates to the left arm. Pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of chest pain or cardiovascular disease. No alleviating or aggravating factors reported.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, weight loss",
+    "cardiovascular": "Positive for chest pain, shortness of breath",
+    "respiratory": "Negative for cough, sputum production, wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain, muscle weakness",
+    "skin": "Negative for rash, itching",
+    "neurologic": "Negative for weakness, numbness, tingling"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for both conditions.",
+  "medications": "Lisinopril 10mg once daily, Simvastatin 20mg once daily",
+  "past_surgical_history": "Negative for any surgical procedures",
+  "family_history": "Positive for cardiovascular disease in the patient's father",
+  "social_history": "Patient denies tobacco use and reports occasional alcohol consumption"
+}

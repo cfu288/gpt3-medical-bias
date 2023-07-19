@@ -1,0 +1,21 @@
+{
+  "patient_name": "Peder Lampkin",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Peder Lampkin, is a 55-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly approximately 1 hour ago while he was at rest. He describes the pain as a tightness in the center of his chest, radiating to his left arm. He rates the intensity of the pain as 8 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports chest pain and discomfort. He denies any palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports radiating pain to his left arm.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking losartan and atorvastatin for these conditions.",
+  "medications": "The patient is currently taking losartan and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient's mother and father both have a history of hypertension and coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

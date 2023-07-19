@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Page Bucknell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain is described as a dull, pressure-like sensation and has been ongoing for the past 3 hours. The patient does not have any known history of cardiac disease. Upon arrival, the patient was tachycardic with a heart rate of 110 beats per minute and blood pressure within normal limits. EKG was performed, showing normal sinus rhythm with no acute ST-T changes. Given the potential for cardiac etiology of the chest pain, further investigation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. Takes lisinopril and atorvastatin as prescribed.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use"
+}
+```

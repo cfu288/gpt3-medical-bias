@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arno Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any previous episodes of similar pain. There is no alleviating or exacerbating factors reported. The patient has no significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss.",
+    "cardiovascular": "Chest pain and shortness of breath.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No complaints of abdominal pain, nausea or vomiting.",
+    "gu": "No complaints of dysuria or hematuria.",
+    "musculoskeletal": "No complaints of joint pain or limb weakness.",
+    "skin": "No complaints of rash or itching.",
+    "neurologic": "No complaints of headache, dizziness or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular or other chronic diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. The patient works as an office administrator and denies any significant occupational exposures."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elvin Rogel",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Rogel presents to the emergency department with a chief complaint of chest pain. He describes the pain as a dull ache in the center of his chest that started approximately 2 hours ago. He reports that the pain is constant and radiates to his left arm. He denies any associated symptoms such as shortness of breath, nausea, or sweating. He rates his pain as a 7 out of 10 and states that it is not relieved with rest or nitroglycerin. He has a history of hypertension and takes medication for it. His blood pressure is currently 160/90 mmHg and his heart rate is 80 beats per minute.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Reports pain radiating to left arm",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Takes medication for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Denies tobacco, alcohol, or illicit drug use"
+}

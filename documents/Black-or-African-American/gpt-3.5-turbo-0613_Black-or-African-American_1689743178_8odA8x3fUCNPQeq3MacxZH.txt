@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mohamed Richard",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation, radiating to the left arm. The patient also reports feeling shortness of breath and mild nausea. He denies any fever, cough, or recent illness. It is important to rule out any cardiac-related causes for the chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath, palpitations",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest",
+    "gi": "Mild nausea, no vomiting, no abdominal pain or changes in bowel movements",
+    "gu": "No urinary urgency, frequency, or changes in urine color",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes, lesions, or changes in skin color",
+    "neurologic": "No headaches, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 20",
+  "family_history": "Family history of coronary artery disease in father",
+  "social_history": "The patient works as an accountant, does not smoke, and drinks alcohol occasionally"
+}
+```

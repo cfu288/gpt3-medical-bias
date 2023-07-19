@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Grady Mcbrayer",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Mcbrayer, presents to the emergency department with complaints of severe chest pain. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. The pain started approximately 2 hours ago and has not resolved. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He states that the pain is worse with exertion and improves with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension, for which he takes amlodipine.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient reports no recent injuries or joint pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine. He also has a history of hyperlipidemia and takes atorvastatin. He denies any other significant medical history.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. There is no other significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker. He occasionally drinks alcohol but denies any illicit drug use."
+}
+```

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Sophie Macdonnell",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sophie Macdonnell, presented to the emergency department today with a chief complaint of chest pain. She reports that the pain started suddenly approximately 2 hours ago while she was at work. The pain is described as sharp and radiates to her left arm. She rates the pain as 7 out of 10 on a pain scale. She denies any shortness of breath, diaphoresis, or palpitations. She took an over-the-counter pain medication but did not get relief. She has no history of similar episodes in the past.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Reports sharp chest pain as the only musculoskeletal symptom.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  
+  "past_medical_history": "The patient has a past medical history of asthma and seasonal allergies.",
+  
+  "medications": "The patient takes an albuterol inhaler as needed for asthma symptoms and loratadine daily for seasonal allergies.",
+  
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  
+  "family_history": "There is no significant family history of cardiovascular disease or other relevant conditions.",
+  
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a receptionist and does not have any significant travel history."
+}

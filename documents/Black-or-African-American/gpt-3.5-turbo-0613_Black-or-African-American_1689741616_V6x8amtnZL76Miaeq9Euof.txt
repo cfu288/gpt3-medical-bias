@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Felicia Stokley",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Felicia Stokley, a 45-year-old female, presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp and crushing sensation in the center of the chest. The pain is radiating down the left arm and is associated with shortness of breath. The patient denies any previous history of similar symptoms. On arrival, the patient appeared anxious and was in moderate distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient complains of palpitations and occasional dizziness.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports left arm pain.",
+    "skin": "The patient denies any skin changes or rash.",
+    "neurologic": "The patient denies any changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mia Walker",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaint of chest pain. She describes the pain as a squeezing sensation in her chest that radiates to her left arm. The pain started approximately 1 hour ago and is associated with shortness of breath. She denies any previous episodes of similar chest pain. She has no known cardiac history and does not take any medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue",
+    "cardiovascular": "Positive for chest pain and shortness of breath as described in the history of present illness",
+    "respiratory": "Positive for shortness of breath as described in the history of present illness",
+    "gi": "Denies nausea, vomiting, abdominal pain",
+    "gu": "Denies dysuria, hematuria, urinary urgency",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness, weakness"
+  },
+  "past_medical_history": "The patient has no significant past medical history. She does not have any known medical conditions and has never been hospitalized before.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She works as an office manager and denies any occupational exposure to toxins."
+}

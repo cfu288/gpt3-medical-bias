@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kathryne Patterson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started about 2 hours ago. She describes the pain as a squeezing sensation in her chest that radiates to her left arm. She also reports feeling shortness of breath and lightheadedness. She denies any associated symptoms like nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain or changes in bowel movements.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for skin rash or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or visual disturbances."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril daily for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any family history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

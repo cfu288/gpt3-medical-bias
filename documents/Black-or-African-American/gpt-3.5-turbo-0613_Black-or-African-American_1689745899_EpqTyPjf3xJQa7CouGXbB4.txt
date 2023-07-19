@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bertram Gilliam",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain is retrosternal and radiating to the left arm. Patient also reports shortness of breath and diaphoresis. Pain started approximately 30 minutes ago and has been constant since onset. No alleviating or exacerbating factors reported. No associated symptoms of nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described.",
+    "respiratory": "Reports shortness of breath as described.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies urgency, frequency, hesitancy, or change in urinary flow.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "No changes in sensation, coordination, or speech reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 63.",
+  "social_history": "Patient is a current smoker with a 30 pack-year smoking history."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gertrude Johnson",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Gertrude Johnson, a 68-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about an hour ago and is located in the center of her chest. She describes the pain as a pressure-like sensation that radiates to her left arm. The pain is associated with shortness of breath and sweating. She denies any other symptoms at this time. On further questioning, she reports that she has a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, and weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and high cholesterol. She is not on any medication for these conditions.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a retired school teacher and denies smoking or alcohol use."
+}

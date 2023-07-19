@@ -1,0 +1,21 @@
+{
+  "patient_name": "Steve Hickey",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hickey is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain began approximately two hours ago and is described as a substernal pressure-like sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any other symptoms such as nausea or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath, diaphoresis",
+    "respiratory": "No cough, wheezing, or hemoptysis",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Mr. Hickey has a past medical history of hypertension and hypercholesterolemia. He is currently on amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Mr. Hickey is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and states that he leads a sedentary lifestyle."
+}

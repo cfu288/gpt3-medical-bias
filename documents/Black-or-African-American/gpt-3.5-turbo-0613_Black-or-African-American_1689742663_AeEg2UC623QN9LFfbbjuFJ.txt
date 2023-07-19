@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ki Tate",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started this morning. The pain is described as a sharp, stabbing sensation that radiates to the left arm. Patient denies any shortness of breath or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain but denies palpitations or edema.",
+    "respiratory": "Patient denies any cough or difficulty breathing.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports pain in the left arm.",
+    "skin": "Patient denies any skin rash or lesions.",
+    "neurologic": "Patient denies any headache or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine and atorvastatin for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millie Bowen",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Bowen is a 45-year-old female who presents to the emergency department with complaints of chest pain. The pain started suddenly while she was at home, and she describes it as a tightness in the center of her chest. The pain has been constant and has not improved with rest. She denies any shortness of breath, palpitations, or diaphoresis. However, she reports feeling anxious and scared. The pain is not radiating to her arm, jaw, or back. She denies any associated symptoms like nausea, vomiting, or dizziness. Mrs. Bowen states that she has never experienced chest pain like this before and is concerned it might be related to her heart.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss",
+    "cardiovascular": "Reports chest pain as described in history of present illness",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling",
+    "skin": "Denies rashes, lesions, or pruritus",
+    "neurologic": "Denies headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, simvastatin 40 mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "Father with history of myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

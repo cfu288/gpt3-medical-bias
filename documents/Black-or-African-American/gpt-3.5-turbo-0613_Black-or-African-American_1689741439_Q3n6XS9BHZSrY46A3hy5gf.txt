@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nichole Blaylock",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came into the emergency department complaining of severe chest pain that radiates to her left arm. She stated that the pain started about an hour ago and it has been constant since then. She describes the pain as a sharp, squeezing sensation that worsens with deep breaths and alleviates slightly with rest. She denies any associated symptoms such as shortness of breath, nausea, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or leg swelling",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for pain in the left arm",
+    "skin": "Negative for rash or pruritus",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and obesity. She takes medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker with a 15 pack-year history. She denies alcohol or illicit drug use."
+}

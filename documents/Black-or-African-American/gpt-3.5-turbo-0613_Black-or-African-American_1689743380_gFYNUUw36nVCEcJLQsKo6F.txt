@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elana Jones",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elana Jones, is a 35-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, burning sensation located in the center of her chest with radiation to her left arm. The pain started approximately 2 hours ago and has been intermittent in nature. The patient states that the pain is worsened with exertion and relieved with rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient reports a history of hypertension and occasional episodes of angina-like chest pain in the past. She states that she has been taking her prescribed medications regularly and has not had any recent changes in her medications. The patient denies any past surgical history. There is no known family history of cardiovascular diseases. The patient is a nonsmoker and does not consume alcohol. She works as a computer programmer and leads a sedentary lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports intermittent chest pain that is worsened with exertion and relieved with rest.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient is currently taking medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "There is no known family history of cardiovascular diseases.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She leads a sedentary lifestyle as a computer programmer."
+}

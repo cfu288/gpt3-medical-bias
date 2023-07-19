@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcello Lambert",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that has been persistent for the past 2 hours. The pain is described as a sharp, stabbing sensation located in the center of the chest. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Patient has a history of hypertension and takes medication for it. No prior episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain is the only cardiovascular symptom reported",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Chest pain is the only musculoskeletal symptom reported",
+    "skin": "No rashes or lesions",
+    "neurologic": "No changes in vision, speech, or coordination"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Takes medication for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Mother has a history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chanda Kling",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain is described as a sharp, stabbing sensation localized to the left side of the chest. The pain started suddenly approximately 2 hours ago and has been constant since then. It is associated with shortness of breath and diaphoresis. The patient denies any history of similar symptoms in the past. There is no relieving or exacerbating factor identified.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Negative for cough, sputum production, wheezing, or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or limited range of motion.",
+    "skin": "Negative for rash, pruritus, or changes in skin color or texture.",
+    "neurologic": "Negative for headache, dizziness, syncope, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

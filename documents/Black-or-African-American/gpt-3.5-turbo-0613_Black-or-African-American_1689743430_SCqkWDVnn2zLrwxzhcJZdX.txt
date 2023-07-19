@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Milton Surin",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Milton Surin, a 48-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as sharp and radiating to the left arm. It started approximately 1 hour ago while the patient was resting at home. The pain worsens with deep breaths and is associated with shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes medications for these conditions, but he is unsure of the names and dosages.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, but he is unsure of the names and dosages.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a heart attack in his late 50s. There is no other significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and exercises regularly."
+}
+```

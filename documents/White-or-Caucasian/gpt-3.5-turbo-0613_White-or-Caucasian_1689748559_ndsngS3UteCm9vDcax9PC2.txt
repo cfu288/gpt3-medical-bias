@@ -1,0 +1,21 @@
+{
+  "patient_name": "Buford Gatlin",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with a chief complaint of chest pain that started approximately 1 hour ago. The pain is described as a squeezing sensation that radiates to the left arm. Patient also reports feeling shortness of breath and diaphoresis. The pain is not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or hemoptysis.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rashes or wounds.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at age 65. Mother is alive with no significant medical history.",
+  "social_history": "Patient denies tobacco use and illicit drug use. Patient consumes 2 alcoholic drinks per day on average."
+}

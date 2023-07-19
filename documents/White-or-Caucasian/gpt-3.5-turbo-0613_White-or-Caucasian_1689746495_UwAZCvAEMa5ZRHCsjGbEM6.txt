@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alyssa Saylor",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alyssa Saylor, a 30-year-old female, presents to the emergency department with chief complaint of chest pain. She reports that the pain started approximately 2 hours ago, while she was at rest. The pain is described as a sharp, stabbing sensation in the center of her chest. The pain is aggravated by deep breathing and lying flat, and is partially relieved by sitting up and taking shallow breaths. She denies any associated shortness of breath, diaphoresis, or palpitations. She denies any history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart murmur, palpitations, or edema.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and seasonal allergies.",
+  "medications": "The patient currently takes albuterol inhaler as needed for asthma and cetirizine for seasonal allergies.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease or other relevant medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She works as a teacher and is married with two children."
+}
+```

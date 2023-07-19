@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georgia Miller",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Miller is a 65-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that started 2 hours ago. The pain radiates to her left arm and is associated with shortness of breath. She denies any diaphoresis, nausea, or vomiting. She first noticed the pain while resting at home.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Reports shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Reports pain radiating to left arm.",
+    "skin": "Denies any rashes or lesions.",
+    "neurologic": "Denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 60.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

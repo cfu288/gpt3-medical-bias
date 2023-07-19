@@ -1,0 +1,21 @@
+{
+  "patient_name": "Theresa Braga",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Theresa Braga, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain began an hour ago and is described as a squeezing sensation in the center of her chest. She rates the pain as 8 out of 10 in intensity. The pain is radiating to her left arm and jaw. She denies any shortness of breath, nausea, or dizziness. The patient has a history of hypertension and hyperlipidemia. She currently takes lisinopril and atorvastatin. She denies any recent surgeries or hospitalizations. The patient's father had a heart attack at the age of 60. She is a non-smoker and does not consume alcohol. She denies any illicit drug use. She is married and works as a teacher. The patient appears to be in distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient has a history of hypertension and hyperlipidemia. She denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin abnormalities.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father with a history of heart attack at age 60",
+  "social_history": "Married, Teacher, Non-smoker, No alcohol or drug use"
+}

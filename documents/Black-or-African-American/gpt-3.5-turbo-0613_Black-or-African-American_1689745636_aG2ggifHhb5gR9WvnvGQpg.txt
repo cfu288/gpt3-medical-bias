@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latonya Wolde",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Latonya Wolde, a 32-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a burning sensation in her chest that started suddenly about one hour ago. The pain radiates to her left arm and is associated with shortness of breath. She states that she has never experienced this type of pain before and is worried it may be a heart attack. The pain has not improved with rest or over-the-counter pain medications. The patient denies any recent trauma or injury. She has no history of cardiac problems. She denies any other associated symptoms such as palpitations, dizziness, or nausea. Her vital signs in the emergency department are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. She denies palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath. She denies cough, hemoptysis, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not on any regular medications.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiac or other medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She works as an office manager and denies any significant occupational exposures."
+}
+```

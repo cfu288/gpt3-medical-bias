@@ -1,0 +1,21 @@
+{
+    "patient_name": "Earnest Allen",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately one hour ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient denies any associated shortness of breath or diaphoresis. EKG performed in the emergency department shows ST-segment elevation in leads V2-V4 suggestive of myocardial infarction.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies any fevers or chills.",
+        "cardiovascular": "Patient complains of chest pain radiating to the left arm and jaw.",
+        "respiratory": "Patient denies any shortness of breath or cough.",
+        "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+        "gu": "Patient denies any urinary symptoms.",
+        "musculoskeletal": "Patient denies any joint pain or swelling.",
+        "skin": "Patient denies any rashes or lesions.",
+        "neurologic": "Patient denies any headaches or focal neurological deficits."
+    },
+    "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+    "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily for blood pressure and cholesterol control, respectively.",
+    "past_surgical_history": "Patient has no previous surgical history.",
+    "family_history": "Patient's father had a myocardial infarction at the age of 55.",
+    "social_history": "Patient is a current smoker with a 20 pack-year smoking history. He admits to consuming alcohol occasionally but denies any illicit drug use."
+}

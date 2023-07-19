@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gideon Petty",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of chest pain. Pain is localized to the center of the chest and began approximately an hour ago. Patient rates the pain as 8 out of 10 in severity. Pain is described as a pressure sensation, radiating to the left arm. The pain is not alleviated with rest or change in position. No associated shortness of breath, diaphoresis, or nausea. No previous episodes of similar chest pain. Patient denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations or episodes of rapid heart rate.",
+    "respiratory": "The patient denies shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any recent injuries or musculoskeletal pain.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or recreational drug use."
+}
+```

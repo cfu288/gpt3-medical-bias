@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sandra Fultz",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sandra Fultz, a 56-year-old female, presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a dull, pressure-like sensation in the center of her chest. She rates the pain as a 7 out of 10 in intensity and states that it radiates to her left arm. The pain has not resolved and is not relieved with rest. She denies any shortness of breath, nausea, vomiting, or diaphoresis. She reports a history of hypertension and takes medication for it. She states that she has been under increased stress recently due to family matters. Upon arrival, her vital signs are stable with a heart rate of 76 bpm, blood pressure of 130/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports chest pain as mentioned in the chief complaint. No other cardiovascular symptoms are reported.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin pigmentation.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history.",
+  "social_history": "The patient is married with two adult children. She works as a teacher and denies any tobacco or alcohol use."
+}
+```

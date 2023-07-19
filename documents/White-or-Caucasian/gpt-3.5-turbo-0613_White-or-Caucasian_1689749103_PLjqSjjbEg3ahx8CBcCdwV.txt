@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aaron Nygaard",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain is described as a sharp, stabbing sensation that radiates to the left arm. The patient reports that the pain started approximately 2 hours ago and has been worsening in intensity. He denies any associated shortness of breath, diaphoresis, or palpitations. Upon arrival to the emergency department, the patient's vital signs were stable.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Reports chest pain as only cardiovascular symptom.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Reports no other musculoskeletal symptoms aside from the chest pain.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "Denies headaches or any other neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alfreda Rachel",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with a chief complaint of chest pain. She states that the pain started suddenly while she was at rest, and it is a sharp, stabbing pain in the center of her chest. The pain is rated as a 9/10 on a pain scale and is radiating to her left arm. She denies any shortness of breath, nausea, or diaphoresis. She has a history of hypertension and hypercholesterolemia. Patient has a family history of myocardial infarction in her father at the age of 60. She takes medication for her hypertension and high cholesterol. Patient denies any previous surgeries. Socially, patient is married and works as a school teacher.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or orthopnea",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hypercholesterolemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father with myocardial infarction at age 60",
+  "social_history": "Married, school teacher"
+}

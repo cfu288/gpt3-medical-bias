@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kari Johnson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kari Johnson, is a 42-year-old female who presents to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest. It started approximately 1 hour ago and is constant. The patient rates the pain as a 8 out of 10 in severity and states that it radiates to her left arm. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The patient has no significant past medical history and denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint or muscle pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient reports no headaches or neurological symptoms."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no significant family history of cardiac disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}

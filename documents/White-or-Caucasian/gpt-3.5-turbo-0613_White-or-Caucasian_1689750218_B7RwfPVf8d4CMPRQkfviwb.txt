@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dina Horton",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a dull ache and is located in the center of the chest. The patient also reports associated shortness of breath and sweating during the episode of chest pain. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient reports shortness of breath along with chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for that condition.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "There is no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

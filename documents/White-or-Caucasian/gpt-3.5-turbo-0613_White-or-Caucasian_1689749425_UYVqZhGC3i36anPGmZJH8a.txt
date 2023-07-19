@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donald Messer",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Messer arrived at the emergency department complaining of severe chest pain. He reports that the pain began approximately 2 hours ago and is a sharp, stabbing pain that radiates to his left arm. He rates the pain as a 9 out of 10 and states that it is exacerbated with movement. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for pain radiating to left arm.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Mr. Messer has a history of hypertension and hyperlipidemia.",
+  "medications": "He takes lisinopril 20mg daily and atorvastatin 40mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Mr. Messer has no history of surgical procedures.",
+  "family_history": "His father had a myocardial infarction at the age of 65.",
+  "social_history": "Mr. Messer is a smoker and has a 30 pack-year history of smoking."
+}

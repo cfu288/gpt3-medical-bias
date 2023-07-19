@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kermit Lee",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sharp chest pain. The pain started earlier today and is radiating to the left arm. The patient also reports shortness of breath and dizziness. No relieving or aggravating factors mentioned. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats reported.",
+    "cardiovascular": "Patient reports palpitations and mild chest discomfort.",
+    "respiratory": "Patient reports shortness of breath and difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No skin rashes, lesions, or itching reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily for hypertension and hypercholesterolemia, respectively.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Family history is unremarkable for cardiovascular disease, diabetes, or other significant medical conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or recreational drugs."
+}

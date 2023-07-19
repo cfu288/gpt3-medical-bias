@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harrison Dunn",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Dunn is a 42-year-old male who presents to the emergency department with complaints of chest pain. He states that the pain started suddenly about 1 hour ago and is described as a sharp, stabbing pain in the center of his chest. The pain is radiating to his left arm and jaw. There is no relieving or exacerbating factor. He denies any associated shortness of breath, diaphoresis, or nausea. He has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No complaints of fever or chills.",
+    "cardiovascular": "As mentioned in the history of present illness.",
+    "respiratory": "No complaints of cough or shortness of breath.",
+    "gi": "No complaints of abdominal pain, nausea, or vomiting.",
+    "gu": "No complaints of dysuria or hematuria.",
+    "musculoskeletal": "Denies any joint pain or stiffness.",
+    "skin": "No complaints of rashes or itching.",
+    "neurologic": "No complaints of headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Mr. Dunn has a history of hypertension and hyperlipidemia. He takes daily medications, which include lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Mr. Dunn is a non-smoker and does not consume alcohol. He works as an office manager and denies any illicit drug use."
+}

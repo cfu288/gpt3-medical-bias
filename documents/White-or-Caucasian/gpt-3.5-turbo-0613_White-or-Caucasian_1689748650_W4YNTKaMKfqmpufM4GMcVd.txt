@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pamela Cantos",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Pamela Cantos, is a 37-year-old female presenting to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly approximately 2 hours ago and is located in the center of her chest. The pain is described as a squeezing sensation and is associated with shortness of breath. The patient denies any radiation of the pain, palpitations, or diaphoresis. She denies any recent significant physical exertion or emotional stress. The patient has a past medical history of hypertension, for which she takes lisinopril. She denies any history of cardiac or respiratory conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "Patient reports shortness of breath associated with the chest pain.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any musculoskeletal pain or discomfort.",
+    "skin": "Patient denies any skin changes or lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No prior surgical history",
+  "family_history": "No significant family history of cardiac or respiratory conditions",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

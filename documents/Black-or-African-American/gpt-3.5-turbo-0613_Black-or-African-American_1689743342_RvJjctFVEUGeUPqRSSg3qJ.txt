@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emmett Mcfadden",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Mcfadden is a 32-year-old male who presents to the emergency department with complaints of chest pain. The chest pain started about 2 hours ago and is described as a sharp, stabbing pain in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10. The pain is associated with shortness of breath, sweating, and nausea. The patient denies any recent trauma. On arrival, the patient was anxious and diaphoretic. Vital signs were stable except for an elevated heart rate of 110 beats per minute. An EKG was performed and showed ST-segment elevation in leads V2-V4. The patient was diagnosed with acute myocardial infarction and was immediately started on aspirin, nitroglycerin, and heparin.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss or fatigue",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or shortness of breath at rest",
+    "gi": "No abdominal pain, nausea or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. Lives alone and works as an accountant."
+}

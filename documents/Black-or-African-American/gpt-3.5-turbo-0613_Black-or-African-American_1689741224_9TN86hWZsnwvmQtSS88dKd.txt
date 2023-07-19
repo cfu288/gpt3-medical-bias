@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tisha Mars",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of chest pain. The chest pain is described as a sharp, squeezing sensation that radiates to the left arm. The pain started approximately 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has no known history of heart disease and no previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient's chief complaint is consistent with possible cardiac etiology. There is no history of palpitations or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

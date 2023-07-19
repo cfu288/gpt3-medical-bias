@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Anderson",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Anderson is a 48-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as sharp and radiating to the left arm. The patient rates the pain as a 7 out of 10. He denies any associated shortness of breath, sweating, or nausea. Mr. Anderson has a history of hypertension and takes medication for it. He denies any recent illnesses or trauma. The pain is not relieved with rest and has persisted since onset.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Patients has a history of hypertension. Denies palpitations or chest pain prior to this episode.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any changes in skin color or rashes.",
+    "neurologic": "Denies any changes in vision or neurological symptoms."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with hypertension",
+  "social_history": "Smokes half a pack of cigarettes per day, drinks alcohol occasionally"
+}

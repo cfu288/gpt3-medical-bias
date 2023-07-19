@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Fields",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Fields, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a sharp, squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in intensity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Denies palpitations or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies any joint pain or stiffness.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "No reports of headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "No significant past medical history. Patient reports being generally healthy.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No known family history of cardiac diseases",
+  "social_history": "The patient denies any tobacco use, alcohol use, or illicit drug use. He works as an office manager and is married with two children."
+}

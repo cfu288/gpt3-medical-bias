@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sidney Person",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain that started about 2 hours ago. The pain is described as a squeezing sensation in the middle of the chest, radiating to the left arm. The patient reports shortness of breath and sweating accompanying the chest pain. The pain is not relieved with rest. The patient denies any previous episodes of similar chest pain and has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss or weight gain.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath but denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension for which they are on medication.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction at the age of 52.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

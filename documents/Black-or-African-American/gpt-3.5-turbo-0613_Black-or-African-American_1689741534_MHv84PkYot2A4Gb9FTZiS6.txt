@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ebony Pope",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of the chest. It started approximately 1 hour ago and has been constant. The patient rates the pain as a 7 out of 10. The pain radiates to the left arm. The patient denies any shortness of breath or diaphoresis. There is no alleviating or exacerbating factors identified. No associated symptoms like nausea or vomiting. No recent trauma identified. The pain is not relieved with rest. The patient reports no previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies cough or shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "No joint pain or stiffness identified.",
+    "skin": "No rashes, lesions, or bruising.",
+    "neurologic": "No changes in neurological function identified."
+  },
+  "past_medical_history": "No significant past medical history identified.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "No past surgical history identified.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking, alcohol, or drug use."
+}
+```

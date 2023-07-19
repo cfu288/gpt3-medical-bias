@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jarrod Dixon",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jarrod Dixon, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a dull, aching sensation in the center of his chest that has been present for the past hour. He rates the intensity of the pain as a 6 out of 10. The pain is exacerbated by deep breathing and is not relieved by rest. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. He takes lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Lisinopril (20 mg once daily), atorvastatin (40 mg once daily)",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "There is a family history of heart disease, with his father having a myocardial infarction at the age of 55.",
+  "social_history": "The patient is married, unemployed, and lives with his wife. He does not smoke and denies any alcohol or illicit drug use."
+}
+```

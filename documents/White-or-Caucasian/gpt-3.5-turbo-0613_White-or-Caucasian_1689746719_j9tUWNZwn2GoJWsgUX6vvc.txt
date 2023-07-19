@@ -1,0 +1,21 @@
+{
+  "patient_name": "Niles Whitt",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Niles Whitt, a 45-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately one hour ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8 out of 10 in intensity. He denies any shortness of breath, diaphoresis, or nausea. He has a history of hypertension and hyperlipidemia. The patient's vital signs are stable and within normal limits. An EKG was performed, which showed ST-segment elevations in leads II, III, and aVF. Given the concern for acute myocardial infarction, the patient was started on aspirin and nitroglycerin. He was also placed on a cardiac monitor and an IV was established.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

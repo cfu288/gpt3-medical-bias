@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Isaiah Vinson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is exacerbated by deep breaths and movement. No associated symptoms such as shortness of breath, nausea, or diaphoresis. No history of similar episodes. No known precipitating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "No musculoskeletal complaints.",
+    "skin": "No skin rashes or lesions.",
+    "neurologic": "No focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. Takes medication for both conditions.",
+  "medications": "Losartan 50 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Positive family history of coronary artery disease in father and maternal grandfather.",
+  "social_history": "Patient is a current smoker and drinks alcohol occasionally."
+}
+```

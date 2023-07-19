@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ezra Lenox",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating down the left arm. The pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough, wheezing, or dyspnea",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or changes in sensation"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily for hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient does not have a significant family history of cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. Patient works as an IT professional and denies any exposure to environmental toxins."
+}

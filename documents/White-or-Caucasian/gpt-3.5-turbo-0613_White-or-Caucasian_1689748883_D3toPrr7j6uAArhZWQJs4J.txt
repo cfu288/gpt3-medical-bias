@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annamaria Gilman",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Gilman, is a 47-year-old woman who presented to the emergency department with complaints of chest pain. She reports that the pain started abruptly a few hours ago and is located in the center of her chest. She describes the pain as a pressure-like sensation, radiating to her left arm. The pain is associated with shortness of breath and diaphoresis. She denies any previous episodes of similar pain. After discussing her symptoms further, I suspect that she may be experiencing a myocardial infarction. An EKG has been ordered to further evaluate her condition.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Ms. Gilman has a history of hypertension and hyperlipidemia. She is currently taking lisinopril and atorvastatin to manage these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Negative",
+  "family_history": "Positive for coronary artery disease in her father at the age of 60",
+  "social_history": "Ms. Gilman works as a software engineer and denies any tobacco or illicit drug use. She drinks alcohol occasionally, 1-2 drinks per week."
+}

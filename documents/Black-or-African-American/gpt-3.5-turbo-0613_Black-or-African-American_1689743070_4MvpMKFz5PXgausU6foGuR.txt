@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shelton Bolden",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Shelton Bolden is a 45-year-old male who presents to the emergency department with complaints of chest pain. The pain is described as a tightness and pressure in the center of the chest, radiating down the left arm. The patient states that the pain started approximately 1 hour ago and has been constant since then. The pain is exacerbated by physical activity and relieved by rest. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He denies any past medical history of cardiac conditions or risk factors for heart disease. Upon arrival, the patient appeared uncomfortable and anxious. Vital signs were within normal limits, with a blood pressure of 120/80 mmHg and a heart rate of 80 beats per minute. A comprehensive physical examination was performed, which was unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain or changes in bowel habits",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pains or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or numbness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No family history of cardiac disease",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use"
+}

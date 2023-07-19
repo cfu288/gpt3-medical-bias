@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tal Webb",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of severe chest pain that started 2 hours ago. The pain is substernal and radiates to the left arm. The patient rates the pain as a 8/10 and describes it as crushing and squeezing. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or excessive physical exertion. EKG showed ST segment elevation in leads II, III, and aVF which is concerning for an acute inferoposterior myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient presents with chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin changes.",
+    "neurologic": "The patient does not have any neurologic symptoms such as headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril 10mg daily and Atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a smoker and consumes alcoholic beverages occasionally."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deon Simmons",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe chest pain. The pain started suddenly and is radiating to his left arm. He describes the pain as crushing and squeezing, and rates it as 9/10 in intensity. He denies any shortness of breath, dizziness, or nausea. The patient has a history of hypertension and takes medication for it regularly.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of palpitations and chest discomfort.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of pain in his left arm.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril for it.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction.",
+  "social_history": "The patient is a smoker with a 10-pack-year smoking history. He consumes alcohol occasionally."
+}

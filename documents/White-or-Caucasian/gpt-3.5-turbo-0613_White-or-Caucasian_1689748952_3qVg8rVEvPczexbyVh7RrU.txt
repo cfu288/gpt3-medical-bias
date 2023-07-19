@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andrey Carosella",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Andrey Carosella, a 42-year-old male, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about an hour ago and is described as a crushing, pressure-like sensation that radiates to the left shoulder and jaw. The patient rates the pain intensity as 9/10. He states that the pain is accompanied by shortness of breath, diaphoresis, and nausea. He denies any associated symptoms such as cough, fever, or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports no history of chest pain, palpitations, or dizziness.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or limitation of movement.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, visual changes, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia but is not currently taking any medications for these conditions.",
+  "medications": "The patient reports taking over-the-counter pain relievers occasionally for headaches.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of heart disease in both parents.",
+  "social_history": "The patient works as a software engineer and denies any tobacco or illicit drug use. He consumes alcohol occasionally in social settings."
+}

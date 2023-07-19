@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyman Perry",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Perry, is a 58-year-old male who presents to the emergency department with complaints of chest pain. He reports that the pain started about 2 hours ago and is localized to the center of his chest. He describes the pain as a squeezing sensation that radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction in his 60s.",
+  "social_history": "The patient is a smoker, with a 20-pack-year history. He denies alcohol or illicit drug use."
+}

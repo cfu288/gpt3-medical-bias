@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amy Campbell",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Campbell is a 40-year-old female who presents to the emergency department with complaints of acute onset chest pain. The pain started approximately 3 hours ago and is described as a sharp, stabbing sensation in the center of her chest. She rates the pain intensity as 8 out of 10. She denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain. There is no alleviating or aggravating factors noted. She denies any history of trauma or recent strenuous physical activity. On arrival, she appears anxious and in distress due to the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or lightheadedness.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is on amlodipine and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of coronary artery disease in her father.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She works as a nurse and is physically active."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernhard Martin",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bernhard Martin, a 57-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as a dull, squeezing sensation in the center of his chest that radiates down his left arm. He rates the pain as 8/10 in severity and states that it started approximately 2 hours ago. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He reports that the pain is constant and worsens with exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for pain radiating down left arm",
+    "skin": "Negative for rash or skin changes",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and obesity. He is on regular treatment with lisinopril and atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "medications": "Lisinopril 10 mg once daily and atorvastatin 20 mg once daily",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "The patient is a current smoker with a 30-pack-year history. He drinks alcohol occasionally but denies any illicit drug use."
+}

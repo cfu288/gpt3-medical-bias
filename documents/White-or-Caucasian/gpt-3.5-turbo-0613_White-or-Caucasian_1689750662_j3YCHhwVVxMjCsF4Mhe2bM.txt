@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kit Kessler",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of chest pain. Pain started approximately 2 hours ago while at rest. Patient describes the pain as squeezing and radiating to the left arm. No associated shortness of breath or diaphoresis noted. The pain is partially relieved with rest. No significant past medical history or risk factors for coronary artery disease. No recent travel or history of clotting disorders. Normal vital signs on arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or muscle weakness.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in speech or coordination."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies currently taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of heart disease or clotting disorders.",
+  "social_history": "Patient is a non-smoker and denies illicit drug use. Drinks alcohol occasionally and denies excessive caffeine intake."
+}
+```

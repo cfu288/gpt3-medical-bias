@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Althea Harris",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Althea Harris, a 53-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes a sudden onset of substernal chest pain that started approximately 2 hours ago. The pain is described as a squeezing or pressure-like sensation and radiates to her left arm. The pain is severe and has not improved with rest. She denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. She reports no prior episodes of similar chest pain. Upon further questioning, the patient mentions that she has a history of hypertension and hyperlipidemia. She takes metoprolol for her hypertension and atorvastatin for her hyperlipidemia. She denies any recent trauma or illness. She has not had any recent surgeries. She has a family history of coronary artery disease, with her father having suffered a heart attack at the age of 60. The patient is a nonsmoker and does not consume alcohol. She works as a receptionist and does not use recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies palpitations or edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or muscle weakness.",
+    "skin": "The patient denies rash, pruritus, or changes in moles.",
+    "neurologic": "The patient denies headache, dizziness, weakness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father with coronary artery disease",
+  "social_history": "Nonsmoker, does not consume alcohol, no history of recreational drug use, works as a receptionist"
+}
+```

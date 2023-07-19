@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Emilia Piccillo",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Piccillo is a 45-year-old female patient who presents to the emergency department with a complaint of chest pain. She reports that the pain started about two hours ago and is located in the center of her chest. The pain is sharp and worsens with deep breathing and movement. Ms. Piccillo denies any accompanying symptoms such as shortness of breath, nausea, or sweating. She has no previous history of chest pain or heart problems. She states that the pain is similar to the chest pain she experienced during a previous episode of pneumonia, for which she was treated two years ago. She was not diagnosed with any cardiac issues during that time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No palpitations or changes in heart rate",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency, urgency, or pain",
+    "musculoskeletal": "Chest pain is the only musculoskeletal symptom",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No dizziness or fainting episodes"
+  },
+  "past_medical_history": "Ms. Piccillo has a past medical history of pneumonia and no known cardiac issues.",
+  "medications": "Atorvastatin 20 mg daily for hyperlipidemia",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No family history of cardiac disease or sudden death",
+  "social_history": "Ms. Piccillo is a non-smoker and she does not consume alcohol. She works as a teacher and denies any recent stressors or significant changes in her lifestyle."
+}
+```

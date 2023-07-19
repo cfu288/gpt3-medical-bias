@@ -1,0 +1,21 @@
+{
+  "patient_name": "Grover Young",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived in the ED with complaints of chest pain. The pain started suddenly while the patient was at rest and has been ongoing for the past hour. The pain is described as a dull ache that radiates to the left arm and jaw. No alleviating or aggravating factors have been identified. The patient denies any shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint. Denies palpitations or edema.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or wounds.",
+    "neurologic": "No dizziness, syncope, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily for the management of hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "There is a positive family history of coronary artery disease in the patient's father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. Patient works as a software engineer and leads a sedentary lifestyle."
+}

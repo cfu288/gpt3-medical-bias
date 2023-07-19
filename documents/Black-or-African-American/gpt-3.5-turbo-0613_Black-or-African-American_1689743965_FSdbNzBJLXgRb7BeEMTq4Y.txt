@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harriet Fletcher",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a sharp, stabbing sensation located in the center of the chest. The pain is 9/10 in intensity and radiates to the left arm. The patient denies any shortness of breath, nausea, or diaphoresis. The pain does not worsen with exertion and is not relieved by rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Patient complains of chest pain as described above.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at age 55.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

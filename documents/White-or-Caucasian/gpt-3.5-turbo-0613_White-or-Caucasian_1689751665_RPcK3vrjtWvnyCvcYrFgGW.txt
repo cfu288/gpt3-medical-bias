@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmund Harris",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of chest pain. The pain began approximately two hours ago and is described as a sharp, squeezing sensation in the center of the chest. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath. No cough or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and smoking.",
+  "medications": "The patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction.",
+  "social_history": "The patient is a current smoker, with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

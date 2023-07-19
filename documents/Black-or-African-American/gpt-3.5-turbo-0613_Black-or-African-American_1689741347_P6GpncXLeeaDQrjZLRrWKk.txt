@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jones, presented to the emergency department with a complaint of chest pain. He reports that the pain began suddenly earlier this evening while he was at home. He describes the pain as a sharp, stabbing sensation that is localized to the left side of his chest. He denies any radiation of the pain or associated symptoms such as shortness of breath, dizziness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, changes in moles, or wounds.",
+    "neurologic": "The patient denies any headaches, vision changes, or focal weakness or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's father has a history of myocardial infarction at age 50. The patient's mother and siblings have no significant medical history.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. He works as a software engineer and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laureen Smith",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Laureen Smith, a 42-year-old female, presented to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of her chest, radiating to her left shoulder and arm. The pain started approximately 30 minutes ago and has been constant since then. She rates the pain intensity as 8 out of 10. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that she has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain is the only cardiovascular symptom reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension managed with medication.",
+  "medications": "The patient currently takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient does not smoke and does not consume alcohol."
+}

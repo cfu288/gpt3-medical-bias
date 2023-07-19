@@ -1,0 +1,21 @@
+{
+  "patient_name": "Francois Alexander",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Francois Alexander, a 42-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is exacerbated with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, dizziness, or sweating.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes, lesions, or itching",
+    "neurologic": "No headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes amlodipine 5mg daily. He reports compliance with his medication.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. There is no history of other significant cardiovascular disease in the family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and is married with two children."
+}

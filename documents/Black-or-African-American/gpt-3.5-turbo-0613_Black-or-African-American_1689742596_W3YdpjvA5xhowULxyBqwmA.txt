@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georgette Johnson",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. She described the pain as a tightness and pressure in her chest that started approximately 2 hours ago. The pain is constant and worsens with deep breaths. She denies any radiation of the pain. Upon further questioning, she reports associated symptoms of shortness of breath, diaphoresis, and lightheadedness. She denies any recent trauma or exertion. She has a past medical history of hypertension and high cholesterol. She has no known allergies. She denies any recent changes in medications or lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath as described above.",
+    "respiratory": "Patient denies cough, sputum production, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient denies headache, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, high cholesterol.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily.",
+  "past_surgical_history": "None.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use. Works as an office manager."
+}

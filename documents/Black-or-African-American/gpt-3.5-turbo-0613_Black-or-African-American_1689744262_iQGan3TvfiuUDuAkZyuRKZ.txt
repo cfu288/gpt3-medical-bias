@@ -1,0 +1,21 @@
+{
+  "patient_name": "Howard Stanley",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain",
+    "respiratory": "Patient reports shortness of breath",
+    "gi": "No GI symptoms reported",
+    "gu": "No genitourinary symptoms reported",
+    "musculoskeletal": "No musculoskeletal symptoms reported",
+    "skin": "No skin symptoms reported",
+    "neurologic": "No neurologic symptoms reported"
+  },
+  "past_medical_history": "Patient has a history of hypertension",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "No past surgical history reported",
+  "family_history": "No family history of cardiac disease",
+  "social_history": "Patient denies tobacco, alcohol, or drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Guy Edwards",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Guy Edwards, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about one hour ago and is described as a pressure-like sensation across the chest. The patient rates the pain as a 7 out of 10 in intensity. The pain radiates to the left arm. The patient denies any shortness of breath, palpitations, or diaphoresis. He has no known history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "Apart from the chest pain, the patient denies any palpitations or lightheadedness.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "Apart from the pain in the left arm, the patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no significant family history of heart disease or other major medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer."
+}

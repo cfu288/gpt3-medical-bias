@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamal Goins",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Goins presents to the emergency department with complaints of chest pain. He rates the pain as 7/10, describing it as a pressure-like sensation that radiates to his left arm. The pain started approximately 2 hours ago while he was at rest. He denies any shortness of breath, diaphoresis, or palpitations. On further questioning, he admits to a previous history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any previous history of angina, myocardial infarction, or arrhythmias. He has not had any recent episodes of palpitations or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling, muscle weakness, or limitations in mobility.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination or sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes amlodipine 5mg daily.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

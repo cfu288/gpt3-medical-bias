@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Debrah Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She describes the pain as a crushing pressure in her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been persistent. She denies any shortness of breath, nausea, or diaphoresis. She has a history of hypertension and is on medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No muscle or joint pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with hypertension, father with diabetes",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

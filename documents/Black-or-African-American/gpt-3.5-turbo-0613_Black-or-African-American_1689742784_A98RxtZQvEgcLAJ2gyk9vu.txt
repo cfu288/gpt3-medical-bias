@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dinah Stephens",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency room with complaints of sudden onset chest pain. The pain started 30 minutes ago and is described as a sharp, stabbing sensation that radiates to the left arm. The patient denies any associated shortness of breath, dizziness, or diaphoresis. No relieving or exacerbating factors have been identified. ",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No changes in vision or sensation"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin on a daily basis.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of heart disease or other significant illnesses",
+  "social_history": "Patient is a non-smoker. Denies alcohol or illicit drug use. Works as a teacher."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barron Smith",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with chief complaint of chest pain. Pain started approximately 1 hour ago while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. Patient denies any associated shortness of breath, diaphoresis, or nausea. Past medical history is significant for hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as mentioned in chief complaint.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary complaints.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies tobacco use. Social drinker, consuming alcohol occasionally."
+}

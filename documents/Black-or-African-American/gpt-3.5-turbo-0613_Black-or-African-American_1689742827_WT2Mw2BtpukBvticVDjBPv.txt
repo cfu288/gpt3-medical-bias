@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lawanda Pierce",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Lawanda Pierce, a 55-year-old female, presents to the emergency department with complaints of chest pain. The pain started about 2 hours ago and is described as a crushing, substernal pain that radiates to the left arm. The pain is associated with shortness of breath and diaphoresis. She denies any recent trauma or injury. The patient states that she has a history of hypertension and hyperlipidemia and takes medications for these conditions. She also has a family history of heart disease. She denies any recent illnesses or changes in medications. Upon arrival, the patient was tachycardic with a heart rate of 110 beats per minute. The initial EKG showed ST segment elevation in leads II, III, and aVF, consistent with an acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Denies cough or difficulty breathing at rest.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any rashes or skin lesions.",
+    "neurologic": "Denies any headaches or dizziness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg, Atorvastatin 20mg",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "Mother with history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

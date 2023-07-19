@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Graham Norton",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe, sharp chest pain that started approximately two hours ago. The pain is located in the center of the chest and radiates to the left arm. Patient reports associated symptoms of shortness of breath, sweating, and nausea. The pain is not relieved with rest and is described as a 9/10 in severity. No previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, but no palpitations or syncope.",
+    "respiratory": "Shortness of breath is present.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiovascular diseases.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}
+```

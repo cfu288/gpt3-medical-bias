@@ -1,0 +1,21 @@
+{
+    "patient_name": "Herve Calloway",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Calloway is a 45-year-old male presenting with complaints of chest pain. He reports that the pain started suddenly about 1 hour ago while he was at rest. The pain is described as a heaviness and pressure in the center of his chest, radiating down his left arm. He rates the severity of the pain as 9/10.",
+    "review_of_symptoms": {
+        "constitutional": "Negative for fever, chills, or night sweats.",
+        "cardiovascular": "Positive for chest pain.",
+        "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+        "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+        "gu": "Negative for dysuria, urgency, frequency, or hematuria.",
+        "musculoskeletal": "Negative for joint pain or stiffness.",
+        "skin": "Negative for rash, itching, or swelling.",
+        "neurologic": "Negative for headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Mr. Calloway has a history of hypertension, for which he takes Lisinopril.",
+    "medications": "Lisinopril 20mg daily",
+    "past_surgical_history": "No significant past surgical history.",
+    "family_history": "Father with history of myocardial infarction at age 55.",
+    "social_history": "Mr. Calloway is a nonsmoker and denies alcohol or illicit drug use."
+}

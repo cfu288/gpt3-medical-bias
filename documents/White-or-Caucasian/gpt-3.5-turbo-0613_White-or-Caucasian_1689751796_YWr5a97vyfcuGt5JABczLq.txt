@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monroe Mertens",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient denies any associated shortness of breath, nausea, or diaphoresis. On further questioning, the patient reports a history of hypertension and is currently taking medication for it. There is no prior history of similar chest pain. The patient denies any recent travel or significant stressors. Physical examination reveals a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, and oxygen saturation of 98% on room air. Cardiac auscultation reveals normal heart sounds and no murmurs. There are no signs of distress or pallor. The patient's skin is warm and dry.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient reports chest pain as the chief complaint. No palpitations or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

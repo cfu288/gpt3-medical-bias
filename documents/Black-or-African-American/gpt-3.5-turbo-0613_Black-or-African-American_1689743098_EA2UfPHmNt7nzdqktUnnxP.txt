@@ -1,0 +1,21 @@
+{
+  "patient_name": "Renita Thomas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 30 minutes ago while the patient was resting at home. The pain is described as a crushing sensation and radiates to the left arm. The patient also reports shortness of breath and sweating. The patient has no known history of heart disease or other cardiac conditions. The pain has not improved with rest and over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss",
+    "cardiovascular": "Reports chest pain, shortness of breath, palpitations",
+    "respiratory": "Denies cough, wheezing, difficulty breathing",
+    "gi": "Denies nausea, vomiting, abdominal pain",
+    "gu": "Denies urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rashes, lesions, itching",
+    "neurologic": "Denies headache, dizziness, weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin as prescribed.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "Father had a myocardial infarction at age 50.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}

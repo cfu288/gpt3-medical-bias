@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katharine Quick",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started suddenly 2 hours ago. Patient describes the pain as a squeezing sensation in the center of the chest that radiates to the left arm and jaw. She rates the pain as 8 out of 10 in intensity. The pain is associated with shortness of breath and sweating. The patient denies any recent trauma, but reports a history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and night sweats.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, and shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for dysuria and hematuria.",
+    "musculoskeletal": "Negative for joint pain and muscle weakness.",
+    "skin": "Negative for rash and lesions.",
+    "neurologic": "Negative for headache, dizziness, and numbness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and takes daily medication for it.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Negative for any past surgeries.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father who had a myocardial infarction at the age of 55.",
+  "social_history": "Patient is a non-smoker and denies alcohol and illicit drug use. She works as an office manager and is married with two children."
+}

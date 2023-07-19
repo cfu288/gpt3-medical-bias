@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carleton Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Carleton Jones, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started 2 hours ago and is located in the center of his chest. He describes the pain as a burning sensation that radiates to his left arm. He rates the pain as a 7 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as presenting complaint. Denies palpitations or lightheadedness.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain as presenting complaint. No joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or skin discoloration.",
+    "neurologic": "Denies headache, dizziness, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes Amlodipine 10mg daily and Atorvastatin 20mg daily for these conditions.",
+  "medications": "Amlodipine 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction at age 55. No other significant family history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse. He works as an accountant and reports low stress levels."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Bell",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Major Bell, a 52-year-old male, presents to the emergency department with complaints of acute onset chest pain. The patient describes the pain as a pressure-like sensation in the center of his chest that radiates to his left arm. He rates the severity of the pain as 8 out of 10 and states that it started approximately 2 hours ago. He denies any associated shortness of breath, dizziness, nausea, or diaphoresis. The pain is not relieved with rest and is worsened with exertion. On further questioning, the patient reports a history of hypertension, hyperlipidemia, and a previous myocardial infarction 5 years ago. He takes metoprolol and atorvastatin daily for these conditions. The patient denies any recent changes in his medications or non-compliance. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to his chest pain, the patient denies any palpitations or known heart murmurs.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and a previous myocardial infarction.",
+  "medications": "The patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of heart disease, with his father having a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}

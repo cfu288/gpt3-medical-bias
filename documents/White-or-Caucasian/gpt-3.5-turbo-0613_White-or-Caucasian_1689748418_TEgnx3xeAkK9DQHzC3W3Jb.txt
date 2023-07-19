@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Moira Thompson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Moira Thompson, a 45-year-old female, presented to the emergency department with complaints of severe chest pain. She reports that the pain started suddenly approximately 2 hours ago while she was at home. The pain is described as a crushing sensation and is radiating to her left arm. She rates the pain as 8 out of 10 and states that it has not subsided since onset. She denies any shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "She reports chest pain as described above but denies any palpitations or leg swelling.",
+    "respiratory": "She denies any cough, shortness of breath, or wheezing.",
+    "gi": "She denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "She denies any joint pain or stiffness.",
+    "skin": "No rashes, lesions, or changes in the skin are reported by the patient.",
+    "neurologic": "The patient does not complain of any headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and hyperlipidemia. She is taking Lisinopril 10 mg daily and Atorvastatin 40 mg daily.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "There is no history of any surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 60. Her mother is alive and has no significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an accountant and leads a sedentary lifestyle."
+}
+```

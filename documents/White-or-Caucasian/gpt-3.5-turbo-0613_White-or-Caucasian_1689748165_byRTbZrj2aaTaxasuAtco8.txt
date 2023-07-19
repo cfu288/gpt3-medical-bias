@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dimitri Jones",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dimitri Jones, a 47-year-old male, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest, radiating down the left arm. The patient rates the pain as 8 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for radiating pain down the left arm.",
+    "skin": "Negative for skin rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "There is a family history of coronary artery disease in the patient's father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

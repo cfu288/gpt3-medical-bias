@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mariya Bosio",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Mariya Bosio presented to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is constant and does not radiate to any other part of the body. The patient rates the pain as 9/10 on the pain scale. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient mentioned that she has a history of asthma and had an episode of chest pain in the past, which was diagnosed as musculoskeletal in nature. She also mentioned that she started a new exercise routine recently.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or lightheadedness.",
+    "respiratory": "Positive for mild shortness of breath on exertion.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed for asthma symptoms",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "The patient is a non-smoker. She denies any alcohol or illicit drug use. She works as a computer programmer and does not have any significant occupational exposures."
+}

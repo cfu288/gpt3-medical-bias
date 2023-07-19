@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Arline Riddle",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Arline Riddle, a 56-year-old female, presented to the emergency department with complaints of chest pain. She described the pain as a squeezing sensation in the middle of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. She rates the pain as 8 out of 10 in intensity. The patient denies any associated shortness of breath, diaphoresis, or nausea. She has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Chest pain, denies palpitations or irregular heart beats",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joao Hill",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Joao Hill, a 55-year-old male, presented to the emergency department with complaints of chest pain. The pain started suddenly and is described as a crushing and squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the intensity of the pain as 8 out of 10. He also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, and vomiting",
+    "gu": "Negative for dysuria and hematuria",
+    "musculoskeletal": "Negative for joint pain and swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily for his hypertension and hypercholesterolemia, respectively.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pattie Jones",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaint of chest pain for 1 hour. Patient describes the pain as a squeezing sensation in the middle of his chest. Pain radiates to the left arm and is associated with shortness of breath and diaphoresis. No relieving factors reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss reported.",
+    "cardiovascular": "Patient reports chest pain as described in the history of present illness.",
+    "respiratory": "Patient reports shortness of breath associated with the chest pain.",
+    "gi": "No abdominal pain, nausea, or vomiting reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rash or skin changes reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Patient reports no family history of heart disease.",
+  "social_history": "Patient denies smoking or alcohol use. Patient works as a teacher."
+}

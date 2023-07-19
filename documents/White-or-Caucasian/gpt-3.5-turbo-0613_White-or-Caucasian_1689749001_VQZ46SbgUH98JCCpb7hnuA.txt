@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarrett Driver",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden-onset severe chest pain. Pain is described as a crushing sensation and radiates to the left arm. Patient denies any other associated symptoms such as shortness of breath or lightheadedness. Pain started approximately 1 hour ago and has persisted since then. Patient states that the pain is not relieved with rest or change in position.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or night sweats",
+    "cardiovascular": "Chest pain is the only cardiovascular symptom",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "No gastrointestinal symptoms",
+    "gu": "No genitourinary symptoms",
+    "musculoskeletal": "Pain is localized to the chest and left arm",
+    "skin": "No skin changes or rashes",
+    "neurologic": "No neurological symptoms such as headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes atorvastatin 20mg daily for hyperlipidemia",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a non-smoker and denies any history of illicit drug use"
+}

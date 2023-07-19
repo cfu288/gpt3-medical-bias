@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antoine Gatlin",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Antoine Gatlin, a 35-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started about 2 hours ago and is described as a sharp, stabbing sensation in the center of his chest. He rates the pain as 8 out of 10 in severity and says it radiates to his left arm. The pain is associated with shortness of breath. The patient denies any previous episodes of chest pain or heart-related problems. He states that he has been feeling stressed lately due to work.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any cardiovascular or genetic disorders.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as a software engineer and reports high stress levels at work."
+}

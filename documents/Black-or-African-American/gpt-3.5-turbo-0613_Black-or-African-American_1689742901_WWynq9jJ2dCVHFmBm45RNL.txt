@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arlyn Cooper",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started suddenly about an hour ago. The pain is described as a sharp, squeezing sensation in the center of the chest, radiating down the left arm. Patient also reports shortness of breath and diaphoresis. No previous history of chest pain or cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, sweats",
+    "cardiovascular": "Reports chest pain, shortness of breath, diaphoresis",
+    "respiratory": "Denies cough, wheezing, shortness of breath at rest",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Denies dysuria, frequency, urgency",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching, lesions",
+    "neurologic": "No dizziness, syncope, focal weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which she takes losartan 50mg daily. No other significant past medical history.",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Patient is a non-smoker, drinks alcohol occasionally"
+}

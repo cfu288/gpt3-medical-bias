@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gia Brown",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with a chief complaint of chest pain. Patient reports that the pain started this morning and is a sharp, stabbing pain located in the center of the chest. The pain is associated with shortness of breath and sweating. Patient denies any radiation of the pain or any alleviating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills or unintentional weight loss.",
+    "cardiovascular": "Patient reports occasional palpitations but denies chest pain, orthopnea, or paroxysmal nocturnal dyspnea.",
+    "respiratory": "Patient denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or muscle weakness.",
+    "skin": "Patient denies any rash, itching, or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and asthma.",
+  "medications": "Patient takes lisinopril and albuterol for her hypertension and asthma, respectively.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension in her mother and father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

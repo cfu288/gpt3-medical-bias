@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Herron",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Herron presents to the emergency department today with complaints of chest pain that started about an hour ago. He describes the pain as a dull, achy sensation in the center of his chest. He rates the severity of the pain as 8 out of 10. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. He denies any preceding trauma or exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Mr. Herron has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "He takes Lisinopril and Atorvastatin daily.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "His father had a history of myocardial infarction at the age of 65.",
+  "social_history": "Mr. Herron is a current smoker and reports drinking alcohol occasionally."
+}

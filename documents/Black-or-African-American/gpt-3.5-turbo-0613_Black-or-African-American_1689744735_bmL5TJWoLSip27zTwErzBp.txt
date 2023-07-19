@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zack Davis",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain started abruptly while the patient was at rest. The pain is described as a crushing, pressure-like sensation that radiates to the left arm. The patient reports associated shortness of breath and diaphoresis. There is no relief with rest or position change. Onset of symptoms was approximately 30 minutes ago. No known precipitating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest discomfort",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for syncope or seizures"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Patient has no history of prior surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at age 55.",
+  "social_history": "Patient is a current smoker with a 10-pack-year smoking history."
+}

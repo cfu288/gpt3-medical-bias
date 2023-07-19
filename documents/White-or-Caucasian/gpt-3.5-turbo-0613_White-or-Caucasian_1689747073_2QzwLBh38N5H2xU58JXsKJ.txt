@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elijah Sattler",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Sattler presents to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. He describes the pain as a squeezing sensation in his chest that radiates to his left arm. He rates the pain as 8 out of 10 and states that it has not improved with rest. He denies any associated shortness of breath, nausea, or vomiting. He has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports chest pain. Denies palpitations or edema.",
+    "respiratory": "Denies shortness of breath, cough, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies urinary urgency, frequency, dysuria, or hematuria.",
+    "musculoskeletal": "Reports chest pain. Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Mr. Sattler has a history of hypertension and hyperlipidemia. He is currently on lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "medications": "Lisinopril (20 mg daily), Atorvastatin (40 mg daily)",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Mr. Sattler is a non-smoker and does not consume alcohol. He works as a software engineer and denies any illicit drug use."
+}

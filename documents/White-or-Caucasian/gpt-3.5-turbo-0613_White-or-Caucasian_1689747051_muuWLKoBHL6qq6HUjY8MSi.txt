@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willa Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Willa Brown presents with complaints of severe chest pain that started approximately an hour ago. She describes the pain as crushing, radiating to the left arm, and associated with shortness of breath. The pain is not relieved with rest and is accompanied by diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or sputum production",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No dysuria or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itchiness",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is currently on antihypertensive and lipid-lowering medications.",
+  "medications": "Antihypertensive: Lisinopril 10mg daily\nLipid-lowering: Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had a myocardial infarction at age 50",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She is married and works as a school teacher."
+}

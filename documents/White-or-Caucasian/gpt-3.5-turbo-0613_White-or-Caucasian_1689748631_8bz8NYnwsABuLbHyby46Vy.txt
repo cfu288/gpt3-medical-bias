@@ -1,0 +1,21 @@
+{
+  "patient_name": "Meghann Johnson",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started about 1 hour ago. She describes the pain as a tight, squeezing sensation in the center of her chest, which radiates to her left arm. She also reports experiencing shortness of breath and nausea. She denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "Nausea",
+    "gu": "None",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes losartan for blood pressure management and atorvastatin for cholesterol control.",
+  "medications": "Losartan 50mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for heart disease, diabetes, and cancer",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

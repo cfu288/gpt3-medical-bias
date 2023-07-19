@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josie Smith",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Josie Smith, a 34-year-old female, presents to the Emergency Department with complaints of chest pain. She reports that the pain started suddenly about 2 hours ago and is a sharp, stabbing pain located in the center of her chest. The pain is worsened with deep breaths and movement. She denies any associated shortness of breath, cough, or fever. She states that she has never experienced this type of pain before and is concerned about a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Negative for rash or wound",
+    "neurologic": "Negative for headache, dizziness, or syncope"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of heart disease or other cardiac conditions.",
+  "social_history": "The patient denies tobacco use, alcohol use, or illicit drug use. She is married and works as a teacher."
+}

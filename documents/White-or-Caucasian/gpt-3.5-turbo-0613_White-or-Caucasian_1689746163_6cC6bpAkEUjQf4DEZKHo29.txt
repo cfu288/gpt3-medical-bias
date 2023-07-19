@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Retha Anderson",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Retha Anderson, a 52-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing or pressure-like sensation in the center of her chest. The pain started approximately 1 hour ago and is radiating down her left arm. She rates the pain as 7 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The pain is exacerbated by exertion and relieved with rest. She reports no previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and simvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}
+```

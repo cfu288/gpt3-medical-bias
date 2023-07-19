@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daron Robinson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain is described as a dull ache that radiates to the left arm. Patient states that the pain started approximately 2 hours ago and has been constant since then. Denies any shortness of breath or dizziness. Denies any previous history of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports left arm pain as a musculoskeletal symptom.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "Patient denies any numbness or tingling."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, managed with medication. No other significant past medical history reported.",
+  "medications": "Patient currently takes Lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "No significant family history of heart disease or other chronic conditions reported.",
+  "social_history": "Patient is a non-smoker. Denies any alcohol or recreational drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Simmons",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started 1 hour ago. The pain is described as a crushing sensation in the center of his chest, radiating to his left arm. Patient also reports shortness of breath and diaphoresis. His pain is not relieved with rest. Patient denies any previous episodes or similar symptoms in the past. No known history of cardiac disease or risk factors.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath and difficulty breathing.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports pain in his left arm.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "No known significant past medical history.",
+  "medications": "Patient reports taking over-the-counter pain medication occasionally for headaches.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No known significant family history.",
+  "social_history": "Patient denies tobacco or alcohol use. Works as an office manager and is married with two children."
+}

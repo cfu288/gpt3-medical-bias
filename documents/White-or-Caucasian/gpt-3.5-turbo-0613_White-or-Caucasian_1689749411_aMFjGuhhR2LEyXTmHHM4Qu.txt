@@ -1,0 +1,29 @@
+{
+  "patient_name": "Gareth Mascitelli",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Gareth Mascitelli, a 42-year-old male, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago while he was resting at home. He describes the pain as a crushing sensation in his chest that radiates to his left arm. He rates the pain as 9 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis.
+
+Mr. Mascitelli has no significant past medical history and denies any previous episodes of chest pain. He is not currently on any medications and has not undergone any recent surgeries. His family history is unremarkable for cardiovascular diseases. Regarding social history, he is a non-smoker and denies any alcohol or illicit drug use.
+
+On review of symptoms, he denies any constitutional symptoms such as fever, fatigue, or weight loss. He has no respiratory symptoms, gastrointestinal complaints, genitourinary symptoms, musculoskeletal complaints, skin abnormalities, or neurological deficits.
+
+Given the acuity and severity of the chest pain, the possibility of acute coronary syndrome needs to be considered. Prompt evaluation and management are necessary to rule out a myocardial infarction or other cardiac etiologies. Immediate ECG and cardiac enzyme testing will be performed. Analgesic medications will also be administered to relieve his pain.
+
+Disposition will depend on the results of his evaluation. If the ECG and cardiac enzymes are normal, he may be discharged with appropriate follow-up. If the tests suggest an acute myocardial infarction or other cardiac pathology, he may require admission for further management.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, fatigue, or weight loss",
+    "cardiovascular": "Presents with chest pain radiating to left arm",
+    "respiratory": "Denies shortness of breath",
+    "gi": "Denies gastrointestinal complaints",
+    "gu": "Denies genitourinary symptoms",
+    "musculoskeletal": "Denies musculoskeletal complaints",
+    "skin": "Denies skin abnormalities",
+    "neurologic": "Denies neurological deficits"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not currently on any medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Unremarkable for cardiovascular diseases",
+  "social_history": "Non-smoker, denies alcohol or illicit drug use"
+}

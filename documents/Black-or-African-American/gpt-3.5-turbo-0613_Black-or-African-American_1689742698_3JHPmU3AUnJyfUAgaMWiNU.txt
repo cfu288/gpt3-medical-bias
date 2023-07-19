@@ -1,0 +1,21 @@
+{
+    "patient_name": "Calvin Jefferson",
+    "age": "47",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Jefferson is a 47-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in his chest, which started approximately 2 hours ago. The pain radiates to his left arm. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He reports no recent trauma or injury that could account for his symptoms.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, weight loss, or night sweats.",
+        "cardiovascular": "Positive for chest pain as described above.",
+        "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+        "gi": "Negative for abdominal pain, nausea, or vomiting.",
+        "gu": "Negative for dysuria or hematuria.",
+        "musculoskeletal": "Negative for joint pain or swelling.",
+        "skin": "Negative for rashes or lesions.",
+        "neurologic": "Negative for headaches or changes to vision."
+    },
+    "past_medical_history": "Mr. Jefferson has a history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin daily.",
+    "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+    "past_surgical_history": "No significant past surgical history.",
+    "family_history": "Father had a myocardial infarction at age 55.",
+    "social_history": "Mr. Jefferson is a non-smoker and denies any alcohol or illicit drug use."
+}

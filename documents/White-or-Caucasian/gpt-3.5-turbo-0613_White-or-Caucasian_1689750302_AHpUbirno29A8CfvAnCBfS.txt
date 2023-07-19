@@ -1,0 +1,21 @@
+{
+    "patient_name": "Florian Gremer",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Mr. Gremer presented to the emergency department with complaints of sudden onset of severe chest pain. He described the pain as a crushing sensation that radiates to his left arm. He also reports shortness of breath and dizziness. He denies any previous episodes of similar chest pain. Physical examination revealed elevated blood pressure and heart rate. Given the concern for a possible cardiac event, an EKG was ordered.",
+    "review_of_symptoms": {
+        "constitutional": "Negative for fever, chills, weight loss, or fatigue",
+        "cardiovascular": "Positive for chest pain, shortness of breath, and dizziness",
+        "respiratory": "Negative for cough, sputum production, or wheezing",
+        "gi": "Negative for nausea, vomiting, or abdominal pain",
+        "gu": "Negative for dysuria, frequency, or hematuria",
+        "musculoskeletal": "Negative for joint pain or swelling",
+        "skin": "Negative for rashes or lesions",
+        "neurologic": "Negative for headache or focal deficits"
+    },
+    "past_medical_history": "Mr. Gremer has a history of hypertension, controlled with medication.",
+    "medications": "Enalapril 10mg daily",
+    "past_surgical_history": "Negative for any previous surgeries",
+    "family_history": "Positive for cardiovascular disease in his father at age 58",
+    "social_history": "Currently employed as an accountant. Denies tobacco, alcohol, or illicit drug use."
+}

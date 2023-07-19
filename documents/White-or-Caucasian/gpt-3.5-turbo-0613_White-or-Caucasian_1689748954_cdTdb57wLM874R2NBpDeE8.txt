@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aimee Cavendish",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating down her left arm. The pain started approximately 1 hour ago while she was at rest. She denies any associated shortness of breath, diaphoresis, or nausea. She has no previous history of similar symptoms. Given the potential for cardiac etiology, further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Patient denies tobacco use. She drinks alcohol socially but does not use recreational drugs."
+}

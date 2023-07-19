@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Essie Paige",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sharp chest pain that started an hour ago. Patient states the pain is located in the center of the chest and radiates to the left arm. The pain is described as squeezing and is associated with shortness of breath and dizziness. Patient denies any previous episodes of chest pain. Onset of pain was sudden and occurred while at rest. Physical examination revealed stable vital signs and no signs of respiratory distress. EKG showed ST-segment elevation in leads II, III, and aVF. Based on the clinical presentation and EKG findings, a diagnosis of acute coronary syndrome is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or changes in the skin",
+    "neurologic": "No headaches, weakness, or change in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Patient is not currently taking any medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient denies tobacco use, alcohol use, or illicit drug use"
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Mahmoud Cooper",
+    "age": "45",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient reports the pain started suddenly while he was at rest and describes it as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He also reports feeling extremely anxious and sweaty. The patient denies any history of similar symptoms in the past. On further questioning, the patient reports risk factors for coronary artery disease, including a family history of heart disease and a sedentary lifestyle. The patient does not smoke and denies any drug use or recent trauma.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies fever, chills, and weight loss.",
+        "cardiovascular": "In addition to the chest pain, the patient denies palpitations or edema.",
+        "respiratory": "The patient denies dyspnea, cough, or wheezing.",
+        "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+        "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+        "musculoskeletal": "The patient denies any joint pain or swelling.",
+        "skin": "The patient denies any rashes, lesions, or changes in pigmentation.",
+        "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+    "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+    "past_surgical_history": "The patient has no history of any surgical procedures.",
+    "family_history": "The patient's father had a myocardial infarction at the age of 55. The patient has no other significant family history.",
+    "social_history": "The patient works as a software engineer and leads a sedentary lifestyle. He denies smoking, alcohol use, or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gregg Johnson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Johnson presents to the emergency department with complaints of severe chest pain. The pain started suddenly and is described as a crushing sensation radiating to his left arm. He also reports shortness of breath and sweating. The pain began approximately 1 hour ago and has been constant since then. There are no alleviating or aggravating factors. Based on the initial assessment, a possible myocardial infarction is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria, frequency, or urgency",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling",
+    "skin": "Denies rash, itching, or skin changes",
+    "neurologic": "Denies headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Mr. Johnson has a history of hypertension and hyperlipidemia.",
+  "medications": "Currently taking lisinopril and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "None",
+  "family_history": "Positive for coronary artery disease in his father at the age of 65",
+  "social_history": "Mr. Johnson is a smoker and consumes alcohol occasionally."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Margo Hunt",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Margo Hunt, a 56-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. The pain started 2 hours ago and has been constant since then. It is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar pain. She currently rates the pain as 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "Shortness of breath associated with chest pain.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or confusion."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia. She is on medications for both conditions.",
+  "medications": "The patient takes Lisinopril 20mg daily for hypertension and Atorvastatin 40mg daily for dyslipidemia.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is a family history of coronary artery disease in the patient's father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

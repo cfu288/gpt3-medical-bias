@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latonya Mccaster",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Latonya Mccaster, is a 42-year-old female presenting to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is located in the center of her chest. She describes it as a sharp and squeezing sensation that radiates to her left arm. The pain is intermittent and worsens with deep breathing. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no significant medical history and no known cardiac risk factors. The patient is otherwise healthy and denies any recent significant stressors or physical exertion. She came to the emergency department out of concerns for a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or peripheral edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient does not smoke and denies any alcohol or illicit drug use."
+}
+```

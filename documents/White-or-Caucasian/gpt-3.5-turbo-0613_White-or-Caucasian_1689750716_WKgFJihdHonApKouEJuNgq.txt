@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vanessa Bronaugh",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Vanessa Bronaugh, a 37-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started about two hours ago and is located in the center of her chest. The pain is described as a sharp, constant, and radiating to her left arm. The pain is rated 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest discomfort.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for hypertension in her father and sister. Negative for heart disease or stroke.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use."
+}
+```

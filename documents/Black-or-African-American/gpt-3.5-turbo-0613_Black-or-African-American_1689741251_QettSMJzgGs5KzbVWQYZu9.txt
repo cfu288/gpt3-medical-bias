@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sterling Coverson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department complaining of sudden onset of sharp chest pain, radiating to the left arm. Pain rated 8/10 and accompanied by shortness of breath. Patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient reports chest pain but denies palpitations or syncope.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle pain.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches or neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

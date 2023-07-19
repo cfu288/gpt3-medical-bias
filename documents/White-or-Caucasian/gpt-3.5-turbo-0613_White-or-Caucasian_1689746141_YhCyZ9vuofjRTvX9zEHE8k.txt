@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daniel Rall",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Rall, is a 45-year-old male presenting to the emergency department with complaints of chest pain. He reports that the pain began approximately 2 hours ago and is located in the center of his chest. The pain is described as a squeezing, pressure-like sensation and is radiating to his left arm. He rates the intensity of the pain as 8/10. The pain is not alleviated by rest and is associated with shortness of breath. He denies any other associated symptoms such as nausea, vomiting, diaphoresis, or lightheadedness. He has no history of similar symptoms or cardiac conditions. Mr. Rall states that he has a family history of coronary artery disease in his father.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or irregular heartbeats.",
+    "respiratory": "Positive for shortness of breath associated with chest pain. Negative for cough or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, pruritus, or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for coronary artery disease in the patient's father.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}

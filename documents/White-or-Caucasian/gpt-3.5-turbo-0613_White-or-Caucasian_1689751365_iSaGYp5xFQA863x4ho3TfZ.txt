@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roslyn Higgins",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. She described the pain as a squeezing sensation in the middle of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. She also reports shortness of breath and diaphoresis. She denies any associated symptoms such as nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss",
+    "cardiovascular": "Patient reports chest pain and shortness of breath",
+    "respiratory": "Patient reports shortness of breath",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting",
+    "gu": "Patient denies urinary symptoms",
+    "musculoskeletal": "Patient reports pain in left arm",
+    "skin": "Patient denies any skin changes or rashes",
+    "neurologic": "Patient denies any neurological symptoms such as headache or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and atorvastatin",
+  "past_surgical_history": "Patient has no previous surgeries",
+  "family_history": "Patient denies any significant family history of cardiovascular disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use"
+}

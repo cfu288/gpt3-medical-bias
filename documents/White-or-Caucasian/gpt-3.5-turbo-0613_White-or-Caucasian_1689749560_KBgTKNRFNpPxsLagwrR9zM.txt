@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georgi Parks",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Georgi Parks, a 42-year-old female, presents to the emergency department with complaints of severe chest pain. The pain started approximately 3 hours ago and is described as a crushing pressure in the center of the chest. She rates the pain as 8 out of 10 in severity and states that it radiates to her left arm. She has associated shortness of breath and diaphoresis. She denies any previous episodes. On further questioning, she reports a history of smoking and a family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough or difficulty breathing, except for shortness of breath associated with chest pain.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports left arm pain along with the chest pain.",
+    "skin": "Patient denies any skin changes.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of past surgeries.",
+  "family_history": "Patient reports a family history of heart disease in her father and two siblings.",
+  "social_history": "Patient is a current smoker and reports smoking approximately 1 pack per day for the past 20 years."
+}

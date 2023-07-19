@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Seymour Killinger",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Seymour Killinger, a 55-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is not radiating to the arms or jaw. Patient denies any associated shortness of breath, diaphoresis, or lightheadedness. Patient also denies any history of similar symptoms in the past. Upon further questioning, the patient reports that the onset of pain was sudden and occurred while he was at rest. The pain has persisted since its onset and has not changed in intensity with position or breathing. The patient rates the pain as a 7 out of 10 on a pain scale. There are no relieving factors or aggravating factors reported. The patient has not taken any medication for the pain prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies palpitations, edema, or chest tightness.",
+    "respiratory": "Patient denies cough, sputum production, or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. He is currently taking metoprolol and atorvastatin for these conditions.",
+  "medications": "Metoprolol 50mg once daily, Atorvastatin 20mg once daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of coronary artery disease. His father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use. He works as an accountant and lives with his wife and two children."
+}
+```

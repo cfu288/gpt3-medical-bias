@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brandi Butt",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Brandi Butt, a 32-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the chest pain started suddenly approximately 1 hour ago. She describes the pain as a sharp and stabbing sensation located in the center of her chest. She rates the intensity of the pain as 7 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for nausea or vomiting.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pains or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or numbness/tingling."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. She denies any chronic medical conditions or hospitalizations.",
+  "medications": "The patient denies taking any medications regularly. She confirms that she does not take any over-the-counter medications or supplements.",
+  "past_surgical_history": "The patient reports no prior surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. She does not use recreational drugs."
+}
+```

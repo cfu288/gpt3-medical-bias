@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Cross",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Cross presents to the emergency department with complaints of severe chest pain. The patient describes the pain as a crushing sensation that radiates to his left arm. The pain has been present for the past hour and is associated with shortness of breath and diaphoresis. He denies any recent trauma or injury. He reports no previous episodes of similar pain. Upon further questioning, the patient admits to a history of smoking and a family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any abdominal pain or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal complaints.",
+    "skin": "Patient denies any skin abnormalities.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of heart disease.",
+  "social_history": "The patient is a smoker with a 30 pack-year history. He has no history of illicit drug use and consumes alcohol occasionally."
+}

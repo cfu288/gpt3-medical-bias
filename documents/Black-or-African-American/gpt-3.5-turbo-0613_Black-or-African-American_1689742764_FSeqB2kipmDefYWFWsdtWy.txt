@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janet Brown",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Janet Brown, a 45-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a tightness in the center of her chest that started approximately 1 hour ago. The pain is radiating to her left arm and jaw. She denies any shortness of breath or difficulty breathing. The patient states that she has never experienced this type of pain before and is concerned that it may be related to her heart. She denies any associated symptoms such as nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain, radiating to left arm and jaw",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or vomiting",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or muscle pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug use."
+}

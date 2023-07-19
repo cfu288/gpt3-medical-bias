@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geri Living",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the middle of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any nausea or diaphoresis. The pain is exacerbated by exertion and relieved by rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis",
+  "medications": "Metoprolol 50mg daily, Atorvastatin 20mg daily, Naproxen 500mg as needed",
+  "past_surgical_history": "Cholecystectomy, appendectomy",
+  "family_history": "Father had a myocardial infarction at age 70",
+  "social_history": "Retired, non-smoker, occasional alcohol use"
+}

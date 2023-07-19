@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Murat Welling",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started 1 hour ago. Patient states the pain is crushing in nature and radiates to his left arm. He also reports shortness of breath and nausea. The pain has not resolved since onset and is aggravated with exertion. There is no relieving factor. The patient denies any similar episodes in the past. No trauma or recent illness. No associated symptoms such as fever, cough, or abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sherrie Brown",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaint of chest pain. Pain began approximately 1 hour prior to arrival, radiates to the left arm and jaw. Patient reports associated shortness of breath and diaphoresis. Denies any previous episodes of chest pain. No known cardiac history. No previous hospitalizations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "Reports chest pain as described above.",
+    "respiratory": "Shortness of breath associated with chest pain.",
+    "gi": "No associated nausea or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No muscle or joint pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of premature cardiac disease.",
+  "social_history": "Patient is a non-smoker. No history of alcohol or illicit drug use. Retired and lives alone."
+}
+```

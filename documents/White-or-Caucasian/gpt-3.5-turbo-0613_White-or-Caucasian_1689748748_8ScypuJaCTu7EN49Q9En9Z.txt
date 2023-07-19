@@ -1,0 +1,21 @@
+{
+  "patient_name": "Paulette Carroll",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. She describes the pain as a burning sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity and states that it is constant. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headaches, dizziness, or confusion"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Taking lisinopril 10 mg daily and atorvastatin 20 mg daily",
+  "past_surgical_history": "Negative",
+  "family_history": "Family history is significant for coronary artery disease in both parents",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use"
+}

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Odessa Johnson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Odessa Johnson, a 54-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about an hour ago while she was at home. She describes the pain as a squeezing or pressure-like sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity and states that it has not improved with rest or over-the-counter pain medications. She denies any shortness of breath, nausea, or diaphoresis.
+
+The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. Her medications include lisinopril, atorvastatin, and metformin. She has not had any recent surgeries. There is no significant family history of cardiac diseases.
+
+Upon further questioning, the patient reports that she has been under a lot of stress lately due to personal and work-related issues. She denies any smoking, alcohol, or illicit drug use.
+
+Given the acute onset and severity of the chest pain, further evaluation is warranted to rule out a cardiac etiology. An electrocardiogram and cardiac enzymes will be obtained along with a detailed physical examination."
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or syncope."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "No smoking, alcohol, or illicit drug use."
+}

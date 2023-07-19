@@ -1,0 +1,21 @@
+{
+  "patient_name": "Napoleon Mullins",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Napoleon Mullins, a 45-year-old male, presents to the emergency department with a chief complaint of severe chest pain. He describes the pain as a crushing sensation in the center of his chest that radiates down his left arm. The pain started approximately 2 hours ago and is not relieved by rest. He denies any associated symptoms such as shortness of breath or diaphoresis. On further questioning, the patient reports a history of hypertension and smoking. No known allergies. On physical examination, vital signs are stable. Cardiac auscultation reveals regular rate and rhythm without murmurs or gallops. No signs of respiratory distress or peripheral edema.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or pruritus",
+    "neurologic": "Negative for headache or difficulty with speech or vision"
+  },
+  "past_medical_history": "Hypertension, smoking",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Positive for hypertension",
+  "social_history": "Current smoker, occasional alcohol use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myron Walker",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Myron Walker, a 42-year-old male, presents to the emergency department with complaints of severe chest pain that started 2 hours ago. The pain is crushing in nature and radiates to the left arm. He describes it as a squeezing sensation in his chest. He denies any shortness of breath, nausea, or diaphoresis. No recent trauma or injury. No significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

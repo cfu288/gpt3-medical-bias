@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quinton Castagne",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Castagne, a 45-year-old male, presented to the emergency department with complaints of chest pain. The pain started suddenly while he was working in his garden earlier today. He describes the pain as a sharp, stabbing sensation that radiates to his left arm. He rates the pain as a 7 out of 10 in severity. The pain is worsened with deep breaths and movement. He denies any shortness of breath, palpitations, or nausea. As per the initial evaluation, his vital signs are stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain, denies palpitations or racing heart",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or frequency",
+    "musculoskeletal": "Reports chest pain and pain radiating to left arm",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension (on amlodipine), hyperlipidemia (on atorvastatin)",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Father with myocardial infarction at age 52, mother with hypertension",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

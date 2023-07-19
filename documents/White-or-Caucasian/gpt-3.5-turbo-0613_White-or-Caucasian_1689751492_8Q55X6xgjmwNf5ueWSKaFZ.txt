@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Ferber",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Ferber presented to the emergency department with complaints of chest pain that started approximately 2 hours ago. He describes the pain as a dull, squeezing sensation located in the center of his chest. The pain radiates to his left arm and jaw. He rates the severity of the pain as 8 out of 10. The patient denies any shortness of breath, diaphoresis, nausea, or vomiting. His vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss. He does report feeling fatigued recently.",
+    "cardiovascular": "The patient reports chest pain as his primary symptom. No palpitations, irregular heartbeats, or edema noted.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes which are managed with medications.",
+  "medications": "The patient is currently taking lisinopril 20 mg daily, atorvastatin 40 mg daily, and metformin 1000 mg twice daily.",
+  "past_surgical_history": "The patient had an appendectomy at age 25. No other surgeries reported.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies any history of illicit drug use. He consumes alcohol occasionally."
+}

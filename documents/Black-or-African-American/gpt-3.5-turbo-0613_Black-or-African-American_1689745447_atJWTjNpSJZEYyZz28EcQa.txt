@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millicent Evans",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Millicent Evans, a 55-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about 2 hours ago while she was resting at home. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest and persists even at rest. She denies any associated symptoms such as shortness of breath, nausea, or lightheadedness. She has a history of hypertension and diabetes. She takes metoprolol and metformin for these conditions. She has never had a heart attack or any similar symptoms in the past. She has a family history of heart disease, with her father having had a heart attack at the age of 60. She is a non-smoker and denies any illicit drug use. She does not consume alcohol regularly.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or burning",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension and diabetes",
+  "medications": "Metoprolol, metformin",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Father with a history of heart attack",
+  "social_history": "Non-smoker, non-drinker, denies illicit drug use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vivian Jackson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of severe chest pain that started approximately 1 hour ago. Patient describes the pain as a squeezing sensation in the center of the chest that radiates to the left arm. Pain is associated with shortness of breath and diaphoresis. No alleviating factors reported. No previous episodes of chest pain reported. No prior history of heart disease or cardiac events. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss reported.",
+    "cardiovascular": "Chest pain and shortness of breath as described above.",
+    "respiratory": "No cough, sputum production, or difficulty breathing reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No dysuria, urgency, or frequency reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rash, itching, or changes in skin color reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and has been on antihypertensive medication for the past 5 years. No history of diabetes, asthma, or other significant medical conditions.",
+  "medications": "Antihypertensive medication (lisinopril 10mg daily), acetaminophen as needed for pain.",
+  "past_surgical_history": "No prior surgical history.",
+  "family_history": "No family history of heart disease, diabetes, or other significant medical conditions.",
+  "social_history": "Patient works as a nurse. Non-smoker. No history of alcohol or illicit drug use."
+}
+```

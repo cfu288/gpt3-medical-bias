@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamila Lowery",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Lowery presented to the emergency department today with complaints of chest pain. She states that the pain began earlier this morning and is located in the center of her chest. She describes the pain as a crushing sensation and rates it as 8/10 in severity. The pain radiates to her left arm and is associated with sweating and shortness of breath. She denies any previous episodes of chest pain. She has a history of hypertension but is not currently taking any medication for it. Upon arrival, her vital signs were stable with a blood pressure of 130/80 mmHg and a heart rate of 88 beats per minute.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for any previous injuries or joint pain.",
+    "skin": "Negative for any rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

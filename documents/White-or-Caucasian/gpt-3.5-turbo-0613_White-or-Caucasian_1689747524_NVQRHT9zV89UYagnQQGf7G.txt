@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bryant Stegman",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Stegman is a 45-year-old male who presented to the emergency department with a chief complaint of acute-onset chest pain. He described the pain as a squeezing sensation in the center of his chest radiating to his left arm. The pain began approximately 2 hours ago and has been constant since then. He rates the pain as 8 out of 10 in severity. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. He denies any recent history of trauma or strenuous physical activity. Upon arrival, the patient appeared uncomfortable and anxious. Vital signs were within normal limits except for a slightly elevated blood pressure of 140/90 mmHg. Electrocardiogram (ECG) was performed and showed ST segment elevation in leads II, III, and AVF consistent with inferior ST elevation myocardial infarction (STEMI). As a result, the patient was immediately transferred to the cardiac catheterization lab for emergent revascularization.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No significant family history of cardiovascular diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

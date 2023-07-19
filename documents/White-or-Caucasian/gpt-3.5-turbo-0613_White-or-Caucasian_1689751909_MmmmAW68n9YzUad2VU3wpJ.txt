@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jean Danko",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Jean Danko, a 48-year-old female, presents to the emergency department with a complaint of chest pain. The pain started suddenly 30 minutes ago, while the patient was at rest. The pain is described as a crushing sensation in the center of the chest radiating to the left arm. The patient denies any other associated symptoms such as shortness of breath, palpitations, or diaphoresis. The patient states she has never experienced this type of pain before and it is very concerning to her. No alleviating or exacerbating factors have been identified. The pain is currently a 7/10 in severity. The patient denies any other significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, pruritus, or changes in skin texture.",
+    "neurologic": "Negative for headache, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient denies any significant past medical history.",
+  "medications": "Patient states she takes no medications on a regular basis.",
+  "past_surgical_history": "Patient denies any past surgical history.",
+  "family_history": "Patient denies any significant family history.",
+  "social_history": "Patient denies tobacco or illicit drug use. Patient reports consuming alcohol socially in moderation."
+}
+```

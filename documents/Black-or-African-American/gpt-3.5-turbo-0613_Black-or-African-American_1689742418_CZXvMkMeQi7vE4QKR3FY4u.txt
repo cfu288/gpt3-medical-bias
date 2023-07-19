@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rhonda Williams",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rhonda Williams, is a 45-year-old female with a chief complaint of chest pain. She presents to the emergency department with a two-hour history of substernal chest pain that radiates to her left arm. She describes the pain as crushing and rates it as 9 out of 10 in severity. She is diaphoretic and reports shortness of breath. The pain started while she was at rest and has not improved with rest or nitroglycerin. She denies any associated symptoms such as nausea, vomiting, diaphoresis, or palpitations. There is no known precipitating factors. The patient denies any history of similar symptoms in the past. Overall, the patient appears anxious and in discomfort.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath but denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria or hematuria.",
+    "musculoskeletal": "The patient reports no joint pains or muscle aches.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. She takes lisinopril and atorvastatin for these conditions. She denies any history of diabetes, asthma, or other significant medical conditions.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father who had a heart attack at age 50.",
+  "social_history": "The patient denies tobacco and alcohol use. She is married and works as a teacher."
+}
+```

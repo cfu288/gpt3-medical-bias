@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Suzie Malik",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Suzie Malik, a 28-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the central chest that radiates to the left arm. She rates the pain as 8 out of 10 in intensity. The pain is constant and does not worsen with deep breathing or movement. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that she has never experienced chest pain before and is concerned it may be related to her heart. She denies any recent illness or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports no history of heart disease or high blood pressure. She denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports no abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling in extremities."
+  },
+  "past_medical_history": "The patient has no known medical conditions and takes no regular medications.",
+  "medications": "The patient reports no current medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient denies any significant family history of heart disease, cancer, or other chronic illnesses.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

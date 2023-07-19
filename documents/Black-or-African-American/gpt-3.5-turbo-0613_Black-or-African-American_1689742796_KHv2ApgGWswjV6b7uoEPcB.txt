@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alana Maroney",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alana Maroney, a 52-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient states that the pain started approximately one hour ago and is located in the center of her chest. She describes the pain as a sharp, stabbing sensation that radiates to her left arm. The pain is associated with shortness of breath and sweating. The patient denies any nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, and difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, and changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, and hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, and swelling.",
+    "skin": "The patient denies rashes, itching, and changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, numbness, and weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient denies tobacco use, alcohol use, and illicit drug use. She works as a teacher and lives with her husband and two children."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernst Cater",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that began approximately 1 hour ago. Pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. Patient also reports shortness of breath and diaphoresis. Denies any nausea or vomiting. No known triggers for the pain. No previous episodes of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath, negative for palpitations",
+    "respiratory": "Negative for cough, wheezing, or dyspnea at rest",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for these conditions.",
+  "medications": "Lisinopril 20mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Father had a heart attack in his 50s",
+  "social_history": "Patient is a smoker with a 20 pack-year history. Denies alcohol or illicit drug use."
+}

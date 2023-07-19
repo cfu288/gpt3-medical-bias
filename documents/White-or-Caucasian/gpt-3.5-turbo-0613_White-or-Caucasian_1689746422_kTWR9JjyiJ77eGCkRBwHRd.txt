@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chandler Ruggiero",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Chandler Ruggiero, a 42-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient describes the pain as a pressure-like sensation in the center of his chest that has been present for the past hour. He rates the pain as a 8 out of 10 in severity. The pain radiates to his left arm and jaw. The patient denies any associated symptoms such as shortness of breath, nausea, or lightheadedness. The patient has never experienced this type of chest pain before and is concerned that it might be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, radiating to left arm and jaw",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a smoker with a 10-pack-year history. He drinks alcohol occasionally but denies any illicit drug use."
+}
+```

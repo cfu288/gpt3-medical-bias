@@ -1,0 +1,21 @@
+{
+  "patient_name": "Issac Vicks",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Vicks is a 42-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 1 hour ago and is described as a sharp, stabbing sensation in the center of his chest. The pain is exacerbated by deep breaths and movement. He denies any associated shortness of breath, diaphoresis, nausea, or vomiting. He states that he has never experienced this type of pain before and is concerned about a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath, cough, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Positive for chest pain as chief complaint. Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Mr. Vicks has a history of hypertension and hyperlipidemia, which are well-controlled with medications.",
+  "medications": "Amlodipine 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Positive for a family history of coronary artery disease in both parents.",
+  "social_history": "Mr. Vicks is a smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

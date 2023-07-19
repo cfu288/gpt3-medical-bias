@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eliot Mcbride",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Eliot Mcbride, a 42-year-old male, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation that started suddenly while he was at rest. The pain is located in the center of his chest and radiates to his left arm. He rates the intensity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain as described above. No palpitations or syncope.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, for which he takes lisinopril 10 mg daily. He denies any other significant past medical history.",
+  "medications": "Lisinopril 10 mg daily.",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease in his father who experienced a heart attack at age 55. The patient's mother is alive and healthy.",
+  "social_history": "The patient is married and works as a software engineer. He denies tobacco, alcohol, or recreational drug use."
+}

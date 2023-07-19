@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Minnie Phillips",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Minnie Phillips, a 37-year-old female, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, stabbing sensation in the center of her chest. She rates the pain as 9/10 and states that it radiates to her left arm. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The patient has a past medical history of hypertension and is on medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as her primary concern. She denies any palpitations or history of heart disease.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urination.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and is on medication. No other significant past medical history.",
+  "medications": "The patient takes daily medication for hypertension. No other medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of heart disease or other serious conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

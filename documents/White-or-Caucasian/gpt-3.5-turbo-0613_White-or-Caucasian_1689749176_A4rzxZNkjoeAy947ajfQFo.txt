@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carin Sherman",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chest pain that started one hour ago. She describes the pain as a sharp, stabbing sensation located in the center of her chest. She denies any associated symptoms such as shortness of breath or sweating. She rates the pain severity as 7 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or malaise.",
+    "cardiovascular": "Patient denies any palpitations, dizziness, or fainting.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or muscle aches.",
+    "skin": "Patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril 20mg daily and Atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has a family history of coronary artery disease in her father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

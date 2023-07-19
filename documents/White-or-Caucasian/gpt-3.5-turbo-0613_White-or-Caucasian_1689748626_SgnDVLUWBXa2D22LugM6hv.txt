@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodney Concannon",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Concannon is a 45-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain is described as a dull ache that started earlier today and is located in the center of his chest. He rates the intensity of the pain as 8 out of 10 and states that it radiates to his left arm. He denies any shortness of breath, diaphoresis, or nausea. Upon further questioning, he reports no history of similar chest pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or history of heart disease.",
+    "respiratory": "Patient denies cough, dyspnea, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medications for this condition.",
+  "medications": "Patient takes Lisinopril 10mg daily and Hydrochlorothiazide 25mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

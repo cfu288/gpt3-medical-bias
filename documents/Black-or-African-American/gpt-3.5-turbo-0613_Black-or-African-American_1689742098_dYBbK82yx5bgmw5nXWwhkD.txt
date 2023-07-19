@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Jackson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jackson presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation in the center of the chest, radiating down the left arm. He rates the pain intensity as 8 out of 10. The pain is associated with shortness of breath and sweating. He denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath, palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or focal weakness."
+  },
+  "past_medical_history": "Mr. Jackson has a history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for family history of heart disease in both parents.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

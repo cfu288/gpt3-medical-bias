@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Smith",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of sudden onset chest pain. He describes the pain as a tightness or pressure in the center of his chest. The pain radiates to his left arm and jaw. He denies any shortness of breath or dizziness. The pain started approximately 1 hour ago and has remained constant since then. The patient states that he has never experienced this type of pain before and it is concerning to him.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain as described above. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or blood in urine.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes lisinopril 10 mg daily for his hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as an office worker and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hal Smith",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Smith is a 58-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest that radiates to his left shoulder and arm. The pain started approximately 2 hours ago while he was watching TV. He rated the pain as 7 out of 10 and it has not resolved with rest. He denies any shortness of breath or palpitations. He has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for pain in left shoulder and arm.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or weakness in extremities."
+  },
+  "past_medical_history": "Mr. Smith has a history of hypertension and takes medication for it. He denies any other significant past medical history.",
+  "medications": "Hydrochlorothiazide 12.5 mg once daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Mr. Smith is a nonsmoker and denies any alcohol or illicit drug use."
+}

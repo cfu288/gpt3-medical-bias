@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodney Stricker",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is a 58-year-old male who presents with complaints of chest pain. The pain started 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient also reports shortness of breath and sweating. The patient states that he has never experienced chest pain like this before and is concerned it may be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a heart attack at age 65. His mother is alive and healthy.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. He is married and works as an accountant."
+}

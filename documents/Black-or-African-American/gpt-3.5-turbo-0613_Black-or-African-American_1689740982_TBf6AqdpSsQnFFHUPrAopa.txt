@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of chest pain. Patient reports that the pain started about 3 hours ago and is a sharp, stabbing pain located in the center of the chest. The pain is intermittent and worsens with deep breathing. Patient denies any associated symptoms such as shortness of breath, dizziness, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No history of heart disease or irregular heart rhythms.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary changes or discomfort.",
+    "musculoskeletal": "No history of joint pain or injury.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No family history of heart disease or other significant medical conditions.",
+  "social_history": "Patient is a smoker with a 20 pack-year history. Denies alcohol or drug use."
+}

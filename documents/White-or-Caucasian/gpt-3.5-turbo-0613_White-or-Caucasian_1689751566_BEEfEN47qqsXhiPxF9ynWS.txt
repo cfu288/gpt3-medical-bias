@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Janae Johnson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Janae Johnson, a 45-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation that began approximately 2 hours ago. The pain is located in the center of the chest and radiates down her left arm. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "Pain in the left arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, diabetes, and hyperlipidemia. She is currently taking medications for these conditions.",
+  "medications": "Lisinopril, metformin, and atorvastatin",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of heart disease in first-degree relatives.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

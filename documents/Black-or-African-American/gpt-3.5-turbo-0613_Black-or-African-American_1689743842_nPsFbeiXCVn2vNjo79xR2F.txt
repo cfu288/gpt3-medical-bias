@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dwight Roberts",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Roberts is a 45-year-old male who presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago while he was at work. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough or difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or lesion.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Roberts has a history of hypertension and hypercholesterolemia.",
+  "medications": "He takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular disease.",
+  "social_history": "Mr. Roberts is a non-smoker and denies any illicit drug use. He drinks alcohol occasionally."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Veena Thompson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Veena Thompson, a 42-year-old female, presents to the emergency department with complaints of acute-onset severe chest pain. The pain started about 1 hour ago while she was at home, and it radiates to her left arm. She describes the pain as crushing and pressure-like. She is experiencing difficulty breathing and sweating profusely. The pain is not relieved with rest or change in position. She denies any associated symptoms such as nausea, vomiting, or lightheadedness. There is no history of trauma or recent illness. The patient has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, pressure-like, radiating to left arm, no relief with rest or position change",
+    "respiratory": "Difficulty breathing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart disease or other major illnesses",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

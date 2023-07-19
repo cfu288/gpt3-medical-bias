@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kelly Mickelson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kelly Mickelson, a 42-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a burning sensation in the center of the chest. The pain is constant and has not radiated to any other part of the body. The patient denies any associated shortness of breath, diaphoresis, or palpitations. There is no known trigger for the chest pain. The patient has no history of cardiac disease or risk factors for coronary artery disease. She states that she has been experiencing increased stress at work recently.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations, syncope, or orthopnea.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with medication.",
+  "medications": "The patient currently takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and reports occasional alcohol use. She is married and works as a marketing manager."
+}

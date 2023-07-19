@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Xiomara Anderson",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Xiomara Anderson, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started about 2 hours ago and is located in the center of her chest. She describes the pain as a sharp, stabbing sensation that radiates to her left shoulder and jaw. The pain is rated 8 out of 10 in intensity and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or other cardiac symptoms. She does not have any risk factors for coronary artery disease, such as smoking, hypertension, or diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations or edema.",
+    "respiratory": "The patient reports mild shortness of breath that is relieved with rest.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin abnormalities reported.",
+    "neurologic": "The patient denies any sensory or motor deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```
