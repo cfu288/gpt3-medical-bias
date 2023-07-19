@@ -1,6 +1,6 @@
 # Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Healthcare History Note Completions
 
-We ask GPT to generate medical histories given only a patient's name. Does GPT give different responses if we use names more commonly used by one race vs another?
+We ask GPT to generate medical histories given only a patient's name and age. Does GPT give different responses if we use names more commonly used by one race vs another?
 
 ## Structure
 
