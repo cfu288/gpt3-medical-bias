@@ -129,6 +129,7 @@ PRESENCE_PENALTY = 0
 FREQUENCY_PENALTY = 0
 N = 1
 
+
 # Credit to https://stackoverflow.com/a/3173338/11407943 for this function to print progress to terminal
 def print_progress_bar(
     iteration,
@@ -206,9 +207,7 @@ def call_openai_document_complete(fake_pt_name):
 def gen_document(race_pt_name_tuple):
     (race, pt_name) = race_pt_name_tuple
     folder_location = os.path.join("documents", f'{race.replace(" ", "-")}')
-    chat_completion = retry_with_backoff(
-        lambda: call_openai_document_complete(pt_name)
-    )
+    chat_completion = retry_with_backoff(lambda: call_openai_document_complete(pt_name))
     try:
         if not os.path.exists(folder_location):
             os.makedirs(folder_location)
@@ -219,16 +218,41 @@ def gen_document(race_pt_name_tuple):
     except Exception as e:
         print(f"Error: {e}")
 
+
 if __name__ == "__main__":
     x = 0
-    aa_name_list = pd.read_csv(os.path.join("cohort", "aa_matched.csv")).to_dict("records")
-    ca_name_list = pd.read_csv(os.path.join("cohort", "ca_matched.csv")).to_dict("records")
+    aa_name_list = pd.read_csv(os.path.join("cohort", "aa_matched.csv")).to_dict(
+        "records"
+    )
+    ca_name_list = pd.read_csv(os.path.join("cohort", "ca_matched.csv")).to_dict(
+        "records"
+    )
     with Pool() as p:
-        r = p.map_async(gen_document, [("Black or African American", f'{i.get("first_name").title()} {i.get("last_name")}',) for i in aa_name_list], chunksize=10)
-        s = p.map_async(gen_document, [("White or Caucasian", f'{i.get("first_name").title()} {i.get("last_name")}',) for i in ca_name_list], chunksize=10)
+        r = p.map_async(
+            gen_document,
+            [
+                (
+                    "Black or African American",
+                    f'{i.get("first_name").title()} {i.get("last_name")}',
+                )
+                for i in aa_name_list
+            ],
+            chunksize=10,
+        )
+        s = p.map_async(
+            gen_document,
+            [
+                (
+                    "White or Caucasian",
+                    f'{i.get("first_name").title()} {i.get("last_name")}',
+                )
+                for i in ca_name_list
+            ],
+            chunksize=10,
+        )
         r.wait()
         s.wait()
         x += 20
         print_progress_bar(
-             x, len(aa_name_list), prefix="Progress:", suffix="Complete", length=50
+            x, len(aa_name_list), prefix="Progress:", suffix="Complete", length=50
         )

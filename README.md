@@ -5,10 +5,13 @@ We ask GPT to generate medical histories given only a patient's name. Does GPT g
 ## Structure
 
 ```
-main.py - generate medical records from gpt
+document_generator.py - generate medical records from gpt
+cohort_generator.py - generate a set of (unbalanced) mock patients using name_generator.py
 name_generator.py - helper functions to generate names by race
-explore_word_frequencies.ipynb - exploratory analysis of gpt medical records
-validate_name_gen.ipynb - explore to see if name_generator.py is generating biased names (it probably is) which may throw off our results (they are, a rework is in progress)
+propensity_score_matching.ipynb - create balanced cohorts of mock patients using propensity score matching
+validate_name_gen.ipynb - notebook to see if our propensity score matching worked
+word_frequency_analysis.ipynb - exploratory analysis of word frequency gpt medical records
+medication_analysis.ipynb - exploratory analysis of medications found in the gpt medical records
 ```
 
 ## Local Development
