@@ -10,15 +10,15 @@ We generate 2 cohorts of mock patients - one for mock African-American patients 
 
 However, there may be implicit gender and age biases in the voter data.
 
-In order to control for both age data, we attempt to estimate age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of being born in each year. We use this data and the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
+In order to generate age data for each name, we attempt to estimate a age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
 
-Neither of these approaches have yet been validates as far as I am aware.
-
-We don't attempt to control for other confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
+Neither of these approaches have yet been validated as far as I am aware.
 
 See `cohort_generator.py` for mock patient cohort generation code.
 
-After cohort generation, we use propensity score matching to match patients between cohorts to ensure that the age and gender features are controlled.
+After cohort generation, we use propensity score matching to match patients between cohorts.
+
+We attempt to control for age and gender using propensity score matching. We don't attempt to control for other confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
 
 The final dataset contains 10,000 propensity score matched mock African-American and Caucasian patients.
 
