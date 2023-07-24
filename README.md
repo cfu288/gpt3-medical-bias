@@ -2,7 +2,7 @@
 
 We ask GPT to generate medical histories given only a patient's name and age. Does GPT give different responses if we use names more commonly used by one race vs another?
 
-The goal is to see if there is any implicit bias shown by GPT in a medical context (shown as differing word frequencies in the returned documents). This is good to explore, as future healthcare applications may incorporate GPT models.
+The goal is to see if there is any implicit bias shown by GPT in a medical context (shown as differing word frequencies in the returned documents). This is good to explore, as future healthcare applications that may choose to incorporate GPT models should be aware of these implicit biases.
 
 ## Generating accurate cohorts for African-American and Caucasian patients
 
