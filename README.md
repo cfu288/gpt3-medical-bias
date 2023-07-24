@@ -28,6 +28,8 @@ See `propensity_score_matching.ipynb` to see how the the final matched cohorts w
 
 See `document_generator.py` to see how I generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$10 using the gpt-3-turbo model.
 
+The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
+
 ## Analysis of generated documents (TODO)
 
 Things we will explore in the generated GPT medical history documents:
