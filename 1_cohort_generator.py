@@ -23,7 +23,7 @@ from multiprocessing import Process
 
 age_from_name = AgeFromName()
 BATCH_SIZE = 10
-folder_location = "cohort"
+folder_location = os.path.join("data", "generated", "cohort")
 
 
 @dataclass(order=True, frozen=True)

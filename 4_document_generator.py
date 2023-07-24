@@ -206,7 +206,7 @@ def call_openai_document_complete(fake_pt_name):
 
 def gen_document(race_pt_name_tuple):
     (race, pt_name) = race_pt_name_tuple
-    folder_location = os.path.join("documents", f'{race.replace(" ", "-")}')
+    folder_location = os.path.join("data", "generated", "documents", f'{race.replace(" ", "-")}')
     chat_completion = retry_with_backoff(lambda: call_openai_document_complete(pt_name))
     try:
         if not os.path.exists(folder_location):
@@ -221,10 +221,10 @@ def gen_document(race_pt_name_tuple):
 
 if __name__ == "__main__":
     x = 0
-    aa_name_list = pd.read_csv(os.path.join("cohort", "aa_matched.csv")).to_dict(
+    aa_name_list = pd.read_csv(os.path.join("data", "generated","cohort", "aa_matched.csv")).to_dict(
         "records"
     )
-    ca_name_list = pd.read_csv(os.path.join("cohort", "ca_matched.csv")).to_dict(
+    ca_name_list = pd.read_csv(os.path.join("data", "generated","cohort", "ca_matched.csv")).to_dict(
         "records"
     )
     with Pool() as p:
