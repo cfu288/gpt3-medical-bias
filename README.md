@@ -14,13 +14,21 @@ Neither of these approaches have yet been validates as far as I am aware.
 
 We don't attempt to control for other confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
 
+See `cohort_generator.py` for mock patient cohort generation code.
+
 After cohort generation, we use propensity score matching to match patients between cohorts to ensure that the age and gender features are controlled.
 
-The final dataset contains 5000 mock African-American and 5000 mock Caucasian patients.
+The final dataset contains 10,000 propensity score matched mock African-American and Caucasian patients.
 
-## Analysis of generated documents
+See `propensity_score_matching.ipynb` to see how the the final matched cohorts were generated.
 
-Things we will explore are:
+## Generating the medical history documents from cohort data
+
+See `document_generator.py` to see how I generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$10 using the gpt-3-turbo model.
+
+## Analysis of generated documents (TODO)
+
+Things we will explore in the generated GPT medical history documents:
 
 - Frequency of words used in the African-American vs Caucasian corpus
 - Uses of medications in the African-American vs Caucasian corpus
