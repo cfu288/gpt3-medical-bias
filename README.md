@@ -1,4 +1,4 @@
-# Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Healthcare History Note Completions
+# Exploring Implicit Bias in `gpt-3.5-Turbo-0613` When Generating Medical History Note Completions
 
 We ask GPT to generate medical histories given only a patient's name and age. Does GPT give different responses if we use names more commonly used by one race vs another?
 
@@ -24,13 +24,13 @@ The final dataset contains 10,000 propensity score matched mock African-American
 
 See `propensity_score_matching.ipynb` to see how the the final matched cohorts were generated.
 
-## Generating the medical history documents from cohort data
+## Generating the Medical History Documents From Cohort Data
 
 See `document_generator.py` to see how I generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$10 using the gpt-3-turbo model.
 
 The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
 
-## Analysis of generated documents (TODO)
+## Analysis of Generated Documents (TODO)
 
 Things we will explore in the generated GPT medical history documents:
 

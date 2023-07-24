@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Exploring Implicit Bias in gpt-3.5-turbo-0613 when
+  Generating Medical History Note Completions
+message: >-
+  If you use this software or dataset, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christopher
+    family-names: Fu
+    email: invent288cfu@gmail.com
+repository-code: 'https://github.com/cfu288/gpt3-medical-bias'
+keywords:
+  - gpt-3.5-turbo
+  - medical history
+license: MIT
