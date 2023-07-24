@@ -68,7 +68,7 @@ def to_scalar(person):
     }
 
 
-def gen_aa_people(filename, get_firstname, get_surname):
+def gen_people(filename, get_firstname, get_surname):
     aa_people = []
     for i in range(BATCH_SIZE):
         first_name = get_firstname()
@@ -81,7 +81,8 @@ def gen_aa_people(filename, get_firstname, get_surname):
             not os.path.isfile(os.path.join(folder_location, filename))
             or os.stat(os.path.join(folder_location, filename)).st_size == 0
         )
-        age_dist = age_from_name.get_estimated_distribution(first_name, gender, 2022)
+        # 2023 is the year the dataset was created
+        age_dist = age_from_name.get_estimated_distribution(first_name, gender, 2023)
         if age_dist.any():
             today = datetime.date.today()
             # voter data, min age 18
@@ -124,8 +125,8 @@ if __name__ == "__main__":
     print(f"{n_cores} cpu cores, starting {num_threads} threads")
 
     # run once first to generate head if needed
-    gen_aa_people("aa.csv", gen_black_firstname, gen_black_surname)
-    gen_aa_people("ca.csv", gen_white_firstname, gen_white_surname)
+    gen_people("aa.csv", gen_black_firstname, gen_black_surname)
+    gen_people("ca.csv", gen_white_firstname, gen_white_surname)
     aa_gen_count += BATCH_SIZE
 
     print_progress_bar(
@@ -134,14 +135,14 @@ if __name__ == "__main__":
     while aa_gen_count <= NAMES_TO_GEN:
         a_threads = [
             Process(
-                target=gen_aa_people,
+                target=gen_people,
                 args=("aa.csv", gen_black_firstname, gen_black_surname),
             )
             for t in range(int(num_threads / 2))
         ]
         c_threads = [
             Process(
-                target=gen_aa_people,
+                target=gen_people,
                 args=("ca.csv", gen_white_firstname, gen_white_surname),
             )
             for t in range(int(num_threads / 2))
