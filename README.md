@@ -10,7 +10,7 @@ We generate 2 cohorts of mock patients - one for mock African-American patients 
 
 However, there may be implicit gender and age biases in the names of the voter data.
 
-In order to generate age data for each name, we attempt to estimate a age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
+In order to generate age data for each generated patient name, we attempt to estimate an age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
 
 Neither of these approaches have yet been validated as far as I am aware.
 
