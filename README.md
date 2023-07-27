@@ -1,4 +1,4 @@
-# Exploring Implicit Bias in `gpt-3.5-Turbo-0613` When Generating Medical History Note Completions
+# Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Medical History Note Completions
 
 We ask GPT to generate medical histories given only a patient's name, age, and gender. Does GPT give different responses if we use names more commonly used by one race vs another?
 
@@ -85,4 +85,6 @@ jupyter lab
 
 ## References
 
-Name data is provided by https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB. Based on voter data
+Rosenman, E.T.R., Olivella, S. & Imai, K. Race and ethnicity data for first, middle, and surnames. Sci Data 10, 299 (2023). https://doi.org/10.1038/s41597-023-02202-2
+
+A. Kline and Y. Luo, PsmPy: A Package for Retrospective Cohort Matching in Python, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022, pp. 1354-1357, doi: 10.1109/EMBC48229.2022.9871333.
