@@ -14,15 +14,15 @@ In order to generate age data for each name, we attempt to estimate a age using 
 
 Neither of these approaches have yet been validated as far as I am aware.
 
-See `cohort_generator.py` for mock patient cohort generation code.
+See `cohort_generator.py` for mock patient cohort generation code. Generated cohorts can be found [here](/data/interim/cohort/).
 
 After cohort generation, we use propensity score matching to match patients between cohorts.
 
 We attempt to control for age and gender using propensity score matching. We don't attempt to control for other confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
 
-The final dataset contains 10,000 propensity score matched mock African-American and Caucasian patients.
+The final dataset contains 10,000 propensity score matched mock African-American and Caucasian patients. Matched cohort dataset can be found [here](/data/processed/cohort/).
 
-See `propensity_score_matching.ipynb` to see how the the final matched cohorts were generated.
+See `propensity_score_matching.py` to see how the the final matched cohorts were generated.
 
 ## Generating the Medical History Documents From Cohort Data
 
@@ -30,12 +30,14 @@ See `document_generator.py` to see how I generated mock medical history document
 
 The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
 
+All generated documents can be found [here](/data/processed/documents/).
+
 ## Analysis of Generated Documents (TODO)
 
 Things we will explore in the generated GPT medical history documents:
 
-- Frequency of words used in the African-American vs Caucasian corpus
-- Uses of medications in the African-American vs Caucasian corpus
+- [Frequency of words used in the African-American vs Caucasian corpus](/reports/4_word_frequencies_analysis.html)
+- [Uses of medications in the African-American vs Caucasian corpus](/reports/3_medication_analysis.html)
 - Medical conditions found in the African-American vs Caucasian corpus
 
 ## Code Structure
@@ -44,7 +46,8 @@ Things we will explore in the generated GPT medical history documents:
 document_generator.py - generate medical records from gpt
 cohort_generator.py - generate a set of (unbalanced) mock patients using name_generator.py
 name_generator.py - helper functions to generate names by race
-propensity_score_matching.ipynb - create balanced cohorts of mock patients using propensity score matching
+propensity_score_matching.py - conduct propensity score matching on the generated cohorts
+validate_propensity_score_matching.ipynb - validate propensity score matching worked
 validate_name_gen.ipynb - notebook to see if our propensity score matching worked
 word_frequency_analysis.ipynb - exploratory analysis of word frequency gpt medical records
 medication_analysis.ipynb - exploratory analysis of medications found in the gpt medical records
