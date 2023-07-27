@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marvin Jones",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. Patient also reports shortness of breath and diaphoresis. Pain is not relieved by rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath unrelated to chest pain.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient currently takes Lisinopril, Atorvastatin, and Metformin.",
+  "past_surgical_history": "Patient underwent cholecystectomy in 2015.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a former smoker and drinks alcohol occasionally."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mustafa Firkins",
+  "age": "22",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mustafa Firkins, a 22-year-old male, presents to the emergency department with the chief complaint of chest pain. The chest pain began suddenly approximately 2 hours ago while the patient was at rest. The pain is described as a sharp, stabbing sensation located in the center of the chest. The patient rates the pain intensity as 8/10. The pain is not relieved by rest and is associated with shortness of breath. There is no radiation of pain to other areas of the body. The patient denies any prior episodes of chest pain. The patient has a past medical history of asthma and is currently taking albuterol as needed. The patient denies any recent illnesses, trauma, or changes in medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations or lightheadedness.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any changes in sensation, weakness, or dizziness."
+  },
+  "past_medical_history": "The patient has a history of asthma that is well-controlled with albuterol as needed.",
+  "medications": "Albuterol as needed for asthma.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is unremarkable for any cardiovascular disease, pulmonary disease, or other significant medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kory Bert",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kory Bert, a 46-year-old male, presents to the emergency department complaining of chest pain. He describes the pain as a sharp sensation in the center of his chest that started about 2 hours ago. The pain radiates to his left arm and is associated with shortness of breath. He states that he has never experienced this type of pain before and is concerned it might be a heart attack. He denies any fever, cough, palpitations, or dizziness. He reports no recent trauma or strenuous activity.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Reports chest pain radiating to left arm. Denies palpitations, syncope, or lower extremity swelling.",
+    "respiratory": "Reports shortness of breath associated with chest pain. Denies cough, wheezing, or hemoptysis.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or difficulty with movement.",
+    "skin": "Denies rash, itching, or changes in skin color or texture.",
+    "neurologic": "Denies headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient currently takes metoprolol and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "No previous surgical history reported.",
+  "family_history": "Patient reports a family history of heart disease in his father and brother.",
+  "social_history": "Patient is a non-smoker and drinks alcohol occasionally."
+}

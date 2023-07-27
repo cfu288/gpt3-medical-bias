@@ -1,0 +1,21 @@
+{
+  "patient_name": "Constance Jackson",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Constance Jackson, is a 64-year-old female presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull, squeezing sensation in the center of the chest. She rates the pain as a 7 out of 10 in severity. The pain is radiating down her left arm and jaw. She denies any shortness of breath, diaphoresis, or nausea. The patient states that she does have a history of hypertension and hyperlipidemia but is unsure if she is currently taking any medications for these conditions. She denies any recent illnesses or injuries. Prior to the onset of the chest pain, she did not engage in any strenuous activities or experience any trauma. At this time, she is experiencing the pain at rest and it has not improved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain described above, the patient denies any palpitations or dizziness.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, vision changes, or numbness/tingling in extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia but is unsure if she is currently taking any medications for these conditions.",
+  "medications": "Unknown at this time.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient is unsure of her family history as she was adopted and has limited knowledge of her biological relatives.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. She lives alone and is retired."
+}

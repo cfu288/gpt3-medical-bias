@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melva Callwood",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness" : "Patient Melva Callwood, a 67-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately two hours ago while she was at home, and it radiates to her left arm. She describes the pain as a squeezing sensation and rates it as 8 out of 10 in severity. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. On further questioning, the patient reports a history of hypertension and diabetes.",
+  "review_of_symptoms" : {
+    "constitutional" : "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular" : "Patient reports chest pain radiating to left arm along with shortness of breath and diaphoresis.",
+    "respiratory" : "Patient denies cough, shortness of breath, or wheezing.",
+    "gi" : "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu" : "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal" : "Patient denies joint pain, swelling, or stiffness.",
+    "skin" : "Patient denies rash, itching, or skin lesions.",
+    "neurologic" : "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history" : "Patient has a history of hypertension and diabetes.",
+  "medications" : "The patient takes metoprolol 25 mg daily for hypertension and metformin 1000 mg twice daily for diabetes management.",
+  "past_surgical_history" : "",
+  "family_history" : "The patient has a family history of hypertension and diabetes.",
+  "social_history" : "The patient is a retired teacher and lives alone. She does not smoke or consume alcohol."
+}

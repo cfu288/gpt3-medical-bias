@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Jackson",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain started suddenly while the patient was at home and has been ongoing for the past hour. The pain is described as a crushing and squeezing sensation in the center of the chest radiating to the left arm. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness or syncope"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily, Metformin 500mg twice daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "No family history of cardiovascular disease or other significant medical conditions",
+  "social_history": "Former smoker with a 30 pack-year history, quit smoking 10 years ago. Lives alone and is independent with activities of daily living."
+}

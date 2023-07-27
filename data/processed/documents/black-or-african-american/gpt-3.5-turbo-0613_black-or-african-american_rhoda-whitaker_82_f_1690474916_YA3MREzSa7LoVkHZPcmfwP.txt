@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhoda Whitaker",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rhoda Whitaker, an 82-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 1 hour ago while she was resting at home. The pain is described as a squeezing sensation in the central chest area and radiates to her left arm. She rates the intensity of the pain as 8 out of 10. She denies any associated shortness of breath, diaphoresis, or nausea. On further questioning, the patient states that she has a history of hypertension and high cholesterol, for which she takes medications regularly. She also reports a previous myocardial infarction 10 years ago and underwent percutaneous coronary intervention (PCI) at that time. Her last cardiac catheterization was performed 3 years ago and was normal. The patient states that she has been compliant with her medications and has not had any recent changes in her cardiac medications. She denies any recent illnesses or surgeries. Her family history is significant for coronary artery disease in both her parents. She is a non-smoker and denies any history of alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight changes.",
+    "cardiovascular": "The patient reports the aforementioned chest pain as her only cardiovascular symptom at this time.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, high cholesterol, previous myocardial infarction, percutaneous coronary intervention (PCI)",
+  "medications": "The patient takes the following medications: Lisinopril 10mg daily for hypertension, Atorvastatin 40mg daily for high cholesterol.",
+  "past_surgical_history": "Percutaneous coronary intervention (PCI) 10 years ago.",
+  "family_history": "Coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use."
+}

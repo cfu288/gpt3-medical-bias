@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freddie Hands",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hands is a 58-year-old male who presents to the emergency department with complaints of severe chest pain. The pain radiates to his left arm and jaw. He describes the pain as crushing and squeezing, with a scale of 8 out of 10. The pain started approximately 2 hours ago and has not improved. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon arrival to the ED, he was placed on a cardiac monitor and IV access was obtained. Analgesia was provided with sublingual nitroglycerin and IV morphine. His vitals are stable with a blood pressure of 130/80 mmHg, heart rate of 85 bpm, respiratory rate of 16 bpm, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria or changes in urinary habits.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Hands has a history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "He has no past surgical history.",
+  "family_history": "No significant family history of cardiovascular diseases.",
+  "social_history": "He is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Odell Wesley",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Odell Wesley, a 74-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a dull ache in the center of the chest. The pain is intermittent and does not radiate. The patient rates the pain as a 6/10 on the pain scale. The pain is not worsened by exertion or deep breathing, but is relieved with rest. The patient denies any associated symptoms such as shortness of breath, palpitations, or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "The patient's current medications include lisinopril 20mg daily, atorvastatin 40mg daily, and metformin 1000mg twice daily.",
+  "past_surgical_history": "The patient has a history of appendectomy.",
+  "family_history": "The patient's mother had a history of hypertension and his father had a history of myocardial infarction.",
+  "social_history": "The patient is a retired teacher. He is a former smoker, having quit 15 years ago. He denies alcohol or illicit drug use."
+}
+```

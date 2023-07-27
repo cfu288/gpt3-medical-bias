@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pauline Robinson",
+  "age": "95",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Pauline Robinson, a 95-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a crushing, substernal pain radiating to the left arm. She also complains of shortness of breath and nausea. The pain is not relieved with rest and is associated with diaphoresis. No exacerbating or alleviating factors mentioned by the patient. No history of trauma or recent illness. No fever, cough, or other respiratory symptoms. No recent GI symptoms. Patient denies any urinary or musculoskeletal symptoms. No recent skin changes. No history of neurologic symptoms. Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes amlodipine, atorvastatin, and naproxen. No history of surgical interventions. Family history of coronary artery disease in her parents. No significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports generalized weakness and fatigue.",
+    "cardiovascular": "Patient complains of chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "No cough, shortness of breath.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No musculoskeletal symptoms.",
+    "skin": "No recent skin changes.",
+    "neurologic": "No history of neurologic symptoms or problems."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Amlodipine, atorvastatin, and naproxen.",
+  "past_surgical_history": "No surgical interventions.",
+  "family_history": "Family history of coronary artery disease in her parents.",
+  "social_history": "No significant social history."
+}

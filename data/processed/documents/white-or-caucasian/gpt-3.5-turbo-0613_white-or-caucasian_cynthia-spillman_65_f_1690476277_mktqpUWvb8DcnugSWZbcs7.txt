@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cynthia Spillman",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. Onset was sudden, approximately 1 hour ago. Pain is described as a sharp, crushing sensation located in the center of the chest, radiating to the left arm. The pain is accompanied by shortness of breath and diaphoresis. Patient denies any previous episodes of similar chest pain. No alleviating factors identified. In the emergency department, EKG shows ST-segment elevation in leads II, III, AVF, and V4-V6, consistent with an acute ST-elevation myocardial infarction (STEMI). Immediate intervention with cardiovascular catheterization is being arranged.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as chief complaint.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies urinary complaints or changes in urinary pattern.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes, skin lesions, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, loss of consciousness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient had an uncomplicated cholecystectomy in 2010.",
+  "family_history": "Patient's mother had a myocardial infarction at age 75.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She lives alone and is retired."
+}

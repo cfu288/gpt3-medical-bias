@@ -1,0 +1,27 @@
+{
+  "patient_name": "Annie Stewart",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago while she was at rest. She rates the pain as 8/10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has a history of hypertension and hyperlipidemia.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness."
+  },
+
+  "past_medical_history": "Hypertension, hyperlipidemia",
+
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+
+  "past_surgical_history": "None",
+
+  "family_history": "Negative for cardiovascular disease",
+
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She works as a secretary and lives with her husband."
+}

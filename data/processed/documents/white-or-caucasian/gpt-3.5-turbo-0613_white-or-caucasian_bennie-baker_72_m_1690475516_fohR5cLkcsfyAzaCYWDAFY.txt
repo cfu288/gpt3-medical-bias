@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bennie Baker",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Baker presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours prior to arrival while Mr. Baker was at rest. He describes the pain as substernal, squeezing in nature, radiating to his left arm. The pain is accompanied by shortness of breath, diaphoresis, and nausea. The patient denies any relieving or aggravating factors. Upon initial assessment, his vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 18 breaths per minute, temperature of 98.6°F, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis and nausea",
+    "cardiovascular": "Positive for substernal chest pain radiating to the left arm and shortness of breath",
+    "respiratory": "Negative for cough, dyspnea, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "Mr. Baker has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He is currently on amlodipine 5mg daily and metformin 1000mg twice daily for these conditions.",
+  "medications": "Amlodipine 5mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Positive for cardiovascular disease in both parents, no history of cancer.",
+  "social_history": "Mr. Baker is a retired teacher. He is a non-smoker and denies any alcohol or recreational drug use."
+}

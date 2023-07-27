@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Crystal West",
+  "age": "19",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Crystal West, a 19-year-old female, presents to the emergency department with the chief complaint of chest pain. The patient reports that the pain started suddenly about 2 hours ago while she was at home. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain is worsened with deep breathing and movement, and it radiates to her left arm and jaw. The patient denies any associated symptoms such as shortness of breath, nausea, or dizziness. She has no known medical conditions and has never experienced this type of pain before. The patient also denies any recent illnesses, injuries, or stressful events. She states that she has no family history of heart disease or other cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations, irregular heartbeats, or episodes of syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with movement.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no known medical conditions and does not take any regular medications.",
+  "medications": "The patient does not take any medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any family history of heart disease or other cardiac conditions.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol or recreational drugs. She is a student and denies any recent travel or exposure to sick contacts."
+}
+```

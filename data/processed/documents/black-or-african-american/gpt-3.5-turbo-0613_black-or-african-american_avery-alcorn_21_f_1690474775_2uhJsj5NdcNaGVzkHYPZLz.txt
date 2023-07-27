@@ -1,0 +1,21 @@
+{
+  "patient_name": "Avery Alcorn",
+  "age": "21",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Avery Alcorn, a 21-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain that radiates to the left arm. The pain is exacerbated by deep breathing and movement. She denies any history of trauma or recent illness. She reports no associated symptoms such as shortness of breath, nausea, or diaphoresis. She denies any past medical history of heart disease or any surgical procedures. Vital signs on arrival include a blood pressure of 120/80 mmHg, heart rate of 85 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for mild fatigue",
+    "cardiovascular": "Positive for chest pain radiating to the left arm",
+    "respiratory": "Negative for shortness of breath",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for exacerbation of pain with movement",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "No known past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No known past surgical history",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "Patient denies tobacco or illicit drug use. She consumes alcohol socially."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arlene Parsley",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Arlene Parsley, a 62-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain started 1 hour ago and has not improved with rest. She denies any shortness of breath, nausea, or diaphoresis. She has a history of hypertension and is currently taking medication for it. She denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or change in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for control.",
+  "medications": "Hypertension medication",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use."
+}

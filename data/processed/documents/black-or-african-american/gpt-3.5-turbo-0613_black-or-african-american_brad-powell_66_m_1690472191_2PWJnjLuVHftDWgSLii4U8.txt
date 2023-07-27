@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brad Powell",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Brad Powell, a 66-year-old male, presented to the emergency department with a chief complaint of chest pain. He described the pain as a dull ache that started a few hours ago and radiated to his left arm. He rates the pain as a 7 out of 10 and reports shortness of breath. The patient denies any associated symptoms such as diaphoresis, nausea, or lightheadedness. He states that he has a medical history of hypertension and hyperlipidemia, for which he takes medications. Upon further inquiry, the patient reports that he has a family history of coronary artery disease, with both of his parents having suffered from heart attacks. He denies any recent surgeries or significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "In addition to chest pain, the patient reports symptoms of dyspnea and palpitations.",
+    "respiratory": "The patient denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, but the specific medications are unknown and pending further review.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient has a family history of coronary artery disease, with both parents having suffered from heart attacks.",
+  "social_history": "The patient denies any significant social history, including smoking, alcohol use, or illicit drug use."
+}

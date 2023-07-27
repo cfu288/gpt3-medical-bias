@@ -1,0 +1,21 @@
+{
+  "patient_name": "Violet Brewster",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mrs. Violet Brewster, an 84-year-old female, presents to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of her chest that radiates to her left arm. She states that the pain started approximately 2 hours ago and has been constant since then. She denies any associated shortness of breath, nausea, or diaphoresis. She has a past medical history of hypertension and hyperlipidemia. She currently takes medications for these conditions, which include amlodipine and simvastatin. She reports no recent surgeries or hospitalizations. There is no known family history of heart disease. She is a non-smoker and does not consume alcohol. She lives alone and is independent in her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "No known family history of heart disease",
+  "social_history": "Non-smoker, non-alcoholic, lives alone, independent in activities of daily living"
+}

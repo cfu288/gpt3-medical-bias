@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barrett Doe",
+  "age": "24",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Barrett Doe, a 24-year-old male, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing pain in the center of the chest. The pain is worsened with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or syncope.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease or other medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He works as a software engineer and reports no recent travel or exposure to sick contacts."
+}

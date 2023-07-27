@@ -1,0 +1,21 @@
+{
+  "patient_name": "Addie Smith",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Addie Smith, is a 65-year-old female presenting to the emergency department with complaints of chest pain. The pain started this morning and is located in the center of the chest. It is described as a sharp and crushing pain, radiating to the left arm. The pain worsens with activity and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar pain. She also denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described in the chief complaint.",
+    "respiratory": "The patient reports shortness of breath associated with chest pain.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms other than chest pain.",
+    "skin": "The patient denies any skin symptoms.",
+    "neurologic": "The patient denies any neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and simvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a retired teacher and denies any tobacco or alcohol use."
+}

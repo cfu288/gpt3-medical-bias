@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valerie Waggoner",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Valerie Waggoner, a 45-year-old female, presents to the emergency department with complaints of chest pain. The pain began suddenly approximately 2 hours ago and is described as a sharp, stabbing sensation in the central chest. The pain is associated with shortness of breath and diaphoresis. She denies any previous episodes of chest pain or any known cardiac history. On further questioning, she reports that the pain worsens with deep inspiration, coughing, and movement. She denies any recent trauma or travel history. The patient rates her pain as 8 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for pain worsened with movement",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia including metoprolol and atorvastatin.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a positive family history of coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

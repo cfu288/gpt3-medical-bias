@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arno Blume",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Arno Blume, a 69-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the intensity of the pain as 8/10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient has a history of hypertension but is not currently taking any medications. He has not had any surgery in the past. The patient reports a family history of coronary artery disease, with his father having a heart attack at the age of 55. The patient is a former smoker and quit 10 years ago. He drinks alcohol occasionally but denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension but denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of coronary artery disease",
+  "social_history": "Former smoker, quit 10 years ago. Occasional alcohol use. No illicit drug use."
+}

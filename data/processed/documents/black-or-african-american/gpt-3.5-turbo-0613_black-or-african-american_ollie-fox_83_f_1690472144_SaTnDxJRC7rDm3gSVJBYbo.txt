@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Fox",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started an hour ago and is described as a dull ache in the center of the chest. The patient denies any other associated symptoms such as shortness of breath, dizziness, or palpitations. The pain is not relieved with rest or nitroglycerin. Upon further questioning, the patient reports a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No known heart disease. Denies any palpitations or irregular heartbeats.",
+    "respiratory": "No history of chronic cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or history of kidney disease.",
+    "musculoskeletal": "No joint pains or muscle aches.",
+    "skin": "No rashes, lesions, or ecchymosis.",
+    "neurologic": "No history of headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No history of surgery.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker, lives alone, independent with activities of daily living."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Earlene Elkin",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Earlene Elkin, is a 61-year-old female presenting to the emergency department with complaints of chest pain. She reports that the pain began suddenly about 2 hours ago while she was at rest and has been constant since then. The pain is described as a tightness in her chest, radiating down her left arm. She denies any associated shortness of breath, dizziness, or diaphoresis. She does note some nausea and indigestion. The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Some nausea and indigestion.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Herb Stgermain",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Herb Stgermain presents to the emergency department with a chief complaint of chest pain. The patient states that the pain began suddenly approximately 30 minutes ago. The pain is located in the center of the chest and radiates to the left arm. The patient rates the intensity of the pain as 8 out of 10 and describes it as a heaviness or pressure. The pain is not relieved with rest or nitroglycerin. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports a history of hypertension and hyperlipidemia. The patient is currently taking lisinopril and simvastatin. The patient denies any recent surgeries or significant family history of cardiac disease. The patient has a 20 pack-year smoking history but quit smoking 10 years ago. The patient also reports a sedentary lifestyle. An electrocardiogram has been obtained and show ST-segment elevation in leads V2-V4. A cardiac enzyme panel has been sent for evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in the history of present illness.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, syncope, or numbness/tingling."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "No known surgical history",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Quit smoking 10 years ago, sedentary lifestyle"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kermit Henry",
+  "age": "90",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Kermit Henry, a 90-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain has been ongoing for the past hour and is located in the center of his chest. The pain is described as a squeezing sensation and is radiating to his left arm. He rates the pain as 8/10 in severity. The patient denies any associated shortness of breath, diaphoresis, or palpitations. He states that the pain is constant and has not changed in intensity or character since it started.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as mentioned in the chief complaint. He denies any known history of heart disease or prior cardiac events.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He reports being on lisinopril and atorvastatin as his regular medications for these conditions.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports no significant family history of heart disease or other medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

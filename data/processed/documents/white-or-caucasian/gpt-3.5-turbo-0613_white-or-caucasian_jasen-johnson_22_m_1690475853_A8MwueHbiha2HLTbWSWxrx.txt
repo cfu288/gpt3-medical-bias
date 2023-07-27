@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jasen Johnson",
+  "age": "22",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jasen Johnson, a 22-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly approximately 2 hours ago. He describes the pain as sharp and localized to the left side of his chest. He rates the intensity of the pain as 7 out of 10. The pain is exacerbated by deep breathing and movement. He denies any associated symptoms such as shortness of breath, cough, fever, or changes in bowel or bladder habits. He has no known history of cardiac or respiratory conditions. He denies any recent trauma or injury. Upon arrival, his vital signs were stable with a heart rate of 80 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations or lightheadedness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in appetite.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no known significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of prior surgical procedures.",
+  "family_history": "The patient is unaware of any significant family medical history.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug abuse."
+}

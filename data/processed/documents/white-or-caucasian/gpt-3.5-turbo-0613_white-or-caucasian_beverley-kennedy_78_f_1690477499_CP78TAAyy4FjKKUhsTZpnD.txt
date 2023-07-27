@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beverley Kennedy",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started about 2 hours ago. The pain is described as aching and squeezing in nature. She rates the intensity of pain as 8 out of 10. The pain radiates to her left arm and jaw. She also reports shortness of breath and sweating accompanying the chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain, shortness of breath, and sweating.",
+    "respiratory": "Patient denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient reports pain radiating to the left arm and jaw.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or confusion."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient takes metoprolol, atorvastatin, and metformin for her medical conditions.",
+  "past_surgical_history": "Patient has not had any previous surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 65.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

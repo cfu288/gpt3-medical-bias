@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Jones",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 92-year-old male, presents to the emergency department with chief complaint of chest pain. Patient states pain started approximately 3 hours ago and is located in the center of his chest. He describes it as a sharp, stabbing pain that worsens with deep breaths. Patient denies any radiation of pain, shortness of breath, or associated symptoms such as nausea or diaphoresis. Patient rates his pain as a 7 out of 10. He states that he has never experienced this type of pain before and it is different from his usual arthritis pain. On further questioning, patient reports that he has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports the chest pain as his only cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or other GI symptoms.",
+    "gu": "Patient denies any urinary complaints.",
+    "musculoskeletal": "Patient reports chronic arthritis pain but states that it is different from the current chest pain.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as weakness, numbness, or headache."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension.",
+  "medications": "Patient takes medication for hypertension. He is unable to recall the specific name of the medication.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports a family history of cardiovascular disease, including his father who had a heart attack in his 60s.",
+  "social_history": "Patient is retired and lives at home with his wife. He does not smoke or drink alcohol."
+}

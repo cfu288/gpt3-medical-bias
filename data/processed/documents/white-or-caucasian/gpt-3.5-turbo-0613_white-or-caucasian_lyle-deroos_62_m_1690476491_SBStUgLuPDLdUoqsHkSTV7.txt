@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyle Deroos",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started 2 hours ago. The pain is described as crushing and radiates to the left arm. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies any muscle or joint pain.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril 20 mg daily and Atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a former smoker and stopped smoking 5 years ago. Patient denies alcohol or recreational drug use."
+}

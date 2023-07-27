@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Bonner",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ola Bonner, an 83-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour prior to arrival and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in severity. She denies any radiation of the pain and reports no alleviating or exacerbating factors. No associated symptoms such as shortness of breath, nausea, or diaphoresis are reported. The patient has a history of hypertension and takes medication for it. She denies any previous episodes of chest pain or cardiac events. On examination, vitals are stable with a blood pressure of 126/80 mmHg, heart rate of 84 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. She also has a history of osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in her parents.",
+  "social_history": "The patient denies any tobacco use, alcohol consumption, or illicit drug use. She lives alone and is independent in her activities of daily living."
+}

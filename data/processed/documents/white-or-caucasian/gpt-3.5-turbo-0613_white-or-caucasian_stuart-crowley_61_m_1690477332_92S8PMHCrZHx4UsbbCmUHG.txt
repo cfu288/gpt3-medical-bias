@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stuart Crowley",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe chest pain. The pain started suddenly approximately 1 hour ago and is described as a squeezing sensation across the chest. The pain radiates to the left arm. Patient is diaphoretic and feels shortness of breath. No previous episodes of chest pain. No alleviating or aggravating factors reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "Patient complains of chest pain and shortness of breath. No palpitations or syncope.",
+    "respiratory": "Patient reports shortness of breath. No cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or sores.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol and illicit drug use."
+}
+```

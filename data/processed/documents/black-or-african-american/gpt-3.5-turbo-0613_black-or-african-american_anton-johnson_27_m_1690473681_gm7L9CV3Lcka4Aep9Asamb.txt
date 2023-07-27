@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Anton Johnson",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Anton Johnson, a 27-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started about 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. It radiates to the left arm and is associated with shortness of breath. The patient denies any nausea, vomiting, or diaphoresis. There is no history of trauma or recent illness. The patient denies any risk factors for cardiovascular disease and has no known allergies. He has no significant medical history and does not take any medications. He smokes occasionally and denies use of any illicit drugs or alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports palpitations and chest pain.",
+    "respiratory": "The patient complains of shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any skin rash or lesions.",
+    "neurologic": "The patient denies any headache, weakness, or numbness."
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": "The patient is single and works as a software engineer. He has no significant family history of medical conditions."
+}
+```

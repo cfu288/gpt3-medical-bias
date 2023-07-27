@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alta Thomas",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Alta Thomas, an 86-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is exacerbated by physical activity and relieved by rest. She states that she has never experienced this type of pain before. Upon further questioning, she mentions that she has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations, syncope, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, weakness, or swelling.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol 50mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "No known family history of cardiovascular disease.",
+  "social_history": "Patient is a retired teacher. Non-smoker and non-drinker."
+}

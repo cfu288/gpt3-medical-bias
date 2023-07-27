@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ora Williams",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Ora Williams, a 79-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately two hours ago and is described as a burning sensation in the center of her chest. The pain radiates to her left arm and jaw. The patient rates the pain as a 7 out of 10 on the pain scale. She denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and is currently taking medication for it. She denies any recent illness or trauma. On further questioning, the patient reports that she has been experiencing occasional episodes of chest pain over the past few months, but the pain she is currently experiencing is more severe and different from her usual episodes. The patient is concerned about the possibility of a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension (name and dosage unknown). No known allergies to medications.",
+  "past_surgical_history": "None",
+  "family_history": "Father had a history of myocardial infarction.",
+  "social_history": "Patient is retired. She does not smoke or consume alcohol. No known illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cliff Chapman",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient arrived at the emergency department with complaints of severe chest pain that started about an hour ago. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm and jaw. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. On further questioning, he mentions that the pain started after a heavy meal. He has no prior history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "Positive for chest pain. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for epigastric pain after a heavy meal. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, controlled with lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Appendectomy in childhood.",
+  "family_history": "No significant family history of cardiovascular diseases or other genetic conditions.",
+  "social_history": "The patient is employed as a construction worker. He denies tobacco or illicit drug use. Social drinker, one to two drinks per week."
+}

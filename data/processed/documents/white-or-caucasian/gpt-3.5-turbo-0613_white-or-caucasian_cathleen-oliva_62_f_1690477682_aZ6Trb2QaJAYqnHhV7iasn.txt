@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cathleen Oliva",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cathleen Oliva, a 62-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly about 2 hours ago while she was at rest. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. She rates the pain as 8 out of 10 and states that it has not improved since onset. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has no history of chest pain or cardiac disease in the past. Given the severity and sudden onset of the pain, cardiac etiology must be considered. Further evaluation and management are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any symptoms of fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports the presence of the chest pain described above. No palpitations or syncope reported.",
+    "respiratory": "The patient denies any symptoms of cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any symptoms of abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any symptoms of dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any symptoms of joint pain or stiffness.",
+    "skin": "The patient denies any symptoms of rash, itching, or lesions.",
+    "neurologic": "The patient denies any symptoms of headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes daily medications for these conditions, including amlodipine and atorvastatin.",
+  "medications": "Amlodipine 5 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is retired and lives alone."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marilee Rapko",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Marilee Rapko, a 65-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, squeezing sensation located in the center of her chest. The pain started approximately 2 hours ago and has been constant since then. The pain is rated 7 out of 10 in intensity and is not relieved by rest or changes in position. She denies any associated symptoms such as shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or leg swelling",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is currently taking Lisinopril 10mg daily and Atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "The patient's mother had a history of coronary artery disease",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

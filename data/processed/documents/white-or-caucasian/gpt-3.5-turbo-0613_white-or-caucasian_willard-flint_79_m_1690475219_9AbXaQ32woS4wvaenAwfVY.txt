@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willard Flint",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Flint is a 79-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Mr. Flint has a history of hypertension and hyperlipidemia and takes medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache or focal neurologic symptoms"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a heart attack at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

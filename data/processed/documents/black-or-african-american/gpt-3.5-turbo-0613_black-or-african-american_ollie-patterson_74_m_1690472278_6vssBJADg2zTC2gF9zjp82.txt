@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ollie Patterson",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Ollie Patterson, a 74-year-old male, presented to the emergency department with complaints of acute onset severe chest pain. The pain began approximately 2 hours ago and has been localized to the center of the chest. The pain is described as squeezing in nature and radiates to the left arm. The patient also reports associated symptoms of shortness of breath and diaphoresis. He denies any previous history of similar symptoms. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain, diaphoresis, and shortness of breath. No palpitations or syncope.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath at rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "The patient is currently taking aspirin, atorvastatin, and lisinopril for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a former smoker with a 20 pack-year smoking history and quit smoking 10 years ago. He denies any alcohol or illicit drug use. He lives with his spouse and has no significant occupational exposures."
+}
+```

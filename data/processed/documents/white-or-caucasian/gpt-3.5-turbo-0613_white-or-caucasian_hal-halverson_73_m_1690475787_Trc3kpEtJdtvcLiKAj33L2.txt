@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hal Halverson",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Halverson, is a 73-year-old male who presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other associated symptoms such as nausea, vomiting, diaphoresis, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "No cough, wheezing, or sputum production.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily for the management of hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s. Otherwise, there is no significant family history of cardiac diseases.",
+  "social_history": "The patient is a retired accountant. He does not smoke and drinks alcohol occasionally."
+}

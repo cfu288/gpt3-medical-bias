@@ -1,0 +1,21 @@
+{
+  "patient_name": "Saverio Cooley",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Saverio Cooley, a 51-year-old male, presents to the Emergency Department with a chief complaint of chest pain. The patient reports that the chest pain started suddenly about 2 hours ago and is described as a sharp, squeezing pain in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the severity of the pain as 8 out of 10. The pain is associated with shortness of breath and diaphoresis. The patient denies any other symptoms such as nausea, vomiting, or lightheadedness. The patient has no history of similar symptoms in the past. Initial vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the chief complaint.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any abdominal pain or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in the left arm and jaw, which is likely referred pain from the chest.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia. He is currently on amlodipine 10mg daily and atorvastatin 40mg daily.",
+  "medications": "Amlodipine 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. The patient's mother has hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently unemployed and lives alone."
+}

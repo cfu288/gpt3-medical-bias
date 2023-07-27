@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie Greene",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Bettie Greene is a 60-year-old female presenting to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago, and she describes it as a substernal pressure sensation that radiates to her left arm. She rates the pain as 8 out of 10 in intensity. The pain is not relieved by rest and is associated with shortness of breath. She denies any other symptoms such as nausea, vomiting, diaphoresis, or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described. Negative for palpitations or edema.",
+    "respiratory": "Positive for shortness of breath associated with the chest pain. Negative for cough or sputum production.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril 20 mg daily, simvastatin 40 mg daily, acetaminophen as needed for arthritis pain.",
+  "past_surgical_history": "Cholecystectomy in 2010.",
+  "family_history": "Positive for hypertension in both parents, negative for heart disease or cancer.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Claudia Miller",
+    "age": "43",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient Claudia Miller presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago while she was at rest. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. She rates the intensity of the pain as 8 out of 10. The pain is associated with shortness of breath and diaphoresis. She denies any nausea, vomiting, or dizziness. Upon arrival, the patient appeared anxious and was diaphoretic. Vital signs were stable with a heart rate of 90 beats per minute, blood pressure of 130/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+    "review_of_symptoms": {
+        "constitutional": "Negative for fevers, chills, or unintentional weight loss.",
+        "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations.",
+        "respiratory": "Positive for shortness of breath. Negative for cough or wheezing.",
+        "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+        "gu": "Negative for dysuria or urinary frequency.",
+        "musculoskeletal": "Negative for joint pain or swelling.",
+        "skin": "Negative for rash or skin lesions.",
+        "neurologic": "Negative for headache, dizziness, or focal weakness."
+    },
+    "past_medical_history": "The patient reports a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily.",
+    "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+    "past_surgical_history": "No past surgical history reported.",
+    "family_history": "The patient reports a family history of coronary artery disease in her mother.",
+    "social_history": "The patient is a non-smoker and does not use alcohol or recreational drugs. She is married and works as an office manager."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Evans Smith",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain is described as tightness in the center of the chest that started suddenly approximately 4 hours ago. The pain is rated 8/10 in intensity and is radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any changes in sensation or focal weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and simvastatin daily.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

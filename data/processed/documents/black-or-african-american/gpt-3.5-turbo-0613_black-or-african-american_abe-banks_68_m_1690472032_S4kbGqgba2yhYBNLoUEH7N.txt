@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abe Banks",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Abe Banks, a 68-year-old male, presents to the emergency department with a chief complaint of chest pain. Patient reports that the pain started suddenly approximately 2 hours ago, and describes the pain as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. Patient denies any recent trauma or injury. He states that he has a history of hypertension and high cholesterol, for which he takes medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath at rest, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient reports no headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Unknown",
+  "past_surgical_history": "Unknown",
+  "family_history": "Unknown",
+  "social_history": "Patient denies smoking, alcohol use or drug use. He lives alone and has retired from his job as a bank teller."
+}

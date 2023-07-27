@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lee Smith",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is a 36-year-old male who presented to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation that radiates to his left arm. The pain started approximately 2 hours ago and has been constant since then. He denies any associated shortness of breath, palpitations, or diaphoresis. He reports no prior history of similar episodes. Upon further questioning, the patient admits to a recent episode of exertion prior to the onset of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary urgency.",
+    "musculoskeletal": "The patient complains of pain in the left arm but denies any joint swelling or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is not on any medications for these conditions.",
+  "medications": "",
+  "past_surgical_history": "The patient has no record of any previous surgeries.",
+  "family_history": "There is no significant family history of cardiovascular diseases or other major medical conditions.",
+  "social_history": "The patient works as a software engineer and reports a sedentary lifestyle. He denies tobacco use and reports occasional alcohol consumption."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kumar Mcmaster",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Kumar Mcmaster is a 40-year-old male who presented to the emergency department with complaints of chest pain. The chest pain started suddenly approximately 1 hour ago and is described as a sharp, stabbing pain located in the left side of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8 out of 10 in intensity. He denies any associated shortness of breath, nausea, or diaphoresis. He has no known history of cardiac disease. He has been under significant stress at work recently.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, he denies any palpitations or dyspnea.",
+    "respiratory": "He denies any cough or shortness of breath.",
+    "gi": "He denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "He denies any dysuria or hematuria.",
+    "musculoskeletal": "He denies any joint pain or swelling.",
+    "skin": "He denies any rash or any changes in the skin.",
+    "neurologic": "He denies any headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension and hyperlipidemia. He has been diagnosed with these conditions for 5 years and is currently taking amlodipine 5 mg daily and simvastatin 20 mg daily.",
+  "medications": "Amlodipine 5 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 60. His mother is alive and has no significant medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married and has two children. He works as a software engineer and reports high levels of job-related stress."
+}

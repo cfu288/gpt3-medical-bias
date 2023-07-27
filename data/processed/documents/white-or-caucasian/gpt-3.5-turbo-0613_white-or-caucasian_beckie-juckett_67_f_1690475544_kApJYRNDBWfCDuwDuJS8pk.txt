@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beckie Juckett",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Beckie Juckett, a 67-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. She rates the severity of the pain as 8 on a scale of 1-10. She also reports associated shortness of breath and diaphoresis. The patient denies any radiation of the pain or exacerbating factors. She has tried taking antacids without relief. She has a past medical history of hypertension and hyperlipidemia. She is not currently taking any medications. There is no known family history of cardiac disease. The patient denies any history of recent surgeries. She has a social history of being a non-smoker and non-drinker.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache or dizziness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiac disease",
+  "social_history": "Non-smoker, non-drinker"
+}

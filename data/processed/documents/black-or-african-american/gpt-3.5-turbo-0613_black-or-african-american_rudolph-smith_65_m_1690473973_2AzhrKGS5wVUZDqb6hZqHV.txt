@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rudolph Smith",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or nausea. Upon arrival, the patient was in mild distress and appeared anxious. Vital signs were stable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for pain in the left arm.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 70.",
+  "social_history": "Patient is a retired construction worker. He has a 20 pack-year smoking history but quit smoking 3 years ago. He denies any illicit drug use. Patient occasionally drinks alcohol."
+}

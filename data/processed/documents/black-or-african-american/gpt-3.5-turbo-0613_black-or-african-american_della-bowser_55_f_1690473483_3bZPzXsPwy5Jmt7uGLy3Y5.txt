@@ -1,0 +1,21 @@
+{
+  "patient_name": "Della Bowser",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. She reports that the pain began approximately 3 hours ago and is located in the center of her chest. The pain is described as a squeezing sensation and is associated with shortness of breath and nausea. She denies any radiation of the pain or exacerbating factors. The pain is 8/10 in severity. The patient has a history of hypertension and takes medication for it. Upon arrival, her blood pressure was 150/90 mmHg and her heart rate was 90 beats per minute.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. She denies any palpitations or dizziness.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain but denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any difficulty urinating, blood in urine, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any numbness, tingling, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension; details of which are being obtained from her pharmacy.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

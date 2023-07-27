@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leandro Cox",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Cox is a 79-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a substernal pressure-like sensation. It radiates to the left arm and is associated with shortness of breath. The patient denies any previous episodes of chest pain, but states that the pain is similar to a previous myocardial infarction he experienced 10 years ago. He took 2 doses of nitroglycerin without relief. Upon arrival to the emergency department, an electrocardiogram revealed ST segment elevation in leads V2-V5, consistent with an acute ST elevation myocardial infarction (STEMI).\n",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "In addition to the substernal chest pain, the patient also complains of palpitations and lightheadedness.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and a previous myocardial infarction 10 years ago.",
+  "medications": "The patient takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has a history of a coronary artery bypass graft (CABG) surgery 10 years ago.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a retired mechanic. He is a former smoker, having quit 10 years ago. He denies any alcohol or illicit drug use."
+}

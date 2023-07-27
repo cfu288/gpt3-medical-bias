@@ -1,0 +1,19 @@
+{ "patient_name": "Anatoly Tarabocchia", 
+  "age": "25", 
+  "chief_complaint": "Chest Pain", 
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp and crushing sensation located in the center of his chest. The pain started approximately 1 hour ago and has been constant since then. The patient rates the intensity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He states that the pain does not radiate to any other part of his body and is not exacerbated by movement or deep breathing.", 
+  "review_of_symptoms": { 
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.", 
+    "cardiovascular": "The patient denies any palpitations, lightheadedness, or syncope.", 
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.", 
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.", 
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.", 
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.", 
+    "skin": "The patient denies any rash, itching, or changes in the skin.", 
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision." 
+  }, 
+  "past_medical_history": "The patient reports a history of asthma, which is well-controlled with albuterol inhaler as needed. He also has a history of seasonal allergies and takes over-the-counter antihistamines as needed.", 
+  "medications": "Albuterol inhaler as needed for asthma symptoms. Over-the-counter antihistamines as needed for seasonal allergies.", 
+  "past_surgical_history": "The patient has no history of any surgical procedures.", 
+  "family_history": "The patient has no significant family history of cardiovascular, respiratory, or other chronic diseases.", 
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer with no travel or recent sick contacts. He lives alone and has no pets." }

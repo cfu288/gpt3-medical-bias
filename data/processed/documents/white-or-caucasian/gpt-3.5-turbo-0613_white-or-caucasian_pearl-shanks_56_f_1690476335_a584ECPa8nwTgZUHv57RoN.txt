@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pearl Shanks",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Pearl Shanks, a 56-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull, squeezing sensation in the center of the chest. The patient states that the pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in severity. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms. Upon arrival, an EKG was performed, showing ST-segment elevations in leads II, III, and aVF. Given the patient's symptoms and EKG findings, the diagnosis of acute myocardial infarction is suspected and the patient is being treated as such.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Patient reports chest pain associated with shortness of breath and diaphoresis. Denies palpitations, leg swelling, or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria. No history of kidney stones.",
+    "musculoskeletal": "Patient reports pain radiating to the left arm and jaw. No history of recent trauma.",
+    "skin": "No notable skin changes or lesions.",
+    "neurologic": "No history of headaches, dizziness, loss of consciousness, or focal deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently prescribed lisinopril and atorvastatin.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "No known family history of heart disease.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Neil Fox",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Neil Fox, a 54-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. The patient states that the pain is constant and has not improved with rest. He also reports associated shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past. He admits to smoking 1 pack of cigarettes per day for the past 30 years.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as mentioned above, but no palpitations or dyspnea on exertion.",
+    "respiratory": "The patient reports shortness of breath with associated chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any history of headaches, seizures, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 62.",
+  "social_history": "The patient is a current smoker, consuming 1 pack of cigarettes per day for the past 30 years. He denies any alcohol or drug use."
+}
+```

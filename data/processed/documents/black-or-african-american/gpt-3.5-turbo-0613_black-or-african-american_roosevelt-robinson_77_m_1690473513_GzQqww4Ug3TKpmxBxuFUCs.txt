@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roosevelt Robinson",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the ED with complaints of chest pain. Pain is described as a sharp, stabbing sensation located in the center of the chest. Pain started approximately 2 hours ago and is constant. Patient denies any associated symptoms such as shortness of breath, dizziness, nausea or vomiting. EKG performed in triage showed nonspecific ST-T wave changes. Cardiac markers are pending. Given the patient's age and symptoms, concern for acute coronary syndrome is high.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as described in HPI. No palpitations or syncope.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports mild joint pain but does not attribute it to the current chest pain.",
+    "skin": "No rashes, lesions, or other skin changes reported.",
+    "neurologic": "Patient denies any changes in vision, speech, or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient currently takes Lisinopril, Atorvastatin, and Metformin.",
+  "past_surgical_history": "Patient had a knee replacement surgery 10 years ago.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a current smoker with a 50-pack-year smoking history. Lives alone and is independent with activities of daily living. Denies alcohol or illicit drug use."
+}

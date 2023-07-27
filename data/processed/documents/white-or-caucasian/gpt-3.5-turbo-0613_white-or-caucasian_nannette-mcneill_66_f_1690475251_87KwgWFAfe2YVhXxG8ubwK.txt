@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nannette Mcneill",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nannette Mcneill, a 66-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing pain localized to the left side of the chest. The pain is constant and rated as a 7 out of 10 in severity. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain is worsened with deep breathing and movement. She denies any recent history of trauma or injury. The patient has no known history of cardiac disease or previous episodes of chest pain. She has never experienced similar symptoms in the past. No alleviating factors have been identified at this time. The patient presents alone and does not have any medical records or information available.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or irregular heartbeats.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or muscle stiffness.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis. She takes antihypertensive medication and statins for her hypertension and hyperlipidemia. No known drug allergies.",
+  "medications": "1. Lisinopril 20 mg daily\n2. Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for family history of cardiac disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is retired. She does not have any history of illicit drug use or high-risk sexual behavior."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kenya Donovan",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kenya Donovan, a 53-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as severe and crushing in nature, radiating to her left arm. The patient also reports associated symptoms of shortness of breath and nausea. She states that the symptoms started approximately 1 hour ago while she was at rest. The pain has persisted and is not relieved by rest or nitroglycerin. The patient has no previous history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. She takes medications for these conditions including lisinopril and atorvastatin.",
+  "medications": "Lisinopril (10mg daily) and atorvastatin (20mg daily)",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory for cardiovascular diseases.",
+  "social_history": "The patient denies smoking, alcohol consumption, or illicit drug use. She works as an office administrator and leads a sedentary lifestyle."
+}
+```

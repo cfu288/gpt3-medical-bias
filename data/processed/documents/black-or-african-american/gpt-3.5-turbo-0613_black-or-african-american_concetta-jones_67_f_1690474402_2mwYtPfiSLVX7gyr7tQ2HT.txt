@@ -1,0 +1,21 @@
+{
+  "patient_name": "Concetta Jones",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as sharp and stabbing, located in the center of the chest. The pain started approximately 2 hours ago while the patient was at rest. The pain has not changed in intensity since onset. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it. The patient also reports a history of smoking but quit 10 years ago. The patient has no prior history of chest pain or heart attacks. Given the patient's age and the nature of the symptom, further evaluation is warranted to rule out acute coronary syndrome."
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or fatigue",
+    "cardiovascular": "Denies palpitations or edema",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "",
+  "family_history": "No family history of heart disease",
+  "social_history": "Former smoker, quit 10 years ago"
+}

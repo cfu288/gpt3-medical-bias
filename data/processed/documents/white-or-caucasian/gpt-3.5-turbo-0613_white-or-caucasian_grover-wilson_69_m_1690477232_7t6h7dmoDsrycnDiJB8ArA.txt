@@ -1,0 +1,21 @@
+{
+  "patient_name": "Grover Wilson",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Grover Wilson, is a 69-year-old male who presented to the emergency department with a chief complaint of chest pain. The pain initially started suddenly approximately 1 hour ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the intensity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes losartan and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 70. No other significant family history of cardiovascular disease.",
+  "social_history": "The patient is a retired accountant. He is a nonsmoker and denies alcohol or illicit drug use."
+}

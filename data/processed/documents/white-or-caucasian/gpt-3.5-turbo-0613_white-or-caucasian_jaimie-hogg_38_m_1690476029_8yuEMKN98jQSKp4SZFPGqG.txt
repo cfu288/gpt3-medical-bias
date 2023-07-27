@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jaimie Hogg",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started approximately 1 hour ago and is described as a crushing, pressure-like sensation in the center of the chest. Patient also reports shortness of breath and sweating. Pain is not relieved with rest. No known triggers for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "Patient reports shortness of breath. No cough or sputum production.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel or bladder function.",
+    "gu": "Patient denies dysuria, frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "No rashes, changes in skin color, or lesions present.",
+    "neurologic": "No headaches, dizziness, numbness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril and Simvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no known surgical history.",
+  "family_history": "Patient reports family history of heart disease in both parents. Both parents had myocardial infarctions in their 50s.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. Regular exercise routine."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deloris German",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came to the emergency department with a chief complaint of chest pain. She states that the pain started suddenly while she was at rest and has been ongoing for the past 2 hours. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm and jaw. She also reports feeling shortness of breath and nausea. She denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats",
+    "cardiovascular": "Patient reports chest pain as mentioned previously",
+    "respiratory": "Patient complains of shortness of breath",
+    "gi": "Patient denies any abdominal pain, vomiting, or diarrhea",
+    "gu": "Patient denies any urinary symptoms",
+    "musculoskeletal": "No musculoskeletal complaints reported",
+    "skin": "No skin complaints reported",
+    "neurologic": "No neurologic complaints reported"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes metoprolol and simvastatin",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use"
+}

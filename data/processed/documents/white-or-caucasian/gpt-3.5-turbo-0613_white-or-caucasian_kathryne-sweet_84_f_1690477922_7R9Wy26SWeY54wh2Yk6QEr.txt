@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kathryne Sweet",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kathryne Sweet, an 84-year-old female, presented to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation in the center of the chest and radiates to the left arm. The intensity of the pain is 8 out of 10 and it is associated with shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, and unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain, but denies palpitations, lightheadedness, and syncope.",
+    "respiratory": "The patient experiences shortness of breath with chest pain, but denies cough, wheezing, and hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, and changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria or hematuria.",
+    "musculoskeletal": "The patient experiences radiating pain to the left arm, but denies joint pains, muscle weakness, and deformities.",
+    "skin": "The patient denies rashes, breakouts or changes in the skin.",
+    "neurologic": "The patient denies headaches, seizures, dizziness or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient's current medications include lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent with activities of daily living."
+}
+```

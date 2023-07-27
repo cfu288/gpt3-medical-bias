@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Priscilla Karl",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Priscilla Karl, a 37-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp discomfort located in the center of her chest, radiating to her left arm. The pain began approximately 1 hour ago and has been constant since then. She rates the pain intensity as 7 out of 10. The patient denies any associated shortness of breath, palpitations, dizziness, or diaphoresis. She states that she has never experienced this type of pain before. The patient reports that the pain worsens with deep inspiration and lying flat. She denies any recent infections, trauma, or known triggers for her symptoms. She denies any history of heart disease, hypertension, diabetes, or hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies palpitations, syncope, or lower extremity edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rash, itching, or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a past medical history of asthma and seasonal allergies. She uses an albuterol inhaler as needed for asthma symptoms. She has no known drug allergies.",
+  "medications": "The patient currently takes over-the-counter antihistamines for seasonal allergies as needed.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of hypertension in her father and maternal grandfather. There is no history of heart disease, diabetes, or cancer in her immediate family.",
+  "social_history": "The patient is married and works as a school teacher. She denies any tobacco or alcohol use. She exercises regularly and follows a healthy diet."
+}
+```

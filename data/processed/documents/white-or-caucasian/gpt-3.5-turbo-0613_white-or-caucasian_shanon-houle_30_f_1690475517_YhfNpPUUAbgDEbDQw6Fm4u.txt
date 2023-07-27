@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shanon Houle",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shanon Houle, a 30-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly this morning while she was at work. She describes the pain as a sharp, stabbing sensation in the center of her chest. She rates the pain as a 7 out of 10 in intensity. She denies any radiation of the pain, shortness of breath, or palpitations. She has not experienced this type of chest pain before. The pain is not relieved with rest or position changes. She denies any associated symptoms such as nausea, vomiting, diaphoresis, or lightheadedness. She has no history of cardiac disease or risk factors for coronary artery disease. She denies any recent illness, trauma, or significant stressors. She denies any history of clotting disorders or recent immobilization. On review of systems, she denies any constitutional symptoms, respiratory symptoms, gastrointestinal symptoms, genitourinary symptoms, musculoskeletal symptoms, skin changes, or neurologic symptoms. She has no significant past medical history, is not currently taking any medications, and has no history of surgical procedures. She has no family history of cardiac disease. She is a non-smoker and does not consume alcohol. She denies any illicit drug use. She works as a software engineer and denies any recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

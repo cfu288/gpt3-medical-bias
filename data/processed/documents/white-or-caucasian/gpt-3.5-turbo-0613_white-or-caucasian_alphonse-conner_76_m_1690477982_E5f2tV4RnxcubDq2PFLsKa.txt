@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Conner",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Conner presents to the emergency department with complaints of severe chest pain that started 2 hours ago. He describes the pain as a crushing sensation that radiates to his left arm. He denies any shortness of breath, nausea, or diaphoresis. He does have a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies any cough or shortness of breath",
+    "gi": "Denies any abdominal pain, nausea, or vomiting",
+    "gu": "Denies any urinary complaints",
+    "musculoskeletal": "Positive for left arm pain",
+    "skin": "Denies any rashes or lesions",
+    "neurologic": "Denies any headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Mother had a history of myocardial infarction",
+  "social_history": "Retired, denies smoking or alcohol use"
+}

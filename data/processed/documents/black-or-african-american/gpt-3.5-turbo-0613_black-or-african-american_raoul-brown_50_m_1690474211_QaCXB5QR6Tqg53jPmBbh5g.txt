@@ -1,0 +1,27 @@
+{
+  "patient_name": "Raoul Brown",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Raoul Brown, a 50-year-old male, presents to the emergency department with a chief complaint of chest pain. The chest pain started suddenly approximately one hour ago and is described as a squeezing sensation in the middle of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any prior episodes of similar chest pain. He states that the pain is severe and has not resolved since it started. The patient denies any other symptoms such as palpitations, nausea, or diaphoresis.",
+  
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal neurological deficits"
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension, for which he takes metoprolol.",
+  
+  "medications": "Metoprolol 50 mg daily",
+  
+  "past_surgical_history": "The patient has no known past surgical history.",
+  
+  "family_history": "There is a family history of coronary artery disease in the patient's father.",
+  
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and denies any recent travel."
+}

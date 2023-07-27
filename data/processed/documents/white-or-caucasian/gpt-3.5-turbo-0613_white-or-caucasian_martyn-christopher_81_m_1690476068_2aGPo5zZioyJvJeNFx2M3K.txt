@@ -1,0 +1,21 @@
+{
+  "patient_name": "Martyn Christopher",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. The pain started suddenly about an hour ago and radiates to his left arm. He rates the pain as 8/10 and describes it as a squeezing or pressure sensation. The pain is not relieved by rest or nitroglycerin. He denies any shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, sweats, and fatigue.",
+    "cardiovascular": "Patient denies palpitations or irregular heartbeats.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash, skin lesion, or change in skin color.",
+    "neurologic": "Patient denies headache, vision changes, numbness, or weakness in extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which he takes losartan and atorvastatin.",
+  "medications": "Losartan 100mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient has no significant family history of heart disease, stroke, or cancer.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. He lives alone and is independent with activities of daily living."
+}

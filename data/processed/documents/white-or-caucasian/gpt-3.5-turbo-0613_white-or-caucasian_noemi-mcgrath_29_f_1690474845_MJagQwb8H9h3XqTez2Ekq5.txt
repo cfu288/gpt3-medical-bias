@@ -1,0 +1,21 @@
+{
+  "patient_name": "Noemi Mcgrath",
+  "age": "29",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a tightness that started two hours ago while she was at work. The pain is substernal and radiates to her left arm. She rates the pain as a 7/10 and states that it is not relieved by rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Patient has a history of smoking, but does not have any known cardiac or respiratory conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for dyspnea or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for chest pain radiating to left arm",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of smoking and occasional alcohol use. No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Negative for cardiac disease or other significant family history",
+  "social_history": "Patient is a smoker and occasionally consumes alcohol."
+}

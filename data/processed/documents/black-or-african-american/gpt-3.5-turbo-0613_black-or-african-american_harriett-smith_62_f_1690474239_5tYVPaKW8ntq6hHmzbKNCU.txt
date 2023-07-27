@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harriett Smith",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Harriett Smith, a 62-year-old female, presents to the emergency department with complaints of chest pain. According to the patient, the pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. She denies any associated shortness of breath, nausea, or dizziness. Upon further questioning, she reports a history of hypertension, hyperlipidemia, and smoking. She states that she has been noncompliant with her hypertension medications for the past week. She does not have a past surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described above, denies palpitations.",
+    "respiratory": "Denies shortness of breath, cough, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary symptoms or difficulties.",
+    "musculoskeletal": "Reports pain only in the chest area.",
+    "skin": "Denies any rashes, lesions or changes in the skin.",
+    "neurologic": "Denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Noncompliant with her hypertension medications for the past week.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of heart disease.",
+  "social_history": "Smoker, approximately 1 pack per day for the past 30 years."
+}

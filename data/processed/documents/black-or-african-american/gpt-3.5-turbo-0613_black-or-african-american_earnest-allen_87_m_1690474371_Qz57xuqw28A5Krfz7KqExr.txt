@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnest Allen",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe chest pain that started 2 hours ago. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. The pain is accompanied by shortness of breath and diaphoresis. Patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath, but denies palpitations or lightheadedness.",
+    "respiratory": "Patient reports shortness of breath, but denies cough or sputum production.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "Patient denies any changes in sensation, vision, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hypercholesterolemia, and coronary artery disease.",
+  "medications": "Patient takes lisinopril 10mg daily and simvastatin 20mg daily.",
+  "past_surgical_history": "Patient had a coronary stent placement 5 years ago.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

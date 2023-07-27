@@ -1,0 +1,21 @@
+{
+  "patient_name": "Doron Smith",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Doron Smith, a 40-year-old male, presents to the emergency department with complaints of chest pain that started about 2 hours ago. He describes the pain as a sharp, stabbing sensation located in the center of his chest. He rates the severity of the pain as 8 out of 10 and states that it has not improved or worsened since onset. The pain is intermittent and lasts for a few minutes each time. He denies any associated symptoms such as shortness of breath, palpitations, diaphoresis, or dizziness. He admits to feeling anxious and scared. The patient reports no history of trauma or recent illness. He has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or recent weight loss.",
+    "cardiovascular": "No history of heart disease, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, seizures, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and paternal grandfather.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

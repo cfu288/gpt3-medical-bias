@@ -1,0 +1,21 @@
+{
+  "patient_name": "Guy Evans",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Guy Evans, a 58-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a pressure-like sensation in the center of his chest that started approximately 1 hour ago. The pain is 8/10 in severity and radiates to his left arm. He denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or lightheadedness. He has a history of hypertension and hyperlipidemia. He takes an ACE inhibitor and a statin for his chronic conditions. He denies any history of similar symptoms in the past. On physical examination, the patient appears uncomfortable but is in no acute distress. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain, denies palpitations or irregular heartbeats",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain or weakness",
+    "skin": "Denies rash, itching, or changes in moles",
+    "neurologic": "Denies headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "ACE inhibitor, Statin",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "Father with history of myocardial infarction at age 65",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

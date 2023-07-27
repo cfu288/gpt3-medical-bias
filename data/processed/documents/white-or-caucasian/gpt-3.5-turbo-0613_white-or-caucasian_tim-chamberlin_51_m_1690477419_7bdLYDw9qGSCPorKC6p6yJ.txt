@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tim Chamberlin",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tim Chamberlin is a 51-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient reports experiencing the pain for the past 2 hours. He describes the pain as a sharp, squeezing sensation in the center of his chest, radiating to his left arm. The pain is rated 8/10 in intensity and is not relieved with rest. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous similar episodes or cardiac history. His vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports chest pain as described above.",
+    "respiratory": "The patient reports shortness of breath associated with chest pain.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or changes in skin color.",
+    "neurologic": "The patient denies any numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled on lisinopril.",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

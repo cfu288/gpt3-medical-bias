@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Melody Beard",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Melody Beard, a 64-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a pressure-like sensation located in the center of her chest. The pain started approximately 1 hour ago and has been continuous since then. She rates the intensity of the pain as 7 out of 10. She denies any radiation of the pain or exacerbating or relieving factors. She states that the pain is associated with mild shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports previous diagnosis of hypertension, currently on medications for the condition. Denies any history of heart attack, irregular heart rhythms, or leg swelling.",
+    "respiratory": "Patient has a history of smoking cigarettes for 20 years but quit 10 years ago. Denies any chronic cough or difficulty breathing at rest.",
+    "gi": "Patient reports occasional episodes of heartburn but denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any difficulty urinating, blood in urine, or urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history significant for hypertension.",
+  "medications": "Patient is currently taking hydrochlorothiazide for hypertension.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports a family history of hypertension in her mother and brother.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She denies any illicit drug use."
+}
+```

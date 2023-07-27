@@ -1,0 +1,21 @@
+{
+  "patient_name": "Garrett Davy",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Garrett Davy, a 56-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago while he was at rest. The pain is described as a crushing sensation in the center of his chest, radiating down his left arm. He rates the pain as 8/10 in intensity. The patient denies any associated shortness of breath, dizziness, or diaphoresis. He admits to a history of smoking for 30 years, with a 20-pack year smoking history. He denies any recent changes in his physical activity or diet. Upon further questioning, the patient reveals that he has a family history of coronary artery disease, with his father and two paternal uncles having been diagnosed in their 50s. He also reports a sedentary lifestyle with minimal exercise. No recent trauma or illness reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss reported.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements reported.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes, lesions, or changes in skin color reported.",
+    "neurologic": "No changes in vision, headache, dizziness, or weakness reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril 10 mg daily.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Family history of coronary artery disease in father and two paternal uncles.",
+  "social_history": "Patient has a 20-pack year smoking history and has been smoking for 30 years. He reports a sedentary lifestyle with minimal exercise."
+}

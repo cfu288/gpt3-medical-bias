@@ -1,0 +1,27 @@
+{
+  "patient_name": "Marshall Brennan",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness":"The patient, Marshall Brennan, a 66-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest that radiates to the left arm. The patient rates the pain as 8 out of 10 in intensity. He reports associated shortness of breath and diaphoresis. There is no relief with rest or nitroglycerin. The patient denies any history of similar pain in the past.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath at rest.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or wounds.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. He takes metoprolol for blood pressure control and atorvastatin for lipid management. The patient is compliant with his medications.",
+  
+  "medications": "Metoprolol 25 mg daily, atorvastatin 40 mg daily",
+  
+  "past_surgical_history": "The patient has no prior surgical history.",
+ 
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. There is no family history of other cardiovascular diseases.",
+  
+  "social_history": "The patient is a retired teacher. He is a non-smoker and denies any alcohol or illicit drug use."
+}

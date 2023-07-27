@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edie Shapiro",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Edie Shapiro, a 60-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of her chest. The patient rates the pain as 8 out of 10 in intensity. She states that the pain radiates to her left arm and jaw. She also reports associated symptoms of shortness of breath and nausea. The patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss.",
+    "cardiovascular": "Positive for chest pain radiating to the left arm and jaw.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for vomiting and diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain and stiffness.",
+    "skin": "Negative for rashes and lesions.",
+    "neurologic": "Negative for headache and dizziness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at age 65.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

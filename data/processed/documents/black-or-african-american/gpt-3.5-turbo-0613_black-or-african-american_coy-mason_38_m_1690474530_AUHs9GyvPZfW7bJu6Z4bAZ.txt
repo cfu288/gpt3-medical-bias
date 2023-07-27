@@ -1,0 +1,21 @@
+{
+  "patient_name": "Coy Mason",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The chest pain began suddenly approximately one hour ago and is described as a sharp, stabbing pain that radiates to the left arm. The patient rates the pain as 8 out of 10. He denies any exertional symptoms or shortness of breath. There is no history of trauma. EKG shows ST-segment elevation in leads V2-V4.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Other than the chest pain described above, the patient denies any palpitations, dyspnea on exertion, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limited range of motion.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin, respectively.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a smoker with a 5-pack-year smoking history. He denies any alcohol or illicit drug use."
+}

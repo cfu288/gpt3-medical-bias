@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sharon Bruno",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Sharon Bruno, a 72-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient reports feeling nauseous and sweaty. She denies any shortness of breath or palpitations. The pain is not relieved with rest and worsens with exertion. She has no prior history of similar episodes. She denies any recent trauma or fever. Upon initial assessment, the patient is alert and oriented. Vitals signs are stable with blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain, denies palpitations or irregular heartbeat.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or musculoskeletal symptoms.",
+    "skin": "Negative for rash, itching, or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient's current medications include lisinopril 10mg daily, simvastatin 20mg daily, and ibuprofen 400mg as needed for joint pain.",
+  "past_surgical_history": "Patient has had a cholecystectomy in 2015.",
+  "family_history": "Patient's mother had a history of hypertension and her father had a history of myocardial infarction.",
+  "social_history": "Patient is a non-smoker and denies illicit drug use. She occasionally drinks alcohol. She lives alone and is independent with activities of daily living."
+}

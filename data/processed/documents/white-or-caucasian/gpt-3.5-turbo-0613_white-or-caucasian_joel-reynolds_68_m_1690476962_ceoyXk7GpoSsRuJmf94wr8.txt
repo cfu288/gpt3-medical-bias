@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joel Reynolds",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Joel Reynolds, a 68-year-old male, presents to the emergency department complaining of chest pain. The pain started approximately 1 hour ago and is described as a tightness and pressure in the center of the chest. The patient rates the pain as 8 out of 10 in severity. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms. It is important to rule out cardiac causes of chest pain given the patient's age and symptom presentation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, diaphoresis, shortness of breath.",
+    "respiratory": "No cough, sputum production, or dyspnea.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily.",
+  "past_surgical_history": "Appendectomy at age 30.",
+  "family_history": "Mother and father both had hypertension and died of myocardial infarctions.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

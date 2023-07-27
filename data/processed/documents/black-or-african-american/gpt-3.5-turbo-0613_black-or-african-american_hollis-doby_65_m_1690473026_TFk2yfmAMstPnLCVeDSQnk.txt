@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hollis Doby",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Hollis Doby, is a 65-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient describes the pain as a dull ache located in the center of his chest that started approximately one hour ago. The pain is radiating to his left arm and jaw. He denies any shortness of breath, nausea, or diaphoresis. The patient has a past medical history of hypertension and hyperlipidemia. He takes Lisinopril and Atorvastatin for these conditions. The patient has no known drug allergies. He has not undergone any previous surgeries. His family history is significant for coronary artery disease in his father. The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a receptionist and does not engage in any strenuous physical activity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain radiating to his left arm and jaw, but denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril and Atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has not undergone any previous surgeries.",
+  "family_history": "The patient's father had coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a receptionist and does not engage in any strenuous physical activity."
+}

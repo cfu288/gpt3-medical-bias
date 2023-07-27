@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annette Carter",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a tightness in the center of her chest that started suddenly about 2 hours ago. It is accompanied by shortness of breath and sweating. She denies any associated symptoms such as nausea or dizziness. She states that the pain is radiating to her left arm. She has a history of hypertension and hyperlipidemia and is currently taking medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Positive for hypertension and heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

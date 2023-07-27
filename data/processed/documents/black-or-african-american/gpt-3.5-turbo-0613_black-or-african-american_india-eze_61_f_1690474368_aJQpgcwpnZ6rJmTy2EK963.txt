@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "India Eze",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, India Eze, a 61-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about 2 hours ago while she was at home watching TV. The pain is located in the center of her chest and is described as a squeezing or pressure-like sensation. She rates the severity of the pain as 8 out of 10. She denies any radiation of the pain or associated symptoms such as shortness of breath, palpitations, or diaphoresis. She reports that the pain is not relieved with rest or positioning. She denies any previous episodes of chest pain. The patient has a history of hypertension and hyperlipidemia but is otherwise healthy.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No palpitations or irregular heartbeats.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy at age 25.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 65. There is no history of early cardiac disease or sudden death in other family members.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs. She is retired and lives alone. She denies any recent travel or exposure to sick contacts."
+}
+```

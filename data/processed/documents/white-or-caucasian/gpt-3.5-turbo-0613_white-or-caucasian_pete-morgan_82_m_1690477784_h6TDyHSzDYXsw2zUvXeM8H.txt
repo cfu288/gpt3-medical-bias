@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pete Morgan",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Morgan, is an 82-year-old male who presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a tightness and pressure in the center of his chest. He rates the pain as 7 out of 10 and states that it radiates to his left arm. He denies any shortness of breath, nausea, or diaphoresis. He does mention feeling slightly lightheaded.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Positive for radiating pain to the left arm.",
+    "skin": "No skin abnormalities noted.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Morgan has a past medical history of hypertension, hyperlipidemia, and diabetes.",
+  "medications": "He currently takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and metformin for diabetes.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "There is a family history of coronary artery disease in his father who had a heart attack at the age of 65.",
+  "social_history": "The patient is a retired accountant. He has a sedentary lifestyle and does not engage in regular exercise. He is a former smoker with a 20 pack-year history, but he quit smoking 10 years ago. He denies alcohol or recreational drug use."
+}

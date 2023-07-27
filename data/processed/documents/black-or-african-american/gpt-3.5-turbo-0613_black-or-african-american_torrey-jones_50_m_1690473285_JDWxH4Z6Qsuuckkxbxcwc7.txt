@@ -1,0 +1,21 @@
+{
+  "patient_name": "Torrey Jones",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Torrey Jones, is a 50-year-old male who presented to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to both arms and is associated with shortness of breath and diaphoresis. The patient denies any previous history of similar symptoms. Upon arrival, the patient was initially given 160mg of aspirin, nitroglycerin 0.4 mg sublingually, and started on supplemental oxygen at 2 liters per minute. The patient's vital signs were stable and an EKG was obtained, which showed ST-segment elevation in leads II, III, and aVF, suggestive of inferior wall myocardial infarction. The patient was promptly transferred to the cardiac catheterization lab for emergent coronary angiography and possible percutaneous coronary intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient complains of chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction in his 60s.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Sherman Davis",
+  "age": "45",
+  "gender": "m",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sherman Davis, a 45-year-old male, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation in the center of his chest that started approximately one hour ago. The pain is radiating to his left arm and jaw. He rates the intensity of the pain as 8 out of 10. He denies any associated shortness of breath, diaphoresis, or lightheadedness. He has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for dysuria",
+    "musculoskeletal": "Negative for musculoskeletal pain",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or numbness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and smoking.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction at the age of 55. There is no other significant family history.",
+  "social_history": "The patient is a smoker, currently smoking 10 cigarettes per day. He drinks alcohol occasionally and denies any illicit drug use."
+}

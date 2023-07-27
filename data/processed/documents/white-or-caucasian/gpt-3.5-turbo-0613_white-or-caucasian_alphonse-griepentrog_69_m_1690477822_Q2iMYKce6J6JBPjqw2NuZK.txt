@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alphonse Griepentrog",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Griepentrog, is a 69-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is located in the center of his chest. He describes the pain as a heavy pressure sensation, radiating to his left arm. He rates the intensity of the pain as 8 out of 10. The pain is associated with shortness of breath and diaphoresis. The patient denies any palpitations or lightheadedness. He has no prior history of similar symptoms. On further questioning, he states that the pain worsens with exertion and improves with rest. He denies any recent illness or trauma. He has a past medical history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for cough, shortness of breath at rest, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Positive for coronary artery disease in father.",
+  "social_history": "The patient is a retired accountant. He denies a history of tobacco use, alcohol intake, or illicit drug use."
+}
+```

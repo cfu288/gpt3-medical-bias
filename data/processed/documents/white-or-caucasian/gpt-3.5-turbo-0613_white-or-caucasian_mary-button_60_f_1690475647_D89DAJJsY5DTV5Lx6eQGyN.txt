@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Button",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mary Button, a 60-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain has not radiated to any other area. The patient rates the pain as a 7 out of 10 in severity. She denies any associated symptoms such as shortness of breath, palpitations, diaphoresis, or nausea. She has no history of similar chest pain in the past. On physical examination, the patient appears in distress and is clutching her chest. Her vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations, syncope, or edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled on medications.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of coronary artery disease in her father who had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She works as an office manager and lives with her husband."
+}

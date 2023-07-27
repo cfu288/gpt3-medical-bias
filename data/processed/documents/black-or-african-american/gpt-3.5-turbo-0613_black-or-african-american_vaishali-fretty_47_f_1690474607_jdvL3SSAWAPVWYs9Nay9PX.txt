@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaishali Fretty",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Vaishali Fretty, a 47-year-old female, presents to the emergency department with complaints of chest pain. The pain started abruptly approximately 2 hours ago and is described as a sharp, stabbing sensation localized to the left side of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. The pain is not relieved with rest and seems to worsen with physical activity. On arrival, her blood pressure is 150/90 mmHg, heart rate is 90 bpm, respiratory rate is 18 breaths per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain as mentioned earlier. There are no palpitations or edema reported.",
+    "respiratory": "There are no associated respiratory symptoms such as cough, shortness of breath, or wheezing.",
+    "gi": "There are no associated gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "There are no associated genitourinary symptoms such as urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "There are no associated musculoskeletal symptoms such as joint pain, muscle weakness, or stiffness.",
+    "skin": "There are no associated skin rashes, lesions, or changes.",
+    "neurologic": "There are no associated neurologic symptoms such as headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes medication.",
+  "medications": "The patient takes antihypertensive medication (lisinopril 10 mg daily) for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in both her parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. She is married, works as a software engineer, and lives a sedentary lifestyle."
+}

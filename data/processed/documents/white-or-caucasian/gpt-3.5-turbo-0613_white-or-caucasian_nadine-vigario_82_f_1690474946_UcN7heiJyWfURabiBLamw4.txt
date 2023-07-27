@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nadine Vigario",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with sudden onset of severe chest pain. Pain is described as a crushing sensation in the center of the chest, radiating to both arms. Patient also reports shortness of breath and diaphoresis. Pain started approximately 1 hour ago and has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "As mentioned in chief complaint.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and diabetes.",
+  "medications": "Patient takes lisinopril, atorvastatin, and metformin for her medical conditions.",
+  "past_surgical_history": "Patient has a history of appendectomy.",
+  "family_history": "Patient has a family history of heart disease.",
+  "social_history": "Patient is a retired teacher and lives alone. She does not smoke or drink alcohol."
+}

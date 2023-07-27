@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Schaffner",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tom Schaffner presents to the emergency department with a chief complaint of severe chest pain that started approximately 1 hour ago. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any recent trauma or injury. He rates the pain as 9/10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain and pressure. He denies palpitations or history of arrhythmias.",
+    "respiratory": "Patient reports shortness of breath but denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes, itching, or discoloration.",
+    "neurologic": "Patient denies headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is on antihypertensive and statin medications.",
+  "medications": "1. Amlodipine 5mg daily\n2. Atorvastatin 40mg daily",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 70. No other significant family history of cardiovascular disease.",
+  "social_history": "Patient is a current smoker with a 40 pack-year history. He drinks alcohol occasionally and denies any illicit drug use."
+}

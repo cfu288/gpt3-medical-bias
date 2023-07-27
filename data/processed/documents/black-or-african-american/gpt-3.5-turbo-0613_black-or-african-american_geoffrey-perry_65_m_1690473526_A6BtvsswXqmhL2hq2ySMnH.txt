@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geoffrey Perry",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Geoffrey Perry, a 65-year-old male, presents to the emergency department complaining of chest pain. The pain started approximately 2 hours ago while he was at rest. He describes it as a squeezing sensation in the center of his chest, radiating to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a history of hypertension and takes medication for it. He has never experienced chest pain like this before and is concerned it might be a heart attack. He denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintended weight changes.",
+    "cardiovascular": "The patient reports chest pain as his chief complaint, denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies shortness of breath, cough, or history of lung disease.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary symptoms or changes in urine color.",
+    "musculoskeletal": "The patient denies any recent injuries or bone/joint pain.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies headaches, dizziness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes medication for it. He does not have any other chronic medical conditions.",
+  "medications": "The patient takes medication for hypertension. He does not remember the exact name of the medication, but he takes it daily as prescribed.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in both parents.",
+  "social_history": "The patient is a retired teacher. He is married and lives with his spouse. He denies tobacco, alcohol, or illicit drug use."
+}

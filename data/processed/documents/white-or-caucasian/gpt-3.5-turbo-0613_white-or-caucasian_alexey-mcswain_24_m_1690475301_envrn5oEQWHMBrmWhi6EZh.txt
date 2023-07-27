@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alexey Mcswain",
+  "age": "24",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alexey Mcswain, a 24-year-old male, presented with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation that began approximately 3 hours ago. The pain is localized to the central chest region and radiates to his left shoulder. The patient rates the pain as a 7 out of 10 in severity. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. The pain is not relieved with rest or position change.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or malaise.",
+    "cardiovascular": "The patient denies any history of prior heart conditions, palpitations, or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of heart disease, cancer, or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse. He is currently employed as a software engineer and does not engage in high-risk activities or take regular medications."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Von Ellis",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Ellis is a 64-year-old male who presents to the emergency department with complaints of chest pain. He states that the pain started about an hour ago and is a sharp, stabbing pain in the center of his chest. The pain radiates to his left arm. He rates the pain as a 7 out of 10 and states that it is constant. He denies any shortness of breath, nausea, or diaphoresis. He has a history of hypertension and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain.",
+    "respiratory": "Patient denies shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient complains of pain radiating to his left arm.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies headache, dizziness, or confusion."
+  },
+  "past_medical_history": "Hypertension, high cholesterol.",
+  "medications": "Lisinopril 10mg daily, simvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy in 2002.",
+  "family_history": "Mother with history of heart disease.",
+  "social_history": "Retired, non-smoker, occasional alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sybil Jackson",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sybil Jackson, a 69-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a pressure-like sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. The patient rates the pain as a 7 out of 10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint. Denies palpitations or lightheadedness.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "Positive for chest pain as chief complaint. No joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes aspirin 81 mg daily, lisinopril 10 mg daily, and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a lifelong non-smoker and denies alcohol or illicit drug use."
+}

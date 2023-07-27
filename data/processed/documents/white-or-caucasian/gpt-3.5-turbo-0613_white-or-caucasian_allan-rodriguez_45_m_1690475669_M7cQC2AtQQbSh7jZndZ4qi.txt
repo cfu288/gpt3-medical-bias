@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Rodriguez",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Rodriguez presented to the emergency department complaining of sudden onset chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. He rates the pain as 8/10 in intensity and states that it radiates to his left arm. He denies any shortness of breath, palpitations, or dizziness. He also denies any previous episodes of chest pain. Upon further questioning, patient reports that he has a history of high blood pressure and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or muscle stiffness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, hypercholesterolemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Positive for coronary artery disease in father",
+  "social_history": "Non-smoker, drinks alcohol occasionally"
+}

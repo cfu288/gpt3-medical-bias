@@ -1,0 +1,21 @@
+{
+  "patient_name": "Helene Gillies",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient states that the pain began approximately 2 hours ago and is located in the center of the chest. Patient describes the pain as a squeezing sensation that radiates to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, weight loss, or weight gain.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath at rest.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any changes in vision, speech, or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Patient takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient has no history of previous surgeries.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

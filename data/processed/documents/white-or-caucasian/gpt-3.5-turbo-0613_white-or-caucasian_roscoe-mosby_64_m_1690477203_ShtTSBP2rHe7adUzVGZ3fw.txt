@@ -1,0 +1,21 @@
+{
+    "patient_name": "Roscoe Mosby",
+    "age": "64",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient also reports associated shortness of breath and diaphoresis. There is no alleviating or aggravating factors reported. No prior episodes of similar pain. No known history of heart disease.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss.",
+        "cardiovascular": "Positive for chest pain as described above.",
+        "respiratory": "Denies cough, sputum production, or shortness of breath at rest.",
+        "gi": "No nausea, vomiting, or abdominal pain.",
+        "gu": "No dysuria, hematuria, or urinary frequency.",
+        "musculoskeletal": "Denies joint pain or swelling.",
+        "skin": "No rashes or skin lesions.",
+        "neurologic": "No weakness, numbness, or changes in coordination."
+    },
+    "past_medical_history": "Hypertension diagnosed 5 years ago, well-controlled on medication.",
+    "medications": "Patient takes lisinopril 20mg daily for hypertension.",
+    "past_surgical_history": "Appendectomy at age 42.",
+    "family_history": "Mother had a myocardial infarction at age 72. Father died of a stroke at age 68. No other significant family history.",
+    "social_history": "Patient denies tobacco use. Reports occasional alcohol consumption."
+}

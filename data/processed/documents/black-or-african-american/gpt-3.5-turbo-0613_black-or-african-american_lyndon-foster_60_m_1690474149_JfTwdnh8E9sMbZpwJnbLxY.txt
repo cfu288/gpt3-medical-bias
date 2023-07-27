@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyndon Foster",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Lyndon Foster, a 60-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a tightness in the chest that radiates to the left arm. The patient rates the pain as 8 out of 10 and states that it has not improved with rest. He denies any other symptoms such as shortness of breath, palpitations, or diaphoresis. Upon further questioning, the patient reports a history of hypertension and high cholesterol. He is currently taking medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough, dyspnea, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for chest pain radiating to the left arm",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Patient is currently taking medications for hypertension and high cholesterol",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies tobacco and alcohol use. Lives independently and is currently retired."
+}

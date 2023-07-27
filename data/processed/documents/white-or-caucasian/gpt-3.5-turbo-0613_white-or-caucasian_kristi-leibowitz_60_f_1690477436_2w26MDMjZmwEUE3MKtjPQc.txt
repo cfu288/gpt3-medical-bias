@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kristi Leibowitz",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kristi Leibowitz, a 60-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 1 hour ago. She describes the pain as a heavy pressure in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 on the numeric pain scale. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has a history of hypertension and takes medications for it. She denies any recent illnesses, medications changes, or travel. Upon initial assessment, vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Mother with hypertension and father with cardiac disease.",
+  "social_history": "The patient is a retired school teacher. She is married and lives with her spouse. She denies tobacco use but has a history of occasional alcohol consumption. She denies any illicit drug use."
+}

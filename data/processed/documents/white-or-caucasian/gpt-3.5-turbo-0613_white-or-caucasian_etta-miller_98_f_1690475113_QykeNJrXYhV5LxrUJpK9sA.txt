@@ -1,0 +1,21 @@
+{
+  "patient_name": "Etta Miller",
+  "age": "98",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Etta Miller, a 98-year-old female, presents to the emergency department with complaints of chest pain. The chest pain is described as a squeezing sensation that started approximately 2 hours ago. She rates the intensity of the pain as 8 out of 10 and states that it radiates to her left arm. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no history of similar chest pain and is concerned that it may be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any genitourinary symptoms such as dysuria or urinary frequency.",
+    "musculoskeletal": "The patient reports chest pain as the only musculoskeletal symptom.",
+    "skin": "The patient denies any skin-related symptoms such as rash or lesions.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She takes medications for these conditions including amlodipine, atorvastatin, and acetaminophen.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 10 mg daily, acetaminophen 650 mg as needed.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and mother.",
+  "social_history": "The patient lives alone and independently. She is a nonsmoker and denies any alcohol or illicit drug use."
+}

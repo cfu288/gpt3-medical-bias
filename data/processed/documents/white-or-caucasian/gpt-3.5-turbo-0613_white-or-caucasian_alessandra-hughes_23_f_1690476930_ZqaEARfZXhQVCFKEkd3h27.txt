@@ -1,0 +1,47 @@
+```json
+{
+  "patient_name": "Alessandra Hughes",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alessandra Hughes, a 23-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, stabbing sensation in the center of her chest. She rates the severity of the pain as a 7 out of 10. She denies any associated shortness of breath, dizziness, or palpitations. Upon further questioning, she mentions that the pain worsens with deep breathing and is relieved when she sits up straight. She denies any recent viral illnesses or physical exertion. There is no radiation of the pain to the arms or jaw. She has no medical history of cardiac or respiratory diseases. 
+
+The patient denies any constitutional symptoms such as fever, chills, or night sweats. 
+
+Cardiovascular: The patient denies any previous episodes of chest pain, palpitations, or edema. 
+
+Respiratory: The patient denies any cough, shortness of breath, or wheezing. 
+
+GI: The patient denies any nausea, vomiting, or abdominal pain. 
+
+GU: The patient denies any urinary frequency, urgency, or dysuria. 
+
+Musculoskeletal: The patient denies any joint pain, swelling, or stiffness. 
+
+Skin: The patient denies any rashes, itching, or lesions. 
+
+Neurologic: The patient denies any headache, weakness, or changes in vision. 
+
+Past Medical History: The patient has no significant past medical history and is not currently taking any medications. 
+
+Past Surgical History: The patient has no past surgical history. 
+
+Family History: The patient denies any family history of cardiac or respiratory diseases. 
+
+Social History: The patient is a non-smoker and denies any alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for previous episodes of chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, itching, or lesions.",
+    "neurologic": "Negative for headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "None",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Negative for family history of cardiac or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

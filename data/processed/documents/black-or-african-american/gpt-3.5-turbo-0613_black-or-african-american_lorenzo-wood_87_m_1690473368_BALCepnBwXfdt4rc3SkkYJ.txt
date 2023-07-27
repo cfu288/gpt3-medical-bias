@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lorenzo Wood",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wood, an 87-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest, which started approximately 2 hours ago. He states that the pain is radiating to his left arm and jaw. The pain is associated with shortness of breath and diaphoresis. He denies any previous episodes of similar chest pain. Upon arrival, his blood pressure was 160/90 mmHg, heart rate was 100 beats per minute, respiratory rate was 20 breaths per minute, and oxygen saturation was 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain, radiating to left arm and jaw",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Father had myocardial infarction at age 60",
+  "social_history": "Retired, non-smoker, occasional alcohol use"
+}

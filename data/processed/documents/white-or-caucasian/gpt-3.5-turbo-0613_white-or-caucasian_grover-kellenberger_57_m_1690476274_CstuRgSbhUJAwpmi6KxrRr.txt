@@ -1,0 +1,21 @@
+{
+  "patient_name": "Grover Kellenberger",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Grover Kellenberger, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in intensity and reports it radiating to the left arm. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any aggravating or alleviating factors. He has no previous history of similar episodes. Upon arrival, the patient appeared distressed and was immediately triaged to the cardiac monitoring area. Initial vital signs showed blood pressure of 140/90 mmHg, heart rate of 110 bpm, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air. An EKG was performed and showed ST-segment elevation in leads V1-V6, indicative of an acute ST-elevation myocardial infarction (STEMI). The patient was promptly started on aspirin and nitroglycerin, and cardiology was consulted for immediate revascularization intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations but denies any lightheadedness or syncope.",
+    "respiratory": "The patient complains of shortness of breath upon exertion. No cough or wheezing is present.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or limitations in range of motion reported.",
+    "skin": "No rashes, lesions, or discolorations noted.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a smoker with a 30-pack-year history. He denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Effie Brown",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of chest pain. The pain started approximately 2 hours ago. Patient describes the pain as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and neck. Patient also reports shortness of breath and sweating. Reports no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Reports shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking metoprolol and simvastatin.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use."
+}

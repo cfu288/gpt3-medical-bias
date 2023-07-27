@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerrie Anderson",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jerrie Anderson, a 59-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as an 8/10 in intensity. He denies any associated symptoms such as shortness of breath, nausea, or sweating. The patient states that the pain is not relieved with rest or nitroglycerin. Upon further questioning, the patient reports a history of hypertension, dyslipidemia, and a previous myocardial infarction 2 years ago, for which he underwent stent placement. He is currently taking medications for these conditions, including aspirin, a beta blocker, and a statin. The patient denies any recent illnesses, injuries, or changes in medications. He also denies any recent surgeries or hospitalizations. The patient has a family history of coronary artery disease, with his father having a heart attack at the age of 65. In terms of social history, the patient is a non-smoker and does not consume alcohol. He does not use recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia, previous myocardial infarction with stent placement.",
+  "medications": "Aspirin, beta blocker, statin.",
+  "past_surgical_history": "Stent placement 2 years ago for myocardial infarction.",
+  "family_history": "Father with history of heart attack at age 65.",
+  "social_history": "Non-smoker, non-alcoholic, no recreational drug use."
+}

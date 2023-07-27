@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosetta Smith",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, an 83-year-old female named Rosetta Smith, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a tight, squeezing sensation in the center of her chest. She rates the severity of the pain as 7/10. She denies any radiation of the pain, shortness of breath, or palpitations. She states that the pain is constant and has not changed in intensity since it started. She denies any associated symptoms such as nausea, vomiting, or diaphoresis. The patient has a history of hypertension and hyperlipidemia and takes medication for both conditions. She states that she has never experienced chest pain before and is concerned that it may be related to her heart.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or irregular heartbeat",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Mother had a history of myocardial infarction in her 70s",
+  "social_history": "Non-smoker, non-drinker, lives alone and independently"
+}

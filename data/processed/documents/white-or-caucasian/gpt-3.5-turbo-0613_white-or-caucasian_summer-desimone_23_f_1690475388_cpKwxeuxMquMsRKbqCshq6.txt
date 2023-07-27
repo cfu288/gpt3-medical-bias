@@ -1,0 +1,27 @@
+{
+  "patient_name": "Summer Desimone",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Onset of pain was sudden, while the patient was resting at home. The pain is described as a sharp, stabbing sensation in the center of the chest, radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis.
+
+  The pain has persisted for the past 30 minutes and is not relieved with rest or change in position. The patient rates the pain as 8 out of 10 in severity. There is no history of similar episodes in the past. The patient denies any recent trauma, drug use, or history of heart disease.
+
+  On physical examination, vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Cardiovascular examination reveals no murmurs, rubs, or gallops. Lung sounds are clear and equal bilaterally.
+
+  Given the patient's young age and concerning symptom of chest pain, further evaluation is warranted to rule out cardiac etiology. The differential diagnosis includes myocardial infarction, pericarditis, gastrointestinal causes, musculoskeletal pain, and anxiety. The patient will undergo further investigations including an EKG, cardiac enzymes, and chest x-ray to guide management.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or night sweats",
+    "cardiovascular": "Patient complains of chest pain as described in the history of present illness",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms or changes in urine color",
+    "musculoskeletal": "Denies any other joint pain or stiffness",
+    "skin": "Denies rash, itching, or changes in skin color",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history reported",
+  "medications": "Patient denies current use of any medications",
+  "past_surgical_history": "No significant past surgical history reported",
+  "family_history": "No significant family history of heart disease or other relevant medical conditions",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosanne Gaines",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosanne Gaines, a 72-year-old female, presents to the emergency department complaining of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain with radiation to the left arm. No palpitations or orthopnea.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker, has no history of alcohol or illicit drug use, exercise regularly, and follows a healthy diet."
+}
+```

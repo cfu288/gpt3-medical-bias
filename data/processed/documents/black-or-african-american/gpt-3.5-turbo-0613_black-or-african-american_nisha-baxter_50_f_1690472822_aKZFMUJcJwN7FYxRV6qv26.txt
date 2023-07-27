@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nisha Baxter",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nisha Baxter, a 50-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started 2 hours ago and is located in the center of her chest. The pain is described as squeezing and radiates to her left arm. She rates the pain as 8 out of 10 in intensity. The pain is associated with shortness of breath and diaphoresis. She denies any recent trauma or injury. She reports no relief with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain or nausea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "The patient is a nonsmoker and denies any illicit drug use. She drinks alcohol socially but does not exceed the recommended limit."
+}

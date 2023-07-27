@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donna Robert",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a dull ache located in the center of the chest that radiates to the left arm. Pain started approximately 3 hours ago and is intermittent in nature. Patient denies any associated shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient has a history of hypertension and hyperlipidemia. Denies any palpitations or edema.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient has a history of osteoarthritis. Denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or itching.",
+    "neurologic": "Patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily.",
+  "past_surgical_history": "None.",
+  "family_history": "Mother had a history of hypertension. Father had a history of myocardial infarction at the age of 63.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

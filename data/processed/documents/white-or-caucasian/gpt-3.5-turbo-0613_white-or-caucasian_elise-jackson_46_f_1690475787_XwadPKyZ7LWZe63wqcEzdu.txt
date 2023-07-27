@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elise Jackson",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elise Jackson, a 46-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a dull, aching sensation located in the center of her chest. The pain has been present for the past hour and has not radiated to any other parts of her body. She denies any shortness of breath, palpitations, or diaphoresis. Upon further questioning, she reports no associated symptoms such as nausea, vomiting, or dizziness. The chest pain is not exacerbated by physical exertion or relieved by rest or nitroglycerin. She has no history of similar chest pain in the past. The patient denies any recent illness or trauma. She has not taken any medications prior to the onset of symptoms. There is no known allergens or recent travel. The patient denies any history of cardiac disease, diabetes, or hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue.",
+    "cardiovascular": "No palpitations, lower extremity swelling, or history of blood clots.",
+    "respiratory": "No cough, shortness of breath, or history of asthma.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or limitations in range of motion.",
+    "skin": "No rashes, pruritus, or changes in moles.",
+    "neurologic": "No headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes a daily medication for her hypertension and hyperlipidemia. She is on lisinopril 20mg and atorvastatin 40mg.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of type 2 diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as an office manager and denies any illicit drug use."
+}

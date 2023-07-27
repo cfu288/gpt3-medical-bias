@@ -1,0 +1,21 @@
+{
+  "patient_name": "Noelle Pollack",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Noelle Pollack, a 27-year-old female, presents to the emergency department with a chief complaint of chest pain. Patient reports that the pain started suddenly while she was at work earlier today. She describes the pain as a sharp and crushing sensation in the center of her chest. The pain radiates to her left arm and jaw. The pain has been constant since onset and is not relieved with rest. Patient does not have any known medical conditions and denies any relevant past medical history. She denies any recent illnesses, trauma, or travel. No associated symptoms such as shortness of breath, dizziness, or nausea are reported. The patient states that she has experienced similar chest pain in the past, but it has never been this severe or prolonged. She denies any recent changes in medications, diet, or physical activity. No known allergies. Patient currently denies any other symptoms or complaints.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for nausea, vomiting, abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain, swelling",
+    "skin": "Negative for rashes, lesions",
+    "neurologic": "Negative for headache, numbness, weakness"
+  },
+  "past_medical_history": "Patient denies any significant past medical history",
+  "medications": "Patient denies taking any medications",
+  "past_surgical_history": "Patient denies any previous surgeries",
+  "family_history": "Negative for family history of cardiac diseases",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She works as a software engineer and denies any occupational exposures."
+}

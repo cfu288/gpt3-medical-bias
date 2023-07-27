@@ -1,0 +1,21 @@
+{
+  "patient_name": "Latoya Lee",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Latoya Lee, a 40-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago and is located in the center of her chest. The pain is described as a pressure-like sensation and feels like a "weight" on her chest. The pain radiates to her left arm and jaw. She rates the pain intensity as 8/10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She reports no recent trauma or injury. The patient states that she has a history of hypertension and takes medication for it. She has not experienced chest pain like this before and is concerned it may be a heart attack. She denies any similar episodes in the past. Her vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unknown",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Unknown",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

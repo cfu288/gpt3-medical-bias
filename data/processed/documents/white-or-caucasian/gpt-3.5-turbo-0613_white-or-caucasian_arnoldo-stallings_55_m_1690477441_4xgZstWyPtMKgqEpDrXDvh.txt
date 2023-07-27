@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arnoldo Stallings",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a dull ache located in the center of his chest. The pain began approximately 2 hours ago and has been constant since then. He denies any radiation of the pain, shortness of breath, or palpitations. He rates the pain as a 6 out of 10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or edema.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes metoprolol and simvastatin for these conditions.",
+  "medications": "Metoprolol 50 mg daily, simvastatin 20 mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Father passed away from a heart attack at age 60. Mother is alive and has hypertension.",
+  "social_history": "Patient is a current smoker, smoking approximately one pack of cigarettes per day. He drinks alcohol socially on weekends but denies any history of alcohol abuse."
+}

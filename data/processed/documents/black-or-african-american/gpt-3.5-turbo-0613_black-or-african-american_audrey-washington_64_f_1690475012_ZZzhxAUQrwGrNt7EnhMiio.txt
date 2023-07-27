@@ -1,0 +1,21 @@
+{
+  "patient_name": "Audrey Washington",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient rates the severity of the pain as 7/10. It started approximately 1 hour ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Onset of the pain was sudden, and the patient has never experienced similar symptoms in the past. Patient reports taking aspirin at home prior to arrival, which provided minimal relief. This is the first time the patient has sought medical attention for this complaint. There is no known history of cardiac disease or risk factors for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described in the chief complaint. Denies palpitations, irregular heartbeats, or orthopnea.",
+    "respiratory": "Denies shortness of breath, cough, or sputum production.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Reports chest pain as the only musculoskeletal symptom.",
+    "skin": "Denies rash, pruritus, or skin changes.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of myocardial infarction at the age of 70.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She is retired and lives alone."
+}

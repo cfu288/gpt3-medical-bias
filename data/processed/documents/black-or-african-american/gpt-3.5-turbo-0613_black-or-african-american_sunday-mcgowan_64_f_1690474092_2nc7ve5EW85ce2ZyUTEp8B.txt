@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sunday Mcgowan",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sunday Mcgowan, a 64-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation and rates it as a 7 out of 10 in intensity. The pain radiates to her left arm and jaw. She denies any shortness of breath, diaphoresis, or nausea. The patient has a history of hypertension and takes medication for it. She reports no recent changes in her medication or adherence to it. She has not had any recent surgeries or known allergies. She has a family history of heart disease, with her father having a heart attack in his 60s. Socially, she is a non-smoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension. No recent changes in medication or adherence to it.",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "Father with heart disease (heart attack in his 60s)",
+  "social_history": "Non-smoker. No alcohol or illicit drug use."
+}

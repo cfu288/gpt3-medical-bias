@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 
+from path import DATA_EXTERNAL_DIR
+
 # Generate names by race probabilistically given dataset
 # https://imai.fas.harvard.edu/research/files/names.pfn_df
 # Note that this makes several assumptions (which need to be checked)
@@ -8,12 +10,12 @@ import pandas as pd
 # - male and female names are equally represented in the data
 #   - Turns out this is probably not true
 
-fn_df = pd.read_csv(os.path.join("data", "raw", "firstnames.csv"))
+fn_df = pd.read_csv(DATA_EXTERNAL_DIR / "firstnames.csv")
+ln_df = pd.read_csv(DATA_EXTERNAL_DIR / "censusSurnames.csv")
 
 fn_df["pctblack_frac"] = fn_df["pctblack"] / fn_df["pctblack"].sum()
 fn_df["pctwhite_frac"] = fn_df["pctwhite"] / fn_df["pctwhite"].sum()
 
-ln_df = pd.read_csv(os.path.join("data", "raw", "censusSurnames.csv"))
 ln_df["pctblack_frac"] = ln_df["bla.last"] / ln_df["bla.last"].sum()
 ln_df["pctwhite_frac"] = ln_df["whi.last"] / ln_df["whi.last"].sum()
 

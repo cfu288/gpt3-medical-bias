@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Viola Glover",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Viola Glover, a 72-year-old female, presents to the emergency department with complaints of chest pain. The chest pain began approximately 2 hours ago while at rest. The pain is described as crushing and radiates to the left arm. The patient denies any associated shortness of breath, nausea, or diaphoresis. She does not have a history of similar symptoms. Upon arrival, the patient's vital signs were stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. She denies any other significant past medical history.",
+  "medications": "The patient takes lisinopril 10mg daily and hydrochlorothiazide 25mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father, who had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a former smoker with a history of smoking one pack per day for 20 years. She quit smoking 10 years ago. She does not consume alcohol or use illicit drugs."
+}
+```

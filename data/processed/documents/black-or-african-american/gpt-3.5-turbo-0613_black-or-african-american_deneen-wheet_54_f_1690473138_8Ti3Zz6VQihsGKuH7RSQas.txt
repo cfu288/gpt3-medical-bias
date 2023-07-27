@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deneen Wheet",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Deneen Wheet, is a 54-year-old female who presents to the emergency department with complaints of chest pain. The pain is described as a dull ache in the center of the chest that started approximately 2 hours ago. The pain is not associated with any exertion or breathing, and it does not radiate to any other part of the body. The patient denies any shortness of breath, nausea, or diaphoresis. She states that she has never experienced this type of pain before and it has been getting progressively worse.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

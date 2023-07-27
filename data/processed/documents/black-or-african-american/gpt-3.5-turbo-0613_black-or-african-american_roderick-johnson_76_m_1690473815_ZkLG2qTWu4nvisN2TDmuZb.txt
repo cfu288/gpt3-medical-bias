@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderick Johnson",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Johnson is a 76-year-old male who presents to the Emergency Department complaining of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. He rates the pain as 8/10 in intensity and says that it radiates to his left arm. The pain is associated with shortness of breath, diaphoresis, and nausea. He denies any recent trauma or exertion. He reports similar episodes in the past, but never as severe as this one.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Positive for nausea",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Mr. Johnson has a history of hypertension and hyperlipidemia. He takes medications for these conditions, but specifics are pending.",
+  "medications": "Pending",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family history of cardiac disease",
+  "social_history": "Mr. Johnson is a non-smoker and does not consume alcohol. He lives alone and is independent with all activities of daily living."
+}

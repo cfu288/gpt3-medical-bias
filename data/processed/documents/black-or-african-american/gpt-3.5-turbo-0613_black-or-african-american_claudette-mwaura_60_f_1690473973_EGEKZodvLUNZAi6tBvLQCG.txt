@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Claudette Mwaura",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is described as a dull, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient denies any shortness of breath or diaphoresis. She took an over-the-counter antacid for relief, but the pain persists.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain radiating to the left arm and jaw",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or changes in the skin",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "Appendectomy in 2002",
+  "family_history": "Father had a myocardial infarction at age 65",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

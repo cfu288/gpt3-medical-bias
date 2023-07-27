@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damion Kellam",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Damion Kellam, a 42-year-old male, presented to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest, which radiates to his left arm. The pain started approximately 2 hours ago and has been constant since then. Mr. Kellam rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, palpitations, or dizziness. He also denies any recent trauma or heavy lifting. The patient states that he has a significant family history of heart disease, with his father having a heart attack at a young age. Mr. Kellam was previously diagnosed with hypertension and he is currently taking medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports chest pain, as mentioned in the chief complaint. No other cardiovascular symptoms such as palpitations or irregular heartbeat reported.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, confusion, or numbness/weakness in any body part."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is currently taking medications for hypertension. The names and dosages of the medications will be obtained after verification.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a significant family history of heart disease, with his father having a heart attack at a young age.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and lives with his wife and two children."
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Tonja Dean",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tonja Dean, a 31-year-old female, presented to the emergency department with a chief complaint of chest pain. The onset of the pain occurred suddenly while she was at rest approximately 2 hours ago. The pain is described as a sharp, stabbing sensation located in the center of her chest. She noticed no aggravating or relieving factors. The pain radiates to her left arm. She denies any associated symptoms such as shortness of breath, nausea, or sweating. She denies any recent illnesses or traumatic events. Upon examination, she appears uncomfortable and is guarding her chest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations or edema.",
+    "respiratory": "The patient denies cough, dyspnea, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any recent traumas or injuries.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any changes in vision, loss of consciousness, or paresthesias."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. She is not currently taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or recreational drugs."
+}
+
+```

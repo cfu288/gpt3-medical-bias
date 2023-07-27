@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Evette Humphrey",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Evette Humphrey, is a 72-year-old female who presents to the emergency department with complaints of chest pain. The patient describes the pain as a tightness and pressure in the center of her chest. The pain started about 2 hours prior to arrival and has been gradually worsening. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. She reports that the pain radiates to her left arm. The patient rates the pain as 7 out of 10 on a pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports no palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient denies shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient reports no joint pain, muscle weakness, or difficulty moving.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction in his 60s.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and has no significant occupational or environmental exposures."
+}
+```

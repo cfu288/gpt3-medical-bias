@@ -1,0 +1,21 @@
+{
+    "patient_name": "Nader Farr",
+    "age": "52",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presents to the emergency department with complaints of severe, crushing chest pain that radiates to the left arm. Pain started 1 hour ago and is associated with shortness of breath and diaphoresis. No relief with rest or nitroglycerin. Patient denies any history of similar episodes.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+        "cardiovascular": "Patient reports chest pain and shortness of breath.",
+        "respiratory": "Patient denies cough, sputum production, or dyspnea.",
+        "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+        "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+        "musculoskeletal": "Patient denies joint pain or stiffness.",
+        "skin": "Patient denies rash, itching, or lesions.",
+        "neurologic": "Patient denies headache, syncope, or focal weakness."
+    },
+    "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+    "medications": "Patient takes lisinopril and atorvastatin.",
+    "past_surgical_history": "Patient has no history of surgeries.",
+    "family_history": "Patient has a family history of coronary artery disease.",
+    "social_history": "Patient is a non-smoker and does not drink alcohol."
+}

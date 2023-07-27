@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latoya Henderson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Latoya Henderson, a 42-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a severe, crushing, substernal discomfort that radiates to her left arm. The pain started approximately 2 hours ago and she rates it as a 9 out of 10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The pain is not relieved by rest and is not exacerbated by deep breaths or movement. She has no prior history of similar episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "Denies palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No changes in vision, speech, or balance."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include amlodipine 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is a family history of hypertension and hyperlipidemia in her mother and father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

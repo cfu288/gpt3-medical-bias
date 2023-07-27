@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewey Smith",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Dewey Smith, a 60-year-old male, presents to the emergency department with chief complaint of chest pain. He reports that the chest pain started suddenly about 2 hours ago. The pain is substernal, sharp in nature, radiating to the left arm, and associated with shortness of breath. The pain score is 8 on a scale of 1 to 10. The patient denies any exacerbating or relieving factors. There is no known trauma or recent illness. The patient has not taken any medications or interventions for the chest pain prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient reports radiation of chest pain to the left arm.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently on lisinopril 10 mg once daily and atorvastatin 20 mg once daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in his father.",
+  "social_history": "The patient denies smoking or alcohol use. He works as a sedentary office worker and does not engage in any physical activity or exercise."
+}

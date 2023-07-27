@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rocco Bauer",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rocco Bauer, a 69-year-old male, presents to the emergency department with complaints of chest pain. He states that the pain began about 2 hours ago and is located in the center of his chest. He describes the pain as a tightness and pressure that radiates to his left arm. He rates the pain intensity as 7 out of 10 and says it has been persistent since it started. He denies any shortness of breath, dizziness, or nausea. He also reports no associated symptoms such as palpitations or sweats. He has a history of hypertension and takes medication for it. His last blood pressure reading at home was 150/90 mmHg.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or previous cardiac events",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Reports pain in left arm, no joint swelling or redness",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "Father had a heart attack at age 55",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

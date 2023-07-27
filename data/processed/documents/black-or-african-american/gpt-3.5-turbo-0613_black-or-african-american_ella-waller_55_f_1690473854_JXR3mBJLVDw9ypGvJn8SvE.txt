@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ella Waller",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 55-year-old female presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. She rates the pain as 8/10 in severity and states that it radiates to her left arm. She denies any shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No cough, dyspnea or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting or diarrhea.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, itching or lesions.",
+    "neurologic": "No headache, dizziness or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, no history of heart disease or surgeries.",
+  "medications": "Patient takes Lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

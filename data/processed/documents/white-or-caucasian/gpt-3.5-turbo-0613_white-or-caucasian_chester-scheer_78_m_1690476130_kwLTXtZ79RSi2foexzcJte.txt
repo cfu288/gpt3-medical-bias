@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chester Scheer",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Scheer is a 78-year-old male presenting to the emergency department with complaints of chest pain. He reports that the pain started about 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation that radiates to his left arm. The pain is approximately 7/10 in severity and has not improved with rest. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a past medical history of hypertension and hyperlipidemia and takes medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, denies palpitations or syncope.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for left arm radiation of chest pain.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for family history of heart disease or other significant illnesses.",
+  "social_history": "Retired, non-smoker, non-drinker."
+}

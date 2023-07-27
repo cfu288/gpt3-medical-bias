@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tosha Girma",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset sharp chest pain. Pain is 8/10 in severity and radiates to the left arm. Patient reports feeling lightheaded and short of breath. Denies any history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient reports pain only in the chest and left arm.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "Patient reports feeling lightheaded."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine and atorvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use."
+}

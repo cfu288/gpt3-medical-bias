@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kendall Reece",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kendall Reece, a 61-year-old male, presents to the emergency department with complaints of chest pain. He states that the pain started suddenly about 2 hours ago while he was at home. He describes the pain as a squeezing sensation in the center of his chest, with radiation down his left arm. He rates the intensity of the pain as 8 out of 10. The pain has not resolved since its onset and has not been relieved with rest or over-the-counter pain medication. He denies any shortness of breath, nausea, diaphoresis, or lightheadedness. He has a history of hypertension but is not currently taking any medication for it. He denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for left arm pain associated with chest pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for dizziness, headache, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

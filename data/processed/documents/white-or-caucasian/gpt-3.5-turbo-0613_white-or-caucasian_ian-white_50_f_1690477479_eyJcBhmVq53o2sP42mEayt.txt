@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ian White",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ian White, a 50-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation that radiates to her left arm. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She reports no relief with rest or nitroglycerin. The patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily. No recent changes in medications or dosage have been made. The patient has no history of cardiac procedures or surgeries. She denies any past episodes of chest pain or heart attacks. She has no family history of cardiac disease. She is a non-smoker and does not drink alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports chest pain as described above, but denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily.",
+  "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient denies any family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and does not drink alcohol."
+}

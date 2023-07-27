@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "default": "Mae Johnson"
+    },
+    "age": {
+      "type": "string",
+      "default": "74"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "default": "Chest Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "default": "The patient, Mae Johnson, a 74-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while she was resting at home. The pain is described as a squeezing sensation in the middle of her chest that radiates to her left arm. She rates the pain as a 7 out of 10 in severity. The patient denies any associated shortness of breath, nausea, or diaphoresis. She states that she has a history of hypertension and takes medication for it. She has no known allergies."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "default": "The patient denies any fever, chills, or unintentional weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "default": "The patient reports the chest pain as the chief complaint."
+        },
+        "respiratory": {
+          "type": "string",
+          "default": "The patient denies any shortness of breath or cough."
+        },
+        "gi": {
+          "type": "string",
+          "default": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements."
+        },
+        "gu": {
+          "type": "string",
+          "default": "The patient denies any urinary symptoms."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "default": "The patient reports no joint pain or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "default": "The patient denies any rashes, lesions, or changes in the skin."
+        },
+        "neurologic": {
+          "type": "string",
+          "default": "The patient denies any headache, dizziness, or changes in vision."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "default": "The patient has a past medical history of hypertension."
+    },
+    "medications": {
+      "type": "string",
+      "default": "The patient takes medication for hypertension."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "default": "The patient denies any past surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "default": "The patient denies any significant family history of cardiovascular disease."
+    },
+    "social_history": {
+      "type": "string",
+      "default": "The patient is a non-smoker and does not consume alcohol."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oliver Simon",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Simon, is a 61-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in intensity and states that it radiates to his left arm. He also reports associated shortness of breath and diaphoresis. He denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports past medical history significant for hypertension and dyslipidemia.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath at rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and dyslipidemia",
+  "medications": "The patient takes daily medications for hypertension and dyslipidemia but does not know the names or dosages.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is a positive family history of coronary artery disease in the patient's father.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He denies any alcohol or illicit drug use."
+}

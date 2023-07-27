@@ -1,0 +1,21 @@
+{
+  "patient_name": "Habib Johnson",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presents to the emergency department complaining of severe chest pain that started about an hour ago. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm and jaw. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and occasional episodes of dizziness.",
+    "respiratory": "The patient reports mild dyspnea on exertion.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, changes in vision, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol regularly. He works as a software engineer and denies the use of recreational drugs."
+}

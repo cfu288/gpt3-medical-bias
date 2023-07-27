@@ -1,0 +1,24 @@
+```
+{
+  "patient_name": "Bertha Johnson",
+  "age": "61",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bertha Johnson, is a 61-year-old female who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the center of the chest. The pain is described as a squeezing sensation and is associated with shortness of breath. The pain worsens with exertion and is relieved with rest. The patient denies any other associated symptoms such as dizziness, palpitations, or fainting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medications for it.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes medications for it.",
+  "medications": "The patient takes the following medications: Lisinopril 10 mg daily.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

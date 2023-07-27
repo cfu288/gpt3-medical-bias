@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Raelene Scharf",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. She reports that the pain began approximately 2 hours ago and is described as a sharp, stabbing pain located in the center of her chest. The pain radiates to her left arm and jaw. The pain is 8/10 in severity and is associated with shortness of breath and diaphoresis. She denies any nausea or vomiting. The pain is not relieved with rest or nitroglycerin. She has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, and unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations or leg swelling.",
+    "respiratory": "Patient reports mild dyspnea with exertion, but denies cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or changes in bowel movement.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal complaints other than the chest pain.",
+    "skin": "Patient denies any skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She works as an accountant and lives with her spouse and two children."
+}
+```

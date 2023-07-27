@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sammie Mccants",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe chest pain that began about 1 hour ago. The pain is described as a crushing sensation and radiates to the left arm. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or syncope.",
+    "respiratory": "Patient reports shortness of breath with exertion.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, and change in bowel habits.",
+    "gu": "Patient denies dysuria, frequency, urgency.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No skin rashes or lesions reported.",
+    "neurologic": "Patient denies headache, dizziness, and seizure activity."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient underwent cholecystectomy 5 years ago.",
+  "family_history": "No family history of cardiovascular disease or cancer.",
+  "social_history": "Patient is a former smoker with a 20 pack-year history. He quit smoking 10 years ago. He does not drink alcohol or use recreational drugs."
+}

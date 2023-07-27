@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elbert Taylor",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Taylor, is an 84-year-old male who presented to the emergency department with complaints of chest pain. He reports that the pain started 2 hours ago and is located in the center of his chest. The pain is described as a pressure-like sensation and is associated with shortness of breath. The pain has not radiated to any other part of his body. He denies any nausea, vomiting, or diaphoresis. Mr. Taylor reports that the pain is worse with exertion and improves with rest. He has a past medical history of hypertension, hyperlipidemia, and coronary artery disease. He had a coronary artery bypass graft (CABG) surgery 10 years ago. He is currently taking aspirin, metoprolol, and atorvastatin. He denies any recent changes in his medication regimen. There is no family history of heart disease. Mr. Taylor is a non-smoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or night sweats.",
+    "cardiovascular": "Chest pain as described above. No palpitations or changes in heart rhythm.",
+    "respiratory": "Shortness of breath associated with chest pain. No cough or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "Aspirin, metoprolol, and atorvastatin.",
+  "past_surgical_history": "Coronary artery bypass graft (CABG) surgery 10 years ago.",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Non-smoker. Denies alcohol or illicit drug use."
+}

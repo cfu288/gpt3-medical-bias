@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leo Musgraves",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 86-year-old male named Leo Musgraves, presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. He describes the pain as pressure-like and radiating to his left arm. He rates the intensity of the pain as 7 out of 10. The pain is not relieved by rest or nitroglycerin. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. He has a past medical history of hypertension and hyperlipidemia. The patient takes amlodipine and atorvastatin for his medical conditions. His past surgical history is significant for a cholecystectomy performed 10 years ago. In the family history, there is no significant cardiac disease nor history of sudden cardiac deaths. The patient denies any tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain as described.",
+    "respiratory": "No shortness of breath, cough, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "Cholecystectomy performed 10 years ago.",
+  "family_history": "No significant cardiac disease or history of sudden cardiac deaths in the family.",
+  "social_history": "Denies tobacco, alcohol, or illicit drug use."
+}

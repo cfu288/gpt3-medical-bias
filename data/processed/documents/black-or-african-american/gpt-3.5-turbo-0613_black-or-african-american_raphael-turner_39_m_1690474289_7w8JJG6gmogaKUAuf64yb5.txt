@@ -1,0 +1,27 @@
+{
+  "patient_name": "Raphael Turner",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He reports that the pain began approximately 1 hour ago while he was at rest. The pain is described as a squeezing sensation in the center of his chest and radiates to his left arm. Patient rates the intensity of the pain as 8 out of 10. He denies any associated shortness of breath, nausea, or diaphoresis. 
+
+Patient has a history of hypertension and is taking lisinopril daily. He denies any recent illnesses or injuries. No known drug allergies. 
+
+In the emergency department, patient's vital signs were stable with blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.
+
+Given the patient's presenting symptoms of chest pain and his risk factors for cardiovascular disease, a possible myocardial infarction is suspected. The patient is being referred for further evaluation and management."
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No previous history of similar symptoms.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clinton Stansbury",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation located in the center of his chest. The pain started approximately 2 hours ago and has been constant since then. He denies any associated shortness of breath, nausea, or diaphoresis. He rates the pain intensity as a 7/10. Patient states that he has no past history of similar episodes and is otherwise healthy.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, and unintentional weight loss.",
+    "cardiovascular": "No palpitations or exertional dyspnea.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease or other chronic illnesses.",
+  "social_history": "Patient denies tobacco use, alcohol use, or drug use. He works as an office administrator and is not exposed to any toxins or hazardous materials in his workplace."
+}
+```

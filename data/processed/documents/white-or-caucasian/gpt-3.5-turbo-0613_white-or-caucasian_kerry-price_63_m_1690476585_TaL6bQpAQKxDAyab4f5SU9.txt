@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kerry Price",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Kerry Price, a 63-year-old male, presents to the emergency department with complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest, which radiates down his left arm. The pain started approximately 2 hours ago and has been constant since then. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia and is on medications for these conditions. He states that he has never experienced chest pain like this before. Upon arrival, his vital signs were stable with HR 80 bpm, BP 140/90 mmHg, RR 16 bpm, and SpO2 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain, swelling, or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril 20mg daily and Atorvastatin 40mg daily for management of hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "Patient denies any significant family history of heart disease or other chronic conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. He lives alone and denies any use of illicit drugs."
+}

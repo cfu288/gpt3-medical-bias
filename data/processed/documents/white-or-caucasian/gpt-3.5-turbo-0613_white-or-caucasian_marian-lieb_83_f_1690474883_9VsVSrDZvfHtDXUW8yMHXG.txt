@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marian Lieb",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe chest pain that started suddenly. Pain is described as sharp and radiating to the left arm. Patient reports shortness of breath and diaphoresis. The pain has been persistent and has not improved with rest. Patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and feeling weak",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough or difficulty breathing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes Amlodipine 10mg daily and Atorvastatin 20mg daily",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005",
+  "family_history": "Patient's mother had a history of heart disease",
+  "social_history": "Patient lives alone, does not smoke, but has a history of occasional alcohol use"
+}

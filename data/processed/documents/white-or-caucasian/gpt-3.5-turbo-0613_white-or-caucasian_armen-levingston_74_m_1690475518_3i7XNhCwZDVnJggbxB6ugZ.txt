@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Armen Levingston",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department complaining of severe chest pain. Patient states that the pain started suddenly approximately 2 hours ago. The pain is described as a squeezing sensation in the middle of the chest. The pain radiates to the left arm and jaw. Patient denies any associated shortness of breath or diaphoresis. Upon arrival, the patient was tachycardic with a heart rate of 120 bpm and hypertension with a blood pressure of 160/90 mmHg. The patient is also experiencing mild nausea. Given the patient's symptoms, the possibility of acute coronary syndrome is being considered and further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient reports occasional palpitations but denies orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, diarrhea, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes, itching, or skin lesions.",
+    "neurologic": "Patient denies headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes metoprolol and atorvastatin for his cardiovascular conditions and occasional NSAIDs for osteoarthritis pain.",
+  "past_surgical_history": "Patient reports a knee replacement surgery 10 years ago.",
+  "family_history": "Patient's father had a heart attack at the age of 65. No other significant family history.",
+  "social_history": "Patient is a retired teacher and lives alone. Patient reports occasional alcohol consumption and denies tobacco or illicit drug use."
+}
+```

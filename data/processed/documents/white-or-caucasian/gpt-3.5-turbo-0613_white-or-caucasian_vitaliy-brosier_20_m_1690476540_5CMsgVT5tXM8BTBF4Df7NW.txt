@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vitaliy Brosier",
+  "age": "20",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Vitaliy Brosier, a 20-year-old male, presents to the emergency department with complaints of chest pain. He reports that the pain started suddenly about an hour ago and is located in the center of his chest. He describes the pain as a sharp, stabbing sensation and rates it as a 7 out of 10 in severity. The pain is constant and worsens with deep breathing or movement. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fever, or chills.",
+    "cardiovascular": "The patient denies any palpitations, racing heart, or swelling in his legs.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, vision changes, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no known past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient states that there is no significant family history of heart disease, diabetes, or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently in school and otherwise has no significant social history."
+}
+```

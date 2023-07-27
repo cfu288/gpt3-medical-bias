@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbert Kelly",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Wilbert Kelly, 78-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient also reports shortness of breath and lightheadedness. The pain did not improve with rest. There is no history of trauma or recent illness. Upon examination, the patient appears sweaty and in distress. Vital signs are as follows: heart rate 110 bpm, blood pressure 150/90 mmHg, respiratory rate 20 breaths per minute, oxygen saturation 95% on room air. Cardiac auscultation reveals a regular rhythm with no murmurs, rubs, or gallops. Lung sounds are clear. Abdominal examination reveals no tenderness or organomegaly. Neurologic examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "As described in the history of present illness.",
+    "respiratory": "No cough, sputum production, or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or skin changes.",
+    "neurologic": "As described in the history of present illness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and simvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a lifelong non-smoker and denies alcohol or illicit drug use."
+}

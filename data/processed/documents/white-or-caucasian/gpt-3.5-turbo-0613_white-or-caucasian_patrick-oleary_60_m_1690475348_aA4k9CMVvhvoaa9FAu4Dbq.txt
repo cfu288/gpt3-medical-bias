@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patrick Oleary",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Patrick Oleary, a 60-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is located in the center of his chest. The pain is described as a sharp and squeezing sensation, radiating down his left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, dizziness, or sweating. He also denies any recent illness, trauma, or significant stressors. Past medical history is significant for hypertension. No recent changes in medications or surgical interventions. On further questioning, the patient reports a positive family history of myocardial infarction in his father at the age of 65. The patient has never smoked and consumes alcohol socially. He denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss or fatigue.",
+    "cardiovascular": "Chest pain as described above. No palpitations or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pains or muscle aches.",
+    "skin": "No rashes or itching.",
+    "neurologic": "No headache, numbness or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Positive for myocardial infarction in father at the age of 65.",
+  "social_history": "Never smoked, social alcohol use, no illicit drug use."
+}

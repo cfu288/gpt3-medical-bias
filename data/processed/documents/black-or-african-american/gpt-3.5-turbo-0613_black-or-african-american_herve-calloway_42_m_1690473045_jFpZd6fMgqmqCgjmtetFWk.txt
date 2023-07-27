@@ -1,0 +1,21 @@
+{
+  "patient_name": "Herve Calloway",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 1 hour ago. Patient describes the pain as a crushing sensation that radiates to the left arm. Pain is associated with shortness of breath and diaphoresis. No relieving or aggravating factors identified.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril and simvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient has a positive family history of coronary artery disease. His father had a heart attack at the age of 55.",
+  "social_history": "Patient is a smoker with a 20 pack-year history."
+}

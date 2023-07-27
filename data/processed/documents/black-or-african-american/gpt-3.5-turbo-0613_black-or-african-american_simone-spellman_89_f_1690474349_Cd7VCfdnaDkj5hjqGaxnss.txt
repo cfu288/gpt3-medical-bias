@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simone Spellman",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. Onset of pain occurred approximately 2 hours ago while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient also reports associated shortness of breath and diaphoresis. The patient denies any previous similar episodes or known history of cardiovascular disease. She has a past medical history of hypertension and hyperlipidemia. The patient has taken her medications regularly and denies any recent changes to her medication regimen. She has no known allergies to medications. The patient has not had any recent surgical procedures. She has a family history of cardiovascular disease, with her father having a myocardial infarction at the age of 65. The patient denies smoking or alcohol use, but reports a history of occasional marijuana use in the remote past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with myocardial infarction",
+  "social_history": "Non-smoker, non-alcoholic, occasional remote marijuana use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lavern Baker",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of severe crushing chest pain that radiates to left arm and jaw. Pain started approximately 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, palpitations, or nausea. The pain is not relieved with rest and is rated 9 out of 10 in severity. Patient indicates a history of hypertension and takes medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or sores",
+    "neurologic": "Negative for weakness or numbness"
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril 10mg daily, ibuprofen as needed for arthritis pain",
+  "past_surgical_history": "Right knee replacement surgery",
+  "family_history": "Father had history of myocardial infarction",
+  "social_history": "Retired, non-smoker, occasional alcohol consumption"
+}

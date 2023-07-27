@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dave Jackson",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Dave Jackson, an 82-year-old male, presents to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of the chest that radiates to the left arm. He rates the pain as 8 out of 10 in severity. The pain started approximately 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, nausea/vomiting, or diaphoresis. He states that he has never experienced this type of pain before and it is concerning to him. Upon further questioning, the patient admits to having a history of hypertension and hyperlipidemia. He reports being compliant with his medications (lisinopril and atorvastatin) and denies any recent changes in his medications or lifestyle. He denies any recent illnesses or infections. The patient has no known allergies. There was no precipitating event or trauma prior to the onset of the chest pain. He is a lifetime non-smoker and does not consume alcohol. The patient does not have any family history of heart disease or other significant medical conditions. He lives alone and is able to perform all activities of daily living independently.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any palpitations or edema.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea/vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, does not consume alcohol, lives alone and is able to perform all activities of daily living independently."
+}

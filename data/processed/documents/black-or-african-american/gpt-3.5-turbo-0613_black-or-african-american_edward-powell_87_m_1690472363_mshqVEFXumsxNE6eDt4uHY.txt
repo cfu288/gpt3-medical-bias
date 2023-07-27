@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edward Powell",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Powell presents to the emergency department today with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a sharp, squeezing sensation located in the center of his chest. The pain radiates to his left arm. He rates the pain as a 8 out of 10. The pain is associated with shortness of breath and diaphoresis. On arrival, the patient was pale and sweaty. Vital signs were as follows: blood pressure 160/90 mmHg, heart rate 100 bpm, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia, Coronary artery disease",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "Coronary artery bypass grafting in 2010",
+  "family_history": "Mother had a history of myocardial infarction",
+  "social_history": "Former smoker, quit 10 years ago"
+}

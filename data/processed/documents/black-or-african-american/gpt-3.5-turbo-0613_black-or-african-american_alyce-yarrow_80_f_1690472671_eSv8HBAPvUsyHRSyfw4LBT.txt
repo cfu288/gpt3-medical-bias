@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alyce Yarrow",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alyce Yarrow, an 80-year-old female, presents to the emergency department with chief complaint of chest pain. The patient reports that the pain started this morning and is a dull, squeezing sensation located in the center of her chest. She rates the pain as 7/10 in intensity and states that it radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. She denies any nausea, vomiting, or palpitations. Upon arrival, the patient appeared anxious and was in moderate distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No history of heart disease, hypertension, or peripheral vascular disease.",
+    "respiratory": "The patient reports shortness of breath. No history of asthma, chronic obstructive pulmonary disease, or pneumonia.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea. No history of gastrointestinal disease or peptic ulcer disease.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria. No history of kidney disease or urinary tract infection.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness. No history of arthritis or myopathy.",
+    "skin": "The patient denies rash, itching, or lesions. No history of dermatologic disease.",
+    "neurologic": "The patient denies headache, dizziness, or numbness. No history of stroke or seizure disorder."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is not available at this time.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

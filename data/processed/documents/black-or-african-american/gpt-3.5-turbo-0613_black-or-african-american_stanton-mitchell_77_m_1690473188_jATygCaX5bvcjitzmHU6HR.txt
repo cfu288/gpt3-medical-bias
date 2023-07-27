@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stanton Mitchell",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with acute-onset chest pain. He describes the pain as a substernal squeezing sensation that radiates to his left arm. The pain began 4 hours ago while he was mowing the lawn. Patient states that the pain is associated with shortness of breath and diaphoresis. Upon arrival, the patient appeared in distress and was immediately brought into a cardiac monitoring room. Initial evaluation revealed elevated blood pressure at 160/90 mmHg, heart rate of 100 bpm, and oxygen saturation of 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "No cough, wheezing, or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "Atorvastatin 40 mg daily, aspirin 81 mg daily.",
+  "past_surgical_history": "Coronary artery bypass grafting 10 years ago.",
+  "family_history": "Father had a myocardial infarction at age 65.",
+  "social_history": "Retired, lives alone, non-smoker, no alcohol or illicit drug use."
+}
+```

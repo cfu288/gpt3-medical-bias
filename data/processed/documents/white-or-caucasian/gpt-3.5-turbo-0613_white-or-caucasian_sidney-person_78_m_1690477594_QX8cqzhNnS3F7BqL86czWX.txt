@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sidney Person",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sidney Person, is a 78-year-old male presenting with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a crushing sensation in the center of the chest. The pain radiates to the left shoulder and jaw. The patient states that the pain is accompanied by shortness of breath, sweating, and nausea. The pain has not resolved with rest and is not relieved by nitroglycerin. The patient denies any recent trauma or illness. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath as described above.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and diabetes mellitus.",
+  "medications": "The patient takes lisinopril, simvastatin, and metformin for his medical conditions.",
+  "past_surgical_history": "The patient has a history of a cholecystectomy and a coronary artery bypass graft (CABG) surgery 10 years ago.",
+  "family_history": "The patient's father had a history of myocardial infarction at 65 years old.",
+  "social_history": "The patient is a retired engineer and is a former smoker. He quit smoking 10 years ago. He denies any alcohol or illicit drug use."
+}
+```

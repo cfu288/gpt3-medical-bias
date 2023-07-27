@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Octavia King",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Octavia King, a 62-year-old female, presents to the emergency department with complaints of chest pain. The chest pain began approximately 2 hours ago and is described as a sharp, stabbing pain in the center of her chest. The pain is radiating to her left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, or diaphoresis. The patient states that the pain is worse with exertion and improves with rest. She has no history of similar chest pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or recent weight loss.",
+    "cardiovascular": "The patient reports chest pain.",
+    "respiratory": "The patient reports shortness of breath associated with chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of hypertension in her mother and a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

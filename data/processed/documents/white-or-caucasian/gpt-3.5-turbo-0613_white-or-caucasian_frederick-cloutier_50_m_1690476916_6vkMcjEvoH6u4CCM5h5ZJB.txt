@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frederick Cloutier",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Frederick Cloutier, a 50-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly about an hour ago and is located in the center of his chest. He describes the pain as a squeezing, pressure-like sensation that radiates to his left arm. The pain is moderate in intensity and is not relieved with rest. The patient denies any shortness of breath, dizziness, or palpitations. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medications for it. He denies any chest pain or discomfort prior to this episode.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for it. He denies any other significant medical history.",
+  "medications": "The patient is currently taking medications for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s. The patient's mother is alive and has a history of hypertension. The patient has 2 siblings, both of whom are healthy.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

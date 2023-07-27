@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elaine Abernethy",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elaine Abernethy, is a 59-year-old female who presents to the emergency department with a chief complaint of chest pain. The chest pain started approximately 1 hour ago. She describes the pain as a tightness and pressure in the center of her chest. The pain is radiating to her left arm and jaw. She rates the pain as 8/10 in intensity and states that it is constant. She denies any associated shortness of breath, nausea, or diaphoresis. She has a history of hypertension and takes medication for it. She denies any previous cardiac events. Upon arrival to the ED, she was initially placed on cardiac monitoring, supplemental oxygen was administered, and an IV line was established. An EKG was performed, which showed ST segment elevation in leads II, III, and aVF. Laboratory tests were ordered including cardiac enzymes. The patient is currently stable and being prepared for a cardiac catheterization. Close monitoring and further evaluation are warranted in this case.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, night sweats, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain radiating to the left arm and jaw. No associated arrhythmias or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "She is currently taking antihypertensive medication.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient denies current tobacco, alcohol, or illicit drug use."
+}

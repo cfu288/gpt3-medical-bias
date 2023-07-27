@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Maxine Howard",
+  "age": "83",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Maxine Howard, an 83-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 1 hour ago and is located in the center of her chest. She describes the pain as a squeezing sensation and rates it 7 out of 10 in intensity. She denies any radiation of the pain or associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain does not worsen with deep breathing or movement. She states that the pain is constant and has not resolved since its onset. She denies any recent trauma or injury. On further questioning, the patient reports feeling generally fatigued and has noticed a decrease in her exercise tolerance over the past few weeks.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fever, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. She denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes amlodipine for her hypertension.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of cardiovascular disease or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

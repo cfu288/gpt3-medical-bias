@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ulysses Davis",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Davis, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a tightness and pressure in his chest that started approximately 1 hour ago. The pain is radiating down his left arm and he also reports some shortness of breath. The pain is not relieved with rest and he rates it as a 7 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, or diaphoresis. Furthermore, he denies any previous episodes of chest pain. Given his symptoms, the concern for cardiac etiology is high and further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to his chest pain, the patient reports some shortness of breath.",
+    "respiratory": "The patient denies any cough or respiratory symptoms.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports radiating pain down his left arm.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for his hypertension and atorvastatin 20 mg daily for his hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a smoker with a 10-pack-year history. He drinks alcohol occasionally but denies any illicit drug use."
+}

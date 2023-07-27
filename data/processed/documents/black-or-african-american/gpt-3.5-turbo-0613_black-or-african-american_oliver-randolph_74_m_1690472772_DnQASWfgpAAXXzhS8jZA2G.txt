@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oliver Randolph",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Randolph, is a 74-year-old male who presents to the emergency department with a chief complaint of chest pain. He describes the pain as a pressure-like sensation in the center of his chest that started approximately 2 hours ago. The pain radiates to his left arm and jaw. He rates the pain as 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for pain radiating to left arm and jaw",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and diabetes",
+  "medications": "Amlodipine, atorvastatin, metformin",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Father had a history of myocardial infarction at age 60",
+  "social_history": "Retired. Former smoker with a 30 pack-year history. No alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Theodore Tyson",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Tyson presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain has not radiated to any other areas of his body. He rates the pain as 8 out of 10 in severity. The pain is not relieved by rest or nitroglycerin. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a significant past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, and weight loss.",
+    "cardiovascular": "Reports chest pain as described above. No swelling, palpitations, or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, ulcers, or wounds.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Appendectomy in 2010",
+  "family_history": "Father had a heart attack at age 70",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

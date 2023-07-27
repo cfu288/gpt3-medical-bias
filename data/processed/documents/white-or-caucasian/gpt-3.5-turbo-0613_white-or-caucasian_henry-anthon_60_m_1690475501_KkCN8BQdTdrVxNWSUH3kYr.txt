@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henry Anthon",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Henry Anthon, a 60-year-old male, presents to the emergency department with a chief complaint of chest pain. The onset of the chest pain was sudden and the patient describes it as a squeezing sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain and has no known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath apart from with the chest pain.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient reports no musculoskeletal symptoms apart from the chest pain.",
+    "skin": "The patient denies any skin symptoms such as rashes, lesions, or changes in color.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and brother.",
+  "social_history": "The patient is a lifelong non-smoker and denies any history of alcohol or illicit drug use."
+}

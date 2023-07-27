@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ramon May",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ramon May, a 45-year-old male, presents to the emergency department with complaints of chest pain. The pain started abruptly about 2 hours ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. He also reports feeling short of breath and sweaty. The pain has not resolved and has been persistent since onset. There is no associated cough, fever, or nausea. No trauma or recent illness. No known allergies to medications. No similar episodes in the past. The patient denies any known cardiac conditions or risk factors for heart disease. He has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or wheezing",
+    "gi": "No abdominal pain or bowel movement changes",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Antihypertensive medication (name)",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

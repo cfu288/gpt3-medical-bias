@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keenan Wilkins",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started about 2 hours ago. The pain is described as a sharp, squeezing sensation and radiates to the left arm. The patient also reports shortness of breath and diaphoresis. There is no known trigger for the pain. On examination, the patient appears anxious and in distress. Vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the primary symptom.",
+    "respiratory": "The patient also reports shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports radiating pain to the left arm.",
+    "skin": "The patient denies any skin abnormalities.",
+    "neurologic": "The patient denies any neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "The patient is currently on lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in his father.",
+  "social_history": "The patient is a smoker with a 40-pack-year smoking history. He consumes alcohol occasionally and denies any illicit drug use."
+}

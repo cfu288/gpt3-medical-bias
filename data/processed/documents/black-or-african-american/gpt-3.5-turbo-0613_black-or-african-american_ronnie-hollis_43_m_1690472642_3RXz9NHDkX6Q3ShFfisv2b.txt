@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ronnie Hollis",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ronnie Hollis, a 43-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8/10 in severity. The pain is not relieved with rest and is associated with nausea and diaphoresis. He denies any previous similar episodes. The patient denies any shortness of breath, lightheadedness, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever or chills.",
+    "cardiovascular": "The patient reports chest pain as described above. Denies palpitations or dyspnea.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 20mg once daily, atorvastatin 40mg once daily.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 55.",
+  "social_history": "The patient is a non-smoker and denies any drug or alcohol use."
+}
+```

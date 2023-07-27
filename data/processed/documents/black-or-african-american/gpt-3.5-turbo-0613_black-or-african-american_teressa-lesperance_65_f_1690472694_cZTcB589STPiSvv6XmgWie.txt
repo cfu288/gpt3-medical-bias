@@ -1,0 +1,21 @@
+{
+  "patient_name": "Teressa Lesperance",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Teressa Lesperance, a 65-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago while she was resting at home. She describes the pain as a constant, squeezing sensation in the central chest, radiating down her left arm. The pain is rated as 7 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, diaphoresis, or dizziness. On further inquiry, she reports a history of hypertension and hyperlipidemia, which are well-controlled with medications. She has a past medical history of diabetes and is on oral hypoglycemic medications. She denies any recent illnesses or surgeries. Her social history is significant for a 20 pack-year smoking history but she quit smoking 10 years ago. She does not use alcohol or illicit drugs. Her family history is unremarkable for any cardiac or genetic conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, no palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "Chest pain, no joint pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and diabetes",
+  "medications": "Lisinopril, simvastatin, metformin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiac or genetic conditions",
+  "social_history": "Former smoker, quit 10 years ago, no alcohol or illicit drugs use"
+}

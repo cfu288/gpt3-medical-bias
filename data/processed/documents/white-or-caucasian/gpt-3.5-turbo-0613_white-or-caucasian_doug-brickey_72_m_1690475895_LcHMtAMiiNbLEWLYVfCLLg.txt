@@ -1,0 +1,21 @@
+{
+  "patient_name": "Doug Brickey",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Doug Brickey, a 72-year-old male, presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago while he was at rest. He describes the pain as a squeezing sensation in the center of his chest. He rates the severity of the pain as 7 out of 10 and reports that it radiates to his left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. It is important to note that the patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "The patient is a retired accountant. He denies smoking, alcohol use, or illicit drug use."
+}

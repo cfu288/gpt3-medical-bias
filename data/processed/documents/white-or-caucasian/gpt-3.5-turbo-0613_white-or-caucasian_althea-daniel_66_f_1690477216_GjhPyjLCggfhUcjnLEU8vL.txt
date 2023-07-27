@@ -1,0 +1,21 @@
+{
+  "patient_name": "Althea Daniel",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She describes the pain as a tightness and pressure in the center of her chest that radiates to her left arm. The pain started approximately 1 hour ago and has not improved with rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. However, she does admit to feeling lightheaded. She has no prior history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Positive for lightheadedness as described above."
+  },
+  "past_medical_history": "Patient has a history of hypertension and diabetes.",
+  "medications": "Patient takes amlodipine 5 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2010.",
+  "family_history": "Negative for any significant family history of heart disease or other chronic illnesses.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. She resides in a private residence with her husband and does not require any assistance with activities of daily living."
+}

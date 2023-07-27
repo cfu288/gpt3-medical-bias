@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Robyn Dillman",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Robyn Dillman, a 59-year-old female, presents to the emergency department with a chief complaint of chest pain. It started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in intensity. She denies any associated shortness of breath, dizziness, or diaphoresis. The pain is not relieved by rest or nitroglycerin. The patient has a history of hypertension and hyperlipidemia, for which she is currently taking lisinopril and atorvastatin. No known allergies. She denies any recent illnesses or injuries. No recent changes in medication or lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father, who had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone."
+}
+```

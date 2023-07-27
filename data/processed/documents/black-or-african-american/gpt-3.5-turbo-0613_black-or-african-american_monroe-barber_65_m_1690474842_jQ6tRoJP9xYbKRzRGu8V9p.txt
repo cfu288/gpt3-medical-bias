@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monroe Barber",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the center of the chest. The pain is described as a squeezing sensation and radiates to both arms. The patient also reports shortness of breath and diaphoresis. The patient denies any associated symptoms such as nausea, vomiting, or lightheadedness. The patient has a history of hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports chest pain as described above.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia.",
+  "medications": "The patient takes atenolol 50mg daily for hypertension and simvastatin 40mg nightly for dyslipidemia.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 70.",
+  "social_history": "The patient is a retired accountant. He is a non-smoker and denies any alcohol or illicit drug use."
+}

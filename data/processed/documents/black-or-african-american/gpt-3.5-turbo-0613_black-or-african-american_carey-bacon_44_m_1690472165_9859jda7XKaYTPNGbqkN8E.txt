@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carey Bacon",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carey Bacon, a 44-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as a burning sensation in the center of the chest, radiating to the left arm and jaw. The pain started approximately 2 hours ago and has been constant since then. The patient denies any shortness of breath, palpitations, or dizziness. He also denies any recent trauma or illness. Upon further questioning, the patient reports a history of hypertension and hyperlipidemia. He is currently on medications for these conditions. There is no history of any surgical procedures. The patient reports a family history of coronary artery disease in his father. Socially, the patient is a non-smoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No palpitations or peripheral edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Coronary artery disease in father.",
+  "social_history": "Non-smoker, no alcohol or illicit drug use."
+}

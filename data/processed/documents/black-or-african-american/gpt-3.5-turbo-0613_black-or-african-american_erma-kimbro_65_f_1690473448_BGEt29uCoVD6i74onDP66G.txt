@@ -1,0 +1,21 @@
+{
+  "patient_name": "Erma Kimbro",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. Pain is described as sharp and localized to the left side of the chest. It started 2 hours ago and has been constant since then. The patient rates the pain as 8 out of 10 on the pain scale. Pain is not relieved by rest or position change. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has no history of similar symptoms in the past. EKG was performed and showed ST elevation in leads V2 to V4, consistent with myocardial infarction. Patient was immediately started on supplemental oxygen, aspirin, nitroglycerin, and heparin drip. Emergency cardiology consult was obtained for further management.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "In addition to chest pain, the patient denies any palpitations or peripheral edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or sensory changes."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 40mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of myocardial infarction at the age of 70. No other significant family history.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She lives alone and denies any recreational drug use."
+}

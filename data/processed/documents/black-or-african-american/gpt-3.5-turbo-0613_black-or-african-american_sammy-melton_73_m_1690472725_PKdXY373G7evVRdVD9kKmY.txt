@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sammy Melton",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Melton, a 73-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a tightness in his chest that started approximately 2 hours ago. He rates the pain as 7/10 in intensity and states that it radiates to his left arm. He denies any shortness of breath, dizziness, or nausea. Mr. Melton reports a past medical history of hypertension and elevated cholesterol levels. He takes medications for these conditions but is unable to recall the names. He denies any recent surgeries or known allergies. His family history is unremarkable for cardiovascular disease or other significant medical conditions. He has been retired for the past 10 years and states that he is an ex-smoker. He does not use alcohol or illicit drugs. Given the concerning symptoms and risk factors, a thorough evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Mr. Melton has a past medical history of hypertension and elevated cholesterol levels.",
+  "medications": "The patient takes medications for hypertension and elevated cholesterol levels, but he cannot recall the names.",
+  "past_surgical_history": "No previous surgical interventions.",
+  "family_history": "Unremarkable for significant medical conditions.",
+  "social_history": "Mr. Melton is retired and does not use alcohol or illicit drugs. He is an ex-smoker."
+}

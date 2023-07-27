@@ -1,0 +1,21 @@
+{
+  "patient_name": "Therese Clark",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Therese Clark, a 92-year-old female, presents to the emergency department with complaints of chest pain. According to the patient, the pain started suddenly about an hour ago and is located in the center of the chest. The pain is described as a squeezing or pressure-like sensation. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes amlodipine, metoprolol, atorvastatin, and acetaminophen on a daily basis. There is no past surgical history of note. The patient reports a family history of heart disease, with her father having a heart attack in his 60s. In terms of social history, the patient is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No complaints of dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient reports chronic joint pain in her knees and hands due to osteoarthritis.",
+    "skin": "No skin rashes, lesions, or itching reported.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Amlodipine, metoprolol, atorvastatin, acetaminophen",
+  "past_surgical_history": "",
+  "family_history": "Father with a history of heart attack",
+  "social_history": "Nonsmoker, no alcohol or illicit drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dru Smith",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dru Smith, a 68-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, nausea, or vomiting. Upon further questioning, the patient reports that she has a history of hypertension, but is currently not taking any medications for it. She denies any other significant past medical history or recent illnesses. She has never had any surgeries in the past. She states that she lives alone and does not smoke or drink alcohol. Her family history is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain, otherwise denies palpitations, syncope, or lower extremity edema.",
+    "respiratory": "Patient denies shortness of breath, cough, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or limitations in range of motion.",
+    "skin": "Patient denies rashes, pruritus, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Unremarkable",
+  "social_history": "The patient lives alone and does not smoke or drink alcohol."
+}

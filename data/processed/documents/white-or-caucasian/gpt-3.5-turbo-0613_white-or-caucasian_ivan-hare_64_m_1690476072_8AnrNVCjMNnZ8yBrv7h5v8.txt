@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ivan Hare",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Ivan Hare is a 64-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient states that the chest pain began approximately 2 hours ago and is a squeezing sensation in the center of the chest. The pain is radiating to the neck and left arm. The patient rates the pain as 8/10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient has a history of smoking and hypertension. He takes medication for his hypertension daily. On physical examination, the patient appears in distress and is diaphoretic. His vital signs are as follows: blood pressure 160/100 mmHg, heart rate 90 beats per minute, respiratory rate 18 breaths per minute, oxygen saturation 98% on room air. The cardiovascular, respiratory, gastrointestinal, genitourinary, musculoskeletal, skin, and neurologic examination are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Presents with chest pain as described above",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or wounds",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes daily medication for his hypertension. The name and dosage of the medication are unknown at this time.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension and coronary artery disease.",
+  "social_history": "The patient is a current smoker, smoking approximately 1 pack per day. He is retired and leads a sedentary lifestyle."
+}

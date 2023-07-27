@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherwin Jones",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jones, presents to the emergency department today with a chief complaint of chest pain. He describes the pain as a tightness and pressure in his chest that started about 2 hours ago. The pain is radiating to his left arm and jaw. The pain is associated with shortness of breath and sweating. He denies any previous episodes of chest pain or similar symptoms. He rates the pain as 8 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia. He takes lisinopril and atorvastatin for these conditions. He is up-to-date on all vaccinations and has no known allergies.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is a history of cardiovascular disease in the patient's family. His father had a myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an accountant and is currently under a moderate amount of stress at work."
+}

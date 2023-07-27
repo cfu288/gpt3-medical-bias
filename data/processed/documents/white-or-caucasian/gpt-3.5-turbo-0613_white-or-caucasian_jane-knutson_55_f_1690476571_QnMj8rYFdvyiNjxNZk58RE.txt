@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Knutson",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jane Knutson, is a 55-year-old female presenting to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation in her chest that radiates to her left arm. She states that the pain started approximately 2 hours ago and has been getting progressively worse. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient reports no history of cardiac conditions or prior episodes of chest pain. She is concerned about the possibility of a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "She reports no history of heart disease, palpitations, or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "She denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "The patient reports no history of joint pain or swelling.",
+    "skin": "She denies any rashes, itching, or skin changes.",
+    "neurologic": "No history of headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes daily medications to manage these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "The patient reports a family history of hypertension and heart disease. Her father and brother both have a history of heart attacks.",
+  "social_history": "The patient denies any tobacco or alcohol use. She is currently employed as an accountant and lives with her husband."
+}

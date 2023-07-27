@@ -1,0 +1,21 @@
+{
+  "patient_name": "Helga Latt",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Onset of pain was sudden and occurred at rest. Patient describes the pain as a sharp, stabbing sensation in the center of the chest. Pain radiates to the left arm. Patient also reports shortness of breath and sweating associated with the chest pain. Pain has been persistent for the past hour.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No history of palpitations or irregular heartbeats.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain. No history of cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and diabetes. She is currently taking medications for these conditions.",
+  "medications": "Patient is currently taking Lisinopril for hypertension, Atorvastatin for hyperlipidemia, and Metformin for diabetes.",
+  "past_surgical_history": "Patient underwent a cholecystectomy 10 years ago.",
+  "family_history": "No significant family history of cardiovascular disease, cancer, or other hereditary conditions.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol. She lives alone and is retired."
+}

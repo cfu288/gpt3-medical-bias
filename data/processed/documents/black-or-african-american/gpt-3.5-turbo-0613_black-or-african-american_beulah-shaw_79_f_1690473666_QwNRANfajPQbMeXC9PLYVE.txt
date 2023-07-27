@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beulah Shaw",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Beulah Shaw, a 79-year-old female, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a pressure-like sensation in the center of her chest. She rates the pain as 7/10 in severity. The pain is not radiating to her arms or jaw. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient states that she has never experienced this type of pain before. On examination, the patient appears uncomfortable but remains alert and oriented. Her vital signs are stable, with a heart rate of 80 bpm, blood pressure of 140/80 mmHg, respiratory rate of 18 bpm, and oxygen saturation of 98% on room air. Physical examination reveals no significant abnormalities.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash or skin lesions",
+    "neurologic": "Denies headache or focal neurological symptoms"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father, who experienced a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a retired school teacher. She denies tobacco or alcohol use."
+}

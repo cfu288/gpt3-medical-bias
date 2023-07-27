@@ -1,0 +1,21 @@
+{
+  "patient_name": "De Terry",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, De Terry, a 30-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and is associated with shortness of breath. He denies any other symptoms such as dizziness, nausea, or diaphoresis. The patient states that the pain is worse with exertion and improves with rest. He has no previous history of chest pain or cardiovascular disease. Of note, the patient has a family history of heart disease, with his father having myocardial infarction at the age of 45. On further questioning, the patient admits to smoking a pack of cigarettes per day for the past 10 years.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, fatigue or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or sputum production",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father with myocardial infarction at age 45",
+  "social_history": "Patient smokes a pack of cigarettes per day"
+}

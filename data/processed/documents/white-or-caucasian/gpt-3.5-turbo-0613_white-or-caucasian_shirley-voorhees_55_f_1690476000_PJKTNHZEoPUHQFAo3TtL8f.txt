@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shirley Voorhees",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shirley Voorhees, a 55-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a dull ache that started approximately 2 hours ago. The pain is located in the center of her chest and radiates to her left arm. The patient denies any shortness of breath, palpitations, or diaphoresis. She reports that the pain is not relieved with rest or over-the-counter medications. She does not have a history of similar episodes. She denies any recent trauma or illness. Upon arrival, the patient appeared anxious and in moderate distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies any palpitations or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or bruising.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history includes hypertension treated with lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

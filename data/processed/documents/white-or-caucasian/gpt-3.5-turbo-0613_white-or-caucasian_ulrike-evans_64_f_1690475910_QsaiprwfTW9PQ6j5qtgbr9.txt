@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ulrike Evans",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly while she was resting at home. It is a sharp, stabbing pain located in the center of her chest. She rates the pain as 7 out of 10 in severity. The pain has been constant since it started and has not improved or worsened. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that she has a history of high blood pressure and takes medication for it. She denies any recent changes in her medications or any other significant changes in her health. She adds that she has been feeling more fatigued than usual in the past few weeks.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain but denies any palpitations, irregular heartbeats, or swelling.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Hydrochlorothiazide",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

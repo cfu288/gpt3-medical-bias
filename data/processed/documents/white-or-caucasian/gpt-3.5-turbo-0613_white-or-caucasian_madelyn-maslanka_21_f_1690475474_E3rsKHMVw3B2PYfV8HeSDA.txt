@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Madelyn Maslanka",
+  "age": "21",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is a 21-year-old female presenting with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that started approximately 2 hours ago. She rates the pain as 8/10 in severity and reports that it radiates to her left shoulder. She denies any shortness of breath, nausea, or lightheadedness. She reports no recent trauma or injury. She has no history of similar symptoms in the past. Upon further questioning, she mentions that she has been under a lot of stress lately due to work and personal issues. She denies any recent viral illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations or lightheadedness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Jed Schaus",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jed Schaus, a 43-year-old male, presented to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago while he was at rest. He describes the pain as a constant pressure-like sensation located in the center of his chest, radiating to his left arm. The pain is severe and does not improve with rest. He denies any shortness of breath, diaphoresis, or other associated symptoms. He does not have a history of similar episodes. Given the patient's symptoms and the possibility of a cardiac etiology, he was promptly evaluated in the emergency department.",
+
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain or nausea/vomiting.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness."
+  },
+
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is on daily medications of lisinopril and atorvastatin.",
+
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+
+  "past_surgical_history": "No past surgical history.",
+
+  "family_history": "The patient has a positive family history of coronary artery disease in his father.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmond Washington",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came to the ED with chief complaint of chest pain. Pain described as tightness and pressure in the center of the chest. The pain radiates to the left arm and jaw. Patient reports the symptoms started 2 hours ago and have been constant. Patient denies shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, denies palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Father had myocardial infarction at age 65, mother is alive with no history of heart disease",
+  "social_history": "Patient is a smoker with 20 pack-year smoking history. Denies alcohol or drug use."
+}

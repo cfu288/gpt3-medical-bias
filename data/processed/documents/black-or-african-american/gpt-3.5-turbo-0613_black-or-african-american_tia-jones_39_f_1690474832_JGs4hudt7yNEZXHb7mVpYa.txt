@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tia Jones",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tia Jones, a 39-year-old female, presented to the emergency department with a chief complaint of chest pain. The patient stated that she began experiencing sharp, stabbing chest pain approximately two hours ago. She described the pain as localized to the left side of her chest and rated it as 8/10 in severity. The pain is exacerbated by deep breaths and movement. She denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. There is no significant past medical history or risk factors for cardiovascular disease. She has never experienced chest pain like this before and is concerned about a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations, syncope, or lower extremity edema.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular disease or other major illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

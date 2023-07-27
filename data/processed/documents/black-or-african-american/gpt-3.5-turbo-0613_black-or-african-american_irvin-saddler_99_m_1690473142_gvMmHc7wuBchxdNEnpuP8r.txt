@@ -1,0 +1,21 @@
+{
+  "patient_name": "Irvin Saddler",
+  "age": "99",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Saddler presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He states that the pain began approximately 2 hours ago while he was resting at home. The pain is accompanied by shortness of breath and diaphoresis. He denies any previous episodes of chest pain or cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or dyspnea on exertion.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Saddler has a history of hypertension and hyperlipidemia. He takes losartan and atorvastatin for these conditions.",
+  "medications": "Losartan 50 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Mr. Saddler has no history of surgical procedures.",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "Mr. Saddler is retired. He lives alone and denies smoking, alcohol, or illicit drug use."
+}

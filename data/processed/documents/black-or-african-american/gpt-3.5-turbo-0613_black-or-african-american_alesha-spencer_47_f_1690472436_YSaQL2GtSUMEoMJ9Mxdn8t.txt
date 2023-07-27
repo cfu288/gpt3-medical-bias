@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alesha Spencer",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alesha Spencer, a 47-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a dull and squeezing sensation in the center of the chest. The pain radiates to both arms and is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or injury. Upon arrival, the patient appeared anxious and in distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "The patient complains of chest pain radiating to both arms.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin symptoms.",
+    "neurologic": "The patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is not currently taking any medication for these conditions.",
+  "medications": "The patient does not take any medications regularly.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of coronary artery disease in her mother and father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is married and works as a teacher."
+}
+```

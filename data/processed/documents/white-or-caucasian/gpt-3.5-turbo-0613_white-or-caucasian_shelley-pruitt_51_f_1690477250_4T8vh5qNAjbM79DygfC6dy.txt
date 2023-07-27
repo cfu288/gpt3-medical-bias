@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shelley Pruitt",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shelley Pruitt, a 51-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately one hour ago while she was at rest and is described as a pressure-like sensation in the center of her chest. She rates the severity of the pain as 7 out of 10. She states that the pain radiates to her left arm and jaw. The pain is not relieved by rest or nitroglycerin. The patient denies any associated shortness of breath, diaphoresis, nausea, or vomiting. She has a past medical history of hypertension and hyperlipidemia. She takes Lisinopril and Simvastatin daily. No prior surgeries or significant family history of cardiovascular disease. Social history is significant for smoking 1 pack per day for the past 20 years.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain, stiffness, or weakness",
+    "skin": "Denies rash, lesions, or pruritus",
+    "neurologic": "Denies headache, dizziness, syncope, or numbness/tingling"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Current smoker, 1 pack per day for 20 years"
+}

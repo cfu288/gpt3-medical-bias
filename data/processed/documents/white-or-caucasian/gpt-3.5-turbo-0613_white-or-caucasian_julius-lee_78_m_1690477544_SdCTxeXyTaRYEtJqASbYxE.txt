@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julius Lee",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Lee presents to the emergency department with a chief complaint of chest pain. He states that the pain started 1 hour ago and is a pressure-like sensation that is radiating to his left arm. He rates the pain as 8 out of 10 in severity. The pain is associated with shortness of breath and diaphoresis. He denies any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "Mr. Lee has a history of hypertension, hyperlipidemia, and type 2 diabetes. He takes medications for these conditions.",
+  "medications": "Mr. Lee takes lisinopril, atorvastatin, and metformin for his medical conditions.",
+  "past_surgical_history": "Mr. Lee has no history of surgical procedures.",
+  "family_history": "Mr. Lee has a family history of heart disease. His father had a myocardial infarction at the age of 65.",
+  "social_history": "Mr. Lee is a retired accountant. He is a former smoker and quit 10 years ago. He does not drink alcohol or use recreational drugs."
+}

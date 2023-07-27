@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecil Mcmillian",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The patient rates the pain as 8 out of 10 in severity. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. Patient denies any previous history of similar symptoms. EKG was done and showed ST segment changes suggestive of ischemia. The patient was given aspirin and nitroglycerin for chest pain relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or any other respiratory symptoms.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient complains of pain in the left arm.",
+    "skin": "No skin abnormalities noted.",
+    "neurologic": "Patient denies any neurological symptoms such as headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He lives alone and is independent with activities of daily living."
+}

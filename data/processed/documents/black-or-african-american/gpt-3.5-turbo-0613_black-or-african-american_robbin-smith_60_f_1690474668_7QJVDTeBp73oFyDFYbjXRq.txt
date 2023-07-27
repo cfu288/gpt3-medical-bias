@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robbin Smith",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Robbin Smith, a 60-year-old female, presents to the emergency department with complaints of chest pain. The pain started this morning while she was at home and has been constant since then. She describes the pain as a tightness and pressure in the center of her chest. The pain radiates to her left arm and jaw. She denies any shortness of breath, nausea, or diaphoresis. The patient is concerned that she might be having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, radiating to left arm and jaw",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain, muscle weakness, or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is taking amlodipine and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient had a cholecystectomy 5 years ago.",
+  "family_history": "There is a family history of coronary artery disease in both of the patient's parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

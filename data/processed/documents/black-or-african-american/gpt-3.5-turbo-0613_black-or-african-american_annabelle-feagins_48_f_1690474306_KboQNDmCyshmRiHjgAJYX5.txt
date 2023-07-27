@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annabelle Feagins",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain began approximately 2 hours ago and has been constant since then. She rates the pain as a 7 out of 10 in severity. The pain is not relieved with rest and is not associated with shortness of breath or exertion. She denies any other symptoms such as palpitations, lightheadedness, nausea, or diaphoresis. On further questioning, the patient reports a history of hypertension and high cholesterol. She takes medication for these conditions. She denies any previous episodes of chest pain or heart disease. There is no family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations, irregular heartbeats, or edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Losartan, Atorvastatin",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Patient is a non-smoker and consumes alcohol occasionally."
+}

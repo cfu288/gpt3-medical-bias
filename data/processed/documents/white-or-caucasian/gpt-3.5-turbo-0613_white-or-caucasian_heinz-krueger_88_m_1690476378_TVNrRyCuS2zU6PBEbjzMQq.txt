@@ -1,0 +1,21 @@
+{
+  "patient_name": "Heinz Krueger",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Heinz Krueger, an 88-year-old male, presents to the emergency department with complaints of chest pain. The patient reports that the pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8/10 in severity and states that it is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or other symptoms. He has a history of hypertension, hyperlipidemia, and coronary artery disease. He takes medications for his conditions, which include lisinopril, atorvastatin, and aspirin. The patient has no known drug allergies. He has not had any surgery in the past. His family history is significant for coronary artery disease in his father. The patient is retired and used to work as a construction worker. He is a current smoker with a 50-pack-year history. He does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, malaise, or weight loss.",
+    "cardiovascular": "Besides the chest pain, the patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient denies cough, shortness of breath, wheezing, or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or change in urine color.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, pruritus, or lesions.",
+    "neurologic": "The patient denies headache, dizziness, syncope, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "The patient takes lisinopril, atorvastatin, and aspirin for his hypertension, hyperlipidemia, and coronary artery disease, respectively.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is retired and used to work as a construction worker. He has a 50-pack-year history of smoking and does not consume alcohol."
+}

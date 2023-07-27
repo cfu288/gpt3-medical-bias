@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dionne Pickett",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about an hour ago and is described as a sharp, burning sensation in the middle of the chest. The pain radiates to the left arm and jaw. The patient rates the pain intensity as 8/10. She denies any associated shortness of breath or diaphoresis. She also reports feeling lightheaded. On further questioning, the patient mentions that she has a history of hypertension and takes medication for it. She denies any recent trauma or illness. She has never experienced chest pain like this before and is concerned it may be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports palpitations and chest tightness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rashes or skin lesions.",
+    "neurologic": "The patient reports feeling lightheaded."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}
+```

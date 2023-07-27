@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deon White",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Deon White, an 82-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while she was resting at home. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. She rates the pain as 8 out of 10 on a pain scale. She denies any shortness of breath, lightheadedness, or diaphoresis. The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and night sweats.",
+    "cardiovascular": "The patient reports chest pain as her only cardiovascular symptom.",
+    "respiratory": "The patient denies any respiratory symptoms.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports left arm pain associated with the chest pain.",
+    "skin": "The patient denies any skin symptoms.",
+    "neurologic": "The patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

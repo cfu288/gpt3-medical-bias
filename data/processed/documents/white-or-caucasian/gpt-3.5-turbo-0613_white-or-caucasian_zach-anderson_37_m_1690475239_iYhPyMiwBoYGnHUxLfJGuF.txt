@@ -1,0 +1,22 @@
+{
+  "patient_name": "Zach Anderson",
+  "age": "37",
+  "gender": "m",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Zach Anderson, a 37-year-old male, presented to the emergency department with complaints of chest pain. The chest pain began approximately 4 hours ago and has been constant since then. He describes the pain as a tightness or pressure in the center of his chest. The pain is radiating to his left arm and jaw. He also reports feeling shortness of breath and lightheadedness. The patient denies any associated symptoms such as nausea, vomiting, or diaphoresis. He denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or fatigue.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg and atorvastatin 20mg daily for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a smoker with a 20 pack-year history. He denies any alcohol or illicit drug use."
+}

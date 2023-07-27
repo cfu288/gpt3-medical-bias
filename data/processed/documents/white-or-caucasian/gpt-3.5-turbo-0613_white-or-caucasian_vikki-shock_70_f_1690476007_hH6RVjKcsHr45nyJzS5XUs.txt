@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vikki Shock",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Vikki Shock, a 70-year-old female, presents to the emergency department with a chief complaint of chest pain. She states that the pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the intensity of the pain as 8 out of 10. She denies any associated shortness of breath, nausea, or diaphoresis. She has a history of hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described in the history of present illness. Negative for palpitations or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 25",
+  "family_history": "No significant family history of cardiovascular disease, cancer, or other hereditary conditions.",
+  "social_history": "Non-smoker, non-drinker, lives alone, retired"
+}

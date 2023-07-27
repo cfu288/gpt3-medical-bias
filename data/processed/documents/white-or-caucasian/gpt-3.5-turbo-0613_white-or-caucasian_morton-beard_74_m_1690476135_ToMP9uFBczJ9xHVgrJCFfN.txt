@@ -1,0 +1,21 @@
+{
+  "patient_name": "Morton Beard",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The pain is radiating to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. Upon arrival, an EKG was performed and showed ST-segment elevation in leads II, III, and aVF. Given the clinical presentation and EKG findings, a diagnosis of acute myocardial infarction (MI) was suspected and the patient was immediately started on aspirin, oxygen, and nitroglycerin. The patient was also given morphine for pain relief. Cardiology consultation was obtained and the patient was taken to the cardiac catheterization lab for emergent coronary angiography. The patient was found to have a complete occlusion of the left anterior descending artery (LAD) and underwent percutaneous coronary intervention (PCI) with stent placement. The procedure was successful and there were no immediate complications. The patient was then transferred to the cardiac intensive care unit (CICU) for further management and monitoring.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of diaphoresis and reports feeling weak.",
+    "cardiovascular": "The patient reports chest pain radiating to the left arm and shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient is currently taking metoprolol, lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s.",
+  "social_history": "The patient is a retired school teacher. He has a 20 pack-year smoking history but quit smoking 10 years ago. He denies alcohol or recreational drug use."
+}

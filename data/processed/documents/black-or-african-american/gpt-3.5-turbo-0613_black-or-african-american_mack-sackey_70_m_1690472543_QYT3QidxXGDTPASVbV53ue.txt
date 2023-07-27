@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mack Sackey",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mack Sackey, a 70-year-old male, presents to the emergency department with complaints of sudden onset of severe chest pain. The pain started approximately 1 hour ago and is described as a crushing or squeezing sensation that radiates to his left arm. He rates the pain 8/10 in intensity and states that it has not improved since onset. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has no previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss.",
+    "cardiovascular": "Positive for sudden-onset chest pain radiating to left arm. Denies any palpitations or dyspnea.",
+    "respiratory": "Denies any shortness of breath, cough, or sputum production.",
+    "gi": "Negative for symptoms of gastrointestinal distress such as nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for severe chest pain.",
+    "skin": "Negative for any rash, itching, or lesions.",
+    "neurologic": "Negative for any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with medications, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient is currently taking the following medications: - Amlodipine 5mg daily for hypertension - Simvastatin 20mg daily for hyperlipidemia - Metformin 1000mg twice daily for type 2 diabetes",
+  "past_surgical_history": "The patient has a history of a previous appendectomy in childhood but denies any other significant surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s. No other significant family history of cardiovascular disease.",
+  "social_history": "The patient denies tobacco or illicit drug use. He drinks alcohol occasionally in moderation. He is retired and lives at home with his spouse. No recent travel."
+}
+```

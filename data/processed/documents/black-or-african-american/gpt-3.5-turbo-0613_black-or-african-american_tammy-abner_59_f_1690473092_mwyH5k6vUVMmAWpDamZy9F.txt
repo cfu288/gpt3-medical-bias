@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tammy Abner",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a tightness and pressure in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8/10 in intensity. She denies any associated shortness of breath, diaphoresis, or nausea. She has a history of hypertension and hypercholesterolemia. She does not have a history of angina or myocardial infarction. On initial assessment, the patient appears uncomfortable and is diaphoretic. Vital signs are as follows: heart rate 110, blood pressure 150/90, respiratory rate 18, oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fevers, or chills.",
+    "cardiovascular": "The patient reports chest pain as described in the history of present illness section.",
+    "respiratory": "The patient denies any cough, dyspnea, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient complains of some discomfort in her left arm and jaw, in addition to the chest pain.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any changes in sensation, coordination, or strength."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hypercholesterolemia. She takes lisinopril 10 mg daily and atorvastatin 20 mg daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of hypertension and her father had a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a teacher and has a sedentary lifestyle."
+}

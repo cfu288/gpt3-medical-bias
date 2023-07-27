@@ -1,0 +1,21 @@
+{
+  "patient_name": "Casimir James",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Casimir James, is a 92-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is located in the center of the chest. The patient describes the pain as a squeezing sensation that radiates to his left arm. He rates the pain as 7 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a past medical history of hypertension and hyperlipidemia. He states that he takes medications for both conditions, but is unable to provide the specific names. He denies any previous surgeries. The patient's family history is significant for coronary artery disease, with his father having a myocardial infarction at the age of 70. The patient is a non-smoker and does not consume alcohol. He lives alone and is independent with activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations, edema, or orthopnea.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient reports taking medications for hypertension and hyperlipidemia, but is unable to provide the specific names.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease, with his father having a myocardial infarction at the age of 70.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He lives alone and is independent with activities of daily living."
+}

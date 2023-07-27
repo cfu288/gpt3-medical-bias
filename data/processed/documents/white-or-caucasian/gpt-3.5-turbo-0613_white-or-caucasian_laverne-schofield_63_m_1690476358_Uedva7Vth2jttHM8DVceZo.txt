@@ -1,0 +1,28 @@
+{
+  "patient_name": "Laverne Schofield",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  
+  "history_of_present_illness": "Patient Laverne Schofield is a 63-year-old male presenting to the emergency department with complaints of chest pain. The pain is described as a pressure-like sensation in the center of his chest. It started approximately 2 hours ago while he was at rest and has since been persistent. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. It is important to note that he has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight changes.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  
+  "medications": "Patient takes medications for hypertension and hyperlipidemia.",
+  
+  "past_surgical_history": "",
+  
+  "family_history": "Patient is unsure of family medical history.",
+  
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

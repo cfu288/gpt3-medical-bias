@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Earnest Zeigler",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Zeigler, a 66-year-old male, presents to the emergency department with complaints of chest pain. The pain started suddenly 1 hour ago while he was at rest and has been continuous since then. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. He denies any associated symptoms such as shortness of breath or palpitations. His vital signs upon arrival are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain radiating to left arm",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Father had myocardial infarction at age 70",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

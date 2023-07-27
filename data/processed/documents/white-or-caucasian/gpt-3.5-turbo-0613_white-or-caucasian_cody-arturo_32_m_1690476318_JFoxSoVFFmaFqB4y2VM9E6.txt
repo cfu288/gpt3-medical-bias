@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cody Arturo",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started 2 hours ago. The patient describes the pain as a dull, pressure-like sensation, radiating to the left arm. He rates the pain as 8/10 and notes that it worsens with deep breaths. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "No history of palpitations or syncope. No edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for it.",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking or alcohol use. Works as an accountant and reports high stress levels."
+}

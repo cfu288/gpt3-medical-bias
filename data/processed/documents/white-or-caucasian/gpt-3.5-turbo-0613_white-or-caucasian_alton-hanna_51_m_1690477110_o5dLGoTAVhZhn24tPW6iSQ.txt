@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alton Hanna",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of chest pain. The pain is described as a dull ache, radiating to the left arm. It started approximately 1 hour ago while the patient was at rest. The pain is not relieved with rest or nitroglycerin. Patient denies any associated symptoms such as shortness of breath, diaphoresis or nausea. Patient has a history of hypertension and hyperlipidemia. On examination, the patient appears uncomfortable but not in acute distress. Blood pressure is 140/90 mmHg, heart rate is 90 beats per minute, respiratory rate is 18 breaths per minute, oxygen saturation is 98% on room air. Cardiac auscultation reveals normal S1 and S2 sounds with no murmurs or rubs. Pulmonary examination is clear to auscultation bilaterally. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient complains of mild shortness of breath with exertion but denies orthopnea or paroxysmal nocturnal dyspnea.",
+    "respiratory": "Patient denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies any focal neurologic symptoms or headaches."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Patient is a current smoker with a 30 pack-year history."
+}

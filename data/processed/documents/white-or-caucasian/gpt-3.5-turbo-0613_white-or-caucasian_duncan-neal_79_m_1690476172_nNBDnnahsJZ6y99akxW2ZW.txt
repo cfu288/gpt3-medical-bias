@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duncan Neal",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Duncan Neal, a 79-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the chest. The pain is radiating to the left arm and jaw. The patient also reports shortness of breath and diaphoresis. The pain is not relieved with rest or nitroglycerin. The patient has a history of hypertension and hyperlipidemia. He smokes 1 pack of cigarettes per day and does not exercise regularly. On physical examination, the patient appears pale and diaphoretic. Vital signs are as follows: temperature 98.6°F, heart rate 110 bpm, blood pressure 150/90 mmHg, respiratory rate 20 breaths per minute, and oxygen saturation 95% on room air. Cardiovascular examination reveals a regular rate and rhythm with no murmurs, rubs, or gallops. Lung sounds are clear bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, weight loss, or fatigue.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is taking metoprolol and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for cardiovascular disease.",
+  "social_history": "The patient admits to smoking 1 pack of cigarettes per day and does not exercise regularly."
+}

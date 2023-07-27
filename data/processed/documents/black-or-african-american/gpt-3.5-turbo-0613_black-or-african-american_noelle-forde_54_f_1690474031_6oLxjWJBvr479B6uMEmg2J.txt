@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Noelle Forde",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Noelle Forde, a 54-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is described as a heaviness and squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. The patient states that the pain is constant and has not resolved with rest or over-the-counter pain medications. She denies any shortness of breath, diaphoresis, or nausea/vomiting. She has a history of hypertension and elevated cholesterol levels. Upon further questioning, the patient reports no recent illnesses, fevers, or infections.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any shortness of breath, wheezing, or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient reports no rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and elevated cholesterol levels. She takes medications for these conditions as instructed by her primary care physician.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for high cholesterol levels.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother had a history of heart disease and her father had a history of hypertension. She does not have any siblings.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a nurse and lives with her husband."
+}
+```

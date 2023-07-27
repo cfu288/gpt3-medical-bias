@@ -1,0 +1,21 @@
+{
+    "patient_name": "Mattie Brown",
+    "age": "82",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. She denies any associated shortness of breath, nausea, or diaphoresis. Upon further questioning, she mentioned that she has a history of angina and has been experiencing similar episodes of chest pain in the past which were relieved with rest and nitroglycerin.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss.",
+        "cardiovascular": "Patient denies any palpitations or syncope. She has a history of hypertension and takes medication for it.",
+        "respiratory": "No cough or shortness of breath.",
+        "gi": "No nausea, vomiting, or abdominal pain.",
+        "gu": "No dysuria or hematuria.",
+        "musculoskeletal": "Patient reports no joint pain or stiffness.",
+        "skin": "No rashes, itching, or skin discoloration.",
+        "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Hypertension, angina",
+    "medications": "Lisinopril 10mg daily, Nitroglycerin PRN for chest pain",
+    "past_surgical_history": "No major surgeries",
+    "family_history": "Mother had a history of heart disease",
+    "social_history": "Non-smoker, occasional alcohol use"
+}

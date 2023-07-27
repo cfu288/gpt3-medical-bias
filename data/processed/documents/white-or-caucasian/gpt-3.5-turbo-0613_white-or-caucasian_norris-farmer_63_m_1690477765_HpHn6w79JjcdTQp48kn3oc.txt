@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Farmer",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Norris Farmer, a 63-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a substernal, squeezing sensation radiating to his left arm. He rates the severity of the pain as 7/10. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He took an aspirin at home prior to presentation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "As mentioned in the history of present illness, patient complains of chest pain radiating to his left arm. Denies any palpitations or syncope.",
+    "respiratory": "Patient denies any cough, shortness of breath or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting or changes in bowel movements.",
+    "gu": "Patient denies any urinary complaints.",
+    "musculoskeletal": "As mentioned in the history of present illness, patient complains of pain radiating to his left arm. Denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions or changes to the skin.",
+    "neurologic": "Patient denies any changes in vision, headache or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril 10 mg daily and atorvastatin 40 mg daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily\nAtorvastatin 40 mg daily\nAspirin 81 mg as needed for pain",
+  "past_surgical_history": "Patient has no known history of surgeries.",
+  "family_history": "Patient's father had myocardial infarction at age 70. Mother is alive with no significant medical history.",
+  "social_history": "Patient is a retired accountant. He denies any alcohol, tobacco or illicit drug use."
+}

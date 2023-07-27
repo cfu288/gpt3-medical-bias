@@ -1,0 +1,21 @@
+{
+  "patient_name": "Don Flint",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department with a chief complaint of sudden onset chest pain. The pain is described as a crushing sensation located in the center of the chest. Patient also reports feeling shortness of breath and dizziness. Symptoms started approximately 2 hours ago and have been gradually worsening.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as previously mentioned, but denies palpitations, syncope, or edema.",
+    "respiratory": "Patient reports shortness of breath and a non-productive cough. Denies wheezing or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "No rashes, lesions, or changes in skin integrity reported by the patient.",
+    "neurologic": "Patient denies any changes in mental status, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient reports a family history of heart disease. Father had a myocardial infarction at age 65.",
+  "social_history": "Patient is a retired accountant and is a nonsmoker. He reports drinking alcohol socially."
+}

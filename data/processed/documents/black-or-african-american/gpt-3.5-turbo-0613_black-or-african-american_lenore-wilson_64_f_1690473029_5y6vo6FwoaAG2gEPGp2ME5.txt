@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lenore Wilson",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lenore Wilson, a 64-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain started approximately one hour ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, diaphoresis, or palpitations. There is no history of trauma or recent illness. The patient has a past medical history of hypertension and hyperlipidemia. She is not currently taking any medications. The patient has no known drug allergies. She has not had any previous surgeries. There is no family history of cardiac disease. Socially, the patient is retired and lives alone. She denies smoking, alcohol consumption, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient reports shortness of breath that is associated with the chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no family history of cardiac disease.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol consumption, or illicit drug use."
+}

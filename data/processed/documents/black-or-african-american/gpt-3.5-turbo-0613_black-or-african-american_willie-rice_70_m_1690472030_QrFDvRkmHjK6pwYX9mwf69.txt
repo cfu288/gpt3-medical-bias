@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Rice",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Willie Rice, is a 70-year-old male who presented to the emergency department with a chief complaint of chest pain. Onset of symptoms occurred approximately 2 hours prior to arrival. The pain is described as a tightness in the chest, radiating to the left arm. The patient denies any associated shortness of breath, diaphoresis, or palpitations. He has a past medical history of hypertension and hyperlipidemia. The patient is currently taking medications for these conditions, including lisinopril and atorvastatin. There is no history of prior surgeries. The patient's family history is significant for coronary artery disease, with his father having a myocardial infarction at the age of 65. The patient has a history of smoking but quit 20 years ago. He denies any current alcohol or illicit drug use. Given the patient's symptoms and risk factors, a thorough evaluation for possible cardiac etiology is indicated.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above, but denies any palpitations or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Coronary artery disease in father",
+  "social_history": "Prior smoking, quit 20 years ago; no alcohol or illicit drug use"
+}

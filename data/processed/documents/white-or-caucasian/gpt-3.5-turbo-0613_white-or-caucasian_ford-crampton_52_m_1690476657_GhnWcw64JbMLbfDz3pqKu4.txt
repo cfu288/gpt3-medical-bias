@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ford Crampton",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He reports the pain as a heaviness and tightness in the center of his chest, radiating to his left arm. The pain began approximately 2 hours ago and has been persistent since then. He denies any alleviating or aggravating factors. The patient reports associated symptoms of shortness of breath and diaphoresis. The pain is not relieved with rest or nitroglycerin. Upon further questioning, the patient states that he has a history of hypertension and hyperlipidemia. He currently takes amlodipine and atorvastatin for these conditions. He denies any recent illnesses or injuries. The patient states that he has never had this type of chest pain before and is concerned that he may be having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or night sweats",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough, wheezing, or dyspnea",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or focal deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history of cardiovascular diseases",
+  "social_history": "Patient smokes 1 pack of cigarettes per day and consumes alcohol moderately on weekends"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tonja Jones",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe chest pain. She describes the pain as a pressure-like sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant. The patient denies any shortness of breath, diaphoresis, or nausea. She has a history of hypertension and hyperlipidemia. Upon arrival, her blood pressure was 140/90 mmHg, heart rate was 80 bpm, respiratory rate was 16 breaths per minute, and oxygen saturation was 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms or changes in urine output",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Father had a myocardial infarction at the age of 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

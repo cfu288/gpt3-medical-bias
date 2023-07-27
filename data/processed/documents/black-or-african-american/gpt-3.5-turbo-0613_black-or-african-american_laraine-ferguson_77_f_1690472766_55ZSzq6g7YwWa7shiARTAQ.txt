@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laraine Ferguson",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the ED with complaints of severe chest pain radiating to the left arm. Pain started approximately 1 hour ago and has been progressively increasing in intensity. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain radiating to left arm. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain radiating to left arm. ",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for family history of cardiac disease.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elden Blake",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started about 2 hours ago. The pain is described as sharp and radiating to the left arm. Patient denies any associated shortness of breath, nausea, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient reports no history of recent trauma or joint pain.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies any changes in sensation, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril, atorvastatin, and acetaminophen on a daily basis.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a heart attack at the age of 65.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

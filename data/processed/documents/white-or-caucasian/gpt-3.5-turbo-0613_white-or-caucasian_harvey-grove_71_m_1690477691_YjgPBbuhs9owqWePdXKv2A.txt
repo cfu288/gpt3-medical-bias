@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harvey Grove",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Grove, is a 71-year-old male who presents to the emergency department with chief complaint of chest pain. He describes the pain as a heaviness in his chest that started suddenly while he was at home watching TV. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 and states that it has been persisting for the last 30 minutes.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain with radiation to left arm and jaw.",
+    "respiratory": "Denies shortness of breath, cough, or sputum production.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or pruritus.",
+    "neurologic": "Denies headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient takes metoprolol 50mg daily, atorvastatin 40mg daily, and metformin 1000mg twice daily for his medical conditions.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a myocardial infarction in her 60s. His father had a history of hypertension and passed away due to stroke.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}

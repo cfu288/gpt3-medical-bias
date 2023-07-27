@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rufus Wilson",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain started suddenly while the patient was at rest and is described as a squeezing or pressure-like sensation in the center of the chest. The patient rates the pain as 8/10. Associated symptoms include shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or skin discoloration.",
+    "neurologic": "No headache, dizziness, or changes in sensation or strength."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "The patient denies tobacco smoking or alcohol use. Patient works as a software engineer and does not have any known occupational exposures."
+}

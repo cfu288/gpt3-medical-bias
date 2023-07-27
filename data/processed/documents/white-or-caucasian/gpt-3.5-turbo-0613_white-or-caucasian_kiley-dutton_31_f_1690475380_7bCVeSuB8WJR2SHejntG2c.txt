@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kiley Dutton",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kiley Dutton, a 31-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a constant, 7/10 in severity, and localized to the center of her chest. The pain started approximately 2 hours ago and is accompanied by shortness of breath. She denies any associated symptoms such as nausea, vomiting, diaphoresis, or radiation of pain. She has no known cardiac history and states that this is the first time she has experienced this type of pain. She denies any recent illness or trauma. She states that the pain is worsening with deep breaths and movement. On further questioning, the patient reports no fever, cough, or sputum production. She denies any gastrointestinal symptoms or genitourinary complaints. She has no history of neurological or musculoskeletal disorders. She reports no recent changes in her medications or surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or edema.",
+    "respiratory": "The patient reports shortness of breath that started along with the chest pain. She denies cough or sputum production.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any genitourinary complaints such as dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any history of musculoskeletal disorders or recent trauma.",
+    "skin": "The patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "The patient denies any history of neurological disorders or recent changes in mental status."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient reports taking over-the-counter ibuprofen as needed for occasional headaches. She denies any prescription medications or allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular, respiratory, gastrointestinal, or neurological disorders.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She reports that she works as a software engineer and lives a sedentary lifestyle. She does not exercise regularly and has no recent travel history."
+}

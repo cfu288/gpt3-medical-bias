@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Weldon Scheuneman",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Weldon Scheuneman, a 46-year-old male, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about an hour ago and is located in the center of the chest, radiating to the left arm. The pain is described as crushing and is accompanied by shortness of breath. The patient also reports nausea and sweating. He denies any previous episodes of similar pain. On examination, the patient appears distressed and diaphoretic. Vital signs show a heart rate of 110 beats per minute, blood pressure of 140/90 mmHg, respiratory rate of 20 breaths per minute, and oxygen saturation of 98% on room air. The patient is placed on a cardiac monitor, and an electrocardiogram is ordered to evaluate for possible acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the main symptom. No history of palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "No history of recent trauma.",
+    "skin": "No significant skin changes or rash.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient's father had a heart attack at age 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}
+```

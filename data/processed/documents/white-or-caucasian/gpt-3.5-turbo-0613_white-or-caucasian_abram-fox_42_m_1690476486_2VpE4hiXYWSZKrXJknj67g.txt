@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abram Fox",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the ED with complaints of chest pain that started one hour ago. Patient describes the pain as a squeezing sensation in the center of the chest that radiates to the left arm. Pain is associated with shortness of breath and diaphoresis. Patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "Patient denies cough, hemoptysis, or wheezing. No history of asthma or COPD.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "No history of joint pain or swelling.",
+    "skin": "No history of skin rashes or lesions.",
+    "neurologic": "No history of headaches, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and obesity.",
+  "medications": "Patient takes lisinopril and atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's father passed away from a myocardial infarction at the age of 60. Mother is alive and has no significant medical history.",
+  "social_history": "Patient is a current smoker with a 20-pack year smoking history. He drinks alcohol occasionally but denies recreational drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderic Flowers",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Flowers presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, stabbing sensation in the center of his chest. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, sweating, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Reports chest pain as described above. Denies palpitations or dizziness.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "Denies any rashes or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Mr. Flowers has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Family history is positive for hypertension and coronary artery disease.",
+  "social_history": "Mr. Flowers is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lucretia Simmons",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lucretia Simmons, a 57-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that she first started experiencing the chest pain about 2 hours ago. The pain is described as a sharp, stabbing sensation located in the center of her chest. She rates the pain as 8/10 in severity and reports that it is constant. The pain does not radiate to any other part of her body. She denies any associated symptoms such as shortness of breath, sweating, or lightheadedness. She also denies any recent trauma or injury to her chest. The pain is exacerbated with deep breathing and movement, but is not relieved by rest or over-the-counter pain medications. She states that this is the first time she has experienced this type of chest pain. She denies any history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations, edema, or syncope",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions including lisinopril and atorvastatin. She denies any known allergies to medications.",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}
+```

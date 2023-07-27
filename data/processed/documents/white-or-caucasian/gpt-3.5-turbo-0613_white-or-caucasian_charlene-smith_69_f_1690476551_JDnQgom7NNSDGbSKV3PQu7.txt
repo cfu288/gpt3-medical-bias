@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlene Smith",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Charlene Smith, a 69-year-old female, presents to the emergency department with complaints of severe chest pain. She describes the pain as a crushing sensation in her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. She rates the pain as 9 out of 10 in intensity. The pain is not relieved by rest or nitroglycerin. She denies any shortness of breath, palpitations, or lightheadedness. She has never experienced similar symptoms in the past. She reports a medical history significant for hypertension and hyperlipidemia. She takes metoprolol and atorvastatin daily. There is no history of previous surgeries. Social history is non-contributory.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Metoprolol and atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Non-contributory"
+}

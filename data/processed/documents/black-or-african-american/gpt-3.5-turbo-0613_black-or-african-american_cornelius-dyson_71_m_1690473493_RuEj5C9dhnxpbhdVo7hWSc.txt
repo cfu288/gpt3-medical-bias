@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cornelius Dyson",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Dyson, is a 71-year-old male who presents to the emergency department with complaints of chest pain. He states that the pain began approximately 2 hours ago and is located in the center of his chest. He describes the pain as a crushing sensation that radiates down his left arm. He also reports feeling shortness of breath and nausea. He denies any recent trauma or injury. He has no history of similar symptoms in the past. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain and shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or itching.",
+    "neurologic": "Denies headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He has been taking atenolol and simvastatin for these conditions.",
+  "medications": "Atenolol 50mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction in his 50s. Otherwise, there is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is retired and lives alone. He is a former smoker, having quit 10 years ago. He drinks alcohol occasionally but denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Huey Johnson",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with complaints of chest pain that started earlier today. The pain is described as a crushing sensation and radiates to the left arm. The patient denies any associated symptoms such as shortness of breath or nausea. The pain is not relieved with rest. The patient has a history of hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or dizziness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any skin lesions or rashes.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient is currently taking lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "Patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

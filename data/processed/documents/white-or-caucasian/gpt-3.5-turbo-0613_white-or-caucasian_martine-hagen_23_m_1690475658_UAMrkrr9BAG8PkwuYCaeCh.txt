@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Martine Hagen",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Martine Hagen, a 23-year-old male, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation located in the center of his chest. The pain started approximately 2 hours ago and is persistent. There is no radiation of the pain to the arms or jaw. He denies any shortness of breath, dizziness, or palpitations. There are no exacerbating or relieving factors noted. It is important to note that he has no significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or syncope",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headache or changes in sensation"
+  },
+  "past_medical_history": "No significant past medical history is reported.",
+  "medications": "The patient denies taking any medications regularly.",
+  "past_surgical_history": "The patient has no history of any prior surgeries.",
+  "family_history": "There is no significant family history of cardiovascular diseases or other relevant conditions.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or illicit drug use."
+}
+```

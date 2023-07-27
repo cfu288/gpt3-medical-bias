@@ -1,0 +1,21 @@
+{
+  "patient_name": "Benjamin Garrett",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 39-year-old male named Benjamin Garrett, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 1 hour ago. The pain is described as a sharp, stabbing sensation located in the center of the chest. The patient rates the intensity of the pain as 7 out of 10 and reports that it radiates to his left arm. The pain is not relieved with rest and is associated with shortness of breath. The patient denies any prior history of similar symptoms. Upon further questioning, the patient denies any recent illness, fever, cough, or other respiratory symptoms. The patient also denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain. There is no history of trauma or recent surgery. The patient reports a past medical history of hypertension and takes medication for it. The patient has no known drug allergies. The patient denies any family history of cardiovascular disease. In terms of social history, the patient is a non-smoker and denies illicit drug use. He consumes alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Apart from the chest pain, the patient denies any palpitations, lightheadedness, or edema.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath except when experiencing the chest pain.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is taking medication for hypertension.",
+  "past_surgical_history": "The patient denies any prior surgeries.",
+  "family_history": "The patient denies any family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies illicit drug use. He consumes alcohol occasionally."
+}

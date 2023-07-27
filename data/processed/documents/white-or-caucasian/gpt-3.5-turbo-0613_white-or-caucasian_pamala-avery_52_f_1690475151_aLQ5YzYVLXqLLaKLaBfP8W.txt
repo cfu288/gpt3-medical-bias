@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Pamala Avery",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Pamala Avery, a 52-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about an hour ago and is located in the center of her chest. The pain is described as a sharp and squeezing sensation, and is accompanied by shortness of breath. The patient denies any previous episodes of chest pain or heartburn. She also denies any nausea, vomiting, diaphoresis, or lightheadedness. The patient states that the pain is not relieved with rest or change in position. On further questioning, the patient reports that she has a history of hypertension and takes medication for it. She also states that she has a family history of heart disease, with her father having a heart attack in his 50s. The patient denies any other significant medical or surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient reports chest pain as mentioned earlier. She denies any palpitations or irregular heart beats.",
+    "respiratory": "The patient denies any cough, sputum production, shortness of breath at rest, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limited range of motion.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient is currently taking medication for hypertension. The specific medication names and dosages are unknown at this time.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease, with her father having a heart attack in his 50s.",
+  "social_history": "The patient denies any tobacco or illicit drug use. She reports that she drinks alcohol socially on occasion."
+}
+```

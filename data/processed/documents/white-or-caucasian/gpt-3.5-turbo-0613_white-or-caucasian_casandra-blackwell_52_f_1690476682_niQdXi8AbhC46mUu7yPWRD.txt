@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Casandra Blackwell",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Casandra Blackwell, a 52-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago while she was at rest. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has no known history of heart disease, but she states that she has a family history of heart attacks. She is currently not taking any medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue",
+    "cardiovascular": "Positive for chest pain as chief complaint, negative for palpitations or lightheadedness",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or changes in pigmentation",
+    "neurologic": "Negative for headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for family history of heart attacks.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}
+```

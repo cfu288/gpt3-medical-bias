@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernst Meredith",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. He described the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain and states that this is the worst pain he has ever experienced. He does not have any known cardiac risk factors.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports palpitations but denies syncope, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient complains of shortness of breath and mild cough.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color or temperature.",
+    "neurologic": "The patient denies headache, blurred vision, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril daily. He does not have a history of diabetes, hyperlipidemia, or cardiovascular disease.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. There is no family history of other cardiovascular diseases, cancer, or autoimmune disorders.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He consumes alcohol occasionally but denies illicit drug use."
+}

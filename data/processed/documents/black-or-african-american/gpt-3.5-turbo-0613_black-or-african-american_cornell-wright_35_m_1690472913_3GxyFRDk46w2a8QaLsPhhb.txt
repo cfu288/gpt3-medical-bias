@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Wright",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department complaining of chest pain. He described the pain as a sharp, squeezing sensation that radiated to his left arm. The pain started approximately 2 hours ago and has been persistent. The patient rates the pain as a 7 on a scale of 1 to 10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has no history of chest pain or cardiac issues in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient complains of chest pain and left arm pain.",
+    "skin": "The patient denies any skin issues.",
+    "neurologic": "The patient denies any neurological symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient states that his father had a myocardial infarction at the age of 50.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

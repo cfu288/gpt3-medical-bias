@@ -1,0 +1,21 @@
+{
+  "patient_name": "Orville Oconnell",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe chest pain that started suddenly while at rest. The pain is described as a crushing sensation and radiates to the left arm. He reports associated shortness of breath, diaphoresis, and nausea. The pain has been ongoing for the past 30 minutes and has not subsided. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "Patient is taking lisinopril, simvastatin, and aspirin daily.",
+  "past_surgical_history": "Patient underwent a coronary artery bypass graft surgery 5 years ago.",
+  "family_history": "Positive for coronary artery disease in father and brother.",
+  "social_history": "Patient is a retired accountant. Denies tobacco or illicit drug use. Drinks alcohol occasionally."
+}

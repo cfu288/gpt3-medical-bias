@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Donnell Ginn",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Donnell Ginn, is a 63-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain started approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and is currently on medication for this condition. He denies any previous episodes of chest pain. In light of the patient's symptoms, cardiac etiology must be considered and ruled out. The patient has been placed on a cardiac monitor and an EKG has been ordered. The patient's vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight changes.",
+    "cardiovascular": "The patient reports chest pain, which is concerning for a cardiac etiology.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in his left arm and jaw that started concurrently with the chest pain.",
+    "skin": "The patient denies any rashes, open sores, or other skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is currently on medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgeries.",
+  "family_history": "The patient reports a family history of hypertension and heart disease.",
+  "social_history": "The patient denies tobacco use and recreational drug use. He is a social drinker and lives alone."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Blake Eggenberger",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Blake Eggenberger, a 27-year-old male, presents to the emergency department with complaints of chest pain. He reports that the chest pain started suddenly approximately 2 hours ago. The pain is described as a sharp, stabbing sensation located in the center of his chest. The pain is exacerbated by deep inspiration and alleviated by sitting forward. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness. He states that the pain is not radiating to his arms, neck, or back. The patient has no significant medical history and has never experienced this type of chest pain before. He denied any recent trauma or stressful events. The patient denies any fevers, chills, cough, or other respiratory symptoms. He has no gastrointestinal complaints or genitourinary symptoms. His review of systems is otherwise unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "None",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiac diseases",
+  "social_history": "The patient denies smoking or alcohol use. He works as a software engineer and leads a sedentary lifestyle."
+}

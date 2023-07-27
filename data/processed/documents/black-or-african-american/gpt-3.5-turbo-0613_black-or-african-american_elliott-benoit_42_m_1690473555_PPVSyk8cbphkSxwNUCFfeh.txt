@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elliott Benoit",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started suddenly approximately 3 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10. He denies any shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it. Given the severity and location of the pain, further evaluation is needed to rule out acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, no palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

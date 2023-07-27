@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Joan Disabato",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Joan Disabato, presents to the emergency department with complaints of chest pain. She reports having a sudden onset of sharp, stabbing pain in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has persisted since then. She denies any associated symptoms such as shortness of breath, diaphoresis, nausea, or lightheadedness. The pain is not relieved by rest and is worsened with deep breathing and movement. She has a history of hypertension and takes medication for it. On physical examination, the patient appears in mild distress and is diaphoretic. Vital signs are stable. Cardiovascular and respiratory examinations are unremarkable. Given the patient's symptoms and risk factors, a thorough evaluation will be conducted to rule out any cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes antihypertensive medication.",
+  "medications": "The patient takes antihypertensive medication as prescribed.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a positive family history of coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

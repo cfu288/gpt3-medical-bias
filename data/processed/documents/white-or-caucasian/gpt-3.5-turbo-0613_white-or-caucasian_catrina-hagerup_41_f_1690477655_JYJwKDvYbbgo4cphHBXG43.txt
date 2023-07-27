@@ -1,0 +1,21 @@
+{
+  "patient_name": "Catrina Hagerup",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of acute onset of chest pain. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. It started approximately 1 hour ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Positive for hypertension in the patient's mother.",
+  "social_history": "Patient is a non-smoker and denies any illicit drug or alcohol use."
+}

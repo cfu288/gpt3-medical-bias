@@ -1,0 +1,27 @@
+{
+  "patient_name": "Susette Price",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Susette Price, a 67-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. The pain is described as a squeezing sensation and is associated with shortness of breath. She denies any radiation of the pain, palpitations, or lightheadedness. The pain is not relieved with rest and is rated 7/10 in intensity. Susette has a history of hypertension and hyperlipidemia, for which she takes metoprolol and atorvastatin. On physical examination, the patient appears anxious and diaphoretic. Her vitals signs are stable, with a blood pressure of 125/75 mmHg, heart rate of 85 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 99% on room air.",
+ 
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports no history of palpitations, orthopnea, or paroxysmal nocturnal dyspnea.",
+    "respiratory": "The patient denies any cough, sputum production, hemoptysis, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, or urinary incontinence.",
+    "musculoskeletal": "The patient denies any joint pain or active musculoskeletal complaints.",
+    "skin": "The patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  
+  "medications": "The patient takes metoprolol and atorvastatin for her hypertension and hyperlipidemia.",
+  
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia in her mother.",
+  
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is retired."
+}

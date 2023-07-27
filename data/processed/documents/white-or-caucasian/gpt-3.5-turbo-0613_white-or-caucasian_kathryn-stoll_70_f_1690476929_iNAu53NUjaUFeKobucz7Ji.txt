@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kathryn Stoll",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. The pain began approximately 2 hours ago, is located in the center of the chest, and is described as a squeezing or pressure-like sensation. The patient rates the pain as 8/10 in severity. The pain is radiating to the left arm and jaw. The patient denies any shortness of breath, diaphoresis, or nausea. EKG was performed and showed ST segment elevation in leads V2-V4, consistent with an ST-elevation myocardial infarction (STEMI). The patient was immediately started on aspirin and nitroglycerin, and a cardiac catheterization was initiated.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient is currently taking lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

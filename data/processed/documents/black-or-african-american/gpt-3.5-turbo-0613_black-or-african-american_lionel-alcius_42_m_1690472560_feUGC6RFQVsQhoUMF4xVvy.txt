@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lionel Alcius",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lionel Alcius, a 42-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started suddenly about an hour ago and is located in the center of his chest. He describes the pain as a sharp, squeezing sensation that radiates to his left arm. He rates the intensity of the pain as 8 out of 10. He denies any shortness of breath, lightheadedness, or diaphoresis. The pain is not relieved with rest or position change. The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking medications for both conditions. There is no history of recent surgeries. This is the first time he has experienced this type of chest pain. The patient denies any family history of heart disease. He works as a software engineer and denies any tobacco or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any changes in vision, headaches, or dizziness."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "No family history of heart disease.",
+  "social_history": "The patient works as a software engineer. He denies any tobacco or illicit drug use."
+}

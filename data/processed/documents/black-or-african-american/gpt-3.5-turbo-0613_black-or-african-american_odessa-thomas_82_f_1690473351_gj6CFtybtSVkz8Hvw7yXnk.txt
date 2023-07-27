@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odessa Thomas",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 82-year-old female named Odessa Thomas, presented to the Emergency Department with a chief complaint of chest pain. She stated that she started experiencing the pain approximately 3 hours ago. The pain is described as a sharp, squeezing sensation located in the center of her chest. She rates the pain as 7 out of 10 in intensity. The pain radiates to her left arm and jaw. The patient denies any associated symptoms such as shortness of breath, dizziness, nausea, or diaphoresis. She denies any recent trauma. The patient has a history of hypertension and hyperlipidemia. She takes metoprolol and atorvastatin daily for these conditions. She had a coronary artery bypass graft surgery 3 years ago. Her last clinic visit was 2 months ago and she reported her blood pressure and cholesterol levels to be well controlled. The patient reports a family history of cardiovascular disease in both her parents. She is a retired teacher and denies any tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, patient denies any palpitations, lightheadedness, or leg swelling.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia, Coronary artery bypass graft surgery",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "Coronary artery bypass graft surgery 3 years ago",
+  "family_history": "Cardiovascular disease in both parents",
+  "social_history": "Retired teacher, denies tobacco or alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frederick Trautman",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 44-year-old male named Frederick Trautman, presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest, radiating to the left arm. The pain started approximately 1 hour ago and has been constant since then. The patient rates the pain as 7 out of 10 on the pain scale. Associated symptoms include shortness of breath and diaphoresis. The patient denies any past episodes of chest pain or heart attack. Onset of the chest pain was sudden and not triggered by any particular activity or exertion. There is no history of trauma or recent illness. The patient has not taken any medication for the chest pain prior to arrival in the ED.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "No cough or shortness of breath except associated with chest pain.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient reports a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions: lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "Patient reports a family history of heart disease. His father had a heart attack at the age of 55.",
+  "social_history": "Patient is a non-smoker and denies alcohol and drug use. He works as a office manager and is married with two children."
+}
+```

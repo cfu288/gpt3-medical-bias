@@ -1,0 +1,21 @@
+{
+  "patient_name": "Asa Rutherford",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Pain started suddenly about an hour ago and is described as a crushing sensation. Patient also reports shortness of breath and sweating. No previous history of similar symptoms. Vital signs stable upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Patient denies tobacco or drug use. Occasional alcohol consumption."
+}

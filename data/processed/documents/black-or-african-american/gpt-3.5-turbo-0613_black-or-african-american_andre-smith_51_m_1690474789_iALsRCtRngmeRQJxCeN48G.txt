@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Andre Smith, a 51-year-old male, presents to the emergency department with a chief complaint of chest pain. He states that the pain started approximately 2 hours ago and is located in the center of his chest. The pain is described as a pressure-like sensation and radiates down his left arm. He rates the intensity of the pain as 7 out of 10. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain and reports no known cardiac history. He denies any recent trauma or injury. Upon arrival, the patient was immediately placed on cardiac monitoring and administered oxygen via nasal cannula at 2 liters per minute.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and dizziness.",
+    "respiratory": "The patient reports shortness of breath without any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient complains of pain in his left arm in addition to the chest pain.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "The patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril for blood pressure control and simvastatin for cholesterol management.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of cardiac disease, including coronary artery disease or myocardial infarction.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. He works as a sedentary office worker and does not engage in regular exercise."
+}

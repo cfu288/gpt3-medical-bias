@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anderson Clark",
+  "age": "26",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Anderson Clark, a 26-year-old male, presented to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago while he was at rest and has been persistent since then. He rates the pain as 8/10 in intensity and describes it as a crushing and squeezing sensation. The pain radiates to his left arm and jaw. He denies any shortness of breath or diaphoresis. Upon further questioning, he reports feeling lightheaded and nauseous. The patient has no known history of cardiac issues or major medical conditions. He denies any recent trauma or febrile illness. He also states that he has never experienced similar symptoms in the past. He has not taken any over-the-counter medications or home remedies to relieve the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies dysuria, frequency, or urgency",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash, itching, or lesions",
+    "neurologic": "Positive for lightheadedness"
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient denies taking any regular medications.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use."
+}

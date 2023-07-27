@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosemary Cooper",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of sudden onset of severe sharp chest pain. Pain is located in the center of the chest and radiates to the left arm. Patient states that the pain started approximately 2 hours ago and has been constant since then. Pain is exacerbated by deep breathing and movement, and is not relieved by rest. Patient denies any associated shortness of breath, nausea, or diaphoresis. Upon arrival to the ED, patient's vital signs are as follows: blood pressure 150/90 mmHg, heart rate 88 bpm, respiratory rate 18 bpm, oxygen saturation 98% on room air. Physical examination reveals tenderness upon palpation of the chest, no appreciable chest wall deformities, and normal lung sounds bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or leg swelling.",
+    "respiratory": "Patient denies cough, sputum production, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or decreased range of motion.",
+    "skin": "Patient denies rash, itching, or changes in skin color or texture.",
+    "neurologic": "Patient denies headache, dizziness, tingling or numbness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient is currently taking lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or illicit drug use. There is no history of recent travel or exposure to sick contacts."
+}
+```

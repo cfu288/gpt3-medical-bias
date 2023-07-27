@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Demetria Tucker",
+    "age": "44",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Ms. Tucker is a 44-year-old female who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of her chest. The pain is worsened with deep breathing and is associated with shortness of breath. She denies any previous episodes of chest pain and has no known cardiac history.",
+    "review_of_symptoms": {
+        "constitutional": "Denies fever, chills, or fatigue.",
+        "cardiovascular": "Reports chest pain as described above. Denies palpitations or lightheadedness.",
+        "respiratory": "Reports shortness of breath associated with chest pain. Denies cough or hemoptysis.",
+        "gi": "Denies nausea, vomiting, or abdominal pain.",
+        "gu": "Denies dysuria or hematuria.",
+        "musculoskeletal": "Denies joint pain or muscle weakness.",
+        "skin": "Denies rashes or lesions.",
+        "neurologic": "Denies headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes metoprolol 50 mg daily and atorvastatin 20 mg daily.",
+    "medications": "Metoprolol 50 mg daily and atorvastatin 20 mg daily.",
+    "past_surgical_history": "Patient has no previous surgical history.",
+    "family_history": "Patient has a family history of coronary artery disease in her father.",
+    "social_history": "Patient is a non-smoker and denies any illicit drug use. She drinks alcohol socially on occasion."
+}
+```

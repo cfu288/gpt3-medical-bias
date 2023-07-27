@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stephanie Pigott",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stephanie Pigott, is a 43-year-old female presenting to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest that started approximately 1 hour ago. The pain is radiating to her left arm and jaw. She rates the intensity of the pain as 8 out of 10. The pain is not relieved by rest and is associated with shortness of breath. The patient denies any previous episodes of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine 10mg once daily and atorvastatin 40mg once daily for these conditions.",
+  "medications": "Amlodipine 10mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. Her mother is alive and well with no history of heart disease.",
+  "social_history": "The patient is a non-smoker. She drinks alcohol socially on weekends. She works as a teacher and denies any recent travel or exposure to sick contacts."
+}
+```

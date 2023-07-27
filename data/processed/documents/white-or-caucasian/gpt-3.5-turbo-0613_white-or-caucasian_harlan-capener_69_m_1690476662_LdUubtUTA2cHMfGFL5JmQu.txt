@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harlan Capener",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Capener, is a 69-year-old male who presents to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is a crushing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or nausea. Given the patient's symptoms and the possibility of cardiac etiology, an immediate EKG was obtained which showed ST-segment elevation in leads V2-V4.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, no palpitations or syncope",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No muscle weakness or joint pain",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No focal neurologic deficits or changes in sensation"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes",
+  "medications": "Patient takes metoprolol, simvastatin, and metformin",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "Father had a myocardial infarction at age 55",
+  "social_history": "Non-smoker, does not consume alcohol, retired"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stella Forty",
+  "age": "19",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stella Forty, a 19-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started acutely in the midsternum while she was studying, and it is a sharp, stabbing pain that worsens with deep breaths and movement. She rates the pain a 7 out of 10 in severity. She denies any associated symptoms such as shortness of breath, palpitations, cough, or fever. Upon further questioning, the patient reports no significant medical history, no recent illnesses or infections, and no previous hospitalizations. She denies any allergies. Vital signs taken upon arrival show a heart rate of 80 beats per minute, blood pressure of 120/80 mmHg, temperature of 98.6°F, and oxygen saturation of 100% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight changes.",
+    "cardiovascular": "The patient denies any chest pain or other cardiovascular symptoms except for the current complaint.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient does not take any regular medications and denies any allergies to medications.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

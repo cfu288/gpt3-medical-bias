@@ -1,0 +1,27 @@
+{
+  "patient_name": "Linwood Blair",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Patient reports that the pain started suddenly approximately 2 hours ago. He rates the pain as 8 out of 10 and describes it as a crushing sensation. The pain is radiating to his left arm and jaw. He denies any shortness of breath, palpitations, or diaphoresis. Patient's wife reports that he has a history of hypertension and high cholesterol but has not experienced any chest pain in the past. On arrival to the emergency department, patient's vital signs are as follows: temperature 98.6°F, heart rate 80 bpm, blood pressure 140/90 mmHg, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain, no palpitations or syncope",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+
+  "past_medical_history": "Hypertension, high cholesterol",
+
+  "medications": "Amlodipine 10 mg once daily, atorvastatin 40 mg once daily",
+
+  "past_surgical_history": "None",
+
+  "family_history": "Father had a myocardial infarction at age 70",
+
+  "social_history": "Non-smoker, occasional alcohol use"
+}

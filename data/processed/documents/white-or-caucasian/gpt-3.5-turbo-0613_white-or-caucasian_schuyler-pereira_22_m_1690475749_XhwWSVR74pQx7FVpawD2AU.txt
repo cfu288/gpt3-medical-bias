@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Schuyler Pereira",
+  "age": "22",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Schuyler Pereira, a 22-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly about 2 hours ago while he was at home. He describes the pain as a sharp, stabbing sensation in the middle of his chest. The pain is exacerbated by deep breathing and movement. He denies any associated shortness of breath, cough, or fever. He also denies any previous history of similar episodes or any known cardiac conditions. On further questioning, he reports that the pain does not radiate to the arms, jaw, or back.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or changes in skin color.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac or pulmonary diseases.",
+  "social_history": "Patient is a non-smoker, does not use recreational drugs, and denies alcohol consumption."
+}
+```

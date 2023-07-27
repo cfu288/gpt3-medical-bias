@@ -1,0 +1,21 @@
+{
+  "patient_name": "Flavia James",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Flavia James, an 83-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain started suddenly about 2 hours ago and is located in the center of her chest. The pain is described as pressure-like and radiates to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated shortness of breath, nausea, vomiting, or diaphoresis. Upon further questioning, she mentions that the pain is worsened with exertion and relieved with rest. The patient has a past medical history significant for hypertension and hyperlipidemia. She is currently taking lisinopril for her blood pressure and atorvastatin for her cholesterol. She denies any recent surgeries or hospitalizations. She does not have any family history of heart disease. Her social history is significant for being a retired teacher and non-smoker.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above",
+    "respiratory": "Denies shortness of breath, cough, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Positive for pain in the left arm radiating from the chest",
+    "skin": "Denies rash, itching, or skin lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of heart disease",
+  "social_history": "Retired teacher, Non-smoker"
+}

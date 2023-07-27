@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Williams",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elbert Williams, a 46-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while he was at rest. He describes it as a dull, pressure-like sensation located in the central chest, radiating to the left arm. He denies any associated shortness of breath, diaphoresis, or nausea. The pain has not improved with rest and is not worsened with deep breathing or coughing. He has no significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No palpitations, orthopnea, or paroxysmal nocturnal dyspnea.",
+    "respiratory": "No cough, sputum production, or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease or other hereditary disorders.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He is currently employed as an office worker and denies any recent travel."
+}
+```

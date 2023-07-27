@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clinton Ester",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started suddenly while the patient was at rest and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient denies any associated shortness of breath, dizziness, or diaphoresis. No alleviating or aggravating factors reported. No prior history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "Chest pain as described above.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No muscle pain or joint stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No prior surgical procedures.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}
+```

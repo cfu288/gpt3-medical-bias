@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Caryl Abrams",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started approximately 1 hour ago and is located in the center of the chest. The pain is described as a squeezing sensation and radiates to the left arm. The patient reports shortness of breath and sweating. No previous episodes of chest pain reported. Patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing or difficulty breathing.",
+    "gi": "Patient denies nausea, vomiting or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or itching.",
+    "neurologic": "Patient denies headache, dizziness or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient denies any family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol or use recreational drugs."
+}

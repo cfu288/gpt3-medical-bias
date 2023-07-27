@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daron Nemec",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Nemec, is a 55-year-old male who presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any palpitations, diaphoresis, or nausea. He has no history of similar symptoms in the past. However, the patient does have a history of hypertension and is currently on medication for it. The patient denies any recent travel, trauma, or sick contacts. On arrival, the patient was in mild distress but was in stable condition. Vital signs at presentation were as follows: blood pressure 130/80 mmHg, heart rate 90 beats per minute, respiratory rate 16 breaths per minute, oxygen saturation 99% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations, syncope, or lower extremity swelling.",
+    "respiratory": "Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or changes in urine frequency or color.",
+    "musculoskeletal": "Negative for joint pain, swelling, or muscle weakness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is currently managed with medication. No history of heart disease, diabetes, or other chronic illnesses.",
+  "medications": "The patient is currently taking lisinopril 20 mg daily for hypertension.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "Positive for family history of coronary artery disease in the patient's father, who had a myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an accountant and reports minimal stress."
+}

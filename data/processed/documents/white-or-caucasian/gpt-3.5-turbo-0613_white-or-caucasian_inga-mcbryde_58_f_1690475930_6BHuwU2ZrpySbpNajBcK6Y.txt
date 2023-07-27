@@ -1,0 +1,21 @@
+{
+  "patient_name": "Inga Mcbryde",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Inga Mcbryde, a 58-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation that started approximately 1 hour ago. The pain is located in the center of her chest and radiates to her left arm. She rates the pain as 8 out of 10 in severity. She states that the pain is associated with shortness of breath and sweating. The pain is not relieved with rest or nitroglycerin. She denies any history of similar episodes in the past. Upon arrival, she was hooked up to a cardiac monitor and an electrocardiogram (ECG) was obtained, showing changes consistent with acute coronary syndrome. The patient was placed on supplemental oxygen, and aspirin and nitroglycerin were administered. An IV line was established, and labs including troponin and a complete blood count were sent. The patient was informed that she will need further evaluation and possible cardiac catheterization to assess for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports associated symptoms of shortness of breath and sweating.",
+    "cardiovascular": "Patient denies any prior heart problems, murmurs, or palpitations.",
+    "respiratory": "Patient reports associated shortness of breath.",
+    "gi": "Patient denies any gastrointestinal complaints.",
+    "gu": "Patient denies any genitourinary complaints.",
+    "musculoskeletal": "Patient denies any musculoskeletal complaints.",
+    "skin": "Patient denies any skin complaints.",
+    "neurologic": "Patient denies any neurological complaints."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father.",
+  "social_history": "Patient is a current smoker, with a 30 pack-year smoking history. She denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Reva Turns",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Reva Turns, is a 66-year-old female who presents to the emergency department with a chief complaint of chest pain. Onset of the pain was sudden and she describes it as a severe, crushing sensation in the center of her chest. The pain is radiating to her left arm and jaw. It is associated with shortness of breath and diaphoresis. The pain has been persistent for the past hour and has not improved or worsened. The patient denies any recent trauma or injury. She has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling generally unwell, fatigued, and has a decreased appetite.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, and lower extremity edema.",
+    "respiratory": "The patient denies cough, sputum production, dyspnea on exertion, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies dysuria or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any changes in sensation, movement, or consciousness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and diabetes in her mother.",
+  "social_history": "The patient is a retired secretary. She denies smoking or alcohol use."
+}
+```

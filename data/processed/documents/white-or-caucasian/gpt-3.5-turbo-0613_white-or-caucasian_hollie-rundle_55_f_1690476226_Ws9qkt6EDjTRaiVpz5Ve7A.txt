@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hollie Rundle",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Hollie Rundle, a 55-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull ache in the center of her chest. She rates the pain as a 7 out of 10 in intensity. The pain does not radiate and is not associated with shortness of breath, nausea, or diaphoresis. She states that the pain is constant and has not changed since it started. She denies any recent trauma or injury. She decided to come to the emergency department because the pain has not improved with rest or over-the-counter pain medication. She has a past medical history of hypertension and hyperlipidemia. She takes metoprolol and atorvastatin for these conditions. She has no history of cardiovascular disease or previous myocardial infarction. She denies any previous surgeries. Her family history is significant for hypertension and her father had a myocardial infarction in his 60s. She is a nonsmoker and drinks alcohol socially. She denies any illicit drug use or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, and unintentional weight loss.",
+    "cardiovascular": "The patient denies palpitations and syncope.",
+    "respiratory": "The patient denies shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father with history of myocardial infarction in his 60s. Hypertension in family.",
+  "social_history": "Nonsmoker. Social alcohol use. No illicit drug use or recent travel."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earle Rice",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Earle Rice, a 62-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to both arms and the jaw. The patient rates the pain as 8/10 on the pain scale. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient reports that he has a history of hypertension and has been taking medication for it. He denies any recent illness or trauma. Upon arrival, an EKG was obtained, which showed ST-segment elevation in leads II, III, and aVF. The patient was immediately taken to the cardiac catheterization lab for further evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary complaints.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "The patient is currently taking lisinopril for hypertension.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

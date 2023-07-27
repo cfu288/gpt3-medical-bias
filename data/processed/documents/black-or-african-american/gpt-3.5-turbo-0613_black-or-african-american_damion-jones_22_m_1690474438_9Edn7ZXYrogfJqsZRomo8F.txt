@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damion Jones",
+  "age": "22",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones is a 22-year-old male who presents to the emergency department complaining of chest pain. The pain started approximately 2 hours ago while he was at rest. He describes the pain as a sharp, stabbing sensation in the center of his chest. He rates the pain as a 7 on a scale of 0-10. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no history of similar episodes and no known cardiac history. Upon further questioning, he admits to using illicit drugs, specifically cocaine, earlier in the day.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or focal neurologic deficits"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No regular medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient admits to illicit drug use, specifically cocaine"
+}

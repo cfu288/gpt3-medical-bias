@@ -1,0 +1,21 @@
+{
+  "patient_name": "Louella Buckingham",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Louella Buckingham, is an 88-year-old female who presented to the emergency department with complaints of chest pain. The pain started abruptly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient reports associated shortness of breath and diaphoresis. She denies any previous similar episodes. Upon arrival, the patient had a blood pressure of 150/90 mmHg, heart rate of 100 bpm, respiratory rate of 18 bpm, and oxygen saturation of 96% on room air. An EKG was obtained and showed ST segment elevation in leads II, III, and aVF, consistent with an acute inferior wall myocardial infarction (MI). The patient was immediately started on aspirin and nitroglycerin. Cardiology consult was placed and the patient was taken to the catheterization lab for emergent intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as previously described.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily, atorvastatin 40 mg daily, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her mother who had a myocardial infarction in her 60s.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs. She lives independently and is retired."
+}

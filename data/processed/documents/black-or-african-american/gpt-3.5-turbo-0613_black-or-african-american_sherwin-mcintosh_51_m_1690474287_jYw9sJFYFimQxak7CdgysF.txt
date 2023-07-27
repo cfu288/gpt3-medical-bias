@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherwin Mcintosh",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started approximately 1 hour ago and is described as a crushing, squeezing sensation in the center of the chest. Patient also reports shortness of breath, nausea, and diaphoresis. Pain radiates to the left arm. Patient denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss or gain.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis. Negative for palpitations, edema, or orthopnea.",
+    "respiratory": "Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, pruritus, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Current medications include lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "None",
+  "family_history": "Family history is significant for coronary artery disease in both parents.",
+  "social_history": "Patient is a current smoker with a 30 pack-year history. Denies alcohol or illicit drug use."
+}

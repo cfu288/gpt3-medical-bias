@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kelvin Jackson",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jackson is a 73-year-old male presenting to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago while he was at home. He describes the pain as a 9/10 in intensity, substernal, sharp in nature, and radiating to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or illnesses. He reports taking nitroglycerin sublingually at home without relief. He tells me he has a history of hypertension and hyperlipidemia, but is unsure of the specific medications he takes. He denies any previous surgeries. He reports a family history significant for coronary artery disease in his father who had a myocardial infarction at age 60. In terms of his social history, he is a retired engineer, married, and a non-smoker. He denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies any cough or shortness of breath except when experiencing the chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any skin rashes, itching, or lesions.",
+    "neurologic": "The patient denies any dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is unsure of the specific medications he takes.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at age 60.",
+  "social_history": "The patient is a retired engineer, married, and a non-smoker. He denies any alcohol or illicit drug use."
+}

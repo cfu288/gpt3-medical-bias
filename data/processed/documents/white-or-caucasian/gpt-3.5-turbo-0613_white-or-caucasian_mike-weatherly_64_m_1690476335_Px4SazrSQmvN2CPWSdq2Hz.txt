@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mike Weatherly",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a squeezing sensation that started earlier this afternoon while he was at work. The pain radiates down his left arm and is associated with shortness of breath and diaphoresis. The pain is not relieved with rest. He denies any recent trauma or injury. Upon further questioning, he reports a past medical history of hypertension and hyperlipidemia. He has been compliant with his medications and has not had any recent changes in his medications. Patient states that he has never experienced similar chest pain before. On physical examination, the patient appears to be in mild distress. His vital signs are stable with a blood pressure of 140/90 mmHg, heart rate of 90 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air. Cardiovascular exam reveals regular rate and rhythm without any murmurs or rubs. Lung auscultation reveals clear breath sounds bilaterally. Neurological and musculoskeletal exams are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient reports chest pain as his only cardiovascular symptom.",
+    "respiratory": "Patient denies any cough, shortness of breath at rest, or wheezing.",
+    "gi": "Patient denies any abdominal pain, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "Patient denies any dizziness, headache, vision changes, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiovascular disease",
+  "social_history": "Patient is a retired construction worker. He has a 30 pack-year smoking history but quit smoking 5 years ago. He denies any alcohol or recreational drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosetta Daniels",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosetta Daniels, a 35-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started suddenly about 2 hours ago and is located in the center of her chest. She describes the pain as a sharp, squeezing sensation that radiates to her left arm. The pain is associated with shortness of breath, nausea, and diaphoresis. There is no alleviating or exacerbating factors reported. She denies any history of similar episodes in the past. She is currently experiencing the pain at rest and rates it as 8/10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Positive for shortness of breath associated with chest pain.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or numbness or weakness in extremities."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient takes ibuprofen as needed for headaches.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular disease.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. She is currently employed as a teacher."
+}
+```

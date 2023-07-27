@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maryellen Clark",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Maryellen Clark, an 82-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain is located in the center of her chest and began approximately 2 hours ago. The pain is described as a crushing sensation and radiates down her left arm. The patient also reports feeling shortness of breath and nausea. Upon arrival, the patient appeared pale and diaphoretic. Vital signs were taken and showed blood pressure of 150/90 mmHg, heart rate of 100 beats per minute, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations, racing heart, or any history of heart disease.",
+    "respiratory": "The patient reports shortness of breath, but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports no joint or muscle pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is on medications for these conditions and reports good adherence.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient reports no prior surgical procedures.",
+  "family_history": "The patient's family history is significant for myocardial infarction in her father and brother.",
+  "social_history": "The patient is a retired teacher and non-smoker. She does not use alcohol or recreational drugs."
+}
+```

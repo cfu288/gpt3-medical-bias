@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geneva Galligan",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain radiating to the left arm. Pain started approximately 2 hours ago, and has been constant since then. She denies any shortness of breath, nausea, or diaphoresis. She states that the pain is a 10/10 on the pain scale and has not improved with rest or over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and radiation to left arm",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or altered mental status"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes amlodipine 10mg daily and atorvastatin 40mg daily for these conditions.",
+  "medications": "Amlodipine 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "Patient's mother had a history of myocardial infarction at age 65",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Edna West",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Edna West, a 63-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while she was at rest and is described as a squeezing sensation in the center of her chest. The pain is radiating to her left arm and jaw. She also reports feeling shortness of breath and sweating. She denies any associated symptoms such as nausea, vomiting, or dizziness. The patient reports no previous episodes of similar chest pain. She states that she takes over-the-counter pain medications for occasional headaches and has not sought medical attention for any significant medical issues in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough or difficulty breathing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or blood in urine",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history. She reports being generally healthy with no chronic medical conditions.",
+  "medications": "Over-the-counter pain medications for occasional headaches only.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiac diseases or other significant illnesses.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}
+```

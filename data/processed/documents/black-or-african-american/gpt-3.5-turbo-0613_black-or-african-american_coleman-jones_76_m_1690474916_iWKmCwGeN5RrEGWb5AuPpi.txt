@@ -1,0 +1,21 @@
+{
+  "patient_name": "Coleman Jones",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Coleman Jones, a 76-year-old male, presents to the emergency department with complaints of chest pain. He reports that the pain started suddenly about 3 hours ago while he was at home. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. He rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest and is associated with shortness of breath, sweating, and nausea. Mr. Jones denies any recent trauma or injury. He has a history of hypertension and hyperlipidemia. He states that he takes medication for these conditions but cannot remember the names. He denies any previous surgeries. There is no family history of heart disease. Mr. Jones has a 40 pack-year smoking history and drinks alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue and feeling weak.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies skin rash or lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Unknown",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of heart disease",
+  "social_history": "40 pack-year smoking history, occasional alcohol intake"
+}

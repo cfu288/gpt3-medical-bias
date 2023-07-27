@@ -1,0 +1,21 @@
+{
+  "patient_name": "Issac Cadwalader",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Cadwalader is a 67-year-old male presenting to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 1 hour ago and is a moderate, squeezing sensation in the center of his chest. He denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain. He states that the pain is constant and hasn't resolved with rest or over-the-counter pain medication. He has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin on a daily basis. On physical examination, the patient appears uncomfortable but is in no acute distress. His vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, temperature of 98.6°F, and oxygen saturation of 98% on room air. Cardiac auscultation reveals normal S1 and S2 without any additional heart sounds or murmurs. A 12-lead electrocardiogram is performed and reveals sinus rhythm with no ST-segment elevation or other significant abnormalities.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Denies palpitations or orthopnea. No history of heart murmurs or heart attacks.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No changes in urinary frequency, urgency, or appearance.",
+    "musculoskeletal": "No joint pain, muscle weakness or swelling.",
+    "skin": "No rashes, lesions, or pruritus.",
+    "neurologic": "No headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin on a daily basis for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of cardiovascular disease or other major medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

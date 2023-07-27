@@ -1,0 +1,21 @@
+{
+  "patient_name": "Malcolm Motley",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Motley, is a 53-year-old male who presents to the emergency department with complaints of chest pain. The pain is described as a squeezing or pressure-like sensation that radiates to the left arm. It started approximately 2 hours ago, while the patient was resting at home. He rates the pain as 8 out of 10 in severity and states that it has not improved with rest. There is no history of trauma or recent strenuous activity. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has a past medical history of hypertension and hyperlipidemia, for which he takes medications. He denies any history of similar episodes in the past and denies any family history of heart disease. On further questioning, the patient admits to being a smoker for the past 25 years and drinks alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, frequency, urgency, or changes in urine color",
+    "musculoskeletal": "No joint pain or swelling, no muscle weakness or stiffness",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or vision changes"
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Patient takes Lisinopril 10 mg daily and Atorvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of heart disease",
+  "social_history": "Patient is a smoker for the past 25 years and drinks alcohol occasionally"
+}

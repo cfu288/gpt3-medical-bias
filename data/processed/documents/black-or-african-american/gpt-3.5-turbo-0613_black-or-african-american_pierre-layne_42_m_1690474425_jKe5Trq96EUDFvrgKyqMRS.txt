@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pierre Layne",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain radiating to the left arm. Pain started approximately 2 hours ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath or diaphoresis. Pain is not relieved with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies cough, dyspnea, or hemoptysis",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin daily.",
+  "medications": "Lisinopril 40mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient is a smoker, smoking approximately 1 pack per day for the past 20 years"
+}

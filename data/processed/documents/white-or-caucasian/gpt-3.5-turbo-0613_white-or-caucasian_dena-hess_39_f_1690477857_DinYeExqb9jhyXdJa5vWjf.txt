@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dena Hess",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient reported sudden onset of severe chest pain radiating to the left arm. Describes pain as crushing and tight. Pain is exacerbated with exertion and relieved with rest. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. No known triggers for chest pain. No prior episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies palpitations, lightheadedness, or syncope.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or changes in moles.",
+    "neurologic": "No headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a history of hyperlipidemia and gastroesophageal reflux disease.",
+  "medications": "Patient takes atorvastatin 20 mg daily and omeprazole 40 mg daily.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "No family history of cardiac disease.",
+  "social_history": "Patient denies smoking or alcohol use. No illicit drug use."
+}
+```

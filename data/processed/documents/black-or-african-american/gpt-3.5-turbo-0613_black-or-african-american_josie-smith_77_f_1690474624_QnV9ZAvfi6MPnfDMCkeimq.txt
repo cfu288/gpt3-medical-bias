@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josie Smith",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Josie Smith, a 77-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started 2 hours ago and is described as a pressure-like sensation in the center of the chest. She rates the pain as 8 out of 10 in intensity. The pain radiates to the left arm and jaw. She denies any shortness of breath, nausea, or dizziness. The patient has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient has a history of hypertension and hyperlipidemia. She denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and simvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

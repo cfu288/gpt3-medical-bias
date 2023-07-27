@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leopoldo Green",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The patient rates the pain as a 9 out of 10 in severity. The pain is not relieved with rest or changes in position. The patient also reports shortness of breath and sweating. No prior episodes of similar chest pain have occurred.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Family history is significant for coronary artery disease in both parents",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use"
+}

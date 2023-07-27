@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Horace Rush",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Horace Rush, a 70-year-old male, presented to the emergency department with a chief complaint of chest pain. The patient stated that he began experiencing the pain approximately 2 hours ago. The pain is described as a tightness and pressure in the center of the chest, radiating to the left arm. The pain has not subsided and is not relieved by rest. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. On further questioning, the patient admitted to a history of hypertension and hyperlipidemia, which are both well-controlled with medications. No history of previous cardiac events or surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports occasional palpitations but denies any orthopnea or paroxysmal nocturnal dyspnea.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or discomfort.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or wounds were reported by the patient.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker. He does not consume alcohol or use illicit drugs. He is retired and lives alone."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shayla Moore",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Shayla Moore, is a 34-year-old female presenting to the emergency department with complaints of chest pain. She reports that the pain started suddenly approximately 3 hours ago and is located in the center of her chest. She describes it as a sharp, stabbing pain that worsens with deep breaths and movement. The pain is associated with shortness of breath and she reports feeling lightheaded. She denies any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "She denies any palpitations or irregular heartbeats.",
+    "respiratory": "She reports shortness of breath with no cough or sputum production.",
+    "gi": "She denies any nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle aches reported.",
+    "skin": "No rashes or skin abnormalities reported.",
+    "neurologic": "No headache or neurological deficits reported."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "There is no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

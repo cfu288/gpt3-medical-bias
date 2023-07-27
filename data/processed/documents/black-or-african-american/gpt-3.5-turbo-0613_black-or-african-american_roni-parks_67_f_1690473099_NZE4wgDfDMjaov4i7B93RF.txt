@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roni Parks",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Roni Parks, is a 67-year-old female presenting to the emergency department with chief complaint of chest pain. The pain began approximately 3 hours ago while the patient was at rest and is described as a crushing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient also reports nausea and sweating. Upon arrival, the patient was diaphoretic and appeared distressed. EKG was performed, which showed ST-segment elevation in leads II, III, and aVF, consistent with acute inferior ST-elevation myocardial infarction (STEMI). The patient was immediately started on aspirin, nitroglycerin, and oxygen therapy. She was also given morphine for pain relief. Cardiology consult was obtained and the patient was taken urgently to the cardiac catheterization laboratory for percutaneous coronary intervention (PCI).",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and nausea.",
+    "respiratory": "Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is taking lisinopril 20mg daily and atorvastatin 40mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father and one sibling.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She lives alone and has limited social support."
+}

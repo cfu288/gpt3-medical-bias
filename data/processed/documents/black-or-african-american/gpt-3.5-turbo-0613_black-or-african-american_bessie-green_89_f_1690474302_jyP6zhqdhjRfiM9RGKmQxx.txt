@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bessie Green",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bessie Green, an 89-year-old female, presents to the emergency department with a chief complaint of chest pain. According to the patient, she woke up this morning with a sharp, squeezing pain in her chest. The pain is radiating to her left arm and jaw, and she also reports feeling nauseous. The patient denies any shortness of breath or diaphoresis. She states that the pain is exacerbated with exertion and relieved with rest. The patient has a history of hypertension and dyslipidemia and is on medications for both conditions. She denies any recent illnesses or trauma. On further questioning, the patient states that she has never experienced this type of chest pain before and is concerned about a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain, which is radiating to her left arm and jaw. Denies palpitations or orthopnea.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient presents with chest pain, which is aggravated with exertion. She denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, pruritus, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient's mother had a history of hypertension and her father had a history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

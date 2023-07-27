@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bill Mulvey",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started about 2 hours ago. The pain is described as squeezing and radiating to the left arm. The patient reports associated symptoms of shortness of breath and diaphoresis. He denies any palpitations or lightheadedness. The pain has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No history of heart attack or heart disease.",
+    "respiratory": "No history of cough, wheezing, or shortness of breath.",
+    "gi": "No history of abdominal pain, nausea, or vomiting.",
+    "gu": "No complaints of dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient reports pain in the left arm in addition to chest pain.",
+    "skin": "No rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies any headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history of heart disease or other relevant conditions.",
+  "social_history": "Patient is retired and denies any tobacco or alcohol use."
+}
+```

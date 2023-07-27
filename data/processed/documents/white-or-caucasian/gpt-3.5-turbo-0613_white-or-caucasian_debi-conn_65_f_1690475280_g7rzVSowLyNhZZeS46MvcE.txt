@@ -1,0 +1,21 @@
+{
+  "patient_name": "Debi Conn",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Debi Conn, a 65-year-old female, presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a substernal pressure sensation radiating to the left arm. The patient reports associated shortness of breath. She denies any diaphoresis, nausea, or vomiting. The pain is not alleviated with rest. She has a past medical history of hypertension and hyperlipidemia and takes medication for both conditions. She has no known drug allergies. There is no history of recent trauma or illicit drug use. On physical examination, the patient appears anxious and diaphoretic. Her vital signs are stable with a heart rate of 80 beats per minute, blood pressure of 140/90 mmHg, respiratory rate of 16 breaths per minute, temperature of 98.6°F, and oxygen saturation of 98% on room air. Cardiac auscultation reveals regular rate and rhythm with normal S1 and S2 heart sounds. Pulmonary auscultation reveals clear breath sounds bilaterally. There are no murmurs, rubs, or gallops appreciated. Neurologic examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for substernal chest pain radiating to the left arm. Negative for palpitations or syncope.",
+    "respiratory": "Positive for shortness of breath. Negative for cough or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medication for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

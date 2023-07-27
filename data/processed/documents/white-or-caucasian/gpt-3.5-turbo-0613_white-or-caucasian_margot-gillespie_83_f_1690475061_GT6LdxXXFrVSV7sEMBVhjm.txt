@@ -1,0 +1,21 @@
+{
+  "patient_name": "Margot Gillespie",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Margot Gillespie, an 83-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient states that the chest pain began approximately 1 hour ago and is located in the center of her chest. She describes the pain as a squeezing sensation that radiates to her left arm. She rates the intensity of the pain as 8/10. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She notes that the pain is not relieved with rest and has not changed in intensity since onset. The patient has a history of hypertension and takes medication for this condition. She denies any recent illnesses, injuries, or changes in medication. She has not had any surgeries in the past. The patient reports a family history of heart disease, with both her parents having suffered heart attacks. She is a non-smoker and does not consume alcohol or use illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports no palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgeries.",
+  "family_history": "The patient reports a family history of heart disease, with both parents having suffered heart attacks.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs."
+}

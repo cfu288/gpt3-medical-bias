@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Willa Smith",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of chest pain. The patient described the pain as a sharp, stabbing sensation in the center of her chest. She stated that the pain began approximately 1 hour ago and has been constant since then. She denies any shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain or nausea/vomiting",
+    "gu": "Positive for urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or itching",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "No significant family history of heart disease or other medical conditions.",
+  "social_history": "Patient is retired and lives alone. She denies smoking, alcohol, or illicit drug use."
+}
+```

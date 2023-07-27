@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cedric Brown",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Brown presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. He rates the intensity of the pain as 7 out of 10 and notes that it is associated with shortness of breath. He denies any other accompanying symptoms such as sweating, nausea, or lightheadedness. He has a medical history significant for hypertension and hyperlipidemia. He denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described in the history of present illness.",
+    "respiratory": "Positive for shortness of breath associated with chest pain.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Brown has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Mr. Brown takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiac diseases.",
+  "social_history": "Mr. Brown is a non-smoker and does not consume alcohol. He is currently employed in an office job. He denies any illicit drug use."
+}

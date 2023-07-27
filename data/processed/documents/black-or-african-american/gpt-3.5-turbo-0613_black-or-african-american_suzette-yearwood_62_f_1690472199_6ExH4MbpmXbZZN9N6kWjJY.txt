@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzette Yearwood",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain began approximately 3 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient denies any associated shortness of breath, diaphoresis, or palpitations. Patient reports taking an aspirin at home. No known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, controlled with lisinopril. Hyperlipidemia, controlled with statin therapy.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005.",
+  "family_history": "Mother had hypertension and died of myocardial infarction at age 70. Father is living with hypertension.",
+  "social_history": "Non-smoker. Occasional alcohol use. Retired school teacher."
+}

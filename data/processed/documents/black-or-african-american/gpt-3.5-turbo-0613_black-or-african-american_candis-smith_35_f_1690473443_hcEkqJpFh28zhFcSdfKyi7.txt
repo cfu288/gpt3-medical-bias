@@ -1,0 +1,21 @@
+{
+  "patient_name": "Candis Smith",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Candis Smith, a 35-year-old female, presented to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest. The pain started suddenly approximately 1 hour ago while she was at rest. She rates the severity of the pain as 8/10 and notes that it radiates to her left arm. She denies any associated shortness of breath, diaphoresis, or palpitations. She states that she has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "Positive for family history of heart disease in both parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ned Johnson",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ned Johnson, an 87-year-old male, presents to the emergency department with chief complaint of chest pain. The pain began approximately 2 hours ago while he was at home and is described as a sharp, pressure-like sensation in the center of his chest. The pain is at a moderate intensity and radiates to his left arm. He states that the pain is constant and has not improved with rest or positional changes. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a history of hypertension and takes medication for it. He denies any recent illnesses or injuries. In light of his age and presenting symptoms, a timely evaluation for potential cardiac etiology is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain as described above. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "No headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking medication for it. He also has a history of hyperlipidemia, for which he takes medication. No history of diabetes, heart disease, or previous cardiac events.",
+  "medications": "The patient is currently taking Lisinopril 10mg daily and Atorvastatin 20mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia in his parents.",
+  "social_history": "The patient is a retired accountant. He is a non-smoker and denies any alcohol or illicit drug use. He lives alone and is independent in his activities of daily living."
+}

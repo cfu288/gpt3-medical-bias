@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harlan Vaughn",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a tightness in the chest. It is radiating to the left arm and is associated with sweating. The patient denies any shortness of breath or dizziness. He has no history of angina or myocardial infarction. He has previously visited the emergency department for similar symptoms, which were determined to be non-cardiac in nature. Patient reports no recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain, which prompted the visit to the emergency department.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "No symptoms of nausea, vomiting, abdominal pain, or changes in bowel habits reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint or muscle pain reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No symptoms of headache, dizziness, or changes in sensation or movement reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril. He is otherwise healthy and denies any chronic illnesses.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "The patient has a family history of hypertension in his parents.",
+  "social_history": "The patient denies tobacco, alcohol, or recreational drug use. He is married with two children and works as a software engineer."
+}

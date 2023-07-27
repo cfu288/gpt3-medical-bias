@@ -1,0 +1,21 @@
+{
+  "patient_name": "Inez Williams",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Inez Williams, a 79-year-old female, presents to the emergency department with chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of the chest. She describes the pain as a squeezing sensation and rates it 8 out of 10 in severity. The pain is radiating to her left arm and jaw. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and diabetes mellitus type 2.",
+  "medications": "The patient takes lisinopril 10mg daily, atorvastatin 20mg daily, and metformin 1000mg twice daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a retired teacher and lives alone. She denies tobacco use, alcohol consumption, or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donovan Bills",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived at the emergency department complaining of severe chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain radiating to the left shoulder and arm. No known history of heart disease.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint or muscle pain.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any loss of sensation, motor weakness or changes in the level of consciousness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2010.",
+  "family_history": "Patient reports no significant family history of heart disease or other relevant conditions.",
+  "social_history": "Patient is a former smoker, quitting 10 years ago. Patient denies alcohol or recreational drug use."
+}

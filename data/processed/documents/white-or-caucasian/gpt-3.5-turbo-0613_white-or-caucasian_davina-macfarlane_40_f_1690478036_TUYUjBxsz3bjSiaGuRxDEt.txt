@@ -1,0 +1,21 @@
+{
+  "patient_name": "Davina Macfarlane",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Davina Macfarlane, a 40-year-old female, presents to the emergency department with chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest that started approximately 2 hours ago while she was at rest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, dizziness, or palpitations. Upon further questioning, the patient admits to a history of smoking for the past 15 years and reports occasional episodes of heartburn.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Occasional heartburn.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin for management of these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a smoker, currently smoking 10 cigarettes per day for the past 15 years. She drinks alcohol socially on weekends."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Teressa Ridley",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Teressa Ridley, a 69-year-old female, presented to the emergency department with the chief complaint of chest pain. The pain started this morning while the patient was at rest and has been constant since then. The patient describes the pain as a pressure-like sensation in the center of her chest, radiating to her left arm. She denies any shortness of breath, dizziness, or nausea. On physical examination, the patient appears comfortable but in mild distress. Her vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Cardiac auscultation reveals regular rate and rhythm with no murmurs, rubs, or gallops. There is no jugular venous distention. Lungs are clear to auscultation bilaterally. EKG was obtained upon arrival and showed sinus rhythm with no ST segment elevations or depressions. Based on the patient's presentation, a working diagnosis of possible cardiac origin chest pain is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain with exertion, relieved by rest",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. She is compliant with her prescribed medications.",
+  "medications": "The patient takes lisinopril 10 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg twice daily for her chronic medical conditions.",
+  "past_surgical_history": "The patient underwent a cholecystectomy in 2015. No other surgical procedures.",
+  "family_history": "The patient's mother had a history of coronary artery disease and died from a myocardial infarction at the age of 72. No other significant family history.",
+  "social_history": "The patient is a retired school teacher. She is a non-smoker and does not consume alcohol. She lives independently and denies any illicit drug use."
+}
+```

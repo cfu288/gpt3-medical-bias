@@ -66,10 +66,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-To generate documents using OpenAI:
+To generate a cohort and medical note documents using OpenAI:
 
 ```bash
-python3 main.py
+python3 cohort_generator.py
+python3 propensity_score_matching.py
+python3 document_generator.py
 ```
 
 To open jupyterlab:

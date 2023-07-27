@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geneva Adsit",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Geneva Adsit, a 65-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the chest pain started suddenly about 1 hour ago. The pain is described as a crushing pressure in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in intensity. The pain is not relieved by rest or nitroglycerin. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has a history of hypertension and hyperlipidemia. She takes Lisinopril and Simvastatin for these conditions. She had a cholecystectomy 10 years ago. She denies any family history of heart disease. She is a lifelong non-smoker and drinks 1-2 glasses of wine per week.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, and weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations or syncope.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, drinks 1-2 glasses of wine per week"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzanne Donovan",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Suzanne Donovan presents to the emergency department with complaints of sudden onset chest pain. She states that the pain started about 1 hour ago and is described as a sharp, squeezing sensation. The pain is radiating to her left arm and jaw. She denies any associated shortness of breath or palpitations. Patient has a history of hypertension and hyperlipidemia. She recently started a new medication for her blood pressure, but is unsure of the name. Patient is a non-smoker and denies any illicit drug use. On physical examination, patient appears uncomfortable and diaphoretic. Vital signs are as follows: blood pressure 150/90 mmHg, heart rate 100 bpm, respiratory rate 20 bpm, oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above. No palpitations or syncope.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Unknown",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Non-smoker, denies illicit drug use."
+}

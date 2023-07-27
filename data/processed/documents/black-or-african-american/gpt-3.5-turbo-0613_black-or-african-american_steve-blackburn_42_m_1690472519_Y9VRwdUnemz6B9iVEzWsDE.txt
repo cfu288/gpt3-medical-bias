@@ -1,0 +1,21 @@
+{
+  "patient_name": "Steve Blackburn",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient Steve Blackburn, a 42-year-old male, presented to the emergency department with complaints of chest pain. He reports that the pain began approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates his pain as 8/10. He denies any shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient reveals that he has a history of hypertension and high cholesterol. He takes medications for these conditions as prescribed by his primary care physician.",
+  "review_of_symptoms": {
+    "constitutional": "Reports feeling generally well overall.",
+    "cardiovascular": "Reports chest pain as described in the chief complaint.",
+    "respiratory": "Denies any shortness of breath.",
+    "gi": "Denies any abdominal pain or changes in bowel movements.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Reports pain radiating to left arm and jaw.",
+    "skin": "No skin changes reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Takes prescribed medications for hypertension and high cholesterol.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Family history of hypertension and high cholesterol.",
+  "social_history": "Works as a desk job, denies tobacco or illicit drug use, consumes alcohol occasionally."
+}

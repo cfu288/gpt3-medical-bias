@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mack Coleman",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Coleman, is an 89-year-old male who presented to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain started suddenly approximately 2 hours ago while he was at home. The pain is described as a crushing sensation in the center of the chest that radiates to the left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient does report a history of hypertension and hyperlipidemia. He takes amlodipine for blood pressure control and atorvastatin for cholesterol management. The patient has no prior surgical history and denies any known family history of heart disease. In the social history, the patient is retired and lives alone. He denies tobacco, alcohol, and illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports the chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine, Atorvastatin",
+  "past_surgical_history": "No prior surgical history",
+  "family_history": "No known family history of heart disease",
+  "social_history": "Retired, lives alone. Denies tobacco, alcohol, and illicit drug use."
+}

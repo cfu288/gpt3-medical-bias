@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carleton Jones",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Carleton Jones, an 82-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is localized to the center of the chest. He describes the pain as a squeezing sensation, radiating to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any exertional component to the pain and states that it occurred at rest. He has no history of similar symptoms in the past. Given the severity of the symptoms and concerns for a possible cardiac event, an immediate EKG was performed which showed ST-segment elevation in leads II, III, and aVF. Based on these findings, the patient was diagnosed with an acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "Besides the chest pain, the patient has no other cardiovascular symptoms such as palpitations or dizziness.",
+    "respiratory": "The patient reports mild shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms such as joint pain or muscle weakness.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any neurologic symptoms such as headache or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hypercholesterolemia.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hypercholesterolemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

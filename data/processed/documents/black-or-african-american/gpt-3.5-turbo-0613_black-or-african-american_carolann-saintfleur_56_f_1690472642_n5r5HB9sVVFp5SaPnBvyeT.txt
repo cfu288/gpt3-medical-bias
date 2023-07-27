@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Carolann Saintfleur"
+    },
+    "age": {
+      "type": "string",
+      "value": "56"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Chest Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient presents to the emergency department with a chief complaint of chest pain. The chest pain began approximately 1 hour ago. The pain is described as a sharp, severe, substernal chest pain radiating to the left arm. The patient states she has never experienced this type of pain before and it is not relieved with rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Denies fever, chills, or weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Positive for chest pain as described in the history of present illness section."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No history of cough, shortness of breath, or wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No urinary frequency, urgency, or dysuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Positive for substernal chest pain radiating to the left arm as described in the history of present illness section."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No skin lesions or rashes."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No history of headache, dizziness, or changes in vision or speech."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and hyperlipidemia."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes amlodipine 5mg daily and simvastatin 20mg daily."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient has a family history of coronary artery disease in both parents."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a current smoker with a 30 pack-year history. She does not consume alcohol or use illicit drugs."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

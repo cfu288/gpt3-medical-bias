@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcus Hunter",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marcus Hunter, a 35-year-old male, presented to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is a sharp, stabbing pain that worsens with deep breaths and movement. He denies any associated symptoms, such as shortness of breath, palpitations, or diaphoresis. Upon further questioning, he also denies any recent trauma, fever, cough, or difficulty swallowing. He states that he has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Negative for palpitations, racing heart, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for chest pain, negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for syncope, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, for which he takes medications.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no history of any previous surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as a software engineer and is married with two children."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leo Schweitzer",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Schweitzer, a 75-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is a squeezing sensation in his chest. The pain is radiating to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no history of similar episodes in the past. The patient has a history of hypertension and takes medications for it. He denies any recent changes in his medications or lifestyle. His past surgical history is non-contributory. There is no family history of cardiovascular disease. The patient is a nonsmoker and drinks alcohol occasionally. He lives alone and is independent with his activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Chest pain radiating to left arm and jaw",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or wounds",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension",
+  "past_surgical_history": "Non-contributory",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "The patient is a nonsmoker, drinks alcohol occasionally, and lives alone."
+}

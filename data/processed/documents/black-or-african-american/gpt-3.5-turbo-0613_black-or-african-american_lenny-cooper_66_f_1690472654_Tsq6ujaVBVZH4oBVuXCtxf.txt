@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lenny Cooper",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lenny Cooper, a 66-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of her chest. The pain is described as a sharp, stabbing sensation that radiates to her left arm. The patient rates the pain as a 7/10 in severity and states that it is constant. She denies any associated symptoms such as shortness of breath or diaphoresis. The pain is exacerbated by deep inspiration and relieved by rest. The patient has no history of cardiac disease or risk factors. She reports a past medical history of hypertension and takes medications for this condition. The patient denies any recent illnesses or injuries. She has no known allergies. On further questioning, the patient reports a family history of heart disease, with her mother having a myocardial infarction in her 50s. The patient has never had any surgeries. Socially, the patient is retired and does not smoke or drink alcohol. She lives alone and has no pets.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as her only cardiovascular symptom.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or change in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for her hypertension, but does not know the name or dosage.",
+  "past_surgical_history": "The patient has never had any surgeries.",
+  "family_history": "The patient reports a family history of heart disease, with her mother having a myocardial infarction in her 50s.",
+  "social_history": "The patient is retired and does not smoke or drink alcohol. She lives alone and has no pets."
+}

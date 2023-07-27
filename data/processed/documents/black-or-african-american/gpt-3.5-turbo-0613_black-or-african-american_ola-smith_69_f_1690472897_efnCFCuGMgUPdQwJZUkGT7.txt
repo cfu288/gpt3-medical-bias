@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Smith",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived in the emergency department presenting with acute onset of severe chest pain that radiates to the left arm. Pain has been ongoing for the past 2 hours. The patient denies any shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Severe pain in the left arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness or loss of consciousness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 40 mg daily, Ibuprofen 400 mg as needed",
+  "past_surgical_history": "Cholecystectomy in 2012",
+  "family_history": "Father had a myocardial infarction at the age of 70",
+  "social_history": "Retired, non-smoker, no alcohol or recreational drug use"
+}

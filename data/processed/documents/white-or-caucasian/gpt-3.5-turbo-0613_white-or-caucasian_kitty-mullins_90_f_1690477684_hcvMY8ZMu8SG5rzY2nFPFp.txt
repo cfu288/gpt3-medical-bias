@@ -1,0 +1,28 @@
+{
+  "patient_name": "Kitty Mullins",
+  "age": "90",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kitty Mullins, is a 90-year-old female who presents to the emergency department with a chief complaint of chest pain. She states that she began experiencing a sudden sharp pain in her chest approximately two hours ago. She describes the pain as a tightness or pressure-like sensation that radiates to her left arm. The pain is constant and has not changed in intensity since it started. She denies any associated symptoms such as shortness of breath, nausea, or sweating.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient reports left arm pain along with the chest pain.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen for osteoarthritis.",
+  
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  
+  "family_history": "The patient's family history is significant for coronary artery disease in her father who had a heart attack at the age of 65.",
+  
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

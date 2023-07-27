@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frankie Winston",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of acute onset chest pain. Pain described as a crushing sensation in the center of the chest, radiating to the left arm. Patient reports associated shortness of breath and diaphoresis. Pain began approximately 1 hour ago and has persisted since. No relief with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Negative for cough, hemoptysis, or dyspnea on exertion.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Negative for muscle or joint pain.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Negative for family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker, denies alcohol or illicit drug use."
+}
+```

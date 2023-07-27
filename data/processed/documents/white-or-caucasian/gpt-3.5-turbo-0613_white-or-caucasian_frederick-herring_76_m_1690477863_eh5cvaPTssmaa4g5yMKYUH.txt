@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frederick Herring",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Herring, presented to the emergency department with a chief complaint of chest pain. The pain is described as a pressure-like sensation in the center of his chest. The pain started approximately 2 hours ago and has been constant since then. The patient rates the severity of the pain as 8 out of 10. He denies any radiation of the pain and states that it does not get worse with physical activity. There are no alleviating factors. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions. He has no known allergies or surgical history. He denies any family history of heart disease. Socially, the patient is retired and lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or weight loss.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in speech or vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Retired, lives alone"
+}

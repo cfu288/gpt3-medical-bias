@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gertrude Wicker",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Patient states that the pain started suddenly about 2 hours ago and feels like a squeezing or pressure sensation in the middle of her chest. The pain radiates to her left arm and jaw. Patient also reports shortness of breath and sweating. Pain is not relieved with rest and is rated 9 out of 10 in intensity. Upon arrival, patient appeared pale and diaphoretic.",
+  "review_of_symptoms" : {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss",
+    "cardiovascular": "Patient reports chest pain and shortness of breath",
+    "respiratory": "Patient denies cough or difficulty breathing",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness",
+    "skin": "Patient denies rashes, itching, or changes in skin color",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril 10mg daily and simvastatin 20mg daily",
+  "past_surgical_history": "Patient had an appendectomy in 1995",
+  "family_history": "Patient denies any significant family history of cardiovascular disease or cancer",
+  "social_history": "Patient is a former smoker with a 20 pack-year history. She quit smoking 10 years ago. Patient denies alcohol or illicit drug use."
+}

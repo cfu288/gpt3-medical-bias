@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Mathews",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Charlie Mathews, a 68-year-old male, presents to the emergency department with complaints of chest pain. The pain started suddenly about an hour ago and is described as a squeezing sensation in the center of the chest. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 and states that it is not relieved by rest or nitroglycerin. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no significant medical history of heart disease or cardiac risk factors such as smoking, diabetes, or high cholesterol. On physical examination, the patient appears uncomfortable and diaphoretic. His vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril daily.",
+  "medications": "Lisinopril 20 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 75.",
+  "social_history": "The patient is a retired mechanic. He denies tobacco use but admits to occasional alcohol consumption."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadette Nelson",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bernadette Nelson, a 50-year-old female, presents to the emergency department with the chief complaint of chest pain. The pain started approximately 3 hours ago and is described as a sharp, stabbing sensation in the center of the chest. It radiates to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or exertion that could explain the symptoms. She has no history of similar episodes in the past. Upon arrival, the patient was tachycardic with a heart rate of 110 bpm and her blood pressure was 150/90 mmHg. She appears anxious and is in mild distress.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain radiating to left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which she takes medications. She also has a family history of coronary artery disease.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "Positive for coronary artery disease in family members.",
+  "social_history": "The patient is a non-smoker and denies any history of illicit drug use. She consumes alcohol occasionally but in moderation."
+}

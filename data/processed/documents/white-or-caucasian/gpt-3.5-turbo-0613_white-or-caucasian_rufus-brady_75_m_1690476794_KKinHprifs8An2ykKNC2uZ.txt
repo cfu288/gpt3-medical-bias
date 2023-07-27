@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rufus Brady",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Brady is a 75-year-old male who presents to the emergency department with a chief complaint of chest pain. Chest pain started suddenly approximately 1 hour prior to arrival. He describes the pain as a severe, squeezing sensation that radiates to his left arm. He denies any associated shortness of breath, nausea, or diaphoresis. He has a history of hypertension and hyperlipidemia but is currently not taking any medications. On physical examination, his blood pressure is 160/90 mmHg, heart rate 90 beats per minute, respiratory rate 16 breaths per minute, oxygen saturation 98% on room air. His lungs are clear to auscultation bilaterally and heart sounds are regular without murmurs, rubs, or gallops. There are no signs of distress.",
+  "review_of_symptoms": {
+    "constitutional": "He denies any fever, chills, or weight loss.",
+    "cardiovascular": "He reports a history of hypertension but denies any chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "He denies any shortness of breath, cough, or sputum production.",
+    "gi": "He denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "He denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "He denies any joint pain or swelling.",
+    "skin": "He denies any rashes or skin changes.",
+    "neurologic": "He denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient does not have any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

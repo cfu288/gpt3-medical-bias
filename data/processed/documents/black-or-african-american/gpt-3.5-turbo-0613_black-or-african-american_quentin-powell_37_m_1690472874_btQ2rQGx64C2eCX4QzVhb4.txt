@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quentin Powell",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Quentin Powell, a 37-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest that started approximately 1 hour ago. The patient rates the pain as 7/10 in intensity and states that it radiates to the left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient reports no recent injuries or illnesses. Onset of symptoms was sudden and not related to any specific activity. The pain is not relieved with rest or nitroglycerin. The patient has no known history of cardiac disease or risk factors for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described in the history of present illness. No palpitations or syncope.",
+    "respiratory": "The patient denies shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or visual changes."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril - 10mg once daily\nAtorvastatin - 20mg once daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension in his father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. He works as a software engineer and is currently divorced."
+}

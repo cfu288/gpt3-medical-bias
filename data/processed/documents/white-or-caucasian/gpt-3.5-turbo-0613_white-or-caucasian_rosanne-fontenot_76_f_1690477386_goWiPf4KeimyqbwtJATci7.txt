@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosanne Fontenot",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe chest pain that started approximately 3 hours ago. She describes the pain as a sharp, squeezing sensation in the center of her chest that radiates to her left arm. She also reports shortness of breath and diaphoresis. She denies any associated symptoms such as nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described previously. No palpitations or edema noted.",
+    "respiratory": "Patient reports shortness of breath but denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or skin lesions noted.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine, Atorvastatin",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is a retired teacher. She lives alone and does not smoke or consume alcohol. She denies any illicit drug use."
+}

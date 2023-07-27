@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ulysses Curry",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Ulysses Curry, is a 23-year-old male presenting to the emergency department with complaints of chest pain. The chest pain started approximately 2 hours ago while the patient was at rest. The pain is described as substernal, sharp in nature, and radiates to the left arm. The patient rates the intensity of the pain as 7 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. There is no history of trauma or recent illness. On further questioning, the patient reports occasional palpitations and a family history of heart disease",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "In addition to the chest pain, the patient complains of intermittent palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in his father.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is currently employed as an office worker and denies any exposure to chemicals or toxins."
+}
+```

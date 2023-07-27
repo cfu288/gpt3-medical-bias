@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hazel Adeosun",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Hazel Adeosun, a 75-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in severity and states that it radiates to her left arm. She denies any associated shortness of breath, nausea, or diaphoresis. The patient has a past medical history significant for hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. There is no known history of heart disease in the family. The patient has never had any previous surgeries and denies any significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or bowel changes",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No known history of heart disease in the family",
+  "social_history": "No significant history"
+}

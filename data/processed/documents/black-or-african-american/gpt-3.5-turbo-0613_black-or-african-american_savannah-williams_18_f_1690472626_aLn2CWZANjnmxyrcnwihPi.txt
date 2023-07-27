@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Savannah Williams",
+  "age": "18",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Savannah Williams, an 18-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started about 2 hours ago while she was at home and has been constant since then. The pain is described as a sharp and stabbing sensation in the middle of her chest. She rates the intensity of the pain as 7 out of 10. The pain is worse with deep breaths and movement. She denies any associated symptoms such as shortness of breath, sweating, or nausea. She states that she has never experienced this type of pain before and it is concerning to her.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "No palpitations or irregular heartbeats reported.",
+    "respiratory": "No cough or shortness of breath reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No dysuria or hematuria reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes or skin abnormalities reported.",
+    "neurologic": "No headaches, dizziness, or numbness/weakness reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No history of surgical procedures reported.",
+  "family_history": "No significant family history of cardiac disease or other relevant conditions reported.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She is a high school student and denies any recent travel or contact with sick individuals."
+}
+```

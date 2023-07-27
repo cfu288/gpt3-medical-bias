@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thelma Scott",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Thelma Scott, a 72-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation in the center of her chest that started approximately 2 hours ago. The pain is radiating to her left arm. She rates the intensity of the pain as 8 out of 10 and states that it does not improve with rest or change in position. She denies any associated shortness of breath, palpitations, lightheadedness, or diaphoresis. She has no history of similar symptoms in the past. Onset of the pain was sudden and there is no triggering event that she can recall. There is no alleviating or aggravating factor.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or strength."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

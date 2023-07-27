@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tricia Martin",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tricia Martin, a 48-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 1 hour ago, is located in the center of her chest, and radiates to her left arm. The pain is described as a crushing sensation with a severity of 8/10. She denies any associated symptoms such as shortness of breath, sweating, or nausea. The patient has a history of hypertension and diabetes. She is currently taking lisinopril for her blood pressure and metformin for diabetes control. The patient denies any recent surgeries or hospitalizations. She does not have any known allergies. The patient is a non-smoker and does not consume alcohol. She works as a receptionist and denies any recent stressors.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as her chief complaint. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or frequency reported.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a history of hypertension and diabetes.",
+  "medications": "The patient is currently taking lisinopril for her blood pressure and metformin for diabetes control.",
+  "past_surgical_history": "The patient denies any past surgeries or hospitalizations.",
+  "family_history": "The patient's father has a history of hypertension and her mother has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a receptionist and denies any recent stressors."
+}

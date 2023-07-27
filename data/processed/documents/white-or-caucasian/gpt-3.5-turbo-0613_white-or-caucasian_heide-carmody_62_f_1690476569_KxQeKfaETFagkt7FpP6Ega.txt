@@ -1,0 +1,21 @@
+{
+  "patient_name": "Heide Carmody",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. Patient reports the onset of chest pain approximately 2 hours ago while resting at home. The pain is described as a tightness in the chest that radiates to the left arm. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain and states that this episode is the most severe. The patient denies any known triggers for the pain. On arrival to the emergency department, the patient was alert and oriented. Vital signs were stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. The patient was immediately placed on a cardiac monitor and an intravenous line was started.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient is currently taking lisinopril and simvastatin for hypertension and hyperlipidemia",
+  "past_surgical_history": "Patient has no known surgical history",
+  "family_history": "Patient has a family history of coronary artery disease in both parents",
+  "social_history": "Patient is a non-smoker. Patient has a sedentary lifestyle and does not exercise regularly. Patient denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Roy Sanders",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Roy Sanders, is a 78-year-old male who presented to the emergency department with a chief complaint of chest pain. Upon further evaluation, the patient reports that he started experiencing the chest pain approximately 2 hours ago while resting at home. The pain is described as a pressure-like sensation in the center of his chest, radiating to his left arm. The patient rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. The patient has a history of hypertension, hyperlipidemia, and a previous myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "Reports chest pain as described above. No palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and previous myocardial infarction.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "No significant family history of cardiovascular diseases.",
+  "social_history": "Former smoker (quit 10 years ago). No current alcohol or illicit drug use."
+}
+```

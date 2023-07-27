@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcus Fraser",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Patient states that the pain started approximately 2 hours ago and is located in the center of the chest. He describes the pain as a squeezing sensation with radiation to the left arm. Patient states that the pain is associated with shortness of breath and sweating. He denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary complaints.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 65.",
+  "social_history": "Patient is a non-smoker. He drinks alcohol occasionally and denies any illicit drug use."
+}

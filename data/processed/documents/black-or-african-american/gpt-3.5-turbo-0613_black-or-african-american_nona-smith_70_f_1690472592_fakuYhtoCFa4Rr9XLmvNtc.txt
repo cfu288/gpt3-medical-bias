@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nona Smith",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nona Smith, is a 70-year-old female who presented to the emergency department with complaints of chest pain. She states that the pain started about an hour ago and is located in the center of her chest. She describes the pain as a squeezing sensation that radiates to her left arm. She rates the pain as 8 out of 10 in severity. The pain is constant and has not improved with rest. She denies any shortness of breath, dizziness, or nausea. She has a history of hypertension and takes medication for it. She denies any recent changes to her medication or any other precipitating factors for her symptoms. She states that she has never experienced chest pain before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or edema reported.",
+    "respiratory": "No cough or shortness of breath reported.",
+    "gi": "No abdominal pain, nausea, or vomiting reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Reports chest pain and denies any joint pain or stiffness.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "Denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is currently taking medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in her father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

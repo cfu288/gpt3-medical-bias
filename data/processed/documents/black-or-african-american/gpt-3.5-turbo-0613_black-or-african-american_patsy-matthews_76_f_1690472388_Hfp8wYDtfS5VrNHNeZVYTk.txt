@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patsy Matthews",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe, crushing chest pain. Onset of pain was sudden, and it radiates to the left arm. Patient reports feeling shortness of breath and sweating. Pain is not relieved with rest. No known triggers for the pain. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or irregular heartbeats.",
+    "respiratory": "Patient reports shortness of breath but denies cough or wheezing.",
+    "gi": "No associated symptoms of nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "No associated symptoms of joint pain or muscle weakness.",
+    "skin": "No associated rashes or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia. Takes medications for both conditions.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for dyslipidemia.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient reports no significant family history of cardiovascular disease or other relevant medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Lives alone and is able to perform activities of daily living independently."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allen Sawyer",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Allen Sawyer, a 56-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is located in the center of the chest. The pain is described as a squeezing sensation and is radiating to the left arm. The patient rates the pain as 8 out of 10 in severity. The pain is not relieved with rest or nitroglycerin. The patient denies shortness of breath, nausea, or diaphoresis. He states that he has a history of hypertension and high cholesterol. Upon further questioning, the patient reports a similar episode of chest pain a few months ago, which resolved spontaneously.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and high cholesterol.",
+    "respiratory": "Patient denies shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports no musculoskeletal complaints.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol, for which he takes medication regularly.",
+  "medications": "The patient takes lisinopril for hypertension and simvastatin for high cholesterol.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

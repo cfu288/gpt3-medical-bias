@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dorcas Thompson",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Thompson, is a 54-year-old female presenting to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a sharp and squeezing sensation in the center of her chest. She rates the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Physical examination reveals no abnormal findings.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, otherwise negative for palpitations or dizziness.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for chest pain, otherwise negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes daily medications for these conditions.",
+  "medications": "Metoprolol 50 mg daily; Atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "Positive for coronary artery disease in her father and maternal uncle.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a nurse and is married with two adult children."
+}
+```

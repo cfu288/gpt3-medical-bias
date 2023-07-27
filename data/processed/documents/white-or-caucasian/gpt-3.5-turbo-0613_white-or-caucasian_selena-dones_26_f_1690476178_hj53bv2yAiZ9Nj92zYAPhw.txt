@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Selena Dones",
+  "age": "26",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Selena Dones, a 26-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as sharp and localized to the left side of her chest. It started approximately 2 hours ago and has been persistent since then. She rates the pain as a 7 out of 10. The pain is worsened with deep breaths and movement. There are no associated symptoms such as shortness of breath, cough, or fever. No known precipitating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for localized chest pain with movement.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not taking any medications.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "Negative for significant family history of heart disease or other relevant conditions.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}
+```

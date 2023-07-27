@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rico Dennis",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rico Dennis, a 44-year-old male, presented to the emergency department with complaints of chest pain. The pain began suddenly about an hour ago while he was at rest. He describes the character of the pain as a squeezing sensation in the center of his chest. The pain has not radiated to his arms or jaw, and is not relieved with rest or nitroglycerin. He denies any shortness of breath, palpitations, or lightheadedness. He has no significant medical history. Upon arrival, the patient appeared uncomfortable but otherwise stable. Vital signs were within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever or fatigue",
+    "cardiovascular": "Chest pain, denies palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

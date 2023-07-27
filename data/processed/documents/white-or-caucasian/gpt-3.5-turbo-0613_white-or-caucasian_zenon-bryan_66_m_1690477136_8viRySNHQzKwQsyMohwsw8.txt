@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zenon Bryan",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. Patient describes the pain as a crushing sensation in the center of the chest that radiates to the left arm. Patient reports associated shortness of breath and diaphoresis. Patient denies any alleviating or exacerbating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and hyperlipidemia. No history of heart disease.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports occasional joint pain but denies any recent trauma or stiffness.",
+    "skin": "Patient denies any skin rashes, lesions, or pruritus.",
+    "neurologic": "Patient denies any changes in vision, headaches, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily for chronic management of hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient reports a family history of hypertension and hyperlipidemia in both parents. No family history of heart disease.",
+  "social_history": "Patient is a retired office worker and reports a sedentary lifestyle. Patient denies tobacco use but admits to occasional alcohol consumption."
+}

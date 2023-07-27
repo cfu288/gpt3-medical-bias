@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nona Olivier",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Nona Olivier, an 83-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago and is located in the center of the chest. The pain is described as a squeezing or pressure-like sensation. The patient rates the pain as 8 out of 10 in severity. She denies any radiation of the pain or associated symptoms like shortness of breath, nausea, or diaphoresis. The pain does not worsen with movement or breathing. She reports that the pain persists despite taking over-the-counter antacids for relief. The patient has a history of hypertension and hyperlipidemia and is currently on medication including lisinopril and atorvastatin. She denies any recent surgeries or injuries. There is no family history of cardiac diseases. Her social history is significant for being a non-smoker and non-drinker. She lives alone and is independent in her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "She reports the chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "She denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No complaints of dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pains or difficulty with mobility.",
+    "skin": "No rashes, lesions, or sores.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Lisinopril and atorvastatin are the current medications the patient is taking.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "There is no family history of cardiac diseases.",
+  "social_history": "The patient is a non-smoker and non-drinker. She lives alone and is independent in her activities of daily living."
+}

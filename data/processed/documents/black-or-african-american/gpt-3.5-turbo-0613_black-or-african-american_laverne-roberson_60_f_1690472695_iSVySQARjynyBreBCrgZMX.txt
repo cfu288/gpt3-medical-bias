@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Laverne Roberson",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of acute onset of severe, squeezing chest pain. Patient states that the pain started approximately 1 hour ago and has been constant since then. The pain radiates to the left arm and jaw. Patient denies any associated symptoms such as shortness of breath, dizziness, or nausea. Patient states that she has a history of hypertension and high cholesterol. She currently takes medications for these conditions. Upon arrival, the patient appeared to be in distress and was immediately triaged to a cardiac room for further evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "As described in the history of present illness.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary problems.",
+    "musculoskeletal": "As described in the history of present illness.",
+    "skin": "Patient denies any rashes or skin discoloration.",
+    "neurologic": "Patient denies any dizziness or headache."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. She takes medication for these conditions.",
+  "medications": "Patient is taking Lisinopril for hypertension and Simvastatin for high cholesterol.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}
+```

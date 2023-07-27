@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nasser Bean",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation radiating to the left arm. The patient rates the pain as 8 out of 10 in severity. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. He has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient reports chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "The patient denies cough, wheezing, and sputum production.",
+    "gi": "The patient denies nausea, vomiting, and abdominal pain.",
+    "gu": "The patient denies dysuria and urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain and muscle weakness.",
+    "skin": "The patient denies rash or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, and focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 60s.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

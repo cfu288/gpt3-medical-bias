@@ -1,0 +1,21 @@
+{
+  "patient_name": "Evans Page",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Page is a 75-year-old male who presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the left side of his chest. The pain is worsened with deep breathing and movement. He denies any associated shortness of breath, diaphoresis, or palpitations. He rates the pain as 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or focal deficits"
+  },
+  "past_medical_history": "Mr. Page has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "He takes lisinopril, atorvastatin, and acetaminophen as needed for pain.",
+  "past_surgical_history": "He has no history of any surgeries.",
+  "family_history": "Positive for hypertension in his parents.",
+  "social_history": "He is a former smoker with a 10 pack-year history. He quit smoking 5 years ago. He denies alcohol or illicit drug use."
+}

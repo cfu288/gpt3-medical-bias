@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Andre Smith, a 73-year-old male, presents to the emergency department with a chief complaint of chest pain. The chest pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or strenuous activity. He states that the pain is different from his usual indigestion and he is concerned it may be a heart attack. Upon arrival, the patient was immediately brought to the triage area and assessed by the nursing staff. An EKG was performed, which showed ST-segment elevation in leads II, III, and aVF. The patient was then escorted to a treatment room where further evaluation and management were initiated.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "In addition to the chest pain, the patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient denies cough, sputum production, hemoptysis, or dyspnea on exertion.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, diarrhea, or changes in appetite or bowel movements.",
+    "gu": "The patient denies dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any changes in the skin such as rash, lesions, or pruritus.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, dyslipidemia, and type 2 diabetes. He currently takes amlodipine and atorvastatin for these conditions.",
+  "medications": "1. Amlodipine 5 mg daily\n2. Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is a family history of cardiovascular disease, with the patient's father having a history of myocardial infarction in his 60s.",
+  "social_history": "The patient is a retired teacher and is currently living alone. He denies smoking, alcohol use, or illicit drug use. He lives a sedentary lifestyle and has not participated in any regular exercise regimen."
+}

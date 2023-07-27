@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rebekah Reardon",
+  "age": "18",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rebekah Reardon, an 18-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started this morning and is described as sharp and intermittent. It is located in the center of the chest and radiates to the left arm. The patient rates the pain as 7 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved by rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations, edema, or syncope.",
+    "respiratory": "Denies cough, hemoptysis, or shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Burton Reaves",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Reaves, is 62-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has persisted since then. He rates the intensity of the pain as 8 out of 10 and reports that it is not relieved with rest. He denies any associated symptoms such as shortness of breath, lightheadedness, or diaphoresis. He denies any previous episodes of chest pain or similar symptoms. The patient states that he has a history of hypertension and takes medication for it. He denies any recent changes in his medications or any other significant medical conditions. In light of his symptoms and risk factors for cardiovascular disease, a thorough evaluation will be performed to determine the cause of his chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or fevers.",
+    "cardiovascular": "The patient reports his chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension. He is allergic to penicillin.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of hypertension and coronary artery disease.",
+  "social_history": "The patient is a retired construction worker. He is a non-smoker and does not consume alcohol or illicit drugs."
+}

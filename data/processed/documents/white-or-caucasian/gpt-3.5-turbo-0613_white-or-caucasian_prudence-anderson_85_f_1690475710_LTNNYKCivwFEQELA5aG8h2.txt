@@ -1,0 +1,21 @@
+{
+  "patient_name": "Prudence Anderson",
+  "age": "85",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is an 85-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. The pain has been intermittent for the past hour, with episodes lasting approximately 10 minutes. The patient has a history of hypertension and dyslipidemia, for which she takes prescribed medications. She denies any recent illnesses, trauma, or strenuous physical activity that could have triggered the chest pain. She states that the pain is not relieved with rest and is accompanied by shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Apart from the chest pain, the patient denies palpitations, edema, or orthopnea.",
+    "respiratory": "The patient reports shortness of breath, but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Apart from chest pain, the patient denies any joint pain or muscle aches.",
+    "skin": "No skin lesions, rashes, or abnormal pigmentation reported.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, or other neurological symptoms."
+  },
+  "past_medical_history": "Hypertension and dyslipidemia",
+  "medications": "The patient is taking amlodipine and atorvastatin for hypertension and dyslipidemia, respectively.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a retired teacher who leads a sedentary lifestyle. She is a nonsmoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosie Brown",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosie Brown, a 47-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the chest pain started suddenly about 2 hours ago. The pain is located in the center of her chest and is described as a dull ache. She rates the pain as 6/10 in severity. The pain is not radiating and is not associated with shortness of breath or diaphoresis. She denies any other associated symptoms, such as nausea or lightheadedness. She has no known history of cardiovascular disease or risk factors for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which she takes medication.",
+  "medications": "Rosie takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or recreational drugs."
+}

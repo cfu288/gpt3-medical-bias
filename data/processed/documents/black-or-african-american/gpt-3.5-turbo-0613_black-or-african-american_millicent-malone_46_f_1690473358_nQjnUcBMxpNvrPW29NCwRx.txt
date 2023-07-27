@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millicent Malone",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Millicent Malone, a 46-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain started suddenly approximately one hour ago while she was at rest. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the pain as 9 out of 10 in intensity and reports no relieving or exacerbating factors. There are no associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient denies any similar episodes in the past. On further questioning, the patient reports a history of hypertension and hyperlipidemia. The patient is a non-smoker, with no history of diabetes or known coronary artery disease. She takes daily medications for her hypertension and hyperlipidemia. There is no history of recent surgery or significant family history of cardiac conditions. Socially, the patient is married, works as an accountant, and denies any current use of tobacco, alcohol, or recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain as described above. No palpitations or irregular heartbeats.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, numbness, or tingling."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Lisinopril and atorvastatin.",
+  "past_surgical_history": "No history of surgery.",
+  "family_history": "No significant family history of cardiac conditions.",
+  "social_history": "Non-smoker, married, works as an accountant, and denies any current use of tobacco, alcohol, or recreational drugs."
+}

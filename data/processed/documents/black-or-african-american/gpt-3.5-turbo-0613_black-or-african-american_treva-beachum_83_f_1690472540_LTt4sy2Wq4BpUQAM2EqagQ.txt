@@ -1,0 +1,21 @@
+{
+  "patient_name": "Treva Beachum",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. She states that the pain began approximately 3 hours ago and is localized to the center of her chest. She describes the pain as a pressure-like sensation, 7/10 in intensity. The pain is not alleviated by rest or change in position. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She has a history of hypertension and hyperlipidemia. EKG and labs have been obtained and are pending results. Patient is currently receiving aspirin and nitroglycerin as per chest pain protocol.",
+  "review_of_symptoms": {
+      "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+      "cardiovascular": "Patient denies palpitations or history of heart murmurs.",
+      "respiratory": "Patient denies cough, sputum production, or shortness of breath.",
+      "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+      "gu": "Patient denies urinary frequency, urgency, or pain.",
+      "musculoskeletal": "Patient denies joint pain or stiffness.",
+      "skin": "Patient denies rashes or skin changes.",
+      "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Aspirin, Nitroglycerin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a non-smoker and does not drink alcohol."
+}

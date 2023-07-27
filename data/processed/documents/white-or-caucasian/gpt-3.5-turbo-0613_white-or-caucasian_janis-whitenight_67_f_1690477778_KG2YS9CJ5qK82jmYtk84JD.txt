@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janis Whitenight",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Janis Whitenight, is a 67-year-old female who presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in her chest that radiates to her left arm. The pain started about an hour ago and has been constant since then. She rates the intensity of the pain as 8 out of 10. She denies any shortness of breath, nausea, or diaphoresis. She states that she has a history of hypertension and takes medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described in the chief complaint. Denies palpitations or irregular heartbeats.",
+    "respiratory": "Denies shortness of breath, wheezing, or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Antihypertensive medication",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "Positive for hypertension in the patient's father.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deirdre Harvey",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, crushing pain in the center of the chest. The patient reports associated shortness of breath and sweating. The pain has not resolved and prompted the patient to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or bruising.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril and simvastatin.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Mother had a history of heart disease.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol."
+}
+```

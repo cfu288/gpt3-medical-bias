@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rand Noyes",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Noyes is a 64-year-old man who presents to the emergency department with a chief complaint of chest pain. The pain began approximately 1 hour ago while he was at rest. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. He rates the severity of the pain as 8 out of 10 and states that it is not relieved with rest. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Noyes has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril for his hypertension and atorvastatin for his hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "His father had a history of myocardial infarction at the age of 70.",
+  "social_history": "Mr. Noyes is a retired accountant. He denies tobacco use, alcohol use, or illicit drug use. He is married and lives with his wife."
+}

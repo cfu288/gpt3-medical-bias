@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nell Tibbs",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Nell Tibbs, an 83-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to her left arm and jaw. She rates the pain as 8 out of 10 and states that it is not relieved by rest. She denies any shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient reports a history of hypertension and hyperlipidemia. She is currently compliant with her medications. She denies any recent illnesses, trauma, or surgeries. She has no known drug allergies. She does not smoke or drink alcohol. Her family history is significant for coronary artery disease in her father. She lives alone and is independent with her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Coronary artery disease in her father",
+  "social_history": "Non-smoker, non-drinker, lives alone, independent with activities of daily living"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Steven Mcilvenna",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Steven Mcilvenna, a 59-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that he started experiencing the chest pain approximately 2 hours ago, and describes it as a squeezing sensation in the center of his chest. The pain is radiating to his left arm and jaw. He rates the severity of the pain as 8 out of 10. The pain is not relieved with rest or nitroglycerin. The patient denies any shortness of breath, palpitations, or lightheadedness. He reports no previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain, as previously described. No palpitations or dyspnea.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and simvastatin 20 mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. No other significant family history.",
+  "social_history": "The patient is a lifelong smoker with a 40 pack-year history. He does not consume alcohol or use illicit drugs."
+}
+```

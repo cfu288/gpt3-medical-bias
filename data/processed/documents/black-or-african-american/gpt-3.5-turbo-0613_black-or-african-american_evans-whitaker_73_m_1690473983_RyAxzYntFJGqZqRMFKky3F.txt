@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Evans Whitaker",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Whitaker is a 73-year-old male presenting to the emergency department with a chief complaint of chest pain. He reports that the pain began earlier today while he was at home. The pain is described as a crushing sensation in the center of his chest, radiating down his left arm. He rates the pain as 8 out of 10 in severity. He denies any shortness of breath, lightheadedness, or diaphoresis. Upon arrival, the patient appeared uncomfortable and was grimacing in pain. He was immediately brought to a room and started on supplemental oxygen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak over the past few days. He denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports intermittent episodes of palpitations. He denies any history of chest pain or heart attacks. He has no known cardiac conditions.",
+    "respiratory": "The patient reports shortness of breath with exertion. He has a past medical history of chronic obstructive pulmonary disease (COPD). He reports using his bronchodilator inhaler as needed.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient reports occasional joint pain in his knees and hands, but denies any recent injuries or falls.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He reports taking medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and albuterol inhaler for COPD.",
+  "past_surgical_history": "The patient has a past surgical history of appendectomy and cholecystectomy.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. His mother had hypertension and stroke.",
+  "social_history": "The patient is a retired accountant. He is married and lives with his wife. He smokes one pack of cigarettes per day and has a 20-year history of smoking. He drinks alcohol occasionally."
+}
+```

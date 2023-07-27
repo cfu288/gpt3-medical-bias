@@ -1,0 +1,27 @@
+{
+  "patient_name": "Drew Frank",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Drew Frank, a 28-year-old female, presents to the emergency department with complaints of chest pain. The pain started earlier today and is described as a sharp, constricting sensation in the center of the chest. The patient states that the pain radiates to her left arm and is associated with shortness of breath. The pain is exacerbated by physical activity and relieved with rest. She denies any previous episodes of similar pain. The patient denies any other symptoms such as palpitations, dizziness, or diaphoresis.",
+
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies palpitations, lightheadedness, or syncope.",
+    "respiratory": "Patient complains of shortness of breath associated with chest pain.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient complains of chest pain radiating to the left arm. No other musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurologic symptoms reported."
+  },
+
+  "past_medical_history": "The patient has no significant past medical history and she denies any chronic medical conditions.",
+
+  "medications": "The patient does not take any prescription or over-the-counter medications.",
+
+  "past_surgical_history": "The patient has no history of surgeries.",
+
+  "family_history": "No significant family history of cardiac disease or other chronic medical conditions reported.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently unemployed and lives with her parents."
+}

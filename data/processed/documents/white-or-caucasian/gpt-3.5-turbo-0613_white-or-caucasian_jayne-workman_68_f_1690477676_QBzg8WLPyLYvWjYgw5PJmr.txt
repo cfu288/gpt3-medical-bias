@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jayne Workman",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Jayne Workman, a 68-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain is described as a dull ache in the center of her chest, radiating to her left arm. She states it started about 2 hours ago and has been intermittent but constant since then. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She mentions feeling anxious and worried about her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. Denies palpitations or syncope.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports pain radiating to her left arm, but denies any joint pains or swelling.",
+    "skin": "Patient denies rashes, lesions, or any skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Family history is significant for coronary artery disease in her father and brother.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use. She is retired and lives alone."
+}

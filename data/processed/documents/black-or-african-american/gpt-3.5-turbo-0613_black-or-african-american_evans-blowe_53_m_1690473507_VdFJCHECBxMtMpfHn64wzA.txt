@@ -1,0 +1,21 @@
+{
+  "patient_name": "Evans Blowe",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Blowe is a 53-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a 7/10 on the pain scale, located in the center of his chest. The pain started approximately 2 hours ago and is constant. He denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of the pain to his arms or jaw. He does admit to having some nausea and 'heartburn' sensation. He states that the pain is worse with deep inspiration and is unaffected by positional changes. Mr. Blowe has no previous history of similar complaints. At present, the pain is not relieved by rest or nitroglycerin. He denies any recent travel or history of trauma. His last episode of chest pain was two months ago, at which time he was diagnosed with gastroesophageal reflux disease (GERD) and started on proton pump inhibitors.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies palpitations or leg swelling.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Reports mild nausea without vomiting or diarrhea.",
+    "gu": "No complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or weakness."
+  },
+  "past_medical_history": "Gastroesophageal reflux disease (GERD), otherwise unremarkable.",
+  "medications": "Proton pump inhibitors for GERD.",
+  "past_surgical_history": "None.",
+  "family_history": "No history of cardiac disease or sudden cardiac death in the family.",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}

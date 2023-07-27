@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Kelley",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Norris Kelley, a 38-year-old male, presents to the emergency department with a chief complaint of chest pain. The onset of pain was sudden and he describes it as a severe, squeezing sensation that radiates to his left arm. He reports associated shortness of breath and diaphoresis. He states that the pain has been persistent for the past 2 hours and is unrelieved by rest. The patient denies any history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain.",
+    "respiratory": "Reports shortness of breath.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "No pain or swelling in the joints or muscles.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking metoprolol for hypertension.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Family history is non-contributory.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is married and works as a software engineer."
+}

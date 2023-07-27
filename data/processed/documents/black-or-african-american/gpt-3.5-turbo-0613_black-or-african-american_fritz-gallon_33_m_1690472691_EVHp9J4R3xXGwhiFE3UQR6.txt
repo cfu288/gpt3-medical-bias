@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fritz Gallon",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Fritz Gallon, a 33-year-old male, presents to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest, radiating to the left arm. It started approximately 2 hours ago while the patient was at rest. He rates the pain as a 7 out of 10 in severity and states that it has not improved with rest. The patient denies any associated shortness of breath, diaphoresis, or nausea. He has a past medical history of hypertension and smokes 10 cigarettes per day.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom he is currently experiencing.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of pain in the left arm along with the chest pain.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient is currently taking lisinopril 10mg for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease in his father and grandfather.",
+  "social_history": "The patient admits to smoking 10 cigarettes per day and drinking alcohol occasionally."
+}

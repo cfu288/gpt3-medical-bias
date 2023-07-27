@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Trina Laury",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Trina Laury, a 33-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while she was at rest. She describes the pain as a sharp, stabbing sensation located in the center of her chest. She rates the intensity of the pain as 7 out of 10. She denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of the pain to other parts of her body. She has no previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations, edema, or orthopnea.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other relevant medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She works as a teacher and lives an active lifestyle."
+}
+```

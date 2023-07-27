@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carlotta Cooper",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Carlotta Cooper, a 76-year-old female, presents to the emergency department with complaints of chest pain of sudden onset. The pain is described as a squeezing sensation in the center of the chest that radiates to the left arm. The patient states that the pain started approximately 2 hours ago and has been gradually worsening. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient reports no previous history of similar symptoms. On further questioning, she admits to a history of hypertension and hyperlipidemia but states that she has been non-compliant with her medications for the past few months. There is no history of recent illness, trauma, or surgery.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports intermittent episodes of palpitations and occasional mild shortness of breath with exertion.",
+    "respiratory": "Patient denies cough, sputum production, or shortness of breath at rest.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She has been non-compliant with her medications for the past few months.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a retired teacher. She does not smoke or consume alcohol. She lives alone and has no known drug allergies."
+}
+```

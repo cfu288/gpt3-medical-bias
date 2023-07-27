@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Branum",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset severe chest pain. Patient describes the pain as a crushing or squeezing sensation in the center of the chest that radiates to the left arm. Pain started approximately 2 hours ago and has persisted since then. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Negative for family history of cardiovascular disease",
+  "social_history": "Patient is a social drinker and denies tobacco or illicit drug use"
+}

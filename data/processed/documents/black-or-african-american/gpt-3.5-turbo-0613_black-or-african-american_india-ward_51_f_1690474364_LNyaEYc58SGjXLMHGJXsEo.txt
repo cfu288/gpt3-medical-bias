@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "India Ward",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Patient describes the pain as a sharp, stabbing sensation that started approximately 2 hours ago. She rates the pain as a 7 out of 10 in severity. The pain is localized to the center of her chest and does not radiate to any other parts of her body. She denies any associated symptoms such as shortness of breath, nausea, or sweating. The pain is not relieved with rest or positional changes. Upon further questioning, patient reports occasional episodes of chest pain in the past but states that this episode is more severe and different in character. She is concerned and came to the emergency department seeking evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Negative for any significant family history of cardiovascular disease",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol. She works as a teacher."
+}
+```

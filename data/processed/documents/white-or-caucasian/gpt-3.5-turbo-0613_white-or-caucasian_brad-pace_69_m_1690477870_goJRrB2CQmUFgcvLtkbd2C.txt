@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brad Pace",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Brad Pace, a 69-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8/10 in severity. The pain is associated with shortness of breath and diaphoresis. He denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for musculoskeletal symptoms.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with medication. He has no history of diabetes or heart disease.",
+  "medications": "The patient takes Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Positive for a family history of coronary artery disease.",
+  "social_history": "The patient is a retired construction worker. He has a 20 pack-year history of smoking but quit 5 years ago. He drinks alcohol occasionally but denies any illicit drug use."
+}

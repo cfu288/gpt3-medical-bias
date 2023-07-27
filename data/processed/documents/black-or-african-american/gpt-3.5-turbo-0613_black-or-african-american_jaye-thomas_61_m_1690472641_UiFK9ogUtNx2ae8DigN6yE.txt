@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jaye Thomas",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jaye Thomas, a 61-year-old male, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is located in the center of his chest. He describes it as a pressure-like sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any nausea, vomiting, or lightheadedness. The patient reports a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight changes.",
+    "cardiovascular": "The patient reports chest pain as the chief complaint. He denies any palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain radiating to his left arm.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

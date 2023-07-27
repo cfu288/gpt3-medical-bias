@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gus Parker",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain has been radiating to the left arm and jaw. Patient also reports shortness of breath and lightheadedness. There is no relief with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and tightness.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "Patient reports pain in the left arm.",
+    "skin": "No skin abnormalities reported.",
+    "neurologic": "Patient reports lightheadedness."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes metoprolol for hypertension.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Patient reports a family history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

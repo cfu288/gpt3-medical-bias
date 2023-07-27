@@ -1,0 +1,21 @@
+{
+  "patient_name": "Von Morris",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Morris, is a 60-year-old male who presented to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. It started approximately 2 hours ago and has been persistent since then. The pain is associated with shortness of breath and sweating.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "The patient is currently taking metoprolol, atorvastatin, and metformin for his medical conditions.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

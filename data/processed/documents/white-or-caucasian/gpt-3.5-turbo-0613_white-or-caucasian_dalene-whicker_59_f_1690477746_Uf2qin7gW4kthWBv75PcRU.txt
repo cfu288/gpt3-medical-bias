@@ -1,0 +1,23 @@
+{
+  "patient_name": "Dalene Whicker",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dalene Whicker, a 59-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a dull, aching sensation in the center of her chest. The pain has been intermittent but has worsened in severity over the past hour. It is not radiating to her arms or jaw. She denies any shortness of breath, cough, or fever. She also denies any associated symptoms such as nausea, vomiting, or diaphoresis. She has no known cardiac history and does not take any medications for chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No symptoms of fatigue, weight loss, or night sweats.",
+    "cardiovascular": "No palpitations or orthopnea.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine 10mg daily and atorvastatin 40mg daily for her hypertension and hyperlipidemia respectively.",
+  "medications": "Amlodipine 10mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is non-contributory. Her mother and father are both alive and do not have a history of cardiovascular disease or cancer.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is married and works as a teacher. She lives a sedentary lifestyle and does not engage in regular exercise.",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nicoletta Martin",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nicoletta Martin, an 80-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient describes experiencing sharp, stabbing pain in the central chest area that started suddenly approximately 2 hours ago. The pain radiates to the left arm and is associated with shortness of breath and nausea. The patient denies any preceding trauma or recent illness. On arrival, the patient's vital signs are stable. Initial physical examination reveals chest tenderness upon palpation and decreased breath sounds on the left side. EKG shows ST segment elevation in leads V2 and V3.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Apart from the chest pain, the patient reports no known cardiac history or palpitations.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain. No recent cough or respiratory infections.",
+    "gi": "The patient denies any abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint or muscle pain.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient takes metoprolol for hypertension, atorvastatin for hyperlipidemia, and metformin for type 2 diabetes.",
+  "past_surgical_history": "The patient had a cholecystectomy 10 years ago.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent in her activities of daily living."
+}
+```

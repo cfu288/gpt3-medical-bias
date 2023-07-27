@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clayton James",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. James is a 28-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, substernal pain that radiates to the left arm. The patient rates the pain as 7/10 in intensity. The pain is intermittent and worsens with deep breaths. He denies any associated symptoms such as shortness of breath or diaphoresis. Upon further questioning, the patient reports no history of trauma or recent illnesses. He has no relevant past medical history or risk factors for cardiovascular disease. He denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or lightheadedness.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports intermittent sharp chest pain that radiates to the left arm.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiac diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is currently employed as a software engineer and is not involved in any high-risk activities."
+}

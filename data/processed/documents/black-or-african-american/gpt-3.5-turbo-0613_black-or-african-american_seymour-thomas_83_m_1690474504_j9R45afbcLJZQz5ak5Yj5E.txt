@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Seymour Thomas",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of acute-onset chest pain. Pain is described as pressure-like and radiates to the left arm. Patient reports associated shortness of breath and diaphoresis. Denies any recent trauma or injury. No relief with rest or position change. No associated symptoms of nausea or vomiting. No previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports a history of hypertension and coronary artery disease. No previous myocardial infarction or heart failure. No known arrhythmias. No leg swelling or edema.",
+    "respiratory": "Patient denies cough, hemoptysis, or dyspnea on exertion. No history of chronic lung disease or asthma.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits. No history of gastrointestinal bleeding or liver disease.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency. No history of kidney stones or urinary tract infections.",
+    "musculoskeletal": "Patient denies any joint pain or swelling. No history of arthritis or gout.",
+    "skin": "Patient denies any skin rashes, lesions, or changes. No history of skin cancer.",
+    "neurologic": "Patient denies any neurological symptoms such as headache, weakness, or numbness. No history of stroke or seizures."
+  },
+  "past_medical_history": "Hypertension, coronary artery disease",
+  "medications": "Lisinopril 10 mg daily, Aspirin 81 mg daily",
+  "past_surgical_history": "CABG x 2 (2003)",
+  "family_history": "Father had a myocardial infarction at age 60",
+  "social_history": "Retired, non-smoker, non-drinker"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rena Harris",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rena Harris, a 79-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that she began experiencing sharp, stabbing chest pain approximately two hours ago. The pain is localized to the center of her chest and radiates to her left arm. The pain is rated as 7 out of 10 in severity. The patient denies any associated shortness of breath, diaphoresis, or palpitations. Onset of pain was sudden and the patient is not able to attribute it to any specific trigger. The pain has not changed in intensity since onset. The patient has a history of hypertension and hyperlipidemia. Physical examination reveals normal vital signs and no abnormal findings on auscultation of the heart and lungs. An EKG and laboratory studies, including cardiac enzymes, are ordered to further evaluate the patient's condition.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent with activities of daily living."
+}

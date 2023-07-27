@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chandra Thomas",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a mild, dull ache that started approximately 2 hours ago. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain. Patient has no known history of heart disease or other risk factors for cardiac events.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No palpitations or irregular heartbeats",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms"
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for this.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Patient's mother had a myocardial infarction at the age of 60.",
+  "social_history": "Patient denies tobacco use, alcohol use, or illicit drug use. Patient is married and works as a teacher."
+}

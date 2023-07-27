@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Monroe Walls",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Monroe Walls, a 28-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago, and describes it as a sharp, stabbing pain located in the center of his chest. He rates the pain intensity as a 7 out of 10. He denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or radiating pain. The pain is not relieved by rest and is not worsened with deep breathing or palpation. He has no history of similar symptoms. Upon further inquiring, the patient reports a recent upper respiratory tract infection that resolved on its own without any medical treatment. He denies any other medical conditions or significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations, orthopnea, or paroxysmal nocturnal dyspnea",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, stiffness, or swelling",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiac or respiratory diseases",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

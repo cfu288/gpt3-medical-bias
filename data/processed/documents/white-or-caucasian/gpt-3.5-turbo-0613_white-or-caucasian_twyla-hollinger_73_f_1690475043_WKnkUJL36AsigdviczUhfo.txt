@@ -1,0 +1,21 @@
+{
+  "patient_name": "Twyla Hollinger",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Twyla Hollinger, a 73-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a dull, squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in severity. The patient denies any shortness of breath, palpitations, or diaphoresis. She reports that the pain is not relieved with rest and is currently unchanged. She denies any recent trauma or injury. Upon further questioning, the patient admits to a history of hypertension and hyperlipidemia. She states that she has been compliant with her medications and has not had any recent changes in her regimen. She denies any history of similar chest pain episodes or cardiovascular disease. The patient denies any other symptoms such as cough, fever, abdominal pain, or urinary symptoms. No changes in bowel movements or skin lesions.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes, lesions, or wounds.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Atenolol 50mg daily and Simvastatin 40mg daily.",
+  "past_surgical_history": "None reported.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient has a history of smoking but quit 10 years ago. She denies alcohol or illicit drug use."
+}

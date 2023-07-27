@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derek Yarn",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Derek Yarn, a 53-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is worsened with deep breathing and is associated with shortness of breath. The patient denies any radiation of the pain, but states that it is severe in intensity. He reports no previous episodes of chest pain. Upon further questioning, the patient also reports experiencing diaphoresis and nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss",
+    "cardiovascular": "The patient reports chest pain mentioned in the chief complaint. No palpitations or edema",
+    "respiratory": "The patient reports shortness of breath associated with chest pain",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "The patient denies any urinary symptoms",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness",
+    "skin": "The patient denies any rashes or skin changes",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and simvastatin regularly.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. The patient denies any other significant family history.",
+  "social_history": "The patient is a non-smoker and reports consuming alcohol in moderation. He denies any illicit drug use."
+}
+```

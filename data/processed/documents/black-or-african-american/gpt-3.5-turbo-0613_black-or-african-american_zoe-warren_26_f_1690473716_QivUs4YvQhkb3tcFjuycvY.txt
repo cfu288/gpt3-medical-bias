@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Zoe Warren",
+  "age": "26",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Zoe Warren, a 26-year-old female, presents to the emergency department with complaint of chest pain. The pain started abruptly this evening and is located in the center of her chest. She describes the pain as a tightness or squeezing sensation, which radiates to her left arm. The pain has been intermittent but has progressively worsened over the last hour. She denies any shortness of breath, nausea, diaphoresis, or lightheadedness. She also denies any recent illness or trauma. On further questioning, she reports that she has been feeling stressed due to work and personal issues. She has no significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fevers, or chills",
+    "cardiovascular": "Chest pain as described above, no palpitations or leg swelling",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes, itching, or changes in moles",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not currently taking any medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of cardiac disease or other medical conditions",
+  "social_history": "Zoe is a non-smoker and does not consume alcohol or illicit substances. She works as a software engineer and reports a high level of stress due to her job and recent personal issues."
+}
+```

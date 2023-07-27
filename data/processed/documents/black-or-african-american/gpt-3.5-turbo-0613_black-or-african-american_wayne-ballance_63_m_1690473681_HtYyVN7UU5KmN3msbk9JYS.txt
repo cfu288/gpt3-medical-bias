@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wayne Ballance",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of acute chest pain which started approximately 1 hour ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient reports associated shortness of breath, diaphoresis, and nausea. He denies any previous episodes of similar chest pain. The patient's vital signs upon arrival are as follows: heart rate of 100 beats per minute, blood pressure of 140/90 mmHg, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Presents with chest pain and associated shortness of breath.",
+    "respiratory": "Reports shortness of breath.",
+    "gi": "Denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "No rashes or wounds.",
+    "neurologic": "No headaches, visual changes, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes daily medications for these conditions.",
+  "medications": "Patient takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient underwent an appendectomy at age 35. No other significant surgical history.",
+  "family_history": "No family history of cardiac disease or other significant medical conditions.",
+  "social_history": "Patient is a retired accountant and denies tobacco or alcohol use."
+}

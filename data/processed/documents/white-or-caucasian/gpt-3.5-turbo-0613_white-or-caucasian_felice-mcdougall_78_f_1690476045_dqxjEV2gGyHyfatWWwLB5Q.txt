@@ -1,0 +1,21 @@
+{
+  "patient_name": "Felice Mcdougall",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 78-year-old female presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and weakness",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea and vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has a family history of heart disease in her parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kristine Gallagher",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain started 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. Patient denies any shortness of breath, nausea, or diaphoresis. Patient states she has a history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports an elevated blood pressure of 160/90 mmHg upon arrival. No palpitations or irregular heartbeats reported.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient reports occasional headaches but no focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, currently taking losartan 50 mg daily.",
+  "medications": "Losartan 50 mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Mother had a history of hypertension and father had a history of coronary artery disease.",
+  "social_history": "Patient is a nonsmoker and drinks alcohol socially."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mack Miller",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mack Miller, a 75-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started abruptly approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any prior episodes of similar chest pain. On arrival, he appeared pale and anxious.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain radiating to left arm and jaw",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea and vomiting",
+    "gu": "Negative for dysuria",
+    "musculoskeletal": "Negative for muscle or joint pain",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently on medications for both conditions.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and brother.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or recreational drug use. He drinks alcohol socially."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dolly Petrich",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago and has been constant since then. She rates the pain as an 8 out of 10 in severity. She denies any shortness of breath, nausea, vomiting, or diaphoresis. She has a history of hypertension and hyperlipidemia and is currently taking medications for both conditions. She has no known drug allergies. She has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, and unintentional weight loss",
+    "cardiovascular": "Positive for chest pain, denies palpitations",
+    "respiratory": "Denies cough, shortness of breath, and wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, and diarrhea",
+    "gu": "Denies dysuria, hematuria, and urinary frequency",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Denies rash or itching",
+    "neurologic": "Negative for headache, dizziness, and focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy, cholecystectomy",
+  "family_history": "Mother with hypertension and father with history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

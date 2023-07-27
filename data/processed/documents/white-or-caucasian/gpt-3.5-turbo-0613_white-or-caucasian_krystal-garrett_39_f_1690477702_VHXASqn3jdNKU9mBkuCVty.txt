@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Krystal Garrett",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of sharp chest pain that started suddenly this afternoon. She describes the pain as a pressure-like sensation that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath, but denies palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath but denies cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, hematuria, or changes in urine output.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. She takes medications for both conditions.",
+  "medications": "The patient takes metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unknown as she is unsure about her biological parents.",
+  "social_history": "The patient denies smoking, alcohol consumption, or drug use."
+}
+```

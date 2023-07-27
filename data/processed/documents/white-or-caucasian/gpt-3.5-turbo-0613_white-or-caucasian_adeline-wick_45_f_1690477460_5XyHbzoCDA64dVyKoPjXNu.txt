@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adeline Wick",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Adeline Wick, a 45-year-old female, presents to the emergency department with complaints of chest pain. The patient reports that the pain started suddenly about an hour ago and is located in the center of her chest. She describes the pain as a sharp and burning sensation, with radiation to her left arm. The pain is associated with shortness of breath and nausea. The patient denies any palpitations or lightheadedness. She states that she has never experienced this type of pain before and is concerned as it is severe and persistent.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports chest pain with radiation to the left arm. Denies palpitations.",
+    "respiratory": "Patient complains of shortness of breath.",
+    "gi": "Patient denies any abdominal pain, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal complaints other than the chest pain.",
+    "skin": "Patient denies any skin abnormalities.",
+    "neurologic": "Patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes antihypertensive medication daily.",
+  "past_surgical_history": "The patient reports no past surgical procedures.",
+  "family_history": "The patient has no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}

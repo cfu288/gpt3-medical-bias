@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Brown",
+  "age": "90",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Calvin Brown, a 90-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that started approximately 2 hours ago. The pain radiates down his left arm and is associated with shortness of breath. He denies any previous episodes of similar chest pain. On further questioning, he reports a history of hypertension and hyperlipidemia, both currently managed with medication. He denies any history of previous heart attacks or heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "Shortness of breath reported with associated chest pain. No cough or sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint swelling or pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgical history reported.",
+  "family_history": "There is a family history of coronary artery disease, with the patient's father and brother both having heart attacks in their 60s.",
+  "social_history": "The patient is retired and lives alone. He denies smoking or alcohol use."
+}

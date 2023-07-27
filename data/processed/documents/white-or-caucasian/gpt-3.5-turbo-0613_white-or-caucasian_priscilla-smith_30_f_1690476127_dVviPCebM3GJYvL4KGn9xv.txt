@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Priscilla Smith",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain is described as sharp and radiating to the left arm. Patient states that the pain started suddenly while she was at rest. She rates the intensity of the pain as 8/10. No associated symptoms such as nausea or shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements",
+    "gu": "No dysuria, hematuria, or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

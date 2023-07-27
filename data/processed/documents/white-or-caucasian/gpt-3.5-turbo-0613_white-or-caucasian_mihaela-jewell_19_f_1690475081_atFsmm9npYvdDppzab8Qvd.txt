@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mihaela Jewell",
+  "age": "19",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Mihaela Jewell, a 19-year-old female, presents to the emergency department with complaints of chest pain. The pain began 2 hours ago and is described as a sharp, stabbing sensation in the middle of the chest. The pain is worsened with deep breaths and movement. The patient denies any shortness of breath, cough, or fever. She has no prior history of similar symptoms. She states that she had been in a minor car accident earlier today but did not experience any pain at that time. She denies any other significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, and fatigue.",
+    "cardiovascular": "Negative for palpitations, racing heart, leg swelling, or history of heart disease.",
+    "respiratory": "Negative for cough, shortness of breath, or history of lung disease.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or history of arthritis.",
+    "skin": "Negative for rash, itching, or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Family history is non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use, denies illicit drug use."
+}
+```

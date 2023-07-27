@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simone Daniel",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Daniel is an 82-year-old female who presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is located in the center of her chest. She describes it as a pressure-like sensation that radiates to her left shoulder and jaw. The pain is associated with shortness of breath and diaphoresis. She denies any recent trauma, fever, cough, or other symptoms. She reports taking aspirin at home prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, diaphoresis, and shortness of breath",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "Denies dysuria, frequency, urgency, or nocturia",
+    "musculoskeletal": "No complaints of joint or muscle pain",
+    "skin": "No rashes or wounds",
+    "neurologic": "No complaints of headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mrs. Daniel has a history of hypertension, hyperlipidemia, and osteoarthritis. She reports being compliant with her prescribed medications.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "Mrs. Daniel is a retired teacher. She denies tobacco or alcohol use."
+}

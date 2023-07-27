@@ -1,0 +1,21 @@
+{
+  "patient_name": "Victor Swensen",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Swensen is a 74-year-old male presenting to the emergency department with complaints of chest pain. He states that the pain started approximately 2 hours ago and is a pressure-like sensation in the center of his chest. He denies any radiation of the pain, but says it is worse with activity and improved with rest. He also reports associated shortness of breath and diaphoresis. He has a history of hypertension and diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or numbness/weakness"
+  },
+  "past_medical_history": "Hypertension, diabetes",
+  "medications": "Lisinopril 10mg daily, metformin 1000mg daily",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "Negative for family history of heart disease",
+  "social_history": "Retired, non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antonio Butler",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department with complaints of acute onset chest pain. Patient states that the pain started approximately 2 hours ago while at rest. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm and jaw. Patient denies any associated symptoms such as shortness of breath, diaphoresis, nausea, or vomiting. He also denies any recent trauma or physical exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Patient reports no joint pain or swelling. No history of recent trauma or injury.",
+    "skin": "Patient denies rash, lesions, or skin discoloration.",
+    "neurologic": "Patient denies any changes in vision, speech, sensation, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking amlodipine and atorvastatin.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "Patient reports a family history of coronary artery disease in his father and brother.",
+  "social_history": "Patient is a smoker with a 30 pack-year history. He drinks alcohol occasionally."
+}

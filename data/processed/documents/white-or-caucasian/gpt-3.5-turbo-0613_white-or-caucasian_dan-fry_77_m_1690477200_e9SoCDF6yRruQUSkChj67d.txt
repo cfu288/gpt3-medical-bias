@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dan Fry",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department today with a chief complaint of chest pain. He reports that the pain started suddenly approximately 2 hours ago while he was at home. The pain is described as a sharp, squeezing sensation in the center of his chest that radiates down his left arm. He rates the pain as 8 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis. The pain has not improved since onset and is not relieved with rest or nitroglycerin. The patient has a history of hypertension and has been taking lisinopril 10mg daily for the past 5 years.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which has been well controlled with lisinopril. He denies any other significant past medical history.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient states that his father had a myocardial infarction at the age of 65. He denies any other significant family history.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or consume alcohol. He denies any illicit drug use."
+}
+```

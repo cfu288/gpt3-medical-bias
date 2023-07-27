@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Keisha Daniels",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Keisha Daniels, a 35-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly approximately 1 hour ago and is described as a 8/10 sharp and stabbing pain that radiates to her left arm. She denies any associated shortness of breath, nausea, or vomiting. Patient reports she has never experienced this type of pain before. The pain is exacerbated with deep inspiration.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies palpitations, edema, or leg swelling.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies abdominal pain, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient reports no history of recent trauma or injury.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse."
+}
+```

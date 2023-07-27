@@ -1,0 +1,21 @@
+{
+    "patient_name": "Jeanie Davis",
+    "age": "74",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient Jeanie Davis, a 74-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago while she was at home watching television. The pain is described as a dull ache in her chest that radiates to her left arm. The pain is associated with shortness of breath and sweating. She denies any nausea or vomiting. On arrival to the emergency department, the patient appeared pale and diaphoretic. Vital signs were stable except for an elevated blood pressure of 160/90 mmHg. Initial ECG revealed ST-segment elevation in leads II, III, and aVF. Based on the patient's symptoms and ECG findings, a working diagnosis of acute myocardial infarction was made and the patient was brought to the catheterization laboratory.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies any fever, chills, or weight loss.",
+        "cardiovascular": "The patient reports chest pain and shortness of breath.",
+        "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+        "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+        "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+        "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+        "skin": "The patient denies any rash or skin lesions.",
+        "neurologic": "The patient denies any headache, dizziness, or changes in coordination."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia.",
+    "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia.",
+    "past_surgical_history": "The patient has no history of any surgical procedures.",
+    "family_history": "The patient's family history is significant for coronary artery disease. Her father had a myocardial infarction in his 50s.",
+    "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

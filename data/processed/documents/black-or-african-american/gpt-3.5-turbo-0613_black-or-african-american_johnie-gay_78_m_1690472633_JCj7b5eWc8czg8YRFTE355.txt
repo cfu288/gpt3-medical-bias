@@ -1,0 +1,22 @@
+{
+  "patient_name": "Johnie Gay",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department today complaining of sudden onset of severe chest pain. He describes the pain as a crushing sensation that radiates to his left arm and jaw. The pain started approximately 2 hours ago and has been constant since then. He denies any associated shortness of breath, nausea, or diaphoresis. He states that he has never experienced this type of pain before and is concerned that it might be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Appendectomy at age 25",
+  "family_history": "Father had a heart attack at age 60",
+  "social_history": "Retired. Former smoker with a 30 pack-year history. Quit smoking 10 years ago."
+
+}

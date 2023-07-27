@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Darnell Banks",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Banks, is a 51-year-old male who presented to the emergency department with complaints of severe chest pain. According to the patient, the pain started abruptly about 1 hour ago and it is radiating to his left arm. He describes the pain as crushing and squeezing in nature. He denies any shortness of breath, diaphoresis, or nausea. The pain is not relieved with rest or nitroglycerin. He has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions as prescribed. He denies any recent surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for left arm pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia as prescribed.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father who had a myocardial infarction at the age of 60.",
+  "social_history": "The patient denies smoking or alcohol use. He reports regular exercise and a healthy diet."
+}
+```

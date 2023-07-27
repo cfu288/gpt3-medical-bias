@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kathe Slaughter",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Patient described the pain as a squeezing sensation in the center of her chest. The pain started approximately 2 hours ago and is radiating to her left arm.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or recent weight loss.",
+    "cardiovascular": "Patient reports chest pain and palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rash or lesions.",
+    "neurologic": "Patient denies any weakness or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Family history is negative for any cardiovascular disease.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol."
+}
+```

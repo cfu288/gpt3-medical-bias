@@ -1,0 +1,21 @@
+{
+  "patient_name": "Essie Mason",
+  "age": "85",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Essie Mason, an 85-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly approximately 1 hour ago. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain has not improved or worsened since it began. She denies any recent trauma or physical exertion. On further questioning, the patient reports a history of hypertension and high cholesterol. She states that she takes medication for these conditions, but she does not recall the names of the medications. She denies any past surgical history and cannot provide any details about her family history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and high cholesterol. She denies any palpitations or chest discomfort other than the current chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any changes in vision, speech difficulties, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol.",
+  "medications": "The patient takes medication for hypertension and high cholesterol, but she cannot recall the names of the medications.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient cannot provide any details about her family history.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Melvin Bales",
+  "age": "91",
+  "gender": "m",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bales is a 91-year-old male presenting to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly approximately 1 hour ago. The pain is described as a sharp, stabbing sensation located in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, diaphoresis, or lightheadedness. The patient has a history of hypertension and takes medications for it, but reports that his blood pressure is usually well controlled. On physical exam, the patient appears anxious and is diaphoretic. He is tachycardic with a heart rate of 110 bpm and has an elevated blood pressure of 160/90 mmHg. Lung sounds are clear, and cardiac auscultation reveals regular rate and rhythm with no murmurs. The patient is currently receiving supplemental oxygen via nasal cannula at 2L/min. EKG has been ordered and will be obtained shortly.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports occasional palpitations but denies chest pain, orthopnea, paroxysmal nocturnal dyspnea, lower extremity edema, or cyanosis.",
+    "respiratory": "The patient reports shortness of breath but denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, diarrhea, constipation, or changes in appetite.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, hematuria, or urinary incontinence.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, swelling, or limited range of motion.",
+    "skin": "The patient denies rash, itching, or significant changes in skin color or texture.",
+    "neurologic": "The patient denies headache, dizziness, syncope, changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "The patient states he takes hydrochlorothiazide 25mg once daily for his hypertension.",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "The patient reports no significant family history of heart disease, stroke, or cancer.",
+  "social_history": "The patient is widowed and lives alone. He denies tobacco use but admits to occasional alcohol consumption."
+}

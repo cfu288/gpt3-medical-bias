@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Catrina Foster",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain began 4 hours ago and is described as a squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. She also reports associated shortness of breath and diaphoresis. Patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "Patient denies cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any complaints.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Losartan 25mg daily and Atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient's mother had a myocardial infarction at the age of 60. No other significant family history.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

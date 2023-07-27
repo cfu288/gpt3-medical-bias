@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myrtle Swan",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Myrtle Swan, an 89-year-old female, presents to the emergency department with complaints of chest pain that started 1 hour ago. She rates the pain as 8/10 in intensity and describes it as a crushing sensation located in the center of her chest. The pain radiates to her left arm and jaw. She states that the pain is constant and has not improved with rest. She denies any associated shortness of breath, nausea, vomiting, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or edema.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is currently on medications for both conditions.",
+  "medications": "Enalapril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has had a cholecystectomy in the past.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and lives alone. She does not consume alcohol or use illicit drugs."
+}
+```

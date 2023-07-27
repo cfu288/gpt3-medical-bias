@@ -1,0 +1,21 @@
+{
+  "patient_name": "Davina Sweed",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Davina Sweed, a 60-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly and is described as a sharp, stabbing sensation in the center of the chest. It has been present for the past 2 hours and is exacerbated by deep breathing and movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. She has no history of chest pain or cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for palpitations or lightheadedness",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Negative for rash or skin changes",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is physically active."
+}

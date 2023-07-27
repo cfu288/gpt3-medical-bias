@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vladimir Hatcher",
+  "age": "25",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Vladimir Hatcher, a 25-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a sharp and stabbing sensation that started suddenly while he was resting at home. The pain radiates to his left arm and neck. He rates the intensity of the pain as an 8 out of 10. The patient reports feeling anxious and short of breath. There is no history of trauma or recent strenuous activity. The pain has been persisting for the past 2 hours and is not relieved with rest or position changes. The patient denies any associated symptoms such as dizziness, palpitations, or diaphoresis. He has no known medical conditions or previous episodes of chest pain. Vital signs at presentation are as follows: heart rate 110 bpm, blood pressure 130/80 mmHg, respiratory rate 20 bpm, temperature 98.6°F, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient presents with chest pain radiating to the left arm and neck. No palpitations or history of heart disease.",
+    "respiratory": "The patient reports shortness of breath associated with his chest pain. No cough or sputum production.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "No history of seizures, weakness, or sensory changes."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in his father.",
+  "social_history": "The patient denies tobacco, alcohol, or recreational drug use. He is currently employed as a software engineer and lives alone."
+}

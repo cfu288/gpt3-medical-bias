@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Karlene Johnson",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Johnson, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about 1 hour ago while she was watching TV at home. The pain is located in the center of her chest and is described as a tightness or pressure-like sensation. She rates the pain as 8 out of 10 in severity and states that it radiates to her left arm. The pain is not relieved with rest or nitroglycerin. She denies any associated shortness of breath, nausea, vomiting, or diaphoresis. She has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or wounds.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient reports a family history of hypertension and heart disease in her parents.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

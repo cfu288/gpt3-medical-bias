@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrietta Jones",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Henrietta Jones, a 74-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is described as a sharp, stabbing pain localized to the left side of the chest. The pain is exacerbated by deep breathing and movement, and is not relieved by rest. The patient denies any associated shortness of breath, dizziness, or palpitations. She also denies any recent trauma or injury. Upon further questioning, the patient reports no history of similar episodes in the past. Vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or history of heart disease.",
+    "respiratory": "The patient denies any cough, shortness of breath, or history of respiratory disease.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or history of gastrointestinal disease.",
+    "gu": "The patient denies any urinary symptoms or history of genitourinary disease.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or history of musculoskeletal disease.",
+    "skin": "The patient denies any skin rashes, lesions, or history of skin disease.",
+    "neurologic": "The patient denies any headache, dizziness, or history of neurological disease."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions including amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and a sister.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and does not use illicit drugs. She is retired and lives alone."
+}

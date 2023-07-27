@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georg Herring",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly about an hour ago, and describes the pain as a squeezing sensation in the center of his chest. The pain has not radiated to his arms or jaw. He rates the pain as a 7 out of 10 in intensity. The patient has no prior history of chest pain and denies any recent trauma or injury. The pain has not responded to over-the-counter antacid medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain. Denies palpitations or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/weakness in any extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient reports a family history of heart disease in his father.",
+  "social_history": "Patient is a retired accountant and lives with his spouse. He denies smoking, alcohol use, or illicit drug use."
+}

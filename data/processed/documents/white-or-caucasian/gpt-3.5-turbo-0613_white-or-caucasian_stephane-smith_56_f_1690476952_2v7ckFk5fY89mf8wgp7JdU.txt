@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stephane Smith",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stephane Smith, a 56-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly approximately two hours ago while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm and jaw. The patient rates the intensity of the pain as 8 out of 10. She denies any associated shortness of breath, diaphoresis, or nausea. Upon arrival, the patient was alert and oriented with stable vital signs. An EKG was performed which showed ST-segment elevation in leads II, III, and aVF. Given the patient's symptoms and EKG findings, a diagnosis of acute myocardial infarction is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling generally unwell and fatigued over the past week.",
+    "cardiovascular": "The patient denies any palpitations or changes in heart rhythm.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports occasional joint pain in her knees and hands.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. She is on regular medications including lisinopril, atorvastatin, and metformin.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of myocardial infarction at the age of 60. There are no other significant family medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is married and works as a school teacher."
+}
+```

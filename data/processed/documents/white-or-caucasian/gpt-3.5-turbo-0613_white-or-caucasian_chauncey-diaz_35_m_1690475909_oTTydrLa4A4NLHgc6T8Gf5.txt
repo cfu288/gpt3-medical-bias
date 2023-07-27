@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chauncey Diaz",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation and radiates to the left arm. Patient reports that the pain started approximately 1 hour ago and has been continuous since then. The pain is not relieved by rest or nitroglycerin. There is no associated shortness of breath or diaphoresis. Patient denies any recent trauma or history of similar chest pain. Given the concerning nature of the symptoms, further evaluation is warranted to rule out any cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. Denies palpitations or syncope.",
+    "respiratory": "Patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports no other pain or discomfort.",
+    "skin": "No significant findings on examination.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient currently takes metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient denies any significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or recreational drug use. Patient is married and works as an accountant."
+}

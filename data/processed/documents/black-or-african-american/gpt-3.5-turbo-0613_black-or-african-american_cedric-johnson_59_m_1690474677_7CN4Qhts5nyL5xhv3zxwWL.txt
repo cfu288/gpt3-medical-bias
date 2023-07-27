@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cedric Johnson",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. He describes the pain as a sharp, burning sensation that radiates to his left arm. He rates the pain as 8 out of 10 in severity. The pain started approximately 2 hours ago and has been constant since then. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Pain in the chest, radiating to the left arm. No palpitations or syncope.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Pain in the left arm.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

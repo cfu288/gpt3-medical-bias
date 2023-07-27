@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sergei Peterson",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The chest pain was described as a sharp, stabbing sensation located on the left side of the chest. The pain began approximately 2 hours ago and has been constant since then. The pain is aggravated by deep breathing and movement. The patient denies any associated shortness of breath, palpitations, or dizziness. Upon arrival, the patient appeared in distress and was diaphoretic. A 12-lead EKG was performed, which revealed ST-segment elevation in leads V2-V6. The patient was immediately brought to the cardiac catheterization lab for emergent coronary angiography to evaluate for acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss",
+    "cardiovascular": "Denies palpitations or prior history of heart disease",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches, weakness, or numbness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Father had a myocardial infarction at age 65.",
+  "social_history": "Patient is a retired accountant. He is a lifelong nonsmoker and denies any alcohol or illicit drug use."
+}

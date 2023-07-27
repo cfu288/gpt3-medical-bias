@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Napoleon Mattox",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Napoleon Mattox, a 92-year-old male, presents to the emergency department with complaints of chest pain. The pain began approximately 1 hour ago and is located in the center of his chest. He describes the pain as a squeezing sensation that radiates to his left arm. He also reports feeling shortness of breath and dizziness. The pain is associated with diaphoresis. The patient has no relevant past medical history and denies any recent trauma or illnesses. Upon arrival, the patient's vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and diaphoresis.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies urinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any neurological symptoms."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient is unaware of any significant family medical history.",
+  "social_history": "The patient is retired and lives alone. He denies smoking, alcohol use, or illicit drug use."
+}
+```

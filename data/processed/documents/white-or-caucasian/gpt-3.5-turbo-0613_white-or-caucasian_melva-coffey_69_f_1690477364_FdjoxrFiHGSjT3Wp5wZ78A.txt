@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melva Coffey",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Melva Coffey, a 69-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the substernal area. The pain is described as squeezing in nature and radiates to her left arm. She rates the intensity of the pain as 8 on a scale of 0-10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient reports a history of hypertension and takes medication for this condition. She has no known allergies or other significant past medical history. She denies any recent illnesses or injuries. Upon further questioning, the patient reports that the pain is exacerbated by physical activity and is relieved with rest. She denies any previous episodes of similar pain. Given the patient's age, gender, and the nature of the presenting complaint, a thorough evaluation is warranted to rule out acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as her chief complaint. No history of palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "No rashes, lesions, or wounds reported.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is taking medication for this condition.",
+  "medications": "The patient is taking medication for hypertension. No other medications reported.",
+  "past_surgical_history": "No history of previous surgeries reported.",
+  "family_history": "The patient reports no significant family history of cardiac disease, diabetes, or cancer.",
+  "social_history": "The patient reports being a non-smoker and denies any history of alcohol or illicit drug use."
+}

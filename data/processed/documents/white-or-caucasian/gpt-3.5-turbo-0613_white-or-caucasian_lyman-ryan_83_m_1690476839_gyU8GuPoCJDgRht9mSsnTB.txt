@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lyman Ryan",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started approximately 2 hours ago. Pain is described as a squeezing sensation in the center of the chest. Patient states the pain has been constant and has not improved with rest. Patient denies any shortness of breath, nausea, or diaphoresis. Vital signs stable upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "No history of heart disease or palpitations. Denies any history of cardiac procedures.",
+    "respiratory": "Denies cough, shortness of breath, or history of lung disease.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary complaints or history of kidney disease.",
+    "musculoskeletal": "No history of musculoskeletal problems or trauma.",
+    "skin": "No skin rashes, lesions, or changes.",
+    "neurologic": "No history of seizures, headaches, or neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history of cardiac disease, cancer, or other chronic conditions.",
+  "social_history": "Patient is a retired accountant. He has a history of smoking but quit 20 years ago. Patient denies alcohol or illicit drug use."
+}
+```

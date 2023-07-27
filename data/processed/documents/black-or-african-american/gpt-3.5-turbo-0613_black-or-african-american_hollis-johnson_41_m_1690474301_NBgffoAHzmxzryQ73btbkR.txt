@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hollis Johnson",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Hollis Johnson, a 41-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago, after Hollis finished a heavy meal. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. The pain is rated as 8 out of 10 in intensity. Hollis denies any associated shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Positive for left arm pain.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hollis has a history of hypertension and hyperlipidemia. He is currently taking medications for both conditions, which include lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "Negative",
+  "family_history": "Negative for any significant family history of cardiovascular disease.",
+  "social_history": "Hollis is a non-smoker and does not consume alcohol or use illicit drugs."
+}

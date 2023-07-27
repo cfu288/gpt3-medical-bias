@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rusty Davis",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Davis is a 63-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in his chest that radiates to his left arm. The pain started about 1 hour ago and has been constant since then. He rates the pain as a 7 out of 10 in severity. He denies any shortness of breath, lightheadedness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Denies cough, wheezing, or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Positive for left arm pain radiating from the chest.",
+    "skin": "No rashes, lesions, or discoloration noted.",
+    "neurologic": "No symptoms of altered mental status or neurological deficits."
+  },
+  "past_medical_history": "Mr. Davis has a past medical history of hypertension, hyperlipidemia, and obesity.",
+  "medications": "He is currently taking metoprolol, lisinopril, and atorvastatin.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Family history is significant for coronary artery disease in his father.",
+  "social_history": "Mr. Davis is a current smoker with a 50 pack-year history. He denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jaclyn Miller",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jaclyn Miller, a 45-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started suddenly approximately one hour ago while she was at rest. The pain is described as a crushing sensation in the center of her chest that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. Upon arrival, the patient had an elevated blood pressure of 160/95 mmHg and a heart rate of 100 beats per minute. An electrocardiogram was performed, which showed ST segment elevation in leads II, III, avF, V4, V5, and V6. These findings are consistent with acute ST-elevation myocardial infarction (STEMI). The patient was started on oxygen, aspirin, nitroglycerin, and morphine. She was also given sublingual nitroglycerin, which provided partial relief of her symptoms. The patient is currently stable but will require further evaluation and management.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain and shortness of breath mentioned previously, the patient denies any palpitations or lower extremity edema.",
+    "respiratory": "The patient reports shortness of breath but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain, muscle weakness, or fractures.",
+    "skin": "The patient denies any skin rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is not currently taking any medications for these conditions.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. There is no history of other cardiovascular diseases or other significant medical conditions in the family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and is married with two children."
+}

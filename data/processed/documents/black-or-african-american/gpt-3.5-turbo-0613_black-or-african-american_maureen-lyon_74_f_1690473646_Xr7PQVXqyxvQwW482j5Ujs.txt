@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maureen Lyon",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Maureen Lyon, a 74-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the chest pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. The pain radiates to her left arm and jaw. The patient denies any associated shortness of breath, diaphoresis, or nausea. She states that the pain is 6/10 in intensity and non-radiating. On further questioning, the patient reports a history of hypertension and hyperlipidemia. She denies any recent illnesses or trauma. She states that she is currently taking lisinopril and atorvastatin for her medical conditions. The patient also reports a past surgical history of cholecystectomy. There is no significant family history of heart disease. The patient does not smoke and denies any alcohol or drug use. She lives alone and is independent in her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations, lightheadedness, or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "There are no urinary symptoms reported by the patient.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "No rashes or skin changes are reported by the patient.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "1. Hypertension\n2. Hyperlipidemia",
+  "medications": "1. Lisinopril - 20 mg once daily\n2. Atorvastatin - 40 mg once daily",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No significant family history of heart disease",
+  "social_history": "The patient does not smoke and denies any alcohol or drug use. She lives alone and is independent in her activities of daily living."
+}

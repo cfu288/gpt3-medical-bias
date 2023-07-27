@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elwin Poston",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe retrosternal chest pain that started about 3 hours ago. He describes the pain as a crushing sensation, radiating to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient also reports nausea and lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Reports feeling weak and fatigued",
+    "cardiovascular": "Chest pain; no palpitations or edema",
+    "respiratory": "Shortness of breath with exertion",
+    "gi": "Nausea",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": "Lightheadedness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, type 2 diabetes",
+  "medications": "Chlorthalidone 25 mg daily, atorvastatin 40 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "Appendectomy at age 35",
+  "family_history": "Father had a myocardial infarction in his 60s",
+  "social_history": "Retired plumber; former smoker; no alcohol or illicit drug use"
+}
+```

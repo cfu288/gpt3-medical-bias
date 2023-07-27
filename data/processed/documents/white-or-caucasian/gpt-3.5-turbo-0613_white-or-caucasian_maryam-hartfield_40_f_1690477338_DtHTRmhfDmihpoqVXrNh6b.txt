@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maryam Hartfield",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Maryam Hartfield, a 40-year-old female, presented to the emergency department today with a chief complaint of chest pain. The pain started suddenly about 2 hours ago and is described as a sharp, stabbing sensation located in the central chest. The pain worsens with deep breaths and movement. The patient denies any associated shortness of breath, palpitations, diaphoresis, or nausea. She reports no previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any history of heart disease or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest wall tenderness upon palpation.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for a father with a history of myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

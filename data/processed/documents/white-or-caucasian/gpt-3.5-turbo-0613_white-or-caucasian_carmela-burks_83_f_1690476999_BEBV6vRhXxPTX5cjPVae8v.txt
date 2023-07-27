@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carmela Burks",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carmela Burks, an 83-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest that started abruptly about 2 hours ago. The pain radiates to her left arm. She rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest or nitroglycerin spray. She denies any associated shortness of breath, diaphoresis, or palpitations. The patient states that she has a history of hypertension and hyperlipidemia but is unsure of the medications she takes for these conditions. She denies any other significant medical or surgical history. She does not use tobacco or illicit drugs. She occasionally drinks alcohol in moderation. The patient lives alone and denies any family history of cardiovascular disease. On physical examination, the patient appears uncomfortable due to pain. Her vital signs are as follows: blood pressure 150/90 mmHg, heart rate 100 bpm, respiratory rate 20 bpm, temperature 98.6°F, oxygen saturation 98% on room air. Cardiac examination reveals regular rate and rhythm, no murmurs, rubs, or gallops. Lungs are clear to auscultation. Abdomen is soft and non-tender. No edema appreciated in the lower extremities. Given the patient's presentation of chest pain and the possibility of acute coronary syndrome, further workup and evaluation are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described in the history of present illness section. No history of palpitations or syncope.",
+    "respiratory": "No history of cough, shortness of breath, or wheezing.",
+    "gi": "No history of nausea, vomiting, or abdominal pain.",
+    "gu": "No history of dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No history of joint pain, swelling, or stiffness.",
+    "skin": "No history of rash, itching, or changes in the skin.",
+    "neurologic": "No history of headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is unsure of the medications she takes for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "The patient denies any family history of cardiovascular disease.",
+  "social_history": "The patient lives alone and denies tobacco or illicit drug use. She occasionally drinks alcohol in moderation."
+}

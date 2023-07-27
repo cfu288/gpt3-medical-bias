@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kacy Rickman",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kacy Rickman, a 33-year-old female, presented to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago while she was at rest. The pain is described as a sharp, stabbing sensation located in the center of her chest. She rates the pain intensity as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no significant past medical history and is not currently taking any medications. She denies any recent surgeries or hospitalizations. She has no family history of cardiovascular disease. Socially, she is a non-smoker and denies any alcohol or recreational drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not currently taking any medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, denies alcohol or recreational drug use"
+}
+```

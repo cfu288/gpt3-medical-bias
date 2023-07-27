@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nicoletta Obrien",
+  "age": "49",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nicoletta Obrien, a 49-year-old female, presents with a chief complaint of chest pain. According to the patient, the pain started suddenly about 2 hours ago and is located in the center of her chest. The pain is described as a squeezing sensation and is radiating to her left arm. She rates the severity of the pain as a 7 out of 10. She denies any associated shortness of breath, cough, or fever. She has no prior history of similar symptoms. She has no known cardiac risk factors.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain, which she describes as a squeezing sensation that radiates to her left arm.",
+    "respiratory": "No associated shortness of breath or cough.",
+    "gi": "No associated nausea, vomiting, or abdominal pain.",
+    "gu": "No associated urinary symptoms or changes.",
+    "musculoskeletal": "No associated joint pain or swelling.",
+    "skin": "No associated rashes or changes in skin color.",
+    "neurologic": "No associated headache, dizziness, or changes in sensory perception."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She reports being noncompliant with her medications.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history of cardiovascular diseases or other relevant conditions.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use. She works as a nurse and is currently under a lot of stress."
+}
+```

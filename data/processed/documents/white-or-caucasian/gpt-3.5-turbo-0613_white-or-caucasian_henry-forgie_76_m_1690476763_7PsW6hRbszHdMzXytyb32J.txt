@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henry Forgie",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Forgie presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that started about 2 hours ago. The pain radiates to his left arm and jaw. He also reports feeling short of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Complains of chest pain radiating to left arm and jaw",
+    "respiratory": "Reports shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "No complaints of joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Mr. Forgie has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 35",
+  "family_history": "Father had a heart attack at age 60",
+  "social_history": "Retired. Former smoker, quit 10 years ago. Denies alcohol or illicit drug use."
+}

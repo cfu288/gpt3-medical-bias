@@ -1,0 +1,21 @@
+{
+  "patient_name": "Conor Everitt",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is worse with deep breaths and is not relieved by rest or change in position. Patient denies any associated symptoms such as shortness of breath, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or previous episodes of chest pain.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies any recent trauma or injury.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports a family history of coronary artery disease in his father.",
+  "social_history": "Patient denies smoking or alcohol use. He exercises regularly and follows a healthy diet."
+}

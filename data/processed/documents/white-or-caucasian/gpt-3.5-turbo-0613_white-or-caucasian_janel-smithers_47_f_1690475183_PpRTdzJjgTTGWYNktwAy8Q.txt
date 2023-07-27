@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janel Smithers",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a sudden onset of chest pain. The pain is located in the center of the chest and radiates to the left arm. It is described as a squeezing sensation and is associated with shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past. The pain started approximately 2 hours ago and has been constant since then.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No known past surgical history",
+  "family_history": "Mother has a history of coronary artery disease",
+  "social_history": "Patient is a nonsmoker and denies alcohol or drug use"
+}

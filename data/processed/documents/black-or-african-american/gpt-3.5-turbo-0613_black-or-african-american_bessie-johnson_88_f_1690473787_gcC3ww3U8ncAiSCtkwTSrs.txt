@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bessie Johnson",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Bessie Johnson, an 88-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8/10 in intensity. The pain is not relieved by rest or nitroglycerin. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Patient states that she has a history of angina and has been previously diagnosed with coronary artery disease. She has no known allergies to medications. Additionally, she states that she takes aspirin daily as a preventative measure for heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient states that she has a history of hypertension and takes medication to control it. No palpitations or irregular heartbeats reported.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports no abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes, lesions, or skin changes reported.",
+    "neurologic": "No numbness, weakness, or changes in coordination reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, coronary artery disease, and angina.",
+  "medications": "The patient takes daily medications including amlodipine for hypertension and aspirin for prevention of heart disease.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of heart disease, with her father having a history of myocardial infarction.",
+  "social_history": "The patient is a retired teacher and lives alone. She is a non-smoker and denies any alcohol or illicit drug use."
+}

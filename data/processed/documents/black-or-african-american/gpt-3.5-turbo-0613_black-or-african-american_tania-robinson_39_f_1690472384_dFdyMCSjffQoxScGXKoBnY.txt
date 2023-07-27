@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tania Robinson",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tania Robinson, a 39-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain began approximately 1 hour ago. She describes the pain as a sharp, stabbing sensation located in the center of her chest. She rates the pain as 8 out of 10 in severity. The pain is constant and not relieved by rest or change in position. She denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations or edema.",
+    "respiratory": "The patient denies shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash, itching, or changes in moles.",
+    "neurologic": "The patient denies headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease, with her father having a heart attack at age 55.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

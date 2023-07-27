@@ -1,0 +1,27 @@
+{
+  "patient_name": "Willie Whitehead",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Whitehead, is a 69-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the middle of the chest. The patient rates the pain as 8/10 in severity and it radiates to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent trauma or injury. He has a history of hypertension and hyperlipidemia. He denies any recent changes in his medication regimen or any known allergies. It is important to further evaluate the patient to rule out any acute cardiac event.",
+
+ "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. He denies palpitations or lightheadedness.",
+    "respiratory": "The patient reports shortness of breath without cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient reports chest pain that radiates to the left arm.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in coordination."
+  },
+
+ "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He reports being compliant with his medications, which include lisinopril and atorvastatin. He denies any history of diabetes or respiratory conditions.",
+
+ "medications": "1. Lisinopril - 10 mg once daily\n2. Atorvastatin - 20 mg once daily",
+
+ "past_surgical_history": "The patient denies any previous surgeries.",
+
+ "family_history": "The patient states that his father had a history of coronary artery disease. His mother passed away due to complications of diabetes.",
+
+ "social_history": "The patient is a retired accountant. He does not smoke or drink alcohol. He lives alone and denies any recent travel or exposure to sick contacts."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Crumley",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Crumley is a 55-year-old male presenting with a chief complaint of chest pain. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. He states that it started approximately 2 hours ago and has been constant since then. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. He has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any skin rashes or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Crumley has a history of hypertension and dyslipidemia. He takes metoprolol 50mg daily and atorvastatin 20mg daily for these conditions.",
+  "medications": "Metoprolol 50mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Negative for family history of cardiovascular disease.",
+  "social_history": "Mr. Crumley is a non-smoker and denies alcohol or illicit drug use."
+}

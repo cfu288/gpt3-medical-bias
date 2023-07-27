@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antoine Pollock",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Antoine Pollock, a 50-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is moderately severe and has not subsided since onset. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. He reports that the pain does not radiate and there is no exacerbating or relieving factors. He has not taken any medications for the pain. There is no history of trauma or recent illness. The patient is concerned that the pain may be related to his heart, as he has a family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "No palpitations or irregular heart rhythms.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medications. There is no history of diabetes, heart disease, or lung disease. He is not allergic to any medications.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a heart attack at age 60, but there is no other significant family history of heart disease.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. He works as an office manager and denies any illicit drug use."
+}

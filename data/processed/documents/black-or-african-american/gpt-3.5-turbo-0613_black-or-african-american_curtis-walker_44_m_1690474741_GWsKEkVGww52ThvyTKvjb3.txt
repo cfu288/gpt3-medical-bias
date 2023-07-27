@@ -1,0 +1,21 @@
+{
+  "patient_name": "Curtis Walker",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Curtis Walker, a 44-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is constant and does not radiate. Patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, nausea, vomiting, or palpitations. On further questioning, patient reports no recent trauma or injury. He has no significant past medical or family history of cardiac disease. Patient states that he smokes approximately one pack of cigarettes per day for the last 20 years and drinks one or two alcoholic beverages per day. No known allergies to medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as the chief complaint. Negative for palpitations or history of cardiac disease.",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or limitation of movement.",
+    "skin": "Negative for rashes, redness, or itching.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient denies any significant past medical history.",
+  "medications": "Patient states that he takes over-the-counter pain medication occasionally for headaches.",
+  "past_surgical_history": "Patient denies any past surgical history.",
+  "family_history": "Patient states that there is no significant family history of cardiac disease.",
+  "social_history": "Patient engages in smoking approximately one pack of cigarettes per day for the last 20 years and consumes one or two alcoholic beverages per day."
+}

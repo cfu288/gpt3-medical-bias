@@ -1,0 +1,33 @@
+{
+  "patient_name": "Delmar Jones",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Delmar Jones, a 74-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago, while the patient was at rest. He describes the pain as a tightness and pressure in the center of his chest. The pain radiates to his left arm and jaw. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. 
+  
+  
+The patient has a history of hypertension and hyperlipidemia. He takes lisinopril daily for blood pressure control and simvastatin for lipid management. His last blood pressure reading at home was 140/85 mmHg. He has never had any cardiac procedures or surgeries in the past.
+  
+  
+Upon arrival, the patient's vital signs are as follows: 
+- Blood pressure: 160/95 mmHg
+- Heart rate: 85 beats per minute
+- Respiratory rate: 18 breaths per minute
+- Oxygen saturation: 98% on room air
+  
+Based on his presentation, there is a concern for possible acute coronary syndrome. The patient has been admitted to the cardiac monitoring unit and an EKG has been ordered.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril daily for blood pressure control and simvastatin for lipid management.",
+  "past_surgical_history": "The patient has never had any cardiac procedures or surgeries in the past.",
+  "family_history": "The patient denies any family history of heart disease or sudden cardiac death.",
+  "social_history": "The patient is retired and lives alone. He used to smoke 1 pack of cigarettes per day for 30 years but quit 10 years ago. He denies any alcohol or illicit drug use."
+}

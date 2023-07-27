@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sylvester Ross",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sylvester Ross, a 60-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left shoulder and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. On further questioning, the patient reports a history of hypertension, dyslipidemia, and smoking. He states that he takes daily medications for his hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports chest pain as his only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or wounds.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia.",
+  "medications": "The patient takes daily medications for his hypertension and dyslipidemia.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father.",
+  "social_history": "The patient has a 30 pack-year smoking history. He does not consume alcohol or use recreational drugs."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mel Mielke",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mel Mielke, a 60-year-old male, presented to the emergency department with complaints of chest pain. The pain started 2 hours prior to arrival and is located in the center of the chest. The pain is described as a squeezing sensation, radiating to the left arm. The patient rates the pain intensity as 8 out of 10. He denies any associated symptoms such as shortness of breath, palpitations, diaphoresis, or nausea. The patient has a history of hypertension and hyperlipidemia. He recently started a new medication, atorvastatin, for his hyperlipidemia. He denies any previous surgeries. The patient's father had a myocardial infarction at the age of 65. He is a retired accountant and denies any tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Positive for chest pain radiating to the left arm as described in the history of present illness.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or weakness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at the age of 65.",
+  "social_history": "Retired accountant, denies tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosemary Williams",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mrs. Williams presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation that started suddenly about an hour ago. The pain is located in the center of her chest and radiates to her left arm. She rates the pain as a 7 on a scale of 1 to 10. She denies any shortness of breath, dizziness, or palpitations. She is concerned that this could be a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats.",
+    "cardiovascular": "Reports chest pain as previously described.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "Reports no joint pain or muscle weakness.",
+    "skin": "Denies any rashes or lesions on the skin.",
+    "neurologic": "Denies headache, vision changes, or weakness."
+  },
+  "past_medical_history": "Mrs. Williams has a history of hypertension and hyperlipidemia. She regularly takes medications for these conditions.",
+  "medications": "Patient takes metoprolol for hypertension, atorvastatin for hyperlipidemia, and aspirin for cardiovascular protection.",
+  "past_surgical_history": "The patient had a cholecystectomy 2 years ago.",
+  "family_history": "Patient's mother had a history of hypertension and her father had a history of heart disease.",
+  "social_history": "Patient denies tobacco use and reports social drinking on occasion."
+}

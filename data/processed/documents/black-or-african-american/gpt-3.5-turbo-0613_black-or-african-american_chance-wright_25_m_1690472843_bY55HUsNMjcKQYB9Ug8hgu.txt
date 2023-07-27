@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chance Wright",
+  "age": "25",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wright is a 25-year-old male who presents to the emergency department with complaints of chest pain. The pain began approximately 3 hours ago and is described as a sharp, stabbing sensation in the center of the chest. He rates the pain as 8/10 in severity. The pain is not associated with any specific triggers and is not relieved with rest. He denies any shortness of breath, palpitations, or lightheadedness. He has no previous history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria or changes in urinary habits",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or changes in sensation"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Mr. Wright is a non-smoker and denies any alcohol or drug use."
+}
+```

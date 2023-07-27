@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elton Williams",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elton Williams, a 50-year-old male, presents to the emergency department with complaints of chest pain. He reports that the pain started approximately 1 hour ago and is located in the center of his chest. The pain is described as squeezing and radiates down his left arm. He rates the pain as 8/10 in intensity. The pain is not relieved by rest and is associated with shortness of breath and diaphoresis. He denies any prior episodes of similar chest pain. He has a history of hypertension and hyperlipidemia. Upon further questioning, he reports no recent illnesses, injuries, or other significant medical events.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath, as previously mentioned.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing, other than that associated with the chest pain.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports pain in his left arm, as previously mentioned.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient reports no neurological symptoms such as headache, dizziness, or numbness or weakness in the extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is taking lisinopril for his hypertension and atorvastatin for his hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient reports no prior surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as an office manager and is married with two children."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ken Fogle",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Fogle, is a 60-year-old male who presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp and crushing sensation, radiating to the left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports no recent trauma or physical exertion prior to the onset of symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 20mg daily and simvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no history of any major surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is retired and lives with his wife."
+}

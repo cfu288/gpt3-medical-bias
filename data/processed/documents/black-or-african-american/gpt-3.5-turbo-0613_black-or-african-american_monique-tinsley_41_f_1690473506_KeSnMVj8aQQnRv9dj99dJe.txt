@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Monique Tinsley",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Monique Tinsley presents to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation that radiates to her left arm. She also reports shortness of breath, nausea, and diaphoresis. The patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. She denies palpitations, dizziness, or syncope.",
+    "respiratory": "The patient reports shortness of breath. She denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

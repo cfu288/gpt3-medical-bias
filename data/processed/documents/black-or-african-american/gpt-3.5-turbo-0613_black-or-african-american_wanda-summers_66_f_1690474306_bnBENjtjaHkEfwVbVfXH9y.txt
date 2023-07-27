@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wanda Summers",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Wanda Summers, a 66-year-old female, presented to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. The pain is described as a sharp, squeezing sensation and radiates to her left arm and jaw. She rates the pain intensity as 8 out of 10. The pain is constant and worsens with deep breathing and movement. She denies any associated shortness of breath, nausea, or diaphoresis. The patient has no known history of cardiac disease but has a family history of coronary artery disease. She is concerned that the pain may be related to her heart. On further questioning, the patient reports that she has been experiencing intermittent chest discomfort for the past few weeks, but this is the most severe episode she has had. The patient denies any recent illness or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss or fever",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Positive for chest pain and jaw pain",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is a family history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and does not use any recreational drugs."
+}

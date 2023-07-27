@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Lesly Fraser",
+  "age": "22",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lesly Fraser, a 22-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started two hours ago and is described as a sharp, stabbing sensation in the center of her chest. There is no radiation of the pain and it is not associated with any shortness of breath or diaphoresis. The pain is exacerbated by deep inspiration and alleviated by sitting forward. The patient denies any recent trauma or illness. She has no history of similar episodes in the past. Onset of symptoms was spontaneous. There is no relief with antacids.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or syncope.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any regular medications or over-the-counter drugs.",
+  "past_surgical_history": "The patient has never undergone any surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is currently a student and lives a sedentary lifestyle."
+}
+```

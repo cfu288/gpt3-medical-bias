@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lionel Johnson",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain began approximately 2 hours prior to presentation and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8 out of 10 in severity. The pain is not relieved with rest and is associated with shortness of breath. On examination, the patient appears diaphoretic and is clutching his chest. Vital signs show a blood pressure of 150/90 mmHg, heart rate of 110 beats per minute, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is taking lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

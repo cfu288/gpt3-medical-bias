@@ -1,0 +1,21 @@
+{ 
+  "patient_name": "Cecile Jones",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 86-year-old female named Cecile Jones, presents to the emergency department with chief complaint of chest pain. The patient reports the pain started approximately 2 hours ago while at home and has persisted since then. The pain is described as a crushing sensation in the center of the chest and radiating to the left arm. The patient rates the pain as 8 out of 10 on a pain scale. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient states she has a known history of coronary artery disease and has previously undergone a coronary bypass surgery. She reports a similar episode of chest pain in the past that was found to be due to a myocardial infarction. The patient was prescribed nitroglycerin to relieve chest pain, and she states she has taken two doses without relief. She denies any recent trauma or injury. The patient expresses concern and fears she may be having another heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports the chest pain as the only cardiovascular symptom at present.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "Coronary artery disease, myocardial infarction, coronary bypass surgery",
+  "medications": "Nitroglycerin",
+  "past_surgical_history": "Coronary bypass surgery",
+  "family_history": "The patient denies any significant family history of cardiac or other diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs."
+}

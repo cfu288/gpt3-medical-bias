@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Twila Darty",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Twila Darty, a 54-year-old female, presents to the emergency department with complaints of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain that started approximately 2 hours ago. She describes the pain as 7/10 in intensity, substernal, radiating to her left arm. She does not have any associated shortness of breath, palpitations, or syncope.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

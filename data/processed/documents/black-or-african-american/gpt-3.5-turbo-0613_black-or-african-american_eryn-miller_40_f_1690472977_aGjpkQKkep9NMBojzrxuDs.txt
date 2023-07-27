@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eryn Miller",
+  "age": "40",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient states the pain is constant and has not improved with rest. Denies any associated shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain radiating to the left arm and jaw.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and simvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "Patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

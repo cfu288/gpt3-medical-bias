@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleveland Duncombe",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates down his left arm. He rates the pain as 8/10 in severity. The pain started approximately 2 hours ago while he was at rest. He denies any associated shortness of breath, diaphoresis, nausea, or vomiting. He has no history of similar chest pain episodes in the past. Given the potential seriousness of his symptoms, further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin as prescribed.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Family history is significant for coronary artery disease in his father and brother.",
+  "social_history": "Patient is a current smoker with a 40 pack-year history. He consumes alcohol occasionally and denies any illicit drug use."
+}

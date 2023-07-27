@@ -1,0 +1,21 @@
+{
+  "patient_name": "Francesca Mack",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Francesca Mack presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about 1 hour ago. The pain is described as a sharp, squeezing sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as chief complaint.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Positive for left arm pain.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no known surgical history.",
+  "family_history": "Patient's mother and sister both have a history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vernon Johnson",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Johnson is a 67-year-old male who presented to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is a 9 out of 10 in severity. The pain is located in the center of his chest and radiates to his left arm. The patient also complains of shortness of breath and sweating. He denies any previous history of chest pain. On physical examination, the patient appears anxious and diaphoretic. His vital signs are as follows: blood pressure 150/90 mmHg, heart rate 100 bpm, respiratory rate 20 bpm, oxygen saturation 98% on room air. The patient's lungs are clear to auscultation bilaterally, and his heart sounds are normal. There is no swelling or tenderness noted in the extremities. The patient's abdominal examination is unremarkable. Neurological examination reveals no focal deficits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain and shortness of breath. Denies palpitations or lower extremity swelling.",
+    "respiratory": "The patient reports shortness of breath. Denies cough or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, blurred vision, or changes in speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65. There is no history of cancer or other significant illnesses in the family.",
+  "social_history": "The patient is a retired accountant. He is a non-smoker and denies alcohol or illicit drug use."
+}

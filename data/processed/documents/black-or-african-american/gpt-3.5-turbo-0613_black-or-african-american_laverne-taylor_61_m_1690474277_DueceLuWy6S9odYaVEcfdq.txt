@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laverne Taylor",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Taylor is a 61-year-old male who presented to the emergency department with complaints of severe chest pain. The pain started suddenly and is located in the center of his chest. He describes the pain as a crushing sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any recent trauma or exertion. Upon arrival, his vital signs were stable except for an elevated blood pressure of 170/100 mmHg. He has a history of hypertension and takes medication for it. Given the possibility of a cardiac event, an electrocardiogram was obtained, which showed changes consistent with ST-segment elevation myocardial infarction (STEMI). He was immediately started on aspirin and given nitroglycerin sublingually. He has been admitted to the cardiac care unit for further management.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue.",
+    "cardiovascular": "Chest pain.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, weakness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Losartan 50 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "Cholecystectomy in 2010.",
+  "family_history": "Father with history of myocardial infarction at age 65.",
+  "social_history": "Retired truck driver. Former smoker, quit 10 years ago. No history of alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patsy Smith",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Patsy Smith, an 80-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, squeezing sensation in the center of her chest. The pain is radiating down her left arm and jaw. She rates the pain as 8/10 in severity and states that it began approximately 30 minutes ago. The pain is not relieved with rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described in the history of present illness section.",
+    "respiratory": "The patient denies any shortness of breath, cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports pain radiating down the left arm and jaw, as described in the history of present illness section.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with medication. She also has a history of hyperlipidemia and takes a statin medication for management.",
+  "medications": "1. Metoprolol 25 mg daily\n2. Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has a history of appendectomy at age 40 and cholecystectomy at age 60.",
+  "family_history": "The patient reports a family history of coronary artery disease in both parents, with her father having a myocardial infarction at age 65.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives independently and is able to perform her activities of daily living without assistance."
+}

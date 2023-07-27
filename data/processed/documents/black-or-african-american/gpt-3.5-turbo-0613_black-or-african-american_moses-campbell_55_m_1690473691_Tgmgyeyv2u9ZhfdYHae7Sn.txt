@@ -1,0 +1,21 @@
+{
+  "patient_name": "Moses Campbell",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Moses Campbell, a 55-year-old male, presents to the Emergency Department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in his chest that started approximately 2 hours ago. The pain radiates to his left shoulder and jaw. He rates the intensity of the pain as 8 out of 10. He also reports associated symptoms of shortness of breath, nausea, and diaphoresis. The patient denies any history of similar chest pain in the past. Onset of symptoms was sudden and he has not attempted any self-treatment measures. He states that rest does not relieve the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Positive for shortness of breath as described above. Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or changes in urinary output.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "The patient takes metoprolol for hypertension and atorvastatin for hypercholesterolemia.",
+  "past_surgical_history": "The patient had an appendectomy at age 30.",
+  "family_history": "Positive for cardiovascular disease in the patient's father.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use. He is married and works as an accountant."
+}

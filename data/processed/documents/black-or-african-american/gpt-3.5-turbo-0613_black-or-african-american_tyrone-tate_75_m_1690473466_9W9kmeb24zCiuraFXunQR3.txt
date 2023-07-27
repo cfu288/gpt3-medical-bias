@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tyrone Tate",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Tyrone Tate, a 75-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a sharp, crushing pain in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8/10 in severity. He denies any associated shortness of breath, diaphoresis, nausea, or vomiting. The patient has a past medical history of hypertension, hyperlipidemia, and diabetes mellitus. He is currently taking medications for these conditions, which include lisinopril, atorvastatin, and metformin. There is no history of any recent surgeries. The patient reports a family history of heart disease, with his father having a heart attack at the age of 65. In terms of social history, the patient is a retired accountant and does not smoke or drink alcohol. He denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, diabetes mellitus",
+  "medications": "Lisinopril, atorvastatin, metformin",
+  "past_surgical_history": "",
+  "family_history": "Father had a heart attack at the age of 65",
+  "social_history": "Retired accountant, non-smoker, non-drinker, no illicit drug use"
+}

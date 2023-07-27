@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dewayne Davis",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Davis is a 57-year-old male who presents to the emergency department with complaints of severe chest pain. He describes the pain as a tightness in his chest that radiates down his left arm. The pain started approximately 30 minutes ago and has been constant since then. He states that it is the worst chest pain he has ever experienced and that it is associated with shortness of breath. He denies any recent illnesses or injuries. He has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and night sweats.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, and shortness of breath at rest.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, and changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, and hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or deformities.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, numbness, and tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient has a 30-pack-year smoking history and currently smokes 1 pack of cigarettes per day. He denies any alcohol or illicit drug use."
+}
+```

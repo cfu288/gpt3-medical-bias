@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leonard Bailey",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bailey presents to the emergency department with complaints of severe chest pain that began approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest that radiates to the left arm. The patient also reports shortness of breath and diaphoresis. The pain is not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or numbness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Atenolol 50mg once daily, Lisinopril 20mg once daily, Simvastatin 40mg once daily",
+  "past_surgical_history": "Appendectomy 10 years ago",
+  "family_history": "Father had a heart attack at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

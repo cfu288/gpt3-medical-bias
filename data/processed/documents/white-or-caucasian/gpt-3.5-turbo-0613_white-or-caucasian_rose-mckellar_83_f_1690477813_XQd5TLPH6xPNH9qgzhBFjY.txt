@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rose Mckellar",
+  "age": "83",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rose Mckellar, an 83-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started approximately 1 hour ago while she was resting at home. It is a sharp, stabbing pain located in the center of her chest. She rates the severity of the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She states that the pain has not radiated and is not relieved by rest or nitroglycerin. She does not have a history of similar symptoms in the past. Given the concerning nature of her presenting complaint, further evaluation is warranted to rule out acute coronary syndrome and other possible causes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, or fatigue.",
+    "cardiovascular": "Reports chest pain as described above. Denies palpitations or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rashes, itching, or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father and a sister.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. Patient lives alone and is independent with activities of daily living."
+}

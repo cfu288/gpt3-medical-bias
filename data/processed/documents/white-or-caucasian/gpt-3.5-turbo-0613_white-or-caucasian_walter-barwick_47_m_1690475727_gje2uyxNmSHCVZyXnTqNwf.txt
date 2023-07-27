@@ -1,0 +1,21 @@
+{
+  "patient_name": "Walter Barwick",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Walter Barwick, a 47-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation on the left side of his chest. The pain is intermittent and worsens with deep breathing and movement. He denies any associated shortness of breath, diaphoresis, or radiation to other areas. Rest and nitroglycerin have not provided any relief. He rates the pain as an 8 out of 10 in severity. The patient has a past medical history significant for hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions. He denies any recent surgeries or significant family history of cardiovascular disease. His social history is significant for smoking approximately 10 cigarettes per day for the past 20 years. He does not drink alcohol or use any recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Denies any cough, shortness of breath, or sputum production.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Reports chest pain as the only musculoskeletal symptom.",
+    "skin": "Denies any skin rashes, lesions, or changes.",
+    "neurologic": "Denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Smokes approximately 10 cigarettes per day for the past 20 years. Does not drink alcohol or use any recreational drugs."
+}

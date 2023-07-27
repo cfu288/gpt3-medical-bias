@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonas Smith",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jonas Smith, a 32-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is described as a sharp, stabbing sensation in the center of his chest. He rates the pain as a 7 out of 10 in severity. The pain is intermittent and worsens with deep breathing. There is no radiation of pain to his arms, jaw, or back. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or edema reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing mentioned.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or stiffness mentioned.",
+    "skin": "No rashes, lumps, or lesions mentioned.",
+    "neurologic": "No symptoms of headache, dizziness, or weakness reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking losartan for it.",
+  "medications": "Losartan 50mg once daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Laraine Jones",
+  "age": "82",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 82-year-old female, presents to the emergency department with chief complaint of chest pain. The patient states that the pain started approximately 1 hour ago and is located centrally in the chest. The pain is described as a tightness and pressure and radiates to the left arm. The patient rates the pain as 7 out of 10. She denies any shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Mother had myocardial infarction at age 75. Father passed away from natural causes at age 80.",
+  "social_history": "Retired school teacher. Non-smoker. Social alcohol drinker."
+}

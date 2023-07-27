@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elliott White",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started suddenly while the patient was at rest and is described as a crushing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient also reports shortness of breath and sweating. The patient denies any previous episodes of chest pain or similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath, but denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies rashes, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently on losartan and atorvastatin.",
+  "medications": "Losartan 50mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 58.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or recreational drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Willie White",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. He described the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The patient denies any shortness of breath or nausea, but admits to sweating profusely. The pain is not relieved with rest. No prior history of similar symptoms. Patient was immediately brought to the emergency department by emergency medical services.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or night sweats",
+    "cardiovascular": "Positive for chest pain as described above, no palpitations or dizziness",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or changes in urine frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes, lesions, or wounds",
+    "neurologic": "No headache, dizziness, or numbness/weakness in extremities"
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled with lisinopril 10mg daily",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for family history of coronary artery disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use"
+}
+```

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Bobbie Jackson",
+  "age": "82",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. She reports that the pain started about 3 hours ago. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain radiates down her left arm and has been constant since it started. The patient denies any shortness of breath, palpitations, or dizziness. She also denies any recent trauma or injury. Upon further questioning, the patient states that she has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or redness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes medication for it.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient is unsure of her family medical history.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or drink alcohol."
+}

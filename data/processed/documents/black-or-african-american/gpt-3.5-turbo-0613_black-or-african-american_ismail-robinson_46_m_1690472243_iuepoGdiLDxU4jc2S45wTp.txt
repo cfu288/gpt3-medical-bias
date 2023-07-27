@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ismail Robinson",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Robinson is a 46-year-old male presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a tightness across the chest. He rates the pain as a 7/10 on the pain scale and reports that it radiates to his left arm. He also reports shortness of breath and nausea. The patient denies any recent trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain and radiation to the left arm.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Robinson has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for blood pressure control and simvastatin 20 mg daily for cholesterol management.",
+  "past_surgical_history": "There is no past surgical history of note.",
+  "family_history": "The patient's father had a myocardial infarction at age 58.",
+  "social_history": "Mr. Robinson is a current smoker with a 20 pack-year history. He does not use alcohol or illicit drugs."
+}

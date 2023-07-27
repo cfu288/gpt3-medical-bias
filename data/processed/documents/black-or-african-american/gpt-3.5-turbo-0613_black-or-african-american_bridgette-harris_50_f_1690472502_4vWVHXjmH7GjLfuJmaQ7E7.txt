@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bridgette Harris",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bridgette Harris, a 50-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a sharp, stabbing sensation in her chest that began approximately 2 hours ago. The pain is localized to the left side of her chest and radiates to her left arm. She rates the pain as 8 out of 10 in severity. The patient denies any shortness of breath, nausea, or diaphoresis. However, she does report mild lightheadedness. The patient states that the pain is constant and worsens with deep inspiration and movement. She is also experiencing some mild discomfort in her jaw. The patient denies any recent trauma or injury. She has no history of chest pain, heart disease, or diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Positive for mild lightheadedness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril for her hypertension and atorvastatin for her hyperlipidemia. She is otherwise healthy.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55. Otherwise, the patient's family history is unremarkable.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and lives with her husband and two children."
+}

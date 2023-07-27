@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie Hyman",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 84-year-old female named Bettie Hyman, presented to the emergency department with a chief complaint of chest pain. According to the patient, the chest pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of her chest. The pain is radiating to her left arm and jaw. She rates the pain intensity as 8 out of 10. The pain is not relieved with rest or nitroglycerin. She denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness. On further questioning, the patient reports a history of hypertension, hyperlipidemia, and type 2 diabetes. She has been compliant with her medications which include lisinopril, atorvastatin, and metformin.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the main symptom. Otherwise, she denies any palpitations or edema.",
+    "respiratory":"The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, lesions, or wounds.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient is currently taking lisinopril, atorvastatin, and metformin for her medical conditions.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes in her immediate family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

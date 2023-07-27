@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Joline Timothy",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Joline Timothy, an 81-year-old female, presents to the emergency department with complaints of chest pain. The pain is described as a pressure-like sensation, radiating to the left arm. The pain began approximately 2 hours ago and is rated as 7 out of 10 in intensity. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of palpitations and occasional chest pain, but denies any history of arrhythmias or heart attack.",
+    "respiratory": "No complaints of cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No complaints of urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient reports chronic joint pain and stiffness in the knees and hips.",
+    "skin": "No rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any history of strokes, seizures, or numbness/tingling in the extremities."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis. She takes amlodipine and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient lives alone and is independent with activities of daily living. She does not smoke or consume alcohol."
+}
+```

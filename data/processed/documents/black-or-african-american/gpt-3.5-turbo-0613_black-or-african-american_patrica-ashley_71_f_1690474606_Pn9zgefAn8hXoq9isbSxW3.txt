@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patrica Ashley",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency room with complaints of chest pain that started approximately 3 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient rates the pain as a 7 out of 10. She denies any shortness of breath, dizziness, or diaphoresis. The patient has a history of hypertension and takes daily medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats or unintended weight loss.",
+    "cardiovascular": "Patient complains of chest pain as described in the chief complaint. No palpitations or irregular heartbeats reported.",
+    "respiratory": "Patient denies cough, shortness of breath or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency or dysuria.",
+    "musculoskeletal": "Patient reports pain in the left arm associated with chest pain. No other joint pain or muscle aches.",
+    "skin": "Patient denies any skin rash or wounds.",
+    "neurologic": "Patient denies headache, dizziness or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Amlodipine 10mg once daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

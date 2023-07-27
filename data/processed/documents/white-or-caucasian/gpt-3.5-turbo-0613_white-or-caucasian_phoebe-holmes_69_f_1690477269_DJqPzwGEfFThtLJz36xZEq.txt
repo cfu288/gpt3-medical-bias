@@ -1,0 +1,21 @@
+{
+  "patient_name": "Phoebe Holmes",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Phoebe Holmes, a 69-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago, described as a tightness and pressure in the center of the chest. She rates the pain as 8 out of 10 on the pain scale. She denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of pain. The patient states that she has a history of hypertension and dyslipidemia, for which she takes medications. She has never experienced chest pain like this before. She reports that the pain is not relieved with rest or nitroglycerin. In addition, she denies any recent illness or significant stressors. On further questioning, she reports occasional exertional dyspnea and intermittent palpitations. Review of systems is otherwise unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Intermittent palpitations",
+    "respiratory": "Occasional exertional dyspnea",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms"
+  },
+  "past_medical_history": "Hypertension, dyslipidemia",
+  "medications": "Losartan 50 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

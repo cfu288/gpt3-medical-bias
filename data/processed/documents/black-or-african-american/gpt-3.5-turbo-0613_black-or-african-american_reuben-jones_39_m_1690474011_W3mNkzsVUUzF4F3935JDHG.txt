@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reuben Jones",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Reuben Jones, a 39-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is located on the left side of his chest. He describes the pain as a squeezing sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. The pain has not improved with rest. He denies any previous similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain with associated shortness of breath and diaphoresis.",
+    "respiratory": "No cough, wheezing, or shortness of breath other than that associated with chest pain.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No other musculoskeletal complaints.",
+    "skin": "No rashes, lesions, or discoloration.",
+    "neurologic": "No numbness, weakness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol.",
+  "medications": "Lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker, denies alcohol or drug use, and works as a software engineer."
+}

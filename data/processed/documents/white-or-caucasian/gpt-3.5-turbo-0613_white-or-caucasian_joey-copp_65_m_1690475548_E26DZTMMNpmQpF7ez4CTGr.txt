@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joey Copp",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain began approximately 2 hours prior and is described as a crushing sensation in the center of the chest. The patient also reports shortness of breath and sweating. Pain is not relieved with rest. The patient denies any prior episodes of similar pain. Given the severity and the potential for cardiac involvement, an emergent workup was initiated.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling generally unwell and fatigued.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any genitourinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms.",
+    "skin": "Patient denies any skin symptoms.",
+    "neurologic": "Patient reports feeling apprehensive and anxious."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol. He takes medications for both conditions.",
+  "medications": "Lisinopril 20mg daily for hypertension, Atorvastatin 40mg daily for high cholesterol.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 70.",
+  "social_history": "Patient is a former smoker, having quit 20 years ago. He consumes alcohol occasionally and denies any illicit drug use."
+}

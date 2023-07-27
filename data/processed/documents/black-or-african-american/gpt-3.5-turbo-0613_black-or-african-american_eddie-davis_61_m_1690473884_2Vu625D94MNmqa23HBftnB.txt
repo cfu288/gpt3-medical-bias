@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eddie Davis",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Eddie Davis, a 61-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a sharp and squeezing sensation in the center of his chest. The pain began approximately 2 hours ago and has been persisting since then. He rates the pain intensity as 7 out of 10. The pain is radiating to his left arm and jaw. He denies any shortness of breath, nausea, diaphoresis, or palpitations. He denies any similar episodes in the past. On further questioning, he reports that he smoked a pack of cigarettes daily for the past 30 years. He states that the pain started after he was mowing the lawn. He took an over-the-counter antacid, but the pain did not resolve. He is concerned about his symptoms and decided to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "No recent weight loss, fever, or fatigue.",
+    "cardiovascular": "No history of heart disease. No known murmurs.",
+    "respiratory": "No shortness of breath, cough, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 65. No other significant family history.",
+  "social_history": "Patient is a current smoker with a 30 pack-year smoking history. He drinks alcohol occasionally."
+}

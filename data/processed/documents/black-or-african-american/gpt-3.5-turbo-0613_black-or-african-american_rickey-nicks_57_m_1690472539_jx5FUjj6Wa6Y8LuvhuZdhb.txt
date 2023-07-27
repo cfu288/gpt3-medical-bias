@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rickey Nicks",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Nicks, presents to the emergency department with complaints of severe chest pain. The pain started approximately two hours ago and is described as a crushing sensation radiating to his left arm. He rates the intensity of the pain as 9 out of 10. He denies any associated symptoms such as shortness of breath, lightheadedness, or nausea. The patient has a history of hypertension, for which he takes regular medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the primary symptom.",
+    "respiratory": "The patient denies any respiratory symptoms such as cough or shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports pain radiating to his left arm.",
+    "skin": "The patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "The patient denies any neurologic symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and is on regular medication for it.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical interventions.",
+  "family_history": "The patient reports a family history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

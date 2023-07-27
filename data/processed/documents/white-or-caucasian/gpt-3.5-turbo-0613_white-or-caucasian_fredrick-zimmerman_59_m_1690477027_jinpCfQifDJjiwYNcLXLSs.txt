@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fredrick Zimmerman",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Fredrick Zimmerman, a 59-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago while the patient was at rest. The pain is described as a pressure-like sensation in the center of the chest that radiates to the left arm. The patient rates the pain as 8 out of 10 on the pain scale. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a past medical history of hypertension and hyperlipidemia. He takes amlodipine and simvastatin for these conditions. The patient has no known allergies. His past surgical history is significant for an appendectomy. There is no family history of coronary artery disease. The patient smokes a pack of cigarettes per day and drinks alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described in the chief complaint. There are no palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urine color or consistency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, wounds, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and simvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has a past surgical history of an appendectomy.",
+  "family_history": "There is no family history of coronary artery disease.",
+  "social_history": "The patient smokes a pack of cigarettes per day and drinks alcohol occasionally."
+}

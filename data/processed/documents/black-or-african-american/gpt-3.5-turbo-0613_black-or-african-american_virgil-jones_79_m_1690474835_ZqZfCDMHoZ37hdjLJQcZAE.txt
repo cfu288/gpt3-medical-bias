@@ -1,0 +1,21 @@
+{
+  "patient_name": "Virgil Jones",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. He reports that the pain started about 1 hour ago and is substernal in location. He describes the pain as a squeezing sensation that radiates to his left arm. He rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has a history of hypertension and takes medication for it. His vital signs on arrival are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports chest pain as described above.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Reports pain radiating to his left arm.",
+    "skin": "Denies rashes, lesions, or skin changes.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg once daily",
+  "past_surgical_history": "Unremarkable",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

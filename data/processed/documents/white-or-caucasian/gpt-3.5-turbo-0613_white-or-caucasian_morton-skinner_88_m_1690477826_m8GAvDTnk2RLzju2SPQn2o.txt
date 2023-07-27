@@ -1,0 +1,21 @@
+{
+  "patient_name": "Morton Skinner",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started 3 hours ago and is described as a sharp, stabbing sensation located on the left side of the chest. The pain radiates to the left arm and is associated with shortness of breath. Patient denies any previous episodes of similar chest pain. On examination, the patient appears distressed and diaphoretic. Vital signs are as follows: heart rate 110 bpm, blood pressure 160/90 mmHg, respiratory rate 24 breaths per minute, oxygen saturation 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss or weight gain.",
+    "cardiovascular": "Patient reports a history of hypertension and coronary artery disease. He is currently taking medications for these conditions. No palpitations, leg swelling or orthopnea reported.",
+    "respiratory": "Patient reports associated shortness of breath with the chest pain. No cough or sputum production.",
+    "gi": "No nausea, vomiting, abdominal pain or changes in bowel habits reported.",
+    "gu": "No dysuria, frequency or hematuria reported.",
+    "musculoskeletal": "No joint pain, stiffness or limitation of movement reported.",
+    "skin": "No rashes, lesions or itching reported.",
+    "neurologic": "No headaches, dizziness or weakness reported."
+  },
+  "past_medical_history": "Hypertension, coronary artery disease",
+  "medications": "Lisinopril 20mg daily, Metoprolol 50mg twice daily",
+  "past_surgical_history": "Coronary artery bypass graft surgery in 2010",
+  "family_history": "No significant family history of heart disease or other medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

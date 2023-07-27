@@ -1,0 +1,21 @@
+{
+    "patient_name": "Rocky Scott",
+    "age": "65",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Mr. Scott, a 65-year-old male, presents to the emergency department with complaints of chest pain. The pain started earlier today and is located in the center of his chest. He describes the pain as a dull ache with occasional sharp pains. The patient reports that the pain worsens with deep breaths and movement. He denies any associated symptoms such as shortness of breath, nausea, or sweating. The pain is relieved with rest. He has a history of coronary artery disease and has had a previous myocardial infarction.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss.",
+        "cardiovascular": "Chest pain and a history of coronary artery disease.",
+        "respiratory": "No cough, shortness of breath, or wheezing.",
+        "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+        "musculoskeletal": "Chest pain worsens with movement.",
+        "skin": "No rashes, lesions, or changes in skin color.",
+        "neurologic": "No headaches, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Coronary artery disease, previous myocardial infarction.",
+    "medications": "Aspirin 81 mg daily, atorvastatin 40 mg daily, metoprolol tartrate 50 mg twice daily.",
+    "past_surgical_history": "Coronary artery bypass graft surgery.",
+    "family_history": "Father had coronary artery disease and mother had hypertension.",
+    "social_history": "Non-smoker, non-drinker."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odell Peterson",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient reports radiating pain to the left arm and jaw. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia. On physical examination, the patient appears anxious. Vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air. Cardiovascular examination reveals regular rate and rhythm with no murmurs or rubs. Lung sounds are clear bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for radiating pain to left arm and jaw.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiac disease or other significant illnesses.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use."
+}

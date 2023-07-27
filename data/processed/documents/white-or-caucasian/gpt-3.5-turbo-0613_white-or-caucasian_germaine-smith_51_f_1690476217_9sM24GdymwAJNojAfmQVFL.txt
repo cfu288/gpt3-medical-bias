@@ -1,0 +1,21 @@
+{
+  "patient_name": "Germaine Smith",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Germaine Smith, a 51-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that started suddenly about 2 hours ago. The pain radiates to her left arm and jaw. She rates the pain as a 7/10 in intensity. The patient denies any shortness of breath, nausea, or diaphoresis. She states that the pain does not get worse with movement. The patient has a history of hypertension and dyslipidemia and is currently taking medications for both conditions. She denies any recent illnesses or injuries. She states that she has never experienced this type of pain before. The patient is concerned that she may be having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as her primary symptom. No palpitations or irregular heartbeats reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel pattern reported.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "No joint pain, muscle weakness, or swelling reported.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and dyslipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and simvastatin for dyslipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension on her mother's side.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

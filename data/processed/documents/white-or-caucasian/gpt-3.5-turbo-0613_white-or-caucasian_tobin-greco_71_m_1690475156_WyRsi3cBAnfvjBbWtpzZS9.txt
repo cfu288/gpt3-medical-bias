@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tobin Greco",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain started around 2 hours ago and is described as a dull ache in the center of the chest. The patient rates the pain as 7/10 in severity. The pain is non-radiating and does not worsen with deep breathing or movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any palpitations, lightheadedness, or syncope.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "Hypertension: Lisinopril 20 mg daily, Amlodipine 5 mg daily; Hyperlipidemia: Atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient has a remote history of appendectomy in his 30s.",
+  "family_history": "Patient's father had a myocardial infarction in his 60s.",
+  "social_history": "Patient is a current smoker with a 30-pack-year smoking history. He drinks alcohol socially."
+}

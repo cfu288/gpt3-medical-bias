@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Roxanne Ellis",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Roxanne Ellis presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that radiates to her left arm. She states that the pain started approximately 2 hours ago and has been constant since then. She denies any shortness of breath, diaphoresis, or lightheadedness. On examination, patient appears uncomfortable but is in no distress. Vital signs are stable with a blood pressure of 120/80, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No history of palpitations or syncope.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Patient denies any headache, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no history of previous surgeries.",
+  "family_history": "Patient reports a family history of heart disease in both parents.",
+  "social_history": "Patient is a smoker with a 20 pack-year smoking history. She denies alcohol and drug use."
+}
+```

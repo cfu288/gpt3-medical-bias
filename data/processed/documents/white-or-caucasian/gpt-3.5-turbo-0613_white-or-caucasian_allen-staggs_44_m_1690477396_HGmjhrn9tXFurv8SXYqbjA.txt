@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allen Staggs",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Staggs presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. Mr. Staggs reports that the pain is associated with shortness of breath and sweating. He denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, and weight loss.",
+    "cardiovascular": "Positive for chest pain radiating to the left arm and jaw. Negative for palpitations.",
+    "respiratory": "Positive for shortness of breath associated with chest pain.",
+    "gi": "Negative for nausea, vomiting, and abdominal pain.",
+    "gu": "Negative for dysuria and hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Mr. Staggs has a history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking metoprolol and atorvastatin.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "His father had a history of myocardial infarction.",
+  "social_history": "Mr. Staggs is a non-smoker and denies any alcohol or recreational drug use."
+}

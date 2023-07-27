@@ -1,0 +1,21 @@
+{
+  "patient_name": "Truman Lewis",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and has been constant. The patient also reports associated shortness of breath and diaphoresis. The pain is not relieved with rest. The patient denies any palpitations, lightheadedness, or syncope. No similar episodes in the past. Physical examination reveals a blood pressure of 140/90 mmHg, heart rate of 88 beats per minute, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air. Breath sounds are clear bilaterally. There is no jugular venous distension or pedal edema. Cardiac auscultation reveals normal heart sounds without any murmurs, rubs, or gallops.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness or headache"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Hypertension",
+  "social_history": "Former smoker, quit 10 years ago. No alcohol or illicit drug use."
+}

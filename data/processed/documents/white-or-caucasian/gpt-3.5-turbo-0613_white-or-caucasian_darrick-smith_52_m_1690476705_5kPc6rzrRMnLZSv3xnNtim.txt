@@ -1,0 +1,27 @@
+{
+  "patient_name": "Darrick Smith",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is a 52-year-old male who presented to the emergency department with complaints of chest pain. The chest pain started suddenly about 2 hours ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any nausea or vomiting. 
+
+  On further questioning, the patient states that he has a medical history of hypertension and dyslipidemia. He is currently taking Amlodipine and Atorvastatin for these conditions. He has never had any surgeries before. 
+
+  Mr. Smith reports no family history of cardiovascular diseases. He is a non-smoker and denies any alcohol or illicit drug use.
+
+  Given the patient's presentation and risk factors, a working diagnosis of acute coronary syndrome is being considered. Further investigations including an EKG, cardiac biomarkers, and a chest X-ray will be conducted to confirm the diagnosis and guide management. Pain relief will be provided through nitroglycerin and aspirin administration while awaiting these investigations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "Chest pain, shortness of breath, diaphoresis.",
+    "respiratory": "No cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia.",
+  "medications": "Amlodipine, Atorvastatin.",
+  "past_surgical_history": "None.",
+  "family_history": "No family history of cardiovascular diseases.",
+  "social_history": "Non-smoker, no alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kent Knatt",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presenting to the emergency department with complaints of chest pain that started 30 minutes ago. Patient states the pain is substernal and radiates to the left arm. He describes the pain as crushing and rates it 8/10. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20mg once daily",
+  "past_surgical_history": "Cataract surgery in 2015",
+  "family_history": "No history of cardiovascular disease in family.",
+  "social_history": "Patient denies tobacco use. Drinks alcohol in moderation."
+}

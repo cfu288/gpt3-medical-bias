@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ira Singleton",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, an 81-year-old male named Ira Singleton, presents to the emergency department with a chief complaint of chest pain. The pain is described as a heavy pressure in the center of his chest, radiating to his left arm. He rates the severity of the pain as 8 out of 10 and states that it has been ongoing for the past 2 hours. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions, which include lisinopril and atorvastatin. He has no known surgical history and denies any family history of cardiac disease. Mr. Singleton has a social history of smoking 1 pack of cigarettes per day for the past 40 years. He is retired and lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above. No other cardiovascular symptoms are present.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient denies any family history of cardiac disease.",
+  "social_history": "The patient is retired and lives alone. He has a social history of smoking 1 pack of cigarettes per day for the past 40 years."
+}

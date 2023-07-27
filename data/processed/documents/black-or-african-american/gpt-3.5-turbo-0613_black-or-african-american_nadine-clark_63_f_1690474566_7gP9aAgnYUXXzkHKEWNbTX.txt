@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nadine Clark",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nadine Clark, a 63-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain is described as a dull, pressure-like sensation located in the center of the chest. It started approximately 2 hours ago and has been constant since then. The pain is rated as 8/10 in severity and does not radiate to any other location. The patient denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or lightheadedness. She has a history of hypertension and is currently taking medication for it. On further questioning, the patient reports having a similar episode of chest pain several years ago, but it resolved spontaneously and she did not seek medical attention at that time. She denies any recent illnesses or injuries. No specific triggers for the chest pain are identified. The patient states that she is frightened and concerned about the possibility of a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, fatigue, or weight loss.",
+    "cardiovascular": "Denies palpitations or irregular heartbeat.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, otherwise unremarkable.",
+  "medications": "Patient currently takes amlodipine for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol. She lives alone and is retired."
+}

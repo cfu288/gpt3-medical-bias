@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Grant Weeks",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Grant Weeks, a 44-year-old male, presented to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation in the center of his chest. The pain started suddenly while he was at rest and has persisted for the past 30 minutes. He rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest or change in position. He denies any associated symptoms such as shortness of breath, palpitations, sweating, or lightheadedness. The patient has a history of hypertension and is currently taking lisinopril 10mg daily. He denies any recent illnesses or injuries. He has never had a similar episode of chest pain in the past. There is no family history of cardiac diseases. The patient has a sedentary lifestyle and denies tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rashes, itching, or changes in skin color or texture.",
+    "neurologic": "The patient denies headache, dizziness, vision changes, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril 10mg daily. He denies any other significant medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any family history of cardiac diseases.",
+  "social_history": "The patient has a sedentary lifestyle and denies tobacco or alcohol use."
+}
+```

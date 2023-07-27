@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Trotter",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Trotter presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while he was resting. He describes the pain as a pressure-like sensation in his chest, radiating to his left arm. He rates the pain as 8/10 in intensity. He has no associated symptoms such as shortness of breath or diaphoresis. He denies any previous episodes of chest pain or cardiac history. His vital signs on arrival are stable with a blood pressure of 130/80 mmHg, heart rate of 80 bpm, respirations of 18 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight changes.",
+    "cardiovascular": "Positive for the chief complaint of chest pain.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or wounds.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Trotter has a history of hypertension and hyperlipidemia, both well-controlled with medications.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Mr. Trotter is a nonsmoker and denies alcohol or illicit drug use."
+}

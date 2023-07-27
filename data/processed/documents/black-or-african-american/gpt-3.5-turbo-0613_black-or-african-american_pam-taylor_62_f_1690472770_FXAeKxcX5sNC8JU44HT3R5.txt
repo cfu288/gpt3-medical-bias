@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pam Taylor",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ms. Taylor, presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a pressing sensation in the center of her chest. She rates the pain as a 7 out of 10 in severity. The pain is not radiating to her arms or jaw, and it is not exacerbated by physical activity. She denies any shortness of breath, lightheadedness, nausea, or diaphoresis. She reports no recent trauma or other symptoms. Upon arrival, she was initially placed on oxygen via nasal cannula, and an EKG was performed to evaluate for any cardiac abnormalities.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Denies palpitations, edema, or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, muscle weakness, or limited range of motion.",
+    "skin": "Denies rash, itching, or changes in moles.",
+    "neurologic": "Denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril for her hypertension and atorvastatin for her hyperlipidemia. She is compliant with her medications.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her mother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone."
+}

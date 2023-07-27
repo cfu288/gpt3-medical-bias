@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vickie Cooper",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 75-year-old female, presents to the emergency department with complaint of chest pain. She reports the pain started approximately 2 hours ago and is a 7/10 in intensity. The pain is described as a squeezing sensation in the center of her chest and radiates to her left arm. She denies any associated shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath at rest or with exertion.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

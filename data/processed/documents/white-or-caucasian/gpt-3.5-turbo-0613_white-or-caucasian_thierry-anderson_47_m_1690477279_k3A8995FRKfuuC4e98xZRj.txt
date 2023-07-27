@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thierry Anderson",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is 7/10 in intensity and radiates to the left arm. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. On further questioning, patient reports a history of hypertension and occasional episodes of palpitations. Patient denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Apart from the chest pain, patient denies any palpitations, edema, or syncope.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Patient reports occasional joint pain, but denies any recent injuries.",
+    "skin": "Patient denies any rash, lesions, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, but is otherwise healthy.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has no significant family history of cardiac, pulmonary, or other genetic diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

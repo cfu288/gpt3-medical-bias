@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilma Saunders",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Wilma Saunders, an 89-year-old female, presented to the emergency department with complaints of acute onset of severe chest pain. She describes the pain as substernal, sharp in nature, and radiating to her left arm. The pain started approximately 2 hours ago and has been constant since then. She denies any associated shortness of breath, diaphoresis, or palpitations. She does report a history of hypertension and hyperlipidemia. She reports taking her prescribed medications regularly and denies any recent changes in her medications or medical management. She denies any recent illness, trauma, or travel.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, sputum production, or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, or change in bowel habits",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

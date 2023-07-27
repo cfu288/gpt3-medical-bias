@@ -1,0 +1,21 @@
+{
+  "patient_name": "Prince Parker",
+  "age": "21",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain started approximately 6 hours ago, is localized to the center of the chest and is described as a dull ache. The pain is worsened with deep breaths and is accompanied by shortness of breath. Patient denies any trauma or prior episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain as described above and denies palpitations or history of heart disease.",
+    "respiratory": "Patient complains of shortness of breath associated with the chest pain.",
+    "gi": "Patient denies abdominal pain, bloating, or changes in bowel movements.",
+    "gu": "Patient denies urinary urgency, frequency, or changes in urine color.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or changes in skin color or texture.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has no known medical conditions and takes no regular medications.",
+  "medications": "None",
+  "past_surgical_history": "Patient has no known surgical history.",
+  "family_history": "Patient denies any significant family history of heart disease or other medical conditions.",
+  "social_history": "Patient is a non-smoker, denies alcohol or illicit drug use. Patient is currently a college student and exercises regularly."
+}

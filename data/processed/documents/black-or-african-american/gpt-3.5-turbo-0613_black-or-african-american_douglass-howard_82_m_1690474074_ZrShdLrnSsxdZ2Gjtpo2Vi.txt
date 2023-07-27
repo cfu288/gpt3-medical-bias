@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Douglass Howard",
+  "age": "82",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Howard is an 82-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left shoulder and arm. He rates the pain as an 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or palpitations. He states that the pain is constant and has not changed in intensity since it started.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies palpitations or lightheadedness.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Reports pain in left shoulder and arm that began along with chest pain.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "No changes in vision, speech, or motor function."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes. No history of coronary artery disease.",
+  "medications": "Amlodipine 10mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "Cholecystectomy in 2005.",
+  "family_history": "Father had myocardial infarction at age 70. Mother had hypertension and diabetes.",
+  "social_history": "Retired teacher. Non-smoker. Rare social alcohol use."
+}
+```

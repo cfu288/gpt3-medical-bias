@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andrey Walker",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Andrey Walker, a 28-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest that started approximately 1 hour ago and has been persistent. The pain is rated 7/10 in intensity and does not radiate to any other area. The patient denies any associated symptoms such as shortness of breath, nausea, or sweating. He reports no past medical history of cardiac conditions or previous episodes of chest pain. He denies any recent illness or injuries. On physical examination, vital signs are within normal limits with a heart rate of 80 bpm, blood pressure of 120/70 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. The lung sounds are clear bilaterally, and the heart sounds are normal. EKG was obtained and showed normal sinus rhythm with no ST-T wave abnormalities. Troponin levels were drawn and are pending at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations, edema, or syncope.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitation of movement.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient reports no significant family history of cardiac or other relevant medical conditions.",
+  "social_history": "The patient denies tobacco use, alcohol use, or illicit drug use. He works as a software engineer and is physically active."
+}

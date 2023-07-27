@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claire Crane",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Claire Crane is a 68-year-old female presenting to the Emergency Department with complaints of chest pain. The pain started approximately one hour ago and is located in the center of her chest. The pain is described as a squeezing sensation and is radiating to her left arm. She rates the intensity of the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Lisinopril 20mg daily, simvastatin 40mg daily, metformin 500mg twice daily.",
+  "past_surgical_history": "Appendectomy in 1995.",
+  "family_history": "No significant family history of heart disease, stroke, or cancer.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lillian Francois",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mrs. Lillian Francois, an 84-year-old female, presented to the emergency department with a chief complaint of chest pain. The pain started 2 hours ago and is substernal in location. She describes the pain as a squeezing sensation, with radiation to the left arm. The pain is severe and she rates it as 9 out of 10 on the pain scale. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Onset of symptoms was sudden. There was no precipitating factor and the pain is not relieved by rest or nitroglycerin. She has no history of similar pain in the past. EKG and cardiac enzymes have been ordered and are pending.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight loss",
+    "cardiovascular": "Positive for substernal chest pain with radiation to the left arm",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or itching",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily, and ibuprofen 200mg PRN for pain",
+  "past_surgical_history": "Cholecystectomy in 1998",
+  "family_history": "Negative for any significant family history of cardiac disease or cancer",
+  "social_history": "Retired. Non-smoker. Non-drinker."
+}
+```

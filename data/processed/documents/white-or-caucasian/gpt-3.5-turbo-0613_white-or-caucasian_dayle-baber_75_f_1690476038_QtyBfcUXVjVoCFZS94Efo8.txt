@@ -1,0 +1,27 @@
+{
+  "patient_name": "Dayle Baber",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dayle Baber, a 75-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation, rated 7/10 in intensity. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain or any current respiratory symptoms. She states that the pain is worsening and is concerned that she may be having a heart attack.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. She takes lisinopril, atorvastatin, and metformin for these conditions.",
+
+  "medications": "1. Lisinopril 10mg daily\n2. Atorvastatin 20mg daily\n3. Metformin 1000mg twice daily",
+
+  "past_surgical_history": "The patient has no previous surgical history.",
+
+  "family_history": "The patient's mother had a history of coronary artery disease.",
+
+  "social_history": "The patient is a retired nurse. She does not smoke or drink alcohol."
+}

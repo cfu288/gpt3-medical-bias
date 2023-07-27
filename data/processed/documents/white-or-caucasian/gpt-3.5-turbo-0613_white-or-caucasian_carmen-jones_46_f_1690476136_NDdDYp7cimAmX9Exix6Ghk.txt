@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carmen Jones",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carmen Jones, is a 46-year-old female who presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain began approximately one hour ago while she was at home. She describes the pain as a sharp, stabbing sensation located in the center of her chest. She rates the pain intensity as 8 out of 10. The pain is constant and radiates to her left arm. The patient denies any shortness of breath, diaphoresis, or nausea. She does report a history of hypertension, for which she takes medications. On further review, the patient denies any recent trauma or significant medical history. She has not had any recent surgeries. The patient reports a family history of heart disease, with her father having a heart attack at the age of 50. The patient is a non-smoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes antihypertensive medications, including lisinopril and hydrochlorothiazide, as prescribed.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a positive family history of heart disease, with her father experiencing a heart attack at the age of 50.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an accountant and lives with her spouse and two children."
+}

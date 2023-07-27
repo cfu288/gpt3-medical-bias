@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randell Smith",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is a 71-year-old male who presented to the emergency department with acute onset of chest pain. The chest pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 8/10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in the chief complaint.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports radiating pain to the left arm and jaw.",
+    "skin": "No skin changes or abnormalities reported.",
+    "neurologic": "Patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient takes amlodipine for hypertension, atorvastatin for hyperlipidemia, and metformin for diabetes.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "Patient is a retired accountant. He is married and lives with his wife. He does not smoke or drink alcohol."
+}

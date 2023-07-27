@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Bullock",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Bullock is a 70-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a squeezing sensation in his chest that radiates to his left arm. He states that the pain started approximately two hours ago and has been getting progressively worse.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports chest pain as described in the chief complaint",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or changes in vision"
+  },
+  "past_medical_history": "Mr. Bullock has a history of hypertension and high cholesterol. He takes medications for both conditions.",
+  "medications": "1. Lisinopril 10mg daily\n2. Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Mr. Bullock is retired and lives alone. He has a history of smoking, but quit 10 years ago."
+}

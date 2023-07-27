@@ -1,0 +1,22 @@
+{
+  "patient_name": "Max Higgins",
+  "age": "35",
+  "gender": "m",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Max Higgins, a 35-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is persistent and worsens with deep breathing or movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies rashes or lesions.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He is currently on medication for both conditions, including Lisinopril and Atorvastatin.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father has a history of hypertension and his mother has a history of hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer and lives with his wife and two children."
+}

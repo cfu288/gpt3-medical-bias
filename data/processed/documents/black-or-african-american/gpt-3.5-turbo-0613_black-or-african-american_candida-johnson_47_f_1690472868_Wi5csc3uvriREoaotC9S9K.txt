@@ -1,0 +1,21 @@
+{
+  "patient_name": "Candida Johnson",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Onset of pain was sudden and described as crushing and radiating to the left arm. Patient also reports shortness of breath and diaphoresis. Patient denies any past history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies experiencing fever or chills.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports pain radiating to the left arm.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril 10mg daily and Atorvastatin 20mg daily for the management of hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient has a family history of hypertension and heart disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

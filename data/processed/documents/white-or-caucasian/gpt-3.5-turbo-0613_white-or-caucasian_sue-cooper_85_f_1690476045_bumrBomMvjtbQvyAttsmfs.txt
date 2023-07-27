@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sue Cooper",
+  "age": "85",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sue Cooper, an 85-year-old female, presents to the emergency department complaining of chest pain. She reports that the pain began approximately 2 hours ago and is described as a squeezing sensation in her chest. She rates the pain as a 7 out of 10 in severity. The pain is radiating to her left arm and jaw. She denies any shortness of breath or difficulty breathing. She has no known history of cardiac disease or previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient has a history of hypertension and takes medication for it. She denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, sputum production, or wheezing.",
+    "gi": "The patient reports no nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient reports no rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. She also has a history of osteoarthritis.",
+  "medications": "The patient takes the following medications: lisinopril 10mg daily for hypertension and naproxen 500mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient reports that her mother had hypertension and her father had a heart attack in his 70s.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent with activities of daily living."
+}
+```

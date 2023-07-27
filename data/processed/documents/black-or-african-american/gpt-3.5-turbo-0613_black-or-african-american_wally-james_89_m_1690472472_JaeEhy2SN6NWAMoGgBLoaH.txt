@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wally James",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Wally James, an 89-year-old male, presented to the emergency department with a chief complaint of chest pain. He reports that the pain started suddenly approximately 2 hours ago while he was at home resting. The pain is described as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as 8 out of 10 in severity. The patient denies any associated shortness of breath, nausea, vomiting, or diaphoresis. He states that he has had similar episodes of chest pain in the past, but this episode is more severe and prolonged than previous episodes. The patient has a history of hypertension and hyperlipidemia and is currently taking medications for these conditions. He reports that he has never had heart surgery or any other major surgeries in the past. There is no known family history of heart disease. The patient is a former smoker and quit smoking 10 years ago. He denies any illicit drug use or alcohol consumption.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to chest pain, the patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking medication for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is no known family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a former smoker, having quit smoking 10 years ago. He denies any current illicit drug use or alcohol consumption."
+}

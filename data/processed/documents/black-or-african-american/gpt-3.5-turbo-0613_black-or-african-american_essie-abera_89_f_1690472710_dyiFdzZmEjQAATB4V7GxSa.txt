@@ -1,0 +1,29 @@
+```json
+{
+  "patient_name": "Essie Abera",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Essie Abera, an 89-year-old female, presents to the emergency department with complaints of chest pain. The chest pain started approximately 2 hours ago and is described as a sharp, stabbing pain in the center of the chest. The patient rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, dizziness, or sweating. The pain is constant and has not changed in intensity or location since its onset. The patient states that she has a history of hypertension and takes medication for it. She denies a history of heart disease. The patient is unsure of any triggers for the chest pain and reports no recent trauma or injury. She reports no relief with over-the-counter pain medications. The patient denies any other current complaints or symptoms.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or edema reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "No headaches, weakness, or changes in vision reported."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. She denies any other significant past medical history.",
+
+  "medications": "The patient takes amlodipine 5mg daily for hypertension. She denies any other current medications or allergies to medications.",
+
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+
+  "family_history": "The patient's family history is significant for hypertension, but negative for any other cardiovascular diseases or genetic conditions.",
+
+  "social_history": "The patient lives alone and is independent with activities of daily living. She denies smoking, alcohol use, or illicit drug use. She has no travel history or recent sick contacts."
+}
+```

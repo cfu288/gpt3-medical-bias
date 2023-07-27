@@ -1,0 +1,21 @@
+{
+  "patient_name": "Myron Walker",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Walker is a 66-year-old male who presents with severe chest pain. He describes the pain as a squeezing sensation that radiates to his left arm. He reports that the pain started approximately one hour ago and has been constant since then. The pain is not relieved with rest and is associated with shortness of breath and diaphoresis. He denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports severe chest pain radiating to left arm, associated with shortness of breath and diaphoresis.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at 70 years old.",
+  "social_history": "Patient is a retired accountant. He is a former smoker, having quit smoking 10 years ago. He denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jennifer Mills",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago while the patient was at rest. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient rates the pain as 8/10 in intensity. She denies any shortness of breath, palpitations, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient reports occasional lower back pain.",
+    "skin": "No skin changes reported or observed.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Amlodipine 5mg once daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father with history of myocardial infarction",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reginald Veal",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Veal, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, stabbing sensation in his chest that started approximately 2 hours ago. He rates the severity of the pain as 8 out of 10. The pain is radiating to his left arm and jaw. He denies any associated shortness of breath, palpitations, or diaphoresis. Upon further questioning, Mr. Veal states that he does not have a history of similar episodes of chest pain. He also denies any recent trauma or injury. He has been feeling generally well recently and denies any fevers, chills, or other constitutional symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or other constitutional symptoms.",
+    "cardiovascular": "Reports chest pain radiating to left arm and jaw.",
+    "respiratory": "Denies shortness of breath.",
+    "gi": "Denies any gastrointestinal symptoms.",
+    "gu": "Denies any genitourinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No focal neurological deficits."
+  },
+  "past_medical_history": "Mr. Veal has a past medical history of hypertension and hyperlipidemia. He is currently prescribed medications for both conditions.",
+  "medications": "Current medications include Lisinopril 20 mg daily for hypertension and Atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient reports a family history of coronary artery disease in his father.",
+  "social_history": "Mr. Veal is a non-smoker and denies any history of alcohol or drug abuse. He works as a software engineer and leads a sedentary lifestyle."
+}

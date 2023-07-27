@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nate Cooley",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Nate Cooley, a 63-year-old male, presents to the emergency department with complaints of chest pain. He describes the pain as a heaviness in the center of his chest that started approximately 2 hours ago. The pain is radiating to his left arm and jaw. He states that he has never experienced this type of pain before and it is not relieved with rest. He denies any shortness of breath, nausea, or diaphoresis. He has no significant medical history. Upon arrival, his vital signs were stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No complaints of fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "No other complaints of joint or muscle pain.",
+    "skin": "No complaints of rashes or lesions.",
+    "neurologic": "No complaints of dizziness, headache, or numbness."
+  },
+  "past_medical_history": "Patient denies any significant past medical history.",
+  "medications": "Not currently taking any medications.",
+  "past_surgical_history": "No history of past surgeries.",
+  "family_history": "No known family history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He is retired and does not engage in strenuous physical activity."
+}
+```

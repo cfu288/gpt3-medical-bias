@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georg Emslie",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Emslie, is a 46-year-old male who presented to the emergency department with complaints of severe chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The onset of the pain was sudden and occurred approximately 1 hour ago. The patient reports associated symptoms such as shortness of breath, diaphoresis, and nausea. He denies any similar episodes in the past. Given the severity of his symptoms, the possibility of a cardiac etiology is being considered and further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any skin conditions or rashes.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

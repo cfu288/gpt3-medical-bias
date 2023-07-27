@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bette Mills",
+  "age": "98",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Bette Mills, a 98-year-old female, presents to the emergency department with a complaint of chest pain. She reports that the pain started approximately 3 hours ago and is described as a squeezing sensation in the center of her chest. She rates the pain as 7 out of 10 in intensity. The patient denies any shortness of breath, palpitations, or diaphoresis. She tried taking antacids for indigestion but did not have any relief from the pain. Upon further questioning, the patient reveals a history of hypertension and hyperlipidemia. She states that she takes medication for both conditions daily. The patient denies any recent illnesses, traumas, or significant changes in her daily activities. She also denies any recent travel or exposure to sick individuals. She states that she lives alone and is independent in her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom she is experiencing.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or lesions on her skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes daily medications for hypertension and hyperlipidemia. She states that she is compliant with her medication regimen.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia in her parents and siblings.",
+  "social_history": "The patient lives alone and is independent in her activities of daily living. She is retired and has no significant occupational or environmental exposures."
+}

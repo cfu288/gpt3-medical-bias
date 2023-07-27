@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Smith",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Cornell Smith, a 58-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, squeezing sensation that radiates to his left arm. He rates the pain as 8 out of 10 in severity. There were no associated symptoms such as shortness of breath, diaphoresis, or nausea. The patient denies any recent trauma or physical exertion. He has no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He was diagnosed approximately 5 years ago and is currently on medication to manage these conditions.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension and atorvastatin 10mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. There is no family history of other cardiovascular diseases.",
+  "social_history": "The patient has a 30 pack-year smoking history and currently smokes 10 cigarettes per day. He drinks alcohol occasionally and denies any illicit drug use."
+}

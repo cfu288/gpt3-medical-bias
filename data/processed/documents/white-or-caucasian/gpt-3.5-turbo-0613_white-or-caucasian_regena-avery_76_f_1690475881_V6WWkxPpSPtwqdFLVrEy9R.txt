@@ -1,0 +1,21 @@
+{
+  "patient_name": "Regena Avery",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Regena Avery, a 76-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started about 2 hours ago and is located in the center of the chest. The pain is described as sharp and squeezing in nature. The patient rates the pain as 7 out of 10 on the pain scale. She denies any associated symptoms such as shortness of breath, palpitations, or radiation of pain to the arm or jaw. The patient states that she took some antacids at home but did not get relief. Upon arrival to the emergency department, an EKG was obtained and showed no evidence of acute myocardial infarction (heart attack). The patient was given sublingual nitroglycerin and the pain improved to a rating of 4 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Negative for palpitations or syncope",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's mother had a history of heart disease.",
+  "social_history": "The patient is retired and lives alone. She denies smoking or alcohol consumption."
+}

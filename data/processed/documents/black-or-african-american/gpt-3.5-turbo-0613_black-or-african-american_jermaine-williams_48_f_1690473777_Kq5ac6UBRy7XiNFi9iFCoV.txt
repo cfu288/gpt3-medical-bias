@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jermaine Williams",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started 2 hours ago. The pain is described as a crushing sensation, radiating to the left arm. Patient denies any associated symptoms such as shortness of breath, lightheadedness, or diaphoresis. No alleviating or aggravating factors have been identified.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any palpitations or lower extremity edema.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any numbness, tingling, or weakness."
+  },
+  "past_medical_history": "Patient has a known history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker. Drinks alcohol occasionally."
+}
+```

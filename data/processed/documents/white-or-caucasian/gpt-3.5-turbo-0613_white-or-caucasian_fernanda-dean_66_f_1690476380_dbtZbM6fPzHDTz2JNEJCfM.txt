@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fernanda Dean",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Fernanda Dean, a 66-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest with radiation to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any other symptoms such as nausea, vomiting, or lightheadedness. She reports no previous episodes of similar chest pain. The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. She has no known drug allergies. There is no past surgical history of note. The patient denies any significant family history of cardiovascular disease. Her social history is significant for smoking 1 pack of cigarettes per day for the past 30 years.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "Shortness of breath associated with chest pain",
+    "gi": "No gastrointestinal symptoms",
+    "gu": "No genitourinary symptoms",
+    "musculoskeletal": "No musculoskeletal symptoms",
+    "skin": "No skin symptoms",
+    "neurologic": "No neurologic symptoms"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient smokes 1 pack of cigarettes per day for the past 30 years"
+}

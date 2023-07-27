@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleo Jones",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cleo Jones, a 75-year-old male, presents to the emergency department with a chief complaint of chest pain. He states that he began experiencing a dull, substernal chest pain approximately 2 hours ago. The pain is described as pressure-like and radiates to his left arm. He denies any associated shortness of breath, diaphoresis, or lightheadedness. He also states that he has a history of hypertension and high cholesterol. He denies any recent travel, trauma, or similar pain in the past. On further questioning, he admits to occasional episodes of exertional chest pain in the past, but states that this pain is different and more severe than before. He reports taking his prescribed medications regularly, including metoprolol and simvastatin. There have been no recent changes in his medications or dosage.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations, edema, or orthopnea.",
+    "respiratory": "Negative for shortness of breath, cough, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria, polyuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and high cholesterol.",
+  "medications": "Metoprolol and simvastatin.",
+  "past_surgical_history": "Appendectomy at age 30.",
+  "family_history": "Positive for hypertension in mother and father.",
+  "social_history": "Retired. Former smoker (quit 15 years ago). Occasional alcohol use."
+}

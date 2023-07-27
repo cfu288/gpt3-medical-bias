@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "description": "The name of the patient.",
+      "default": "Don Maness"
+    },
+    "age": {
+      "type": "string",
+      "description": "The age of the patient.",
+      "default": "56"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "description": "The main reason for the patient's visit.",
+      "default": "Chest Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "description": "A description of the patient's symptoms and the timeline of their onset."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "description": "Any constitutional symptoms such as fever, weight loss, or fatigue."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "description": "Any cardiovascular symptoms such as chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "description": "Any respiratory symptoms such as cough, wheezing, or shortness of breath."
+        },
+        "gi": {
+          "type": "string",
+          "description": "Any gastrointestinal symptoms such as abdominal pain, nausea, or vomiting."
+        },
+        "gu": {
+          "type": "string",
+          "description": "Any genitourinary symptoms such as urinary frequency, urgency, or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "description": "Any musculoskeletal symptoms such as joint pain, muscle weakness, or stiffness."
+        },
+        "skin": {
+          "type": "string",
+          "description": "Any skin symptoms such as rash, itching, or changes in the skin color."
+        },
+        "neurologic": {
+          "type": "string",
+          "description": "Any neurologic symptoms such as headache, dizziness, or numbness."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "description": "Any significant past medical conditions.",
+      "default": "None"
+    },
+    "medications": {
+      "type": "string",
+      "description": "Any current medications the patient is taking.",
+      "default": "None"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "description": "Any past surgical procedures the patient has undergone.",
+      "default": "None"
+    },
+    "family_history": {
+      "type": "string",
+      "description": "Any significant medical conditions in the patient's family.",
+      "default": "None"
+    },
+    "social_history": {
+      "type": "string",
+      "description": "Any relevant social factors such as smoking, alcohol use, or occupation.",
+      "default": "None"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

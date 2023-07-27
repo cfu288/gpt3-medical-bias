@@ -1,0 +1,21 @@
+{
+  "patient_name": "Demetrius King",
+  "age": "49",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Demetrius King, a 49-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the central chest. The pain is described as a pressure-like sensation and radiates to the left arm. The patient rates the severity of the pain as 7 out of 10. There is no alleviating or aggravating factor mentioned by the patient. There are no associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient denies any previous episodes of chest pain or cardiac issues. He has no known cardiac risk factors such as smoking, hypertension, or diabetes. The patient is concerned and anxious about his symptoms. On examination, the patient appears uncomfortable but not in acute distress. His vital signs are stable with blood pressure 130/80 mmHg, heart rate 80 bpm, respiratory rate 16/min, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in speech or vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol 50mg daily and atorvastatin 20mg daily for the management of hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is employed as an accountant and lives with his spouse and two children."
+}

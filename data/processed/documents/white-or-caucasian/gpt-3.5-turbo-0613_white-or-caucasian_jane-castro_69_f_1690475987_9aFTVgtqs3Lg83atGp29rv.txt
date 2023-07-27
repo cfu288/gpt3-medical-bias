@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Castro",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jane Castro, a 69-year-old female, presents to the emergency department with complaints of severe chest pain. She describes the pain as a squeezing sensation that started two hours ago and radiates to her left arm. The pain is associated with shortness of breath and sweating. The patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of feeling weak and fatigued.",
+    "cardiovascular": "Patient reports chest pain.",
+    "respiratory": "Patient experiences shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms.",
+    "skin": "Patient denies any skin symptoms.",
+    "neurologic": "Patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "The patient takes metoprolol for hypertension and atorvastatin for hypercholesterolemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient does not have a family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tari Carroll",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a pressure-like sensation in the center of the chest, radiating to the left arm. The pain is rated 8/10 in intensity. The patient reports associated shortness of breath, sweating, and nausea. She denies any recent trauma or exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No history of palpitations, syncope, or edema.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain. No history of cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Patient reports no joint pain, muscle weakness, or stiffness.",
+    "skin": "Patient reports no rash, itching, or skin discoloration.",
+    "neurologic": "Patient denies headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Amlodipine 5mg once daily, atorvastatin 10mg once daily.",
+  "past_surgical_history": "Cholecystectomy in 2008.",
+  "family_history": "Mother had a history of myocardial infarction.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

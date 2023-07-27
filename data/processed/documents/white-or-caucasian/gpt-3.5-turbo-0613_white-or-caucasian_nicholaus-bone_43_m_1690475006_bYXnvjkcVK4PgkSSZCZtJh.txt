@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nicholaus Bone",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Bone, is a 43-year-old male presenting to the emergency department with complaints of chest pain. He states that he began experiencing the pain approximately 1 hour ago. He describes the pain as a sharp, stabbing sensation located in the center of his chest. The pain radiates to his left arm and jaw. He rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest and does not change with breathing. He denies any associated symptoms such as shortness of breath, nausea, or sweating. He also denies any similar episodes in the past. Given the severity and location of the chest pain, further evaluation and diagnostic testing are warranted to determine the cause and appropriate management.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, denies palpitations",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, stiffness, or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness, headache, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He takes lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Lisinopril (10 mg daily) and atorvastatin (20 mg daily)",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "The patient's father had a myocardial infarction at age 55. His mother is alive with no significant medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and is married with two children."
+}

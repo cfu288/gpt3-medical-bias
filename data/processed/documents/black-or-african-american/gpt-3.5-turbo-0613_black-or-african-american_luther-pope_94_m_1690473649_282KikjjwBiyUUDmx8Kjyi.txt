@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luther Pope",
+  "age": "94",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Luther Pope, a 94-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports the onset of chest pain 2 hours ago while at home. He describes the pain as a sharp, stabbing sensation in the center of his chest, which radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any other associated symptoms. He has a past medical history significant for hypertension and hyperlipidemia. He is currently not taking any medications. He denies any past surgical history. There is no known family history of cardiac disease. The patient has a history of smoking 1 pack of cigarettes per day for the past 50 years.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, weight loss, and fatigue.",
+    "cardiovascular": "Reports chest pain radiating to the left arm, shortness of breath, and diaphoresis.",
+    "respiratory": "Denies cough, sputum production, and dyspnea at rest.",
+    "gi": "Denies abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Denies dysuria, hematuria, and decreased urine output.",
+    "musculoskeletal": "Denies joint pain and stiffness.",
+    "skin": "Denies rashes, itching, and changes in skin color.",
+    "neurologic": "Denies headache, dizziness, and changes in vision or speech."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiac disease",
+  "social_history": "History of smoking 1 pack of cigarettes per day for the past 50 years."
+}

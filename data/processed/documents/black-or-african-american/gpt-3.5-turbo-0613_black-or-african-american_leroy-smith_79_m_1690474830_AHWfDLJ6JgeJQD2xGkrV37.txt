@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leroy Smith",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the ED with a chief complaint of chest pain. The pain started approximately two hours ago, while the patient was at home. The pain is described as crushing in nature and localized to the center of the chest. The patient also reports associated symptoms including shortness of breath and diaphoresis. The patient denies any prior history of similar symptoms. Given the potential for myocardial infarction, an EKG was performed immediately upon arrival to the ED. The EKG showed ST-segment elevation in leads V1-V4, consistent with an anterior wall myocardial infarction. Cardiac enzymes were also ordered and are currently pending.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or weight loss.",
+    "cardiovascular": "Besides the chief complaint of chest pain, the patient denies any palpitations, dizziness, or syncope.",
+    "respiratory": "The patient denies any cough, dyspnea, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. He is currently taking lisinopril, atorvastatin, and metformin as prescribed.",
+  "medications": "Lisinopril 20mg once daily, atorvastatin 40mg once daily, and metformin 1000mg twice daily.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father and brother.",
+  "social_history": "The patient is a retired lawyer and lives alone. He is a former smoker, having quit 20 years ago. He denies alcohol or drug abuse."
+}

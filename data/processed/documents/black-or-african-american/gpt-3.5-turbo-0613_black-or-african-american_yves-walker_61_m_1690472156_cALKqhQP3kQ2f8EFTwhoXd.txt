@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Yves Walker",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Yves Walker, is a 61-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 2 hours ago while he was at rest. He describes the pain as substernal, squeezing in nature, radiating to his left arm. The pain is associated with shortness of breath and diaphoresis. He denied any previous episodes of chest pain. The pain has not improved with rest. Upon arrival, the patient appeared diaphoretic and in distress. He was promptly triaged and brought to the resuscitation area for immediate evaluation and management of possible acute coronary syndrome.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of diaphoresis and distress.",
+    "cardiovascular": "The patient reports chest pain radiating to his left arm.",
+    "respiratory": "The patient denies any cough or shortness of breath",
+    "gi": "The patient denies any abdominal pain or nausea",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes metoprolol 50mg daily and atorvastatin 40mg daily to manage these conditions.",
+  "medications": "Metoprolol 50mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65. There is no other significant family history of cardiovascular disease.",
+  "social_history": "The patient is a lifelong non-smoker and denies any alcohol or illicit drug use."
+}
+```

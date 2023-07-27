@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chester Jones",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones is a 59-year-old male who presents to the emergency department with complaints of chest pain. The pain began this morning and is described as a dull ache located in the center of the chest. The pain is constant and has not radiated to any other areas. There are no exacerbating or relieving factors. Mr. Jones denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "No palpitations or irregular heartbeats. No history of heart disease.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Jones has a history of hypertension and hyperlipidemia.",
+  "medications": "He takes Lisinopril 10 mg daily for hypertension and Atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "Father had hypertension. Mother had breast cancer.",
+  "social_history": "Mr. Jones is a non-smoker and denies alcohol or illicit drug use. He works as an accountant and is married with three children."
+}

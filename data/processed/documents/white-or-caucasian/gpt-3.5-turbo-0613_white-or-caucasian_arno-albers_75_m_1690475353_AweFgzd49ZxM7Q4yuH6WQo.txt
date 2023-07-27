@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arno Albers",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Albers is a 75-year-old male presenting to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation located in the center of his chest. He rates the intensity of the pain as 8 out of 10. The pain radiates to his left arm and jaw. Mr. Albers also reports feeling shortness of breath and lightheadedness. He denies any associated symptoms such as nausea or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports chest pain and pain radiating to the left arm.",
+    "skin": "Patient denies any skin changes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Albers has a history of hypertension and hyperlipidemia. He is currently prescribed lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. He lives alone and is retired."
+}

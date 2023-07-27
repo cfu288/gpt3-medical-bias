@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Valarie Tigner",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Valarie Tigner, a 45-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation that began approximately 2 hours ago. The pain is located in the center of her chest and radiates to her left arm. She rates the pain as 7 out of 10 and states that it is exacerbated by exertion and relieved by rest. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient reports a past medical history of hypertension and hyperlipidemia. She currently takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, changes in bowel movements, or black tarry stools.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "Lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "",
+  "family_history": "The patient's father had a history of myocardial infarction at age 55.",
+  "social_history": "The patient is a nonsmoker, does not consume alcohol, and has no history of illicit drug use."
+}
+```

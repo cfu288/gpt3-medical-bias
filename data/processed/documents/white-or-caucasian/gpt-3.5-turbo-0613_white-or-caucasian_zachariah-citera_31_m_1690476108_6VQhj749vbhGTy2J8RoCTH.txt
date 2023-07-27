@@ -1,0 +1,23 @@
+{
+  "patient_name": "Zachariah Citera",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of chest pain. He describes the pain as a tightness in the center of his chest that started about 2 hours ago. The pain is radiating to his left arm and jaw. He rates the pain as a 7 out of 10. He denies any difficulty breathing or sweating. Patient states he has experienced similar chest pain in the past, but it usually resolves on its own. He denies any recent trauma or fever. Upon arrival in the ED, an EKG was performed and showed ST-segment elevation in leads II, III, and aVF suggesting an inferior myocardial infarction.",
+  
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in sensation."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension and smoking.",
+  "medications": "The patient takes lisinopril daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker, consuming 1 pack per day for the past 10 years. He denies alcohol or illicit drug use."
+}

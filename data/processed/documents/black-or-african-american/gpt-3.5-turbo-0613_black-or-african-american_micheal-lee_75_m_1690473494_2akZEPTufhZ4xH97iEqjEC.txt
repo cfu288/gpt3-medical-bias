@@ -1,0 +1,21 @@
+{
+  "patient_name": "Micheal Lee",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Lee, is a 75-year-old male presenting to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm. The patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "No cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Lee has a history of hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has had an angioplasty and stenting procedure done for coronary artery disease.",
+  "family_history": "No significant family history of heart disease, stroke, or any other hereditary conditions.",
+  "social_history": "The patient is retired and lives alone. He has a history of smoking but quit 10 years ago. He denies any alcohol or illicit drug use."
+}

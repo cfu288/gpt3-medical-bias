@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Parker",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sharp chest pain that started an hour ago. He describes the pain as a 7/10 in intensity and localized to the left side of his chest. Pain worsens with deep breaths and movement. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. Upon further questioning, the patient reports no recent trauma or illness. ",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for chest pain as described in the chief complaint.",
+    "skin": "Negative for rash or change in skin color.",
+    "neurologic": "Negative for headache or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies any current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

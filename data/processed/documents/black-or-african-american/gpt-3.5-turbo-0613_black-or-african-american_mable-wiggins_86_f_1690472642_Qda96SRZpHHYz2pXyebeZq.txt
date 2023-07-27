@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mable Wiggins",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, an 86-year-old female named Mable Wiggins, presents to the emergency department with a chief complaint of chest pain. According to the patient, the chest pain started abruptly about 2 hours ago and is described as a squeezing, tight sensation that radiates to her left arm. She rates the severity of the pain as 7 out of 10. The pain is exacerbated by exertion and is partially relieved by rest. The patient denies any associated shortness of breath, nausea, vomiting, or diaphoresis. She also denies any previous episodes of similar chest pain. Patient states she has a history of hypertension and hyperlipidemia, for which she takes amlodipine and simvastatin, respectively. She smokes approximately 1 pack of cigarettes per day for the past 50 years. Patient has no past surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue, but denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, urinary frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain, muscle pain, or muscle weakness.",
+    "skin": "Patient denies skin rash, itching, or changes in moles.",
+    "neurologic": "Patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Amlodipine, simvastatin.",
+  "past_surgical_history": "None.",
+  "family_history": "No significant family history of cardiovascular disease, diabetes, or cancer.",
+  "social_history": "Patient is a current smoker, approximately 1 pack per day for the past 50 years. Denies alcohol or illicit drug use."
+}

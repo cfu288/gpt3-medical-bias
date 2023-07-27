@@ -1,0 +1,21 @@
+{
+  "patient_name": "Muriel Brown",
+  "age": "101",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. The pain started about 2 hours ago and has been persistent. The patient denies any shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart disease, palpitations, or peripheral edema.",
+    "respiratory": "No history of cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No history of urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No history of joint pain or stiffness.",
+    "skin": "No history of rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has undergone a total knee replacement surgery for osteoarthritis.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 70. No other significant family history.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and lives alone."
+}

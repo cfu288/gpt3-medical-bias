@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hazel Weber",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Hazel Weber, a 76-year-old female, presented to the emergency department with complaints of chest pain. The pain started suddenly approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient also reported shortness of breath, nausea, and sweating. She denies any associated symptoms such as dizziness or palpitations. The patient has a history of hypertension and hyperlipidemia. She is a non-smoker.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. Denies palpitations.",
+    "respiratory": "Shortness of breath is reported.",
+    "gi": "Nausea, denies vomiting or abdominal pain.",
+    "gu": "No complaints related to the genitourinary system.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No skin rash or lesions.",
+    "neurologic": "No complaints related to the nervous system."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Amlodipine 5mg daily for hypertension and Atorvastatin 10mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and coronary artery disease in her parents.",
+  "social_history": "The patient is retired and lives alone. She denies any use of tobacco, alcohol, or illicit drugs."
+}

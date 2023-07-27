@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lauri Metz",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Lauri Metz presents to the emergency department with chief complaint of chest pain. The pain began approximately 1 hour ago and is described as a sharp, stabbing sensation in the center of the chest. The pain radiates to the left arm. The patient rates the pain intensity as 7 out of 10. There are no associated symptoms such as shortness of breath or diaphoresis. The patient denies any recent trauma or known cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports radiating pain to the left arm.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg once daily and simvastatin 20 mg once daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of major surgeries.",
+  "family_history": "The patient's father had a myocardial infarction at age 65.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Forbes",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Forbes presents to the emergency department with a chief complaint of chest pain. The pain began approximately 1 hour ago and is described as a pressure-like sensation radiating to the left arm. The pain is persistent and has not improved with rest. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports a history of smoking and occasional alcohol use. He denies any recent illness or trauma. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported. Patient denies fatigue or weight loss.",
+    "cardiovascular": "Patient reports chest pain as notable symptom. No palpitations or edema.",
+    "respiratory": "No shortness of breath, cough, or sputum production reported.",
+    "gi": "Denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rashes, lesions, or changes in skin reported.",
+    "neurologic": "No headaches, dizziness, or changes in sensation reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently on amlodipine and atorvastatin.",
+  "medications": "Amlodipine (5mg) daily and Atorvastatin (20mg) daily.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease or other hereditary disorders reported.",
+  "social_history": "Patient is a smoker with a 10 pack-year history. He occasionally consumes alcohol."
+}

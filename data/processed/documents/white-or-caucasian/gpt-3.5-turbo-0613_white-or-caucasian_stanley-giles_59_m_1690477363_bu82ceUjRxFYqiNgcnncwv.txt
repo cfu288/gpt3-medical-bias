@@ -1,0 +1,20 @@
+{ "patient_name": "Stanley Giles",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Giles is a 59-year-old male who presents to the emergency department with complaints of chest pain. The pain started about 1 hour ago and is described as a squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8/10 in intensity. He denies any shortness of breath, nausea, or diaphoresis. Upon further questioning, he admits to a history of high blood pressure and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Chest pain.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy in childhood.",
+  "family_history": "Father with history of heart disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

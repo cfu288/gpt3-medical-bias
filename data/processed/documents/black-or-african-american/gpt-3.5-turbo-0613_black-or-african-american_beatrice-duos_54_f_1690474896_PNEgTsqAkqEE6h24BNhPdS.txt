@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beatrice Duos",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating down the left arm. Patient states that the pain is accompanied by shortness of breath and diaphoresis. Denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. Takes medications for both conditions as prescribed.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia. No known allergies.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's mother had a history of myocardial infarction in her 60s.",
+  "social_history": "Patient denies smoking or alcohol use. Works as a teacher."
+}

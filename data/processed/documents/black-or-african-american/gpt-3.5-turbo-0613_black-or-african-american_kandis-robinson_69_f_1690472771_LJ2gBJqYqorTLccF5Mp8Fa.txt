@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kandis Robinson",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 3 hours ago. The pain is described as a crushing sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity. The pain is not relieved with rest or nitroglycerin. She denies any shortness of breath, nausea, or diaphoresis. Patient has a history of hypertension and hyperlipidemia. She has not had any recent surgeries or procedures. She takes amlodipine 5mg daily for her hypertension. No known drug allergies. Patient denies smoking and illicit drug use. She drinks alcohol occasionally in moderation. No pertinent family history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain as described above.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain or nausea.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any rash or lesions.",
+    "neurologic": "Patient denies any focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

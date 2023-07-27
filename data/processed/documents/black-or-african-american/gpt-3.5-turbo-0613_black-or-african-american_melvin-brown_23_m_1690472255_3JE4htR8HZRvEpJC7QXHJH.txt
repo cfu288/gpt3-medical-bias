@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melvin Brown",
+  "age": "23",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Melvin Brown, is a 23-year-old male who presents to the emergency department with complaints of chest pain. He reports that the pain started suddenly about 1 hour ago while he was at rest. The pain is located in the center of his chest and is described as a sharp, stabbing sensation. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, sweating, or nausea. He has no history of similar symptoms in the past. Upon arrival, the patient was tachycardic with a heart rate of 110 BPM, but his blood pressure, respiratory rate, and oxygen saturation were within normal limits. He denies any recent trauma or physical exertion that could explain his symptoms. Given the concerning nature of his symptoms, an EKG was obtained which showed ST segment elevation in leads V2-V4. Given these findings, the patient was immediately taken to the cardiac catheterization lab for further evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations, edema, or history of heart disease.",
+    "respiratory": "The patient denies any shortness of breath, cough, or history of respiratory disease.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or history of genitourinary disease.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or history of musculoskeletal disease.",
+    "skin": "The patient denies any rashes, itching, or history of skin disease.",
+    "neurologic": "The patient denies any headache, dizziness, or history of neurologic disease."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications regularly.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is noncontributory.",
+  "social_history": "The patient is a nonsmoker and denies any current or past illicit drug use. He drinks alcohol occasionally but denies any excessive or binge drinking."
+}

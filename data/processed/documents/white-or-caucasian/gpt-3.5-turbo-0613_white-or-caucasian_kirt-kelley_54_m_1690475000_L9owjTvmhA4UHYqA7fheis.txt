@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kirt Kelley",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kirt Kelley, a 54-year-old male, presents to the emergency department with complaints of chest pain. According to the patient, the chest pain began approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He rates the pain as 8/10 in intensity. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, the patient reports a history of hypertension and high cholesterol. He states that he takes medication for both conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Positive for pain in the left arm",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "The patient takes Amlodipine for hypertension and Atorvastatin for high cholesterol.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or recreational drug use."
+}
+```

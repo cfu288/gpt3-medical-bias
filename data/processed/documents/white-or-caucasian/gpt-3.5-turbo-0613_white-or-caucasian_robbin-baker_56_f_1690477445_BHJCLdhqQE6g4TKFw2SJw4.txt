@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robbin Baker",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and is associated with shortness of breath and diaphoresis. The patient denies any history of chest pain in the past. On arrival, the patient's blood pressure is 140/90 mmHg, heart rate is 90 bpm, respiratory rate is 18 breaths per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes lisinopril for blood pressure control. No history of coronary artery disease.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath at rest other than during the current episode.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any recent trauma or history of joint pain.",
+    "skin": "The patient denies any rashes, dermatological conditions, or recent changes in the skin.",
+    "neurologic": "The patient denies any history of stroke, seizures, or other neurologic conditions."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril (10 mg daily) for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bettie Grady",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Patient reports that the pain began suddenly about 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient has no prior history of chest pain or cardiovascular disease. Pain is worsened by exertion and relieved by rest. There are no associated symptoms such as shortness of breath, diaphoresis, or nausea. On physical examination, patient appears anxious and is diaphoretic. Blood pressure is elevated at 160/90 mmHg. Heart rate is elevated at 100 beats per minute. Lung examination is clear to auscultation bilaterally. Heart sounds are normal with no murmurs, rubs, or gallops appreciated. EKG shows ST segment elevation in leads II, III, and aVF. Given the history and findings on examination, a diagnosis of acute myocardial infarction is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient reports a family history of coronary artery disease in her father.",
+  "social_history": "Patient denies use of tobacco, alcohol, or illicit drugs. Patient is married and works as an accountant."
+}
+```

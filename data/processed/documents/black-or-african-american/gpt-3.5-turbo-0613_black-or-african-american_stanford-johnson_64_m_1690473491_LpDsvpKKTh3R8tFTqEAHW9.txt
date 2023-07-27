@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stanford Johnson",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stanford Johnson, is a 64-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours prior to arrival and is described as a sharp, squeezing sensation in the center of the chest. The pain is radiating down the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any shortness of breath, diaphoresis, or nausea. The patient has a history of hypertension and takes medication for this condition. He denies any previous cardiac history or similar episodes of chest pain. Upon examination, the patient appears in moderate distress, with a blood pressure of 150/90 mmHg, heart rate of 100 bpm, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air. The patient's cardiovascular examination reveals normal heart sounds without any murmurs, rubs, or gallops. There is no evidence of jugular venous distention. The lungs are clear to auscultation bilaterally. The abdomen is soft and non-tender. There is no edema or cyanosis noted in the extremities. Based on the patient's symptoms and examination findings, the working diagnosis is acute coronary syndrome, most likely an acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss or night sweats.",
+    "cardiovascular": "The patient reports chest pain as described above. No other cardiovascular symptoms are reported.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient describes discomfort in the left arm and jaw, in addition to the chest pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any changes in vision, strength, coordination, or sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. There is no history of diabetes, hyperlipidemia, or other significant medical conditions.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension. He does not take any other medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in both parents. There is no history of early cardiac disease in the family.",
+  "social_history": "The patient is married and retired. He does not smoke or consume alcohol. He does not use illicit drugs."
+}

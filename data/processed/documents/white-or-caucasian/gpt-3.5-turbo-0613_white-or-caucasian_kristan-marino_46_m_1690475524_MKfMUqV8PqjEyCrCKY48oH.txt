@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kristan Marino",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kristan Marino, a 46-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation in the center of the chest, radiating to the left arm and accompanied by shortness of breath. The symptoms started approximately 2 hours ago while the patient was at rest. He denies any precipitating factors, and there is no associated sweating, nausea, or lightheadedness. The patient has a past medical history of hypertension and hyperlipidemia, for which he takes medication.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or neurological symptoms"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "No significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. He is currently employed as an accountant and reports no recent travel or exposure to sick contacts."
+}

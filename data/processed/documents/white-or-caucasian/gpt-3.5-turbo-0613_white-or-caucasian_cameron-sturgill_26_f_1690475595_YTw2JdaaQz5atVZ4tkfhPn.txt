@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cameron Sturgill",
+  "age": "26",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cameron Sturgill, a 26-year-old female, presents to the emergency department with the chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The pain is worsened with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. She reports no significant medical history and takes no medications. The patient denies any recent illness, injury, or changes in her daily routine. She also denies any family history of cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

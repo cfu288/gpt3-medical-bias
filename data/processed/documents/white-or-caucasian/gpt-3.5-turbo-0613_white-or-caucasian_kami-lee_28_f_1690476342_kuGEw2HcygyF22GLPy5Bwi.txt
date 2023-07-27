@@ -1,0 +1,28 @@
+{
+  "patient_name": "Kami Lee",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  
+  "history_of_present_illness": "The patient, Ms. Lee, presented to the Emergency Department with complaints of severe chest pain. She states that the pain started suddenly about 2 hours ago and it is a sharp, stabbing pain located in the center of her chest. The pain radiates to her left arm and she also reports shortness of breath and sweating. She denies any associated symptoms such as nausea, vomiting, or lightheadedness. She denies any recent trauma or injury. She reports no similar episodes in the past.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for palpitations and chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or loss of consciousness."
+  },
+  
+  "past_medical_history": "No significant past medical history. Patient reports no known medical conditions and no prior surgeries.",
+  
+  "medications": "Patient denies taking any regular medications or over-the-counter drugs.",
+  
+  "past_surgical_history": "No prior surgeries.",
+  
+  "family_history": "No significant family history of cardiovascular diseases or other notable conditions.",
+  
+  "social_history": "Patient reports being a non-smoker and does not consume alcohol or illicit substances. She is currently unemployed and denies any recent travel or exposure to sick individuals."
+}

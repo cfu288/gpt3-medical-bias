@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dwight Schroeder",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Schroeder presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain is radiating down the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. On arrival to the emergency department, the patient was tachycardic with a heart rate of 110 beats per minute. EKG was performed and showed ST-segment elevation in leads II, III, and aVF. Given the patient's symptoms and EKG findings, a diagnosis of acute myocardial infarction is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient is experiencing chest pain, shortness of breath, and diaphoresis.",
+    "respiratory": "The patient denies cough, shortness of breath other than with chest pain, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints other than chest pain.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking amlodipine and simvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 45.",
+  "social_history": "The patient is a smoker with a 10 pack-year history. He works as a desk job and denies any illicit drug use."
+}

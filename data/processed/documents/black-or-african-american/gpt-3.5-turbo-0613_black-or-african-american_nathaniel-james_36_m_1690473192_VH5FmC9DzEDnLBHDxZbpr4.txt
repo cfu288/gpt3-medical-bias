@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nathaniel James",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. James is a 36-year-old male presenting to the emergency department with a chief complaint of chest pain. The pain started 3 hours ago while he was at rest and is described as a sharp, stabbing sensation in the center of his chest. The pain is not radiating to his arms or jaw. He rates the pain as 8 out of 10 in intensity and states that it is worsened with deep breathing and movement. He denies any shortness of breath, nausea, or diaphoresis. Mr. James has no history of cardiovascular disease and no known risk factors for myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in the history of present illness.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient reports chest pain as described in the history of present illness.",
+    "skin": "Patient denies rash, itching, or changes to the skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No known family history of cardiovascular disease or other significant medical conditions.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol or illicit drugs. He works as a software engineer and is physically active."
+}

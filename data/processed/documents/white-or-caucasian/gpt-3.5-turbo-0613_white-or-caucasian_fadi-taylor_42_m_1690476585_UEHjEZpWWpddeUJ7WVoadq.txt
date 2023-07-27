@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fadi Taylor",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Fadi Taylor, a 42-year-old male, presents to the emergency department with chief complaint of chest pain. The pain began approximately 2 hours ago while he was resting at home. He describes the pain as a sharp, 8 out of 10, located in the center of his chest. The pain radiates to his left arm and jaw. He denies any associated shortness of breath, diaphoresis, nausea, or vomiting. Patient states that he has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies shortness of breath, cough, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for pain in left arm and jaw.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "",
+  "family_history": "Father had a myocardial infarction at the age of 50.",
+  "social_history": "Patient works as a computer engineer. Denies smoking, alcohol, or illicit drug use."
+}

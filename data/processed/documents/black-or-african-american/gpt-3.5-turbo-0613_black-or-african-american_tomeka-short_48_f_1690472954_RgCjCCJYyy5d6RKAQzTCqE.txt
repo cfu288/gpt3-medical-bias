@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tomeka Short",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Tomeka Short, a 48-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 1 hour ago while she was at home. The pain is a sharp, stabbing sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or palpitations. Patient states that the pain is constant and has not changed in intensity since onset. She has no prior history of similar episodes or cardiac issues. Patient denies any recent illness or trauma. Upon arrival to the emergency department, the patient was immediately placed on a cardiac monitor and an intravenous line was established. Initial vital signs reveal a blood pressure of 130/80 mmHg, heart rate of 85 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as previously described. No history of palpitations or irregular heartbeats.",
+    "respiratory": "No cough, shortness of breath, or difficulty breathing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rash, itching, or wounds reported.",
+    "neurologic": "No headache, dizziness, numbness, or weakness reported."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia but is not currently taking any medications for these conditions.",
+  "medications": "None",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient denies any significant family history of cardiac diseases or other major illnesses.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office manager and is married with two children."
+}

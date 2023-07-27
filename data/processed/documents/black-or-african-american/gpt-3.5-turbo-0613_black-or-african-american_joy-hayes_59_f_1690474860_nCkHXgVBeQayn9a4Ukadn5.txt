@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joy Hayes",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Joy Hayes, a 59-year-old female, presented to the emergency department with complaints of chest pain. She described the pain as a squeezing sensation in the center of her chest that radiated to her left arm. The pain started approximately 2 hours ago and has been constant since then. She rates the pain as 8 out of 10 in severity. The patient denies any associated shortness of breath, palpitations, diaphoresis, or nausea. Given the patient's symptoms and risk factors for cardiovascular disease, a thorough evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or edema.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or ulcerations.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and diabetes. She is on medications for all of these conditions.",
+  "medications": "The patient takes lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65. Her mother has a history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She does not have any significant occupational exposures."
+}

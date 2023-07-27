@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Forbes",
+  "age": "49",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. He describes the chest pain as a sharp and crushing sensation that radiates to his left arm and jaw. The pain started approximately 2 hours ago while he was resting at home. He has no previous history of similar chest pain and denies any shortness of breath, palpitations, or dizziness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unexplained weight loss.",
+    "cardiovascular": "Patient reports chest pain, but no known history of heart disease or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports mild musculoskeletal pain, which he attributes to normal aging.",
+    "skin": "Patient denies any skin rashes, lesions, or discoloration.",
+    "neurologic": "Patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which he takes medication.",
+  "medications": "Patient takes medication for hypertension, but denies taking any other medications.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient has a family history of hypertension and heart disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

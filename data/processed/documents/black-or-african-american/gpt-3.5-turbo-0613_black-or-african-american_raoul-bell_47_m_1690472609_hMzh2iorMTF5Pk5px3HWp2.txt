@@ -1,0 +1,21 @@
+{
+  "patient_name": "Raoul Bell",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Raoul Bell, a 47-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while the patient was at rest. He describes the pain as a substernal crushing sensation radiating to his left arm. The patient rates the intensity of the pain as 8 out of 10 and reports that it is associated with shortness of breath and diaphoresis. There is no alleviating or aggravating factor that he can identify. He denies any history of similar symptoms in the past. On examination, the patient appears diaphoretic and is visibly uncomfortable. His vital signs are as follows: heart rate 110 bpm, blood pressure 145/95 mmHg, respiratory rate 20/min, oxygen saturation 98% on room air. Auscultation of the heart reveals regular rate and rhythm with no murmurs, rubs, or gallops. His lung fields are clear to auscultation bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or wounds.",
+    "neurologic": "No headaches, changes in vision, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "Negative for any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clarence Martin",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and diaphoresis accompanying the chest pain. There is no alleviating or exacerbating factor mentioned. The patient denies any previous episodes of chest pain or similar symptoms. No known history of cardiovascular disease or risk factors such as smoking, diabetes, or hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, weight loss, or fatigue.",
+    "cardiovascular": "As mentioned in the chief complaint, the patient reports chest pain radiating to the left arm.",
+    "respiratory": "Patient reports shortness of breath accompanying the chest pain.",
+    "gi": "No gastrointestinal symptoms reported by the patient.",
+    "gu": "No genitourinary symptoms reported by the patient.",
+    "musculoskeletal": "No musculoskeletal symptoms reported by the patient.",
+    "skin": "No skin symptoms reported by the patient.",
+    "neurologic": "No neurological symptoms reported by the patient."
+  },
+  "past_medical_history": "Patient reports a history of hypertension. No other significant medical history reported.",
+  "medications": "Patient takes metoprolol 100mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries reported by the patient.",
+  "family_history": "No significant family history reported by the patient.",
+  "social_history": "Patient denies tobacco or alcohol use. Occupation: Office worker."
+}

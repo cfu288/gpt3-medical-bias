@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnnie Jones",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Johnnie Jones, an 81-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started approximately 1 hour ago and is located in the center of her chest. She describes the pain as a squeezing sensation and rates the intensity as 7 out of 10. The pain radiates to her left arm and is associated with shortness of breath. She denies any nausea, vomiting, or diaphoresis. She states that she has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, the patient denies any palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain. She denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports pain in her left arm that radiates from the chest pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in the appearance of her skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 10 mg daily for her hypertension and atorvastatin 20 mg daily for her hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient is unsure of her family history as she was adopted and does not have contact with her biological family.",
+  "social_history": "The patient is a retired schoolteacher. She is a non-smoker and denies any alcohol or illicit drug use."
+}

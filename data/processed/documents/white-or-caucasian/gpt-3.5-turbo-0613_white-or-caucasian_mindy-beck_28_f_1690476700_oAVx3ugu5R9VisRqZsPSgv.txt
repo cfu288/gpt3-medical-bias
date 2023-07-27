@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mindy Beck",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mindy Beck, is a 28-year-old female presenting to the emergency department with a chief complaint of chest pain. She states that the pain began suddenly while she was at home and describes it as a sharp, stabbing pain in the central chest that is worsened with deep breaths and movement. She denies any associated shortness of breath, diaphoresis, or radiation of the pain. She has no significant past medical history and is not currently taking any medications. She denies any recent illness or injury. Upon further questioning, she reports a similar episode of chest pain about a year ago that resolved spontaneously and did not seek medical attention at that time. She reports a family history of coronary artery disease in her father who had a heart attack at the age of 50. She denies any tobacco, alcohol, or drug use. She works as a software engineer and denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "No joint pain or muscle stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Family history of coronary artery disease in her father.",
+  "social_history": "No tobacco, alcohol, or drug use. Works as a software engineer."
+}

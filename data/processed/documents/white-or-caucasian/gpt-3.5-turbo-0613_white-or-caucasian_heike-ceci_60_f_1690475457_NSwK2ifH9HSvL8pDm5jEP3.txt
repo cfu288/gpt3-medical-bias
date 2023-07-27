@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Heike Ceci",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Heike Ceci, a 60-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started suddenly approximately 2 hours ago, while she was at home. She describes the pain as a squeezing sensation in the center of the chest that radiates to the left arm. She rates the pain intensity as 8 out of 10. It is associated with shortness of breath, diaphoresis, and lightheadedness. She denies any previous episodes of similar pain. Onset of pain was not related to exertion or emotional stress.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports palpitations and chest pain.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65. Her mother is alive and has no significant medical history.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use."
+}
+```

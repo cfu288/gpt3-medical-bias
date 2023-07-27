@@ -1,0 +1,21 @@
+{
+  "patient_name": "Werner Stamp",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of chest pain. The pain is described as a sharp, stabbing pain on the left side of the chest. The pain started 1 hour ago and has remained constant since then. The patient also reports associated symptoms of shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or lower extremity edema.",
+    "respiratory": "Reports shortness of breath with exertion but denies cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a myocardial infarction at age 60.",
+  "social_history": "Patient is a lifelong smoker, smoking 1 pack of cigarettes per day. Patient denies alcohol or illicit drug use."
+}

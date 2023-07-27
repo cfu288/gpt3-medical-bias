@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ismail Jenkins",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ismail Jenkins, a 31-year-old male, presented to the emergency department with complaints of chest pain. The pain began suddenly while he was at rest and is described as a sharp, stabbing sensation located in the center of his chest. The pain is exacerbated by deep breathing and is associated with shortness of breath. The patient denies any previous episodes of chest pain and reports no other symptoms such as palpitations, dizziness, or sweating.\n\nUpon arrival to the emergency department, the patient was hemodynamically stable with a heart rate of 80 beats per minute, blood pressure of 120/80 mmHg, and oxygen saturation of 98% on room air. Physical examination revealed no signs of distress or acute distress, and the patient's lung sounds were clear bilaterally. EKG showed normal sinus rhythm with no signs of ischemic changes or ST-segment abnormalities.\n\nGiven the patient's chief complaint and the absence of significant cardiovascular risk factors, further evaluation is needed to determine the cause of his chest pain. Additional investigations will include laboratory tests such as troponin levels and a chest x-ray to assess for any underlying cardiac or pulmonary pathology. The patient will be kept on telemetry for continuous cardiac monitoring. Pain management will be provided with analgesics as needed."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the primary symptom. There are no associated palpitations, syncope, or leg swelling.",
+    "respiratory": "The patient reports associated shortness of breath that is worsened with deep breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any recent trauma or musculoskeletal complaints.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any changes in sensation, motor function, or headaches."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines. He takes losartan 50 mg daily for blood pressure control and sumatriptan as needed for migraine headaches.",
+  "medications": "Losartan 50 mg daily, sumatriptan as needed",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is significant for hypertension in his father and grandmother.",
+  "social_history": "The patient works as a software engineer and denies tobacco use, alcohol use, or illicit drug use. He exercises regularly and follows a healthy diet."
+}

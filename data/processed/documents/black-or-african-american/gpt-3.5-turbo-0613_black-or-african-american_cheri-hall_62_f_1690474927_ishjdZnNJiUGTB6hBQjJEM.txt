@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cheri Hall",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset severe chest pain. The pain started approximately 1 hour ago and is described as a squeezing sensation in the middle of the chest. The pain radiates to both arms and the jaw. The patient also reports shortness of breath and diaphoresis. No associated symptoms of nausea or vomiting. Patient denied any previous episodes of chest pain or similar symptoms. A preliminary EKG was performed and showed ST segment elevation in leads II, III, and aVF. The patient was immediately started on aspirin, nitroglycerin, and was prepared for emergent cardiac catheterization.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough and sputum production",
+    "gi": "Negative for abdominal pain, nausea, and vomiting",
+    "gu": "Negative for dysuria and frequency",
+    "musculoskeletal": "Negative for joint pain and swelling",
+    "skin": "Negative for rashes and lesions",
+    "neurologic": "Negative for headache and focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled on lisinopril for the past 5 years. Patient denies any other significant past medical history.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for father with myocardial infarction at age 65",
+  "social_history": "Non-smoker, occasional alcohol use, no illicit drug use"
+}

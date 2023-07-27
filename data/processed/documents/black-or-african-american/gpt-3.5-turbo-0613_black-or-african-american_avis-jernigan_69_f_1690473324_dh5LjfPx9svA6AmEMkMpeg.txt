@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Avis Jernigan",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Avis Jernigan, a 69-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly while she was at rest and has been radiating to her left arm. The pain is described as crushing and is associated with shortness of breath and diaphoresis. The patient states that she has never experienced this type of pain before and is concerned about a heart attack. She denies any other symptoms such as palpitations, nausea, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain as described above, the patient denies any history of hypertension, hyperlipidemia, or heart disease. She also denies any history of claudication or peripheral arterial disease.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath at rest or with exertion. She also denies any history of asthma or chronic obstructive pulmonary disease (COPD).",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits. She denies any history of gastrointestinal bleeding or inflammatory bowel disease.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria. She also denies any history of kidney stones or urinary tract infections.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitation of movement. She also denies any history of arthritis or joint surgeries.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color. She also denies any history of skin cancer or other dermatologic conditions.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in coordination. She also denies any history of stroke or other neurologic disorders."
+  },
+  "past_medical_history": "The patient has a past medical history of obesity and type 2 diabetes. She is on metformin for glycemic control.",
+  "medications": "Metformin 1000 mg once daily for diabetes.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease, diabetes, or cancer.",
+  "social_history": "The patient is a retired school teacher. She denies smoking, alcohol consumption, or illicit drug use. She lives alone and denies any history of domestic violence."
+}
+```

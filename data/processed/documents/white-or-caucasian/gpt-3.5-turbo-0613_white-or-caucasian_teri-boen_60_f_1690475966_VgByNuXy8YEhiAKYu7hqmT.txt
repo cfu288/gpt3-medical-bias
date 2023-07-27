@@ -1,0 +1,22 @@
+{
+  "patient_name": "Teri Boen",
+  "age": "60",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Pain started 1 hour ago and is described as a squeezing sensation in the center of the chest. Patient rates the pain as 8 out of 10. Pain is radiating to the left arm. Denies shortness of breath or palpitations. Currently, pain is still ongoing.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss",
+    "cardiovascular": "Patient reports chest pain as described in chief complaint. No history of heart disease.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient reports the pain in the left arm.",
+    "skin": "No abnormalities noted on examination.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient takes daily aspirin for cardiovascular prevention.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies any history of alcohol or drug abuse."
+}

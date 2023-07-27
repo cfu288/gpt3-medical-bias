@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ashton Belcher",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ashton Belcher, a 32-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain began approximately 2 hours ago while she was at work. The pain is described as a sharp, stabbing sensation that is localized in the center of her chest. The pain radiates to her left arm and jaw. She rates the intensity of the pain as 8 out of 10. She denies any associated shortness of breath, diaphoresis, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain, but denies any palpitations or history of cardiovascular disease.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain radiating to her left arm and jaw, but denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no family history of cardiovascular disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alexandria Jenkins",
+  "age": "26",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alexandria Jenkins, a 26-year-old female, presents to the emergency department with complaints of severe chest pain. The pain started suddenly about 1 hour ago and is described as a pressure-like sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in intensity. She denies any associated shortness of breath, nausea, or diaphoresis. On further questioning, she reports that she has never experienced this type of pain before and she has no significant medical history. The patient states no history of recent illness and denies any recent travel or sick contacts. She also denies any recent trauma or injuries. She denies any drug abuse or use of recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, fatigue, or unintentional weight changes.",
+    "cardiovascular": "The patient reports no palpitations, chest pain or discomfort other than the current episode, and no history of heart conditions or hypertension.",
+    "respiratory": "The patient denies any shortness of breath, cough, wheezing or respiratory symptoms.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, diarrhea, or changes in bowel movements or appetite.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, swelling or musculoskeletal complaints.",
+    "skin": "The patient denies any rash, itching or abnormal skin lesions.",
+    "neurologic": "The patient denies any headaches, visual disturbances, dizziness, or syncope."
+  },
+  "past_medical_history": "The patient denies any significant past medical history, including surgeries or chronic conditions.",
+  "medications": "The patient reports no current medications, over-the-counter medications, or herbal supplements.",
+  "past_surgical_history": "The patient denies any past surgeries or procedures.",
+  "family_history": "The patient reports no history of heart disease, high blood pressure, or other significant medical conditions in her immediate family.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or drug use."
+}
+```

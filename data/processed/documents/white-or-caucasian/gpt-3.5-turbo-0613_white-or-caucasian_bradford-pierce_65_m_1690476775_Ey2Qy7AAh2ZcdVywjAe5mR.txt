@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bradford Pierce",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of chest pain. Patient reports that the pain started approximately 3 hours ago and is a squeezing pain located in the center of the chest. The pain radiates to the left arm and jaw. Patient rates the pain as a 7 out of 10 on the pain scale. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in the chief complaint.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports radiating chest pain to the left arm.",
+    "skin": "No changes in skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 70.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. Patient has a sedentary lifestyle and does not engage in regular exercise."
+}

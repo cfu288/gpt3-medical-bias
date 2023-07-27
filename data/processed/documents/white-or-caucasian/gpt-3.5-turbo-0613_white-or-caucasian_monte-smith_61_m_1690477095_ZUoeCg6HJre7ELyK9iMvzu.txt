@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monte Smith",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation, radiating to the left arm. The patient rates the pain as 8/10 in severity. The pain started approximately 1 hour ago and has been constant since then. The patient denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia. He is currently taking metoprolol and atorvastatin. Upon arrival, an electrocardiogram was performed, which showed ST segment elevation in leads V2 to V4, suggestive of an acute ST-elevation myocardial infarction (STEMI). Emergency PCI was promptly initiated and the patient was transferred to the cardiac catheterization lab for further management. The patient received aspirin, clopidogrel, and heparin prior to the procedure. The patient tolerated the procedure well and his symptoms improved following restoration of blood flow to the affected vessel.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as described above.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Metoprolol 50 mg once daily, atorvastatin 40 mg once daily",
+  "past_surgical_history": "N/A",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any illicit drug use. He drinks alcohol occasionally in moderation."
+}

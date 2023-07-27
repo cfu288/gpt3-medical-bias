@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geri Living",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. The pain started abruptly 1 hour ago and is described as a crushing, pressure-like sensation in the center of the chest. Patient also reports pain radiating down the left arm. The pain is associated with shortness of breath and diaphoresis. There is no alleviating or aggravating factor mentioned.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for diaphoresis",
+    "cardiovascular": "Positive for chest pain and radiation down the left arm",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Negative for cardiovascular diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

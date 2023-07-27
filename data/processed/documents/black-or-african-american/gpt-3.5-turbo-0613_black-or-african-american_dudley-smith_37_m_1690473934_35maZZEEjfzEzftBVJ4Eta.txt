@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dudley Smith",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Dudley Smith is a 37-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient describes the pain as a constant pressure in the center of his chest that started approximately 2 hours ago. Patient rates the pain as a 7/10 in intensity. The pain radiates to his left arm and jaw. He denies any shortness of breath, nausea, vomiting, diaphoresis, or lightheadedness. He states that the pain is not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports palpitations but denies any history of chest pain or heart problems.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient reports mild muscle soreness but denies any recent trauma or injuries.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He is on regular medication for these conditions.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 52. Mother has a history of hypertension.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use. He is married and works as a software engineer."
+}

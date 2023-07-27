@@ -1,0 +1,27 @@
+{
+  "patient_name": "Maurice Bailey",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Maurice Bailey, a 31-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain started suddenly approximately 2 hours ago and is described as a sharp, stabbing pain that radiates to the left arm. The pain is worsened by deep breaths and movement. The patient denies any associated shortness of breath, palpitations, or diaphoresis. Upon arrival, the patient appeared uncomfortable but was in no acute distress. Vital signs were stable with a heart rate of 80 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or previous history of heart disease.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports no recent trauma or musculoskeletal pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any weakness, numbness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril 10 mg daily.",
+  
+  "medications": "Lisinopril 10 mg daily",
+  
+  "past_surgical_history": "The patient has no known past surgical history.",
+  
+  "family_history": "The patient's family history is unremarkable for cardiovascular disease, diabetes, or any other significant medical conditions.",
+  
+  "social_history": "The patient is a non-smoker and works as a software engineer. He denies any alcohol or recreational drug use."
+}

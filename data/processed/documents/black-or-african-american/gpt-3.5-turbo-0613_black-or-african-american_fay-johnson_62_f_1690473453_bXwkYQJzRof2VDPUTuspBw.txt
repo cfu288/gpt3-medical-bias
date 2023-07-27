@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fay Johnson",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing pain located in the center of the chest. The pain is exacerbated with deep breathing and movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or sweating. She rates her pain as a 7 out of 10. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No history of heart disease or hypertension.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Patient's mother had a history of heart disease and her father had a history of stroke.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Daley",
+  "age": "101",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ola Daley, a 101-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a dull, pressure-like sensation in the center of the chest. The patient rates the pain as 7 out of 10 in intensity. She denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness. The pain is not relieved with rest. The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. She has no known drug allergies. There is no history of recent surgeries. The patient denies any family history of cardiovascular diseases. She is a non-smoker and does not consume alcohol or use recreational drugs. She lives alone and denies any recent travel or exposures to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports the chest pain as the only cardiovascular symptom she is currently experiencing. She denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "Negative for any family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use recreational drugs. She lives alone and denies any recent travel or exposures to sick individuals."
+}

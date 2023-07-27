@@ -1,0 +1,21 @@
+{
+  "patient_name": "Homer Cain",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the central chest. It is rated 8/10 in intensity and is aggravated by deep breaths and movement. Patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. EKG performed on arrival showed ST segment elevation in leads V2, V3, and V4. Given the presentation and EKG findings, a working diagnosis of acute coronary syndrome is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight changes.",
+    "cardiovascular": "Patient complains of chest pain as stated in the chief complaint. No palpitations oredema noted.",
+    "respiratory": "No cough, shortness of breath, wheezing, or hemoptysis reported.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or change in urinary habits noted.",
+    "musculoskeletal": "No joint pain, swelling, or decreased range of motion reported.",
+    "skin": "No rash or changes in skin color reported.",
+    "neurologic": "Patient denies headache, dizziness, syncope, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a significant past medical history of hypertension, type 2 diabetes, and dyslipidemia.",
+  "medications": "Patient is currently taking lisinopril 20 mg daily, metformin 1000 mg twice daily, and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a retired factory worker and is a former smoker with a history of smoking 1 pack per day for 30 years. He quit smoking 10 years ago. Patient denies alcohol or illicit drug use."
+}

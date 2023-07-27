@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jason Waters",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jason Waters, a 30-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation located in the center of the chest. It started approximately 2 hours ago and has not resolved. The pain is worsened with deep breaths and movement, and is accompanied by shortness of breath and diaphoresis. The patient denies any recent illness, trauma, or similar episodes in the past. He states that he has never experienced this type of pain before. Upon further questioning, the patient reports that he has a history of smoking for the past 10 years, with an approximate pack per day history. He does not have any significant past medical history or family history of cardiovascular diseases.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. There is no history of palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath and denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports that the chest pain worsens with movement.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any neurologic symptoms such as headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "The patient does not have any significant past medical history.",
+  "medications": "The patient does not take any medications on a regular basis.",
+  "past_surgical_history": "The patient does not have any past surgical history.",
+  "family_history": "The patient denies any family history of cardiovascular diseases.",
+  "social_history": "The patient has a 10-year history of smoking approximately 1 pack per day."
+}

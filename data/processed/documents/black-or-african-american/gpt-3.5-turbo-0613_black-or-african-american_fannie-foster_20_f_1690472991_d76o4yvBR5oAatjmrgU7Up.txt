@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fannie Foster",
+  "age": "20",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Fannie Foster, is a 20-year-old female who presents to the emergency department with a chief complaint of chest pain. The patient reports the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation with radiation to her left arm. She rates the pain as a 7 out of 10, and states that it worsens with deep breaths and exertion. There is no alleviating factor mentioned. The patient denies any associated symptoms such as shortness of breath, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "No palpitations or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headaches, seizures, or numbness/tingling."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. She has not been previously hospitalized and denies any chronic medical conditions.",
+  "medications": "The patient denies taking any medications regularly or using any over-the-counter medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. She is currently unemployed and does not have insurance."
+}
+```

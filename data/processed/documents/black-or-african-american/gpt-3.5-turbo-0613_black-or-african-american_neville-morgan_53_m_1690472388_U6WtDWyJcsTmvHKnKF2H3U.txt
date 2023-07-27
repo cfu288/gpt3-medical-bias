@@ -1,0 +1,21 @@
+{
+  "patient_name": "Neville Morgan",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Neville Morgan, a 53-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a tightness in the center of the chest. The pain is constant and radiates down the left arm. The patient states that the pain is 7/10 in severity and worsens with exertion. He denies any associated shortness of breath, palpitations, or diaphoresis. The patient has a past medical history of hypertension and hypercholesterolemia. He currently takes medications for both of these conditions. He denies any history of coronary artery disease, myocardial infarction, or other cardiac events. He has not had any recent surgical procedures. The patient reports a positive family history of cardiac disease, with his father having a heart attack at the age of 60. Socially, the patient is a non-smoker and denies any illicit drug use. He consumes alcohol in moderation. The patient denies any recent travel, sick contacts, or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chief complaint, the patient reports occasional palpitations, but denies any orthopnea, paroxysmal nocturnal dyspnea, or lower extremity swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hypercholesterolemia.",
+  "medications": "The patient takes medications for his hypertension and hypercholesterolemia.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a positive family history of cardiac disease, with his father having a heart attack at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He consumes alcohol in moderation."
+}

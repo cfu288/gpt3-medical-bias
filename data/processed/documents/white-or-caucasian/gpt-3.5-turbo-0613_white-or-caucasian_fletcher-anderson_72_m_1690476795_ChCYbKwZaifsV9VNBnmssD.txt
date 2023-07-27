@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fletcher Anderson",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately one hour ago. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and sweating. The patient denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and diabetes mellitus",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Father had a myocardial infarction at age 65",
+  "social_history": "Non-smoker, no alcohol or drug use"
+}

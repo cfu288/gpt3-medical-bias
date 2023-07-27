@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tomeka Smith",
+  "age": "49",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tomeka Smith, a 49-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours prior to arrival and is described as a sharp, stabbing pain in the center of the chest. The pain is worsened with deep breaths and movement. The patient reports no associated symptoms such as shortness of breath, lightheadedness, or palpitations. She denies any recent trauma or activities that may have triggered the pain. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any palpitations or racing heart.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any dysuria or frequency.",
+    "musculoskeletal": "Patient reports chest pain as the only musculoskeletal symptom.",
+    "skin": "Patient denies any rashes or itching.",
+    "neurologic": "Patient denies any headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily.",
+  "medications": "Amlodipine, Atorvastatin",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient's mother has a history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker. She denies any alcohol or illicit drug use."
+}

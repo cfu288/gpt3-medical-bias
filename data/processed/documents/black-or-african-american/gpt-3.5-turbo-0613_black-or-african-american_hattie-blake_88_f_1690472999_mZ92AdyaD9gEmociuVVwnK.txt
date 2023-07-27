@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hattie Blake",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Hattie Blake, an 88-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a sharp, stabbing sensation in the left side of her chest that started approximately 2 hours ago. She rates the pain as 7 out of 10 in severity and states that it has not improved with rest. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. She has a history of hypertension and takes medication for it. She has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or prior heart attacks.",
+    "respiratory": "Patient denies cough, shortness of breath or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headaches, changes in vision, or numbness/tingling."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Patient is a non-smoker and lives alone. She does not consume alcohol."
+}

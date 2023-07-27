@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reed Johnson",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Reed Johnson, a 74-year-old male, presents to the emergency department with chief complaint of chest pain. The patient reports that the chest pain started approximately 2 hours ago. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain 8 out of 10 in severity. He denies any associated shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and hyperlipidemia. He states that he takes medications for both conditions as prescribed. Upon arrival to the emergency department, an EKG was performed which showed ST-segment elevation in leads II, III, and aVF. The patient was diagnosed with an acute ST-elevation myocardial infarction (STEMI) and treated with immediate reperfusion therapy with percutaneous coronary intervention (PCI). The patient's pain has since subsided."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports the chest pain as described above. He denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes medication for both conditions as prescribed.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia. He is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease.",
+  "social_history": "The patient is retired. He is a former smoker, having quit 20 years ago. He denies any illicit drug use."
+}

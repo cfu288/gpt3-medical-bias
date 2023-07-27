@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzy Rivett",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Suzy Rivett, a 51-year-old female, presents to the emergency department with complaints of chest pain. The pain started suddenly about 2 hours ago while she was at rest. She describes the pain as a pressure-like sensation in the center of her chest, radiating to her left arm. She rates the pain as 8 out of 10 in intensity. She denies any associated shortness of breath, palpitations, or diaphoresis. She has no known cardiac or respiratory history. She has never experienced chest pain like this before. She denies any recent respiratory or gastrointestinal symptoms. On further questioning, she reports feeling nauseous. Her vital signs on arrival are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports the chest pain as the main symptom. No other cardiovascular symptoms reported.",
+    "respiratory": "Patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "Patient reports feeling nauseous, but denies any other gastrointestinal symptoms like abdominal pain, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms like dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "No skin abnormalities reported by the patient.",
+    "neurologic": "Patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history. She has never had a heart attack, heart disease, or any other cardiac conditions.",
+  "medications": "Patient reports currently being on no medications.",
+  "past_surgical_history": "Patient reports no past surgical history.",
+  "family_history": "Patient reports no significant family history of cardiac or other diseases.",
+  "social_history": "Patient reports being a non-smoker and denies any alcohol or illicit drug use."
+}

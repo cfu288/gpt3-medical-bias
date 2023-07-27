@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claudette Strickland",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of sudden onset of severe chest pain. Pain is described as a crushing or squeezing sensation and radiates to the left arm. The patient also reports shortness of breath and diaphoresis. No associated symptoms such as nausea or vomiting. Pain began approximately 1 hour ago and has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes metoprolol for blood pressure control and simvastatin for cholesterol management.",
+  "medications": "Metoprolol 25 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "Appendectomy in 1985",
+  "family_history": "Negative for family history of heart disease or other significant medical conditions",
+  "social_history": "Patient is a non-smoker. Drinks alcohol occasionally."
+}

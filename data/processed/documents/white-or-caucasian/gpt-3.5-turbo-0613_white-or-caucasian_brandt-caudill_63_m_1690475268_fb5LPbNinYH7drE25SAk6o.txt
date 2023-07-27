@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brandt Caudill",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient is a 63-year-old male presenting with complaints of chest pain. The pain started approximately 1 hour ago and is located in the center of his chest. He rates the pain intensity as 8 out of 10. The pain is described as squeezing and radiating to his left arm. He denies any associated shortness of breath, palpitations, or diaphoresis. The patient states that he has a history of hypertension and hyperlipidemia, for which he takes medications. He denies any recent illness or trauma. Upon arrival to the emergency department, the patient was provided with 324 mg of aspirin and was placed on a cardiac monitor. An electrocardiogram was performed, showing ST-segment elevation in leads II, III, aVF, V4-V6. The patient was immediately started on nitroglycerin and given morphine for pain relief. The cardiology team has been consulted and the patient is being prepared for emergent cardiac catheterization.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "Chest pain as described above, with no associated palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Patient currently takes lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Appendectomy at age 30.",
+  "family_history": "Father had history of myocardial infarction at age 65.",
+  "social_history": "The patient is a retired electrician and has a 40 pack-year smoking history. He quit smoking 5 years ago."
+}

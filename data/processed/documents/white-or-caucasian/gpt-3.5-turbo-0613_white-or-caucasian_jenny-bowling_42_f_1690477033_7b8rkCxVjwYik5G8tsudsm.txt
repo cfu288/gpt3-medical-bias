@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jenny Bowling",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a heaviness in the center of the chest, radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain or cardiac conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as the primary symptom. No palpitations or peripheral edema.",
+    "respiratory": "Aside from shortness of breath associated with the chest pain, the patient does not report any cough, wheezing, or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes, lesions, or pruritus.",
+    "neurologic": "No signs or symptoms of altered mental status, seizure, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension on lisinopril, hyperlipidemia, and asthma.",
+  "medications": "Lisinopril 10mg once daily, Atorvastatin 40mg once daily, Albuterol inhaler as needed.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

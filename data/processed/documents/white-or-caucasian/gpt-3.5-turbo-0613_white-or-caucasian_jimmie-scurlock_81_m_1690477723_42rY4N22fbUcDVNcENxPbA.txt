@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jimmie Scurlock",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jimmie Scurlock, an 81-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly approximately 2 hours ago while he was resting at home. The pain is described as a squeezing sensation in the center of the chest and radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Denies palpitations or leg swelling",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and coronary artery disease. He has previously undergone coronary artery bypass graft surgery.",
+  "medications": "The patient takes metoprolol, lisinopril, and atorvastatin for his chronic conditions.",
+  "past_surgical_history": "Coronary artery bypass graft surgery",
+  "family_history": "The patient's father had a history of coronary artery disease, but no other significant family history is reported.",
+  "social_history": "The patient is a retired truck driver. He is a former smoker, having quit 20 years ago. He denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laverne Johnson",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started abruptly about an hour ago. The pain is located in the center of the chest and radiates to the left arm. Patient also reports shortness of breath and sweating. Patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient has a history of hypertension and coronary artery disease.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports pain in the left arm.",
+    "skin": "No relevant skin symptoms reported.",
+    "neurologic": "No relevant neurologic symptoms reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension, coronary artery disease, and hyperlipidemia. Patient has undergone a coronary artery bypass graft surgery in the past.",
+  "medications": "Patient is currently taking aspirin, atenolol, and simvastatin.",
+  "past_surgical_history": "Patient has had a coronary artery bypass graft surgery in the past.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a lifelong non-smoker and does not consume alcohol. Patient lives with family and is independent with activities of daily living."
+}

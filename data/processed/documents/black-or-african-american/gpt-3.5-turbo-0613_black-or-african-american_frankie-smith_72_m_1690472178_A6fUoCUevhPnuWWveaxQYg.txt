@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frankie Smith",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest. He rates the pain as 8 out of 10 in severity. The pain started about 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, sweating, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or irregular heartbeat.",
+    "respiratory": "Patient reports no shortness of breath or cough.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or unusual skin changes.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily for blood pressure control and simvastatin 20 mg daily for cholesterol management.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has a family history of heart disease, with his father having a heart attack at age 65.",
+  "social_history": "Patient is a retired construction worker. He reports being a former smoker but quit 10 years ago. He denies any alcohol or recreational drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amir Shuster",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Amir Shuster, a 36-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest, radiating to the left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, dizziness, or diaphoresis. There is no history of trauma. Upon further questioning, the patient reports that he has a history of hypertension and occasional chest pain, but notes that the pain he is experiencing today is more severe and alarming. Patient denies any recent illness or changes in medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain, denies palpitations, orthopnea or edema",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea or vomiting",
+    "gu": "Denies dysuria or urinary frequency",
+    "musculoskeletal": "Chest pain, denies joint pain or stiffness",
+    "skin": "Denies rash or skin lesions",
+    "neurologic": "Denies headache, dizziness or seizures"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with hypertension",
+  "social_history": "Non-smoker, occasional alcohol"
+}

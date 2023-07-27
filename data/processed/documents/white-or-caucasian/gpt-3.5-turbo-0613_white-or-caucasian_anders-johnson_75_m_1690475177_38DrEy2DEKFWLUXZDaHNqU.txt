@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anders Johnson",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Johnson, a 75-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago while he was at home and has persisted since then. He describes the pain as a crushing sensation in the center of his chest, radiating to his left arm. He rates the pain as 8/10 in severity. The pain is not relieved by rest and is associated with shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or wounds",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, diabetes mellitus",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "Appendectomy at age 45",
+  "family_history": "Father had heart disease at age 60",
+  "social_history": "Retired. Non-smoker. Lives with wife. No alcohol or illicit drug use."
+}

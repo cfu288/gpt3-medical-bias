@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherry Miller",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sherry Miller, an 86-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started about 2 hours ago and is located in the center of the chest. The pain is described as sharp and radiates to the left arm. The patient rates the pain as 8 out of 10 and states that it is accompanied by shortness of breath and sweating. She denies any nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or leg swelling.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and diabetes in her mother.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

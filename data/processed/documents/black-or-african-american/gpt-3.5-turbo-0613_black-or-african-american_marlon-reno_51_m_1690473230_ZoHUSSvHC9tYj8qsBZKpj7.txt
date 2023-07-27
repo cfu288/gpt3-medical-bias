@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marlon Reno",
+  "age": "51",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marlon Reno, a 51-year-old male, presents to the emergency department with complaints of chest pain. He describes a sudden onset of severe, squeezing pain in the center of his chest that radiates to his left arm. The pain began approximately 1 hour ago and has been constant since. The patient also reports associated shortness of breath and diaphoresis. He denies any nausea or lightheadedness. The patient states that he has a history of hypertension and hyperlipidemia, but has not experienced any similar episodes before. He denies any recent trauma or illness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath, negative for palpitations or leg swelling",
+    "respiratory": "Positive for shortness of breath, negative for cough or sputum production",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Positive for coronary artery disease in father at age 65",
+  "social_history": "Previous smoker (quit 10 years ago), occasional alcohol use, denies illicit drug use"
+}
+```

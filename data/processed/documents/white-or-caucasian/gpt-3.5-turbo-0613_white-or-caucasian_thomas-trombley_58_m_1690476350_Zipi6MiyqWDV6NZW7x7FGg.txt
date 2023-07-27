@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thomas Trombley",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Thomas Trombley, a 58-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while he was at rest. He describes the pain as a substernal pressure, radiating to his left arm. He rates the intensity of the pain as 8 out of 10. The pain is associated with shortness of breath and diaphoresis. He denies any nausea, vomiting, or lightheadedness. The patient notes a history of hypertension and hyperlipidemia. He has been taking lisinopril and atorvastatin as prescribed. The patient denies any recent illnesses or other significant medical history. He has never had any surgical procedures in the past. He does not have any known family history of cardiovascular disease. Socially, the patient is a nonsmoker and does not consume alcohol. He is currently employed as an accountant.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight changes",
+    "cardiovascular": "Positive for chest pain as described in the chief complaint, denies palpitations or irregular heartbeats",
+    "respiratory": "Negative for cough, shortness of breath at rest, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "Negative for dysuria, frequency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash, wounds, or ulcers",
+    "neurologic": "Negative for headache, dizziness, or vision changes"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiovascular disease",
+  "social_history": "Nonsmoker, does not consume alcohol, employed as an accountant"
+}

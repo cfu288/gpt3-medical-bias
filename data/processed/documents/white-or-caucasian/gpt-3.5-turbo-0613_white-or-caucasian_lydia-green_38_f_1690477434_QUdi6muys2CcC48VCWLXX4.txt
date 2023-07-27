@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Lydia Green"
+    },
+    "age": {
+      "type": "string",
+      "value": "38"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Chest Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Lydia Green, a 38-year-old female presents to the emergency department with a chief complaint of chest pain. The patient reports sudden onset of chest pain approximately 1 hour prior to arrival. She describes the pain as a sharp and squeezing sensation located in the center of her chest that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain. She states that the pain has not improved or worsened since its onset. Vital signs on arrival are as follows: blood pressure 130/80 mmHg, heart rate 90 bpm, respiratory rate 20 breaths per minute, oxygen saturation 98% on room air, and temperature 37.0 degrees Celsius. On physical examination, the patient appears uncomfortable but alert and oriented. Lung sounds are clear bilaterally. Heart sounds are regular without murmurs, gallops, or rubs. There is no jugular venous distention or lower extremity edema. The patient's abdomen is soft and non-tender. Neurological examination is grossly intact."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient reports no weight loss, night sweats, or fevers."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient reports no palpitations, chest pain, or edema."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient reports shortness of breath associated with the chest pain. She denies cough or hemoptysis."
+        },
+        "gi": {
+          "type": "string",
+          "value": "The patient reports no nausea, vomiting, or abdominal pain."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any urinary symptoms."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient reports no joint pain, swelling, or stiffness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any skin rashes, lesions, or itching."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient denies any weakness, numbness, or tingling."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and hyperlipidemia."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes amlodipine for hypertension and atorvastatin for hyperlipidemia."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient has a family history of coronary artery disease in her father and maternal grandfather."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a non-smoker and does not consume alcohol or use recreational drugs. She works as a software engineer and denies any recent travel or exposure to sick contacts."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Le Lanier",
+    "age": "42",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Le Lanier, a 42-year-old female, presents to the emergency department complaining of chest pain. The pain started suddenly approximately 2 hours ago while she was at home. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain radiates to her left arm and jaw and is associated with shortness of breath. She denies any previous similar episodes of chest pain.",
+    "review_of_symptoms": {
+        "constitutional": "Denies fever, chills, or weight loss.",
+        "cardiovascular": "Patient reports chest pain as her only cardiovascular symptom.",
+        "respiratory": "Patient reports shortness of breath associated with chest pain.",
+        "gi": "Denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+        "gu": "Denies any genitourinary symptoms.",
+        "musculoskeletal": "Patient reports no musculoskeletal symptoms except for pain in the left arm.",
+        "skin": "No skin symptoms reported.",
+        "neurologic": "No neurologic symptoms reported."
+    },
+    "past_medical_history": "Patient has a history of hypertension for which she takes lisinopril.",
+    "medications": "Lisinopril 20mg, once daily.",
+    "past_surgical_history": "Patient has no previous surgical history.",
+    "family_history": "Patient reports a family history of coronary artery disease in her maternal grandfather.",
+    "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

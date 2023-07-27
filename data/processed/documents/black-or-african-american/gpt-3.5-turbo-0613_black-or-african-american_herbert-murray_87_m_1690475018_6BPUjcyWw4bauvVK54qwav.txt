@@ -1,0 +1,21 @@
+{
+  "patient_name": "Herbert Murray",
+  "age": "87",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Pain radiates to the left arm and neck. Patient also reports shortness of breath and sweating. Pain started approximately 2 hours ago and has not resolved. The patient denies any previous episodes of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as the primary symptom. Denies palpitations, edema, or history of heart disease.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "No skin abnormalities noted.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which he takes medications.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia. No known medication allergies.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "No significant family history of heart disease or other chronic conditions.",
+  "social_history": "Patient is a retired accountant and lives alone. He is a nonsmoker and denies alcohol or recreational drug use."
+}

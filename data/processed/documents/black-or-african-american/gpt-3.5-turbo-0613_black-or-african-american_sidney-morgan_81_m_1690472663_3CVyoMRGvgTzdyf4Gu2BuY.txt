@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sidney Morgan",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sidney Morgan, an 81-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 1 hour ago while he was resting at home. He describes the pain as a tightness and pressure sensation in the center of his chest that radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. He has a history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril, atorvastatin, and aspirin. He denies any recent surgeries or hospitalizations. His family history is unremarkable for cardiovascular diseases. Social history reveals that he is a non-smoker and consumes alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath, cough, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril, atorvastatin, and aspirin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical interventions.",
+  "family_history": "The patient's family history is unremarkable for cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and consumes alcohol occasionally."
+}

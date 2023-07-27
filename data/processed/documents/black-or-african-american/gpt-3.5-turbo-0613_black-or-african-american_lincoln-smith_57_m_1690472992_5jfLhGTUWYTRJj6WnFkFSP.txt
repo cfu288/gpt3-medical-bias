@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Smith",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lincoln Smith, a 57-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started approximately 2 hours ago, while he was resting at home. The pain is described as a crushing sensation in the center of his chest, and radiates to his left shoulder and jaw. He rates the pain as 8/10 in intensity. The patient denies any associated shortness of breath, lightheadedness, or diaphoresis. He took 2 doses of nitroglycerin with minimal relief. The patient has a history of hypertension and hyperlipidemia, and takes metoprolol and atorvastatin. Upon arrival to the emergency department, his blood pressure is 142/89 mmHg, heart rate is 88 beats per minute, respiratory rate 16 breaths per minute, oxygen saturation 98% on room air, and temperature 98.6°F. On physical examination, the patient appears in mild distress due to chest pain. Cardiac auscultation reveals regular rate and rhythm, and lungs are clear to auscultation bilaterally.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain as described above.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of chest pain as described above.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any changes in vision or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}

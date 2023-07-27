@@ -1,0 +1,21 @@
+{
+  "patient_name": "Essie Washington",
+  "age": "94",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of chest pain. She states that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a sharp, stabbing sensation that worsens with deep breaths. She denies any associated symptoms such as shortness of breath, diaphoresis, or dizziness. She has a history of hypertension and takes medication for it. On physical examination, the patient appears uncomfortable but is in no acute distress. Her vital signs are within normal limits. EKG was performed and showed normal sinus rhythm with no ST segment changes or evidence of acute myocardial infarction. Given her age and symptoms, the possibility of acute coronary syndrome cannot be ruled out. Further evaluation and monitoring are necessary.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports occasional palpitations but denies chest pain or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. She also has a history of osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is significant for hypertension and coronary artery disease.",
+  "social_history": "Patient is retired and lives alone. She does not smoke or consume alcohol."
+}

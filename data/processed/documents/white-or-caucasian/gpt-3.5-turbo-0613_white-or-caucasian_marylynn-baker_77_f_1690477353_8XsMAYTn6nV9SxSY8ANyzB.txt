@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marylynn Baker",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain started suddenly about 1 hour ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain radiates to the left shoulder and jaw. It is associated with shortness of breath and sweating. The patient denies any previous episodes of chest pain or cardiac history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports chest pain, shortness of breath, and sweating. No palpitations or edema.",
+    "respiratory": "The patient denies cough, hemoptysis, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "No headache, dizziness, or focal weakness reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and simvastatin 20mg daily for management of hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in the father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

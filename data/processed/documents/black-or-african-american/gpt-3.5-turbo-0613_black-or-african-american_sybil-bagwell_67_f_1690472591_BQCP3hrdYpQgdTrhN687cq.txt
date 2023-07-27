@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sybil Bagwell",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the Emergency Department with complaints of severe chest pain that started approximately 2 hours ago. She describes the pain as a sharp, squeezing sensation in the center of her chest, radiating to her left arm. She states that the pain is persistent and rates it as an 8 on a scale of 1 to 10. She denies any associated shortness of breath, nausea, or diaphoresis. Patient has a history of hypertension and dyslipidemia. She takes medications for both conditions. She has no known drug allergies. Patient has no known history of cardiac disease or prior heart attacks. On physical examination, patient appears uncomfortable and is diaphoretic. Lung sounds are clear bilaterally. Heart sounds are regular with no murmurs, rubs, or gallops. There is no lower extremity edema noted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain as described above. No history of palpitations or syncope.",
+    "respiratory": "No history of cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, changes in bowel habits, or nausea/vomiting.",
+    "gu": "No history of dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "No history of rash or skin lesions.",
+    "neurologic": "Patient denies any changes in sensation, weakness, or problems with coordination."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No family history of cardiac disease or other significant medical conditions.",
+  "social_history": "Patient is a retired school teacher. She lives alone. She denies tobacco use and reports occasional alcohol consumption."
+}

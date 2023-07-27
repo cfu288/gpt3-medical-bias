@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Earnestine Reddick",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Earnestine Reddick, is a 72-year-old female who presents to the emergency department with a chief complaint of chest pain. The patient states that the pain began approximately two hours ago and is a sharp, stabbing sensation located in the center of her chest. She rates the pain as 8 out of 10 in severity and describes it as constant. The pain is exacerbated with deep breathing and relieved with rest. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension, atorvastatin 20 mg daily for hyperlipidemia, and ibuprofen 400 mg PRN for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and coronary artery disease in her mother and father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and denies any illicit drug use."
+}
+```

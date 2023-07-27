@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gerri Gray",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of severe chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. Patient also reports shortness of breath and diaphoresis. She denies any associated symptoms such as nausea, vomiting, or lightheadedness. She has a history of hypertension and hyperlipidemia and is currently taking medications for these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain and shortness of breath as described above.",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Metoprolol 50mg daily, atorvastatin 40mg daily.",
+  "past_surgical_history": "Appendectomy in 2005.",
+  "family_history": "Father with history of myocardial infarction.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deloris Jemmott",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Deloris Jemmott, a 62-year-old female, presents to the emergency department with complaint of acute onset severe chest pain. The pain is described as sharp, located in the center of the chest, and radiates to the left arm. The pain started approximately 1 hour ago and has been gradually worsening. The patient denies any shortness of breath, palpitations, or dizziness. She has a history of hypertension and takes medication for it. Upon arrival, vital signs were stable. EKG was performed in the emergency department and showed ST segment elevation in leads II, III, and aVF. The patient's pain score is 8/10. Given the findings, myocardial infarction is suspected and the patient has been started on aspirin and nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension but denies any other cardiovascular symptoms such as palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or chest tightness.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary complaints reported by the patient.",
+    "musculoskeletal": "The patient reports the chest pain but denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes antihypertensive medication but is unsure of the name.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

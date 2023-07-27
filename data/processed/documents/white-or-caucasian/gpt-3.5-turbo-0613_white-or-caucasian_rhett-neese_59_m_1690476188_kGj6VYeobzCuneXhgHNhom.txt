@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhett Neese",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. Pain is described as a crushing sensation that started approximately 2 hours ago. Pain is radiating to the left arm and jaw. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough or dyspnea",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or focal neurologic symptoms"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and atorvastatin",
+  "past_surgical_history": "Patient has no previous surgeries",
+  "family_history": "Positive for family history of heart disease",
+  "social_history": "Patient is a smoker with a 30 pack-year history"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Louanne Muck",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of acute onset of severe chest pain. Pain described as squeezing and pressure-like, radiating to the left arm. Pain started approximately 2 hours ago and has been constant. Patient also reports shortness of breath and diaphoresis along with the chest pain. No relieving or exacerbating factors reported. No associated symptoms such as nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weakness, or fatigue",
+    "cardiovascular": "Positive for chest pain and shortness of breath as described in chief complaint. Negative for palpitations, orthopnea, paroxysmal nocturnal dyspnea, and lower extremity edema",
+    "respiratory": "Positive for shortness of breath as described in chief complaint. Negative for cough, sputum production, wheezing, and hemoptysis",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, and melena",
+    "gu": "Negative for dysuria, hematuria, and urinary frequency",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash, lesions, or pruritus",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Atenolol 25mg once daily, Simvastatin 40mg once daily",
+  "past_surgical_history": "Appendectomy (date unknown)",
+  "family_history": "Negative for family history of coronary artery disease, heart attack, or stroke",
+  "social_history": "Denies tobacco or illicit drug use. Non-drinker."
+}
+```

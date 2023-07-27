@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Hines",
+  "age": "65",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ollie Hines, a 65-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a crushing, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 on the pain scale. She is also experiencing shortness of breath and diaphoresis. The patient denies any associated symptoms such as nausea, vomiting, or dizziness. She has no known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or fever.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or irregular heartbeats reported.",
+    "respiratory": "The patient reports shortness of breath. No cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest pain that radiates to the left arm and jaw.",
+    "skin": "No skin lesions or rashes reported.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient states that she has a history of hypertension and hyperlipidemia. She takes medications for these conditions.",
+  "medications": "The patient takes Amlodipine for hypertension and Atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient's father had a history of myocardial infarction.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

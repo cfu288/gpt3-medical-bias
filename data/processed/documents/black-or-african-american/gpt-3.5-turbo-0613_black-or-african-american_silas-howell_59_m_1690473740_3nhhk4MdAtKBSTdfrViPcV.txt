@@ -1,0 +1,21 @@
+{
+  "patient_name": "Silas Howell",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Silas Howell, a 59-year-old male, presents to the emergency department with complaints of chest pain. He reports that the pain started suddenly about 2 hours ago. He describes the pain as a crushing sensation that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any previous episodes of similar chest pain. On further questioning, he reports that he has a history of hypertension and hyperlipidemia. He takes medications for both conditions and is compliant with his prescribed medications. He denies any recent illnesses or injuries. He denies any recent changes in his diet or exercise routine. He has not had any recent surgeries. He has a family history of heart disease, with his father having a heart attack in his 60s. In terms of social history, he smokes half a pack of cigarettes per day and drinks alcohol occasionally.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain with radiation to the left arm.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, pruritus, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has not had any previous surgeries.",
+  "family_history": "The patient has a family history of heart disease, with his father having a heart attack in his 60s.",
+  "social_history": "The patient smokes half a pack of cigarettes per day and drinks alcohol occasionally."
+}

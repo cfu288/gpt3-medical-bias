@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jasper Lee",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jasper Lee, is a 78-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the chest pain started approximately 1 hour ago while he was at rest. The pain is described as a pressure-like sensation in the center of his chest and radiates to his left arm. He rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He does report previous episodes of chest pain which were relieved with rest. He has a history of hypertension and hyperlipidemia and is currently taking medications for both conditions. He denies any recent illnesses or injuries. On physical examination, the patient appears uncomfortable but is alert and oriented. His vital signs are stable with a blood pressure of 130/80, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Cardiac auscultation reveals normal S1 and S2 sounds with no murmurs, rubs, or gallops. There is no jugular venous distention or lower extremity edema. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above. There is no palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in range of motion.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and brother.",
+  "social_history": "The patient is a retired engineer. He denies any tobacco or alcohol use."
+}

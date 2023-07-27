@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Everett Boyd",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, a 72-year-old male named Everett Boyd, presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain began suddenly earlier this evening while he was at home watching TV. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any nausea, vomiting, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports history of hypertension.",
+    "respiratory": "No cough, sputum production, or shortness of breath at rest.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He lives alone and is retired."
+}
+
+```

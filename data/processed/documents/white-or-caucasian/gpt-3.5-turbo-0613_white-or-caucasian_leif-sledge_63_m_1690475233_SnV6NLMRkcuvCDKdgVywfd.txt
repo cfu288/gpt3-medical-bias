@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Leif Sledge",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Patient describes the pain as a tightness and pressure in the center of his chest. Pain began approximately 2 hours ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has a history of hypertension and hyperlipidemia. EKG was performed on arrival and showed ST-segment depression in leads V2-V4. Cardiac enzymes were ordered and patient was started on nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain as chief complaint",
+    "respiratory": "Denies any cough, shortness of breath, or wheezing",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies any urinary symptoms",
+    "musculoskeletal": "Denies any joint pain or muscle weakness",
+    "skin": "Denies any rashes or skin lesions",
+    "neurologic": "Denies any headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin regularly.",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of coronary artery disease in his father.",
+  "social_history": "Patient is retired. He was a smoker for 30 years, but quit 10 years ago. He denies any alcohol or drug use."
+}
+```

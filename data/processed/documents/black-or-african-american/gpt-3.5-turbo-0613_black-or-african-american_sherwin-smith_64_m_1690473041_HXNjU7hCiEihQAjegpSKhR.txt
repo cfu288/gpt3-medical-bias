@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherwin Smith",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is a 64-year-old male who presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, substernal pain radiating to the left arm. The pain is associated with shortness of breath and diaphoresis. Upon further questioning, the patient states that he has a history of hypertension and high cholesterol. He denies any recent trauma or illnesses. He reports that he took his prescribed medications this morning, which include lisinopril and simvastatin.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight changes.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and mild dizziness.",
+    "respiratory": "The patient reports shortness of breath, especially with exertion, but denies cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient reports occasional headaches but denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol, for which he takes lisinopril and simvastatin.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction in his 70s. There is no other significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He lives with his wife and is retired."
+}

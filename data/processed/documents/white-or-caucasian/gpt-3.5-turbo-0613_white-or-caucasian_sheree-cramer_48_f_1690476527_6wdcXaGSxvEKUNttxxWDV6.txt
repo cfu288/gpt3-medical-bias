@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sheree Cramer",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Sheree Cramer, a 48-year-old female, presented to the emergency department with a chief complaint of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. She rates the pain as 8 out of 10 in severity and states that it started approximately 2 hours ago. The pain is associated with shortness of breath and diaphoresis. She denies any nausea, vomiting, or lightheadedness. Given the patient's symptoms and risk factors for cardiovascular disease, a thorough evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, diaphoresis.",
+    "respiratory": "Denies cough, sputum production, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and a previous myocardial infarction.",
+  "medications": "The patient is currently taking aspirin, lisinopril, metoprolol, and atorvastatin for her cardiac conditions.",
+  "past_surgical_history": "The patient has a history of coronary artery bypass graft surgery.",
+  "family_history": "The patient's father had a history of myocardial infarction, but there is no history of other significant cardiovascular diseases in the family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a nurse and is currently under stress due to increased workload during the COVID-19 pandemic."
+}

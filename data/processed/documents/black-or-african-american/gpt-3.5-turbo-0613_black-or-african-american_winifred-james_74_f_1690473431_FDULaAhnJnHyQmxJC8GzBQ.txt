@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winifred James",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Winifred James, a 74-year-old female, presents to the emergency department with complaints of chest pain. She states that the pain started approximately one hour ago and is described as a squeezing sensation in the center of her chest. The pain radiates to her left arm and is associated with shortness of breath and diaphoresis. She denies any alleviating or aggravating factors. The pain is rated 9 out of 10 in intensity. She denies any previous episodes of chest pain or similar symptoms. Upon arrival, the patient appears anxious and is clutching her chest.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, shortness of breath, diaphoresis",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath at rest",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rash, pruritus, or changes in skin color",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, type 2 diabetes, osteoarthritis",
+  "medications": "Amlodipine, atorvastatin, metformin, acetaminophen",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Mother with history of coronary artery disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

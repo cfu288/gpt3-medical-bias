@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elsie Wills",
+  "age": "90",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Elsie Wills, a 90-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started suddenly approximately 1 hour ago. She describes the pain as a pressure-like sensation in the center of her chest that radiates to her left arm. She rates the pain as 8 out of 10 in severity. She denies any associated shortness of breath, diaphoresis, or nausea/vomiting. She has a history of hypertension and hyperlipidemia. She takes Amlodipine 5mg daily and Simvastatin 20mg daily. She denies any recent surgeries. No known family history of cardiac conditions. Elsie is a former smoker, having quit 10 years ago. She has no history of illicit drug use. She denies any history of allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or lightheadedness.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "No known family history of cardiac conditions",
+  "social_history": "Former smoker (quit 10 years ago), no history of illicit drug use"
+}

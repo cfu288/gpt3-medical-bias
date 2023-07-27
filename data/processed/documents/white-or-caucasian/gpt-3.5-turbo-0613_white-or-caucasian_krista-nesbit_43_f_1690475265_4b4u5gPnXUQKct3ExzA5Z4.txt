@@ -1,0 +1,21 @@
+{
+  "patient_name": "Krista Nesbit",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She reports that the pain started approximately 3 hours ago and is a dull, aching sensation in the center of her chest. She rates the pain as a 6 out of 10. The pain is not radiating to her arms, but she does feel a slight pressure in her chest. The pain is not worsened by exertion and there are no associated symptoms such as shortness of breath or diaphoresis. The patient denies any history of angina or heart disease. She has no known risk factors for cardiac disease such as smoking or hypertension. On physical examination, the patient appears in no acute distress and is hemodynamically stable. Cardiac auscultation reveals regular rate and rhythm with no murmurs or gallops. Breath sounds are clear bilaterally. Initial EKG shows normal sinus rhythm without ST segment changes or T-wave inversions. Given the patient's risk factors for cardiac disease, a troponin level has been obtained and the patient has been placed on telemetry for observation.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "As mentioned in history of present illness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any focal weakness or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for blood pressure control. She is otherwise healthy.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of cardiac disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She works as a teacher and lives a sedentary lifestyle."
+}

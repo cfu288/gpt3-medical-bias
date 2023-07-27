@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhoda Evans",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rhoda Evans, an 80-year-old female, presented to the emergency department with chief complaint of chest pain. The pain started suddenly about 2 hours ago while she was at rest. She describes the pain as a pressure-like sensation in the center of her chest, radiating to her left arm. She rates the pain as a 7 out of 10 in severity and states that it has not improved or worsened since onset. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has a history of hypertension and hyperlipidemia but is unsure if she has ever experienced this type of pain before. She takes metoprolol and atorvastatin as prescribed. Upon arrival, an EKG was obtained which showed sinus rhythm and no ST segment elevation or depression. Cardiac enzymes are pending. The patient is currently being monitored and will be evaluated further.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or weight loss.",
+    "cardiovascular": "The patient reports chest pain as described above. No history of palpitations or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "No history of joint pain or swelling.",
+    "skin": "No rashes or skin lesions noted.",
+    "neurologic": "No history of headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "No history of significant surgical procedures.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is retired. She does not smoke, drink alcohol, or use illicit drugs."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Jones",
+  "age": "85",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones is an 85-year-old male who presented to the emergency department with complaints of chest pain. He reports that the pain started suddenly about 2 hours ago and is located in the center of his chest. He describes the pain as a pressure-like sensation that radiates to his left arm. The patient states that the pain is 8/10 in severity and is accompanied by shortness of breath. He denies any associated symptoms such as nausea, vomiting, or diaphoresis. He also denies any recent physical exertion or trauma. Upon arrival to the emergency department, he was placed on oxygen and started on cardiovascular monitoring. An initial EKG was obtained which showed sinus rhythm with no acute ST-T wave changes. A troponin level was obtained and is pending at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Negative for cough, dyspnea, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, type 2 diabetes",
+  "medications": "Lisinopril, atorvastatin, metformin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father had a myocardial infarction at the age of 60",
+  "social_history": "Retired, lives alone, non-smoker"
+}

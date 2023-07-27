@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scott Gardner",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Scott Gardner, a 56-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago while he was resting at home. The patient describes the pain as a crushing sensation in the middle of his chest. He rates the pain as 8 out of 10 in severity. The pain radiates to his left arm and jaw. He also reports feeling short of breath and nauseous. There is no alleviating or exacerbating factor mentioned by the patient. The patient denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath, which are addressed in the history of present illness.",
+    "respiratory": "The patient reports shortness of breath, which is addressed in the history of present illness.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain radiating to his left arm and jaw, which is addressed in the history of present illness.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any focal weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions, which will be documented separately.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father who had a heart attack in his 50s.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is retired and leads a sedentary lifestyle."
+}

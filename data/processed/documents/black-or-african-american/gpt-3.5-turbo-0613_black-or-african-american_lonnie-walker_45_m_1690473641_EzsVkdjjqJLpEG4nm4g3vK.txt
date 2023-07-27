@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lonnie Walker",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe and persistent chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation in the center of the chest, radiating to the left arm. The patient denies any shortness of breath or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain. Negative for palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain. Negative for joint pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for weakness or altered mental status."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a smoker with a 20 pack-year history."
+}

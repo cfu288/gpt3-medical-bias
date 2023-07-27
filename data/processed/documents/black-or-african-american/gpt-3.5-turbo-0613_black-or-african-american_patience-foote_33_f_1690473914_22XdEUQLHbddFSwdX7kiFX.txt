@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patience Foote",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of severe chest pain. She reports that the pain began approximately 1 hour ago and is described as a burning sensation that radiates to her left arm. She rates the pain as 8 out of 10 in intensity. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintended weight changes.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or wounds.",
+    "neurologic": "Negative for headaches or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and asthma.",
+  "medications": "Patient takes albuterol inhaler and lisinopril for asthma and hypertension, respectively.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular disease.",
+  "social_history": "Patient denies smoking, alcohol, or drug use. She is a stay-at-home mother and has no occupational exposures."
+}

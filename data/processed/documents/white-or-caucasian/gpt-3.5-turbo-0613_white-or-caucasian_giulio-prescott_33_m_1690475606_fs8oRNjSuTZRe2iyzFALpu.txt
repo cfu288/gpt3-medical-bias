@@ -1,0 +1,21 @@
+{
+  "patient_name": "Giulio Prescott",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Prescott is a 33-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain began suddenly approximately two hours ago. He describes the pain as a crushing sensation in his chest that radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. He denies any recent trauma or injury. Upon arrival, his vital signs were stable, and he appeared uncomfortable but alert and oriented. A preliminary assessment suggests a possible myocardial infarction. He has been started on supplemental oxygen and an electrocardiogram (ECG) has been ordered. He is being closely monitored.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath, diaphoresis.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient reports taking over-the-counter ibuprofen as needed for pain relief.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient does not smoke or consume alcohol. He has no history of illicit drug use. He is employed as a software engineer and is married with two children."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nate Willow",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a squeezing sensation and radiates to the left arm. The patient also reports shortness of breath and diaphoresis. The pain is not relieved with rest and has been persistent since its onset. The patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No weakness, numbness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

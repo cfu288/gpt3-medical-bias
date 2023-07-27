@@ -1,0 +1,21 @@
+{
+  "patient_name": "Salvatore Jones",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Salvatore Jones, a 37-year-old male, presented to the emergency department with complaints of chest pain. Patient reports that the pain started approximately 2 hours ago while he was at rest. The pain is described as a sharp, squeezing sensation in the center of the chest, radiating to the left arm. Patient also reports associated shortness of breath and diaphoresis. The pain has not improved with rest and is rated 8/10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, shortness of breath.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, pruritus, or changes in color.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes regular medications for these conditions.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker. Denies alcohol or illicit drug use. Works as a software engineer and exercises regularly."
+}

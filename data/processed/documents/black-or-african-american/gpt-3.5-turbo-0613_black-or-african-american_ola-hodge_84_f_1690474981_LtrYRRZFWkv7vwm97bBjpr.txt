@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Hodge",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, an 84-year-old female named Ola Hodge, presents to the emergency department with chief complaint of chest pain. The pain began 3 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8 on a scale of 1 to 10. She states that the pain radiates to her left arm and is associated with shortness of breath. She denies any nausea or vomiting. The patient states that she has a history of hypertension and hyperlipidemia. She takes medications for these conditions as prescribed. She denies any recent illnesses or injuries. The patient has never had any surgeries, and her family history is significant for coronary artery disease in her father. In terms of social history, the patient is retired and lives alone. She does not smoke or drink alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain as mentioned earlier. No palpitations or irregular heartbeats.",
+    "respiratory": "The patient reports shortness of breath associated with the chest pain. No cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has never had any surgeries.",
+  "family_history": "The patient's father had coronary artery disease.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or drink alcohol."
+}

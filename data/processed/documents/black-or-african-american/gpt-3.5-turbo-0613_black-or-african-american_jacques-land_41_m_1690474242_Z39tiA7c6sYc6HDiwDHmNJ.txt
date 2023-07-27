@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Land",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the ED with complaints of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. Pain started approximately 2 hours ago while he was at rest. He denies any shortness of breath, diaphoresis, or nausea. Patient states that he has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for chest pain.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Lisinopril 20mg daily for hypertension, Atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Positive for family history of heart disease in father who had a coronary artery bypass graft (CABG) at age 50.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

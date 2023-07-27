@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernestine Smith",
+  "age": "80",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset chest pain. The pain is described as sharp and radiating to the left arm. The patient also reports associated shortness of breath and diaphoresis. The symptoms started approximately 1 hour ago and have not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever or chills.",
+    "cardiovascular": "Patient reports a history of hypertension and previous myocardial infarction.",
+    "respiratory": "Patient reports shortness of breath upon exertion.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports no musculoskeletal symptoms.",
+    "skin": "The patient reports no skin symptoms.",
+    "neurologic": "The patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension, previous myocardial infarction",
+  "medications": "Metoprolol 50mg daily, Lisinopril 10mg daily, Aspirin 81mg daily",
+  "past_surgical_history": "The patient has a history of coronary artery bypass grafting.",
+  "family_history": "The patient reports no significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a lifetime nonsmoker and denies alcohol or drug use."
+}

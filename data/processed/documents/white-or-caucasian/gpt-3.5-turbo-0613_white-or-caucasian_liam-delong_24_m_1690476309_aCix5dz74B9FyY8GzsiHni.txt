@@ -1,0 +1,21 @@
+{
+  "patient_name": "Liam Delong",
+  "age": "24",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the center of the chest. The pain is exacerbated by deep breaths and movement. Patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. Upon further questioning, the patient reports a history of occasional heartburn but states that this pain feels different from his usual symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or lightheadedness.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Positive for occasional heartburn, negative for nausea or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for chest pain, negative for joint pain or muscle stiffness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has no significant past medical history. He does not take any chronic medications.",
+  "medications": "Patient does not take any chronic medications.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient denies any significant family history of cardiovascular or pulmonary diseases.",
+  "social_history": "Patient reports occasional alcohol use and occasional marijuana use. He does not smoke cigarettes and denies any intravenous drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Herb Mcbride",
+  "age": "75",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Mcbride, is a 75-year-old male who presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as an 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or nausea. The pain is constant and has not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and hyperlipidemia. He denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient reports occasional joint pain but denies any recent trauma or falls.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5 mg daily and atorvastatin 20 mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father passed away from a myocardial infarction at the age of 65. His mother is alive and has a history of hypertension and osteoarthritis.",
+  "social_history": "The patient is a former smoker. He quit smoking 10 years ago and does not consume alcohol."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyle Watts",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Watts is a 68-year-old male who presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is a squeezing sensation in the center of his chest. He rates the pain as 8 out of 10 in severity. Mr. Watts states that the pain radiates down his left arm and is accompanied by shortness of breath and diaphoresis. He denies any associated symptoms such as nausea, vomiting, or dizziness. He states that he has a history of hypertension and is currently on medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest pain and pain radiating down his left arm.",
+    "skin": "The patient denies any skin rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or strength."
+  },
+  "past_medical_history": "Mr. Watts has a past medical history of hypertension.",
+  "medications": "The patient is currently taking medication for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports a family history of heart disease.",
+  "social_history": "The patient is a retired construction worker. He denies any tobacco or alcohol use."
+}

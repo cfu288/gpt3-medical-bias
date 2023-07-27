@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elwood Flowers",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Flowers is a 77-year-old male presenting to the emergency department with complaints of chest pain. The pain is described as a squeezing sensation in the center of the chest, radiating to the left arm and jaw. The pain started approximately 1 hour ago and has been gradually worsening. He rates the pain as 8/10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient complains of chest pain with associated shortness of breath and diaphoresis.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints other than the chest pain.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol."
+}

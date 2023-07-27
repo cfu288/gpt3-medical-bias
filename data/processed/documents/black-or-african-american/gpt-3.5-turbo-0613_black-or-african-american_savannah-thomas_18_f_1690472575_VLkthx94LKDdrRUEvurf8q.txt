@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Savannah Thomas",
+  "age": "18",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is an 18-year-old female presenting to the emergency department with complaints of chest pain. Pain began approximately 1 hour ago while she was at home. She describes the pain as a sharp, stabbing sensation that is worse with deep breaths, and it radiates to her back. She denies any associated shortness of breath, cough, fever, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or orthopnea.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint or muscle pain.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "No known medical conditions.",
+  "medications": "None.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac or pulmonary diseases.",
+  "social_history": "Patient denies tobacco, alcohol, or recreational drug use. She is a high school student and lives with her parents."
+}
+```

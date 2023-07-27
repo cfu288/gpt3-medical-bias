@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewitt Green",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Dewitt Green, a 77-year-old male, presents to the emergency department with complaints of sudden onset chest pain. The patient describes the pain as a squeezing sensation in the center of his chest, radiating down his left arm. The pain started approximately 30 minutes ago while the patient was at rest. Upon inquiry, the patient reports dyspnea, diaphoresis, and nausea. The patient denies any history of similar episodes. Additionally, the patient has a past medical history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin respectively. Furthermore, the patient states that he underwent a cholecystectomy 5 years ago due to gallstones. There is no family history of cardiovascular disease. Social history reveals that the patient is a non-smoker and does not consume alcohol or recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports exertional dyspnea, palpitations, and occasional peripheral edema.",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath at rest.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "Negative for rash, pruritus, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, syncope, or changes in sensorium."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, does not consume alcohol or recreational drugs"
+}

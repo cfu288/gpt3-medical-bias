@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daron Crawley",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. The pain is radiating to the left arm and neck. The patient denies any shortness of breath, nausea, or diaphoresis. The patient states that he has a history of hypertension and dyslipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as previously described.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms other than the chest pain.",
+    "skin": "Patient denies any rashes or skin abnormalities.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia.",
+  "medications": "Patient is currently taking amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports a family history of heart disease in his father.",
+  "social_history": "Patient is a former smoker, with a 20 pack-year history. He quit smoking 10 years ago. He denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnson Reeves",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Johnson Reeves, a 27-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain began approximately 2 hours ago and is localized in the center of the chest. He describes the pain as a sharp, stabbing sensation that worsens with deep breathing and movement. There is no radiation of the pain to the arms or jaw. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or palpitations. He denies any recent trauma or strenuous activity that could have triggered the pain. Upon further questioning, the patient reports that he has a history of acid reflux but states that this pain feels different from his typical reflux symptoms. He has taken over-the-counter antacids without relief. The patient also mentions a family history of heart disease, with his father experiencing a myocardial infarction at age 50. He denies any previous hospitalizations or surgeries. There are no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or racing heart.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for acid reflux symptoms.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of acid reflux.",
+  "medications": "The patient occasionally takes over-the-counter antacids for his acid reflux.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for heart disease in father who had a myocardial infarction at age 50.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use."
+}

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Lorin Ranta",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lorin Ranta, a 33-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain began approximately 2 hours ago while she was at rest. The pain is substernal, sharp in nature, and radiates to her left arm. She rates the pain as a 8 out of 10 in severity. She denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. On further questioning, she reports a history of smoking for the past 10 years, with a current pack-year history of 10. She denies any previous episodes of chest pain. "
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a past medical history of migraines and asthma. She takes albuterol inhaler as needed for asthma symptoms. She does not have any known drug allergies.",
+  
+  "medications": "Albuterol inhaler as needed.",
+  
+  "past_surgical_history": "The patient has no previous surgeries.",
+  
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of myocardial infarction.",
+  
+  "social_history": "The patient is a smoker with a 10 pack-year history. She denies alcohol or drug use."
+}

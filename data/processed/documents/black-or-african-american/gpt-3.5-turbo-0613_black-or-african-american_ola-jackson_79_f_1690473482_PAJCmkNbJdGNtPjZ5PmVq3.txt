@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Jackson",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ola Jackson, a 79-year-old female, presents to the emergency department with chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation, radiating to her left arm. She rates the pain as 8/10 in intensity. The patient states that she has never experienced this type of pain before and it is not relieved with rest. She denies any shortness of breath, palpitations, or diaphoresis. On physical examination, the patient appears uncomfortable and is diaphoretic. Her blood pressure is 150/90 mmHg, heart rate is 110 beats per minute, respiratory rate is 20 breaths per minute, temperature is 98.6°F, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies frequency, urgency, or dysuria",
+    "musculoskeletal": "Positive for radiating pain to the left arm",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's home medications include amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

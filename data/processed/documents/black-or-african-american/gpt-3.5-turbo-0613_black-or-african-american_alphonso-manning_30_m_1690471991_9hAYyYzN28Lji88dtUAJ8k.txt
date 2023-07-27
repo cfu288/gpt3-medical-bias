@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alphonso Manning",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Alphonso Manning, a 30-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports the onset of severe substernal chest pain approximately 1 hour ago. The pain is described as pressure-like and radiating to the left arm. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has no past medical history of cardiovascular disease or risk factors. Upon further questioning, the patient states that he has been under significant stress lately and has been working long hours. He denies any recent physical exertion or trauma. No alleviating or aggravating factors were mentioned. No other pertinent positives or negatives were reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Reports chest pain as previously described. No palpitations or syncope.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Reports no joint pain or swelling.",
+    "skin": "No rashes, lesions, or changes in the skin noted.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient denies taking any medications or over-the-counter supplements.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He works as a desk job and is under significant stress."
+}
+```

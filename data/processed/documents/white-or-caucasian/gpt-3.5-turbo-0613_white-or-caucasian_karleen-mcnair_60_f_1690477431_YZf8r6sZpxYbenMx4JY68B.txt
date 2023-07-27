@@ -1,0 +1,21 @@
+{
+  "patient_name": "Karleen Mcnair",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Mcnair is a 60-year-old female presenting to the emergency department with complaints of chest pain. The pain started this morning and is located in the center of her chest. She describes it as a squeezing and pressure sensation that radiates to her left arm. She also reports shortness of breath and nausea. She denies any previous episodes of chest pain or heart-related issues.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations or lightheadedness.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Ms. Mcnair has a history of hypertension and hyperlipidemia. She is currently taking medications for these conditions.",
+  "medications": "She takes hydrochlorothiazide for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for a family history of cardiovascular disease.",
+  "social_history": "She is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kelvin Wilder",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Wilder presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis. Given the severity and location of the pain, a thorough evaluation for acute coronary syndrome is indicated.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No weakness, numbness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Wilder has a history of hypertension and hyperlipidemia. He is currently prescribed with lisinopril 20 mg daily and atorvastatin 40 mg daily.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Father had a myocardial infarction at age 65",
+  "social_history": "Mr. Wilder is a non-smoker and denies alcohol or drug use. He works as a computer programmer and is married with two children."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arthur Jones",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Arthur Jones, an 84-year-old male, presents to the emergency department with a chief complaint of chest pain. He states that the pain started approximately 2 hours ago and is described as a squeezing sensation in the center of his chest. The pain is severe and radiates to his left arm. The patient denies any associated shortness of breath, palpitations, or diaphoresis. He did not take any medications or seek any medical attention prior to coming to the emergency department. Upon arrival, his vital signs were stable with a blood pressure of 130/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 97% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient presents with chest pain radiating to the left arm. He denies any palpitations, orthopnea, paroxysmal nocturnal dyspnea, or lower extremity swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any dizziness, syncope, headaches, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He takes lisinopril 10 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg twice a day for his chronic medical conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily, metformin 1000 mg twice a day",
+  "past_surgical_history": "The patient has a history of a cholecystectomy performed 10 years ago.",
+  "family_history": "The patient's father passed away from a heart attack at the age of 70. His mother is alive and has a history of hypertension and diabetes.",
+  "social_history": "The patient is retired and lives at home with his wife. He denies any tobacco or illicit drug use. He consumes alcohol occasionally, about 1-2 drinks per week."
+}

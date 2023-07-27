@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kamal Richards",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Richards is a 32-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started abruptly approximately 1 hour ago and is described as a sharp, stabbing pain located in the left side of the chest. The pain is rated 8 out of 10 in intensity and radiates to the left arm. The patient denies any shortness of breath, diaphoresis, or palpitations. He reports no associated symptoms such as nausea or vomiting. The pain is not relieved with rest. He denies any recent trauma or strenuous activity. Mr. Richards has no significant medical history or risk factors for cardiovascular disease. On physical examination, the patient appears uncomfortable and is clutching his chest. Vital signs are stable with a heart rate of 85 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 99% on room air. Cardiovascular examination reveals a regular rate and rhythm with no murmurs, rubs, or gallops. Lungs are clear to auscultation. Abdominal and neurological examinations are unremarkable. Given the patient's presentation of acute chest pain, further evaluation and diagnostic testing are warranted to rule out any cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or malaise.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

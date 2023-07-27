@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jarvis Jones",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a squeezing sensation in the center of the chest that radiated to his left arm. Pain started approximately 2 hours ago and has been constant since then. Patient denies any associated shortness of breath, nausea, vomiting, or diaphoresis. No relief with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Aside from the chest pain, patient has no previous history of heart disease or palpitations.",
+    "respiratory": "Patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "No history of recent trauma or musculoskeletal injury.",
+    "skin": "No rashes, lesions, or changes in the skin.",
+    "neurologic": "No history of neurological deficits or symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history significant for hypertension and hyperlipidemia. Takes Lisinopril 10 mg daily and Simvastatin 40 mg daily as prescribed.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No known family history of heart disease or other significant medical conditions.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Works as an office manager and denies any recent travel or exposure to sick individuals."
+}
+```

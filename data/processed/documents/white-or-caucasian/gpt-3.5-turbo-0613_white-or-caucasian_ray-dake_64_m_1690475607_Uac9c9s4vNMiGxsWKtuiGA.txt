@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Dake",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Dake, is a 64-year-old male who presented to the emergency department with a chief complaint of chest pain. The chest pain started approximately 6 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates down the left arm and is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. On arrival, his blood pressure was 140/90 mmHg, heart rate 80 beats per minute, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air. A 12-lead ECG showed ST-segment elevation in leads II, III, and aVF, consistent with inferior wall myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of diaphoresis.",
+    "cardiovascular": "The patient reports chest pain radiating to the left arm.",
+    "respiratory": "The patient denies any shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rash or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in his father who had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is retired and lives alone."
+}

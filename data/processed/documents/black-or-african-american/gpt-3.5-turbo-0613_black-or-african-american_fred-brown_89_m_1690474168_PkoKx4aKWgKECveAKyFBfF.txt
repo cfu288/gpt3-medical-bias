@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fred Brown",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, an 89-year-old male named Fred Brown, presented to the emergency department today with complaints of chest pain. The pain started approximately 1 hour ago and is located in the center of the chest. The patient describes the pain as a crushing sensation that radiates to his left arm. The pain is associated with shortness of breath and sweating. The patient denies any previous episodes of chest pain or heart problems.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. He denies any history of cardiac arrhythmias, heart failure, or previous heart attacks.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. He also has a past surgical history of appendectomy.",
+  "medications": "The patient takes Lisinopril for hypertension.",
+  "past_surgical_history": "The patient had an appendectomy in his twenties.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is retired and lives alone. He has a history of smoking but quit 10 years ago. He denies alcohol or drug use."
+}

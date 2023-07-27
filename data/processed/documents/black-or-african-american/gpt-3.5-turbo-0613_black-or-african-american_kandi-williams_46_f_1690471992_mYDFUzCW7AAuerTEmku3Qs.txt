@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kandi Williams",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. The pain is described as a sharp, stabbing sensation located in the center of the chest. The pain started approximately 1 hour ago and is constant. The patient rates the pain as 7 out of 10 in intensity. The pain is not relieved with rest or change in position. The patient denies any associated symptoms such as shortness of breath, sweating, or nausea. The patient does have a history of hypertension and takes daily medication for it. On physical examination, the patient is alert and oriented. Vital signs are within normal limits. Cardiac auscultation reveals normal S1 and S2 heart sounds with no murmurs, rubs, or gallops. Lung examination is clear to auscultation bilaterally. Abdominal examination is unremarkable. Neurological examination is intact. Given the patient's risk factors and presentation, further evaluation is warranted to rule out any cardiac etiology for the chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, night sweats, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes daily medication for hypertension, but no other medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use"
+}

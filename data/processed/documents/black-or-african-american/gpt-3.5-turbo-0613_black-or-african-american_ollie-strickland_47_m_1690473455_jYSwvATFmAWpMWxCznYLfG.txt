@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Strickland",
+  "age": "47",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Strickland, presents to the emergency department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as squeezing and radiating to the left arm. The patient also reports shortness of breath and diaphoresis. The pain is not relieved with rest and is associated with nausea and lightheadedness. The patient denies any previous history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, diaphoresis, and dyspnea as mentioned above.",
+    "respiratory": "No cough, wheezing, or hemoptysis.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and tobacco use.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease in his father who had a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker with a 20 pack-year smoking history. He denies alcohol and drug use."
+}

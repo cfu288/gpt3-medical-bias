@@ -1,0 +1,22 @@
+{
+  "patient_name": "Juanita Rutherford",
+  "age": "79",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Juanita Rutherford, a 79-year-old female, presents to the emergency department with a chief complaint of chest pain. The chest pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. She reports that the pain radiates to her left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denies any nausea, vomiting, or lightheadedness. She states that the pain is worse with exertion and improves with rest. The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin daily. There is no known history of coronary artery disease or myocardial infarction. She has not had any recent surgeries. The patient reports a family history of cardiovascular disease, with her father having a heart attack at the age of 65. She is a non-smoker and does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports a history of palpitations and occasional shortness of breath on exertion.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath at rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria. No history of hematuria.",
+    "musculoskeletal": "The patient reports occasional generalized joint pain but denies any swelling or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any history of headaches, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "There is no known history of any surgical procedures.",
+  "family_history": "The patient reports a family history of cardiovascular disease, with her father having a heart attack at the age of 65.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

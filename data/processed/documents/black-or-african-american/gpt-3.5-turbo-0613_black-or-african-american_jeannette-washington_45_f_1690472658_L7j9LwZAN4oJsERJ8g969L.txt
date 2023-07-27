@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeannette Washington",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of chest pain. Pain is described as a squeezing sensation in the center of the chest, radiating to the left arm. Patient also reports shortness of breath and lightheadedness. Symptoms started approximately 1 hour ago while she was at rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches or numbness/weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is currently on medication for both conditions.",
+  "medications": "Lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Mother had a history of hypertension. Father had a history of myocardial infarction.",
+  "social_history": "Patient is a non-smoker and denies the use of illicit drugs. She drinks alcohol occasionally."
+}

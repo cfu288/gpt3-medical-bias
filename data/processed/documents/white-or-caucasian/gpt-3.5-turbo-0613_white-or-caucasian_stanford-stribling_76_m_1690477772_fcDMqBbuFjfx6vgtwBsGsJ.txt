@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stanford Stribling",
+  "age": "76",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Stanford Stribling, a 76-year-old male, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull, pressure-like sensation in the center of the chest. The patient rates the pain as a 7 out of 10 in severity. The pain is not radiating and is not associated with shortness of breath, lightheadedness, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and coronary artery disease",
+  "medications": "Lisinopril 20mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "Coronary artery bypass graft surgery in 2012",
+  "family_history": "Father had a history of myocardial infarction at age 62",
+  "social_history": "Former smoker with a 20 pack-year history, quit 10 years ago. No alcohol or illicit drug use."
+}
+```

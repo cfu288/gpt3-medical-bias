@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randy Mccaffrey",
+  "age": "49",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Mccaffrey presented to the emergency department with a complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been gradually worsening. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He also reports feeling anxious and lightheaded. The pain does not resolve with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Positive for feeling lightheaded."
+  },
+  "past_medical_history": "Mr. Mccaffrey has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "He is currently taking lisinopril, simvastatin, and metformin.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive family history of coronary artery disease in his father.",
+  "social_history": "Mr. Mccaffrey is a smoker with a 20 pack-year history. He denies any alcohol or illicit drug use."
+}

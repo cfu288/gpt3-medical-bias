@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oscar Jones",
+  "age": "25",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Oscar Jones, a 25-year-old male, presented to the emergency department with complaints of severe chest pain. The pain started suddenly about 2 hours ago and is described as a sharp and crushing sensation in the center of the chest. The pain is radiating to the left arm and jaw. The patient rates the pain as 9 out of 10 in severity. There is associated shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past. Onset of pain was not precipitated by any physical exertion or emotional stress. No alleviating or aggravating factors have been identified. The patient denies any associated symptoms such as cough, fever, dyspnea, or palpitations. No recent travel or sick contacts reported. Review of systems is otherwise negative.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Positive for chest pain, shortness of breath, diaphoresis",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, no history of alcohol or drug abuse"
+}

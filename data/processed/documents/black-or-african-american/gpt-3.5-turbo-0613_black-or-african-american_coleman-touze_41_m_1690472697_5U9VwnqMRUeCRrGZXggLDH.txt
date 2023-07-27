@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Coleman Touze",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of sudden onset severe chest pain. Pain is described as a sharp, stabbing sensation that radiates to the left arm. Patient states that the pain began approximately 2 hours ago while he was resting at home. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. Patient has no history of similar chest pain. He has no known risk factors for cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as his only cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports pain in the left arm that radiates from the chest.",
+    "skin": "No skin symptoms reported by patient.",
+    "neurologic": "Patient denies any headache, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient is not taking any medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient denies any family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}
+```

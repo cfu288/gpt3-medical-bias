@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darko Barkan",
+  "age": "36",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset severe chest pain. Patient describes the pain as a crushing sensation that radiates to the left arm. Pain started approximately 2 hours ago and has been constant since then. Patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Upon further questioning, patient reports a history of smoking for the past 10 years.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for dyspnea or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or wounds.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled with medication.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of previous surgeries.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "Patient is a smoker, approximately 1 pack per day for the past 10 years. He does not consume alcohol or use recreational drugs."
+}

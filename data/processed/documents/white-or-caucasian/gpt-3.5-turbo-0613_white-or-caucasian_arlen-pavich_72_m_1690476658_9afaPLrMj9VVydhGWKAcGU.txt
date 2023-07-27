@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arlen Pavich",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Arlen Pavich, a 72-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while the patient was at rest. He reports the pain as substernal, squeezing in nature, radiating to his left arm. He denies any shortness of breath, diaphoresis, nausea, or vomiting. The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily. He has previously undergone a cholecystectomy and has no other significant surgical history. No known allergies. There is no family history of cardiovascular disease. The patient has a 30 pack-year smoking history, but quit 10 years ago. He denies alcohol or illicit drug use. No recent travel. No recent illnesses or changes in medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for substernal chest pain, radiating to the left arm.",
+    "respiratory": "Negative for cough, shortness of breath, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No family history of cardiovascular disease.",
+  "social_history": "30 pack-year smoking history, quit 10 years ago. No alcohol or illicit drug use."
+}

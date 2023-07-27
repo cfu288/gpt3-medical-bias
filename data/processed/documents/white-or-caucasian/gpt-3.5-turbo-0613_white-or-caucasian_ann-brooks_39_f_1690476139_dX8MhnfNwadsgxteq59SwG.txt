@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ann Brooks",
+  "age": "39",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation that radiates to the left arm. The onset of the pain was sudden and has been continuous for the past 30 minutes. The pain is associated with shortness of breath and sweating. The patient denies any previous episodes of similar chest pain. Given the nature of the symptoms and concern for cardiac etiology, an urgent evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in consciousness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of cardiac disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

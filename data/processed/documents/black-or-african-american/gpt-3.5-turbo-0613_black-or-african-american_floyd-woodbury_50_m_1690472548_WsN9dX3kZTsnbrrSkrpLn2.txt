@@ -1,0 +1,21 @@
+{
+  "patient_name": "Floyd Woodbury",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Woodbury, presented to the emergency department with complaints of chest pain. He described the pain as a squeezing sensation in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been persistent since then. He denies any associated shortness of breath, lightheadedness, or diaphoresis. Mr. Woodbury has a past medical history of hypertension and hyperlipidemia, both of which are well-controlled with medication. He also mentioned a family history of coronary artery disease, with his father having a heart attack at the age of 55. Upon further questioning, he admits to occasional tobacco use, approximately 10 cigarettes per day, and occasional alcohol consumption. He denies any recent illnesses, trauma, or surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia, both well-controlled with medication.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Father with a history of coronary artery disease and heart attack at age 55.",
+  "social_history": "Occasional tobacco use, approximately 10 cigarettes per day. Occasional alcohol consumption."
+}

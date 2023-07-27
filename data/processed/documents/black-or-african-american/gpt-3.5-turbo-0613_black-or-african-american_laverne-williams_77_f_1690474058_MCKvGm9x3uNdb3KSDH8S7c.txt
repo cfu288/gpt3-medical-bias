@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laverne Williams",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Ms. Williams is a 77-year-old female presenting with chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest, radiating to the left arm. The patient also reports shortness of breath and diaphoresis. She denies any associated symptoms such as nausea, vomiting, lightheadedness, or palpitations. Onset of symptoms was sudden, while the patient was at rest. She has a history of hypertension and hyperlipidemia. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or urinary frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or skin lesions",
+    "neurologic": "Denies headache, weakness, or loss of consciousness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for cardiovascular diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

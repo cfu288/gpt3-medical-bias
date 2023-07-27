@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Wilson",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Major Wilson, is a 55-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a dull, squeezing sensation that radiates to the left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a history of hypertension and hyperlipidemia but is currently not taking any medications for these conditions. He denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

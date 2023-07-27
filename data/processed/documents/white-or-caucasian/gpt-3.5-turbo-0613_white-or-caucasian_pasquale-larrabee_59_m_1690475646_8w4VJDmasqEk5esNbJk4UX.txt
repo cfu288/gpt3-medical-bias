@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pasquale Larrabee",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of acute onset chest pain. Pain is described as squeezing and radiating to the left arm. Pain started approximately 1 hour ago. Patient rates the pain as 8/10 in severity. No alleviating or exacerbating factors reported. Patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Past medical history is significant for hypertension and hyperlipidemia. Patient has a 30 pack-year smoking history and does not exercise regularly. Patient is currently taking atorvastatin for hyperlipidemia. No known drug allergies. No recent surgeries. Family history is significant for coronary artery disease in both parents. Social history is also significant for alcohol use, consuming approximately 2-3 drinks per day. ",
+  "review_of_symptoms": {
+    "constitutional": "Patient endorses fatigue and malaise.",
+    "cardiovascular": "Patient denies palpitations or syncope.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient endorses generalized body aches and joint pain.",
+    "skin": "Patient denies any skin rash or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease in both parents",
+  "social_history": "Alcohol use (2-3 drinks per day), smoking (30 pack-year history), sedentary lifestyle"
+}

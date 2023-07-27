@@ -1,0 +1,21 @@
+{
+  "patient_name": "Effie Johnson",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. Onset of pain was sudden approximately two hours ago while at home. Patient describes the pain as a sharp, crushing sensation located in the center of her chest. She rates the pain intensity as 8 out of 10 and reports that it radiates to her left arm. Patient states that the pain is associated with shortness of breath and sweating. She denies any nausea, vomiting, or lightheadedness. Patient states that she has never experienced this type of pain before and is concerned it may be a heart attack. No relief of pain with rest or change in position. No exacerbating factors identified. The pain is persistent and has not resolved since onset. No previous episodes of this nature. No other associated symptoms reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations or previous cardiac history reported.",
+    "respiratory": "Patient reports shortness of breath associated with chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported.",
+    "skin": "No rashes, itching, or changes to the skin reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. No previous cardiac events reported.",
+  "medications": "Patient takes amlodipine 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "None reported.",
+  "family_history": "Patient reports a family history of hypertension and hyperlipidemia but no history of heart disease.",
+  "social_history": "Patient is a lifelong nonsmoker and does not consume alcohol. She lives alone and has no reported history of illicit drug use."
+}

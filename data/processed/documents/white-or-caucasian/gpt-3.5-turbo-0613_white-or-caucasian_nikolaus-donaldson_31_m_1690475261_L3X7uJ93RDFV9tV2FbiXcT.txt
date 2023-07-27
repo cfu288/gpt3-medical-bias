@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nikolaus Donaldson",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient presented to the Emergency Department with complaints of severe chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation that radiates to the left arm. The pain is exacerbated by deep breathing and movement. The patient denies any associated shortness of breath, palpitations, or diaphoresis. No recent cough or fever. No known precipitating factors. No relief with rest or over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "No previous cardiac history. No known heart disease. No palpitations or syncope.",
+    "respiratory": "No history of asthma or chronic obstructive pulmonary disease. No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or urinary frequency.",
+    "musculoskeletal": "No recent trauma or injuries.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No history of seizures or neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiac disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

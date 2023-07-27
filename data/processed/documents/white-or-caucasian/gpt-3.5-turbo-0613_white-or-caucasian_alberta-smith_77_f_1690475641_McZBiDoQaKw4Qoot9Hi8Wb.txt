@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alberta Smith",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Alberta Smith, a 77-year-old female, presented to the emergency department with complaints of sudden onset chest pain. The pain started approximately 1 hour ago and is described as a substernal, squeezing sensation. It radiates to the left arm and is associated with shortness of breath. The patient denies any previous episodes of similar pain. On further assessment, the patient reports feeling lightheaded and diaphoretic. EKG and laboratory tests have been ordered to rule out acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath at rest",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypercholesterolemia. She takes a daily medication regimen of Lisinopril and Atorvastatin.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "The patient has a family history of coronary artery disease. Her father had a heart attack at age 65.",
+  "social_history": "The patient is retired and lives with her husband. She has never smoked and denies alcohol or recreational drug use."
+}

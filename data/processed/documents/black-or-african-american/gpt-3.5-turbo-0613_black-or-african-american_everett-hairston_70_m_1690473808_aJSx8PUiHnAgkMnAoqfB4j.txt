@@ -1,0 +1,27 @@
+{
+    "patient_name": "Everett Hairston",
+    "age": "70",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Mr. Everett Hairston, presents to the emergency department with a chief complaint of chest pain. According to the patient, he started experiencing the chest pain approximately three hours ago. The pain is described as a squeezing sensation in the center of the chest that radiates to the left arm. The patient rates the pain as 7 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or palpitations. He states that resting did not alleviate the pain and he decided to come to the emergency department for evaluation.",
+
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or recent weight changes.",
+        "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+        "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+        "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "Negative for urinary frequency, urgency, or changes in urine output.",
+        "musculoskeletal": "Negative for joint pain or limited range of motion.",
+        "skin": "Negative for rashes, lesions, or wounds.",
+        "neurologic": "Negative for headache, dizziness, or changes in vision."
+    },
+
+    "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+
+    "medications": "The patient takes metoprolol, simvastatin, and metformin as prescribed for his medical conditions.",
+
+    "past_surgical_history": "The patient has no history of any surgical procedures.",
+
+    "family_history": "The patient denies a family history of cardiovascular diseases or any other significant medical conditions.",
+
+    "social_history": "The patient is a retired construction worker. He denies using tobacco or recreational drugs. He consumes alcohol occasionally in moderation."
+}

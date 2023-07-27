@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darnell Coutee",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Coutee, is a 58-year-old male who presented to the emergency department with complaints of chest pain. The pain started approximately two hours prior to arrival and is described as a sharp, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain intensity as 8 out of 10. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Mr. Coutee has a history of hypertension and hyperlipidemia, with his last blood pressure reading one week ago recorded as 145/90 mmHg. He takes amlodipine 5mg daily for his hypertension. He denies any recent illnesses or injuries. He reports no recent changes in his diet or physical activity. The patient states that he has never experienced chest pain like this before and is concerned about a possible heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or lightheadedness.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle stiffness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Mr. Coutee has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 65. No other significant family history reported.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. He works as an accountant and reports moderate stress levels."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leora Moody",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started about 2 hours ago. The pain is located substernally, radiates to the left arm, and is associated with shortness of breath. The patient denies any recent trauma or fever. The pain is not relieved with rest or nitroglycerin. EKG shows changes consistent with ST elevation myocardial infarction (STEMI).",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling diaphoretic and nauseous.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and a previous myocardial infarction.",
+  "medications": "The patient takes atorvastatin, metoprolol, and aspirin daily.",
+  "past_surgical_history": "Patient has a history of coronary artery bypass grafting (CABG) surgery.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

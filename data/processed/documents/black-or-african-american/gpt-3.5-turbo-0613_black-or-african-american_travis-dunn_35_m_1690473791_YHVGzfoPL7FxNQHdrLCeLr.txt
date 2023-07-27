@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Travis Dunn",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Travis Dunn, a 35-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports experiencing sharp pain in the center of his chest, which started approximately 1 hour ago while he was at rest. The pain is described as squeezing and radiates to his left arm. The patient rates the pain as 8 out of 10. He denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. Upon arrival to the ED, the patient appeared in moderate distress, clutching his chest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports the current chest pain but denies any known cardiac history or previous episodes of similar chest pain. He denies any palpitations, irregular heartbeats, or orthopnea.",
+    "respiratory": "The patient denies any shortness of breath, cough, or hemoptysis.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in appetite or bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports pain radiating to his left arm but denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and high cholesterol. He is currently taking lisinopril for his blood pressure and atorvastatin for his cholesterol.",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of heart disease in his father, who suffered a myocardial infarction at the age of 50. His mother is alive and without any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. He is married and works as an accountant."
+}
+```

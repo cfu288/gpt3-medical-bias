@@ -1,0 +1,22 @@
+{
+  "patient_name": "Camelia Bee",
+  "age": "61",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Camelia Bee is a 61-year-old female presenting to the emergency department with complaints of chest pain. She states that the pain started suddenly about 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation that radiates to her left arm. She reports experiencing shortness of breath and diaphoresis along with the chest pain. The pain has not improved with rest. She denies any associated symptoms such as nausea or vomiting. She reports no history of similar episodes in the past. She denies any known cardiac history, but has a family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of diaphoresis",
+    "cardiovascular": "Patient complains of chest pain",
+    "respiratory": "Patient complains of shortness of breath",
+    "gi": "No complaints",
+    "gu": "No complaints",
+    "musculoskeletal": "No complaints",
+    "skin": "No complaints",
+    "neurologic": "No complaints"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is taking lisinopril and simvastatin.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient has a history of heart disease in her family.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

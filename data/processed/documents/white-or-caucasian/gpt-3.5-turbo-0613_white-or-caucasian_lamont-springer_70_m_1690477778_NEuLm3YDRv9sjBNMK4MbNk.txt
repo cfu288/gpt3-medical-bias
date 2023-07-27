@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lamont Springer",
+  "age": "70",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lamont Springer, a 70-year-old male, presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain began approximately 3 hours ago. He describes it as substernal, squeezing in nature, radiating to the left arm. The patient denies any shortness of breath, diaphoresis, or nausea/vomiting. The pain has not subsided since onset and is rated as 8 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, no chills, no night sweats",
+    "cardiovascular": "Denies palpitations or syncope",
+    "respiratory": "Denies cough or dyspnea",
+    "gi": "Denies abdominal pain or change in bowel habits",
+    "gu": "Denies any urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes Lisinopril 10mg once daily and Atorvastatin 20mg once daily.",
+  "medications": "Lisinopril 10mg once daily, Atorvastatin 20mg once daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 65.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He reports occasional alcohol use but denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sue Abercrombie",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 74-year-old female named Sue Abercrombie, presents to the emergency department with complaints of chest pain. The pain started while she was at rest and has been ongoing for the past 2 hours. She describes it as a sharp, squeezing pain in the center of her chest. The pain radiates to her left arm and jaw. She denies any shortness of breath, dizziness, or sweating. Upon further questioning, she reports a history of hypertension and hyperlipidemia. She denies any previous episodes of chest pain or similar symptoms. She states that she takes medications for her high blood pressure and high cholesterol. No recent changes to her medications. Patient denies any history of smoking or alcohol use. She has no known family history of heart disease or other significant medical conditions. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as the main cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headaches, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes medications for hypertension and hyperlipidemia, but exact medication names and dosages are not provided.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Patient denies any known family history of heart disease or other significant medical conditions.",
+  "social_history": "Patient denies any history of smoking or alcohol use."
+}

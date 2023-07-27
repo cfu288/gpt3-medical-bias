@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odessa Cooper",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient came in complaining of chest pain that started about 2 hours ago. She describes the pain as a sharp, squeezing sensation in the center of her chest. She rates the pain as a 8 out of 10 in severity. The pain radiates to her left arm and jaw. She denies any shortness of breath, nausea, or vomiting. She has no known history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain. No known history of heart disease.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient complains of pain radiating to left arm and jaw.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes metoprolol for her hypertension and acetaminophen for her osteoarthritis.",
+  "past_surgical_history": "Patient underwent a total hip replacement 5 years ago.",
+  "family_history": "Patient's father had a heart attack at age 70, no other significant family history.",
+  "social_history": "Patient is a retired teacher. She does not smoke or drink alcohol. No history of drug use."
+}

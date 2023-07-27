@@ -1,0 +1,21 @@
+{
+  "patient_name": "Greg Chartier",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Greg Chartier presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sudden onset, crushing and squeezing sensation in the center of his chest. The pain radiates to his left arm and jaw. He rates the pain as 8 out of 10 in severity. The pain is not alleviated by rest or nitroglycerin. He denies any shortness of breath, nausea, or diaphoresis. He reports no recent exertion or trauma. He has a history of hypertension and takes medication for it. No known allergies or recent hospitalizations.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as described above. No palpitations or irregular heartbeats.",
+    "respiratory": "Patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension, but does not recall the name.",
+  "past_surgical_history": "No known surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

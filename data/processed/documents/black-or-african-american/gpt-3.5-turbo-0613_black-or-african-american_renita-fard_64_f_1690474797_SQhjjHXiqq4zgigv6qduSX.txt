@@ -1,0 +1,22 @@
+{
+  "patient_name": "Renita Fard",
+  "age": "64",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 64-year-old female presenting to the emergency department with complaints of severe, crushing chest pain that started one hour ago. The pain is radiating to her left arm and jaw. She denies any shortness of breath or diaphoresis. She has a history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or fatigue.",
+    "cardiovascular": "Positive for chest pain as chief complaint. Denies any palpitations or syncope.",
+    "respiratory": "Denies dyspnea or cough.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Positive for radiating pain to the left arm.",
+    "skin": "No complaints of rashes or lesions.",
+    "neurologic": "Denies any headache or neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father had a myocardial infarction at age 60.",
+  "social_history": "Retired school teacher. Non-smoker. No alcohol or illicit drug use."
+}

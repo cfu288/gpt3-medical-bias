@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dimitrios Degrange",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dimitrios Degrange, a 43-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is located in the center of his chest. The pain is described as a tightness and pressure, radiating to his left arm. He rates the intensity of the pain as 8 out of 10. The pain is constant and has not been relieved with rest. The patient denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. He has no significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs."
+}
+```

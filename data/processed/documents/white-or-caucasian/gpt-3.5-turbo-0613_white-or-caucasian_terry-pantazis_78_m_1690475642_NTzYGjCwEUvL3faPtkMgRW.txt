@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Terry Pantazis",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of chest pain. Pain has been ongoing for the past hour and is described as a pressure-like sensation in the center of the chest. Patient reports that the pain radiates to the left arm. He denies any shortness of breath, lightheadedness, or diaphoresis. Patient states that he took an aspirin at home.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and takes medication for it. He denies any prior history of heart attacks or angina.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any changes in urinary frequency or urgency.",
+    "musculoskeletal": "Patient denies any recent trauma or injuries.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in speech or vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. He also has a history of hyperlipidemia and takes a statin medication.",
+  "medications": "Metoprolol, atorvastatin",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient reports a family history of heart disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He lives alone and is independent with his activities of daily living."
+}
+```

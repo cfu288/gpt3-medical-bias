@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Corbin Dangerfield",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Corbin Dangerfield, a 31-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain has been described as a sharp, stabbing sensation located in the center of the chest. It started approximately 2 hours ago and has been constant since then. The pain is exacerbated by deep breathing and coughing. The patient denies any associated symptoms such as shortness of breath, palpitations, or lightheadedness. There is no history of trauma or recent illness. On further questioning, the patient reports a family history of heart disease, with his father experiencing a heart attack at the age of 55. The patient has never smoked, does not consume alcohol, and denies any illicit drug use. He does not have any known medical conditions and is not currently taking any medications. There is no history of previous surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or changes in appetite or weight.",
+    "cardiovascular": "No palpitations or syncopal episodes reported. There is a family history of heart disease as mentioned above.",
+    "respiratory": "No shortness of breath or cough reported. Denies any history of asthma or chronic obstructive pulmonary disease.",
+    "gi": "No nausea, vomiting, or abdominal pain reported. Denies any changes in bowel movements or appetite.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits reported."
+  },
+  "past_medical_history": "The patient does not have any known medical conditions.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "As mentioned above, there is a family history of heart disease, with his father experiencing a heart attack at the age of 55.",
+  "social_history": "The patient denies any tobacco or alcohol use and does not use illicit drugs."
+}
+```

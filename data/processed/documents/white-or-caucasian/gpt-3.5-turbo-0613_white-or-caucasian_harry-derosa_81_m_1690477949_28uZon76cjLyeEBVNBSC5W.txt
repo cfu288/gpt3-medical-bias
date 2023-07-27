@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harry Derosa",
+  "age": "81",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Derosa is an 81-year-old male with a chief complaint of chest pain. Upon arrival in the emergency department, the patient reported experiencing sudden-onset substernal chest pain that radiates to his left arm. The pain is described as sharp and stabbing, with a severity of 9 out of 10. The pain started approximately 1 hour ago and has been constant since then. Mr. Derosa denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He states that he has a history of high blood pressure and takes medication for it. He has no previous history of similar episodes. Given the severity and nature of his symptoms, further evaluation and intervention are warranted to rule out a cardiac etiology.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain, no palpitations or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms or changes in bowel movements.",
+    "musculoskeletal": "No joint pain or weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, currently on medication. No history of heart disease or other significant medical conditions.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of cardiovascular disease or other significant medical conditions.",
+  "social_history": "Retired. Non-smoker. No alcohol or drug use."
+}

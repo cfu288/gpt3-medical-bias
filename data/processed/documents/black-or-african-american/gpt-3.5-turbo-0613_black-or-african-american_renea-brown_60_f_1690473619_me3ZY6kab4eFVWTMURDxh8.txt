@@ -1,0 +1,21 @@
+{
+  "patient_name": "Renea Brown",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of acute onset severe chest pain. The pain is located in the center of the chest and radiates to the left arm. The pain is described as crushing and is associated with shortness of breath and diaphoresis. Patient reports no previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and weight loss.",
+    "cardiovascular": "Patient reports chest pain",
+    "respiratory": "Patient reports shortness of breath",
+    "gi": "Patient denies abdominal pain, nausea, and vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports no joint pain or muscle aches.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports no significant family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

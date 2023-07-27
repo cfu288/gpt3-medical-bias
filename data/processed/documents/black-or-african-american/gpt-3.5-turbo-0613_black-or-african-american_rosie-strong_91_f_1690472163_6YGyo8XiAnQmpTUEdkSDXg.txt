@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosie Strong",
+  "age": "91",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rosie Strong, a 91-year-old female, presents to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a dull ache in the center of the chest. The pain radiates to the left arm. The patient denies any shortness of breath, palpitations, or diaphoresis. She has a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or orthopnea",
+    "respiratory": "Negative for cough, dyspnea, or hemoptysis",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria, urgency, or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 25 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Patient lives alone. Non-smoker. Denies alcohol or illicit drug use."
+}

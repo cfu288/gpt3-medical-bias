@@ -1,0 +1,21 @@
+{
+  "patient_name": "Perry Sanders",
+  "age": "71",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Sanders presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago while he was resting at home. He describes the pain as a squeezing sensation in the center of his chest. The pain has not radiated to any other parts of his body. He rates the pain as 8/10 in severity. He denies any shortness of breath, lightheadedness, or nausea. Upon arrival to the emergency department, he was given aspirin 325 mg, nitroglycerin sublingual, and a 12-lead EKG was performed, which showed ST-segment elevation in leads II, III, and aVF. Based on these findings, the working diagnosis is acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain with no known history of angina or cardiac disease.",
+    "respiratory": "Denies cough, shortness of breath, or difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Reports no joint pain or swelling.",
+    "skin": "No rash, skin lesions, or changes in skin color reported.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Mr. Sanders has a past medical history significant for hypertension and hyperlipidemia. He takes amlodipine 5 mg daily and atorvastatin 20 mg daily for these conditions.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of cardiac disease or other relevant conditions.",
+  "social_history": "Mr. Sanders is retired and lives alone. He does not smoke and denies any alcohol or illicit drug use."
+}

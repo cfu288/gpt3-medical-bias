@@ -1,0 +1,21 @@
+{
+  "patient_name": "Garnet Bell",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient arrived in the emergency department complaining of severe chest pain that started approximately 2 hours ago. The pain is described as sharp and located on the left side of the chest. It radiates to the left arm and jaw. The patient rates the pain as 9 out of 10. There is no alleviating factor. The patient also reports shortness of breath and sweating.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports severe chest pain with associated shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or musculoskeletal complaints.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, dyslipidemia, and type 2 diabetes.",
+  "medications": "Patient takes metoprolol, lisinopril, simvastatin, and metformin.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

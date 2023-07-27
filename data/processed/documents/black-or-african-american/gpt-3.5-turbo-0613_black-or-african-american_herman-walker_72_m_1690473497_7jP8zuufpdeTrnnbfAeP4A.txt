@@ -1,0 +1,21 @@
+{
+  "patient_name": "Herman Walker",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Walker is a 72-year-old male who presents to the emergency department complaining of sudden onset severe chest pain. The pain started approximately 2 hours ago while he was at rest and has been constant since then. He describes the pain as a crushing sensation in the center of his chest that radiates to his left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies cough, hemoptysis, or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Mr. Walker has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "He currently takes lisinopril, simvastatin, and metformin.",
+  "past_surgical_history": "He has no history of any previous surgeries.",
+  "family_history": "His father had a myocardial infarction in his early 60s.",
+  "social_history": "Mr. Walker is a former smoker, having quit 10 years ago. He denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julius Blanton",
+  "age": "41",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago while he was at rest. He describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He has also noticed associated shortness of breath and diaphoresis. He denies any nausea or vomiting. The patient has a past medical history of hypertension and hyperlipidemia. Upon arrival, the patient was immediately placed on a cardiac monitor and an IV was started. Initial vital signs showed a blood pressure of 150/90 mmHg, heart rate of 90 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 97% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Positive for chest pain, shortness of breath, and diaphoresis",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for cardiac disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

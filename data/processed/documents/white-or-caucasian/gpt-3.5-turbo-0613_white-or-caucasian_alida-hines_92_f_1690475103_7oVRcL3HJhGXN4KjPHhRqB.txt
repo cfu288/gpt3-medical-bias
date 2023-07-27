@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alida Hines",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 92-year-old female named Alida Hines, presented to the emergency department with complaints of chest pain. The pain began approximately 4 hours ago and is described as a sharp, stabbing sensation located in the central chest. The pain is constant and worsens with deep breathing and movement. The patient denies any associated shortness of breath, fever, cough, or palpitations. She also reports no previous history of similar chest pain. On examination, the patient appears uncomfortable and is experiencing mild difficulty in breathing. She is currently receiving supplemental oxygen via nasal cannula at 2 liters per minute. Vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 20 breaths per minute, and oxygen saturation of 96% on room air. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, night sweats, or unintentional weight loss",
+    "cardiovascular": "No palpitations, edema, or shortness of breath on exertion",
+    "respiratory": "No cough, sputum production, wheezing, or hemoptysis",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel habits",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, stiffness, or swelling",
+    "skin": "No rash, itching, or changes in skin color",
+    "neurologic": "No headache, dizziness, syncope, or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular disease, cancer, or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse. She lives alone and is independent in her activities of daily living."
+}

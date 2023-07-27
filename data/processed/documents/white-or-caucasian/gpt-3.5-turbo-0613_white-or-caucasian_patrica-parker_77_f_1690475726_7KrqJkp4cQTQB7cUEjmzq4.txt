@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patrica Parker",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 77-year-old female presenting to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the chest. She rates the pain as 8 out of 10 in severity. She denies any radiation of the pain, but states that it is associated with shortness of breath and diaphoresis. She has no history of similar episodes in the past. The patient denies any other symptoms such as nausea, vomiting or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills or malaise.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. Denies palpitations or pedal edema.",
+    "respiratory": "Patient reports shortness of breath. Denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal complaints.",
+    "skin": "Patient denies any skin abnormalities.",
+    "neurologic": "Patient denies any neurologic symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes hydrochlorothiazide for hypertension, atorvastatin for hyperlipidemia, and aspirin.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's family history is significant for heart disease in her father and mother. No history of cancer or autoimmune diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

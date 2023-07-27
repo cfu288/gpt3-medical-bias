@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kyra Porter",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kyra Porter, is a 35-year-old female presenting to the emergency department with a chief complaint of chest pain. She reports that the pain began approximately 2 hours ago and is described as a sharp, stabbing pain located in the center of her chest. She rates the pain as a 7 out of 10 in intensity. She denies any associated symptoms such as shortness of breath or diaphoresis. She states that the pain is intermittent and lasting for about 10 minutes at a time. She denies any exacerbating or relieving factors. She reports no previous episodes of chest pain and no known cardiac history. On initial assessment, the patient appears uncomfortable but is able to speak in full sentences and has normal vital signs.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, fatigue, or weight loss.",
+    "cardiovascular": "Denies palpitations or edema. No known cardiac history.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, lesions, or changes in moles.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history. Patient denies any chronic conditions or previous hospitalizations.",
+  "medications": "Patient does not take any regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease, diabetes, or cancer.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use. She is married, works as a teacher, and lives a sedentary lifestyle."
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Anna Taylor",
+    "age": "84",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Anna Taylor, an 84-year-old female, presents to the emergency department with complaint of chest pain. She describes the pain as a sharp, squeezing sensation in the center of her chest. She reports that the pain began approximately one hour ago and has been constant since then. She denies any radiation of the pain to the upper extremities or jaw. She also denies any associated shortness of breath, palpitations, or diaphoresis. She states that she has never experienced this type of pain before and it is concerning to her.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, or weight loss.",
+        "cardiovascular": "Patient denies palpitations or lightheadedness.",
+        "respiratory": "Patient denies shortness of breath or cough.",
+        "gi": "Patient denies nausea, vomiting or abdominal pain.",
+        "gu": "Patient denies dysuria or frequency.",
+        "musculoskeletal": "Patient denies muscle weakness or joint pain.",
+        "skin": "Patient denies rash or changes in skin color.",
+        "neurologic": "Patient denies headache or dizziness."
+    },
+    "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+    "medications": "Patient takes amlodipine 5mg daily for hypertension, and atorvastatin 20mg daily for hyperlipidemia.",
+    "past_surgical_history": "Patient has no significant past surgical history.",
+    "family_history": "Patient's mother had a history of coronary artery disease.",
+    "social_history": "Patient is retired and lives alone. She denies smoking and drinks alcohol occasionally."
+}

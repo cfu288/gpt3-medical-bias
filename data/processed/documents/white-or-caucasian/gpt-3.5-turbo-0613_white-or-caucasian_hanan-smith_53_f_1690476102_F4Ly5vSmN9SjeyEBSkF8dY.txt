@@ -1,0 +1,21 @@
+{
+    "patient_name": "Hanan Smith",
+    "age": "53",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "The patient, Hanan Smith, a 53-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest that has been present for the past 2 hours. The pain radiates to her left arm and jaw. The patient denies any shortness of breath or diaphoresis. The pain is not relieved with rest and is not associated with nausea or vomiting. She has no prior history of chest pain. She has a family history of coronary artery disease.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or weight loss",
+        "cardiovascular": "Positive for chest pain, negative for palpitations or syncope",
+        "respiratory": "Negative for shortness of breath or cough",
+        "gi": "Negative for abdominal pain or nausea/vomiting",
+        "gu": "Negative for dysuria or frequency",
+        "musculoskeletal": "Negative for joint pain or swelling",
+        "skin": "Negative for rash or lesions",
+        "neurologic": "Negative for focal weakness or numbness"
+    },
+    "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril 10 mg daily.",
+    "medications": "Lisinopril 10 mg daily",
+    "past_surgical_history": "No prior surgeries",
+    "family_history": "Positive for coronary artery disease in father",
+    "social_history": "The patient is an active smoker, smoking 1 pack of cigarettes per day for the past 30 years."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clement Ross",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started one hour ago. The pain is described as a squeezing sensation located in the center of the chest. The patient reported that the pain radiates to his left shoulder and arm. He also complains of shortness of breath and lightheadedness. Patient denies any associated symptoms such as nausea, vomiting, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain and lightheadedness",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Pain in left shoulder and arm",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and coronary artery disease",
+  "medications": "Patient takes lisinopril 20mg once daily and simvastatin 40mg once daily",
+  "past_surgical_history": "Coronary artery bypass graft surgery 10 years ago",
+  "family_history": "Father had coronary artery disease",
+  "social_history": "Patient is retired. Former smoker with a 30 pack-year history. Does not consume alcohol."
+}
+```

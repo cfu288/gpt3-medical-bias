@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eldon Barends",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Eldon Barends, is a 92-year-old male who presented to the emergency department with a chief complaint of chest pain. He reports experiencing sharp, stabbing pain in the center of his chest that radiates to his left arm. The pain started approximately 2 hours ago and has been progressively worsening. He denies any shortness of breath or diaphoresis. Upon further questioning, he admits to a history of hypertension and high cholesterol. He states that he takes medications for these conditions, but is unsure of the names. He denies any recent surgeries. On physical examination, the patient appears pale and diaphoretic. His vital signs are as follows: HR 102 bpm, BP 160/90 mmHg, RR 18 breaths per minute, SpO2 98% on room air, and temperature 36.8°C. ECG shows ST-segment elevations in leads V2-V6. Given the patient's age, chief complaint of chest pain, and ECG findings, the working diagnosis is acute myocardial infarction. The patient will be transferred to the cardiac catheterization lab for further evaluation and intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports experiencing chest pain. He denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol.",
+  "medications": "The patient takes medications for hypertension and high cholesterol, but is unsure of the names.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient is unsure of his family medical history.",
+  "social_history": "The patient is retired and lives at home alone. He denies tobacco use, alcohol intake, or illicit drug use."
+}

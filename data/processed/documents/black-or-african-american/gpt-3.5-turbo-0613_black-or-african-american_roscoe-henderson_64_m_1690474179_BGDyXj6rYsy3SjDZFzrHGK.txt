@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roscoe Henderson",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe chest pain. Pain started approximately 2 hours ago and is described as a crushing sensation in the center of the chest. Patient reports associated symptoms of shortness of breath and diaphoresis. Pain is not relieved with rest or nitroglycerin. No known triggers. No recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash, itching, or skin lesions",
+    "neurologic": "Denies headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of type 2 diabetes, hypertension, and hyperlipidemia. No history of cardiac disease or previous myocardial infarction.",
+  "medications": "Metformin, Lisinopril, Simvastatin",
+  "past_surgical_history": "Appendectomy at age 32",
+  "family_history": "Negative for cardiac disease, including myocardial infarction, in immediate family members",
+  "social_history": "Patient has a 40 pack-year smoking history but quit smoking 5 years ago. Denies alcohol or drug use."
+}

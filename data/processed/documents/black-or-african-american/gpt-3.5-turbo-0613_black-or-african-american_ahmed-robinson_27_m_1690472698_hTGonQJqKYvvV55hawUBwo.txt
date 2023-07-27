@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ahmed Robinson",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ahmed Robinson, a 27-year-old male, presented to the emergency department with complaints of severe chest pain. The pain started suddenly about an hour ago while he was at home. He describes the pain as a sharp, stabbing sensation in the center of his chest, radiating to his left arm. He rates his pain as a 9 out of 10 and states that it has been persistent since it started. The pain is not relieved by resting or changing positions. Mr. Robinson denies any associated shortness of breath, diaphoresis, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports no palpitations or irregular heartbeat.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Robinson has no known medical conditions and reports no previous hospitalizations.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "Mr. Robinson has no family history of cardiovascular diseases.",
+  "social_history": "The patient denies any tobacco, alcohol, or drug use. He is currently employed as an office assistant and lives with his girlfriend."
+}
+```

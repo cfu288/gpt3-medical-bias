@@ -1,0 +1,30 @@
+{
+  "patient_name": "Enid Scott",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Enid Scott, a 52-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a dull, aching sensation located in the center of her chest, which started approximately 2 hours ago. She rates the intensity of the pain as 7 out of 10. The pain is constant and is not relieved by rest. She denies any associated symptoms such as shortness of breath, palpitations, diaphoresis, or radiation of the pain. She states that she has never experienced similar symptoms in the past. 
+
+The patient has a past medical history of hypertension and hyperlipidemia, for which she takes medication. She denies any previous surgeries. She has a family history of coronary artery disease, with her father having a myocardial infarction in his 60s.
+
+On review of symptoms, the patient denies any constitutional symptoms such as fever or weight loss. She denies any cardiovascular symptoms such as palpitations or edema. She denies any respiratory symptoms such as cough or shortness of breath. She denies any gastrointestinal symptoms such as nausea or vomiting. She denies any genitourinary symptoms. She denies any musculoskeletal symptoms such as joint pain. She denies any skin symptoms such as rash or itching. She denies any neurologic symptoms such as headache or dizziness.
+
+Social history reveals that the patient is a non-smoker and does not consume alcohol. She works as a teacher and denies any exposure to environmental toxins.
+
+Given the patient's complaint of chest pain and risk factors for cardiovascular disease, further evaluation is warranted to determine the cause of her symptoms. We will order an EKG, cardiac enzymes, and perform a thorough physical examination. Further management will be based on the results of these investigations."
+  
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}

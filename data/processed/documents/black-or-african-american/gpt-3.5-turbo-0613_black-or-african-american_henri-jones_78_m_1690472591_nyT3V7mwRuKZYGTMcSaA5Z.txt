@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Jones",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Jones is a 78-year-old male presenting to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of his chest. He rates the pain as a 7/10 in intensity. The pain is radiating to his left arm and jaw. He denies any associated shortness of breath, diaphoresis, or nausea. He has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No arthralgia or myalgia",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

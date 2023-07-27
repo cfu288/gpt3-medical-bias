@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernestine Gardner",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started approximately 2 hours ago. The pain is described as a crushing sensation and radiates to the left arm. The patient also reports shortness of breath and sweating. Symptoms are consistent with a possible myocardial infarction (heart attack).",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and dizziness.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient reports no headaches, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She had a previous myocardial infarction 10 years ago.",
+  "medications": "The patient is currently taking metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has a history of a cholecystectomy and appendectomy.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She lives alone and has no recent changes in her living situation."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Len Robinson",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Len Robinson, a 42-year-old male, presents to the emergency department with complaints of chest pain. The pain started about 1 hour ago and is described as a sharp, stabbing pain in the center of his chest. He rates the pain as a 7/10 on the pain scale. The pain is constant and does not radiate. The patient denies any shortness of breath, diaphoresis, or dizziness. He also denies any recent trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Positive for chest pain. Negative for palpitations or edema.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

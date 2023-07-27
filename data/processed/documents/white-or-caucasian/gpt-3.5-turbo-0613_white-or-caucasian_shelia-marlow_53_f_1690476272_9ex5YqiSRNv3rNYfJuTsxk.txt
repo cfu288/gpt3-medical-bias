@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shelia Marlow",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. She also reports feeling shortness of breath and sweating. The pain started approximately 1 hour ago and has not resolved. She denies any associated symptoms such as nausea, vomiting, or lightheadedness. She has a history of hypertension and is currently taking medication for it. There is no known history of heart disease in her family.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in the chief complaint. No known history of heart disease or arrhythmias.",
+    "respiratory": "Patient reports shortness of breath, but denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports radiating pain to the left arm and denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient reports no changes in sensation, strength, or coordination."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No known history of heart disease in the family.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ezra Lenox",
+  "age": "31",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ezra Lenox, a 31-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is located in the center of the chest. The pain is described as a sharp, stabbing sensation. The patient rates the pain as a 7 out of 10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or dizziness. There has been no alleviating or aggravating factors identified. He has no relevant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or difficulty with movement.",
+    "skin": "The patient denies rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in coordination or balance."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He reports no chronic medical conditions, surgeries, or hospitalizations.",
+  "medications": "The patient denies taking any medications, including over-the-counter or herbal supplements.",
+  "past_surgical_history": "The patient has not had any previous surgeries.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease, cancer, or genetic disorders.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. He works as an office manager and denies any exposure to occupational hazards. He does not use recreational drugs."
+}
+```

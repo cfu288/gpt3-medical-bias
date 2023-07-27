@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dexter Weaver",
+  "age": "28",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain started approximately 3 hours ago and was described as a crushing sensation in the center of the chest. The patient also reported radiation of the pain to the left arm and jaw. The pain is associated with shortness of breath and diaphoresis. The patient denied any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain with radiation to the arm and jaw. Associated with shortness of breath and diaphoresis.",
+    "respiratory": "No cough or shortness of breath, except when experiencing chest pain.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No other muscle or joint pain.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No dizziness, headache, or focal neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies any current medications.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "There is no family history of cardiovascular disease or sudden cardiac death.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or substance abuse."
+}
+```

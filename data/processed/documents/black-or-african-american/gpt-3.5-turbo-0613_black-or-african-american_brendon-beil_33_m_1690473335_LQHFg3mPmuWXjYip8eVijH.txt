@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brendon Beil",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Brendon Beil, presented to the emergency department with a chief complaint of chest pain. He reports that the pain began approximately 2 hours ago and is located in the center of his chest. The pain is described as a dull ache and is associated with shortness of breath. The patient denies any radiation of the pain or exacerbating factors. He rates the intensity of the pain as 6 out of 10. There is no history of trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports chest pain but denies palpitations or syncope.",
+    "respiratory": "The patient complains of shortness of breath but denies cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is unremarkable. He has no known chronic medical conditions or significant illnesses.",
+  "medications": "The patient does not take any regular medications or over-the-counter supplements.",
+  "past_surgical_history": "The patient has not undergone any previous surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father who had a heart attack at age 58. There are no other significant family medical histories.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He denies any illicit drug use. He is employed as an accountant and leads a sedentary lifestyle. He admits to a diet high in processed and fast foods."
+}
+```

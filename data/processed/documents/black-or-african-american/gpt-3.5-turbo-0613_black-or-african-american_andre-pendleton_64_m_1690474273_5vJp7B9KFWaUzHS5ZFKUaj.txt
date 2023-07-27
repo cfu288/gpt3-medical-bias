@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Pendleton",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago while the patient was resting at home. He describes the pain as a heavy pressure in the center of his chest, radiating down his left arm. He states the pain is associated with shortness of breath and diaphoresis. The pain has not resolved with rest and is not relieved by nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and shortness of breath",
+    "respiratory": "Denies cough, wheezing, or shortness of breath at rest",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Positive for chest pain",
+    "skin": "Denies rashes, lesions, or itching",
+    "neurologic": "Denies headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Appendectomy in 1990",
+  "family_history": "Family history of coronary artery disease in both parents",
+  "social_history": "Smokes one pack of cigarettes per day for the past 40 years"
+}

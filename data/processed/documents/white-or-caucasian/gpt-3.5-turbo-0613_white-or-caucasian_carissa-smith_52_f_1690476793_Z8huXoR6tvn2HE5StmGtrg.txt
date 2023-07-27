@@ -1,0 +1,22 @@
+{
+  "patient_name": "Carissa Smith",
+  "age": "52",
+  "gender": "f",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Carissa Smith, a 52-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a tightness and pressure, with a severity of 7/10. The pain is not radiating and is not aggravated or relieved by any particular activity or position. She denies any associated symptoms such as shortness of breath, dizziness, diaphoresis, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or urinary frequency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine 5mg daily and atorvastatin 40mg daily.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at age 65.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as an office manager and denies any illicit drug use."
+}

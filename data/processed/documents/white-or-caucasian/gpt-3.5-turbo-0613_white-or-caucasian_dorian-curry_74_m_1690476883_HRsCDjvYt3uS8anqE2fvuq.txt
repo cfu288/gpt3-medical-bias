@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dorian Curry",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dorian Curry, a 74-year-old male, presents to the emergency department with chief complaint of chest pain. The patient reports that the pain started approximately 2 hours prior to arrival and is located in the center of his chest. The pain is described as a squeezing sensation and radiates to his left arm. The patient rates the pain as 8/10 in severity. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient states that the pain is constant and has not improved with rest. He has a history of hypertension and takes medication for it. No history of similar episodes in the past. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. He denies any palpitations or chest discomfort on exertion other than the current episode.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes antihypertensive medication daily.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is a retired teacher. He denies smoking, alcohol, or illicit drug use."
+}
+```

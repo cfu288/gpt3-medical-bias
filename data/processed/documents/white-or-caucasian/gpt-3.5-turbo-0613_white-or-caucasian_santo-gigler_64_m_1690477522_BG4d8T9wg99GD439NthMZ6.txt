@@ -1,0 +1,21 @@
+{
+  "patient_name": "Santo Gigler",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Santo Gigler, a 64-year-old male, presents to the emergency department with chief complaint of chest pain. The patient describes the pain as a crushing sensation in the center of his chest that started approximately 2 hours ago. He rates the pain as 9/10 in severity. The pain is radiating to his left arm and jaw. The patient states that he has never experienced this type of pain before and it is not relieved with rest. He denies any associated shortness of breath, diaphoresis, or nausea. The patient reports that he has a family history of coronary artery disease in his father who had a heart attack at the age of 60. The patient denies any recent illness, fever, cough, or other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, weight loss, or fatigue.",
+    "cardiovascular": "Patient reports chest pain as described above.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or blood in urine.",
+    "musculoskeletal": "Patient reports pain radiating to left arm and jaw.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has a family history of coronary artery disease, with his father having a heart attack at the age of 60.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

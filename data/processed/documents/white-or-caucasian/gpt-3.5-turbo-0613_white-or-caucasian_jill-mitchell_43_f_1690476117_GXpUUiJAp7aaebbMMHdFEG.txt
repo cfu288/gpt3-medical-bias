@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jill Mitchell",
+  "age": "43",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jill Mitchell, a 43-year-old female, presented to the emergency department with a chief complaint of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. The pain began approximately 2 hours ago and has been persistent. She rates the pain as an 8 out of 10 in severity. She denies any associated shortness of breath, nausea, or diaphoresis. She reports no recent trauma or injury. She has no known history of cardiac disease or risk factors for coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or irregular heartbeat.",
+    "respiratory": "The patient reports no cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "In addition to the chest pain, the patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, for which she takes lisinopril daily. She is otherwise healthy and has no other significant medical history.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for cardiac disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an accountant and lives a sedentary lifestyle."
+}

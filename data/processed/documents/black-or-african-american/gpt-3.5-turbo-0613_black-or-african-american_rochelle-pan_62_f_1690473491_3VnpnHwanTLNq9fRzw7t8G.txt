@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rochelle Pan",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rochelle Pan, a 62-year-old female, presents to the emergency department with a chief complaint of chest pain. She describes the pain as a crushing sensation in the center of her chest that radiates to her left arm. The pain started approximately 2 hours ago while she was resting at home. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The pain is not relieved with rest or nitroglycerin. She has a past medical history significant for hypertension and hyperlipidemia. Upon examination, the patient appears pale and diaphoretic. Her vital signs are stable with a blood pressure of 140/90 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Physical examination reveals normal lung sounds and a regular cardiac rhythm with no murmurs or extra heart sounds. There is no peripheral edema. The initial EKG shows ST segment elevation in leads II, III, and aVF, consistent with an inferior myocardial infarction. A diagnosis of acute myocardial infarction is suspected. Informed consent for treatment has been obtained.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

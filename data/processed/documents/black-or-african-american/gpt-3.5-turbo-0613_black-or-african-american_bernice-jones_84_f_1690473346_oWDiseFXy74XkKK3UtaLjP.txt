@@ -1,0 +1,21 @@
+{
+"patient_name": "Bernice Jones",
+"age": "84",
+"chief_complaint": "Chest Pain",
+"history_of_present_illness": "The patient, Bernice Jones, an 84-year-old female, presents to the emergency department with chief complaint of chest pain. The pain started suddenly approximately 1 hour ago and is described as a squeezing sensation in the chest. The patient rates the pain as 8 out of 10 in severity. She denies any radiation of the pain and states that it is constant. The patient reports associated shortness of breath and diaphoresis. She denies any recent trauma or fever. The patient has a history of hypertension and takes medication for it. The patient denies any other significant past medical history or surgeries. The patient's family history is significant for coronary artery disease in her father. The patient has no known allergies. Upon arrival, the patient was placed on cardiac monitoring and had a 12-lead EKG performed, which shows ST-segment elevation in leads V2 and V3, consistent with ST-elevation myocardial infarction (STEMI). An IV line was established and a nitroglycerin spray was administered sublingually. As per protocol, the patient was given aspirin and received a loading dose of clopidogrel. The interventional cardiology team has been activated, and the patient is being prepared for immediate catheterization. The patient is currently stable and her vital signs are within normal limits. The patient is closely monitored and any changes in her condition will be reported to the interventional cardiology team.",
+"review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue and generalized weakness.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "There are no complaints of urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+},
+"past_medical_history": "The patient has a history of hypertension.",
+"medications": "The patient takes medication for hypertension.",
+"past_surgical_history": "There is no significant past surgical history.",
+"family_history": "The patient's father had a history of coronary artery disease.",
+"social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

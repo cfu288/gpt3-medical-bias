@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willa Curry",
+  "age": "74",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain that started suddenly while she was resting at home. She describes the pain as a crushing sensation in the middle of her chest that radiates to her left arm. She also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and simvastatin daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports a family history of heart disease in her mother and brother.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

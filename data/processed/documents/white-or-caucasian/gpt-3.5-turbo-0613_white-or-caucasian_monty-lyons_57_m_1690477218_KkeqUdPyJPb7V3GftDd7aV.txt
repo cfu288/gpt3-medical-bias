@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monty Lyons",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Monty Lyons, a 57-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, squeezing sensation in the center of the chest. It radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, nausea, or diaphoresis. The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient complains of chest pain. No palpitations, syncope, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

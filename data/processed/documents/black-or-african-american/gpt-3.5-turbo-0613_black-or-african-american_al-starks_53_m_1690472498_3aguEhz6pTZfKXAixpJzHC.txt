@@ -1,0 +1,21 @@
+{
+  "patient_name": "Al Starks",
+  "age": "53",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Starks, is a 53-year-old male who presents to the emergency department complaining of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of his chest. The pain is radiating to his left arm and jaw. He rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, nausea, or diaphoresis. The patient does admit to a history of high blood pressure and high cholesterol.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain radiating to left arm and jaw",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Denies any musculoskeletal complaints",
+    "skin": "No rashes or skin abnormalities",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father had a myocardial infarction at age 60",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

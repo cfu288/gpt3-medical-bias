@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alicia Hampshire",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, Alicia Hampshire, a 67-year-old female, presented to the emergency department with a chief complaint of chest pain. The pain is described as a squeezing sensation in the center of her chest that radiates to her left arm. She rates the severity of the pain as 8 out of 10. The pain started approximately 2 hours ago while she was at rest. The pain is not relieved by rest or nitroglycerin. She denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or lightheadedness. She has a history of hypertension and hyperlipidemia and takes medications for both conditions. She reports no previous history of chest pain or cardiac events. She states that her father had a heart attack in his 50s, but she is unsure of any other family history of cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Reports no palpitations or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Reports no joint pain or stiffness.",
+    "skin": "Denies rash, itching, or changes in pigmentation.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg nightly",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "Father with history of heart attack in his 50s.",
+  "social_history": "Non-smoker, social drinker."
+}

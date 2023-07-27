@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleo Barrett",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cleo Barrett, a 64-year-old female, presents to the emergency department with complaints of chest pain. The pain started approximately 3 hours ago and is described as a substernal, squeezing sensation with radiation to her left arm. The pain is rated 8/10 in intensity and is not relieved with rest. She denies any associated symptoms such as shortness of breath, diaphoresis, or lightheadedness. She reports a history of hypertension and dyslipidemia, for which she takes medications. She denies any recent illnesses or injuries. On further questioning, she admits to being under significant stress due to recent family issues. She denies any history of similar symptoms in the past. Given her symptoms and risk factors, concerns for acute coronary syndrome are high.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain described above, the patient denies palpitations or syncope.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia.",
+  "medications": "The patient takes medications for hypertension and dyslipidemia, including amlodipine and atorvastatin.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and two siblings.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is currently unemployed."
+}

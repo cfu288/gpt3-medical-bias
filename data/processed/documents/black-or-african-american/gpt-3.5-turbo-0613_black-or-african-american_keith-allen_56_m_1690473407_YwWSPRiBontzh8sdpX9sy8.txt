@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keith Allen",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 56-year-old male named Keith Allen, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull and squeezing sensation in the central chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8/10 on the pain scale and reports associated shortness of breath and diaphoresis. The patient denies any previous episodes of chest pain. Upon further questioning, the patient reports a history of hypertension and high cholesterol. He takes medications for both conditions regularly.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, skin lesions, or changes in moles.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Patient takes medications for hypertension and high cholesterol",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No significant family history of cardiovascular disease or cancer.",
+  "social_history": "Patient denies tobacco and alcohol use. He works as a desk job."
+}

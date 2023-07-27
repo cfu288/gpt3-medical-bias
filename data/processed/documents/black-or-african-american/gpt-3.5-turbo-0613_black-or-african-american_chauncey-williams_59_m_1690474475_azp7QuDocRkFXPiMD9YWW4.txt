@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Chauncey Williams"
+    },
+    "age": {
+      "type": "string",
+      "value": "59"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Chest Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Chauncey Williams, a 59-year-old male, presented to the emergency department with a chief complaint of chest pain. He describes the pain as a crushing, pressure-like sensation in the center of his chest. He states that the pain started approximately 1 hour ago while he was at rest. He denies any associated symptoms such as shortness of breath, diaphoresis, or radiation of the pain. The patient also reports feeling lightheaded and slightly nauseous."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient denies any constitutional symptoms such as fever, chills, or weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Other than the chest pain, the patient denies any cardiovascular symptoms such as palpitations or leg swelling."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient denies any respiratory symptoms such as cough or shortness of breath."
+        },
+        "gi": {
+          "type": "string",
+          "value": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel movements."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any genitourinary symptoms such as urinary frequency, urgency, dysuria, or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient reports no musculoskeletal symptoms such as joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any skin symptoms such as rash or changes in skin color."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Other than feeling lightheaded, the patient denies any neurological symptoms such as headaches, numbness, or weakness."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient's father had a history of myocardial infarction."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a retired construction worker. He has a 20 pack-year smoking history but quit smoking 5 years ago. He consumes alcohol occasionally."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

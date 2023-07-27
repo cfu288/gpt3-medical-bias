@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wilford Cripe",
+  "age": "67",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Wilford Cripe, a 67-year-old male, presents to the emergency department with complaints of chest pain. He reports that the pain started about 1 hour ago and is a dull, aching sensation in the center of his chest. He rates the pain as a 6 out of 10. The pain is not radiating to his arms or jaw. He denies any shortness of breath, diaphoresis, or nausea. He has no previous history of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports palpitations. He denies any history of chest pain, previous myocardial infarction, or heart failure.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies headache, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin.",
+  "medications": "1. Lisinopril 10mg daily\n2. Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 60. No other significant family history.",
+  "social_history": "The patient is a retired accountant. He denies tobacco use, alcohol use, and illicit drug use."
+}
+```

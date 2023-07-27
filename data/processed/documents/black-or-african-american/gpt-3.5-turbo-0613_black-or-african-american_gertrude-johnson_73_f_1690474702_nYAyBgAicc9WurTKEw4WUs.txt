@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gertrude Johnson",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Gertrude Johnson, a 73-year-old female, presented to the emergency department with complaints of chest pain. She reports that the pain started suddenly earlier today while she was at home. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. The pain is moderate in intensity and has been constant since it started. She denies any associated symptoms such as shortness of breath, nausea, or sweating. She has a history of hypertension and takes medications for it. Upon arrival in the ED, her vital signs were stable, with a blood pressure of 130/80 mmHg and a heart rate of 80 beats per minute. The physical examination was unremarkable except for mild tenderness on palpation of her chest. In the immediate response to the patient's presentation, an ECG was performed, which showed ST segment elevation in leads V2-V4. Given her presentation and ECG findings, the patient was diagnosed with an acute myocardial infarction (heart attack) and started on aspirin, nitroglycerin, and oxygen therapy.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "Chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches or focal weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular disease",
+  "social_history": "Retired, non-smoker, no alcohol or drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harlan Featherstone",
+  "age": "44",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Harlan Featherstone, a 44-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is located in the center of the chest. The character is described as a squeezing sensation, radiating to the left arm. The patient rates the pain as a 7/10 in severity. He denies any shortness of breath or diaphoresis. The patient has a history of smoking and has been actively smoking for the past 25 years. He reports having occasional hypertension, but is not on any regular medications. No previous surgeries or significant medical history reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Positive for radiation of pain to left arm.",
+    "skin": "Denies any rashes or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Occasional hypertension",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is a long-term smoker, actively smoking for 25 years."
+}

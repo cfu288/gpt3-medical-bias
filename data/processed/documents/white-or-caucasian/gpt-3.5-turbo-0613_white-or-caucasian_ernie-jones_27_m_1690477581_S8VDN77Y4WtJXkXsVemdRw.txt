@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernie Jones",
+  "age": "27",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ernie Jones, a 27-year-old male, presents to the emergency department with chief complaint of chest pain. The pain started suddenly earlier today and is described as a sharp, stabbing sensation localized to the left side of the chest. The pain is exacerbated with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations or syncope.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of asthma since childhood. He also reports occasional episodes of heartburn but has never been formally diagnosed with gastroesophageal reflux disease (GERD).",
+  "medications": "The patient currently uses an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of hypertension, but there is no known history of heart disease or other significant medical conditions in the immediate family.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allison Mcnicholas",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Allison Mcnicholas, a 45-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain is described as a sharp, stabbing sensation located in the center of the chest. She rates the intensity of the pain as 8 out of 10. The pain started approximately 2 hours ago and has been constant since then. The patient denies any associated symptoms such as shortness of breath, dizziness, or sweating. She has not experienced any similar episodes in the past. Furthermore, there is no known history of cardiac disease or risk factors such as smoking, hypertension, or diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "There is no history of heart palpitations or irregular heartbeats.",
+    "respiratory": "The patient has no cough, shortness of breath, or wheezing.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "There are no urinary symptoms or history of kidney disease",
+    "musculoskeletal": "There is no history of joint pain or swelling.",
+    "skin": "No rashes, changes in skin color, or lesions reported.",
+    "neurologic": "The patient denies any headaches, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypothyroidism, for which she takes levothyroxine 100 mcg daily.",
+  "medications": "Levothyroxine 100 mcg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no family history of cardiac disease or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a software engineer and is currently married with two children."
+}

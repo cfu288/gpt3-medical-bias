@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Bell",
+  "age": "45",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of chest pain. Pain started suddenly about 1 hour ago while the patient was resting at home. The pain is described as a crushing sensation radiating to the left arm. Patient also reports associated shortness of breath and diaphoresis. Denies any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain with radiating pain to the left arm, shortness of breath, and diaphoresis.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or sores.",
+    "neurologic": "No weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "No family history of coronary artery disease or other cardiac conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illegal drug use."
+}

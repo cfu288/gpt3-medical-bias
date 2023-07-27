@@ -1,0 +1,21 @@
+{
+  "patient_name": "Will Wright",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Will Wright, a 38-year-old male, presented to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the left side of the chest. The pain worsens with deep breathing and movement. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no history of similar episodes in the past. The patient does not have any known risk factors for cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain but denies palpitations or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports chest pain but denies any joint pain or back pain.",
+    "skin": "The patient denies any rashes, lesions, or changes to the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, for which he takes lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no known history of surgeries.",
+  "family_history": "The patient's father has a history of myocardial infarction at age 60. The patient's mother is alive and well.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs. He works as a software engineer and is married with two children."
+}

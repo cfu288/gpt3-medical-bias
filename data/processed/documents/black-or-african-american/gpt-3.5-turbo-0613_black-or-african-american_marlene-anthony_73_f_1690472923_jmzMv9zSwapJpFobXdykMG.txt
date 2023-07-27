@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marlene Anthony",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Marlene Anthony, a 73-year-old female, presented to the emergency department with a chief complaint of chest pain. The patient reported that the chest pain started approximately 2 hours ago and is a dull, pressure-like sensation in the center of her chest. The pain radiates to her left arm and jaw. She rates the pain as 8 out of 10 in intensity. The patient also mentioned feeling short of breath and nauseous. The symptoms have not resolved spontaneously.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension but denies previous cardiac events.",
+    "respiratory": "The patient reports shortness of breath with exertion.",
+    "gi": "The patient denies any abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or recent injuries.",
+    "skin": "The patient denies any rashes or lesions on the skin.",
+    "neurologic": "The patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes Lisinopril daily. She is also on a low-dose aspirin for primary prevention.",
+  "medications": "Lisinopril 10mg daily, aspirin 81mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of hypertension and coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She lives alone and is independent with activities of daily living."
+}
+```

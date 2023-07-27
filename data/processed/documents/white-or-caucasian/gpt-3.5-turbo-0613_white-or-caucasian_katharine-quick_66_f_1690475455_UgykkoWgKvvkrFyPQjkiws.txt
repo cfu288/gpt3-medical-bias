@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katharine Quick",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. Pain began approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. Patient states that the pain radiates down the left arm and is associated with shortness of breath. Pain is rated as 7/10 in severity. Patient denies any recent injuries or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats.",
+    "cardiovascular": "Patient reports chest pain, but denies palpitations or irregular heartbeats.",
+    "respiratory": "Patient reports shortness of breath and mild cough, but denies wheezing or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports chest pain and left arm pain, but denies any other musculoskeletal symptoms.",
+    "skin": "Patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "Patient denies headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. Patient is currently on medications for all three conditions.",
+  "medications": "Patient is taking lisinopril for hypertension, atorvastatin for hyperlipidemia, and metformin for diabetes.",
+  "past_surgical_history": "Patient has a history of appendectomy at age 32 and cholecystectomy at age 50.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lon Potts",
+  "age": "86",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Potts, is an 86-year-old male who presents to the emergency department with complaints of chest pain. He describes the pain as a dull ache in the center of his chest that started approximately 2 hours ago. The pain has not radiated to his arms or jaw, and he denies any associated shortness of breath, diaphoresis, or nausea. The patient reports that he has a history of hypertension and takes medication for it. He denies any recent changes in his medication or lifestyle. He also mentions that he recently started experiencing occasional episodes of indigestion. Based on the patient's presentation and history, further investigation is warranted to determine the cause of his chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Reports occasional palpitations but denies any syncope or edema",
+    "respiratory": "Denies cough, wheezing, or shortness of breath",
+    "gi": "Reports occasional indigestion but denies any abdominal pain, vomiting, or changes in bowel habits",
+    "gu": "No urinary symptoms reported",
+    "musculoskeletal": "Denies joint or muscle pain",
+    "skin": "No rashes or lesions noted",
+    "neurologic": "Denies any focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular diseases",
+  "social_history": "Mr. Potts is a retired school teacher. He does not smoke and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Horace Lalor",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Lalor is a 48-year-old male presenting with a chief complaint of chest pain. The patient states that he started experiencing the chest pain approximately 2 hours ago. The pain is substernal, sharp in nature, and radiates to his left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any previous episodes of similar chest pain. No relieving factors have been identified at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "The patient has a history of hypertension, but denies any previous cardiac events.",
+    "respiratory": "The patient reports shortness of breath with exertion.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes Lisinopril daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "The patient denies smoking, alcohol, and illicit drug use. He works as a software engineer and does not report any significant stressors."
+}
+```

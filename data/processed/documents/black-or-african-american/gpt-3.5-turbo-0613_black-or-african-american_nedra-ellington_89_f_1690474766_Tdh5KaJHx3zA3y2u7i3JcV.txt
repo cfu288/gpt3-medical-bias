@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nedra Ellington",
+  "age": "89",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Nedra Ellington, an 89-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of her chest. The pain is constant and radiates to her left arm. She rates the pain as 8 out of 10 on the pain scale. The patient denies shortness of breath, dizziness, or any other associated symptoms. She has no known history of cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain, but denies palpitations or irregular heartbeats.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes losartan 50mg once daily for hypertension and atorvastatin 20mg once daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for cardiovascular disease in her father.",
+  "social_history": "The patient is a lifelong non-smoker and does not consume alcohol or illicit drugs."
+}
+```

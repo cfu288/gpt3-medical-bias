@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laurel Burdick",
+  "age": "100",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Laurel Burdick, a 100-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 1 hour ago and is described as a pressure-like sensation in the center of the chest. It radiates to the left arm and is accompanied by shortness of breath. The patient denies any associated symptoms such as nausea or diaphoresis. She has no known history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or fever.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "The patient reports shortness of breath accompanying the chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash or skin lesions reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and osteoarthritis. She takes daily medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and a sister.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

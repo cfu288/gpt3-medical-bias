@@ -1,0 +1,21 @@
+{
+    "patient_name": "Claus Kruger",
+    "age": "68",
+    "chief_complaint": "Chest Pain",
+    "history_of_present_illness": "Patient Claus Kruger, a 68-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago while he was resting and has been persistent since then. The patient describes the pain as a squeezing sensation in the center of his chest, radiating to his left arm. He denies any associated shortness of breath, diaphoresis, or lightheadedness. He has a past medical history of hypertension and hyperlipidemia. Upon arrival, the patient's vital signs are stable.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies fever, chills, weight changes, or night sweats.",
+        "cardiovascular": "The patient complains of chest pain as mentioned earlier.",
+        "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+        "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+        "gu": "The patient denies any urinary symptoms.",
+        "musculoskeletal": "The patient denies any joint pain or swelling.",
+        "skin": "The patient denies any rashes, itching, or lesions.",
+        "neurologic": "The patient denies any changes in vision, numbness, or weakness."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+    "medications": "The patient takes hydrochlorothiazide and atorvastatin.",
+    "past_surgical_history": "The patient has no known past surgical history.",
+    "family_history": "The patient's family history is significant for coronary artery disease in his father.",
+    "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sanford Hirn",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Hirn is a 69-year-old male who presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a crushing, substernal pain that radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Given the patient's symptoms and risk factors, the possibility of an acute myocardial infarction needs to be evaluated.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain, denies palpitations, edema, or orthopnea.",
+    "respiratory": "Denies cough, dyspnea, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Positive for chest pain, denies joint pain or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in consciousness."
+  },
+  "past_medical_history": "Mr. Hirn has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "The patient takes lisinopril 20 mg daily for hypertension, atorvastatin 40 mg daily for hyperlipidemia, and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father had a history of myocardial infarction at the age of 75.",
+  "social_history": "Mr. Hirn is a non-smoker and denies alcohol or illicit drug use. He is retired and lives alone."
+}

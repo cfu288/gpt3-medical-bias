@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millie Mcgraw",
+  "age": "61",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Millie Mcgraw, a 61-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The pain has been constant since onset and has not radiated to any other areas. The patient rates the pain as a 7 out of 10 in severity. There are no alleviating or aggravating factors mentioned by the patient. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension and diabetes, for which she takes medications regularly. She denies any recent changes in medications or dosage. The patient has no known allergies to medications or any surgical history. It is important to note that the patient has a family history of coronary artery disease, as her father had a heart attack in his 60s. The patient denies any tobacco or alcohol use and has a sedentary lifestyle. Patient works as a librarian and denies any exposure to hazardous substances.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient reports chest pain as the chief complaint.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes. She takes medications (lisinopril and metformin) for these conditions regularly and denies any recent changes in medications or dosage.",
+  "medications": "Lisinopril 10 mg/day, Metformin 500 mg twice a day",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease, as her father had a heart attack in his 60s.",
+  "social_history": "The patient denies any tobacco or alcohol use and has a sedentary lifestyle. Patient works as a librarian and denies any exposure to hazardous substances."
+}

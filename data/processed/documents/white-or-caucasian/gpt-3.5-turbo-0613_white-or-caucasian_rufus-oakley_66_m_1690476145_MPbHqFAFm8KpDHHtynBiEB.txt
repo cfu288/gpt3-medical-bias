@@ -1,0 +1,103 @@
+{
+  "patient_name": "Rufus Oakley",
+  "age": "66",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with acute onset of chest pain that started approximately 2 hours ago. The pain is described as a substernal squeezing sensation that radiates to the left arm. The patient also reports associated shortness of breath and diaphoresis. The pain is not relieved by rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath. No palpitations or edema.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rash or skin abnormalities reported.",
+    "neurologic": "No dizziness or syncope reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient currently takes amlodipine 5 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient has no history of prior surgeries.",
+  "family_history": "Patient's father had a myocardial infarction at age 70. No other significant family history reported.",
+  "social_history": "The patient is a retired accountant and denies tobacco, alcohol, or illicit drug use.",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "string"
+    },
+    "chief_complaint": {
+      "type": "string"
+    },
+    "history_of_present_illness": {
+      "type": "string"
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string"
+        },
+        "cardiovascular": {
+          "type": "string"
+        },
+        "respiratory": {
+          "type": "string"
+        },
+        "gi": {
+          "type": "string"
+        },
+        "gu": {
+          "type": "string"
+        },
+        "musculoskeletal": {
+          "type": "string"
+        },
+        "skin": {
+          "type": "string"
+        },
+        "neurologic": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+    },
+    "past_surgical_history": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "social_history": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

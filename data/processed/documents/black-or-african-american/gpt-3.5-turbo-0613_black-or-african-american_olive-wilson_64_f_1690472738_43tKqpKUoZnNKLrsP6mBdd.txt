@@ -1,0 +1,21 @@
+{
+  "patient_name": "Olive Wilson",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Olive Wilson, a 64-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about an hour ago while she was resting at home. The pain is described as a pressure-like sensation located in the center of her chest. She rates the intensity of the pain as 8 out of 10. The pain is not relieved with rest or position changes. She denies any associated symptoms such as shortness of breath, nausea, vomiting, or diaphoresis. She has a past medical history of hypertension and hyperlipidemia and takes medication for both conditions. She denies any recent surgical history. No significant family history of cardiac diseases. Social history reveals that she is a non-smoker and consumes alcohol in moderation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Chest pain is the only cardiovascular symptom reported.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history of cardiac diseases.",
+  "social_history": "Non-smoker. Alcohol consumption in moderation."
+}

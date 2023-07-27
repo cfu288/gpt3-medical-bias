@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reginald Mcmanus",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Mcmanus presents to the emergency department with complaints of chest pain. The pain started about 3 hours ago and is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. He rates the pain as a 9 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Positive for chest pain as mentioned in the chief complaint. No palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary pattern.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Mr. Mcmanus has a history of hypertension and hyperlipidemia. He is currently on amlodipine 10 mg and atorvastatin 40 mg daily.",
+  "medications": "Amlodipine 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history of cardiovascular disease or other medical conditions.",
+  "social_history": "Mr. Mcmanus is a non-smoker and denies any alcohol or illicit drug use."
+}

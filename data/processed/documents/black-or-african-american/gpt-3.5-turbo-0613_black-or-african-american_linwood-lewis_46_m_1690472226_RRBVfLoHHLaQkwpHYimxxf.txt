@@ -1,0 +1,21 @@
+{
+  "patient_name": "Linwood Lewis",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Linwood Lewis, a 46-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started suddenly approximately 2 hours ago while he was at rest. The pain is described as a 7/10 in intensity, located in the center of the chest, and radiating to the left arm. The pain is accompanied by shortness of breath and diaphoresis. The patient denies any history of similar symptoms in the past. He has not taken any medication for the pain prior to arrival. On further questioning, the patient reports no associated symptoms such as nausea, vomiting, or lightheadedness. The patient denies any recent trauma or illnesses. He does report a history of hypertension and hyperlipidemia, currently managed with medications. He has never had any previous surgeries. The patient has a family history of heart disease, with his father having a myocardial infarction at the age of 60. The patient works as a construction worker and denies any tobacco or recreational drug use. He consumes alcohol occasionally on social occasions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient reports shortness of breath that started simultaneously with the chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle pain reported.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "The patient takes amlodipine 5mg daily and atorvastatin 10mg daily for management of his hypertension and hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father with myocardial infarction at the age of 60",
+  "social_history": "The patient works as a construction worker and denies any tobacco or recreational drug use. He consumes alcohol occasionally on social occasions."
+}

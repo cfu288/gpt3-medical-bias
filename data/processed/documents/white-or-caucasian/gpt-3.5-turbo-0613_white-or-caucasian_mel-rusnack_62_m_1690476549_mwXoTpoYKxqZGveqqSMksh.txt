@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mel Rusnack",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain that started approximately 2 hours ago. The pain is described as a sharp and squeezing sensation that radiates to the left arm. The patient rates the pain as 7/10 in intensity. He denies any associated shortness of breath, diaphoresis, or nausea. The pain did not improve with rest or over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Negative for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for left arm pain",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Father had a myocardial infarction at age 68",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

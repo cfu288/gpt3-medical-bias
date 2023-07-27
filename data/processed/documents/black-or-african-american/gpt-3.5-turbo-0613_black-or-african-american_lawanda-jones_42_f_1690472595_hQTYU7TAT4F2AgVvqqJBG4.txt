@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lawanda Jones",
+  "age": "42",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Lawanda Jones, is a 42-year-old female who presents to the emergency department with a chief complaint of chest pain. The pain began approximately 2 hours ago and is described as a sharp, stabbing sensation located on the left side of the chest. The pain is intermittent and worsens with deep breaths and movement. The patient denies any associated symptoms such as shortness of breath, dizziness, or diaphoresis. On further questioning, the patient reports that she has a history of hypertension and takes medication for it. She denies any recent illnesses or injuries. She states that she has been under increased stress lately due to work and family issues.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or syncope. She has a history of hypertension.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medication for hypertension, but the specific medication is unknown.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient is unsure about her family medical history.",
+  "social_history": "The patient is divorced and lives with her two children. She works as a software engineer and reports high levels of stress at work. She denies any tobacco, alcohol, or illicit drug use."
+}

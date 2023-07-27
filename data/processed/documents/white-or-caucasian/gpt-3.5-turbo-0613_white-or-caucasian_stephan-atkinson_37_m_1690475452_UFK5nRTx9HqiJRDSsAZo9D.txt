@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stephan Atkinson",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents with sharp chest pain radiating to the left arm for the past two hours. Patient also reports shortness of breath and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain or nausea.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient reports chest pain and pain radiating down the left arm.",
+    "skin": "No complaints of skin issues.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol succinate for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use."
+}

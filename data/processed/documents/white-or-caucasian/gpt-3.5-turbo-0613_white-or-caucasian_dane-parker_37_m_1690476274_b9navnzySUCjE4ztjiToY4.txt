@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dane Parker",
+  "age": "37",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Dane Parker, a 37-year-old male, presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started approximately 1 hour ago and is described as a burning sensation in the substernal area. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any previous episodes of similar pain. He reports that the pain is persistent and has not resolved with rest or over-the-counter medications. Upon further questioning, the patient denies any fever, cough, or other respiratory symptoms. Additionally, he denies any gastrointestinal symptoms, urinary symptoms, musculoskeletal pain, or rash. The patient states that he has never experienced any neurological symptoms such as weakness, numbness, or tingling.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Chest pain radiating to the left arm, shortness of breath",
+    "respiratory": "No cough, shortness of breath with exertion",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or lesions",
+    "neurologic": "No weakness, numbness, or tingling"
+  },
+  "past_medical_history": "The patient has a history of hypertension, well controlled with medications. He denies any other significant past medical history.",
+  "medications": "Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No significant family history of cardiovascular disease or other genetic conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Homer Freed",
+  "age": "90",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 90-year-old male named Homer Freed, presented to the emergency department with complaints of chest pain. The pain started suddenly this morning while he was at home. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as 8/10 in intensity. Patient also reports feeling short of breath and has been sweating profusely.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling generally unwell and fatigued.",
+    "cardiovascular": "Patient complains of chest pain that radiates to the left arm. Patient also reports shortness of breath.",
+    "respiratory": "Patient denies any respiratory symptoms.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports no musculoskeletal symptoms.",
+    "skin": "Patient reports no skin symptoms.",
+    "neurologic": "Patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hypercholesterolemia.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient has a family history of coronary artery disease.",
+  "social_history": "Patient is a retired construction worker. He has a history of smoking for 50 years but quit 10 years ago. Patient lives alone and is independent with activities of daily living."
+}

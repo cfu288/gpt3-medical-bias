@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patrice Mitchell",
+  "age": "64",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Patrice Mitchell, is a 64-year-old female who presented to the emergency department with complaints of chest pain. She describes the pain as a crushing sensation in her chest that radiates to her left arm. The pain started suddenly approximately 2 hours ago while she was resting at home. She rates the intensity of the pain as 8 out of 10 and states that it is not relieved with rest or nitroglycerin. She denies any shortness of breath, nausea, or diaphoresis. She has a history of hypertension and hyperlipidemia. On examination, the patient appears uncomfortable and diaphoretic. Her blood pressure is 160/90 mmHg, heart rate is 110 beats per minute, respiratory rate is 20 breaths per minute, oxygen saturation is 98% on room air, and temperature is 98.6°F. Cardiac auscultation reveals normal S1 and S2 sounds with no murmurs, rubs, or gallops. EKG shows ST-segment elevation in leads II, III, and aVF.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient complains of chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father and brother.",
+  "social_history": "The patient is a former smoker and quit smoking 10 years ago. She consumes alcohol occasionally and denies any illicit drug use."
+}

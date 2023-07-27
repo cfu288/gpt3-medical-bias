@@ -1,0 +1,21 @@
+{
+  "patient_name": "Schuyler Murray",
+  "age": "38",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Schuyler Murray, a 38-year-old male, presents to the emergency department with a chief complaint of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation located in the central chest. The pain worsens with deep breaths and is accompanied by shortness of breath. The patient denies any previous episodes of similar chest pain and reports no associated symptoms such as palpitations or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or changes in skin color",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking Lisinopril 10mg daily and Atorvastatin 20mg daily for these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient's family history is negative for any significant cardiac or pulmonary diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager."
+}

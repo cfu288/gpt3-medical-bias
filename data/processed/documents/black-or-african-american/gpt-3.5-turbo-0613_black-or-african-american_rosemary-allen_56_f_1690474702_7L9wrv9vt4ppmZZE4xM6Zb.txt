@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Rosemary Allen",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosemary Allen, a 56-year-old female, presents to the emergency department with complaints of chest pain. The chest pain started abruptly about 3 hours ago while she was resting at home and has persisted since then. She describes the pain as a sharp, squeezing sensation that radiates to her left arm. The pain is associated with shortness of breath and sweating. She denies any recent trauma or known triggers for the pain. She has no prior history of chest pain or heart problems. The patient states that she is very concerned about her symptoms and is worried that she may be having a heart attack.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the chest pain, the patient reports palpitations and occasional fluttering sensations in her chest.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports no joint pain, muscle weakness, or limitations in mobility.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient reports no headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medications. She has never had a heart attack or any other cardiovascular disease.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a heart attack in his 60s. Her mother is alive and has no history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and has no history of illicit drug use."
+}
+```

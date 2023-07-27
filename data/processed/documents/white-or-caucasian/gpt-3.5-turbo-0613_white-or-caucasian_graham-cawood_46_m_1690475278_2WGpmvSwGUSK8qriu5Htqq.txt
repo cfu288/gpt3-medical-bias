@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Graham Cawood",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Graham Cawood, a 46-year-old male, presented with complaints of chest pain. He described the pain as a sharp, stabbing sensation located in the center of his chest. The pain started suddenly about an hour ago while he was at rest. It has not subsided since onset and is rated as 8/10 in severity. The pain is not relieved with rest or changes in position. The patient also reports experiencing shortness of breath, nausea, and diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports no history of heart disease. He denies palpitations or racing heart.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal pain or injuries.",
+    "skin": "The patient denies any skin issues or rashes.",
+    "neurologic": "The patient denies any neurological symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication daily to control it. He reports no other significant past medical history.",
+  "medications": "The patient takes losartan 50mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of heart disease on his father's side.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

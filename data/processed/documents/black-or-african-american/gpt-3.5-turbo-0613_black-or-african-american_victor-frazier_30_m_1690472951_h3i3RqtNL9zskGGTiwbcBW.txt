@@ -1,0 +1,21 @@
+{
+  "patient_name": "Victor Frazier",
+  "age": "30",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Frazier, is a 30-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately one hour ago and has been constant since then. He describes the pain as a pressure-like sensation in the center of his chest, radiating to his back and left arm. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has no previous history of similar symptoms. He states that the pain is exacerbated by deep breaths and relieved by sitting upright.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain as described above. Negative for palpitations or syncope.",
+    "respiratory": "Negative for cough, dyspnea, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiac or other medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and does not report any significant occupational or environmental exposures."
+}

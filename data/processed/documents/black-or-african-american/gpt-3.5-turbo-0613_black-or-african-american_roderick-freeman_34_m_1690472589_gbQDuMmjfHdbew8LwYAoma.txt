@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderick Freeman",
+  "age": "34",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain of sudden onset that radiates to the left arm and jaw. Pain is described as crushing and is associated with shortness of breath and diaphoresis. Patient states that the pain started approximately 1 hour ago and has been progressively worsening. Patient denies any previous episodes of similar pain. Initial evaluation reveals elevated blood pressure and heart rate. EKG shows ST segment elevation in leads V2-V5. Given the patient's presentation, a diagnosis of acute myocardial infarction (heart attack) is suspected. Further evaluation and management are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient reports the chest pain as described above. Denies palpitations or dizziness.",
+    "respiratory": "Patient reports shortness of breath that is worsened with exertion. Denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pains or muscle aches.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, loss of consciousness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. Takes medications for both conditions.",
+  "medications": "Lisinopril 20mg once daily; Atorvastatin 40mg once daily",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient reports a positive family history of coronary artery disease in both parents.",
+  "social_history": "Patient is a non-smoker. Denies alcohol or illicit drug use. Works as a software engineer and leads a sedentary lifestyle."
+}

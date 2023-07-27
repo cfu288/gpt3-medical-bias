@@ -1,0 +1,35 @@
+```json
+{
+  "patient_name": "Effie Levels",
+  "age": "88",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Effie Levels, an 88-year-old female, presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a sharp, stabbing sensation that worsens with deep breathing and movement. She denies any shortness of breath, palpitations, or dizziness. 
+
+The patient has a history of hypertension and hyperlipidemia. She takes lisinopril for blood pressure control and atorvastatin for cholesterol management. The patient denies any recent changes in her medications or dosage.
+
+There is no past surgical history of note.
+
+Upon further questioning, the patient endorses occasional episodes of indigestion and mild abdominal discomfort, but denies any recent gastrointestinal symptoms such as nausea, vomiting, or diarrhea.
+
+The patient has no family history of heart disease or other significant medical conditions.
+
+In terms of social history, the patient is a lifelong non-smoker and does not consume alcohol.
+
+In summary, an 88-year-old female with a history of hypertension and hyperlipidemia presents to the ED with acute-onset chest pain. The pain is described as a sharp, stabbing sensation that worsens with deep breathing. Given the patient's age and symptoms, a thorough evaluation is warranted to rule out serious cardiac etiologies. EKG and laboratory studies including cardiac enzymes have been ordered. A chest X-ray will also be obtained to evaluate for other possible causes of chest pain."
+  ],
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations, syncope, or known heart murmurs.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient endorses occasional episodes of indigestion and mild abdominal discomfort, but denies any recent gastrointestinal symptoms such as nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "past_surgical_history": "There is no past surgical history of note.",
+  "family_history": "The patient denies any family history of heart disease or other significant medical conditions.",
+  "social_history": "The patient is a lifelong non-smoker and does not consume alcohol."
+}

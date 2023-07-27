@@ -1,0 +1,21 @@
+{
+  "patient_name": "Judson Hutchins",
+  "age": "56",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Hutchins, is a 56-year-old male who presents to the emergency department with chief complaint of chest pain. The onset of the pain was sudden and he describes it as a crushing, pressure-like sensation in the center of his chest. He rates the pain as 8 out of 10 in severity and reports radiation of the pain to his left arm. The pain is associated with shortness of breath, diaphoresis, and nausea. The symptoms have been ongoing for the past 30 minutes and have not improved with rest or nitroglycerin. He denies any previous episodes of similar chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for chest pain, shortness of breath, diaphoresis, and palpitations.",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath at rest.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, ulcers, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Mr. Hutchins has a past medical history of hypertension and dyslipidemia. He is on medications for both conditions.",
+  "medications": "Mr. Hutchins takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for dyslipidemia.",
+  "past_surgical_history": "Mr. Hutchins has no past surgical history.",
+  "family_history": "Mr. Hutchins has a family history of coronary artery disease. His father had a myocardial infarction at the age of 60.",
+  "social_history": "Mr. Hutchins is a nonsmoker and does not use recreational drugs. He drinks alcohol occasionally."
+}

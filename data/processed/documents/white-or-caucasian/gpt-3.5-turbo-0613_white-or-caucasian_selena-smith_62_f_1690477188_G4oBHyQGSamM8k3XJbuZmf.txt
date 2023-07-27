@@ -1,0 +1,21 @@
+{
+  "patient_name": "Selena Smith",
+  "age": "62",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Selena Smith, a 62-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports experiencing sudden onset of severe chest pain that radiates to her left arm and jaw. The pain started approximately 2 hours ago and has been persistent since then. She denies any other symptoms such as shortness of breath, nausea, or dizziness. Upon further questioning, the patient mentions that she has a history of hypertension and takes medications for that. She has never experienced chest pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, but negative for palpitations or syncope.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes antihypertensive medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

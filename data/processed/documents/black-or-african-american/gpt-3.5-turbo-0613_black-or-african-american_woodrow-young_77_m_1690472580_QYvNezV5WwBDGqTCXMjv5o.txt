@@ -1,0 +1,21 @@
+{
+  "patient_name": "Woodrow Young",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient, a 77-year-old male named Woodrow Young, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the pain as 8 out of 10 in severity. He denies any associated shortness of breath, diaphoresis, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath.",
+    "gi": "Negative for nausea or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for musculoskeletal symptoms.",
+    "skin": "Negative for skin rash or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient takes lisinopril, atorvastatin, metformin, and aspirin.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "Patient is a former smoker, quit 20 years ago. He drinks alcohol occasionally but denies any illicit drug use."
+}

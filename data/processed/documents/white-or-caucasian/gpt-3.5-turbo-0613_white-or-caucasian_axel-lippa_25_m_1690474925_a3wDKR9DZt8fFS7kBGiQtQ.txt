@@ -1,0 +1,21 @@
+{
+  "patient_name": "Axel Lippa",
+  "age": "25",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. He described the pain as a crushing sensation in his chest that radiates to his left arm. The pain started suddenly about 2 hours ago and has been persistent since then. The patient denies any shortness of breath, diaphoresis, or lightheadedness. He has no previous history of similar symptoms. On examination, the patient appears distressed and is sweating. Heart rate is elevated at 110 beats per minute and blood pressure is slightly elevated at 140/90 mmHg. Oxygen saturation is 98% on room air. There are no abnormalities noted on cardiac auscultation. EKG shows ST-segment elevation in leads II, III, and aVF. Given the patient's presentation and EKG findings, the working diagnosis is acute myocardial infarction.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss.",
+    "cardiovascular": "Patient reports severe chest pain with radiation to the left arm. No palpitations or syncope mentioned.",
+    "respiratory": "No cough, shortness of breath, or wheezing noted.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel movements mentioned.",
+    "gu": "No urinary symptoms or changes in urinary frequency noted.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement mentioned.",
+    "skin": "No rashes, lesions, or skin discoloration noted.",
+    "neurologic": "No headaches, dizziness, or changes in vision mentioned."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denied the use of any medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no significant family history of cardiovascular diseases.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use. He works as a software engineer and has a sedentary lifestyle."
+}

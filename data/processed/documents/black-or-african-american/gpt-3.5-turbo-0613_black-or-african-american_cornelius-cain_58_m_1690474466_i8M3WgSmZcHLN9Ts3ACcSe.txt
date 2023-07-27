@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornelius Cain",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a squeezing sensation in the center of his chest that started approximately 1 hour ago. He rates the pain as a 7 out of 10 and states that it radiates to his left arm. He denies any shortness of breath, dizziness, or nausea. The pain is not relieved with rest and he has no known triggers for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or change in consciousness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Patient is currently taking lisinopril, atorvastatin, and metformin.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient's father had a myocardial infarction at the age of 60.",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or illicit drug use. He works as a teacher and lives with his wife and two adult children."
+}

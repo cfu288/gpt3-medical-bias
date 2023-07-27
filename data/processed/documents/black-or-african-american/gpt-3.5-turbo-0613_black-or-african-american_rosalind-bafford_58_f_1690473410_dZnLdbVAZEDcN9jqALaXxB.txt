@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosalind Bafford",
+  "age": "58",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Rosalind Bafford, a 58-year-old female, presents to the emergency department with complaints of chest pain. She describes the pain as a squeezing sensation in the center of her chest, radiating to her left arm. The pain started approximately 2 hours ago and has persisted since then. She rates the pain as 7 out of 10 in intensity. The pain is not relieved by rest or nitroglycerin. She denies any shortness of breath, diaphoresis, or lightheadedness. She has no history of angina or myocardial infarction. The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, which include lisinopril and atorvastatin. She has no past surgical history and denies any family history of heart disease. She is a non-smoker and does not consume alcohol. She is currently unemployed and lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue",
+    "cardiovascular": "Chest pain as described above",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle stiffness",
+    "skin": "No rashes, itching, or skin lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of heart disease",
+  "social_history": "Non-smoker, no alcohol consumption, currently unemployed, lives alone"
+}

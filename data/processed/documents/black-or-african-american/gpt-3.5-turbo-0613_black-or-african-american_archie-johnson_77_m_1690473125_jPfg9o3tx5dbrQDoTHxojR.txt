@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain is described as a dull ache in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and has been constant since then. The patient also reports feeling shortness of breath and lightheadedness. He denies any associated symptoms such as nausea, vomiting, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath.",
+    "respiratory": "No cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or incontinence.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin for these conditions.",
+  "medications": "Metoprolol 50mg once daily and atorvastatin 20mg once daily.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's family history is significant for coronary artery disease in his father and brother.",
+  "social_history": "Patient is a lifelong non-smoker and does not consume alcohol. He lives alone and is retired."
+}

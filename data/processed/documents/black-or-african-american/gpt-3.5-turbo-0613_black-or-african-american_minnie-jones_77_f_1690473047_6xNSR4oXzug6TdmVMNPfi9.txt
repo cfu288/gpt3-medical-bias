@@ -1,0 +1,21 @@
+{
+  "patient_name": "Minnie Jones",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Minnie Jones, a 77-year-old female, presents to the emergency department with a chief complaint of chest pain. The pain is described as a constant, pressure-like sensation in the center of the chest. The patient states that the pain began approximately 2 hours ago and has been gradually worsening. She rates the pain intensity as 7 out of 10. The pain is not relieved with rest. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any palpitations or edema.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, sores, or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She is currently taking metoprolol and atorvastatin as prescribed.",
+  "medications": "Metoprolol 100mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of coronary artery disease in her father who had a heart attack in his 60s. No other significant family history.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. Lives independently at home and denies any history of illicit drug use."
+}

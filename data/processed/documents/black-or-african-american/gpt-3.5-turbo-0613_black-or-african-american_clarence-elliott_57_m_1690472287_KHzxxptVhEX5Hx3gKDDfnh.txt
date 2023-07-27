@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clarence Elliott",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Elliott presents to the emergency department with complaints of severe chest pain. He describes the pain as a dull, squeezing sensation in the center of his chest that radiates down his left arm. The pain started suddenly about an hour ago when he was resting at home. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. He has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "Reports chest pain",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Reports pain radiating down left arm",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "Reports chest pain"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Mr. Elliott is a smoker, approximately 1 pack per day for the past 20 years. He does not consume alcohol or use illicit drugs."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cora Williams",
+  "age": "72",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Cora Williams, a 72-year-old female, presents to the emergency department with a chief complaint of chest pain. According to the patient, the pain started suddenly approximately 2 hours ago. She describes the pain as a substernal, squeezing sensation that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any recent illness or injury. She has no known allergies to medications. The patient states that she has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily for these conditions. No recent surgeries or hospitalizations. The patient reports a positive family history of coronary artery disease in her mother. She is a non-smoker and does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath at rest.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rash, itching, or changes in skin color or texture.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision or sensation."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease in mother",
+  "social_history": "Non-smoker, non-alcoholic"
+}

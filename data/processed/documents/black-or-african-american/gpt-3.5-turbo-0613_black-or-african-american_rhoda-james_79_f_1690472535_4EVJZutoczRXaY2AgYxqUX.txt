@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rhoda James",
+  "age": "79",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Rhoda James, a 79-year-old female, presents to the emergency department with complaints of chest pain. The chest pain began approximately 2 hours ago and is described as a sharp, squeezing sensation. The pain is localized to the center of the chest and radiates to the left arm. The patient rates the pain as 8 out of 10 and states that it is the most severe pain she has ever experienced. She also reports associated shortness of breath and nausea. The patient denies any previous episodes of chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath. No history of palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath, but denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest pain radiating to the left arm.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's mother had a history of myocardial infarction in her 70s. No other significant family history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

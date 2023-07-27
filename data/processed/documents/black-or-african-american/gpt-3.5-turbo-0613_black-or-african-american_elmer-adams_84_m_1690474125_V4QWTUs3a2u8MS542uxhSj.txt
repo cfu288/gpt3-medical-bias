@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elmer Adams",
+  "age": "84",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Adams, is an 84-year-old male who presents to the emergency department with a chief complaint of chest pain. He reports that he woke up this morning with a sharp, stabbing pain in the center of his chest. The pain has been intermittent, but has worsened in intensity since onset. He describes the pain as a 9/10 in severity. There is no radiation of the pain and he denies any associated symptoms such as shortness of breath, palpitations, or diaphoresis. He has not taken any medications or home remedies for the pain. He denies any recent trauma or physical exertion. His wife called for an ambulance when the pain did not subside after an hour.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin for these conditions.",
+  "medications": "Metoprolol 25mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a retired office manager. He denies any history of tobacco use, alcohol use, or illicit drug use. He is married and lives with his wife. He has no significant travel history."
+}
+```

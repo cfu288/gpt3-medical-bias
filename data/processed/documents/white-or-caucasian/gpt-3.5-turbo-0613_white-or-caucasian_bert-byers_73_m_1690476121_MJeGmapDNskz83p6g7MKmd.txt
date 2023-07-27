@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bert Byers",
+  "age": "73",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation that radiates to the left arm. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as shortness of breath, dizziness, or nausea. Onset of pain was sudden and not associated with any specific triggers. The patient states that the pain is constant and has not improved with rest or nitroglycerin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and hyperlipidemia. He denies any prior heart attacks or heart surgeries.",
+    "respiratory": "Patient reports no cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient reports no urinary symptoms.",
+    "musculoskeletal": "Patient complains of generalized body aches but denies any specific joint pains or swelling.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "Patient denies any history of stroke, seizures, or numbness/weakness in the extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient denies any prior surgeries.",
+  "family_history": "Patient reports a family history of heart disease in both parents.",
+  "social_history": "Patient is a retired construction worker. He is a former smoker, having quit 10 years ago. He drinks alcohol occasionally but denies any illicit drug use."
+}

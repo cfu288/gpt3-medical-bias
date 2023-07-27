@@ -1,0 +1,22 @@
+{
+  "patient_name": "Gregg Dee",
+  "age": "74",
+  "gender": "m",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Mr. Dee is a 74-year-old male patient who presents to the emergency department with complaints of chest pain. He describes the pain as a sharp, stabbing sensation in the center of his chest, which started approximately 2 hours ago. The pain is radiating to his left arm and jaw. He rates the intensity of the pain as 8/10 on the pain scale. The pain is not relieved with rest, and he denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Mr. Dee states that he has a history of hypertension and diabetes. He denies any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Chest pain, no palpitations or orthopnea",
+    "respiratory": "No cough, shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No changes in urinary frequency or urgency",
+    "musculoskeletal": "Chest pain, no joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, diabetes",
+  "medications": "Lisinopril 10mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "Mother had hypertension, father had diabetes",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

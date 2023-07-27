@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odell Normann",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Normann, presents to the emergency department with a chief complaint of chest pain. He describes the pain as a sharp, squeezing sensation in the center of his chest. He reports that the pain started approximately 1 hour ago and has been steadily increasing in intensity. He denies any associated symptoms such as shortness of breath, palpitations, or nausea. The patient has a history of hypertension and hyperlipidemia. Upon further questioning, he reports taking his prescribed medications regularly and denies any recent changes to his medication regimen. He has not had any recent surgeries or hospitalizations. There is no significant family history of cardiovascular disease. Mr. Normann denies smoking, alcohol consumption, or illicit drug use. He is retired and enjoys participating in regular physical activity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintended weight loss.",
+    "cardiovascular": "As stated in the chief complaint, the patient is experiencing chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes losartan for hypertension and atorvastatin for hyperlipidemia. He reports good control of his blood pressure and cholesterol levels.",
+  "medications": "Losartan 50mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of cardiovascular disease.",
+  "social_history": "The patient denies smoking, alcohol consumption, or illicit drug use. He is retired and enjoys participating in regular physical activity."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dudley Gordon",
+  "age": "78",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient is a 78-year-old male presenting to the emergency department with complaints of chest pain. The pain began approximately 2 hours ago while the patient was at rest and it is described as a squeezing sensation in the center of the chest. The pain radiates to the left arm and is associated with shortness of breath. The patient denies any other symptoms such as nausea, vomiting, or diaphoresis. He has a history of hypertension and hyperlipidemia. Given the concern for a possible myocardial infarction, an EKG was obtained which showed ST-segment elevation in leads II, III, and avF. The patient was started on aspirin, nitroglycerin, and morphine and transferred to the cardiac catheterization lab for emergent intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "As mentioned above, the patient is experiencing chest pain and shortness of breath.",
+    "respiratory": "The patient denies cough, dyspnea, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any recent injuries or musculoskeletal pain.",
+    "skin": "No complaints of rash, pruritus, or changes in the skin.",
+    "neurologic": "The patient denies any changes in vision, speech, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient has a family history of hypertension and coronary artery disease.",
+  "social_history": "The patient is a retired accountant and lives with his wife. He denies any significant tobacco or alcohol use."
+}

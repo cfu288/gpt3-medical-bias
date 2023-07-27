@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnson Johnson",
+  "age": "35",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Johnson Johnson, a 35-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of the chest. The patient rates the severity of the pain as 8 out of 10, and it radiates to the left arm. He also reports shortness of breath and diaphoresis. There is no associated nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath, but denies palpitations.",
+    "respiratory": "The patient reports shortness of breath but denies cough or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary symptoms or concerns.",
+    "musculoskeletal": "The patient reports radiation of the chest pain down the left arm but denies joint pain.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies headache, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and high cholesterol.",
+  "medications": "The patient takes Lisinopril 20mg daily for hypertension and Atorvastatin 40mg daily for high cholesterol.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is a family history of heart disease, including myocardial infarctions and strokes.",
+  "social_history": "The patient has no history of smoking, and denies alcohol or illicit drug use."
+}

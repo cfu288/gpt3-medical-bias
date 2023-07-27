@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerome Russell",
+  "age": "68",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. He describes the pain as a 7/10 pressure-like sensation in the center of his chest that radiates to his left shoulder and down his left arm. The pain started approximately 2 hours ago while he was at rest. He denies any associated shortness of breath, diaphoresis, or nausea. Pertinent negatives include no recent physical exertion, no recent illnesses, and no known history of heart disease. Upon arrival, the patient appeared uncomfortable but in no acute distress. Vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies any gastrointestinal symptoms such as abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any genitourinary symptoms such as urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports mild discomfort in his left shoulder and left arm in addition to the chest pain.",
+    "skin": "Patient denies any skin rashes, lesions, or wounds.",
+    "neurologic": "Patient denies any neurological symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently on Lisinopril for blood pressure management and Atorvastatin for cholesterol management.",
+  "medications": "Lisinopril 10mg daily\nAtorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction at the age of 70. Otherwise, there is no other significant family history of heart disease.",
+  "social_history": "Patient is a retired accountant. He is a nonsmoker and does not consume alcohol. He lives with his wife and has a healthy support system."
+}

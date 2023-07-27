@@ -1,0 +1,21 @@
+{
+  "patient_name": "Matilda Wilder",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of chest pain. She describes the pain as a tightness in her chest that started about 2 hours ago. She denies any associated symptoms such as shortness of breath, dizziness, or nausea. The pain is not radiating to her arms or jaw. She has a past medical history of hypertension and hyperlipidemia. She takes medications for both conditions. She denies any recent surgeries. There is no family history of heart disease. She is a non-smoker and does not drink alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain.",
+    "respiratory": "Denies cough, shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Denies headache, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily.",
+  "past_surgical_history": "No known surgeries.",
+  "family_history": "No family history of heart disease.",
+  "social_history": "Non-smoker, no alcohol use."
+}

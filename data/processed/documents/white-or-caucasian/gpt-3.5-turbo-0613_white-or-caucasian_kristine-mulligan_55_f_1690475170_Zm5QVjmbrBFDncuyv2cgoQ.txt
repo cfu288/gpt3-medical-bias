@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kristine Mulligan",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Kristine Mulligan, a 55-year-old female, presents to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain began suddenly about 1 hour ago while she was at rest. She describes the pain as a sharp, stabbing sensation located in the center of her chest. The pain radiates to her left arm and jaw. She rates the severity of the pain as 8 out of 10. She denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. She has no prior history of similar symptoms. As per protocol, an EKG was performed upon arrival and showed ST segment elevation in leads II, III, aVF, and ST segment depression in leads V2-V4. Considering the patient's history, symptoms, and EKG findings, a diagnosis of probable acute myocardial infarction is suspected. The patient was initiated on aspirin, oxygen, and nitroglycerin. She was also started on heparin and clopidogrel. Further investigations and consultations will be needed to confirm the diagnosis and determine the appropriate management.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, headache, weight loss, or fatigue.",
+    "cardiovascular": "Aside from the chest pain, the patient denies palpitations, dyspnea on exertion, orthopnea, paroxysmal nocturnal dyspnea, or peripheral edema.",
+    "respiratory": "The patient denies cough, sputum production, hemoptysis, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, diarrhea, or melena.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rash, itching, or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction in his 60s. There is no other significant family history.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

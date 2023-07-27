@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tonia Vincent",
+  "age": "52",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tonia Vincent, a 52-year-old female, presented to the emergency department with complaints of chest pain. The pain began approximately two hours ago and is described as a sharp, stabbing sensation localized to the left side of the chest. The patient rates the pain as a 7 out of 10 on the pain scale. She denies any associated symptoms such as shortness of breath, nausea, diaphoresis, or radiation of the pain. The patient states that the pain is exacerbated by deep breathing and movement. She has no prior history of similar symptoms. Vital signs upon arrival are as follows: blood pressure 120/80 mmHg, heart rate 80 bpm, respiratory rate 16 bpm, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "No history of prior cardiac conditions. The patient denies palpitations or chest pain with exertion.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "No history of gastrointestinal issues. The patient denies any abdominal pain, changes in bowel movements, or difficulty swallowing.",
+    "gu": "The patient denies any genitourinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "No history of skin conditions. The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and obesity.",
+  "medications": "The patient currently takes lisinopril 10mg daily and atorvastatin 20mg nightly for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents and a sibling.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office administrator and has no known occupational exposures."
+}

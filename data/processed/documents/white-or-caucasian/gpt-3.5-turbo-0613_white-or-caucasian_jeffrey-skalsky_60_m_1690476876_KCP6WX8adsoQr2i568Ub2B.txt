@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeffrey Skalsky",
+  "age": "60",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Jeffrey Skalsky, a 60-year-old male, presented to the emergency department with complaint of chest pain. The pain started several hours ago and is described as a tightness in the chest, radiating to the left arm. The patient rates the pain as a 7 out of 10 on a pain scale. The pain is associated with shortness of breath and diaphoresis. The patient denies any similar episodes in the past. He reports feeling nervous and anxious. On physical examination, the patient appears diaphoretic and in distress. His vital signs are as follows: heart rate of 100 bpm, blood pressure of 140/90 mmHg, respiratory rate of 20 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest pain and shortness of breath.",
+    "respiratory": "The patient has associated shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin changes or rash.",
+    "neurologic": "The patient denies any neurological symptoms such as headache or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no known history of surgical procedures.",
+  "family_history": "The patient's father had a heart attack in his 50s.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He is married and works as an accountant."
+}

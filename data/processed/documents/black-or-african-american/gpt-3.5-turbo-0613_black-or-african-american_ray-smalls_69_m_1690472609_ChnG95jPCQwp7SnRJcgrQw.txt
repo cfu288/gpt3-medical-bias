@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Smalls",
+  "age": "69",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of severe chest pain. He describes the pain as a squeezing sensation that radiates to his left arm. Pain started 2 hours ago while he was at home. Patient denies any associated symptoms such as shortness of breath, dizziness, or nausea. He states that the pain is not relieved by rest. Upon further questioning, patient reports a history of hypertension and high cholesterol. Given the severity of the symptoms and possible cardiac involvement, cardiac evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient reports chest pain as the primary cardiovascular symptom.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports chest pain as the primary musculoskeletal symptom.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any focal weakness, numbness, or headache."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol, currently on medication for both conditions. He has regular follow-up visits with his primary care physician.",
+  "medications": "Patient takes Amlodipine 10 mg daily for hypertension and Atorvastatin 20 mg daily for high cholesterol.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports a family history of heart disease in his father who had a heart attack at age 60.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He lives with his wife and is retired."
+}

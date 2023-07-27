@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annette Baker",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Annette Baker, a 48-year-old female, presents to the emergency department with complaints of chest pain. Patient states that the pain started suddenly approximately two hours ago. The pain is described as a sharp, stabbing sensation in the left side of the chest, and it radiates to the left arm. Patient rates the pain as a 7 out of 10 in severity. She denies any associated symptoms such as shortness of breath, sweating, or lightheadedness. Patient states that she has no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports chest pain as the only cardiovascular symptom.",
+    "respiratory": "Patient denies any respiratory symptoms such as cough or shortness of breath.",
+    "gi": "Patient denies any gastrointestinal symptoms.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient reports chest pain as the primary musculoskeletal symptom.",
+    "skin": "Patient denies any skin-related symptoms.",
+    "neurologic": "Patient denies any neurologic symptoms such as headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes medication for both conditions.",
+  "medications": "Patient takes amlodipine and atorvastatin for management of her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a myocardial infarction in his late 50s.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

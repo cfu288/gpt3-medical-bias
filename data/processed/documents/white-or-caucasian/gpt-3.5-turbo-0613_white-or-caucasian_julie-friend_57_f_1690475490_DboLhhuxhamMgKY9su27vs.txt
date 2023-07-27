@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julie Friend",
+  "age": "57",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain. The pain began suddenly about 2 hours ago and is described as a crushing sensation. The patient rates the pain as 9 out of 10 on the pain scale. She reports associated shortness of breath and sweating. She denies any previous episodes of similar pain. Upon arrival, the patient appeared diaphoretic and in distress. Vital signs were stable except for an increased heart rate of 110 beats per minute. EKG showed ST-segment elevation in leads V1-V4 suggestive of an acute anterior myocardial infarction. The patient was immediately started on oxygen, aspirin, nitroglycerin, and morphine. An emergent cardiac catheterization was ordered.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "As mentioned in the history of present illness.",
+    "respiratory": "No cough or shortness of breath at rest.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. She is on medications for these conditions.",
+  "medications": "The patient takes lisinopril, atorvastatin, and metformin for her chronic medical conditions.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "No family history of heart disease, diabetes, or cancer.",
+  "social_history": "The patient is a lifelong non-smoker and denies any history of alcohol or drug use."
+}

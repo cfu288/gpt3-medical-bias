@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Mcginnis",
+  "age": "77",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Charlie Mcginnis, a 77-year-old female, presents to the emergency department with complaints of chest pain. The pain is described as a moderate, squeezing sensation in the center of the chest, radiating to the left arm. The pain started approximately 2 hours ago and has been persistent since then. The patient denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. Upon further questioning, the patient reports a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain as the only cardiovascular symptom. No history of palpitations or syncope.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chest pain as the only musculoskeletal symptom. No history of joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for both conditions.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, including Lisinopril and Atorvastatin.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of cardiovascular disease, including her mother who had a heart attack at age 65.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

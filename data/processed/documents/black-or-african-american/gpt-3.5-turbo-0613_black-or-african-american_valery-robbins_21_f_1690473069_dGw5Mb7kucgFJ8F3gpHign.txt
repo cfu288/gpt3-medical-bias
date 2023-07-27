@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valery Robbins",
+  "age": "21",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Valery Robbins, a 21-year-old female, presents to the emergency department with a chief complaint of chest pain. She reports that the pain started suddenly about 1 hour ago while she was at rest. The pain is located in the center of her chest and radiates to her left arm. She describes the pain as a squeezing sensation and rates it as 8/10 in intensity. She denies any associated symptoms such as shortness of breath, nausea, vomiting, or diaphoresis. She has no history of similar symptoms in the past. On further questioning, the patient reports that she has been feeling stressed and anxious lately due to upcoming exams. She denies any known cardiac risk factors such as smoking or family history of heart disease. She has no significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports chest pain as described in chief complaint. No history of palpitations or syncope.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient reports no joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/weakness in any extremities."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies any current medications.",
+  "past_surgical_history": "Patient has no known history of surgeries.",
+  "family_history": "Patient denies any significant family history of heart disease or other medical conditions.",
+  "social_history": "Patient is a non-smoker and does not use any illicit drugs. She denies alcohol consumption."
+}

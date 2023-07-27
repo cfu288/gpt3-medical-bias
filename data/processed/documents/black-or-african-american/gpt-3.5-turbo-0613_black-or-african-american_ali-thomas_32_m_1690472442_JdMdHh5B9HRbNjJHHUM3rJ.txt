@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ali Thomas",
+  "age": "32",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ali Thomas, a 32-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of the chest. The patient rates the severity of the pain as 8 out of 10 and reports that it radiates to his left arm. He denies any shortness of breath, dizziness, or diaphoresis. The pain is not alleviated by rest or positional changes. The patient has no significant past medical history and takes no medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies palpitations or irregular heartbeats.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint or muscle pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No weakness, numbness, or tingling."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse."
+}
+```

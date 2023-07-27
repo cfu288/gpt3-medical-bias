@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chet Jones",
+  "age": "59",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Chet Jones, a 59-year-old male, presents to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a dull, squeezing sensation in the center of the chest. The pain radiates to the left arm and jaw. The patient rates the pain as 8 out of 10 in severity. He denies any shortness of breath, nausea, or diaphoresis. The patient has a history of hypertension but is not currently on any antihypertensive medications. He denies any recent illnesses or injuries. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest pain radiating to the left arm and jaw.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports pain in the chest and arm.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abdul Holmes",
+  "age": "46",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe chest pain radiating to the left arm. Patient reports the pain started approximately 2 hours ago and that it is a squeezing type of pain. Pain is exacerbated with exertion and relieved by rest. ",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient complains of chest pain.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no record of any past surgical procedures.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or recreational drug use."
+}

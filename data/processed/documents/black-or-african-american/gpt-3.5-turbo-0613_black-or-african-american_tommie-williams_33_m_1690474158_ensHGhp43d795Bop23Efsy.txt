@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tommie Williams",
+  "age": "33",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Tommie Williams, a 33-year-old male, presents to the emergency department with a chief complaint of chest pain. He reports that the pain started approximately 2 hours ago and is located in the center of his chest. The pain is described as sharp and stabbing, with a severity of 8 out of 10. The pain radiates to his left arm and jaw. The patient denies any shortness of breath, dizziness, or palpitations. He states that the pain is constant and has not improved despite taking over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any history of heart disease, chest pain, or palpitations.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in his father and grandfather.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

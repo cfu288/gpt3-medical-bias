@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jayson Stewart",
+  "age": "54",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Mr. Jayson Stewart, a 54-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient states that the pain started approximately 2 hours ago while he was at home. He describes the pain as a squeezing sensation in the center of his chest that radiates to his left arm. He rates the pain as 8 out of 10 in severity. The pain is associated with shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past. He states that the pain is relieved with rest and worsens with exertion. Upon further questioning, the patient admits to smoking cigarettes for the past 30 years, with a pack-per-day habit. He also reports a family history of coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient reports chest pain and shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or shortness of breath unrelated to the chest pain.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Patient reports no other musculoskeletal symptoms.",
+    "skin": "Patient denies any skin changes or lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 40 mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in his father and two siblings.",
+  "social_history": "The patient smokes cigarettes, has a pack-per-day habit for the past 30 years. He denies any alcohol or illicit drug use."
+}

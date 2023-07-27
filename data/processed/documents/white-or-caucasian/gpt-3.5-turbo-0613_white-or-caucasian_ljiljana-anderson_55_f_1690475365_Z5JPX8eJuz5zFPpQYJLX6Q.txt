@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ljiljana Anderson",
+  "age": "55",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Ljiljana Anderson, a 55-year-old female, presented to the emergency department with a chief complaint of chest pain. She stated that the pain began approximately 2 hours ago and is located in the center of her chest. She described the pain as a pressure-like sensation that radiates to her left arm. The pain is associated with shortness of breath and diaphoresis. The patient denies any alleviating or aggravating factors.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight changes.",
+    "cardiovascular": "In addition to the chest pain, the patient denies any palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath, but denies any cough or hemoptysis.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or discoloration of the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is currently taking lisinopril for her blood pressure and atorvastatin for her cholesterol.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient's mother had a history of heart disease, including myocardial infarction.",
+  "social_history": "The patient is a non-smoker, drinks alcohol occasionally, and denies any illicit drug use."
+}
+```

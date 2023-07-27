@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freda Mcqueen",
+  "age": "92",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Freda Mcqueen, a 92-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a sharp, stabbing sensation in the center of her chest. She rates the pain as a 7 out of 10 in intensity and reports that it radiates to her left arm. She denies any associated symptoms such as shortness of breath, diaphoresis, or nausea. Patient states that she has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain, negative for palpitations or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Positive for chest pain, negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension (unknown name).",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "No known relevant family history.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or drink alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Len Smith",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Len Smith, a 63-year-old male, presented to the emergency department with a chief complaint of chest pain. The patient reports that the chest pain began approximately 1 hour ago. He describes the pain as a crushing pressure in the center of his chest. He rates the pain as a 7 out of 10 in severity. The pain radiates to his left arm and jaw. He denies any associated symptoms such as shortness of breath, nausea, or diaphoresis. The patient reports no previous episodes of chest pain. Given the patient's age and the concerning nature of his presenting complaint, further evaluation and workup is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient reports no palpitations, dyspnea, or orthopnea.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a myocardial infarction at the age of 70. His mother is alive and has no significant medical history.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. He is married and retired. He lives a sedentary lifestyle."
+}

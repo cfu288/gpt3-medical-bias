@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fannie Scogin",
+  "age": "63",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Fannie Scogin, a 63-year-old female, presents to the emergency department with complaints of chest pain. She reports that the pain started approximately 2 hours ago and is located in the center of her chest. She describes the pain as a squeezing sensation and rates it as 8 out of 10 in intensity. The pain is radiating to her left arm and jaw. She states that the pain is associated with shortness of breath and diaphoresis. The patient denies any history of similar episodes in the past. She notes that she has a history of hypertension and takes medication for it. There is no known trigger for the pain. The patient denies any recent illness or trauma. She states that the pain is not relieved with rest or nitroglycerin. On initial assessment, the patient appears anxious and diaphoretic. Vital signs are as follows: blood pressure 150/90 mmHg, heart rate 100 beats per minute, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss.",
+    "cardiovascular": "Chest pain as described above, no palpitations or edema.",
+    "respiratory": "Shortness of breath associated with chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness or focal neurologic deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension, but other details are not provided.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiac disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Alex Person",
+  "age": "48",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "Patient Alex Person, a 48-year-old male, presents to the emergency department with a chief complaint of chest pain. The patient reports that the pain started approximately 2 hours ago while he was at rest. He describes the pain as a pressure-like sensation in the center of his chest that radiates to his left arm. The pain is not relieved with rest and is associated with shortness of breath. The patient denies any previous episodes of similar chest pain. Upon arrival, the patient was diaphoretic and appeared anxious. Vital signs were within normal limits, with a blood pressure of 120/80 mmHg, heart rate of 90 bpm, respiratory rate of 16 bpm, and oxygen saturation of 98% on room air. An ECG was performed, which showed ST-segment elevation in leads II, III, and aVF. The patient was immediately taken to the catheterization lab for further evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feelings of anxiety and diaphoresis.",
+    "cardiovascular": "Patient reports chest pain radiating to left arm and associated with shortness of breath.",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "",
+  "family_history": "Patient reports a family history of coronary artery disease in his father.",
+  "social_history": "Patient denies tobacco use. Patient consumes alcohol occasionally, approximately 1-2 drinks per week."
+
+}

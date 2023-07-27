@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dina Peterson",
+  "age": "50",
+  "chief_complaint": "Chest Pain",
+  "history_of_present_illness": "The patient, Dina Peterson, a 50-year-old female, presented to the emergency department with complaints of chest pain. The pain started approximately 2 hours ago and is described as a squeezing sensation in the center of her chest. The pain radiates down her left arm and she also reports shortness of breath. She denies any other associated symptoms such as diaphoresis or nausea. She states that the pain is worse with activity and improves with rest. She has no previous history of chest pain. Given her symptoms and the possibility of cardiac involvement, urgent evaluation and intervention were initiated.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss.",
+    "cardiovascular": "Positive for chest pain and shortness of breath. Negative for palpitations and edema.",
+    "respiratory": "Positive for shortness of breath. Negative for cough and sputum production.",
+    "gi": "Negative for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for dysuria, frequency, and hematuria.",
+    "musculoskeletal": "Negative for joint pain and muscle weakness.",
+    "skin": "Negative for rash, itchiness, and wounds.",
+    "neurologic": "Negative for headache, dizziness, and changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is on Lisinopril 10mg daily and Atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension and coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
