@@ -8,7 +8,7 @@ The goal is to see if there is any implicit bias shown by GPT in a medical conte
 
 We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each dataset contains the mock patient's first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
 
-However, there may be implicit gender and age biases in the voter data.
+However, there may be implicit gender and age biases in the names of the voter data.
 
 In order to generate age data for each name, we attempt to estimate a age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
 
