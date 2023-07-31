@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gretchen Price",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is localized to the right lower quadrant and is associated with nausea and vomiting. There is no history of fever, diarrhea, or dysuria. Patient denies any recent changes in diet or bowel movements. Physical examination reveals tenderness in the right lower quadrant with no rebound tenderness or guarding.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever or chills.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Abdominal pain as described in the chief complaint.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of irritable bowel syndrome (IBS) and occasional episodes of abdominal pain, but states that this current episode is more severe than usual.",
+  "medications": "Patient takes over-the-counter medications for occasional relief of abdominal pain.",
+  "past_surgical_history": "Patient has no prior abdominal surgeries.",
+  "family_history": "There is no significant family history of gastrointestinal disorders.",
+  "social_history": "Patient is a non-smoker and drinks alcohol occasionally."
+}

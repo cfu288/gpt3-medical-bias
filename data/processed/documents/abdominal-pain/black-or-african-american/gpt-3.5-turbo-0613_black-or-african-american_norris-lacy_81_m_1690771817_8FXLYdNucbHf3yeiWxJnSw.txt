@@ -1,0 +1,22 @@
+{
+  "patient_name": "Norris Lacy",
+  "age": "81",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Norris Lacy, an 81-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The patient reports that the pain started yesterday afternoon and has been gradually worsening since then. He describes the pain as a constant, dull ache located in the lower right quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that he has not passed any gas or had a bowel movement since the pain started. The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and simvastatin. His past surgical history is significant for a cholecystectomy performed 10 years ago. The patient denies any family history of gastrointestinal disorders or similar symptoms. He is a retired accountant and lives alone. He denies smoking or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, congestion, or difficulty breathing.",
+    "gi": "The patient reports the abdominal pain as the only gastrointestinal symptom. He denies any diarrhea, constipation, or blood in his stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in his skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy performed 10 years ago.",
+  "family_history": "The patient denies any family history of gastrointestinal disorders or similar symptoms.",
+  "social_history": "The patient is a retired accountant and lives alone. He denies smoking or alcohol use."
+}

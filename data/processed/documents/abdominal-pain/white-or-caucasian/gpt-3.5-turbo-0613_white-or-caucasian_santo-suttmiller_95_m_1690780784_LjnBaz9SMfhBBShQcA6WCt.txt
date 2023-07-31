@@ -1,0 +1,22 @@
+{
+  "patient_name": "Santo Suttmiller",
+  "age": "95",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Santo Suttmiller, a 95-year-old male, presents to the emergency department with a chief complaint of abdominal pain. He reports that the pain started approximately 2 hours ago and is localized to the right upper quadrant. The pain is described as sharp and constant, rated 7 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, or diarrhea. He denies any recent trauma or injury. On further questioning, the patient reports a history of similar episodes of abdominal pain in the past, which usually resolved on its own without intervention. However, this episode is more severe and prompted him to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and denies nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, for which he takes amlodipine and atorvastatin.",
+  "medications": "Amlodipine (5mg daily) and atorvastatin (20mg daily). No other medications reported.",
+  "past_surgical_history": "No history of any surgeries.",
+  "family_history": "No significant family history of note.",
+  "social_history": "The patient is retired and lives independently. He does not smoke or consume alcohol. No history of illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carolynn Williams",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Carolynn Williams, a 53-year-old female, presented to the emergency department with a chief complaint of abdominal pain. She reports that the pain started earlier today and has progressively worsened. The pain is located in the lower right quadrant of her abdomen and is sharp in nature. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She is unsure what may have triggered the pain but mentions that she has been experiencing bloating and occasional constipation over the past few weeks. There is no history of similar symptoms in the past. She denies any recent trauma or injury. On further questioning, she reports no fever, chills, or urinary symptoms. Past medical history is significant for hypertension and osteoarthritis. She takes lisinopril 10 mg once daily and ibuprofen 600 mg as needed for pain. She has never undergone any surgical procedures. Family history is unremarkable and she is a non-smoker. She denies alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Reports bloating and occasional constipation over the past few weeks. Denies diarrhea, melena, or hematochezia.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Reports chronic joint pain in the knees and hands due to osteoarthritis.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "Denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril 10mg once daily, ibuprofen 600mg PRN for pain",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, denies alcohol or illicit drug use"
+}
+```

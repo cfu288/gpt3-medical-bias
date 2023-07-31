@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbur Blackwell",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Blackwell, is a 76-year-old male presenting to the emergency department with complaints of severe abdominal pain. He reports that the pain started about 6 hours ago and is located in the lower right quadrant. He describes the pain as sharp and constant, and rates it as 8 out of 10 in intensity. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient complains of abdominal pain as his chief complaint.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache or changes in sensory or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes losartan and atorvastatin daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for colon cancer in his mother.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

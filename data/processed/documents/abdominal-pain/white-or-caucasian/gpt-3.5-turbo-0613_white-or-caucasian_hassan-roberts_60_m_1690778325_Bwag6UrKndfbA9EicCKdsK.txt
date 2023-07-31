@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hassan Roberts",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. He describes the pain as dull and constant, located in the right lower quadrant. It is associated with nausea and vomiting. He denies any recent dietary changes or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or night sweats.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing reported.",
+    "gi": "In addition to the abdominal pain, patient reports some diarrhea and bloating over the past few days.",
+    "gu": "No urinary or genital complaints.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "No changes in mental status or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin.",
+  "medications": "Lisinopril - 10mg daily\nAtorvastatin - 20mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

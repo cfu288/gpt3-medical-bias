@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Wilson",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain for the past 3 hours. Pain is located in the right lower quadrant and radiates to the back. Patient rates the pain as 8 out of 10 and describes it as sharp and constant. Pain is worsened by movement and is associated with nausea and vomiting. Patient denies any recent trauma or changes in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing",
+    "gi": "Positive for abdominal pain and nausea with associated vomiting",
+    "gu": "Denies dysuria, hematuria, or frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash, itching, or changes in skin color",
+    "neurologic": "Denies headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia controlled with medication. No history of diabetes, heart disease, or previous gastrointestinal issues.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's mother had a history of gallstones, but no other significant family history of gastrointestinal or abdominal issues.",
+  "social_history": "Patient denies tobacco and alcohol use. Lives alone and works as a construction worker."
+}

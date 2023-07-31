@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kelvin Craig",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Kelvin Craig, is a 30-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The patient describes the pain as a sharp, stabbing sensation that is constant and worsens with movement. He rates the pain as 8/10 on the numerical pain scale. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. He has never experienced similar episodes of abdominal pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the only gastrointestinal symptom",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient has never undergone any surgical procedures.",
+  "family_history": "The patient has no significant family history of gastrointestinal disorders, autoimmune conditions, or malignancies.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

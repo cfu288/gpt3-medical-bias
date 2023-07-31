@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gustav Levesque",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He describes the pain as sharp and constant, located in the lower right quadrant. He states that the pain started suddenly about 4 hours ago and has been worsening since then. He also reports nausea and has had one episode of vomiting. He denies any diarrhea or constipation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as described above. Denies any changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "No rashes or lesions noted on examination.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled on lisinopril. He reports no other significant medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient has no history of previous surgeries.",
+  "family_history": "Patient is unsure of his family medical history.",
+  "social_history": "Patient is retired. He is a former smoker, having quit 10 years ago. He denies alcohol or illicit drug use."
+}

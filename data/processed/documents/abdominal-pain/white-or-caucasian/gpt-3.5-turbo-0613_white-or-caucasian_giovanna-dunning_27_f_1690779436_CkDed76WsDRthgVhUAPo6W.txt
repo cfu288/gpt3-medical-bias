@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Giovanna Dunning",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Giovanna Dunning, a 27-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant of the abdomen and began approximately 8 hours ago. She describes the pain as sharp and constant. The patient denies any associated nausea, vomiting, diarrhea, or urinary symptoms. On physical examination, there is tenderness and guarding on palpation in the right lower quadrant. No rebound tenderness or rigidity is noted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath, cough, or hemoptysis",
+    "gi": "Complains of abdominal pain as chief complaint",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has no known significant past medical history. She reports being in good health and has not been hospitalized or had any surgeries in the past.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is a college student and lives on campus."
+}
+```

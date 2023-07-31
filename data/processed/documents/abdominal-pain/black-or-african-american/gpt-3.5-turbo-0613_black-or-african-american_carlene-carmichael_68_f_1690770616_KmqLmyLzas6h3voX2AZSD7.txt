@@ -1,0 +1,32 @@
+{
+  "patient_name": "Carlene Carmichael",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Carlene Carmichael, a 68-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain is localized to the right lower quadrant and started approximately 6 hours ago. The patient also reports associated symptoms of nausea and vomiting. She denies any recent trauma or injuries to the abdomen. 
+
+  Review of Symptoms:
+  - Constitutional: The patient denies any fever, chills, or night sweats.
+  - Cardiovascular: The patient denies any palpitations or chest pain.
+  - Respiratory: The patient denies any shortness of breath or cough.
+  - GI: The patient reports abdominal pain and associated nausea and vomiting.
+  - GU: The patient denies any urinary symptoms.
+  - Musculoskeletal: The patient denies any joint or muscle pain.
+  - Skin: The patient denies any rashes or skin lesions.
+  - Neurologic: The patient denies any headache or changes in sensation.
+  ",
+  "review_of_symptoms": {
+    "constitutional": "denies",
+    "cardiovascular": "denies",
+    "respiratory": "denies",
+    "gi": "reports",
+    "gu": "denies",
+    "musculoskeletal": "denies",
+    "skin": "denies",
+    "neurologic": "denies"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and cholecystectomy.",
+  "medications": "The patient takes amlodipine 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. She is retired and lives alone."
+}

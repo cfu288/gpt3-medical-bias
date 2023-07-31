@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sylvain Smith",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is a 55-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is localized to the right lower quadrant of the abdomen. The patient describes the pain as sharp and it is associated with nausea and vomiting. He denies any recent trauma or infections. On physical examination, there is tenderness and rebound tenderness in the right lower quadrant with guarding. There is no evidence of peritonitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain but denies any changes in bowel movements, blood in stool, or dark/tarry stools.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports no significant family history of gastrointestinal disorders or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer."
+}

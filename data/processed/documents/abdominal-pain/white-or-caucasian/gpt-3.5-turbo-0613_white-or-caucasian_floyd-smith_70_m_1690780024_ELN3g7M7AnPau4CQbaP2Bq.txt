@@ -1,0 +1,21 @@
+{
+    "patient_name": "Floyd Smith",
+    "age": "70",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "The patient, Mr. Floyd Smith, a 70-year-old male, presented to the emergency department with complaints of abdominal pain. He reports that the pain started earlier today and is located in the lower right quadrant. The pain is sharp and intermittent, with a severity of 7/10. He denies any associated symptoms such as nausea, vomiting, or change in bowel movements. He does not recall any recent trauma or injury to the abdomen. The patient has no known history of abdominal surgery or gastrointestinal disorders. He is concerned about the pain and is seeking medical evaluation and treatment.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+        "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+        "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+        "gi": "The patient reports the chief complaint of abdominal pain. No other gastrointestinal symptoms are present.",
+        "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+        "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+        "skin": "The patient denies any rashes, itching, or skin lesions.",
+        "neurologic": "The patient denies any headache, dizziness, or numbness/tingling in the extremities."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension controlled with lisinopril.",
+    "medications": "The patient takes lisinopril for hypertension.",
+    "past_surgical_history": "The patient has no known past surgical history.",
+    "family_history": "The patient reports no significant family history of gastrointestinal disorders or chronic illnesses.",
+    "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

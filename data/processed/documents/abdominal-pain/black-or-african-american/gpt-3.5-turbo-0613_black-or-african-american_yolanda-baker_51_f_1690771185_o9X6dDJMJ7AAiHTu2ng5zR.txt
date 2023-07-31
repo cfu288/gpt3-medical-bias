@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Yolanda Baker",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Yolanda Baker, a 51-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a constant, sharp sensation located in the lower right quadrant of her abdomen. The pain started approximately 8 hours ago and has been progressively worsening. Yolanda states that the pain is accompanied by nausea, vomiting, and a low-grade fever of 100.4°F (38°C). She denies any recent trauma or injury to the abdomen. Upon further questioning, Yolanda mentions that she has not had a bowel movement in the past two days and has noticed a decrease in appetite and energy levels over the past week.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and has a decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "The patient complains of abdominal pain with associated nausea and vomiting. She also reports a decrease in bowel movements and appetite.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Yolanda has a history of asthma and hypertension. She reports being on a daily regimen of albuterol inhaler and lisinopril.",
+  "medications": "Albuterol inhaler and lisinopril",
+  "past_surgical_history": "The patient has no known history of surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Yolanda is a non-smoker and denies any alcohol or illicit drug use. She is currently employed as an accountant and is married with two adult children."
+}
+```

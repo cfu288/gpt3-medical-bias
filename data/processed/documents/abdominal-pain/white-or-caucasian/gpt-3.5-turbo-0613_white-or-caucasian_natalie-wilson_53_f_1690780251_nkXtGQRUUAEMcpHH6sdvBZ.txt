@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Natalie Wilson",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Natalie Wilson, a 53-year-old female, presents to the emergency department with complaints of abdominal pain. The pain is localized to the lower right quadrant and started approximately 6 hours ago. The pain is described as sharp in nature and has been progressively worsening. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. She denies any recent trauma or injury. She states that she has never experienced similar symptoms in the past. Upon further questioning, the patient reports experiencing some bloating and constipation over the past few days.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. Denies any changes in appetite, weight loss, or blood in stools.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin daily as prescribed.",
+  "medications": "Amlodipine 5mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in both parents. No other significant family medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

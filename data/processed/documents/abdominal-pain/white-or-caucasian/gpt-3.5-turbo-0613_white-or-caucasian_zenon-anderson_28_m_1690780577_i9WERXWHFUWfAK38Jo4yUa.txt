@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zenon Anderson",
+  "age": "28",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Zenon Anderson, a 28-year-old male, presents to the emergency department with a chief complaint of abdominal pain. He states that the pain started suddenly approximately 6 hours ago and has progressively gotten worse. He describes the pain as sharp and located in the lower-right quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He reports no recent trauma or known exposure to any infectious agents. Upon examination, the patient appears uncomfortable and is lying still in bed. His vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Abdominal examination reveals tenderness and guarding in the lower-right quadrant, with no rebound tenderness or palpable masses. Based on the history and examination findings, the patient is likely experiencing acute appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or recent weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain but denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He states that he is generally healthy and does not take any medications regularly.",
+  "medications": "The patient denies any regular use of medications or any recent changes in medications.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient is unsure about his family medical history as he is adopted and has limited knowledge of his biological family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and reports no recent travel or exposure to sick contacts."
+}

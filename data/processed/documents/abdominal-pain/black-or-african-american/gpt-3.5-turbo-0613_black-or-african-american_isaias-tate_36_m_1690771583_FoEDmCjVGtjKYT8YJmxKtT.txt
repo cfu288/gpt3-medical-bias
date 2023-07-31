@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Isaias Tate",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Isaias Tate, a 36-year-old male, presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started approximately 3 hours ago and has been progressively worsening. He describes the pain as a sharp, cramping sensation that is located in the lower right quadrant of his abdomen. The pain is associated with nausea and vomiting. The patient denies any recent trauma, fever, or changes in bowel movements. Upon examination, the abdomen is tender to palpation in the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or recent weight loss.",
+    "cardiovascular": "No known cardiovascular abnormalities.",
+    "respiratory": "No respiratory complaints or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient denies any difficulty swallowing, heartburn, or changes in appetite.",
+    "gu": "No urinary complaints or changes in urinary frequency.",
+    "musculoskeletal": "No known musculoskeletal problems.",
+    "skin": "No known skin abnormalities.",
+    "neurologic": "No known neurological abnormalities."
+  },
+  "past_medical_history": "The patient reports a history of appendicitis and was treated with an appendectomy 10 years ago.",
+  "medications": "The patient is currently taking over-the-counter pain relievers for occasional headaches.",
+  "past_surgical_history": "The patient has a history of appendectomy as mentioned above.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He works as an accountant and lives with his spouse and two children."
+}
+```

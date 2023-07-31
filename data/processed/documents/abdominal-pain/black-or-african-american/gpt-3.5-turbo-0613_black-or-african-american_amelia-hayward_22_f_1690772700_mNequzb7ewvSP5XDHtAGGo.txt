@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amelia Hayward",
+  "age": "22",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Amelia Hayward, is a 22-year-old female presenting to the emergency department with a chief complaint of abdominal pain. The pain started approximately 2 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as 6 out of 10 and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or fever. She also denies any recent trauma or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production",
+    "gi": "Patient reports abdominal pain as the primary symptom. Denies any changes in bowel movements, blood in stools, or black tarry stools.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient does not take any regular medications.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient denies any tobacco, alcohol, or drug use. She is currently in school and lives with her parents."
+}

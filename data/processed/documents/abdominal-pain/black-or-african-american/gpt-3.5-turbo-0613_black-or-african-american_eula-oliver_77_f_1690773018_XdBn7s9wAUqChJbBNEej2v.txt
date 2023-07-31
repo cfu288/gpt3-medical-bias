@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eula Oliver",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started a few hours ago. She describes the pain as a sharp, stabbing sensation located in the lower right side of her abdomen. She denies any recent trauma, fever, nausea, or vomiting. She states that the pain is constant and has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills or night sweats",
+    "cardiovascular": "Patient denies any chest pain or palpitations",
+    "respiratory": "Patient denies any shortness of breath or cough",
+    "gi": "Patient complains of abdominal pain as chief complaint",
+    "gu": "Patient denies any urinary symptoms",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness",
+    "skin": "Patient denies any rashes or skin lesions",
+    "neurologic": "Patient denies any headaches or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and diabetes",
+  "medications": "Patient takes metformin for diabetes and lisinopril for hypertension",
+  "past_surgical_history": "Patient has not had any previous surgeries",
+  "family_history": "Patient's family history is unremarkable for any specific medical conditions",
+  "social_history": "Patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

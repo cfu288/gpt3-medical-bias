@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Salvatore Jones",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with complaints of persistent abdominal pain. The pain started approximately 12 hours ago and is localized to the right lower quadrant. He describes the pain as sharp and worsening with movement. The pain is associated with nausea but he denies any vomiting or diarrhea. He denies any urinary symptoms or fever. He has not noticed any changes in bowel movements. The pain is not relieved with over-the-counter pain medications. He has no prior similar episodes of pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or night sweats.",
+    "cardiovascular": "Denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies any cough, shortness of breath, or wheezing.",
+    "gi": "Reports abdominal pain. Denies any changes in bowel movements, blood in stool, or vomiting.",
+    "gu": "Denies any urinary symptoms or pain with urination.",
+    "musculoskeletal": "No joint or muscle pain reported.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "No headaches, changes in vision, or numbness/tingling reported."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker. Social alcohol use. Works as an office clerk."
+}
+```

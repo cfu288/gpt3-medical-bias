@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rod Repici",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rod Repici, a 60-year-old male, presents to the emergency department with complaints of severe abdominal pain. He reports that the pain began approximately 3 hours ago and is located in the right lower quadrant. The pain is sharp and constant, with a severity of 8 out of 10. He denies any recent trauma to the abdomen. There are no associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient states that the pain is worsening and is now radiating to his back. He reports no relief with over-the-counter pain medications. There is no history of similar episodes in the past. On further questioning, the patient reports a recent history of constipation and decreased appetite. He denies any urinary symptoms, fever, or chills. The patient has no significant medical history and is not currently taking any medications. He has never had any surgeries in the past. He denies any family history of abdominal conditions. The patient currently works as an office manager and denies any tobacco or alcohol use. He lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports recent constipation and decreased appetite.",
+    "gu": "No urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient denies any family history of abdominal conditions.",
+  "social_history": "The patient works as an office manager and denies any tobacco or alcohol use. He lives alone."
+}
+```

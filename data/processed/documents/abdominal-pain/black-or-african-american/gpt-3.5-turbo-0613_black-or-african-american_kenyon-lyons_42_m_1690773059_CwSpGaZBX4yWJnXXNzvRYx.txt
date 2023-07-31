@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenyon Lyons",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Lyons presents to the emergency department with complaints of severe abdominal pain. The pain started this morning and is located in the lower right quadrant. He describes the pain as sharp and stabbing, with intermittent episodes of nausea. He denies any recent trauma or fever. Vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as chief complaint. Denies any changes in bowel habits or blood in stools.",
+    "gu": "Negative for urinary symptoms or changes.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Lyons has a history of hypertension and gastroesophageal reflux disease.",
+  "medications": "He takes lisinopril 10mg daily for hypertension and omeprazole 20mg daily for GERD.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "No significant family history of abdominal conditions.",
+  "social_history": "Mr. Lyons is employed as an accountant. He denies smoking, alcohol use, or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tamika James",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tamika James, a 44-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started yesterday evening and has been constant, dull, and aching in nature. She rates the pain as 6/10 in intensity. The pain is located in the lower abdomen and is associated with bloating and a feeling of fullness. The patient denies any fever, vomiting, diarrhea, or urinary symptoms. She states that her appetite has been decreased since the pain started.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight changes, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "As mentioned earlier, the patient has been experiencing abdominal pain, bloating, and a feeling of fullness. There is no history of melena or hematochezia.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril 10mg daily. She has no known allergies.",
+  "medications": "Lisinopril 10mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of diabetes mellitus in both parents. There is no history of gastrointestinal disorders or malignancies in the family.",
+  "social_history": "The patient is married and works as an accountant. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

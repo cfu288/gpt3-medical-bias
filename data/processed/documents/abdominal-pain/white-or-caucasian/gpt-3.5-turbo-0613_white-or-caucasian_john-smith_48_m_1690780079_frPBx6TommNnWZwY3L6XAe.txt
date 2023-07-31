@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Smith",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, John Smith, a 48-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago, in the epigastric region, and has since migrated to the right lower quadrant. The patient reports associated symptoms of nausea and vomiting. He denies any fever, recent travel, or known exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, shortness of breath, or palpitations.",
+    "respiratory": "No cough, dyspnea, or wheezing.",
+    "gi": "Severe abdominal pain, nausea, and vomiting. No changes in bowel habits or blood in the stool.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling. No recent injuries.",
+    "skin": "No rash, itching, or wounds.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient reports occasional alcohol use. He is a non-smoker and denies any illicit drug use."
+}

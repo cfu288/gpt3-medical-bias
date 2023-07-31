@@ -1,0 +1,21 @@
+{
+  "patient_name": "Caren Greener",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Caren Greener presents to the emergency department with a chief complaint of abdominal pain. She describes the pain as a constant, dull ache located in the lower abdomen. The pain started yesterday afternoon and has been gradually worsening. On a scale of 1 to 10, she rates the pain as a 7. She denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel habits. She also denies any urinary symptoms. There is no history of trauma or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers or chills.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as described in chief complaint. Denies any nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin abnormalities.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes losartan 50mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "Patient underwent appendectomy in 2005.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

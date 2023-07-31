@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Garland Ross",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Garland Ross is a 72-year-old male presenting to the Emergency Department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right upper quadrant of the abdomen. He describes the pain as sharp and constant. The pain worsens with movement and deep breathing. The patient denies any nausea, vomiting, or changes in bowel movements. He also denies any history of abdominal trauma or recent surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports experiencing the abdominal pain as the only gastrointestinal symptom.",
+    "gu": "The patient denies any urinary complaints, such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions on a regular basis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any major surgeries.",
+  "family_history": "The patient reports a family history of heart disease in his father and siblings.",
+  "social_history": "The patient is a retired engineer. He is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

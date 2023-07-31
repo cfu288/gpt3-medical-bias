@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Leblanc",
+  "age": "87",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of severe abdominal pain. Patient reports that the pain began suddenly this morning and has been steadily getting worse. The pain is located in the lower abdomen and is described as sharp and constant. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel habits. Patient has a history of diverticulosis and has had episodes of diverticulitis in the past. Given the severity of the pain and the patient's history, further evaluation and diagnostic tests are warranted to rule out acute diverticulitis or other possible causes of abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as the main complaint. No changes in appetite, nausea, vomiting, or blood in stool.",
+    "gu": "Normal urination and no changes in bladder function reported by patient.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "No skin rashes, lesions, or changes reported by patient.",
+    "neurologic": "Patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of diverticulosis and has had previous episodes of diverticulitis. Also, patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient is currently taking lisinopril for hypertension and acetaminophen as needed for pain relief.",
+  "past_surgical_history": "Patient has undergone cholecystectomy for gallstones.",
+  "family_history": "No significant family history reported by patient.",
+  "social_history": "Patient is retired and lives alone. Denies tobacco, alcohol, or drug use."
+}

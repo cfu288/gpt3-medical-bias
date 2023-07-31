@@ -1,0 +1,21 @@
+{
+    "patient_name": "Timmy Watkins",
+    "age": "58",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "Patient arrived in the emergency department complaining of severe abdominal pain that started 8 hours ago. Patient described the pain as a constant sharp sensation in the lower right abdomen. He reported feeling nauseous but denies vomiting. He also mentioned having a slight fever and decreased appetite. Patient denies any urinary or bowel symptoms.",
+    "review_of_symptoms": {
+        "constitutional": "Patient reported feeling fatigued and weak.",
+        "cardiovascular": "No cardiovascular symptoms reported.",
+        "respiratory": "No respiratory symptoms reported.",
+        "gi": "Patient reported severe abdominal pain but denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+        "gu": "No genitourinary symptoms reported.",
+        "musculoskeletal": "No musculoskeletal symptoms reported.",
+        "skin": "No skin symptoms reported.",
+        "neurologic": "No neurological symptoms reported."
+    },
+    "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes regular medications for both conditions.",
+    "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+    "past_surgical_history": "Patient has no history of any surgical procedures.",
+    "family_history": "Patient denies any significant family history of medical conditions.",
+    "social_history": "Patient is a nonsmoker and denies alcohol or drug use."
+}

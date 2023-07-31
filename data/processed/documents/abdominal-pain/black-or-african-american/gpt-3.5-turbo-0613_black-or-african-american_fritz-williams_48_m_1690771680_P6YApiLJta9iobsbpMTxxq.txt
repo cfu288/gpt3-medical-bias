@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fritz Williams",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Fritz Williams, a 48-year-old male, presents to the emergency department with complaints of abdominal pain. The pain began approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and sharp in nature, with a severity of 6/10. The patient denies any aggravating or alleviating factors. He also reports associated symptoms of nausea and vomiting. Upon further questioning, the patient denies any recent trauma, changes in bowel habits, fever, or urinary symptoms. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the primary symptom. He denies any changes in appetite, diarrhea, constipation, or blood in the stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, skin lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia. He is currently on medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for dyslipidemia.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and consumes alcohol occasionally."
+}
+```

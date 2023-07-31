@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrik Baran",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Baran is a 56-year-old male who presents to the emergency department with a chief complaint of abdominal pain. The pain is located in the lower abdomen and started approximately 6 hours ago. He describes it as a dull ache that comes and goes, with a severity of 5 out of 10. The pain is not relieved by over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. He reports no history of similar symptoms in the past. He states that the pain has been gradually worsening over the past few hours and is now becoming more constant.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any nausea, vomiting, diarrhea, or blood in stools.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in movement.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

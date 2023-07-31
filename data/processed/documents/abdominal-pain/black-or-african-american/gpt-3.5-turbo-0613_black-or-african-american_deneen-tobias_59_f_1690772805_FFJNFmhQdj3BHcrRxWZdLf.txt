@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deneen Tobias",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Deneen Tobias, a 59-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, stabbing sensation located in the lower right quadrant of her abdomen. The pain began approximately 8 hours ago and has progressively worsened. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On examination, the patient appears uncomfortable and is guarding her abdomen upon palpation. There is moderate tenderness to deep palpation in the lower right quadrant with no rebound tenderness or rigidity. No masses or hernias are appreciated. The rest of her physical examination is unremarkable. ",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath, cough, or sputum production.",
+    "gi": "Abdominal pain as described above. No nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain, muscle weakness, or limitations in movement.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No dizziness, headache, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with medication, but is otherwise healthy. She denies any history of gastrointestinal or gynecological issues.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history of gastrointestinal or gynecological conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She works as a teacher and lives with her husband."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbur Salameh",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of severe abdominal pain that started yesterday. Pain is located in the lower right quadrant and is associated with nausea and vomiting. Denies any fever or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Positive for abdominal pain, nausea, and vomiting",
+    "gu": "Negative for urinary frequency or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension",
+  "medications": "Patient takes lisinopril for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family medical history",
+  "social_history": "Patient denies smoking, alcohol consumption, or illicit drug use"
+}

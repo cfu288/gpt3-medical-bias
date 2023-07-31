@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monroe Peay",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Peay presents to the emergency department with complaints of severe abdominal pain that started 2 hours ago. He describes the pain as a sharp, constant pain in the lower right quadrant of his abdomen. He denies any nausea, vomiting, or changes in bowel movements. Upon further questioning, he reports that he has been having intermittent episodes of abdominal pain for the past week, but today's pain is much more severe and localized. He denies any recent trauma or changes in diet. He has not taken any medication for the pain prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Describes severe abdominal pain as mentioned in history of present illness. Denies changes in appetite or weight loss",
+    "gu": "Denies dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Mr. Peay has a history of hypertension and hyperlipidemia. He is on amlodipine 5mg daily and atorvastatin 40mg daily.",
+  "medications": "Amlodipine 5mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Mr. Peay had an appendectomy in his 30s. No other significant surgical history.",
+  "family_history": "No significant family history of abdominal conditions or cancers.",
+  "social_history": "Mr. Peay lives with his wife and does not smoke or drink alcohol. He is retired and does not have any significant stressors."
+}

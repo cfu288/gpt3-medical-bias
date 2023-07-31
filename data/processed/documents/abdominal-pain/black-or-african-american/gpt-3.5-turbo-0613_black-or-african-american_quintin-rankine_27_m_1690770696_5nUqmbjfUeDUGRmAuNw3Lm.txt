@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Quintin Rankine",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Quintin Rankine, a 27-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower abdomen. He describes the pain as a constant dull ache, with intermittent sharp cramping. He denies any relieving or exacerbating factors. The pain is associated with nausea and occasional vomiting. He denies any recent trauma or dietary changes. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Nausea and occasional vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

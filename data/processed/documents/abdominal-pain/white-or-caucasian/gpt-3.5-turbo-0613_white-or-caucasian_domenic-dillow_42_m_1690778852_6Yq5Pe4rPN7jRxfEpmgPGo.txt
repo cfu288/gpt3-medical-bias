@@ -1,0 +1,21 @@
+{
+  "patient_name": "Domenic Dillow",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Domenic Dillow, a 42-year-old male, presents to the emergency department with complaints of severe abdominal pain. According to the patient, the pain started suddenly approximately 6 hours ago in the epigastric region and has since radiated to the right lower quadrant of the abdomen. The pain is described as a sharp and constant sensation, aggravated by movement and deep breathing. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He reports no previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for severe abdominal pain as mentioned in the chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rashes, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is well-controlled with medication. He denies any other significant past medical history, including previous abdominal surgeries.",
+  "medications": "The patient takes Losartan 50 mg daily for hypertension.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "The patient denies any significant family history of abdominal conditions or other relevant medical conditions.",
+  "social_history": "The patient is married and currently employed as a software engineer. He denies any tobacco or illicit drug use. He consumes alcohol occasionally, with a maximum of 2 drinks per week."
+}

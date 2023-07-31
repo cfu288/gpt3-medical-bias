@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mervin Hill",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Hill, presents to the Emergency Department with complaints of severe abdominal pain that started approximately 6 hours ago. He describes the pain as a constant, sharp pain in the right lower quadrant of his abdomen. He also reports nausea, vomiting, and a decrease in appetite. There is no associated fever or diarrhea. The patient denies any recent trauma or injury. He states that the pain is progressively worsening and is now intolerable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, the patient denies any other gastrointestinal symptoms, such as bloating, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient reports no rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He is currently on aspirin, lisinopril, and atorvastatin.",
+  "medications": "Aspirin 81 mg daily, lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes in both parents. There is no history of any gastrointestinal disorders or cancers.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He works as an office manager and is married with two children."
+}
+```

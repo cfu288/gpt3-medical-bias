@@ -1,0 +1,21 @@
+{
+  "patient_name": "Junior Brooks",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started 6 hours ago. He describes the pain as a constant, dull ache in the lower abdomen. He rates the pain as a 7 out of 10 and says it is exacerbated by movement and deep breathing. He denies any associated symptoms such as nausea, vomiting, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described above, no other gastrointestinal symptoms.",
+    "gu": "No urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, managed with medication. He denies any other significant medical history or chronic conditions.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "The patient is a retired teacher. He denies smoking, alcohol intake, or illicit drug use."
+}

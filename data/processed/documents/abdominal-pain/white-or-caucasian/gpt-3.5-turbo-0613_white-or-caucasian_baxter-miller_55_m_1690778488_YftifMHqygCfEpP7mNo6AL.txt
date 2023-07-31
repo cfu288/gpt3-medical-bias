@@ -1,0 +1,21 @@
+{
+  "patient_name": "Baxter Miller",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Baxter Miller, a 55-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly a few hours ago and is located in the lower abdomen. The patient rates the pain as 7 out of 10 and describes it as crampy and constant. He denies any recent trauma or falls. He reports associated symptoms of nausea and vomiting. On further questioning, he mentions that he had a similar episode of abdominal pain a few months ago, but it resolved on its own. He denies any recent changes in bowel movements or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Complaining of nausea and vomiting.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Patient takes Losartan for hypertension and Atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal or abdominal conditions.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

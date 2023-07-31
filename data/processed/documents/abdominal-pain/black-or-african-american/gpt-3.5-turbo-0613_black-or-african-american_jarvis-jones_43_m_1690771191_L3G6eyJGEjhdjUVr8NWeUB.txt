@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Jones",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Jones presented to the emergency department with complaints of severe abdominal pain. The pain started suddenly earlier today and is located in the right lower quadrant. He described the pain as sharp and stabbing, and it has been getting progressively worse. He denies any nausea, vomiting, or changes in bowel movements. He did mention some bloating and distension in the abdomen. The pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described.",
+    "gu": "No urinary complaints or changes.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Mr. Jones has a history of hypertension and hyperlipidemia. He currently takes lisinopril and simvastatin.",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "Appendectomy in childhood.",
+  "family_history": "No significant family history of gastrointestinal disorders.",
+  "social_history": "Mr. Jones is a non-smoker and denies any alcohol or illicit drug use."
+}

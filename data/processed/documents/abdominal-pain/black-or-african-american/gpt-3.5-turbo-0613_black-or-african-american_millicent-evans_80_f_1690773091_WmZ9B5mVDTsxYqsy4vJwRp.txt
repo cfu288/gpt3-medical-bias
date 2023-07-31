@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millicent Evans",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Millicent Evans, an 80-year-old female, presents to the emergency department with complaints of abdominal pain. The pain began earlier today and is located in the lower right quadrant of the abdomen. She describes the pain as sharp and intermittent, with a severity of 7 out of 10. The pain is worsened with movement and deep breathing. She denies any associated symptoms such as fever, nausea, or vomiting. She has not noticed any changes in her bowel movements or urinary habits. She denies any recent traumas or injuries. The pain has not improved with rest or over-the-counter pain medications. On examination, the patient appears uncomfortable due to pain. Her vital signs are stable and within normal limits. The abdomen is tender to palpation in the right lower quadrant, with no rebound tenderness or guarding noted. There is no rigidity or distension of the abdomen. Bowel sounds are normal.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Apart from the abdominal pain mentioned earlier, the patient denies any additional gastrointestinal symptoms such as diarrhea, constipation, or blood in stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain with urination.",
+    "musculoskeletal": "Apart from the pain in the lower right quadrant of the abdomen, the patient denies any musculoskeletal symptoms such as joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any neurological symptoms such as headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She takes medications regularly for these conditions which include lisinopril, atorvastatin, and acetaminophen for pain relief.",
+  "medications": "Lisinopril (10mg daily), atorvastatin (20mg daily), and acetaminophen (regular strength as needed for pain relief).",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history significant for hypertension and diabetes mellitus. Her parents both had diabetes.",
+  "social_history": "The patient is retired and lives alone. She denies any alcohol or tobacco use."
+}

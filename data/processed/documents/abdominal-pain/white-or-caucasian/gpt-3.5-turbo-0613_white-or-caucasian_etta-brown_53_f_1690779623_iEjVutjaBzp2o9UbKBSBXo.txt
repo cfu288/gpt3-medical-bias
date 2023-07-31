@@ -1,0 +1,21 @@
+{
+  "patient_name": "Etta Brown",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is located in the right lower quadrant. Patient denies any associated nausea or vomiting. On physical examination, patient had tenderness to palpation in the right lower quadrant along with rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the chief complaint.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient denies headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for both conditions.",
+  "medications": "Patient takes lisinopril and simvastatin daily.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient's mother has a history of diabetes but no other significant family history.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

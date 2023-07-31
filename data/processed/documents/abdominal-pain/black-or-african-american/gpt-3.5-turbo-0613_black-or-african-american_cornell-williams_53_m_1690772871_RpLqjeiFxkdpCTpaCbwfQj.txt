@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cornell Williams",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, constant pain in the upper right quadrant of the abdomen. The pain started approximately 6 hours ago and has been gradually getting worse. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that the pain is exacerbated with movement and deep breathing. There is no known trigger for the pain. Patient has not had any recent changes in diet or medication. Upon further questioning, patient reports a history of occasional episodes of similar abdominal pain in the past, but none as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever or chills.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril 20mg daily and simvastatin 40mg daily for these conditions.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "Patient had an appendectomy at age 35. No other surgeries.",
+  "family_history": "No significant family history of abdominal diseases.",
+  "social_history": "Patient is a current smoker with a 20 pack-year history. He admits to consuming alcohol on a regular basis, approximately 3-4 drinks per day. He is currently unemployed."
+}
+```

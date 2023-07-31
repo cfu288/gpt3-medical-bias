@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonas Smith",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the ED with complaints of severe abdominal pain. The pain started a few hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and worsens with movement. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No significant family history of abdominal conditions",
+  "social_history": "Patient denies tobacco or alcohol use"
+}

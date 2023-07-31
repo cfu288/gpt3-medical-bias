@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Vera Valek",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe epigastric abdominal pain. She describes the pain as a sharp, burning sensation that started yesterday evening and has gradually worsened since then. The pain is constant and does not radiate to any other area. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "In addition to the abdominal pain, the patient reports a decrease in appetite but no difficulty swallowing or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril 20mg daily for her hypertension.",
+  "past_surgical_history": "The patient has no history of prior surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

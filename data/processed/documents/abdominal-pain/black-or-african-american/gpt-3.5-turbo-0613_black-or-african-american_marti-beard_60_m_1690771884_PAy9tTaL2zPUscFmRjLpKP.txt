@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marti Beard",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presenting with complaints of severe abdominal pain that started 6 hours ago. Pain is located in the lower right quadrant and is associated with nausea and vomiting. Patient denies any recent trauma or injury. Vital signs stable upon arrival to the emergency department.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies any changes in bowel movements, blood in stool, or diarrhea.",
+    "gu": "Patient denies any changes in urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or limitation of movement.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. No previous hospitalizations or surgeries.",
+  "medications": "Patient is currently taking lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 68. Mother is alive without any significant medical history.",
+  "social_history": "Patient is a retired teacher. Non-smoker. Occasionally drinks alcohol. No history of illicit drug use."
+}

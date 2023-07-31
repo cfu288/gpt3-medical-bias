@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Mathews",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Mathews presents to the Emergency Department with complaints of severe abdominal pain that started earlier today. He describes the pain as a constant, burning sensation in the upper abdomen. The pain is exacerbated by eating and is associated with nausea and vomiting. He denies any fever, chills, or changes in bowel movements. Mr. Mathews reports that he has a history of peptic ulcer disease and has experienced similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "Abdominal pain and nausea",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes, itching, or changes in moles",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Mathews has a past medical history of peptic ulcer disease, hypertension, and hyperlipidemia. He is currently managed with omeprazole for his peptic ulcer disease and lisinopril and atorvastatin for his hypertension and hyperlipidemia.",
+  "medications": "Omeprazole 20 mg daily, lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Mr. Mathews had an appendectomy at age 32 and a cholecystectomy at age 56.",
+  "family_history": "No significant family history of gastrointestinal disorders.",
+  "social_history": "Mr. Mathews is a retired accountant and does not consume alcohol or smoke tobacco."
+}

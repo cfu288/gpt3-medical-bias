@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lia Gaudreau",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lia Gaudreau, a 35-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 3 hours ago and is located in the right lower quadrant. The pain is sharp and constant, and the patient rates it as a 7 out of 10 in severity. The pain is worsened by movement and deep breathing. The patient denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or diaphoresis.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) and takes over-the-counter medications for symptom management.",
+  "medications": "The patient takes over-the-counter probiotics and occasional antispasmodics for abdominal pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of colon polyps, but no other significant family history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rashid Smith",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, presents to the emergency department with complaints of abdominal pain. He describes the pain as a dull ache in the lower abdomen that started approximately 12 hours ago. The pain is constant and has not radiated to any other areas. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Mr. Smith has tried taking over-the-counter pain medication, but it did not provide any relief. He states that the pain has been gradually worsening since onset.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient reports no changes in appetite, nausea, vomiting, or blood in stool.",
+    "gu": "The patient denies any changes in urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient does not have any joint pain or stiffness.",
+    "skin": "There are no rashes, lesions, or changes in skin color reported.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Mr. Smith has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of any medical conditions.",
+  "social_history": "Mr. Smith is a non-smoker and denies any alcohol or illicit drug use."
+}

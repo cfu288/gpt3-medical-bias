@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alix Harrison",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alix Harrison, is a 39-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant, with a severity of 7 out of 10. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She has never experienced similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports abdominal pain as her chief complaint. No other gastrointestinal symptoms are present.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has no significant past medical history. She has not had any previous surgeries.",
+  "medications": "The patient reports currently taking ibuprofen as needed for pain relief.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no known family history of significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives with her husband and two children."
+}
+```

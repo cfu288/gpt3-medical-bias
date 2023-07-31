@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fred West",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Fred West, a 64-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and has been progressively worsening. He describes the pain as a constant, sharp, and non-radiating pain in the upper abdomen. The pain is associated with nausea and vomiting. The patient denies any fever, diarrhea, or blood in the stool. He also denies any urinary symptoms or chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, night sweats, or fatigue.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril and simvastatin.",
+  "medications": "Lisinopril - 10mg daily, Simvastatin - 20mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a history of colon cancer, but no other significant family history.",
+  "social_history": "The patient is a retired factory worker. He denies tobacco or alcohol use."
+}

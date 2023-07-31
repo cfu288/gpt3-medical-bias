@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Diana Morris",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Diana Morris, a 45-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started 2 days ago and is located in the lower right quadrant. The pain is intermittent but has become progressively worse. She denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. She has tried over-the-counter pain medications, but they have provided only temporary relief. She has no known medical conditions and has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain and denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient reports taking no regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently employed as a teacher and lives with her husband and two children."
+}
+```

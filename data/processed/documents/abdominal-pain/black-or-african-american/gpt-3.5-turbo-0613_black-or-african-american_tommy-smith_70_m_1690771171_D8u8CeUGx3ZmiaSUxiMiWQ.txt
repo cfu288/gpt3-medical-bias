@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Smith",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain localized to the right lower quadrant. The pain started earlier today and has been getting progressively worse. The patient reports loss of appetite, nausea, and mild vomiting. No fever or chills reported. Patient denies any urinary or bowel changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued but denies any fever or chills.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No shortness of breath or cough reported.",
+    "gi": "Patient reports abdominal pain and loss of appetite.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rash or changes in the skin reported.",
+    "neurologic": "No headache, dizziness, or numbness/weakness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin respectively.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Patient reports a family history of hypertension in both parents.",
+  "social_history": "Patient denies smoking, alcohol consumption, or illicit drug use."
+}

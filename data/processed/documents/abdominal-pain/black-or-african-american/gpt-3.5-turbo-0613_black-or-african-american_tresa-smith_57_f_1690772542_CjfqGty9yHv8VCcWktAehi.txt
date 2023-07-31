@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tresa Smith",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tresa Smith, a 57-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 4 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and is rated as 8 out of 10 in severity. The patient denies any nausea, vomiting, or diarrhea. On physical examination, the abdomen is tender to palpation in the lower right quadrant. No rebound tenderness or guarding is noted. The patient states that she has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or shortness of breath.",
+    "respiratory": "The patient denies any cough or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her primary symptom.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "The patient has a past surgical history of laparoscopic cholecystectomy.",
+  "family_history": "The patient's family history is significant for a brother with colon cancer and a mother with diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a teacher and lives with her husband and two children."
+}

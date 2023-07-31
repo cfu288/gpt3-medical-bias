@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Sosa",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Sosa is a 64-year-old male who presents to the emergency department with a chief complaint of abdominal pain. Patient reports that the pain started 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and constant, with a severity of 8/10. Patient denies any associated nausea, vomiting, or changes in bowel movements. He reports no known triggers for the pain and denies any recent trauma or injury to the abdomen. No alleviating or aggravating factors reported. Patient states that he has never experienced this type of pain before. Vital signs are stable. A physical examination reveals tenderness and guarding in the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as described in the history of present illness.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or any changes in the skin.",
+    "neurologic": "Patient denies headache, dizziness, or any changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient had an appendectomy in childhood.",
+  "family_history": "Patient's mother had a history of gallbladder disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He is retired and lives with his wife."
+}

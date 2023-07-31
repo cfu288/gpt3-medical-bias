@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luanne Lewis",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Luanne Lewis, a 70-year-old female, presents to the emergency department with complaints of abdominal pain. She states that the pain started yesterday and has been gradually increasing in severity. She describes the pain as a sharp, stabbing sensation in the lower right quadrant of her abdomen. She denies any associated symptoms such as fever, nausea, vomiting, or change in bowel movements. She reports no previous episodes of similar pain. On examination, she appears uncomfortable and is guarding her abdomen. There is tenderness to palpation in the right lower quadrant with no rebound or rigidity.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. She denies any history of diabetes, kidney disease, or heart disease.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia in her parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and independently, with no recent changes in her living situation."
+}

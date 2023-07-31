@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cherrie Lacey",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, an 80-year-old female named Cherrie Lacey, presents to the emergency department with complaints of abdominal pain. The pain started three days ago and has been progressively worsening. She describes the pain as dull and constant, located in the upper abdomen. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient states that she has a history of acid reflux and often takes antacid medications for relief. She has never experienced abdominal pain like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Positive for upper abdominal pain, negative for vomiting or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or changes in skin color",
+    "neurologic": "Negative for headache or changes in mental status"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and acid reflux.",
+  "medications": "The patient takes lisinopril for hypertension and an over-the-counter antacid medication as needed for acid reflux.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. She denies any alcohol use, smoking, or illicit drug use."
+}

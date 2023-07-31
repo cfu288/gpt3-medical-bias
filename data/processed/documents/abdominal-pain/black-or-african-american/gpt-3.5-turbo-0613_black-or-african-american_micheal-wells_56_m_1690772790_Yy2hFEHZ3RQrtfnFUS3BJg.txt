@@ -1,0 +1,21 @@
+{
+  "patient_name": "Micheal Wells",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started this morning. The pain is localized in the lower right quadrant of the abdomen and is sharp in nature. The patient states that the pain is worse with movement and deep breathing. He denies any recent trauma or injury. There are no associated symptoms of nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient presents with abdominal pain as the chief complaint.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on medication.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in both parents and siblings.",
+  "social_history": "The patient is married, lives with his spouse, and works as a bank manager. He denies tobacco or alcohol use."
+}

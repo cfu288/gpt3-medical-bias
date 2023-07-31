@@ -1,0 +1,21 @@
+{
+    "patient_name": "Earline John",
+    "age": "89",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "The patient, an 89-year-old female named Earline John, presents to the emergency department complaining of severe abdominal pain. According to the patient, the pain began approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, and she rates it as a 9 out of 10 in severity. She denies any associated symptoms such as fever, nausea, or vomiting. She states that she has never experienced this type of pain before and is concerned about what could be causing it. She denies any recent changes in diet or medication. Upon physical examination, the patient appears uncomfortable and is lying still in bed. There is tenderness and guarding in the right lower quadrant of the abdomen. Palpation reveals a palpable mass in the same area. Based on her symptoms and physical examination findings, a provisional diagnosis of appendicitis is being considered. Further diagnostic tests, such as blood work and imaging studies, will be ordered to confirm the diagnosis.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+        "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+        "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+        "gi": "The patient complains of abdominal pain as her chief complaint. She denies any changes in bowel movements or blood in stool.",
+        "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+        "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+        "skin": "The patient denies any rash, itching, or changes in skin color.",
+        "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension, osteoarthritis, and hypothyroidism.",
+    "medications": "The patient is currently taking lisinopril for hypertension, ibuprofen as needed for osteoarthritis pain, and levothyroxine for hypothyroidism.",
+    "past_surgical_history": "The patient has a past surgical history of a cholecystectomy 10 years ago.",
+    "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+    "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

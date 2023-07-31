@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rudolph Smith",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rudolph Smith, a 65-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started this morning and is localized to the lower right quadrant. The pain is sharp in nature and is constant. The patient denies any associated symptoms such as nausea, vomiting, or change in bowel movements. On further questioning, the patient reports that the pain started after eating a heavy meal last night. He has not noticed any alleviating or exacerbating factors for the pain. He has not experienced similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

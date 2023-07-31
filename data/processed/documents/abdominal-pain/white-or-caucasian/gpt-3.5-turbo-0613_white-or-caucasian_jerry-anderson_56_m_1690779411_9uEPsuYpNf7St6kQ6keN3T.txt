@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerry Anderson",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Anderson presents to the emergency department with complaints of severe abdominal pain that started this morning. He describes the pain as a constant, sharp pain located in the right lower quadrant of his abdomen. The pain has been getting progressively worse throughout the day and is now radiating to his back. He denies any nausea, vomiting, diarrhea, or changes in bowel movements. No urinary symptoms present. He has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rashes or changes in skin color.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes Lisinopril 10mg daily and Simvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a history of heart disease.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He is married and works as an accountant. No recent travel or sick contacts."
+}

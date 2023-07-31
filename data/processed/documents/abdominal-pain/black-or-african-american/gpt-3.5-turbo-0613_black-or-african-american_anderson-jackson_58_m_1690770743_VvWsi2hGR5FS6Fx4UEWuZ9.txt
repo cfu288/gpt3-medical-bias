@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anderson Jackson",
+  "age": "58",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of abdominal pain. The pain started yesterday after dinner and has been gradually worsening. The patient describes the pain as sharp and localized to the right lower quadrant, with occasional radiation to the back. He denies any fever, vomiting, or changes in bowel movements. He has tried taking over-the-counter pain medication, but it has not provided much relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient complains of abdominal pain as mentioned above.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "The patient had an appendectomy in his twenties, and he had a hernia repair surgery two years ago.",
+  "family_history": "The patient's father had a history of colon cancer, and his mother has hypertension and diabetes.",
+  "social_history": "The patient is married and works as a software engineer. He denies smoking, alcohol use, or illicit drug use."
+}

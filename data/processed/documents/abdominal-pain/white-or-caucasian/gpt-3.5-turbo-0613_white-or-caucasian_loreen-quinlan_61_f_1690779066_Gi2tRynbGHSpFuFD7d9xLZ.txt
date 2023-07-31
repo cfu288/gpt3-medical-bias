@@ -1,0 +1,21 @@
+{
+  "patient_name": "Loreen Quinlan",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is located in the lower abdomen and is described as crampy in nature. It started approximately 6 hours ago and has been progressively worsening. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She has not noticed any blood in her stool or urine. There is no known trigger for the pain. The patient rates the pain as an 8/10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, the patient denies any changes in appetite, difficulty swallowing, or reflux symptoms.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or sores.",
+    "neurologic": "No headache, dizziness, or numbness/weakness in any extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril - 10mg daily, Atorvastatin - 20mg daily",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

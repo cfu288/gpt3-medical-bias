@@ -1,0 +1,21 @@
+{
+  "patient_name": "Michele Wilson",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 4 hours ago. Pain is located in the lower right quadrant and is associated with nausea and vomiting. Patient denies any recent trauma or fever. Pain is constant and rated 8/10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient presents with abdominal pain, nausea, and vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any changes in vision, headaches, or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin daily.",
+  "past_surgical_history": "Patient had an appendectomy in childhood.",
+  "family_history": "Patient has a family history of colon cancer in her mother.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

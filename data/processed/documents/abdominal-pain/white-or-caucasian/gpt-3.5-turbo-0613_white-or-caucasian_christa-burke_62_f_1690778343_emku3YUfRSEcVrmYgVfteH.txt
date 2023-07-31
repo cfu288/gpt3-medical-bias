@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Christa Burke",
+  "age": "62",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Christa Burke, a 62-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a sharp, constant pain in the lower abdomen. The pain started 12 hours ago and has been gradually increasing in intensity. She rates the pain as an 8 out of 10. The pain is exacerbated by movement and she has noticed some bloating and nausea as well. She denies any recent illnesses or injuries, and states that she has not experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain, bloating, and nausea as described above. Negative for vomiting, diarrhea, or blood in stool.",
+    "gu": "Negative for dysuria, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes, itching, or changes in pigmentation.",
+    "neurologic": "Negative for headache, dizziness, or numbness.",
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. She takes lisinopril for hypertension and metformin for diabetes.",
+  "medications": "Lisinopril and metformin",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy (gallbladder removal) 10 years ago.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes in her parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cora Mack",
+  "age": "29",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Cora Mack, a 29-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a sharp, crampy sensation located in the lower right quadrant of her abdomen. The pain started approximately 6 hours ago and has been progressively worsening. She rates the pain as 8 out of 10 on the pain scale. She denies any associated symptoms such as vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain described above. Denies blood in stool or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She is currently employed as a teacher."
+}
+```

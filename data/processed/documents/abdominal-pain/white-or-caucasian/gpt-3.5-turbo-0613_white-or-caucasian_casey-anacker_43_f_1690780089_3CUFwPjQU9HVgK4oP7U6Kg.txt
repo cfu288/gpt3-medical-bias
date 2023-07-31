@@ -1,0 +1,21 @@
+{
+  "patient_name": "Casey Anacker",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ms. Casey Anacker, a 43-year-old female, presents to the emergency department with complaints of severe, intermittent lower abdominal pain that started approximately 6 hours ago. The pain is located in the right lower quadrant and is associated with nausea and vomiting. Patient denies any fevers, chills, changes in bowel movements, or urinary symptoms. She describes the pain as sharp and stabbing, with a 7/10 intensity on the pain scale. The pain is worsened with movement and deep inspiration. Upon further questioning, the patient states that she has had similar episodes of abdominal pain in the past, but never as severe as this.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, night sweats or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations or shortness of breath.",
+    "respiratory": "Negative for cough or difficulty breathing.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting. Negative for changes in bowel movements or blood in stool.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of gastroesophageal reflux disease (GERD) and irritable bowel syndrome (IBS).",
+  "medications": "The patient takes omeprazole as needed for GERD symptoms.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of gastrointestinal disorders or cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

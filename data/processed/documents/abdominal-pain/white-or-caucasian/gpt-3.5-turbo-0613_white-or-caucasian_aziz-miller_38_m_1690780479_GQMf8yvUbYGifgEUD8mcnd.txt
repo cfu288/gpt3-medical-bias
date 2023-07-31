@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aziz Miller",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Aziz Miller, a 38-year-old male, presented to the emergency department with complaints of abdominal pain. The pain began 2 days ago and has been progressively worsening. He describes the pain as a dull ache located in the right lower quadrant of the abdomen. The pain is associated with nausea and occasional vomiting. He denies any fever, diarrhea, or changes in bowel movements. The patient has not noticed any blood in his stool or urine. He has tried over-the-counter antacids, but they have not provided any relief. The patient denies any recent trauma, travel, or exposure to sick individuals. He has no significant medical history and takes no medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "Complaint of abdominal pain, associated with nausea and occasional vomiting. No diarrhea, constipation, or changes in appetite.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain, stiffness, or swollen joints.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient takes no medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "No significant family history of gastrointestinal or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

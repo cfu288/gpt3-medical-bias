@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hans Siler",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe abdominal pain. He describes the pain as sharp and localized to the right lower quadrant. He states that the pain started abruptly this morning and has been worsening throughout the day. He denies any associated nausea, vomiting, or change in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash, itching, or changes in skin color",
+    "neurologic": "No headaches, changes in vision, or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient takes lisinopril and atorvastatin daily",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago",
+  "family_history": "No known family history of abdominal conditions",
+  "social_history": "Patient denies alcohol or tobacco use"
+}

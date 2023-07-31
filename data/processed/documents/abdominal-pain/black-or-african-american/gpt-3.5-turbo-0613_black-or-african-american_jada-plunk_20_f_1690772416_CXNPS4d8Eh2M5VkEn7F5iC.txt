@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jada Plunk",
+  "age": "20",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "[Patient Name] presents to the Emergency Department with a chief complaint of abdominal pain. The pain began approximately 6 hours ago and is located in the right lower quadrant of the abdomen. The pain is described as sharp and is worsened with movement. The patient denies any associated symptoms such as nausea, vomiting, or fever. She reports no history of similar episodes in the past. On physical examination, the patient appears uncomfortable and is guarding her abdomen. There is mild tenderness to palpation in the right lower quadrant. No rebound tenderness or rigidity is appreciated. Laboratory tests and imaging studies have been ordered to further evaluate the cause of the abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Denies shortness of breath, cough",
+    "gi": "Reports abdominal pain as described above. Denies changes in bowel movements, blood in stool",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rashes, wounds",
+    "neurologic": "Denies headache, dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Non-contributory",
+  "social_history": "Non-contributory"
+}

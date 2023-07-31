@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dina Peterson",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Dina Peterson, a 50-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain has been going on for the past 24 hours and is located in the right lower quadrant of the abdomen. The patient describes the pain as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She has not tried any over-the-counter medications for pain relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is currently on medications for these conditions.",
+  "medications": "Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

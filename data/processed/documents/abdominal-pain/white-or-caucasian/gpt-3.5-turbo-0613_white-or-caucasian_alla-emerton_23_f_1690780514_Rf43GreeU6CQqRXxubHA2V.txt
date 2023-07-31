@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alla Emerton",
+  "age": "23",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alla Emerton, a 23-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started earlier today and is located in the lower right quadrant of her abdomen. The pain is a constant ache and is worsened with movement. She denies any fever, nausea, vomiting, or changes in bowel movements. She states that she has never experienced this type of pain before and is concerned it may be appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports severe abdominal pain in the lower right quadrant. She denies any nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, and drug use. She is currently not sexually active."
+}
+```

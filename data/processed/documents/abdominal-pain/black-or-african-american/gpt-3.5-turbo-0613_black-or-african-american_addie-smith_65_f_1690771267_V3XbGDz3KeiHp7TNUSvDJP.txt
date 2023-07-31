@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Addie Smith",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Addie Smith, is a 65-year-old female who presents to the emergency department with complaints of abdominal pain. She reports that the pain started earlier today and is located in the lower right quadrant of her abdomen. The pain is sharp and worsens with movement. She denies any fever, nausea, or vomiting. She has not experienced any recent trauma or injuries. She states that she has been having difficulty passing stool and has noticed a decrease in her appetite. She denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "The patient reports difficulty passing stool and a decrease in appetite.",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

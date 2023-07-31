@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Otis Low",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. Pain is localized to the right lower quadrant and is associated with nausea and vomiting. Patient denies any fever, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough or difficulty breathing.",
+    "gi": "Besides the abdominal pain, the patient denies any changes in bowel movements or melena.",
+    "gu": "Patient denies any dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or changes in skin color.",
+    "neurologic": "Patient denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Patient is currently taking metoprolol and atorvastatin.",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "Patient had an appendectomy 20 years ago.",
+  "family_history": "Patient's family history is noncontributory. There is no history of colon cancer, ovarian cancer, or any other gastrointestinal disorders in the family.",
+  "social_history": "Patient is a retired teacher. Patient denies any tobacco, alcohol, or illicit substance use."
+}
+```

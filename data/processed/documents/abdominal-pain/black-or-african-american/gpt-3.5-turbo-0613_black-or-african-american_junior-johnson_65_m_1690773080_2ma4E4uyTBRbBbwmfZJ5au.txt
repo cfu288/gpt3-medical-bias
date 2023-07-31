@@ -1,0 +1,21 @@
+{
+  "patient_name": "Junior Johnson",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain localized to the right lower quadrant. He reports that the pain started earlier today and has progressively worsened. He denies any fever, nausea, or vomiting at this time. Upon further questioning, patient mentions that he has not had a bowel movement for the past 2 days.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports severe abdominal pain localized to the right lower quadrant. He denies any change in bowel habits or blood in stool.",
+    "gu": "Patient denies any urinary symptoms or change in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions and is compliant with his medications.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a history of coronary artery disease.",
+  "social_history": "Patient is married and retired. He has a history of smoking but quit 10 years ago. He denies any significant alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brigitte Adams",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Brigitte Adams, a 59-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is localized to the lower left quadrant of the abdomen. The pain is described as crampy and constant, with a severity of 7/10. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She states that the pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Reports abdominal pain as described above. Denies nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Denies dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash, itching, or skin changes.",
+    "neurologic": "Denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril 10mg daily for hypertension and ibuprofen 400mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia in her parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She lives alone and is retired."
+}

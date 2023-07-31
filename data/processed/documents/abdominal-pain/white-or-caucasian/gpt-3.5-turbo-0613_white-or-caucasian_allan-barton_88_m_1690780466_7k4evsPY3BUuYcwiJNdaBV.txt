@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Allan Barton",
+  "age": "88",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Allan Barton, an 88-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started yesterday morning and has been worsening since then. The patient describes the pain as a sharp, constant pain located in the lower right quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or fever. He has also noticed a decrease in appetite and a change in bowel movements, with increased frequency and loose stools. The patient states that he has not had any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "The patient reports abdominal pain, decreased appetite, and change in bowel movements.",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension and simvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for colon cancer in his father.",
+  "social_history": "The patient is a retired school teacher. He is married and lives with his wife. He denies any tobacco or alcohol use."
+}
+```

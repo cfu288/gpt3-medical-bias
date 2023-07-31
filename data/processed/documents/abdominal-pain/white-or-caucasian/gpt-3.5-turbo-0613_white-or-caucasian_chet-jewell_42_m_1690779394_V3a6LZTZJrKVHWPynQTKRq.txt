@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chet Jewell",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is located in the lower right quadrant. Patient denies any nausea, vomiting, or diarrhea. No fever or chills have been noted. Pain is worsened with movement and palpation. Initial assessment suggests possible appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, weight loss, or fatigue",
+    "cardiovascular": "No chest pain or shortness of breath",
+    "respiratory": "No cough, sputum production, or difficulty breathing",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or muscle aches",
+    "skin": "No rashes, lesions, or bruising",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient reports history of hypertension and migraines",
+  "medications": "Patient takes Lisinopril for hypertension and Sumatriptan as needed for migraines",
+  "past_surgical_history": "Patient denies any past surgeries",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use"
+}

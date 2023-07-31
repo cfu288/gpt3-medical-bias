@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sue Cooper",
+  "age": "85",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Sue Cooper, an 85-year-old female, presents to the emergency department today with complaints of abdominal pain. The pain started yesterday evening and has been constant and moderately severe. She describes the pain as a dull ache located in the lower abdomen. She denies any associated symptoms, such as nausea, vomiting, or changes in bowel habits. She states that the pain is worsening with movement and deep breathing. On further questioning, the patient reports having a history of colon cancer for which she underwent surgery 5 years ago. She denies any recent changes in bowel movements or blood in the stools. She also denies any recent weight loss or loss of appetite. The patient has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain as the chief symptom. There is no history of changes in bowel movements, blood in stools, or vomiting.",
+    "gu": "The patient denies any urinary symptoms such as burning, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle cramps.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness in any limbs."
+  },
+  "past_medical_history": "The patient has a history of hypertension and colon cancer.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient underwent surgery for colon cancer 5 years ago.",
+  "family_history": "There is no relevant family history reported.",
+  "social_history": "The patient lives alone and is independent in activities of daily living."
+}
+```

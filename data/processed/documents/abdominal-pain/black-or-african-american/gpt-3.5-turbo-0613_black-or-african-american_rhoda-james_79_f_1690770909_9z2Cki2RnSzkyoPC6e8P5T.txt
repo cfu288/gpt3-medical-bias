@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhoda James",
+  "age": "79",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rhoda James, a 79-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain began approximately 2 hours ago and is located in the lower right quadrant. The patient rates the pain as 7/10 on the pain scale and describes it as sharp and intermittent. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. On physical examination, there is tenderness to palpation in the right lower quadrant with guarding. An abdominal ultrasound is ordered to evaluate for possible appendicitis or other intra-abdominal pathology.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain as described above. Denies any nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, type 2 diabetes, and hyperlipidemia. She is currently taking medications for all of these conditions including metoprolol, metformin, and atorvastatin.",
+  "medications": "Metoprolol, metformin, atorvastatin",
+  "past_surgical_history": "The patient's past surgical history is significant for a cholecystectomy 10 years ago.",
+  "family_history": "The patient's mother had a history of breast cancer and her father had a history of heart disease.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She lives alone and is independent with her activities of daily living."
+}

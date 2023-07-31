@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sheldon Dennis",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. Patient reports that the pain started approximately 8 hours ago and has been gradually worsening. He describes the pain as a dull ache in the upper abdomen. Patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He states that he has tried over-the-counter antacids without relief. On further questioning, patient reports a history of occasional heartburn and indigestion but states that this pain is different and more intense.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, shortness of breath, palpitations, or leg swelling.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Reports abdominal pain as chief complaint. Denies nausea, vomiting, diarrhea, or blood in stools.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, lesions, or skin changes.",
+    "neurologic": "Denies headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a past medical history of gastroesophageal reflux disease (GERD) and hypertension. He takes omeprazole daily for GERD and amlodipine for hypertension.",
+  "medications": "Omeprazole 20 mg daily, amlodipine 5 mg daily",
+  "past_surgical_history": "Patient had an appendectomy at the age of 30. No other significant surgical history.",
+  "family_history": "No significant family history of gastrointestinal or cardiovascular diseases.",
+  "social_history": "Patient is a retired accountant. He is a nonsmoker and denies alcohol or illicit drug use."
+}

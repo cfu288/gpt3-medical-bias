@@ -1,0 +1,21 @@
+{
+  "patient_name": "Heidi Hastings",
+  "age": "47",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Heidi Hastings, is a 47-year-old female who presents to the emergency department with complaints of abdominal pain. The pain began approximately 8 hours ago and is located in the lower right quadrant of her abdomen. She describes it as a sharp, constant pain with no radiation. She denies any previous episodes of similar pain. The pain is worsened with movement and palpation. She denies any associated symptoms such as nausea, vomiting, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Positive for abdominal pain as chief complaint, no other significant gastrointestinal symptoms",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or numbness/weakness in extremities"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is well-controlled on amlodipine 5 mg daily.",
+  "medications": "Amlodipine 5 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for any significant family history of gastrointestinal or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and reports occasional alcohol use."
+}

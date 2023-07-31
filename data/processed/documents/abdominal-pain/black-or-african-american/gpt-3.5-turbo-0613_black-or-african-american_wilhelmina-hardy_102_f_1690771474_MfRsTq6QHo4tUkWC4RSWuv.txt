@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wilhelmina Hardy",
+  "age": "102",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Wilhelmina Hardy, a 102-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started yesterday and has been progressively worsening since then. The pain is located in the lower right quadrant of her abdomen and is described as sharp and constant. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movement. She states that she has not experienced similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, but denies any other gastrointestinal symptoms such as diarrhea, constipation, or blood in the stool.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension but denies any other significant family medical history.",
+  "social_history": "The patient is retired and lives independently at home with support from family members. She denies smoking, alcohol consumption, or illicit drug use."
+}
+```

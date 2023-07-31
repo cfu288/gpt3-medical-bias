@@ -1,0 +1,21 @@
+{
+  "patient_name": "Buford Dugan",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Dugan presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started suddenly about 4 hours ago and is located in the right lower quadrant of his abdomen. The pain is sharp and constant, and he rates it as a 9 on a scale of 0-10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, and shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, and difficulty breathing.",
+    "gi": "The patient reports abdominal pain and denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Mr. Dugan has a history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient reports no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and heart disease.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or drink alcohol."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shari Frie",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Shari Frie, a 38-year-old female, presents to the emergency department with a chief complaint of abdominal pain. Patient describes the pain as a sharp and crampy sensation located in the lower abdomen. She states that the pain started approximately 6 hours ago and has been progressively worsening. The pain is associated with nausea but denies vomiting or fever. There is no history of trauma or recent travel. The patient is concerned about possible appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. No change in bowel habits. No blood in stools.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and GERD.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily and omeprazole 20 mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "No family history of abdominal conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. Has a sedentary lifestyle and works as an office manager."
+}
+```

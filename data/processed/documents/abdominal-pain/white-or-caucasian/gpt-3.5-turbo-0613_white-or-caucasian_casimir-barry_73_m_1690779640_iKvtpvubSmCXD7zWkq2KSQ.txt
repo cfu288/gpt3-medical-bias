@@ -1,0 +1,21 @@
+{
+  "patient_name": "Casimir Barry",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of abdominal pain. The pain started earlier today and is located in the lower right quadrant. The patient rates the pain as 7 out of 10 and describes it as sharp and persistent. He denies any associated symptoms such as nausea, vomiting, or diarrhea. The patient reports no recent dietary changes or trauma to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or changes.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's mother had a history of colon cancer. No other significant family history.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. He lives alone and is independent with activities of daily living."
+}

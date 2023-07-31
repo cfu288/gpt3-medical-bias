@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melvyn Tidwell",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 12 hours ago and is located in the epigastric region. The pain is described as sharp and radiates to the back. He rates the pain as 8/10. The patient denies any other associated symptoms such as nausea, vomiting, or changes in bowel movements. He has tried over-the-counter antacids without relief. He has no known history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or difficulty moving.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision or coordination."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril 20 mg daily and simvastatin 40 mg daily.",
+  "medications": "Lisinopril 20 mg daily, simvastatin 40 mg daily",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient denies any significant family history of chronic diseases.",
+  "social_history": "Patient is a retired electrician. He denies tobacco, alcohol, or recreational drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyman Ryan",
+  "age": "83",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the right lower quadrant of the abdomen. The pain is sharp and constant, and the patient rates it as 8 out of 10 in intensity. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "As mentioned in the history of present illness, the patient has severe abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any skin rashes, lesions, or pruritus.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and coronary artery disease.",
+  "medications": "Patient takes aspirin 81 mg daily, amlodipine 5 mg daily, atorvastatin 20 mg daily, and hydrochlorothiazide 12.5 mg daily for his medical conditions.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's family history is significant for hypertension and hyperlipidemia, but there is no history of any gastrointestinal disorders or malignancies.",
+  "social_history": "Patient is retired and lives alone. He is a nonsmoker and denies any history of alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pamella Stumpff",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Pamella Stumpff, a 60-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started suddenly about 3 hours ago and is located in the lower right quadrant of her abdomen. The patient describes the pain as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She reports no recent trauma or fever. The patient states that she has never experienced this type of pain before and is concerned about the cause.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril for hypertension, atorvastatin for hyperlipidemia, and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any major surgical procedures.",
+  "family_history": "The patient's mother had a history of hypertension and her father had a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

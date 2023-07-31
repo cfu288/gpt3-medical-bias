@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kamal Richards",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. He describes the pain as constant and located in the lower right quadrant of his abdomen. He states that the pain started yesterday and has been gradually worsening. The patient denies any nausea, vomiting, fever, or changes in bowel movements. He reports a history of appendicitis in the past, for which he underwent an appendectomy.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any constitutional symptoms such as fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient complains of abdominal pain, which is his chief complaint.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of appendicitis for which he underwent an appendectomy.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has a history of appendectomy.",
+  "family_history": "The patient has no significant family history of note.",
+  "social_history": "The patient denies smoking, alcohol use, and illicit drug use."
+}

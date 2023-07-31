@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patsy Smith",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of abdominal pain. She describes the pain as a constant dull ache in the lower abdomen. She reports that the pain began yesterday and has been progressively worsening. She denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. Upon further questioning, she reports a history of constipation and occasional episodes of abdominal pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations or leg swelling.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described.",
+    "gu": "No urinary frequency, urgency or burning.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No headaches, dizziness or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoporosis.",
+  "medications": "The patient takes Lisinopril 10mg once daily and Calcium with Vitamin D supplement.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and osteoporosis in her mother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

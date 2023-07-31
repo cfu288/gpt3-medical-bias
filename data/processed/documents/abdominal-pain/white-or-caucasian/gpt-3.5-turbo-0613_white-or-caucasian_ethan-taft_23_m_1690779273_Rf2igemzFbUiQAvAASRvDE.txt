@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ethan Taft",
+  "age": "23",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ethan Taft, a 23-year-old male, presents to the emergency department with complaints of abdominal pain. The pain is located in the lower right quadrant and started approximately 12 hours ago. The patient describes the pain as sharp and worsening with movement. He denies any associated symptoms such as fever, nausea, vomiting, or change in bowel movements. Upon further questioning, the patient reports that he recently had a bout of diarrhea but it has since resolved. He denies any recent travel, new medications, or dietary changes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient's chief complaint is abdominal pain.",
+    "gu": "The patient denies any urinary symptoms or genital complaints.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no known significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is currently employed and denies any tobacco, alcohol, or illicit drug use."
+}

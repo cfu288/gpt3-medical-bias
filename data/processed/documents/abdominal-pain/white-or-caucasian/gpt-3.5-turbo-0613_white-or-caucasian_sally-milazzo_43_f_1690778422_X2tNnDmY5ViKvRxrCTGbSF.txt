@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sally Milazzo",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started 2 days ago and has progressively worsened since then. She describes the pain as a dull, constant ache in her lower abdomen. There is no radiation of the pain. The patient denies any nausea, vomiting, diarrhea, or constipation. She also denies any urinary symptoms. The patient reports no fever or chills. There is no history of trauma or recent surgery. Physical examination reveals tenderness to palpation in the lower abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "Abdominal pain as described above, no nausea, vomiting, diarrhea, or constipation",
+    "gu": "No urinary symptoms or changes in urinary frequency or color",
+    "musculoskeletal": "No joint pain, swelling, or limited range of motion",
+    "skin": "No rashes, lesions, or changes in skin color",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10 mg once daily, atorvastatin 40 mg once daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zbigniew Merrill",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Merrill is a 54-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. The pain is sharp, constant, and worsens with movement. Patient denies any recent trauma, fever, or changes in bowel movements. Upon further questioning, patient reports nausea but denies vomiting or diarrhea. No urinary symptoms present.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Denies any changes in bowel movements, blood in stool, or black/tarry stools.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain, deformity, or limited range of motion.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, type 2 diabetes",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Cholecystectomy (2005)",
+  "family_history": "Negative for any significant family history of gastrointestinal or surgical conditions",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

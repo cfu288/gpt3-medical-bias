@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Laurence Staples",
+  "age": "89",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Staples, is an 89-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 6 hours ago and is localized to the right lower quadrant of the abdomen. Mr. Staples reports that the pain is constant and stabbing in nature. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. He states that the pain has progressively worsened since its onset. Mr. Staples has a history of diverticulosis and has experienced similar episodes of abdominal pain in the past, although they were not as severe. He denies any recent trauma or injury to the abdomen. Upon examination, Mr. Staples appears uncomfortable and is guarding his abdomen. There is tenderness and rebound tenderness in the right lower quadrant. His vital signs are stable at the moment.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or changes in sensation"
+  },
+  "past_medical_history": "Diverticulosis, Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol 25mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "Mother had history of diverticulosis",
+  "social_history": "Retired. Non-smoker. Rare alcohol use."
+}
+```

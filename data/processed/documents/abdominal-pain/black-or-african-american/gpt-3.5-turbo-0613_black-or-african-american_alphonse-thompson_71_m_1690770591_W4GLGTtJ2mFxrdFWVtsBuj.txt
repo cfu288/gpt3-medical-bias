@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Thompson",
+  "age": "71",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Thompson is a 71-year-old male who presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is located in the right upper quadrant. He describes the pain as a dull ache that radiates to his back. He denies any accompanying symptoms such as nausea, vomiting, or changes in bowel movements. He states that the pain is constant and has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No changes in vision or neurological symptoms"
+  },
+  "past_medical_history": "Mr. Thompson has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He takes lisinopril, atorvastatin, and metformin.",
+  "medications": "Lisinopril, atorvastatin, metformin",
+  "past_surgical_history": "Appendectomy at age 45",
+  "family_history": "No significant family history of abdominal conditions",
+  "social_history": "Mr. Thompson is a retired engineer. He has never smoked and does not consume alcohol."
+}

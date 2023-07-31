@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodrick Kinnard",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Kinnard presents to the ED with complaints of severe abdominal pain that started 6 hours ago. The pain is located in the right lower quadrant and is constant. He rates the pain as 8/10 and describes it as sharp in nature. There is no radiation of the pain. The pain is associated with nausea and vomiting. The patient denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denied fever, chills, night sweats",
+    "cardiovascular": "Denied chest pain, palpitations",
+    "respiratory": "Denied shortness of breath, cough",
+    "gi": "Positive for nausea and vomiting",
+    "gu": "Denied dysuria, hematuria",
+    "musculoskeletal": "Denied joint pain, muscle weakness",
+    "skin": "Denied rash, itching",
+    "neurologic": "Denied headache, dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and asthma.",
+  "medications": "The patient is taking Lisinopril for hypertension and albuterol inhaler for asthma.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

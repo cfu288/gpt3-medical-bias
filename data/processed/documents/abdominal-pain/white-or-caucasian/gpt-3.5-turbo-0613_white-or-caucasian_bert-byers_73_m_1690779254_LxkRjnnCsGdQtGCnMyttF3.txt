@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bert Byers",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the right upper quadrant and radiates to the back. He describes the pain as sharp and worsening with movement. He denies any nausea, vomiting, or changes in bowel movements. No fever or chills reported. Patient states that he has never experienced this type of pain before and it is causing significant distress.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Patient complains of severe abdominal pain in the right upper quadrant that radiates to the back. No nausea, vomiting, or changes in bowel movements.",
+    "gu": "No complaints of dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or open wounds.",
+    "neurologic": "No headaches, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin as prescribed.",
+  "medications": "Amlodipine 5mg daily and atorvastatin 20mg daily. No over-the-counter medications or supplements.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of colon cancer. No other significant family history reported.",
+  "social_history": "Patient is married and lives with his wife. He is retired and does not smoke or drink alcohol."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stefania Hildebrand",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Stefania Hildebrand, a 59-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a constant burning sensation in the upper abdomen. The pain started earlier today and has been gradually worsening. She also reports feeling nauseous and has vomited once. The patient denies any recent changes in her diet or medication. There is no history of trauma or recent travel. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain and nausea. She denies any diarrhea or constipation.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication daily.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is married and works as a teacher. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

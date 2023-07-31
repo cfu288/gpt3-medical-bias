@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vito Mathers",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Vito Mathers, a 51-year-old male, presents to the emergency department with complaints of severe diffuse abdominal pain. The pain has been progressively worsening over the last 24 hours and is rated 8/10 in intensity. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or melena. He also denies any recent trauma or fever. On examination, the patient appears to be in distress and is guarding his abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, dyspnea, or hemoptysis.",
+    "gi": "Abdominal pain as described.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. He takes lisinopril and metformin for these conditions.",
+  "medications": "Lisinopril 20 mg daily, metformin 1000 mg twice daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient's father had a history of coronary artery disease and his mother had a history of diabetes.",
+  "social_history": "The patient drinks alcohol socially and denies tobacco or illicit drug use."
+}

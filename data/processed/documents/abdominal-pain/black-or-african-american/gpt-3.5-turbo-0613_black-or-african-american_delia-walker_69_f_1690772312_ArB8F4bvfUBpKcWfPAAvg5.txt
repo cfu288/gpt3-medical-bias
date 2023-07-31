@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Delia Walker",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Delia Walker, a 69-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started earlier today and is located in the lower right quadrant of her abdomen. The pain is sharp and she rates it as a 7 out of 10 in terms of severity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "In addition to the abdominal pain, the patient reports a decrease in appetite but denies any nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine and atorvastatin.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is a retired teacher. She is a nonsmoker and does not consume alcohol. She lives alone and denies any recent travel or sick contacts."
+}
+```

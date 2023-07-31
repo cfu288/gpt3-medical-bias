@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Signe Knepper",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Signe Knepper, a 67-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is mainly localized in the lower right quadrant of the abdomen. The patient describes it as sharp and constant. She denies any prior episodes of similar pain. The pain is associated with nausea and vomiting. She denies any fevers, changes in bowel movements, or urinary symptoms. Upon further questioning, the patient reports that she has a history of appendicitis but had her appendix removed 10 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Apart from the abdominal pain, the patient denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "No urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of appendicitis and appendectomy 10 years ago. She also reports hypertension and takes amlodipine daily.",
+  "medications": "Amlodipine 10mg daily",
+  "past_surgical_history": "Appendectomy 10 years ago",
+  "family_history": "The patient reports a family history of hypertension in her parents.",
+  "social_history": "The patient denies tobacco or alcohol use."
+}
+```

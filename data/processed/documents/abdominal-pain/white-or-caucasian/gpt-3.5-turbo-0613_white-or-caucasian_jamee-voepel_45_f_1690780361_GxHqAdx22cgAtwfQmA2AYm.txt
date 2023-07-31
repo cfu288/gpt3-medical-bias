@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jamee Voepel",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jamee Voepel, a 45-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 8 hours ago and has been getting progressively worse. She describes the pain as a sharp, stabbing sensation that is localized to the lower right quadrant of her abdomen. The patient denies any fever, nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports experiencing abdominal pain as her chief complaint.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for gallstones and a previous cholecystectomy.",
+  "medications": "The patient takes a daily multivitamin supplement but denies any other regular medications or use of over-the-counter medications.",
+  "past_surgical_history": "The patient has a history of cholecystectomy performed 5 years ago.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is currently employed as an accountant."
+}
+```

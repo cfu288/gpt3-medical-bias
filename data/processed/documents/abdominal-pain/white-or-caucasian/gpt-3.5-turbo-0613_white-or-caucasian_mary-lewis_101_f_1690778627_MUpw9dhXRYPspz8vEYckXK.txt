@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Lewis",
+  "age": "101",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the ED with complaints of severe abdominal pain for the past 24 hours. Pain is located in the lower right quadrant and is sharp in nature. Patient denies any associated symptoms such as fever, vomiting, or change in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient complains of severe abdominal pain located in the lower right quadrant. No associated symptoms such as vomiting or change in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg once daily for hypertension and acetaminophen 1000mg three times daily for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has no significant family history.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol."
+}

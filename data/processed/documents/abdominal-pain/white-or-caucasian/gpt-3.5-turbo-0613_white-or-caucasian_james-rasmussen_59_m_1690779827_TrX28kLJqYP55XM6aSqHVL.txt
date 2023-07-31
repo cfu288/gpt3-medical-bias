@@ -1,0 +1,21 @@
+{
+  "patient_name": "James Rasmussen",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Rasmussen, presented to the emergency department with complaints of abdominal pain. He describes the pain as a sharp, cramping sensation located in the lower abdomen. The pain started approximately 6 hours ago and has been gradually worsening. He rates the pain intensity as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or difficulty breathing",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. He takes Lisinopril daily for blood pressure control.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "No significant family history of gastrointestinal diseases or malignancies",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

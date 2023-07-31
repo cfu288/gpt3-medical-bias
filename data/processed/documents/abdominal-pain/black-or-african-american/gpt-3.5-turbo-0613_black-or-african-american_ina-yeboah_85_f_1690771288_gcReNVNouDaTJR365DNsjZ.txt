@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ina Yeboah",
+  "age": "85",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Ina Yeboah, an 85-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started 2 hours ago after a heavy meal. She describes the pain as crampy and localized to the upper abdomen. The pain is associated with nausea but no vomiting. There is no history of fever, bloody stools, or recent travel. The patient denies any known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or difficulty breathing.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient complains of abdominal pain and nausea. There is no history of diarrhea, constipation, or changes in appetite.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "No complaints of joint pain or muscle weakness.",
+    "skin": "No skin lesions or rashes noted.",
+    "neurologic": "The patient denies any history of headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes metoprolol for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has no known family history of any significant illnesses.",
+  "social_history": "The patient is retired and lives alone. She denies any history of smoking, alcohol consumption, or illicit drug use."
+}
+```

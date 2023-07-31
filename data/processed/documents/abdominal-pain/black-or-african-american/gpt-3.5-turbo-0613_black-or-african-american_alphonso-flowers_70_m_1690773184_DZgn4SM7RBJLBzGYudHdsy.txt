@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonso Flowers",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Alphonso Flowers, a 70-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, constant pain in the lower abdomen that started about 8 hours ago. The pain is associated with nausea and vomiting. The patient denies any fever or diarrhea. His pain is not relieved with over-the-counter antacids. The patient reports a past medical history of hypertension and diabetes. He states that he takes medications for these conditions regularly. No recent surgeries. No significant family history of abdominal issues. The patient has a history of alcohol use but denies any recent alcohol consumption.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports nausea and vomiting, as mentioned in the history of present illness.",
+    "gu": "Patient denies any urinary issues or changes in urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Patient denies any changes in mental status or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, diabetes.",
+  "medications": "Patient takes medications for hypertension and diabetes, but specifics are unknown.",
+  "past_surgical_history": "No recent surgeries.",
+  "family_history": "No significant family history of abdominal issues.",
+  "social_history": "Patient has a history of alcohol use but denies any recent alcohol consumption."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amal Harris",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and has been constant since then. Patient describes the pain as a sharp, cramping sensation located in the lower right quadrant of the abdomen. She rates the pain as a 9 out of 10. Denies any recent trauma or injury. Reports associated symptoms of nausea and vomiting. Patient denies any urinary or bowel changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the primary symptom.",
+    "gu": "Patient denies any genital or urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any skin changes or lesions.",
+    "neurologic": "Patient denies any changes in mental status or neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has not had any previous surgeries.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Lives alone and works as a teacher."
+}

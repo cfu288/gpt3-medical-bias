@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jared Brownfield",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jared Brownfield, a 44-year-old male, presented to the emergency department with complaints of severe abdominal pain. He states that the pain started approximately 3 hours ago and is located in the lower right quadrant of his abdomen. He rates the pain as 8 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or fever. He reports no recent trauma or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath, cough, or wheezing",
+    "gi": "Abdominal pain as described above, no changes in appetite or bowel movements",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he is on lisinopril and atorvastatin respectively.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Negative for any previous surgeries",
+  "family_history": "Negative for any significant family history",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is married with two children and works as an accountant."
+}

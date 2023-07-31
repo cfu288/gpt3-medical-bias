@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Charley Jones",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Charley Jones, a 39-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is described as a sharp and constant pain located in the lower right quadrant of the abdomen. The pain is aggravated by movement and coughing. The patient denies any fever, nausea, vomiting, or changes in bowel movements. There is no history of similar symptoms in the past. On physical examination, the patient's abdomen is tender to palpation in the right lower quadrant with rebound tenderness. No guarding or rigidity is appreciated. Bowel sounds are present. Given the location, nature, and severity of the pain, the possibility of appendicitis is high. Further evaluation and diagnostic tests, including laboratory studies and imaging, will be done to confirm the diagnosis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the presenting complaint, the patient denies any abdominal distension, diarrhea, melena, or hematemesis.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient reports no significant past medical history and denies any chronic medical conditions.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of gastrointestinal disorders or surgical issues.",
+  "social_history": "The patient is a non-smoker, denies alcohol or recreational drug use, and is currently not sexually active."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosie Strong",
+  "age": "91",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Rosie Strong, a 91-year-old female, presents to the emergency department with complaints of abdominal pain. The pain is located in the lower right quadrant and started two days ago. It is sharp in nature and worsens with movement. The patient denies any nausea, vomiting, diarrhea, or urinary changes. She reports a decreased appetite and a mild fever. She denies any recent trauma or injury. Past medical history includes hypertension and osteoarthritis. No prior surgeries. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports a mild fever and decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Abdominal pain, but no nausea, vomiting, or diarrhea.",
+    "gu": "No urinary changes or pain.",
+    "musculoskeletal": "Patient reports a history of osteoarthritis but no new joint pain or swelling.",
+    "skin": "No rashes, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril 10 mg daily, acetaminophen as needed",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, lives alone, no known alcohol or drug use"
+}

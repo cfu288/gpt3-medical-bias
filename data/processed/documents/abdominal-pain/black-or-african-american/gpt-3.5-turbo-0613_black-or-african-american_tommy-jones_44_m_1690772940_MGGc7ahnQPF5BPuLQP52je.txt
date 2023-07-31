@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Jones",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tommy Jones, a 44-year-old male, presents to the emergency department with complaints of abdominal pain. The pain is located in the lower right quadrant and started earlier today. The patient describes the pain as sharp and constant, with a severity of 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel habits. There is no history of trauma or recent illness. Upon further questioning, the patient reports that the pain is worsened with movement and deep breathing.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath, cough, or sputum production.",
+    "gi": "Abdominal pain as described above. No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes daily medication. He has no other significant past medical history.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension. No other medications are reported.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient is employed as an accountant. He denies tobacco, alcohol, or illicit drug use."
+}

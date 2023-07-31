@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dorina Melton",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Dorina Melton, a 41-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, crampy sensation located in the lower right side of her abdomen. The pain started approximately 8 hours ago and has been steadily worsening. She denies any associated symptoms such as nausea, vomiting, or diarrhea. She has not noticed any changes in bowel movements or urine output. There is no history of trauma or recent travel. She denies any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports severe abdominal pain localized to the right lower quadrant. She denies any change in appetite, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history significant for appendectomy at age 16. She reports no other significant medical conditions.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "Appendectomy at age 16.",
+  "family_history": "The patient reports a family history of heart disease in her father, but no other significant family history.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

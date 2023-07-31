@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clara Archer",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Clara Archer, a 60-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right abdomen. The pain is sharp, constant, and worsens with movement. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as the chief complaint. There are no associated symptoms of nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient reports no joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and type 2 diabetes.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

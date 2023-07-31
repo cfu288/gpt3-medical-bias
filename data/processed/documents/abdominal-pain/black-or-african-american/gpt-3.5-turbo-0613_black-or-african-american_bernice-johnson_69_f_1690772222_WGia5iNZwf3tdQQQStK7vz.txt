@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernice Johnson",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, a 69-year-old female, presented to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower abdomen. The patient reports that the pain is constant and sharp, with a rating of 8 out of 10. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon further questioning, the patient states that she has not experienced any recent trauma or injury to the area. The pain has been progressively worsening and is not relieved by over-the-counter pain medications. She decided to come to the emergency department due to the severity and persistence of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her main symptom. Denies any nausea, vomiting, diarrhea, or blood in stools.",
+    "gu": "The patient denies any urinary symptoms such as burning or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and acetaminophen as needed for arthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports that her father had a history of colon cancer, but there is no other significant family history of note.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She lives independently and is retired from her previous job as a teacher."
+}

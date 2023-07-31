@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie Granger",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Bettie Granger, an 82-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 4 hours ago and is located in the lower right quadrant. She denies any associated symptoms such as nausea, vomiting, or change in bowel movements. She describes the pain as sharp and constant. The pain has not improved with over-the-counter pain medications. Patient states that she has never experienced this type of pain before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient presents with abdominal pain as chief complaint. Denies melena, hematemesis, diarrhea, or constipation.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has a past surgical history of cholecystectomy (gallbladder removal) in 2005.",
+  "family_history": "Patient's father had a history of colon cancer.",
+  "social_history": "Patient is retired and lives alone. She denies smoking or alcohol use."
+}

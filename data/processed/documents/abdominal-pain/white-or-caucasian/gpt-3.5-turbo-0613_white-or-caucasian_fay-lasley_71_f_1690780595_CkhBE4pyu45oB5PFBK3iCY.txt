@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fay Lasley",
+  "age": "71",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Fay Lasley, a 71-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. It is sharp in nature and has been progressively worsening. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing.",
+    "gi": "Presents with abdominal pain as chief complaint. Denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "Denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any rashes or skin lesions.",
+    "neurologic": "Denies any changes in mental status or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin as prescribed medications.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

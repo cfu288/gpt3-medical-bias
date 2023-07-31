@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sean Hall",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sean Hall, a 48-year-old male, presents to the emergency department with complaints of abdominal pain. The pain is described as sharp and localized to the lower right quadrant of the abdomen. He states that the pain started about 6 hours ago and has progressively worsened. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. The patient reports no known trauma or recent travel. On examination, there is tenderness and guarding in the right lower quadrant of the abdomen. No rebound tenderness or rigidity is noted. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is on regular medication for these conditions.",
+  "medications": "The patient's current medications include lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of cardiovascular disease, with his father having a myocardial infarction at age 63.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use. He is married and works as an accountant."
+}

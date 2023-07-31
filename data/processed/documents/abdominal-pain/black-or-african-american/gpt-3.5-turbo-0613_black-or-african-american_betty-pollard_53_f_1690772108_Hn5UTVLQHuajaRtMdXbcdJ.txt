@@ -1,0 +1,20 @@
+{ "patient_name": "Betty Pollard",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Betty Pollard, is a 53-year-old female who presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 6 hours ago and is located in the right lower quadrant. She describes the pain as sharp and constant, with no radiation. The pain is exacerbated by movement and is associated with nausea and vomiting. She denies any changes in bowel movements or urinary symptoms. On examination, the abdomen is tender to palpation in the right lower quadrant with guarding.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports persistent nausea and vomiting.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril and Atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother has a history of breast cancer.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol."
+}

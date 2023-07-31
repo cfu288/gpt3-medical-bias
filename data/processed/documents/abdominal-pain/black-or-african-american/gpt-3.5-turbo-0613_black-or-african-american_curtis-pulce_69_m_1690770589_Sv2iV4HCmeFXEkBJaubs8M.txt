@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Curtis Pulce",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Curtis Pulce, a 69-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant, dull ache that started in the lower abdomen and has now spread to the entire abdomen. The pain began approximately 12 hours ago and has been gradually worsening. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He also mentions that he has not had any bowel movements in the past 24 hours.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension and type 2 diabetes. He reports being non-compliant with his medications and has not seen a physician in several years.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is retired. He reports being a former smoker with a 40-pack-year history. He quit smoking 2 years ago. He denies any alcohol or illicit drug use."
+}
+```

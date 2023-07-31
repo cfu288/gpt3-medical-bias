@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Augustin Wilson",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Augustin Wilson, a 69-year-old male, presents to the emergency department with complaints of abdominal pain. The pain began approximately 6 hours ago and is localized to the lower right quadrant. The patient rates the pain as 8 out of 10 in intensity. He denies any associated symptoms such as nausea, vomiting, or fever. Upon further questioning, the patient reports a history of constipation and occasional episodes of abdominal discomfort in the past but states this pain is different and more severe. He denies any recent dietary or medication changes. Physical examination reveals tenderness in the right lower quadrant with positive rebound and guarding. Based on the patient's presentation, a possible diagnosis of acute appendicitis is considered. Further investigations are planned including laboratory tests and imaging.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Presents with abdominal pain as chief complaint, denies any associated symptoms such as nausea or vomiting",
+    "gu": "No dysuria or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Denies any headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Patient reports a history of constipation and occasional episodes of abdominal discomfort in the past",
+  "medications": "No regular medications, takes occasional over-the-counter laxatives for constipation",
+  "past_surgical_history": "No previous abdominal surgeries",
+  "family_history": "No significant family history of gastrointestinal conditions",
+  "social_history": "Patient is retired and lives with his spouse. Denies tobacco or alcohol use"
+}
+```

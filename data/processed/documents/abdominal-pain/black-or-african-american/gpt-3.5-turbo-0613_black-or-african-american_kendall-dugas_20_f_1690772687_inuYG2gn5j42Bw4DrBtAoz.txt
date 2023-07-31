@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kendall Dugas",
+  "age": "20",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Kendall Duga, a 20-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as constant and localized in the lower right quadrant of her abdomen. The pain began approximately 6 hours ago and has been worsening since. The patient denies any associated symptoms such as nausea, vomiting, or fever. She states that she has not had any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or difficulty breathing.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain and denies any nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not currently taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "There is no known family history of any significant medical conditions.",
+  "social_history": "The patient denies any smoking, alcohol, or drug use. She is a college student and lives on campus."
+}
+```

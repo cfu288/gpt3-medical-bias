@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ralf Lee",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Lee is a 60-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly earlier today and is located in the upper right quadrant of the abdomen. He describes the pain as a sharp, stabbing sensation that radiates to his back. He denies any associated symptoms such as nausea, vomiting, or fever. The pain is constant and has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, difficulty breathing, or wheezing.",
+    "gi": "Patient reports abdominal pain, denies bloating, diarrhea, or constipation.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia for which he takes lisinopril and atorvastatin daily. He had an appendectomy in his 20s.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 40 mg daily",
+  "past_surgical_history": "1. Appendectomy in 20s",
+  "family_history": "Patient's father had a history of heart disease and died from a myocardial infarction.",
+  "social_history": "Mr. Lee is a non-smoker, non-drinker, and denies any illicit drug use. He is married with two children and lives an active lifestyle."
+}

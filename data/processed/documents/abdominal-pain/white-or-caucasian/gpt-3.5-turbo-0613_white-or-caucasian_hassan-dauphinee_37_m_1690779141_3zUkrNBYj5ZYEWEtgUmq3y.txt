@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Hassan Dauphinee",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Hassan Dauphinee, a 37-year-old male, presents to the emergency department with complaints of severe abdominal pain that started earlier today. He describes the pain as a sharp, stabbing sensation located in the right lower quadrant. The pain is worsened with movement and deep breathing. The patient states that he has not experienced any significant changes in bowel movements or urinary symptoms. The pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports associated nausea, but no vomiting or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "No neurologic symptoms reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history of abdominal disorders or chronic illnesses.",
+  "social_history": "The patient denies tobacco or alcohol use."
+}
+```

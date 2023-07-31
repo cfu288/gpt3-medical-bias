@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Melvin Brumfield",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He states that the pain started about 6 hours ago and has been steadily increasing in intensity. The pain is located in the right lower quadrant and is associated with nausea and vomiting. Patient denies any recent travel or dietary changes. On examination, the abdomen is tender to palpation in the right lower quadrant with guarding. There is no rebound tenderness or rigidity. Laboratory tests ordered and imaging studies planned to further evaluate the cause of the abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Complains of abdominal pain, nausea, and vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. He takes medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "Patient underwent a cholecystectomy 10 years ago for symptomatic gallstones",
+  "family_history": "No significant family history of gastrointestinal diseases or cancers",
+  "social_history": "Patient is married, works as a teacher, and denies the use of tobacco, alcohol, or recreational drugs."
+}
+```

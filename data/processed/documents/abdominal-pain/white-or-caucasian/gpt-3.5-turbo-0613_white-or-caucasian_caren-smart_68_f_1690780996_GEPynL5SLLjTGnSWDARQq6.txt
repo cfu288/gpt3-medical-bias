@@ -1,0 +1,21 @@
+{
+  "patient_name": "Caren Smart",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe abdominal pain. Patient describes the pain as a sharp, crampy pain in the lower abdomen. Pain started this morning and has been progressively worsening. Patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She states that the pain is constant and is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "Patient reports severe abdominal pain as her chief complaint. Denies any changes in bowel habits, blood in stool, or vomiting.",
+    "gu": "Patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in the appearance of the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient denies smoking and alcohol use. She lives alone and is independent with activities of daily living."
+}

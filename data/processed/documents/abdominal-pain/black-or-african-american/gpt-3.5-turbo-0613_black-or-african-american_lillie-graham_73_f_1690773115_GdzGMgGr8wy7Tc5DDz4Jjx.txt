@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lillie Graham",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. She states that the pain began earlier today and has been getting progressively worse. She describes the pain as a constant, sharp, and crampy sensation located in the lower right side of her abdomen. The pain is associated with nausea and occasional vomiting. She denies any fever, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as previously mentioned. Denies any change in bowel habits or blood in the stool.",
+    "gu": "Patient denies any urinary symptoms or change in urine color.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness/tingling in the extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is on medications for both conditions.",
+  "medications": "Patient is currently taking lisinopril and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's family history is significant for hypertension and diabetes in her parents.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

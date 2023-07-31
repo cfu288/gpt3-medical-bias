@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vicky Abbott",
+  "age": "58",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started earlier today. Patient states that the pain is located in the lower right quadrant and is sharp and persistent. Patient denies any recent trauma or injury to the abdomen. Vital signs stable upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as chief complaint.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient had an appendectomy at the age of 30.",
+  "family_history": "Patient's mother had a history of ovarian cancer.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or drug use."
+}

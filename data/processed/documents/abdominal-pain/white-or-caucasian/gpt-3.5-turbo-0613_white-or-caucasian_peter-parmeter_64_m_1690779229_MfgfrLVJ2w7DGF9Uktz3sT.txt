@@ -1,0 +1,21 @@
+{
+  "patient_name": "Peter Parmeter",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Peter Parmeter, is a 64-year-old male who presented with complaints of severe abdominal pain. He states that the pain started suddenly and is located in the lower right side of his abdomen. He rates the pain as 8 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He reports that the pain has been progressively worsening over the past 24 hours and is significantly limiting his daily activities. There is no history of trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "No headaches or changes in coordination"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin, respectively. He has no known allergies.",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any major illnesses or conditions.",
+  "social_history": "The patient is retired and lives alone. He has a history of smoking but quit 5 years ago. He denies any alcohol or illicit drug use."
+}

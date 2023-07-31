@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marissa Ward",
+  "age": "29",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Marissa Ward, is a 29-year-old female who presents to the emergency department with complaints of severe abdominal pain. The pain started abruptly about 2 hours ago and is located in the lower right side of the abdomen. Marissa describes the pain as sharp and constant, with a rating of 8 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. Marissa reports no recent trauma or injury. She states that this is the first time she has experienced this type of pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports severe abdominal pain as her chief complaint. No other gastrointestinal symptoms are present.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history. She reports occasional episodes of indigestion in the past but no prior hospitalizations.",
+  "medications": "The patient does not take any medications regularly. She takes over-the-counter antacids occasionally for indigestion but has not taken any recently.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family medical history.",
+  "social_history": "The patient is a non-smoker and does not drink alcohol. She is currently unemployed and denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donna Robert",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Donna Robert presented to the emergency department with a complaint of severe abdominal pain. The pain started earlier today and is localized to the lower right side of the abdomen. She reports that the pain started suddenly and has been constant since then. There is no history of trauma or any recent illness. She denies any associated symptoms such as fever, vomiting, or changes in bowel movements. The pain is not relieved by over-the-counter pain medications. Upon further questioning, she also reports experiencing some nausea and a decrease in appetite.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production or difficulty breathing.",
+    "gi": "Patient reports nausea and a decrease in appetite. No other gastrointestinal symptoms reported.",
+    "gu": "Patient denies any urinary symptoms such as urgency, frequency or pain.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or changes in the skin.",
+    "neurologic": "Patient denies any headache, dizziness or neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is currently taking lisinopril for blood pressure control and simvastatin for cholesterol management.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient denies any significant family history of chronic diseases.",
+  "social_history": "Patient is a non-smoker and reports occasional alcohol consumption."
+}

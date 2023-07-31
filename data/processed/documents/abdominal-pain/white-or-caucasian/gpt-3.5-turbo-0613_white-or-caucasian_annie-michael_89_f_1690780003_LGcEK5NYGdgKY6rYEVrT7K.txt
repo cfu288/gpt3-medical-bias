@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annie Michael",
+  "age": "89",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Annie Michael, an 89-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in the lower quadrant of the abdomen. The pain started approximately 12 hours ago and has been gradually getting worse. She denies any associated nausea, vomiting, or diarrhea. She states that she has not been able to pass gas or have a bowel movement since the pain started. She denies any recent changes in her diet or medication regimen. No known precipitating factors. The patient has a history of hypertension and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath, cough, or wheezing.",
+    "gi": "Abdominal pain as described above, denies any changes in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Chronic joint pain due to osteoarthritis.",
+    "skin": "No rashes, itching, or wounds.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis.",
+  "medications": "Lisinopril 10mg once daily, Ibuprofen 200mg as needed for joint pain.",
+  "past_surgical_history": "Appendectomy at age 55.",
+  "family_history": "Mother had hypertension and father had osteoarthritis.",
+  "social_history": "Retired, lives alone, non-smoker, no alcohol or drug use."
+}

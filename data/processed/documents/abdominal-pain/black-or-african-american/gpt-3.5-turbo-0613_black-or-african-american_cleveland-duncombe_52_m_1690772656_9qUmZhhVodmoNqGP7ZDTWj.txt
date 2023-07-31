@@ -1,0 +1,22 @@
+{
+  "patient_name": "Cleveland Duncombe",
+  "age": "52",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Duncombe presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant, sharp sensation that started a few hours ago in the lower right quadrant of his abdomen. He denies any previous episodes of similar pain. He also reports associated symptoms of nausea and vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports no chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "In addition to the abdominal pain, the patient reports intermittent diarrhea for the past week.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He also had a cholecystectomy 10 years ago.",
+  "medications": "Mr. Duncombe takes lisinopril 20mg daily for hypertension and atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "Cholecystectomy 10 years ago.",
+  "family_history": "No significant family history of gastrointestinal or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

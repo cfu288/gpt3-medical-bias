@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sangeeta Waldner",
+  "age": "47",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Sangeeta Waldner, a 47-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started approximately 6 hours ago and has progressively worsened. She describes the pain as a sharp, stabbing sensation located in the lower right quadrant of her abdomen. She denies any associated symptoms such as fever, nausea, or vomiting. Upon further questioning, she reports having a history of occasional constipation but denies any recent changes in bowel habits. She denies any known history of gallbladder or kidney stones. The pain is not relieved with over-the-counter medications. There is no history of recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain. Negative for nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medications for it.",
+  "medications": "The patient takes lisinopril for blood pressure control.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

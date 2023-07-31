@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ioannis White",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe abdominal pain. Pain is located in the lower right quadrant and has been present for the past 24 hours. Patient describes the pain as sharp and intermittent. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon further questioning, patient reports a history of similar episodes in the past, which were diagnosed as appendicitis and treated surgically. Patient states that the pain is similar to his previous episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain without any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of appendicitis, for which he had an appendectomy in 2010. Otherwise, he has no significant past medical history.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Patient has a history of appendectomy in 2010.",
+  "family_history": "Patient's family history is non-contributory.",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. He works as a software engineer and lives with his wife and two children."
+}

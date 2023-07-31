@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valerie Auch",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Ms. Auch is a 57-year-old female presenting to the emergency department with complaints of severe abdominal pain. She reports that the pain started approximately 12 hours ago and has been steadily worsening. She describes the pain as a sharp, constant pain in the lower right quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She states that the pain is becoming unbearable and she is unable to find any position of comfort. There is no history of trauma or recent illness. She has not taken any medication for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Negative for any joint pain or muscle weakness",
+    "skin": "Negative for any rash or skin changes",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Ms. Auch has a past medical history significant for hypertension and hyperlipidemia. She takes lisinopril 10mg daily and atorvastatin 20mg daily for these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Ms. Auch has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of any medical conditions or diseases.",
+  "social_history": "Ms. Auch is a non-smoker and does not consume alcohol. She works as a teacher and lives alone."
+}

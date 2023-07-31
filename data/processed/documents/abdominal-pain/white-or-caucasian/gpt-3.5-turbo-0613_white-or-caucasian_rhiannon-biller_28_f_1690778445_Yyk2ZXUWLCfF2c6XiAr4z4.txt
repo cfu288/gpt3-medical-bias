@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhiannon Biller",
+  "age": "28",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started 6 hours ago. She describes the pain as a constant, sharp, and cramping sensation in the lower abdomen. The pain is accompanied by nausea and vomiting. She denies any fever, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or fatigue.",
+    "cardiovascular": "Denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, the patient denies any other gastrointestinal symptoms such as diarrhea, constipation, or blood in stool.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies any joint pain or stiffness.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of gastroesophageal reflux disease (GERD) and is currently taking omeprazole.",
+  "medications": "Omeprazole 20mg once daily for GERD.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "No significant family history of gastrointestinal disorders or other relevant conditions.",
+  "social_history": "Patient denies tobacco or alcohol use. She is currently employed as a teacher."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sharlene Mckoy",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ms. Mckoy, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago, and she describes it as a constant, cramping sensation located in the lower right quadrant of her abdomen. She rates the pain as 8 out of 10 on the pain scale. She denies any recent trauma or falls that could have caused the pain. She states that the pain has worsened over the past few hours and is associated with nausea but no vomiting. She has not had any bowel movements since the pain started. She denies any fever or chills. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, malaise, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports severe abdominal pain, nausea, but no vomiting or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug abuse."
+}
+```

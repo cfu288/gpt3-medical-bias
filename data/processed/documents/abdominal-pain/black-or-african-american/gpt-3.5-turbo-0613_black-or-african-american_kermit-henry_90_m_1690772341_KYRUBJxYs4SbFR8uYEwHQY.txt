@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kermit Henry",
+  "age": "90",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Kermit Henry, a 90-year-old male, presented to the emergency department with complaints of severe abdominal pain. According to the patient, the pain started suddenly and is located in the lower abdomen. He describes the pain as a sharp, stabbing sensation. The pain has been constant and worsening over the past few hours. The patient denies any nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports severe abdominal pain as the primary symptom.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or ulcers.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. He has no history of abdominal surgeries or other significant medical conditions.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of hypertension in his parents.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}
+```

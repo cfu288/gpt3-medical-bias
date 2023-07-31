@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cassandra Hamilton",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents with complaints of severe abdominal pain that started two hours ago. Patient describes the pain as sharp and localized to the upper right quadrant. She states that the pain is constant and has not improved with over-the-counter pain medications. Patient denies any recent changes in diet or bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the chief complaint. Denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin abnormalities.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication to control her blood pressure.",
+  "medications": "Patient takes Amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's family history is significant for hypertension and diabetes.",
+  "social_history": "Patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

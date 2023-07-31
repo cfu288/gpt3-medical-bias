@@ -1,0 +1,21 @@
+{
+  "patient_name": "Loan Comer",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. Patient describes the pain as a sharp, crampy sensation that is localized to the right lower quadrant. Pain is worsened with movement and deep breathing. Denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or dyspnea.",
+    "gi": "Patient reports a history of intermittent abdominal pain, but denies any recent changes in bowel movements, black stools, or visible blood in the stool.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of irritable bowel syndrome.",
+  "medications": "Patient takes over-the-counter medications for occasional abdominal cramps.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of gastrointestinal diseases or cancers.",
+  "social_history": "Patient works as a software engineer and denies any tobacco, alcohol, or recreational drug use."
+}

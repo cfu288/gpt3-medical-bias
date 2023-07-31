@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbert Goodson",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. Patient reports that the pain is constant and worsens with movement. He denies any associated symptoms like nausea, vomiting, or changes in bowel movements. Upon further questioning, patient reports a past medical history of hypertension and type 2 diabetes. He takes lisinopril for his blood pressure and metformin for diabetes control. Patient also had an appendectomy in his twenties. Patient denies any known family history of abdominal disorders. Social history is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Besides the abdominal pain, patient denies any gastrointestinal symptoms like diarrhea or changes in appetite",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Hypertension, type 2 diabetes",
+  "medications": "Lisinopril, Metformin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No known history of abdominal disorders in the family",
+  "social_history": "Patient denies tobacco, alcohol, or drug use"
+}

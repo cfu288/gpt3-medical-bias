@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Darin Thompson",
+  "age": "23",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Darin Thompson, a 23-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right side of the abdomen. The patient reports that the pain is constant and sharp in nature. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon further questioning, he reports that the pain worsens with movement and is relieved by rest. He has not noticed any triggers or alleviating factors. The pain has progressively worsened since its onset.",
+  "review_of_symptoms": {
+    "constitutional": "No history of fever, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No history of cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports no history of diarrhea, constipation, or blood in stool.",
+    "gu": "No history of dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "No history of rashes, itching, or skin discoloration.",
+    "neurologic": "No history of headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "There is no significant family history of abdominal conditions or other medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is currently employed as a software engineer and denies exposure to any hazardous substances."
+}
+```

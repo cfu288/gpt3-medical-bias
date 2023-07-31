@@ -1,0 +1,21 @@
+{
+  "patient_name": "Delilah Allen",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Delilah Allen, a 45-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started last night and has persisted and worsened since then. The pain is located in the lower right quadrant of the abdomen and is sharp in nature. She denies any associated symptoms such as nausea, vomiting, changes in bowel movements, or urinary symptoms. She has tried over-the-counter pain medications but has not found relief. She denies any recent trauma or injury to the abdomen. On examination, the patient appears uncomfortable and is writhing in pain. Her vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and temperature of 98.6°F. Abdominal examination reveals tenderness and guarding in the lower right quadrant, with no rebound tenderness or rigidity. There is no palpable mass or hernia. Bowel sounds are present and normal.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to her abdominal pain, the patient denies any other gastrointestinal symptoms such as nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or recent injuries.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes. She takes medications for both conditions, including lisinopril and metformin.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes. Her mother and brother both have been diagnosed with these conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is married and works as a teacher."
+}

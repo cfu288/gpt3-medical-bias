@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duncan Johnson",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Duncan Johnson, a 50-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and is associated with nausea and vomiting. The pain started 8 hours ago and has been worsening since then. The patient denies any recent trauma or injury. He has not had any bowel movements since the onset of pain. Vital signs upon arrival are stable with a heart rate of 90 bpm, blood pressure of 130/80 mmHg, respiratory rate of 18 breaths per minute, and temperature of 98.6°F.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, nausea, and vomiting.",
+    "gu": "No urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking medication for it.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of note.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

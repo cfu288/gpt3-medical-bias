@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laurence Bacon",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Laurence Bacon, is a 68-year-old male who presents to the emergency department with complaints of abdominal pain. He states that the pain started approximately 12 hours ago and is located in the epigastric region. He describes the pain as a sharp, stabbing sensation that is worsened by eating and movement. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He denies any recent trauma or injuries. He also denies any history of similar episodes in the past. The pain has gradually worsened since its onset and is now interfering with his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as mentioned in the chief complaint. Negative for vomiting, diarrhea, or melena.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rashes, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia. He reports good compliance with his medications.",
+  "medications": "1. Lisinopril - 10mg daily\n2. Atorvastatin - 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension in his father.",
+  "social_history": "The patient is a retired teacher. He lives alone and denies any tobacco or alcohol use."
+}

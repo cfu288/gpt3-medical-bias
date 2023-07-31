@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brad Meyer",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. He describes the pain as a dull ache located in the lower right quadrant of the abdomen. The pain started approximately 6 hours ago and has been constant in nature. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The patient reports no recent travel or dietary changes that could explain the onset of symptoms. He states that he has not previously experienced abdominal pain of this nature.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient's chief complaint of abdominal pain is addressed in the history of present illness section.",
+    "gu": "Patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, muscle aches, or stiffness.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is currently well-controlled with medication. He has no other significant past medical history.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has a family history of type 2 diabetes on his maternal side.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

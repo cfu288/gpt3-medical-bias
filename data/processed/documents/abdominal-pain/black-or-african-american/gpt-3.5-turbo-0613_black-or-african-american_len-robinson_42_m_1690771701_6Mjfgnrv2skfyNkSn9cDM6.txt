@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Len Robinson",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Len Robinson, a 42-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is located in the right lower quadrant. The patient describes the pain as sharp and constant, with a severity of 8 out of 10. He states that the pain worsens with movement and is not relieved by over-the-counter pain medication. The patient denies any fever, nausea, vomiting, or changes in bowel movements. No significant urinary symptoms or rash reported. He has no past history of similar episodes or abdominal surgeries. The patient reports no recent trauma or injuries. ",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficit"
+  },
+  "past_medical_history": "No significant past medical history. Patient is generally healthy and does not take any chronic medications.",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of abdominal conditions or surgeries",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and lives with his wife and two children."
+}
+```

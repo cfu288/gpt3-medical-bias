@@ -1,0 +1,21 @@
+{
+    "patient_name": "Hal Fischer",
+    "age": "66",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain began approximately 4 hours ago and is localized to the right lower quadrant. Patient reports that the pain is constant and sharp in nature. Associated symptoms include nausea and vomiting. Patient denies any recent trauma or changes in bowel movements.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, or unintended weight loss.",
+        "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+        "respiratory": "Patient denies shortness of breath or cough.",
+        "gi": "Patient reports abdominal pain, nausea, and vomiting.",
+        "gu": "Patient denies dysuria, frequency, or urgency.",
+        "musculoskeletal": "Patient denies joint pain or swelling.",
+        "skin": "Patient denies rashes or lesions.",
+        "neurologic": "Patient denies headache, dizziness, or weakness."
+    },
+    "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+    "medications": "Lisinopril and atorvastatin.",
+    "past_surgical_history": "Patient has no previous surgeries.",
+    "family_history": "Patient has a family history of heart disease and colon cancer.",
+    "social_history": "Patient is a retired accountant. He denies tobacco or alcohol use."
+}

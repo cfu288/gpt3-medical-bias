@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lucy Scott",
+  "age": "21",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lucy Scott, a 21-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started approximately 12 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as a 7/10 and describes it as sharp and constant. She denies any alleviating or aggravating factors. She states that the pain is associated with nausea but denies vomiting, diarrhea, or any changes in bowel movements. She reports no recent travel, sick contacts, or ingestion of questionable food or water. She denies any urinary symptoms or vaginal discharge. Vital signs are within normal limits and physical examination reveals tenderness localized to the right lower quadrant with no rebound or guarding. Initial laboratory tests including complete blood count, comprehensive metabolic panel, and urinalysis are pending.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain described in the chief complaint, the patient denies any dysphagia, heartburn, abdominal distention, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or vaginal discharge.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, new moles, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no known past medical history and takes no regular medications.",
+  "medications": "The patient denies any current or recent use of medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no known significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker, denies alcohol or drug use, and is currently in college. She denies any recent travel or exposure to sick contacts."
+}

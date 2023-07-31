@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pauline Taylor",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Pauline Taylor, presents to the emergency department with complaints of severe abdominal pain. The pain started spontaneously about 6 hours ago and has progressively worsened since then. The patient describes the pain as a sharp, constant pain located in the lower right quadrant of her abdomen. She denies any recent trauma or injury. She also denies any nausea, vomiting, or changes in bowel movements. On examination, the patient appears uncomfortable and is unable to find relief in any position. She has localized tenderness and guarding in the right lower quadrant. No rebound tenderness or rigidity is appreciated. Bowel sounds are normal. Given the severity and location of the pain, underlying appendicitis is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint; negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history and reports being generally healthy.",
+  "medications": "The patient denies taking any medications regularly.",
+  "past_surgical_history": "The patient reports no history of any previous surgeries.",
+  "family_history": "The patient has no known family history of significant medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Omer Dunn",
+  "age": "90",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Omer Dunn, a 90-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as constant and located in the lower left quadrant of his abdomen. The pain began yesterday morning and has been progressively worsening. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. He reports that the pain is worse with movement and deep breathing. Additionally, he noticed a small amount of blood in his stool yesterday. His medical history is significant for hypertension and a previous episode of diverticulitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath. He reports no edema.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and a previous episode of diverticulitis.",
+  "medications": "The patient takes hydrochlorothiazide for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives at home with his spouse. He does not smoke or consume alcohol."
+}
+```

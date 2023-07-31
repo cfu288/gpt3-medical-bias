@@ -1,0 +1,27 @@
+{
+  "patient_name": "Bijan Tomkins",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bijan Tomkins, is a 41-year-old male presenting to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant. The pain is constant and sharp, and it is aggravated by movement. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. There is no history of trauma or recent changes in bowel habits. Upon further questioning, the patient reports that he has been experiencing intermittent episodes of abdominal pain for the past few weeks, but this episode is the most severe. He does not have any significant medical history and has not undergone any recent surgeries.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Current episode of severe abdominal pain, denies nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headaches or dizziness"
+  },
+
+  "past_medical_history": "Patient reports no significant past medical history.",
+
+  "medications": "No current medications.",
+
+  "past_surgical_history": "No history of surgical procedures.",
+
+  "family_history": "No significant family history of gastrointestinal diseases.",
+
+  "social_history": "Patient denies tobacco or alcohol use. No history of illicit drug use."
+}

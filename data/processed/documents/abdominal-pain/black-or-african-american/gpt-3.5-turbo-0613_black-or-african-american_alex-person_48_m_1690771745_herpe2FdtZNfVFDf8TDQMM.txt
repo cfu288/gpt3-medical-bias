@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alex Person",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alex Person, a 48-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 8 hours ago and is located in the lower right quadrant. The patient reported that the pain has been progressively worsening and is now accompanied by nausea and vomiting. There is no history of trauma or recent illness. The patient denies any recent changes in bowel movements or urinary symptoms. Vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain, which is the chief complaint.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, which are well-controlled with medication. He also had an appendectomy in childhood.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient had an appendectomy in childhood and has no other significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as an accountant and is married with two children."
+}

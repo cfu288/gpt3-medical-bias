@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thelma Miller",
+  "age": "94",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Thelma Miller, a 94-year-old female, presents to the emergency department with complaints of abdominal pain. The pain is located in the upper abdomen and is sharp in nature. The pain started approximately 2 hours ago and has been constant since then. The patient rates the pain as 7 out of 10 in intensity. She denies any associated symptoms such as nausea, vomiting, or diarrhea. She states that the pain is not relieved by any specific position or medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or pigmentation changes.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes amlodipine for hypertension and acetaminophen for arthritis pain.",
+  "past_surgical_history": "The patient has a history of cholecystectomy.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "The patient lives alone and denies tobacco, alcohol, or drug use."
+}

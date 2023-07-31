@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerre Williams",
+  "age": "79",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Williams, is a 79-year-old male who presents to the emergency department with complaints of abdominal pain. He describes the pain as a dull ache in his lower abdomen that started yesterday and has been gradually increasing in intensity. He rates the pain as a 7 out of 10. He states that the pain is constant and is not relieved by over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He reports no recent changes in bowel movements or urine output.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as his chief complaint.",
+    "gu": "Patient denies urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and high cholesterol which are managed with medication. He has had an appendectomy in the past. No other significant medical history.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for high cholesterol.",
+  "past_surgical_history": "The patient has a history of appendectomy.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. He denies tobacco or alcohol use."
+}

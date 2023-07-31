@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geri Living",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Geri Living, a 50-year-old female, presented to the emergency department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is described as a constant, dull ache in the upper abdomen. The pain is not relieved with over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She reports no recent travel or exposure to sick individuals. Her medical history is significant for gastroesophageal reflux disease and hypertension. She takes omeprazole and lisinopril for these conditions. The patient denies any recent surgical procedures. Her family history and social history are non-contributory.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports upper abdominal pain but denies any nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Gastroesophageal reflux disease, hypertension",
+  "medications": "Omeprazole, lisinopril",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Non-contributory"
+}

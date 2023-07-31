@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leta Ragland",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Leta Ragland, an 81-year-old female, presents to the Emergency Department with complaints of severe abdominal pain. She states that the pain started a few hours ago and has steadily worsened. She describes the pain as sharp and localized to the right lower quadrant. There is no relieving factor and the pain is constant. The patient denies any changes in her bowel movements, nausea, or vomiting. She denies any recent trauma or falls. The patient has not noticed any blood in her stool or urine. She denies any recent changes in her diet or exercise habits. The patient has a past medical history of hypertension and osteoarthritis. She takes lisinopril for her blood pressure and ibuprofen for her joint pain. There is no history of abdominal surgeries. The patient has no family history of gastrointestinal diseases or cancers. She is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Reports abdominal pain as the chief complaint. Denies nausea, vomiting, diarrhea, constipation, or blood in stool.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Reports joint pain due to osteoarthritis. No recent trauma or falls.",
+    "skin": "Denies rash, itching, or changes to skin.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Osteoarthritis",
+  "medications": "Lisinopril, Ibuprofen",
+  "past_surgical_history": "No previous abdominal surgeries",
+  "family_history": "No family history of gastrointestinal diseases or cancers",
+  "social_history": "Nonsmoker, denies alcohol or illicit drug use"
+}

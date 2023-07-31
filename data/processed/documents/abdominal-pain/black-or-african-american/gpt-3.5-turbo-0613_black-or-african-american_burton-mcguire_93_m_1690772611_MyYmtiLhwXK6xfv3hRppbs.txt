@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Burton Mcguire",
+  "age": "93",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Burton Mcguire, a 93-year-old male, presented to the emergency department with complaints of severe abdominal pain. He reports that the pain started suddenly around 2 hours ago and is located in the lower abdomen. He rates the pain as 8/10 in intensity. The pain is constant and is not associated with any provoking or relieving factors. The patient denies any nausea, vomiting, diarrhea, or changes in bowel movements. He also denies any urinary symptoms. There is no history of trauma or recent illness. Upon further questioning, the patient reports feeling bloated and having difficulty passing gas. He denies any chest pain, shortness of breath, or palpitations. The patient has never experienced similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or history of heart disease.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports severe abdominal pain, bloating, and difficulty passing gas.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. He is not on any medications for these conditions.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or drink alcohol."
+}
+```

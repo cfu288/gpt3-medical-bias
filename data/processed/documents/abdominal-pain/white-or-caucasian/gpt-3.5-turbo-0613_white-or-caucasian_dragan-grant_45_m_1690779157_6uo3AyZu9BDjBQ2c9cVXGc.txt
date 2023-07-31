@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dragan Grant",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Dragan Grant, a 45-year-old male, presents to the emergency department with chief complaint of abdominal pain. The pain started approximately 12 hours ago and is located in the right lower quadrant. It is described as sharp and constant, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports abdominal pain as mentioned in the chief complaint. There is no associated diarrhea or rectal bleeding.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for diabetes in his father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

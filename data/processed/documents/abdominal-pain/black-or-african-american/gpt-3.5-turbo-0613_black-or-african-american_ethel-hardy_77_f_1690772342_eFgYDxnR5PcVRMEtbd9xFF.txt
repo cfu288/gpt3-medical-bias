@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ethel Hardy",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, Ethel Hardy, a 77-year-old female, presents to the emergency department with chief complaint of severe abdominal pain. The pain is located in the lower right quadrant and started approximately 6 hours ago. It is sharp and continuous in nature, and the patient rates it as 8 out of 10 on the pain scale. She denies any associated fever or chills. In the past 24 hours, she has experienced nausea and has had difficulty passing gas. She denies any recent trauma or similar episodes of pain. On examination, the abdomen is tender to palpation in the lower right quadrant with guarding. No rebound tenderness or rigidity is noted. Bowel sounds are decreased in the affected area. Based on the history and examination findings, appendicitis is suspected."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "As mentioned in the history of present illness, the patient has experienced nausea and has had difficulty passing gas. She denies any vomiting, diarrhea, or blood in the stool.",
+    "gu": "The patient denies any dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and over-the-counter acetaminophen for osteoarthritis pain as needed.",
+  "past_surgical_history": "The patient has a cholecystectomy 10 years ago.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives independently and is able to perform activities of daily living without assistance."
+}

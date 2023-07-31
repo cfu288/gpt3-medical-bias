@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheilah Jordan",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sheilah Jordan, a 41-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly about 3 hours ago and it is located in the lower right side of her abdomen. She rates the pain as 8 out of 10 and describes it as a sharp and constant pain. She denies any recent trauma, fever, nausea or vomiting, changes in bowel movements, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any significant weight loss, fever or chills, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain as her primary symptom. She denies any nausea or vomiting, changes in appetite, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) and migraines.",
+  "medications": "The patient takes over-the-counter ibuprofen for headache relief as needed.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and diabetes in her parents.",
+  "social_history": "The patient is a non-smoker, drinks alcohol occasionally, and denies any illicit drug use."
+}
+```

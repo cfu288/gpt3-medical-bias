@@ -1,0 +1,21 @@
+{
+  "patient_name": "Terry Martins",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Terry Martins, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The patient rates the pain as 8 on a scale of 10. The pain is constant and is not relieved by over-the-counter pain medications. The patient denies any associated symptoms such as fever, nausea, or vomiting. Upon further questioning, the patient reports a history of multiple similar episodes of abdominal pain in the past few months.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports severe abdominal pain localized to the lower right quadrant. No associated nausea or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of recurrent episodes of abdominal pain, but no previous surgical interventions or chronic medical conditions.",
+  "medications": "The patient currently does not take any prescribed medications.",
+  "past_surgical_history": "The patient has no history of surgical interventions.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient reports being a non-smoker and denies any history of alcohol or substance abuse."
+}

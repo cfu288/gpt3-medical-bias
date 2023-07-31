@@ -1,0 +1,21 @@
+{
+  "patient_name": "Petar Bawden",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Bawden, presents to the emergency department with chief complaint of abdominal pain. Patient reports that the pain started yesterday and has been getting progressively worse. He describes the pain as a sharp, cramping sensation in the lower abdomen. He rates the pain as a 7 out of 10 in severity. He denies any associated symptoms such as vomiting, diarrhea, or fever. Patient has not tried any over-the-counter medications for the pain. He states that the pain is constant and has not improved or worsened with any specific activities. He denies any recent trauma or injury. He reports no previous episodes of similar pain. He has not had any changes in his bowel movements or urinary habits. He denies any other concurrent medical issues. Upon further questioning, patient mentions that he has been experiencing some constipation over the past few days.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as his chief complaint. Denies any nausea, vomiting, or changes in appetite.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, for which he takes Lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient reports a family history of hypertension in his mother.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

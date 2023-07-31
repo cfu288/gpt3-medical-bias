@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ora Robinson",
+  "age": "78",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started earlier today and has been progressively worsening. The pain is located in the lower right quadrant of the abdomen. Patient denies any recent trauma or injury. She also denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Vital signs are stable at this time with a blood pressure of 120/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Presents with abdominal pain, denies any changes in bowel movements or blood in stool.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis. She takes medications for these conditions.",
+  "medications": "Patient takes lisinopril for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "No history of previous surgeries.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient reports being a non-smoker and non-drinker. She lives alone and is able to independently perform activities of daily living."
+}

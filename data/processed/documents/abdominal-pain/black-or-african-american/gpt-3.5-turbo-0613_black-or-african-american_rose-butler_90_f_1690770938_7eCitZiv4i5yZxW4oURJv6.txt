@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rose Butler",
+  "age": "90",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that began earlier today. Pain is located in the lower abdominal quadrants and radiates to the back. Patient describes the pain as sharp and stabbing, and rates it as a 9 out of 10 in severity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. There are no known triggers for the pain. Upon further questioning, patient reports a history of intermittent abdominal pain over the past few months, but this episode is significantly more severe. She denies any recent changes in diet or medication. No alleviating or exacerbating factors have been identified. No known trauma to the abdomen. Patient reports no prior episodes of pancreatitis or gallstones. No recent weight loss or changes in appetite.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports the current abdominal pain as the only gastrointestinal symptom. No history of hematemesis, melena, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension and simvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has a history of cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient is a retired teacher. She lives alone and is independent in her activities of daily living. She denies any tobacco or alcohol use."
+}

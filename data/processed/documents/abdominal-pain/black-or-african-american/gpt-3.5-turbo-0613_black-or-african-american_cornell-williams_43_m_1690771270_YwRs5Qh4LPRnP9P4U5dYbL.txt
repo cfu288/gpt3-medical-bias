@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cornell Williams",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of abdominal pain. The pain began approximately 6 hours ago. The patient describes the pain as a sharp, constant pain located in the right lower quadrant of the abdomen. The pain is exacerbated by movement and deep breathing, and is associated with nausea and vomiting. The patient denies any history of similar episodes. Vital signs stable upon arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Abdominal pain as described above with associated nausea and vomiting. No diarrhea or constipation.",
+    "gu": "No dysuria or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, which are well-controlled with medications.",
+  "medications": "Patient is currently taking lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "No significant family history of gastrointestinal or other relevant medical conditions.",
+  "social_history": "Patient denies tobacco or alcohol use. Does not use any illicit drugs."
+}
+```

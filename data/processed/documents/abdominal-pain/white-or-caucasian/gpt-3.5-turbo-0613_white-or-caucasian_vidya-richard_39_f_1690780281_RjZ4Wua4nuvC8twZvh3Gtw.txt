@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vidya Richard",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Vidya Richard, is a 39-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started suddenly 3 hours ago and is located in the right lower quadrant of the abdomen. The patient describes the pain as sharp and constant. She denies any alleviating or aggravating factors. She has no associated symptoms such as nausea, vomiting, fever, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described above. No vomiting or diarrhea.",
+    "gu": "No urinary symptoms such as burning or frequency.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome.",
+  "medications": "The patient takes over-the-counter antacids for occasional indigestion.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She is married and works as a teacher."
+}
+```

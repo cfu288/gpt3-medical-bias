@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sammie Washington",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. The patient states that the pain started approximately 8 hours ago and is located in the lower right quadrant. The patient describes the pain as sharp and constant. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. The pain is exacerbated by movement and deep breathing.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient has abdominal pain as the chief complaint.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness or tingling in the extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications including lisinopril and simvastatin.",
+  "medications": "lisinopril, simvastatin",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He denies alcohol or illicit drug use."
+}

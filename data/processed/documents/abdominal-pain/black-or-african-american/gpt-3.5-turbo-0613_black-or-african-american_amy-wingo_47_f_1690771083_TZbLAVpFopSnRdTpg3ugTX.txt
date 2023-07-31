@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amy Wingo",
+  "age": "47",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Amy Wingo, is a 47-year-old female who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower abdomen. The patient reports that the pain is constant and worsens with movement. She denies any associated symptoms such as fever, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports the presence of nausea, but denies any vomiting or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which she takes lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient reports no prior surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

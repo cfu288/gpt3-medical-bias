@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Ferber",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Tom Ferber, a 64-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started 2 hours ago and is located in the upper abdomen. He describes it as a sharp, stabbing pain that radiates to his back. The pain is constant and has not improved with over-the-counter pain medications. He denies any recent trauma, fever, nausea, or vomiting. He does mention some difficulty passing stool for the past few days. Upon further questioning, he reports a history of gallstones and a cholecystectomy 10 years ago. He has also had occasional episodes of abdominal pain in the past, but nothing as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports no change in appetite, but has had difficulty passing stool for the past few days.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, weakness, or numbness."
+  },
+  "past_medical_history": "Cholecystectomy for gallstones 10 years ago.",
+  "medications": "The patient takes over-the-counter pain medications occasionally for mild arthritis pain.",
+  "past_surgical_history": "Cholecystectomy for gallstones 10 years ago.",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient is retired and lives alone. He has no history of tobacco or alcohol use."
+}

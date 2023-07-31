@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ross Bova",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started earlier today. The pain is located in the right lower quadrant and is associated with nausea and vomiting. Patient denies any recent trauma or changes in bowel movements. No relief with over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of irritable bowel syndrome and occasional episodes of abdominal pain.",
+  "medications": "Patient takes over-the-counter antacids occasionally for relief of abdominal pain.",
+  "past_surgical_history": "Negative for any significant past surgical procedures.",
+  "family_history": "Negative for any significant family history of abdominal conditions.",
+  "social_history": "Patient works as an office manager and denies any tobacco, alcohol, or drug use."
+}

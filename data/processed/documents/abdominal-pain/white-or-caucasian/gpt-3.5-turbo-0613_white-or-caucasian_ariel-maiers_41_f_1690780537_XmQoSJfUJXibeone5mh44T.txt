@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ariel Maiers",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. She states that the pain started early this morning around 6am and has since worsened. Patient describes the pain as a sharp, crampy sensation located in the lower abdomen. She denies any associated symptoms such as vomiting or diarrhea. The pain is not relieved with over-the-counter medications. She has also noticed a decrease in appetite and has been experiencing some bloating and constipation for the past few days.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, patient denies any nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle stiffness.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of irritable bowel syndrome (IBS) and gastroesophageal reflux disease (GERD). She has been taking over-the-counter antacids for her GERD symptoms for the past year.",
+  "medications": "Over-the-counter antacids for GERD symptoms.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's mother has a history of colon polyps, but no other significant family history.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

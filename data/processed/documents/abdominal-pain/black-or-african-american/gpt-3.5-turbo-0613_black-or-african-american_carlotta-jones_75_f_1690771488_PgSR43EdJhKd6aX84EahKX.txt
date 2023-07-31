@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carlotta Jones",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of severe abdominal pain that started 2 hours ago. She describes the pain as a sharp, cramping sensation located in the lower abdomen. The pain is constant and has not improved with over-the-counter pain medication. She denies any recent trauma or injury. She denies any associated symptoms such as vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports a history of chronic constipation but denies any recent changes in bowel movements or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

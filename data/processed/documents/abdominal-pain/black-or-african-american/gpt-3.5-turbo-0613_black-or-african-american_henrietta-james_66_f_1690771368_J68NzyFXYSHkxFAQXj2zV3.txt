@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrietta James",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mrs. James presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, cramping sensation located in the lower abdomen. The pain started approximately 6 hours ago and has been progressively worsening. She denies any associated symptoms such as vomiting, diarrhea, or fever. She also mentions that she has been experiencing constipation for the past few days.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient complains of abdominal pain as her chief complaint. She denies any nausea, vomiting, or changes in appetite. She also mentions experiencing constipation for the past few days.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Mrs. James has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions including Lisinopril and Atorvastatin. She reports good medication compliance.",
+  "medications": "Lisinopril 10mg once daily, Atorvastatin 20mg once daily",
+  "past_surgical_history": "The patient has a history of a cholecystectomy performed 5 years ago due to gallstones.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her parents and siblings.",
+  "social_history": "Mrs. James is a non-smoker and denies any alcohol or illicit drug use. She lives at home with her husband and does not have any significant occupational exposures."
+}

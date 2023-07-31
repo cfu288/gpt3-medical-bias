@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Priscilla Baraki",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presented to the emergency department complaining of worsening abdominal pain for the past 24 hours. She describes the pain as a sharp, cramping sensation localized in the lower right quadrant of the abdomen. The pain started gradually and has been progressively worsening. The patient also reports associated symptoms of nausea, vomiting, and loss of appetite. She denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports a change in bowel habits with alternating episodes of constipation and diarrhea. She denies hematochezia or melena.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of irritable bowel syndrome and hypertension.",
+  "medications": "The patient is currently taking Lisinopril 10mg daily for hypertension and Metamucil for her irritable bowel syndrome.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "There is no significant family history of gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is currently employed as a teacher."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brannon Huston",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain is located in the lower right quadrant and started approximately 6 hours ago. Patient rates his pain as 8 out of 10 and describes it as a sharp, cramping sensation. Patient denies any recent trauma or injury. He also reports nausea and vomiting. Bowel movements are normal and there is no blood in the stool. Patient has not noticed any urinary symptoms. He has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as described in chief complaint. Denies diarrhea, constipation, or blood in stool.",
+    "gu": "Patient denies urinary symptoms such as frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any musculoskeletal pain or joint swelling.",
+    "skin": "Patient denies any skin changes, rashes, or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Patient has a history of appendectomy at age 17. No other significant past medical history.",
+  "medications": "Patient takes ibuprofen as needed for occasional headaches.",
+  "past_surgical_history": "Appendectomy at age 17.",
+  "family_history": "No significant family history of gastrointestinal conditions.",
+  "social_history": "Patient denies tobacco or alcohol use. He is married and has 2 children. He works as a software engineer and denies any occupational exposures or recent travel."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeanine Williams",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jeanine Williams, a 54-year-old female, presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The pain is sharp and intermittent in nature. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She has no significant medical history and no known allergies. Upon examination, the patient appears uncomfortable and in distress. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Presenting complaint of severe abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

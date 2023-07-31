@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dmitri Lindsey",
+  "age": "22",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and has been progressively worsening. He describes the pain as sharp and localized to the right lower quadrant of the abdomen. He denies any fever, vomiting, diarrhea, or urinary symptoms. The patient reports no recent trauma or changes in his bowel habits. On examination, the patient appears uncomfortable and is guarding his abdomen. His vital signs are stable. Abdominal examination reveals tenderness and rebound tenderness in the right lower quadrant. No masses or hernias are palpable. Bowel sounds are present. A focused physical examination is otherwise unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, and drug use. He is currently employed and has no recent travel history."
+}
+```

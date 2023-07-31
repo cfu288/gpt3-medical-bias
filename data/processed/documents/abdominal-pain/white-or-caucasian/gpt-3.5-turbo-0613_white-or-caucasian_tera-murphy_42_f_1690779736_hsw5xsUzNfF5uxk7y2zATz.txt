@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tera Murphy",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tera Murphy, a 42-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as 7 out of 10 in severity and describes it as sharp and constant. She denies any associated symptoms such as fever, nausea, vomiting, or change in bowel habits. She also denies any recent trauma or known medical conditions. Upon further questioning, she mentions that she had a similar episode of abdominal pain a few years ago, but it resolved on its own without medical intervention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports the chief complaint of abdominal pain. No other gastrointestinal symptoms present.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. She also has a history of depression and is currently taking an antidepressant.",
+  "medications": "1. Lisinopril 10mg daily for hypertension\n2. Sertraline 50mg daily for depression",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension in her mother and a family history of colon cancer in her father.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. She is currently employed as a teacher."
+}

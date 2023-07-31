@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Smith",
+  "age": "47",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly this morning and is located in the right lower quadrant. He rates the pain as a 9 out of 10 on the pain scale. There is no radiation of the pain and it is constant. The pain is associated with nausea but no vomiting. He denies any change in bowel movements or urinary symptoms. He has no known allergies to medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient presents with abdominal pain as the chief complaint. Denies any changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any changes in urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently on amlodipine 5mg daily.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's mother has a history of hypertension and his father has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Mable Davis",
+    "age": "84",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "The patient, Ms. Mable Davis, an 84-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a constant dull ache in the lower abdomen. The pain has been present for the past 2 days and has progressively worsened. She rates the pain as a 6 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+    "review_of_symptoms": {
+        "constitutional": "",
+        "cardiovascular": "",
+        "respiratory": "",
+        "gi": "The patient reports abdominal pain as her chief complaint. No other gastrointestinal symptoms such as nausea, vomiting, or changes in bowel habits are reported.",
+        "gu": "",
+        "musculoskeletal": "",
+        "skin": "",
+        "neurologic": ""
+    },
+    "past_medical_history": "",
+    "medications": "",
+    "past_surgical_history": "",
+    "family_history": "",
+    "social_history": ""
+}
+```

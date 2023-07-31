@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vikki Shock",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe abdominal pain that began approximately 6 hours ago. The pain is located in the upper right quadrant and is sharp and continuous. The patient rates the pain as 8 out of 10. She denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "Patient denies any headache or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes lisinopril 10 mg daily and atorvastatin 20 mg daily for these conditions.",
+  "medications": "lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of hypertension.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

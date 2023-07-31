@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Gerald Rose",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Gerald Rose, an 80-year-old male, presents to the emergency department with complaints of severe abdominal pain. Pain started 6 hours ago and has been steadily worsening since that time. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also states that he has not eaten anything unusual in the past 24 hours. He reports no relief with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "Reports severe abdominal pain as chief complaint. No nausea, vomiting, changes in bowel movements.",
+    "gu": "No urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. He takes medications for these conditions.",
+  "medications": "Patient takes lisinopril for hypertension and metformin for diabetes. He does not take any other medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history of gastrointestinal disorders or malignancies.",
+  "social_history": "Patient is a non-smoker. He occasionally drinks alcohol in moderation. He lives alone and is independent in his activities of daily living."
+}

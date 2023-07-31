@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tal Carter",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the epigastric region and radiates to the back. The pain is described as sharp and constant. There is associated nausea and vomiting. No relieving or exacerbating factors identified. No recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, difficulty breathing, or wheezing.",
+    "gi": "Abdominal pain as described in the chief complaint. No changes in bowel movements or blood in stool.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, swelling, or discoloration.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of abdominal conditions.",
+  "social_history": "Patient works as an accountant. Non-smoker. Occasional alcohol use."
+}
+```

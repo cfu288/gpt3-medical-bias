@@ -1,0 +1,21 @@
+{
+  "patient_name": "Raoul Brown",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is described as a constant, dull ache in the lower right quadrant of the abdomen. The patient denies any recent trauma or injury. He reports associated symptoms of nausea, but denies vomiting, fever, or changes in bowel movements. He states that the pain is worsening and is now radiating to his back. He has tried taking over-the-counter pain medication, which has provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or shortness of breath.",
+    "gi": "Patient reports abdominal pain as described in the history of present illness. He denies any changes in appetite, nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any dysuria, hematuria, or changes in urinary frequency or urgency.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril daily. He reports no other significant medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient reports a family history of hypertension in his mother and father.",
+  "social_history": "Patient denies tobacco use but drinks alcohol socially on weekends."
+}

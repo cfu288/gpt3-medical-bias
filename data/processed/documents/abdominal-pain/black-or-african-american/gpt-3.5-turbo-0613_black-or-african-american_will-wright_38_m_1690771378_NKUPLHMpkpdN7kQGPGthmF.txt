@@ -1,0 +1,21 @@
+{
+  "patient_name": "Will Wright",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe abdominal pain. He described the pain as a constant, crampy sensation located in the lower right quadrant. The pain started earlier today and has been progressively worsening. He denies any fever, nausea, or vomiting. The patient reports no recent changes in bowel habits or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. No diarrhea, constipation, or blood in stool.",
+    "gu": "No difficulty urinating, blood in urine, or pain with urination.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of appendicitis and underwent an appendectomy 10 years ago. He is otherwise healthy with no chronic medical conditions.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "Appendectomy 10 years ago. No other surgeries.",
+  "family_history": "The patient has no significant family medical history.",
+  "social_history": "The patient denies tobacco, alcohol, or drug use. He is married with two children and works as a software engineer."
+}

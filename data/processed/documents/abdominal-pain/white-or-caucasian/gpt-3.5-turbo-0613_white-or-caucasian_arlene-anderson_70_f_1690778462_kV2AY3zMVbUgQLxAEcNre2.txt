@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arlene Anderson",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Arlene Anderson, a 70-year-old female, presents to the emergency department with a complaint of abdominal pain. The pain started earlier today and is located in the lower right quadrant. The patient rates the pain as a 7 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient has a past medical history of hypertension and osteoarthritis. She is currently taking lisinopril for her hypertension and over-the-counter ibuprofen for her osteoarthritis. There are no known drug allergies. The patient denies any recent surgeries or family history of similar symptoms. She lives alone and is independent with her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Complains of abdominal pain without other gastrointestinal symptoms.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in cognition or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril, over-the-counter ibuprofen",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "No family history of similar symptoms",
+  "social_history": "The patient lives alone and is independent with her activities of daily living."
+}

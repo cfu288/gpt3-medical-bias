@@ -1,0 +1,21 @@
+{
+  "patient_name": "Micah Kinsey",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Micah Kinsey, a 35-year-old male, presents to the Emergency Department with a chief complaint of abdominal pain. The pain is located in the right lower quadrant and started approximately 6 hours ago. Patient rates the pain as 9 out of 10 in intensity. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon further questioning, patient reports a history of similar episodes of abdominal pain in the past, but states this episode is more severe.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as described above.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of irritable bowel syndrome and gastroesophageal reflux disease.",
+  "medications": "Patient takes omeprazole 20mg daily for GERD.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "Negative for any significant family history of gastrointestinal disorders or malignancies.",
+  "social_history": "Patient denies tobacco use and alcohol consumption. He works as an office manager and does not engage in any high-risk activities."
+}

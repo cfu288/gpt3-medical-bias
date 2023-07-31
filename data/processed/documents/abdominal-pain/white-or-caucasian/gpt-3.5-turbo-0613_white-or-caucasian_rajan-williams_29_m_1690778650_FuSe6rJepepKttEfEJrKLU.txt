@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rajan Williams",
+  "age": "29",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rajan Williams, a 29-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago in the epigastric region and has since radiated to the right lower quadrant. The pain is constant, sharp in nature, and rated 8/10 in intensity. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. Upon further questioning, the patient reports a past medical history of gastritis and occasional episodes of abdominal pain in the past. The patient states that he was recently diagnosed with a peptic ulcer and is currently taking ranitidine as prescribed. There is no history of recent trauma or surgery. The patient denies any illicit drug use or alcohol consumption. On physical examination, the patient appears uncomfortable and is guarding his abdomen. Vital signs are within normal limits. Upon palpation, there is tenderness in the epigastric region and right lower quadrant with rebound tenderness. Bowel sounds are normal. Based on the patient's symptoms and physical examination findings, a differential diagnosis of acute appendicitis, cholecystitis, and peptic ulcer perforation is considered. Further investigations including abdominal imaging and laboratory tests will be performed to confirm the diagnosis and determine the appropriate management plan.",
+  "review_of_symptoms": {
+    "constitutional": "No symptoms of fatigue, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described in the chief complaint. No changes in bowel habits.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of gastritis and occasional episodes of abdominal pain in the past.",
+  "medications": "The patient is currently taking ranitidine for the treatment of a peptic ulcer.",
+  "past_surgical_history": "No history of previous surgery.",
+  "family_history": "No significant family history of gastrointestinal disorders.",
+  "social_history": "The patient denies any tobacco or alcohol use. He works as an accountant and denies any occupational exposures."
+}

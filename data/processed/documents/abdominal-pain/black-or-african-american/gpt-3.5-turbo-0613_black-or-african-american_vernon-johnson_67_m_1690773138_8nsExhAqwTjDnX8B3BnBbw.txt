@@ -1,0 +1,22 @@
+{
+  "patient_name": "Vernon Johnson",
+  "age": "67",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Johnson, a 67-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 4 hours ago and is located in the right lower quadrant of the abdomen. The pain is sharp in nature and worsens with movement. He denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described",
+    "gu": "No dysuria or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "Hypertension, controlled on medication",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "Cholecystectomy, appendectomy",
+  "family_history": "Father had colon cancer",
+  "social_history": "Current smoker, 1 pack per day for 30 years"
+}

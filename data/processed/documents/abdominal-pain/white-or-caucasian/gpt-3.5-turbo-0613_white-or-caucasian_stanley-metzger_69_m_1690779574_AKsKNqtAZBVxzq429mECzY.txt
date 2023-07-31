@@ -1,0 +1,22 @@
+{
+  "patient_name": "Stanley Metzger",
+  "age": "69",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Metzger presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started approximately 6 hours ago and has been steadily worsening. The pain is located in the lower right quadrant and is associated with nausea and vomiting. The patient denies any recent trauma or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies chills or fever.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain and nausea, denies any changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient does not report any rashes or skin changes.",
+    "neurologic": "Patient denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication daily.",
+  "medications": "Hydrochlorothiazide 25mg daily",
+  "past_surgical_history": "Patient had an appendectomy in his 20s.",
+  "family_history": "Family history is non-contributory.",
+  "social_history": "Patient is a retired accountant. He is a non-smoker and does not consume alcohol."
+}

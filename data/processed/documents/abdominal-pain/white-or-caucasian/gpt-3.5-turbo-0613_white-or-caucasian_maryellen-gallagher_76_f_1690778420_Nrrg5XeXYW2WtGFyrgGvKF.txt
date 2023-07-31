@@ -1,0 +1,27 @@
+{
+  "patient_name": "Maryellen Gallagher",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Maryellen Gallagher, a 76-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started 2 days ago and is located in the lower abdomen. The pain is constant, dull, and worsens with movement. She rates the pain as a 7 out of 10. Patient denies any associated symptoms such as nausea, vomiting, diarrhea, constipation, or urinary symptoms. She has not noticed any changes in her bowel movements. There is no history of trauma or recent illnesses. Patient denies any recent travel, dietary changes, or use of new medications. She has not sought medical attention for this complaint prior to today."
+
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any nausea, vomiting, diarrhea, constipation, melena, or hematochezia.",
+    "gu": "Patient denies any dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+
+  "past_medical_history": "Patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis. She takes medications for these conditions, including lisinopril, atorvastatin, and acetaminophen as needed for pain. The patient is up to date on her vaccinations, including influenza and pneumonia vaccines. No history of allergies to medications or known drug intolerances.",
+
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 20 mg daily\n3. Acetaminophen as needed for pain",
+
+  "past_surgical_history": "Patient has a history of cholecystectomy in 2005 and appendectomy in 1998. No other significant surgical history.",
+
+  "family_history": "Patient's family history is significant for hypertension and hyperlipidemia. No other significant family history."
+
+  "social_history": "Patient is a retired teacher and lives alone. She denies any tobacco or alcohol use. She does not use recreational drugs and has no history of high-risk sexual behaviors. Patient is independent with activities of daily living and has a good support system."
+}

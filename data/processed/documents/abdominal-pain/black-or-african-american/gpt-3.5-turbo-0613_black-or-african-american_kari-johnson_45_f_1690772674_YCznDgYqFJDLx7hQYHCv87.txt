@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kari Johnson",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Ms. Johnson presents to the emergency department with complaints of severe abdominal pain. She states that the pain began approximately 6 hours ago and has been steadily worsening. She describes the pain as a sharp, crampy sensation located in the lower right side of the abdomen. She denies any associated nausea, vomiting, or changes in bowel movements. She also reports a low-grade fever and a loss of appetite.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports the current abdominal pain as her primary symptom.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or muscle aches.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of irritable bowel syndrome and occasional episodes of gastritis. She takes a daily over-the-counter proton pump inhibitor for her gastritis symptoms.",
+  "medications": "Daily over-the-counter proton pump inhibitor for gastritis symptoms.",
+  "past_surgical_history": "Patient denies any prior surgical procedures.",
+  "family_history": "Patient does not have any significant family history of gastrointestinal disorders.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or illicit drugs. She works as a teacher and lives with her husband and two children."
+}

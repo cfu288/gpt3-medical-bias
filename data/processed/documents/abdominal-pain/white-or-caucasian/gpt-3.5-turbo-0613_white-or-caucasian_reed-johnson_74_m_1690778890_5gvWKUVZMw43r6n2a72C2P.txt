@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Reed Johnson",
+  "age": "74",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Johnson presents to the emergency department with a chief complaint of abdominal pain. He states that the pain started 2 days ago and has been getting progressively worse. He describes the pain as a constant dull ache in the lower abdomen, with occasional sharp cramping. The pain is exacerbated by movement and relieved slightly by rest. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Mr. Johnson has not sought any medical attention prior to today for this issue.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Positive for abdominal pain as described",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, weakness, or numbness"
+  },
+  "past_medical_history": "Mr. Johnson has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "He is currently taking lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Mr. Johnson reports a cholecystectomy 10 years ago for symptomatic cholelithiasis.",
+  "family_history": "Negative for any significant family history of abdominal pain or gastrointestinal disorders.",
+  "social_history": "Mr. Johnson is a retired accountant and lives alone. He denies any tobacco or alcohol use."
+}
+```

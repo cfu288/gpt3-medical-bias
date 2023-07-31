@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Lawson",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department today with complaints of severe abdominal pain. The pain started several hours ago and is located in the lower right quadrant. Patient also reports nausea and vomiting. No fever or chills. Patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss or fever.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain and vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and diabetes.",
+  "medications": "Patient takes metformin and lisinopril.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2010.",
+  "family_history": "There is no significant family history of note.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or drug use."
+}

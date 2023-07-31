@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leona Turner",
+  "age": "100",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of severe abdominal pain. Pain started several hours ago and is located in the lower right abdomen. Patient denies any trauma or recent surgeries. Pain is constant and worsens with movement. Patient reports nausea but denies vomiting or diarrhea. No fevers or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing",
+    "gi": "Patient reports abdominal pain and nausea. Denies vomiting or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any changes in mental status or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril and simvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has a history of cholecystectomy.",
+  "family_history": "Patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She lives alone and is independent for all activities of daily living."
+}

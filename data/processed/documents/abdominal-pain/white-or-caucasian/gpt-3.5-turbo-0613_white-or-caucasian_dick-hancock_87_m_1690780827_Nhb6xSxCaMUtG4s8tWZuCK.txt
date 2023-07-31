@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dick Hancock",
+  "age": "87",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe lower abdominal pain. The pain started 2 days ago and has been progressively getting worse. Patient states that the pain is constant and is not relieved with over-the-counter pain medication. He also reports feeling bloated and nauseous. There is no history of fever, diarrhea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Severe lower abdominal pain, nausea, and bloating",
+    "gu": "No complaints",
+    "musculoskeletal": "No complaints",
+    "skin": "No complaints",
+    "neurologic": "No complaints"
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "There is no significant family history of gastrointestinal disorders.",
+  "social_history": "The patient is retired and lives alone. He denies tobacco or alcohol use."
+}

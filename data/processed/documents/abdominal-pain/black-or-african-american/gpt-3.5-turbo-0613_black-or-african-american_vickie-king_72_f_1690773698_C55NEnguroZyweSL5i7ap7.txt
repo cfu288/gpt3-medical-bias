@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vickie King",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Vickie King, is a 72-year-old female who presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly in the epigastric region and radiates to her back. She rates the pain as 8/10 and describes it as a sharp, constant pain. She also reports associated symptoms of nausea and vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient reports intermittent bloating, flatulence, and changes in bowel habits with alternating diarrhea and constipation. She denies melena or hematemesis.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. She also reports a history of cholecystectomy.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension, simvastatin 40mg daily for hyperlipidemia, and metformin 1000mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has a history of cholecystectomy performed in 2015.",
+  "family_history": "The patient reports a family history of hypertension and diabetes in her parents and siblings.",
+  "social_history": "The patient is a non-smoker, consumes alcohol socially, and denies any illicit drug use."
+}
+```

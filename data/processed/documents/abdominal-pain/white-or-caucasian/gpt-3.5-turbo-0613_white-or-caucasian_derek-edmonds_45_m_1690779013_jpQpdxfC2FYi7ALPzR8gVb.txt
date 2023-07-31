@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derek Edmonds",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Derek Edmonds, a 45-year-old male, presents to the emergency department with complaints of abdominal pain. The pain initially started in the epigastric region and has progressively worsened over the past 24 hours. The patient rates the pain as 8 out of 10 in severity. He reports associated symptoms of nausea and occasional vomiting. The pain is constant and is not relieved by any specific position or movements. The patient denies any recent trauma, fever, changes in bowel movements, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or generalized weakness.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Associated symptoms of nausea and occasional vomiting reported.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is taking lisinopril 10 mg daily and atorvastatin 20 mg daily as prescribed medications.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient reports no significant past surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is married and works as an accountant."
+}
+```

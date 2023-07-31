@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rocky Green",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started approximately 6 hours ago and has been gradually worsening. He describes the pain as a constant, sharp ache located in the lower right quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or diarrhea. Upon further questioning, the patient reports that he has not had a bowel movement in the past two days and has been experiencing some bloating and discomfort. He denies any recent trauma or changes in diet.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "In addition to the abdominal pain, the patient reports a decrease in appetite and a feeling of fullness after eating small amounts.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes medication for hypertension as well as a daily multivitamin.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is no significant family history of gastrointestinal conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

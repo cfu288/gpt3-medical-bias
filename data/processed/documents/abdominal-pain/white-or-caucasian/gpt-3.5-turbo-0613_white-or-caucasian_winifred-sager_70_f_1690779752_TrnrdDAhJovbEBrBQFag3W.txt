@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winifred Sager",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Ms. Sager is a 70-year-old female who presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant. She denies any fever, nausea, vomiting, or changes in bowel movements. She also reports no recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing",
+    "gi": "Positive for abdominal pain, negative for nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "Ms. Sager has a history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin daily.",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family history",
+  "social_history": "Ms. Sager is a nonsmoker and denies any alcohol or drug use."
+}

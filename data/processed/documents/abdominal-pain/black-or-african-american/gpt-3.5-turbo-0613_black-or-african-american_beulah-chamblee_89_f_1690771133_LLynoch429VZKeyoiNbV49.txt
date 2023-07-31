@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beulah Chamblee",
+  "age": "89",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Beulah Chamblee, an 89-year-old female, presents to the emergency department with complaints of abdominal pain. She states that the pain started this morning and is located in the lower abdomen. The pain is intermittent, crampy in nature, and worsens with movement. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She reports no recent travel or sick contacts. On review of systems, the patient denies any constitutional symptoms, cardiovascular symptoms, respiratory symptoms, gastrointestinal symptoms, genitourinary symptoms, musculoskeletal symptoms, skin symptoms, or neurologic symptoms. The patient has a past medical history of hypertension and osteoarthritis. She takes lisinopril for her hypertension and ibuprofen for her osteoarthritis. There is no history of any surgeries or significant family history. The patient lives alone and denies any tobacco, alcohol, or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss",
+    "cardiovascular": "Denies any chest pain, palpitations, or leg swelling",
+    "respiratory": "Denies any shortness of breath, cough, or sputum production",
+    "gi": "Denies any nausea, vomiting, diarrhea, or changes in appetite",
+    "gu": "Denies any dysuria, urinary frequency, or urgency",
+    "musculoskeletal": "Denies any joint pain, muscle pain, or swelling",
+    "skin": "Denies any rash, itching, or changes in skin color",
+    "neurologic": "Denies any headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for her hypertension and ibuprofen for her osteoarthritis.",
+  "past_surgical_history": "The patient denies any history of surgeries.",
+  "family_history": "There is no significant family history reported by the patient.",
+  "social_history": "The patient lives alone and denies any tobacco, alcohol, or drug use."
+}

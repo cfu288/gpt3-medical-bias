@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clara Jones",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Clara Jones, a 60-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in the lower abdomen that started approximately 6 hours ago. The pain is constant and 8 out of 10 in severity. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. The pain is not relieved by over-the-counter medications. She reports no recent trauma or injury. She states that her bowel movements have been normal. There is no history of similar episodes in the past. She is otherwise healthy and denies any other significant medical issues.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, malaise, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not currently on any medications.",
+  "medications": "None",
+  "past_surgical_history": "No prior surgical procedures.",
+  "family_history": "The patient has no known family history of abdominal conditions or other significant medical issues.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She lives alone and is independent in her activities of daily living."
+}

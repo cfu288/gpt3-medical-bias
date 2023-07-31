@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kimberley Mccarty",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Ms. Mccarty is a 45-year-old female who presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started approximately 8 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as a 7 out of 10 and describes it as a sharp and stabbing sensation. The pain is constant and has not resolved with over-the-counter pain medications. She denies any associated symptoms such as nausea, vomiting, or diarrhea. There is no history of trauma or recent changes in bowel habits. She has not experienced similar episodes of abdominal pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the main concern. She denies any nausea, vomiting, or changes in appetite. There is no history of gastrointestinal bleeding or black, tarry stools.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for this condition. She has no other significant past medical history.",
+  "medications": "The patient takes hydrochlorothiazide 25 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension in both parents but no other significant family medical history.",
+  "social_history": "The patient does not smoke or drink alcohol. She is married and works as a teacher."
+}
+```

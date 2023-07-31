@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scarlett Davis",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Scarlett Davis, a 42-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The patient rates the pain as 8/10 and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain is exacerbated by movement and coughing. On examination, the patient appears uncomfortable and is guarding her abdomen. No signs of peritoneal irritation are present. The rest of the examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or changes in the skin",
+    "neurologic": "No headache or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and gastroesophageal reflux disease (GERD). She takes lisinopril and omeprazole as prescribed.",
+  "medications": "Lisinopril 20mg daily and omeprazole 40mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother has a history of breast cancer.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alina Gerber",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alina Gerber, a 36-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly this morning and is located in the right lower quadrant. She rates the pain as 8 out of 10 and describes it as sharp and stabbing. She also reports nausea and vomiting. The patient denies any recent trauma, fevers, or diarrhea. She states that she has been having regular bowel movements and denies any urinary symptoms. On further questioning, the patient reports that she had a similar episode of abdominal pain two months ago, which resolved spontaneously after a few hours. She is concerned that this pain may be a recurrence of the previous episode.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Nausea and vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of appendicitis two years ago, for which she underwent an appendectomy.",
+  "medications": "The patient takes a daily multivitamin and occasional ibuprofen for headaches.",
+  "past_surgical_history": "Appendectomy two years ago.",
+  "family_history": "The patient's mother has a history of gallstones.",
+  "social_history": "The patient works as a software engineer and denies any tobacco or alcohol use."
+}

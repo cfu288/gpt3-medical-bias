@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marleen Swanson",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Marleen Swanson, a 69-year-old female, presents to the emergency department with chief complaint of abdominal pain. She reports that she woke up this morning with severe pain in the upper abdomen that radiates to her back. The pain is constant and has been getting worse since it started. She rates the pain as 8 out of 10 and describes it as sharp and knife-like. She denies any associated symptoms such as nausea, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes, itching, or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension, atorvastatin 20mg daily for hyperlipidemia, and ibuprofen 400mg as needed for pain.",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy in 2005.",
+  "family_history": "The patient has a family history of hypertension and diabetes. Her mother had a history of gallbladder disease.",
+  "social_history": "The patient is a retired teacher and lives with her husband. She denies tobacco, alcohol, and illicit drug use."
+}

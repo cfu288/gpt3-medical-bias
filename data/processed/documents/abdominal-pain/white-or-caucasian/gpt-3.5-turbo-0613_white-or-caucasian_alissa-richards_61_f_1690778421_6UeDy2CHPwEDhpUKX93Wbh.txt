@@ -1,0 +1,29 @@
+```json
+{
+  "patient_name": "Alissa Richards",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Alissa Richards, a 61-year-old female, presents to the Emergency Department with a chief complaint of abdominal pain. She reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant, and rates it as a 7 out of 10 in severity. The pain has been gradually worsening since onset. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She has tried taking over-the-counter pain medications, but they have provided minimal relief. She states that the pain is affecting her ability to walk and move around. No known triggers or aggravating factors have been identified. The patient denies any recent trauma or injuries. She has not experienced similar episodes of abdominal pain in the past."
+
+  "review_of_symptoms": {
+    "constitutional": "No symptoms of fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. Denies any changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, lesions, or changes in skin color.",
+    "neurologic": "No headache, dizziness, weakness, or numbness."
+  },
+
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. She takes medications for both conditions, including lisinopril and acetaminophen as needed for pain management.",
+
+  "medications": "Lisinopril for hypertension and acetaminophen as needed for pain management.",
+
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+
+  "family_history": "The patient's family history is noncontributory. There is no history of gastrointestinal disorders or other relevant conditions in her immediate family.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is retired from her previous occupation as a teacher."
+}
+```

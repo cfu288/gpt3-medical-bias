@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shalini Watson",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Shalini Watson, a 44-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 6 hours ago and is located in the lower right quadrant. She describes the pain as sharp and constant, and rates it as 8/10 in severity. There is no radiation of the pain. She denies any recent trauma or injury to the abdomen. She reports associated symptoms of nausea and vomiting, but denies any fever or chills. She has not noticed any changes in bowel movements or urinary habits. The patient reports no relief from over-the-counter medications and states that the pain has been progressively worsening.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any significant weight loss or changes in appetite. She denies any fevers or night sweats.",
+    "cardiovascular": "She denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "She denies any cough, shortness of breath, or sputum production.",
+    "gi": "In addition to the abdominal pain, the patient reports nausea and vomiting. She denies any diarrhea, constipation, or blood in the stools.",
+    "gu": "She denies any dysuria, frequency, or hematuria.",
+    "musculoskeletal": "She denies any joint pain, swelling, or stiffness.",
+    "skin": "She denies any rashes, itching, or lesions.",
+    "neurologic": "She denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history. She denies any chronic medical conditions or hospitalizations.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has had an appendectomy at the age of 25. She has not had any other surgical procedures.",
+  "family_history": "The patient reports no significant family history of gastrointestinal, genitourinary, or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use. She has no known allergies."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cathleen Sabol",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Cathleen Sabol, a 43-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the epigastric region. The patient describes the pain as a sharp, stabbing sensation that radiates to the back. She rates her pain as 8 out of 10 on the pain scale. The pain is constant and exacerbated by movement.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Pain in the epigastric region. No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or changes in the skin.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of gastroesophageal reflux disease (GERD) and hypertension.",
+  "medications": "The patient currently takes omeprazole 20mg daily for GERD and lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient is not aware of any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

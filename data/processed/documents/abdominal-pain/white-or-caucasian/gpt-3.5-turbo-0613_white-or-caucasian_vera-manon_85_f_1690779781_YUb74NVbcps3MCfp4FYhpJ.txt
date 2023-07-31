@@ -1,0 +1,33 @@
+{
+  "patient_name": "Vera Manon",
+  "age": "85",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 4 hours ago and is localized to the right lower quadrant. The pain is constant and sharp in nature. Patient denies any recent trauma or injury. No prior episodes of similar pain. Patient noticed some associated nausea and has vomited once. No fever or diarrhea. No urinary symptoms. No other significant past medical history. 
+
+Patient denies any constitutional symptoms such as fever, chills, or weight loss. 
+
+On review of systems, no cardiovascular, respiratory, musculoskeletal, skin, or neurologic complaints reported. Patient reports no history of similar abdominal pain. 
+
+Patient has a past medical history of hypertension and osteoarthritis. Current medications include amlodipine 5 mg daily and ibuprofen 400 mg as needed for pain. No known drug allergies. 
+
+Patient has no history of any surgeries. 
+
+Patient denies any significant family history of gastrointestinal or surgical conditions. 
+
+Patient is a retired accountant and lives alone. No history of smoking, alcohol consumption or recreational drug use. Patient denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Complains of severe abdominal pain. No diarrhea or GI bleeding",
+    "gu": "No urinary symptoms such as dysuria or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "Denies headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Hypertension, Osteoarthritis",
+  "medications": "Amlodipine 5 mg daily, Ibuprofen 400 mg as needed for pain",
+  "past_surgical_history": "No surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Retired accountant. Lives alone. No history of smoking, alcohol consumption or recreational drug use. No recent travel or exposure to sick contacts."
+}

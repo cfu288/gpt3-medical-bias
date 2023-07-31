@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kumar Mcmaster",
+  "age": "40",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Mcmaster presents to the emergency department with complaints of severe abdominal pain. The patient reports that the pain started approximately 8 hours ago and has been steadily increasing in intensity. The pain is located in the lower right quadrant of the abdomen and is associated with nausea and vomiting. The patient denies any recent trauma or injury. On physical examination, the abdomen is tender to palpation in the lower right quadrant with guarding and rebound tenderness. The patient's vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain, nausea, and vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Mr. Mcmaster has a history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin daily.",
+  "medications": "Lisinopril 20 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "Mr. Mcmaster is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vahan Speegle",
+  "age": "20",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Vahan Speegle, a 20-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started 2 days ago and has been progressively worsening. The pain is located in the right lower quadrant and is associated with nausea and vomiting. He denies any fevers or chills. He reports no recent dietary or activity changes that could explain the pain. On further questioning, he reports a history of similar episodes in the past, which resolved spontaneously. He states that the pain is similar to his previous episodes but more severe. He denies any urinary symptoms or changes in bowel habits. He has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain, nausea, and vomiting. No diarrhea or blood in stools.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He denies any chronic medical conditions or hospitalizations.",
+  "medications": "The patient does not take any chronic medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions or genetic disorders.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gerri Williams",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Gerri Williams, a 54-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant. She denies any alleviating or exacerbating factors. She also reports feeling nauseous but has not vomited. She has not had any recent changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as previously described. She denies any diarrhea, constipation, or blood in her stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in her skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is currently taking lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of any gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

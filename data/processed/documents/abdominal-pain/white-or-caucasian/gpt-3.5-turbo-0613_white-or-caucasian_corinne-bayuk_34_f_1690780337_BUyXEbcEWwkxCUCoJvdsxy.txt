@@ -1,0 +1,21 @@
+{
+  "patient_name": "Corinne Bayuk",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Corinne Bayuk, is a 34-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started approximately 2 hours ago and is located in the epigastric region. The patient describes the pain as a dull ache, 6/10 in severity, and intermittent in nature. She denies any exacerbating or relieving factors. There are no associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel movements. The pain is not radiating and there are no other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of irritable bowel syndrome (IBS) diagnosed 3 years ago. She has not had any recent exacerbations.",
+  "medications": "The patient takes over-the-counter probiotics for management of irritable bowel syndrome.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history of gastrointestinal diseases or conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or recreational drug use. She is currently single and works as a software engineer."
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Kelvin Jackson"
+    },
+    "age": {
+      "type": "string",
+      "value": "73"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Patient presents to the emergency department with complaints of severe abdominal pain for the past 3 hours. He describes the pain as sharp and localized to the lower right quadrant. He denies any associated symptoms such as nausea, vomiting, or fever. The pain started spontaneously and has been worsening since onset."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Patient denies any constitutional symptoms such as fatigue or weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Patient denies any cardiovascular symptoms such as chest pain or palpitations."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Patient denies any respiratory symptoms such as shortness of breath or cough."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Patient presents with the chief complaint of abdominal pain."
+        },
+        "gu": {
+          "type": "string",
+          "value": "Patient denies any genitourinary symptoms such as dysuria or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Patient denies any musculoskeletal symptoms such as joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "Patient denies any skin symptoms such as rash or itching."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Patient denies any neurologic symptoms such as headache or dizziness."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Patient has a past medical history of hypertension and hyperlipidemia."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Patient takes lisinopril and atorvastatin daily for his hypertension and hyperlipidemia, respectively."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "Patient has no significant past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "Patient denies any significant family history of medical conditions."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

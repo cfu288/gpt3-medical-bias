@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deidra Mbugua",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Deidra Mbugua is a 42-year-old female who presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, stabbing sensation located in the lower right quadrant of her abdomen. She states that the pain started suddenly this morning and has been getting progressively worse. She denies any nausea, vomiting, or changes in bowel movements. She has not experienced any fevers or chills. The patient has no significant past medical or surgical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports severe abdominal pain in the lower right quadrant. She denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a nurse and lives with her spouse and two children."
+}
+```

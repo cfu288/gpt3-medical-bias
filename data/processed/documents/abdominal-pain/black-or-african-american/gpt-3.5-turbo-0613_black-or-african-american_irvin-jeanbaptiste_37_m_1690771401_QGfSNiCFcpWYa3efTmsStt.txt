@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Irvin Jeanbaptiste",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Jeanbaptiste, presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of his abdomen. The pain is constant and sharp in nature. He denies any previous episodes of similar pain. He also reports associated symptoms of nausea and vomiting. He denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies experiencing any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "Aside from the abdominal pain, the patient denies any difficulty swallowing, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling.",
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient works as an accountant and denies any tobacco, alcohol, or illicit drug use."
+}
+```

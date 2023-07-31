@@ -1,0 +1,21 @@
+{
+  "patient_name": "Giulio Gower",
+  "age": "29",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Gower, presented to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, constant pain located in the lower right quadrant of his abdomen. The pain started yesterday evening and has been progressively worsening. He also reports experiencing nausea and a loss of appetite. Mr. Gower denies any recent trauma or injuries to the abdomen. He has been taking over-the-counter pain medication, which has provided only minimal relief. On physical examination, there is tenderness and guarding present in the right lower quadrant. Rebound tenderness is also appreciated. Based on his symptoms and physical exam findings, a further evaluation is warranted to rule out appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or dyspnea",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Positive for abdominal pain, nausea, and loss of appetite",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rash, itching, or changes in mole",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Gower has no significant past medical history. He denies any chronic medical conditions or previous hospitalizations.",
+  "medications": "Mr. Gower is not currently taking any medications. He does not have any known drug allergies.",
+  "past_surgical_history": "Mr. Gower has never had any previous surgeries.",
+  "family_history": "There is no significant family history of gastrointestinal disorders or other relevant medical conditions.",
+  "social_history": "Mr. Gower is a non-smoker and does not consume alcohol. He denies any illicit drug use. He works as a software engineer and has a sedentary lifestyle."
+}

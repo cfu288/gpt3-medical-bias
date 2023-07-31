@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bonnie Darcey",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Bonnie Darcey, a 75-year-old female, presents to the emergency department complaining of severe abdominal pain. She reports that the pain started about 6 hours ago and is located in the lower right quadrant of her abdomen. She states that the pain is sharp and constant, and is worsened by movement. She denies any recent trauma or fever, but reports nausea and vomiting. She has not had a bowel movement in the past 24 hours. On further questioning, patient reports that she has had a few episodes of abdominal pain in the past, but never this severe. She denies any urinary symptoms or vaginal bleeding. She denies any recent changes in her diet or any known food allergies. Patient states that she takes medications for hypertension and diabetes, and has a history of cholecystectomy and hernia repair. She has never had any surgeries other than the ones mentioned. She denies any significant family history of abdominal conditions. She is a non-smoker and does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any recent weight loss or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing or difficulty breathing.",
+    "gi": "Patient reports nausea, vomiting and constipation.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle stiffness.",
+    "skin": "Patient denies any rashes, itching or skin discoloration.",
+    "neurologic": "Patient denies any headaches, dizziness or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and diabetes.",
+  "medications": "Patient is currently taking medications for hypertension and diabetes.",
+  "past_surgical_history": "Patient has a past surgical history of cholecystectomy and hernia repair.",
+  "family_history": "Patient denies any significant family history of abdominal conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

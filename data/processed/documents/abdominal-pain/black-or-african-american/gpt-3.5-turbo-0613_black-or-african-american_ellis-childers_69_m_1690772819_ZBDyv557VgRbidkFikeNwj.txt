@@ -1,0 +1,27 @@
+{
+  "patient_name": "Ellis Childers",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Childers, is a 69-year-old male who presents to the emergency department with complaints of abdominal pain. The pain is located in the right lower quadrant and has been present for the past 12 hours. The pain is described as sharp and constant, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also reports no fever or chills. On further questioning, Mr. Childers mentions that he has a history of diverticulosis and has experienced similar episodes of abdominal pain in the past, which resolved with conservative management.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as described in the chief complaint. There is no associated melena or hematochezia.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+
+  "past_medical_history": "The patient has a past medical history of diverticulosis.",
+
+  "medications": "The patient takes over-the-counter pain medications as needed for his diverticulosis pain.",
+
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+
+  "family_history": "The patient has a family history of colon cancer in his mother.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

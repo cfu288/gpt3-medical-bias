@@ -1,0 +1,21 @@
+{
+  "patient_name": "Seymour Tucker",
+  "age": "99",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe abdominal pain. The pain started 2 hours ago and is located in the upper left quadrant of the abdomen. Patient describes the pain as sharp and stabbing, with no radiation. The pain is constant and worsens with movement. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or chest pain.",
+    "gi": "Patient complains of the abdominal pain as chief complaint. No other gastrointestinal symptoms reported.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient has no significant family history of medical conditions.",
+  "social_history": "Patient is retired and lives alone. He denies smoking or alcohol consumption."
+}

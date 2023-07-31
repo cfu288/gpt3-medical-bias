@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roxie Pegues",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right quadrant. Patient denies any recent trauma or injury. She describes the pain as sharp and constant. She has also noticed some mild nausea but denies vomiting or diarrhea. No changes in bowel movements or urinary symptoms. No fever or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported",
+    "cardiovascular": "No chest pain or shortness of breath reported",
+    "respiratory": "No cough or difficulty breathing reported",
+    "gi": "Abdominal pain as chief complaint. Denies vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "No urinary symptoms reported",
+    "musculoskeletal": "No joint pain or muscle weakness reported",
+    "skin": "No rashes or skin changes reported",
+    "neurologic": "No headache or dizziness reported"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and atorvastatin daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use."
+}

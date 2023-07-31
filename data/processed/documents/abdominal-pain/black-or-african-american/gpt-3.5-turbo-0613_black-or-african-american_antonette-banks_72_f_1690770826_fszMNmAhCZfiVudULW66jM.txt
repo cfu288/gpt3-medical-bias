@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Antonette Banks",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Antonette Banks, a 72-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. She describes the pain as sharp and continuous. The patient denies any nausea, vomiting, or changes in bowel movements. She does report a loss of appetite and generalized weakness. She denies any recent trauma or previous episodes of similar pain. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, sputum production, or difficulty breathing",
+    "gi": "Abdominal pain as stated above, no nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension, managed with losartan, and osteoarthritis in the knees. No history of abdominal surgeries or gastrointestinal conditions.",
+  "medications": "Losartan 50 mg once daily for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient has a family history of breast cancer in her mother and sister.",
+  "social_history": "The patient is a nonsmoker, does not consume alcohol, and lives alone. She denies any recent travel or exposure to sick contacts."
+}
+```

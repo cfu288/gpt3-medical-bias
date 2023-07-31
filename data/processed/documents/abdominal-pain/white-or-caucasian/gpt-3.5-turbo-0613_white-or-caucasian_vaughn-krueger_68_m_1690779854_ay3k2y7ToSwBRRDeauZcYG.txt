@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Krueger",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Vaughn Krueger, a 68-year-old male, presents to the emergency department with complaints of severe abdominal pain. The patient states that the pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. He describes the pain as sharp and stabbing, and rates it as a 9 out of 10 in intensity. The pain is constant and worsens with movement. He denies any associated symptoms such as nausea, vomiting, or fever. On further questioning, the patient admits to having a recent change in bowel habits, with increased frequency and loose stools. He also mentions a decreased appetite and unintentional weight loss over the past month.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain, change in bowel habits",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or focal neurological symptoms"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin, respectively.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Patient has a family history of cardiovascular disease (father had a heart attack at age 60)",
+  "social_history": "Patient is retired and lives alone. He denies tobacco or alcohol use."
+}

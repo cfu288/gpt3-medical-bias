@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gladys Caldwell",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Gladys Caldwell, an 80-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain started yesterday and is described as a constant dull ache in the lower abdomen. It is not relieved with over-the-counter pain medications. The patient reports that she has also been experiencing bloating and constipation for the past few days. There is no associated nausea or vomiting. The patient denies any recent changes in diet or medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, bloating, and constipation.",
+    "gu": "The patient denies any urinary symptoms or changes in urine color or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes or changes in skin color or texture.",
+    "neurologic": "The patient denies headache, dizziness, or vision changes."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient currently takes lisinopril for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

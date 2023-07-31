@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frances Mccoy",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Frances Mccoy, a 53-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in her lower abdomen that started approximately 6 hours ago. She rates the pain as 6 out of 10 and states that it is constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain does not radiate and is not relieved by any specific position or activity.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril 10mg daily. She also reports a history of 2 cesarean sections and a cholecystectomy in the past.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "2 cesarean sections, cholecystectomy",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "The patient is a nonsmoker and denies any history of alcohol or drug abuse. She works as a teacher and is married with two adult children."
+}

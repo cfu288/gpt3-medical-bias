@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carolyn Henderson",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Carolyn Henderson, a 72-year-old female, presents to the emergency department with complaints of abdominal pain. She states that the pain started yesterday afternoon and has been gradually worsening since then. She describes the pain as a sharp, cramping sensation localized to the lower abdomen. The pain is constant and has not radiated to any other areas. She denies any associated nausea, vomiting, fever, or changes in bowel movements. She states that she has not eaten much since the pain started because it worsens with food intake. She has had a few episodes of diarrhea but no blood in the stool. Additionally, she has noticed a decrease in appetite over the past few days. She denies any recent travel, sick contacts, or history of similar episodes. Her past medical history is significant for hypertension and osteoarthritis. She takes Lisinopril for her hypertension and Ibuprofen occasionally for her arthritis pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "She denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "In addition to the abdominal pain, she reports a few episodes of diarrhea but no blood in the stools. She denies any recent changes in bowel habits, black stools, or vomiting.",
+    "gu": "She denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports chronic joint pain due to osteoarthritis, which she manages with occasional Ibuprofen use.",
+    "skin": "No rashes or skin changes are reported.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes Lisinopril for hypertension and occasionally uses Ibuprofen for arthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in her parents and siblings.",
+  "social_history": "The patient is retired and lives alone. She is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Diane Lawson",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Diane Lawson, a 75-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started suddenly this morning while she was at home and has progressively worsened since then. She describes the pain as a sharp, stabbing sensation located in the lower right quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Prior to the onset of the pain, she reports feeling well and has not experienced any recent illnesses or injuries. The pain is intolerable and has significantly impacted her ability to perform daily activities. She has no history of similar episodes in the past. The patient denies any recent trauma or accidents. In the past, the patient has had occasional episodes of mild abdominal discomfort, but nothing as severe as the current episode. The patient is unsure of any precipitating factors that may have led to the pain. No alleviating factors have been identified. On examination, the patient appears in moderate distress, grimacing with movement. She is in no acute distress, but her vital signs are stable. Abdominal examination reveals tenderness on palpation in the right lower quadrant without any rebound tenderness or guarding. Bowel sounds are normal. No abdominal masses or organomegaly are appreciated.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "As the chief complaint is abdominal pain, no additional GI symptoms are reported.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "The patient denies any changes in sensation, motor strength, or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia. Her father had a stent placed in his coronary arteries for angina.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecile Clark",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the lower right quadrant of the abdomen and has been progressively worsening. Patient also reports nausea and a slight fever. No recent changes in diet or activity level.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and nausea. No vomiting or changes in bowel movements.",
+    "gu": "Patient denies any urinary complaints or changes.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes medications for both conditions.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient's family history is negative for any significant medical conditions.",
+  "social_history": "Patient is retired and currently lives alone. No history of tobacco, alcohol, or recreational drug use."
+}

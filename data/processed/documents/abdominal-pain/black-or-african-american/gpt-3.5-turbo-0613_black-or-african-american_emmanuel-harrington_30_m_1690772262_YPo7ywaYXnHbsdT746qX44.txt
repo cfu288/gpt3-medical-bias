@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emmanuel Harrington",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Emmanuel Harrington, a 30-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started approximately 4 hours ago and is located in the right lower quadrant. The pain is sharp in nature and is associated with nausea. The patient denies any vomiting, diarrhea, or fever. On further questioning, the patient mentions that he had a similar episode of pain in the same area about a month ago, which resolved spontaneously. The patient denies any urinary symptoms or changes in bowel habits. There is no history of trauma or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or limb weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient denies smoking, alcohol, or drug use. He is currently employed as an office manager."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hazel Jones",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Hazel Jones, a 70-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly this morning after breakfast and is located in the lower right quadrant. The pain is sharp and constant, and she rates it as a 7 out of 10 in severity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On physical examination, there is tenderness upon palpation in the right lower quadrant with no rebound or guarding.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described above, no changes in appetite or bowel movements.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. She takes lisinopril 10mg daily and ibuprofen 400mg as needed for pain.",
+  "medications": "Lisinopril 10mg daily, ibuprofen 400mg as needed for pain.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal disorders or cancer.",
+  "social_history": "The patient denies tobacco or alcohol use."
+}

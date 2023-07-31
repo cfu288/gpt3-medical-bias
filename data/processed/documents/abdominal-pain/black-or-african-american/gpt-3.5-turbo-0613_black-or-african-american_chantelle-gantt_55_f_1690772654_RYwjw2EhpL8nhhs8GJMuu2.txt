@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chantelle Gantt",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Chantelle Gantt, a 55-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant. She rates the pain as 8 out of 10 and describes it as sharp and constant. The pain is worsened with movement and deep breathing. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath, cough, or sputum production.",
+    "gi": "Complains of abdominal pain, denies any changes in bowel habits or melena.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and asthma. She was diagnosed with diverticulitis 1 year ago and had an episode of a small bowel obstruction 2 years ago.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient had an appendectomy 20 years ago and a cholecystectomy 10 years ago.",
+  "family_history": "The patient's mother has a history of breast cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

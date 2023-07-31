@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilfred Blackman",
+  "age": "92",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Blackman, is a 92-year-old male who presents to the emergency department with complaints of abdominal pain. He reports that the pain started earlier today and it is located in the lower right quadrant of his abdomen. The pain is sharp and constant, with a severity of 7 out of 10. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. He has not tried any medications to relieve the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain without any nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. He is currently taking lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "medications": "Lisinopril, simvastatin",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

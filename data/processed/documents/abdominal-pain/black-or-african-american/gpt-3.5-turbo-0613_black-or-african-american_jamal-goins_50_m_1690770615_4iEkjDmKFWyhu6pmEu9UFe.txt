@@ -1,0 +1,23 @@
+{
+  "patient_name": "Jamal Goins",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jamal Goins, is a 50-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant, sharp in nature, and radiates to the back. The patient denies any associated symptoms such as nausea, vomiting, or fever. He reports no history of similar episodes in the past. On examination, the abdomen is tender on palpation in the right lower quadrant. There is no visible abdominal distention or guarding.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "Apart from the current abdominal pain, the patient denies any other gastrointestinal symptoms such as bloating, diarrhea, or constipation.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness reported.",
+    "skin": "No skin changes or rashes reported.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits reported."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension, controlled with medications. He denies any significant past medical illnesses or hospitalizations.",
+  "medications": "The patient is currently taking Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any prior surgeries.",
+  "family_history": "The patient reports no significant family history of medical illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Merri Davis",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Merri Davis, a 48-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started yesterday afternoon and has been constant since then. The pain is located in the lower left quadrant of her abdomen and is crampy in nature. She rates the severity of the pain as 7 out of 10. The pain is worsened by movement and deep breathing. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. Prior to the onset of the pain, she recalls eating a large meal at a restaurant. She denies any recent travel or exposure to sick contacts. She has no history of similar episodes in the past. Upon further questioning, she also reports experiencing constipation for the past two days. She has not tried any over-the-counter medications for relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her chief complaint. She denies any nausea, vomiting, diarrhea, or blood in her stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and takes lisinopril daily. She is not aware of any other medical conditions.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension on her father's side.",
+  "social_history": "The patient denies any tobacco or alcohol use. She works as an office manager and lives with her husband and two teenage children."
+}

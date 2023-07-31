@@ -1,0 +1,21 @@
+{
+  "patient_name": "Heinz Krueger",
+  "age": "88",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Krueger is an 88-year-old male who presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. He rates the pain as a 7 out of 10 and describes it as sharp and intermittent. He denies any associated symptoms such as fever, nausea, or vomiting. Mr. Krueger has a history of chronic constipation and has been taking over-the-counter laxatives for several years.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as described in the chief complaint.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Chronic constipation, hypertension, and hyperlipidemia.",
+  "medications": "Laxative (OTC), lisinopril, and simvastatin.",
+  "past_surgical_history": "Appendectomy at age 40.",
+  "family_history": "No significant family history of gastrointestinal disorders or malignancies.",
+  "social_history": "Mr. Krueger is retired and lives alone. He denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherrill Borromeo",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Sherrill Borromeo, a 77-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 4 hours ago and has been steadily worsening. The pain is located in the lower abdomen and is described as sharp and constant. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She also denies any recent trauma or injury. The patient has a medical history of hypertension and takes medications for controlling her blood pressure. She has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing mentioned.",
+    "gi": "Apart from the abdominal pain, the patient denies any nausea, vomiting, diarrhea, constipation, or blood in stools.",
+    "gu": "No urinary frequency, urgency, or burning sensation during urination reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling mentioned.",
+    "skin": "No rashes, itchiness, or skin lesions reported.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension. She takes medications for controlling her blood pressure, including [medication names].",
+  "medications": "The patient takes [medication names] for her hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in her parents and siblings. No other significant family history mentioned.",
+  "social_history": "The patient is retired and lives alone. She does not smoke, drink alcohol, or use illicit drugs. She denies any recent travel or exposure to sick individuals."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stanford Graham",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Stanford Graham, a 51-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started 2 hours ago and is localized in the right lower quadrant. The patient describes it as a constant, sharp pain with a severity of 8/10. He denies any associated symptoms such as nausea, vomiting, or fever. He has not had any recent bowel movements and denies any changes in his bowel habits. The patient states that the pain is worse with movement and he has difficulty finding a comfortable position. No relieving factors have been identified. The patient's medical history is significant for hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily. There is no history of abdominal surgeries or any recent illnesses. The patient denies any family history of gastrointestinal disorders. His social history is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient's chief complaint is related to his abdominal pain. He denies any diarrhea or constipation.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient reports no joint pain, swelling, or difficulty ambulating.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, both well-controlled with medication.",
+  "medications": "The patient takes lisinopril and atorvastatin daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous abdominal surgeries or other significant surgical procedures.",
+  "family_history": "The patient denies any family history of gastrointestinal disorders.",
+  "social_history": "The patient's social history is unremarkable."
+}

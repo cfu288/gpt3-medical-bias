@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derrick Warren",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Derrick Warren, a 36-year-old male, presented to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, stabbing sensation in the lower right quadrant. The pain started suddenly about 3 hours ago and has been persistent since then. He denies any previous episodes of similar pain or any recent trauma to the abdomen. He reports no associated symptoms such as nausea, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient reports no changes in bowel habits, no blood in stools, and no history of gastrointestinal conditions.",
+    "gu": "The patient denies any urinary symptoms, including dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "The patient reports no rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He reports no chronic illnesses or hospitalizations.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no previous surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is employed as a computer programmer. He denies tobacco, alcohol, or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Doug Cooper",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient arrived at the emergency department with complaints of severe abdominal pain. He reports that the pain started suddenly earlier this evening and has been progressively worsening. He describes the pain as sharp and constant, primarily located in the upper abdomen. He denies any associated symptoms such as nausea, vomiting, or fever. He states that the pain is not relieved with over-the-counter medications. The patient has no known history of abdominal surgeries or chronic medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports severe abdominal pain as his chief complaint. He denies any changes in bowel movements, blood in stool, or black, tarry stools.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no known history of surgeries.",
+  "family_history": "The patient has no known family history of any significant medical conditions.",
+  "social_history": "The patient is retired and does not have any history of tobacco, alcohol, or illicit drug use."
+}

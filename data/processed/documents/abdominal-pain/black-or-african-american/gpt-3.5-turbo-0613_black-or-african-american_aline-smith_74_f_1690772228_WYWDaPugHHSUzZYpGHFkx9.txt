@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aline Smith",
+  "age": "74",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department today with severe abdominal pain localized to the right lower quadrant. She reports that the pain started earlier this morning and has been constant since then. She rates the pain as 8 out of 10 in severity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On physical examination, there is tenderness to palpation in the right lower quadrant of the abdomen. There is no rebound tenderness or guarding. Based on the clinical presentation and examination findings, the initial impression is acute appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "Patient reports abdominal pain as described above. Denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, itching, or changes in moles.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and has been on amlodipine 5 mg daily for the past 3 years. She denies any other significant medical conditions or previous hospitalizations.",
+  "medications": "Amlodipine 5 mg daily.",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient's family history is non-contributory. She does not have any known family history of gastrointestinal disorders or surgical interventions.",
+  "social_history": "The patient is retired and lives at home with her husband. She denies smoking, alcohol, or illicit drug use."
+}

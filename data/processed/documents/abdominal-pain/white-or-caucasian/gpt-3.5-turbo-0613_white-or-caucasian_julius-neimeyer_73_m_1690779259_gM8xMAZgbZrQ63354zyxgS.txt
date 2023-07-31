@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julius Neimeyer",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Neimeyer is a 73-year-old male who presents to the emergency department with complaints of severe abdominal pain. He states that the pain started suddenly about 3 hours ago and is located in the lower right side of his abdomen. He describes the pain as sharp and constant, and rates it as a 9 out of 10 in severity. He denies any recent trauma or injury. The pain is worsened by movement and is not relieved by over-the-counter pain medications. He denies any associated nausea, vomiting, or changes in bowel movements. His last bowel movement was this morning and was normal in consistency. He also denies any urinary symptoms or fever. He states that he has no significant past medical history and has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for severe abdominal pain located in the lower right quadrant.",
+    "gu": "Negative for urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient denies any significant past medical history. No history of previous abdominal surgeries or chronic conditions.",
+  "medications": "Patient does not take any regular medications.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient states that there is no significant family history of abdominal conditions or other relevant medical conditions.",
+  "social_history": "Patient is retired and lives alone. He denies smoking, alcohol, or illicit drug use."
+}

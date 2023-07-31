@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ramona Bennett",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Patient reports the pain started this morning and has been constant since then. The pain is located in the lower right quadrant of the abdomen and is sharp in nature. Patient rates the pain as 8/10 on the pain scale. Patient denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports the abdominal pain as the primary symptom.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle pain.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches or changes in mental status."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes losartan for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient denies any significant family medical history.",
+  "social_history": "Patient is retired and lives alone. She does not smoke or consume alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Boyd",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ola Boyd, a 73-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She states that the pain began approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant, with a severity of 7 out of 10. She denies any associated symptoms such as fever, nausea, or vomiting. She has not had any recent changes in bowel movements or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "Patient reports abdominal pain, denies nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Patient denies any musculoskeletal complaints.",
+    "skin": "No skin abnormalities reported.",
+    "neurologic": "Patient denies any neurologic symptoms such as headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient reports no significant family history of medical conditions.",
+  "social_history": "Patient is retired and lives alone. She is a non-smoker and denies alcohol or illicit drug use."
+}

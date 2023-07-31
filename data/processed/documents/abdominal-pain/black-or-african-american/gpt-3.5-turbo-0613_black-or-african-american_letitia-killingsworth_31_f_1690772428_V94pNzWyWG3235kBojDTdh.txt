@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Letitia Killingsworth",
+  "age": "31",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Letitia Killingsworth, a 31-year-old female, presents to the Emergency Department with complaints of abdominal pain. She describes the pain as sharp and localized to the right lower quadrant of her abdomen. The pain started approximately 12 hours ago and has been gradually worsening. She denies any recent trauma or injury, and she has not experienced these symptoms before. She has not taken any medications for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or night sweats.",
+    "cardiovascular": "Denies any chest pain or palpitations.",
+    "respiratory": "Denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain and denies any nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "Denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "Patient reports no prior surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient smokes 1 pack of cigarettes daily and drinks alcohol occasionally."
+}
+```

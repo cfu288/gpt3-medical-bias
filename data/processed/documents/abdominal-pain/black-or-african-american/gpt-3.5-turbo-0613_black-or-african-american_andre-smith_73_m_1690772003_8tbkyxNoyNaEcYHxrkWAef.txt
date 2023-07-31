@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, a 73-year-old male named Andre Smith, presented to the emergency department with a complaint of abdominal pain. The pain is localized to the right lower quadrant and started approximately 12 hours ago. The patient describes the pain as sharp and worsening with movement. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. On further questioning, he reports being constipated for the past few days. The patient denies any previous episodes of similar pain or prior surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies any cough, shortness of breath, or sputum production.",
+    "gi": "Reports constipation for the past few days. Denies any nausea, vomiting, or diarrhea.",
+    "gu": "Denies any dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any rashes, itching, or skin lesions.",
+    "neurologic": "Denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports having a history of hypertension and hyperlipidemia. He is currently on medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "Patient reports no significant family history of any medical conditions.",
+  "social_history": "Patient denies smoking or alcohol use. He lives alone and is able to perform activities of daily living independently."
+}

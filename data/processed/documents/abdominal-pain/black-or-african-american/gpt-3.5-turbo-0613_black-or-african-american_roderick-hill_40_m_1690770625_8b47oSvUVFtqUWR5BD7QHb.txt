@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderick Hill",
+  "age": "40",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Roderick Hill, a 40-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is located in the lower abdomen. He describes the pain as a dull ache and rates it as a 6 out of 10 in severity. He denies any aggravating or alleviating factors. He has not experienced any other associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain is continuous and has not resolved since onset. The patient states that he has never experienced this type of pain before. He denies any recent trauma or injuries. He has tried over-the-counter pain medications, but they have not provided significant relief. Overall, the patient appears uncomfortable but is in no acute distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal bloating and mild constipation, but no diarrhea or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin for these conditions. There are no known drug allergies.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's mother has a history of hypertension and his father has a history of diabetes.",
+  "social_history": "The patient is married, works as an accountant, and denies any tobacco or illicit drug use. He consumes alcohol occasionally."
+}

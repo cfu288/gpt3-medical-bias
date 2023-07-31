@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derrick Williams",
+  "age": "18",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Derrick Williams, an 18-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain started earlier today and is located in the right lower quadrant. He rates the pain as 7 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. There is no history of recent trauma or significant medical conditions. He has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any constitutional symptoms such as fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as his chief complaint. He denies any nausea, vomiting, diarrhea, or blood in the stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history and denies any chronic medical conditions.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gaetano Lipscomb",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Gaetano Lipscomb, a 49-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant of the abdomen. The pain is described as sharp and intermittent, with a severity of 7/10. The patient denies any associated fever, nausea, or vomiting. He states that the pain is worse with movement. Upon further questioning, the patient reports no recent changes in bowel movements, no blood in the stool, and no urinary symptoms. He denies any recent trauma or injury to the abdomen. The patient has not tried any over-the-counter medications for the pain. There is no known history of similar episodes in the past. The patient is otherwise healthy with no significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports the abdominal pain as the primary gastrointestinal symptom.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or neurological symptoms."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He reports that he lives a sedentary lifestyle and has a balanced diet."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geri Hastings",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Geri Hastings, a 51-year-old female, presents to the emergency department with complaints of severe abdominal pain that started 6 hours ago. The pain is located in the epigastric region and radiates to the back. The patient describes the pain as constant, sharp, and worsens with movement. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She also reports a history of similar episodes in the past, but this episode is more severe and not relieved with over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or difficulty breathing",
+    "gi": "Abdominal pain as described in the history of present illness section",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or itching",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of gastroesophageal reflux disease (GERD) and hypertension.",
+  "medications": "The patient takes omeprazole 20 mg daily for GERD and amlodipine 5 mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient's family history is unremarkable for any major illnesses.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}

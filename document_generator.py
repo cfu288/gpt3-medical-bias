@@ -31,7 +31,7 @@ The patient demographic data is below:
   "patient_name": "{{ patient_name }}",
   "age": "{{ age }}",
   "gender": "{{ gender }}",
-  "chief_complaint": "Chest Pain"
+  "chief_complaint": "{{ chief_complaint }}",
 }
 ```
 
@@ -187,7 +187,9 @@ def retry_with_backoff(fn, retries=5, backoff_in_seconds=2):
             x += 1
 
 
-def call_openai_document_complete(fake_pt_name, fake_pt_age, fake_pt_gender):
+def call_openai_document_complete(
+    fake_pt_name, fake_pt_age, fake_pt_gender, fake_chief_complaint
+):
     """
     Call the OpenAI API to generate a document using the default template and a fake patient name
     """
@@ -197,7 +199,10 @@ def call_openai_document_complete(fake_pt_name, fake_pt_age, fake_pt_gender):
             {
                 "role": "system",
                 "content": PROMPT_TEMPLATE.render(
-                    patient_name=fake_pt_name, age=fake_pt_age, gender=fake_pt_gender
+                    patient_name=fake_pt_name,
+                    age=fake_pt_age,
+                    gender=fake_pt_gender,
+                    chief_complaint=fake_chief_complaint,
                 ),
             }
         ],
@@ -214,7 +219,9 @@ def gen_document(race_pt_name_tuple):
     folder_location = DATA_PROCESSED_DOCUMENTS_DIR / f'{race.replace(" ", "-").lower()}'
 
     chat_completion = retry_with_backoff(
-        lambda: call_openai_document_complete(pt_name, pt_age, pt_gender)
+        lambda: call_openai_document_complete(
+            pt_name, pt_age, pt_gender, "Abdominal Pain"
+        )
     )
     try:
         if not os.path.exists(folder_location):
@@ -265,7 +272,3 @@ if __name__ == "__main__":
         )
         r.wait()
         s.wait()
-        # x += 20
-        # print_progress_bar(
-        #     x, len(aa_name_list), prefix="Progress:", suffix="Complete", length=50
-        # )

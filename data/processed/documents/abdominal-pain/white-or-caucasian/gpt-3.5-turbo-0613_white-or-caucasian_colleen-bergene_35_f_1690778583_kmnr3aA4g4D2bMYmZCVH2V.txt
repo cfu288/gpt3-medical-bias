@@ -1,0 +1,21 @@
+{
+  "patient_name": "Colleen Bergene",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Colleen Bergene, a 35-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. She describes the pain as sharp and constant, with a rating of 8 out of 10 on the pain scale. She states that the pain is worsened with movement and deep inspiration. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The patient denies any recent trauma or similar episodes in the past. On further questioning, she reports a history of intermittent abdominal pain over the past few months, but states that this episode is the most severe and different from her usual pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient denies any changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic":"The patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) but is otherwise healthy.",
+  "medications": "The patient takes over-the-counter ibuprofen occasionally for her previous episodes of abdominal pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's mother has a history of gallbladder disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

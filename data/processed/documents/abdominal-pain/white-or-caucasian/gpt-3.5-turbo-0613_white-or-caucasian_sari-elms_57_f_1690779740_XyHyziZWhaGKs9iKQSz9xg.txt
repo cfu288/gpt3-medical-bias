@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sari Elms",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Sari Elms, a 57-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is localized to the lower right quadrant of the abdomen. The pain is sharp in nature and has worsened over time. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She states that the pain is constant and has not significantly improved or worsened. She rates the pain severity as a 7 out of 10 on the pain scale. No alleviating or aggravating factors are identified at this time. The patient denies any previous episodes of similar pain or any recent trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as described above. Denies nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is currently on Lisinopril for blood pressure control and Atorvastatin for lipid management.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgical interventions.",
+  "family_history": "No significant family history of abdominal conditions or malignancies.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She is a retired teacher with a sedentary lifestyle and no recent travel."
+}

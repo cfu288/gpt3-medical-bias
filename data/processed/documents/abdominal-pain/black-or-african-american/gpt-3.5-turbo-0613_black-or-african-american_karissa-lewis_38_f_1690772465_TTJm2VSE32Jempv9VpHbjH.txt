@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Karissa Lewis",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the lower right quadrant and is constant. The patient denies any recent trauma or injury. She reports associated symptoms including nausea and vomiting. On physical examination, there is tenderness and rebound tenderness in the right lower quadrant. No guarding or rigidity is noted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or recent weight loss.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports no changes in bowel movements, blood in stool, or diarrhea.",
+    "gu": "The patient denies dysuria, hematuria, or urgency.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) diagnosed 5 years ago. She also has a history of depression and is currently taking escitalopram.",
+  "medications": "1. Escitalopram 10 mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother has a history of inflammatory bowel disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or recreational drug use."
+}
+```

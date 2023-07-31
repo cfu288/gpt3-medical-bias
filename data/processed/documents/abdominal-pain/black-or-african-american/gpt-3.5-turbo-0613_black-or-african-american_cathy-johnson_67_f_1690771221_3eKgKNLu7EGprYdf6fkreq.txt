@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cathy Johnson",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Cathy Johnson, a 67-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started suddenly and is located in the lower right side of her abdomen. The pain is constant and has been worsening over the past few hours. She denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for severe abdominal pain localized to the lower right side. Negative for nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and ibuprofen 400mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient states that her mother had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

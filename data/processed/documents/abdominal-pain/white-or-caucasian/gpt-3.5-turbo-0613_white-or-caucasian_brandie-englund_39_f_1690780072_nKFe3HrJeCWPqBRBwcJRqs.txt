@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brandie Englund",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Brandie Englund, a 39-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as constant and located in the lower abdomen. She rates the pain as 7/10 in intensity and describes it as a dull ache. She states that the pain started approximately 6 hours ago and has been worsening since then. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She reports no recent changes in diet or bowel habits. She also denies any history of similar episodes in the past. On examination, the patient appears uncomfortable and is guarding her abdomen. There is mild tenderness on palpation, with no rebound tenderness or rigidity. Bowel sounds are present. All other systems reviews are negative.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, dyspnea, or wheezing.",
+    "gi": "Positive for abdominal pain as described.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Appendectomy at age 16.",
+  "family_history": "Negative for any significant family history of gastrointestinal disorders.",
+  "social_history": "The patient denies any history of tobacco, alcohol, or illicit drug use. She is married and works as a teacher."
+}

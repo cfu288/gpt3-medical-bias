@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deric Norwood",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Deric Norwood, a 30-year-old male, presents to the emergency department with complaints of abdominal pain. He states that the pain began approximately 4 hours ago and is located in the right lower quadrant. He rates the pain as 6 out of 10 in severity. The pain is constant and non-radiating. He denies any associated symptoms such as fever, nausea, or vomiting. He denies any recent trauma or significant medical history. Upon further questioning, the patient reports a recent history of dietary changes including increased intake of spicy foods. The patient denies any other gastrointestinal symptoms such as changes in bowel habits, blood in stool, or weight loss. He also denies any urinary symptoms, chest pain, or shortness of breath. The patient reports no other significant medical history. He denies any use of medications, recreational drugs, or tobacco. He drinks alcohol occasionally. There are no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Denies any changes in bowel habits, blood in stool, or weight loss.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of gastrointestinal or other medical conditions.",
+  "social_history": "The patient works as an office manager and denies any significant occupational exposures. He drinks alcohol occasionally and denies any illicit drug use or tobacco."
+}
+```

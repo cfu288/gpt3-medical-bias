@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rochelle Murphy",
+  "age": "62",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rochelle Murphy, is a 62-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. She describes the pain as sharp and worsening with movement. She denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports intermittent episodes of diarrhea over the past week, but denies any blood in the stool or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's mother had a history of colon cancer.",
+  "social_history": "The patient is a retired school teacher and lives alone. She denies tobacco or alcohol use."
+}
+```

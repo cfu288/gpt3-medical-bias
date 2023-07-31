@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Constantine King",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. King, is a 57-year-old male who presents to the emergency department with a chief complaint of abdominal pain. The pain is described as sharp and localized in the right lower quadrant. It started yesterday afternoon and has been constant since then. The patient rates the pain intensity as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On further inquiry, the patient reports recent onset of fever and chills. He denies any recent trauma or injury. The patient has never experienced similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as the primary symptom. He denies any history of gastroesophageal reflux disease (GERD), peptic ulcer disease, or inflammatory bowel disease.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensorium."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes medication.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no known history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and diabetes in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

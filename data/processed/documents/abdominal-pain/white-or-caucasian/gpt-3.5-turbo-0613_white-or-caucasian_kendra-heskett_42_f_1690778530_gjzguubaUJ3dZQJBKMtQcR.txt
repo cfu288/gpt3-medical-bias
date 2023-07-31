@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kendra Heskett",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient came to the emergency department complaining of severe abdominal pain. She described the pain as sharp and localized to the lower right quadrant of her abdomen. She reports that the pain started approximately 6 hours ago and has been progressively worsening. She denies any nausea, vomiting, or changes in bowel movements. She denies any recent trauma or injury to the abdomen. The patient appears uncomfortable and is having difficulty finding a comfortable position.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as the only gastrointestinal symptom.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of appendectomy at age 16. She reports no other significant past medical history.",
+  "medications": "Patient takes no regular medications and denies any allergies to medications.",
+  "past_surgical_history": "Patient has a history of appendectomy at age 16. No other significant surgical history.",
+  "family_history": "Patient reports no significant family history of gastrointestinal conditions or similar abdominal pain.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

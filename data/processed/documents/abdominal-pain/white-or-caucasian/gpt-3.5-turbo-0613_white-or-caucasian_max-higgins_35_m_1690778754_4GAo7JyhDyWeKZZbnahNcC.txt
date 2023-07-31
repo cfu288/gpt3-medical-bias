@@ -1,0 +1,21 @@
+{
+  "patient_name": "Max Higgins",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Max Higgins, a 35-year-old male, presents to the emergency department with complaints of abdominal pain. He describes the pain as a dull ache in the lower right quadrant of his abdomen. The pain started approximately 12 hours ago and has gradually worsened. Max denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that the pain is constant and does not significantly change with movement or position. Max reports no known triggers or exacerbating factors. He denies any recent trauma or previous episodes of similar pain. Upon further questioning, he mentions that he has had some loose stools over the past few days but attributes it to something he ate. Max has not taken any over-the-counter medications for his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. Denies diarrhea, constipation, or changes in appetite.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Max has a past medical history of asthma and seasonal allergies. He takes an albuterol inhaler as needed for asthma symptoms and takes loratadine daily for allergies.",
+  "medications": "Albuterol inhaler as needed, loratadine daily.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of gastrointestinal or other relevant illnesses.",
+  "social_history": "Max is married and works as a software engineer. He denies tobacco, alcohol, or illicit drug use."
+}

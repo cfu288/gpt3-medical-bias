@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oliver Norris",
+  "age": "24",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Oliver Norris, a 24-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, cramping sensation in the lower right quadrant. The pain started approximately 6 hours ago and has been gradually increasing in intensity. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. There is no history of trauma or recent illness. He has not taken any medication for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Reports severe abdominal pain in the lower right quadrant. Denies nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "No urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of abdominal disorders or chronic diseases.",
+  "social_history": "Patient denies smoking, alcohol consumption, or illicit drug use. He works as a software engineer and denies recent travel or exposure to sick contacts."
+}

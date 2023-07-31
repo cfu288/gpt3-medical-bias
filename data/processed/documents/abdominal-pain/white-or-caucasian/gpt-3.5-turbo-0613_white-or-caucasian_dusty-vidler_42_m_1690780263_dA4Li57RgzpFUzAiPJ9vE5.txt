@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dusty Vidler",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Dusty Vidler, a 42-year-old male, presented to the emergency department with chief complaint of abdominal pain. He reports that the pain started last night and has been progressively worsening. He describes the pain as a constant, dull ache in the upper abdomen, which radiates to the back. He denies any nausea, vomiting, or change in bowel movements. On further questioning, he also reports a loss of appetite and unintentional weight loss over the past month. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Reports abdominal pain as described in chief complaint",
+    "gu": "Denies dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. He also reports a remote history of appendectomy.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Appendectomy approximately 15 years ago. No other significant surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anton Wright",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Anton Wright, is a 48-year-old male who presents to the emergency department with complaints of abdominal pain. He describes the pain as a dull, aching sensation in the lower right quadrant of his abdomen. The pain started approximately 4 hours ago and has been constant since then. He rates the pain as a 7 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He has not noticed any relief or exacerbation of the pain with food intake.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient has complaints of abdominal pain as described in the chief complaint.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/weakness in any extremity."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia.",
+  "medications": "The patient currently takes lisinopril and atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease, cancer, or autoimmune disorders.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He consumes alcohol occasionally."
+}

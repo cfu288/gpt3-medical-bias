@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wayne Ballance",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Ballance presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 6 hours ago and is located in the lower right quadrant of the abdomen. He rates the pain as 8 out of 10 and describes it as sharp and constant. He denies any nausea, vomiting, diarrhea, or changes in bowel habits. On further questioning, he reports no urinary symptoms or fever. Physical examination reveals tenderness and rebound tenderness in the right lower quadrant. Based on these findings, a possible diagnosis of appendicitis is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing",
+    "gi": "Reports abdominal pain as chief complaint. Denies nausea, vomiting, or diarrhea",
+    "gu": "Denies urinary symptoms or hematuria",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Mr. Ballance has a history of hypertension, for which he takes lisinopril",
+  "medications": "Lisinopril, 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Positive for hypertension in family",
+  "social_history": "Retired construction worker. Denies tobacco, alcohol, or illicit drug use"
+}

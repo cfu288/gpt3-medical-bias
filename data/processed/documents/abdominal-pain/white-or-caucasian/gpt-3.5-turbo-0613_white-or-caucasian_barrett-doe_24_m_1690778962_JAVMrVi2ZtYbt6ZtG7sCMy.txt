@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barrett Doe",
+  "age": "24",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Barrett Doe, a 24-year-old male, presented to the emergency department with complaints of severe abdominal pain. According to the patient, the pain started approximately 6 hours ago and has been constant and localized to the lower right quadrant. He reports that the pain is worsened with movement and is associated with nausea and vomiting. The patient denies any recent fevers, chills, or changes in bowel movements. Upon further questioning, he states that he has recently traveled to a rural area and consumed food from street vendors. He also reports no previous similar episodes. Vital signs are within normal limits with the exception of a slightly elevated temperature of 37.8°C. Upon physical examination, there is tenderness and guarding in the lower right quadrant of the abdomen. Based on the patient's history and clinical presentation, appendicitis is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports nausea and vomiting associated with the abdominal pain. He denies any diarrhea, constipation, or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies any current use of medications.",
+  "past_surgical_history": "The patient has not undergone any previous surgeries.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient reports occasional alcohol use and denies tobacco or illicit drug use."
+}

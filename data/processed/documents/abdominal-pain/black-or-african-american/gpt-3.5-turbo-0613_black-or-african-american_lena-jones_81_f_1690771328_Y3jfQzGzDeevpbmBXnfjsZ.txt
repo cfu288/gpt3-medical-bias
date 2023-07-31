@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lena Jones",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Lena Jones, an 81-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a constant ache in the lower right side of her abdomen that started approximately 6 hours ago. The pain is worsened with movement and is accompanied by nausea and vomiting. The patient denies any fever, chills, or changes in bowel movements. She reports no known triggers for the pain and states that it is different from any previous abdominal pain she has experienced. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, changes in appetite, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports nausea and vomiting but denies any diarrhea, constipation, or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes Lisinopril 20mg daily for hypertension and Naproxen 500mg twice daily as needed for joint pain.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or consume alcohol."
+}

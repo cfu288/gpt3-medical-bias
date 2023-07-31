@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Heidi Carney",
+  "age": "22",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents with complaints of severe abdominal pain that started approximately 2 hours ago. She describes the pain as sharp and localized to the right lower quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, or fever. On physical examination, there is tenderness and guarding in the right lower quadrant of the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

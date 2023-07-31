@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Button",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mary Button, a 60-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is located in the lower abdomen. She describes the pain as sharp and constant. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The pain is not relieved by over-the-counter pain medications. She states that the pain has been progressively worsening since it started. She has no known history of abdominal surgeries or any underlying medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes daily medication for it.",
+  "medications": "Hypertension medication, Lisinopril 10mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's mother had diabetes.",
+  "social_history": "The patient denies tobacco or alcohol use. She is retired."
+}

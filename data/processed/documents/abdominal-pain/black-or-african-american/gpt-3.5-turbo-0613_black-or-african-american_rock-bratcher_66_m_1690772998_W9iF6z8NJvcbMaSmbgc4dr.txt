@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rock Bratcher",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant of the abdomen. The patient describes the pain as sharp and intermittent, and rates the intensity as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient has tried over-the-counter pain relievers with minimal relief. He denies any recent trauma or history of similar symptoms. Overall, the patient is in moderate distress due to the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or swelling in the legs.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports intermittent abdominal pain. Denies nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or muscle aches.",
+    "skin": "Patient denies rashes or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has a family history of hypertension in both parents.",
+  "social_history": "Patient denies tobacco or alcohol use. He lives alone and is retired."
+}

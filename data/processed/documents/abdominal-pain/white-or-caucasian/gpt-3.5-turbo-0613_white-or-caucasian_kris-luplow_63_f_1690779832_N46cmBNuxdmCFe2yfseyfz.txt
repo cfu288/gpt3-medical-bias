@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Kris Luplow",
+  "age": "63",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Kris Luplow, a 63-year-old female, presented to the emergency department with complaints of severe abdominal pain. The pain started this morning and is located in the lower right quadrant. The patient rates the pain as 8 out of 10 and describes it as sharp and stabbing in nature. She reports that the pain worsens with movement and is associated with nausea and vomiting. There is no history of trauma or recent abdominal surgeries. On examination, the abdomen is tender to palpation in the lower right quadrant with rebound tenderness. There is no guarding or rigidity. Bowel sounds are present and normal. No hernias or masses palpated. The patient denies any urinary symptoms or changes in bowel habits. She reports no fever or chills. Based on the history, physical examination, and initial workup, the working diagnosis is acute appendicitis. Further investigations and consultation with general surgery are planned.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Nausea and vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Pain limited to the abdominal area",
+    "skin": "No rashes or wounds",
+    "neurologic": "No headache or neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. No other significant medical history.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No history of abdominal surgeries.",
+  "family_history": "No family history of abdominal surgeries or gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use."
+}
+```

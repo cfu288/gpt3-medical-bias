@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reynold Rosburg",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Reynold Rosburg, a 59-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain started 2 days ago and is located in the lower right side of the abdomen. He describes the pain as sharp and constant, with a severity of 7 out of 10. The pain is exacerbated by movement and is associated with nausea and vomiting. He denies any history of trauma or recent illness. He states that he has not had a bowel movement in 2 days and has noticed a decrease in appetite. The patient reports no urinary symptoms or fevers.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Positive for abdominal pain, nausea, vomiting, constipation, decreased appetite",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hypercholesterolemia. He takes metoprolol and atorvastatin daily.",
+  "medications": "Metoprolol 50 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

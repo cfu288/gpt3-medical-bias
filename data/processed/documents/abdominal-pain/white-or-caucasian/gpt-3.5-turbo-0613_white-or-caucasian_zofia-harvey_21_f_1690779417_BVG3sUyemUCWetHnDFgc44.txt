@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Zofia Harvey",
+  "age": "21",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Zofia Harvey, a 21-year-old female, presented to the emergency department with a chief complaint of abdominal pain. She reports that the pain started earlier today and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant, with a severity of 7 out of 10. The pain has been associated with nausea but no vomiting. She denies any recent trauma or injury to the abdomen. On examination, her abdomen is slightly distended and tender to palpation in the right lower quadrant. There are no signs of peritonitis or rebound tenderness. Based on the patient's history and physical examination findings, appendicitis is suspected as the most likely diagnosis. Further diagnostic tests, including laboratory studies and imaging, will be performed to confirm the diagnosis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports mild diarrhea but no blood in the stools.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

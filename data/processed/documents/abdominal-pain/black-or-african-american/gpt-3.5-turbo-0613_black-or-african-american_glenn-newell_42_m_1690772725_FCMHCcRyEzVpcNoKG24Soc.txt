@@ -1,0 +1,21 @@
+{
+  "patient_name": "Glenn Newell",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Glenn Newell, a 42-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant of the abdomen. He describes the pain as a sharp, constant pain with occasional waves of cramping. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel movements. He denies any recent trauma or injury to the abdomen. He also denies any urinary symptoms or hematuria. The patient states that the pain has worsened since it started and rates it as a 7 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or malaise.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions, but he does not recall the names or dosages.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, but the names and dosages are unknown.",
+  "past_surgical_history": "The patient has no history of prior surgeries.",
+  "family_history": "The patient's family history is noncontributory. There is no history of abdominal pain or gastrointestinal disorders in the family.",
+  "social_history": "The patient denies tobacco or alcohol use. He works in an office setting and denies any recent travel or exposure to sick contacts."
+}

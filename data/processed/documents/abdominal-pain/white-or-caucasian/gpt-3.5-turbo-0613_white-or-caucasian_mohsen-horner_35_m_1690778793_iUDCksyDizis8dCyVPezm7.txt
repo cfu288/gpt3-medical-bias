@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mohsen Horner",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and sharp in nature. The patient denies any associated symptoms such as vomiting, diarrhea, fever, or urinary symptoms. Upon further questioning, the patient reports a previous history of similar episodes of abdominal pain but has never sought medical attention for them.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "In addition to the abdominal pain, the patient denies any nausea, vomiting, diarrhea, constipation, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies. He takes an albuterol inhaler as needed for asthma symptoms. There is no history of any chronic medical conditions or hospitalizations.",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no significant family history of medical illnesses.",
+  "social_history": "The patient denies any tobacco or alcohol use. He works as an engineer and lives with his wife and two children. There is no history of recent travel or exposure to sick contacts."
+}
+```

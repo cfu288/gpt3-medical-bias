@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Christi Manion"
+    },
+    "age": {
+      "type": "string",
+      "value": "44"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Ms. Manion, presented to the emergency department with a chief complaint of abdominal pain. She reports that the pain started approximately 6 hours ago and has been progressively worsening. The pain is located in the lower right quadrant of her abdomen and is associated with nausea and vomiting. She denies any urinary symptoms or changes in bowel movements. No known trigger for the pain. She rates the pain as 8/10 in intensity."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills or night sweats."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough or difficulty breathing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Abdominal pain as described above. No changes in appetite or bowel movements."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No urinary symptoms."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rashes or skin changes."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headache, dizziness or changes in sensation."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and diabetes."
+    },
+    "medications": {
+      "type": "string",
+      "value": "She takes metformin and lisinopril for her hypertension and diabetes, respectively."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of any surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient has a family history of diabetes in her father and a family history of colon cancer in her mother."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is married and works as an office manager. She denies tobacco, alcohol, or drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

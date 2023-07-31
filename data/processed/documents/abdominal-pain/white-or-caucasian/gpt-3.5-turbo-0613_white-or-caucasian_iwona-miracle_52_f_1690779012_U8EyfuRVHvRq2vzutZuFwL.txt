@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Iwona Miracle",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Iwona Miracle, a 52-year-old female, presents to the emergency department with complaints of abdominal pain. The pain is diffuse and has been present for the past 24 hours. She rates the pain as a 7 out of 10, and describes it as a constant ache. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She states that the pain is worse with movement and deep breathing. The patient has no history of abdominal surgeries or similar episodes of pain. She has not tried any medications or home remedies for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, and night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain but denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of abdominal or gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ruth Edwards",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ruth Edwards, a 42-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. She describes the pain as sharp and constant, with no alleviating factors. The pain is associated with nausea and occasional vomiting. No fever or chills reported. No recent history of trauma or known triggers for her symptoms. No prior episodes of similar abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "No recent weight loss, night sweats, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. No changes in appetite or bowel movements. No diarrhea, constipation, or blood in stool.",
+    "gu": "No urinary complaints or changes in urinary frequency or color.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, itching, or changes in skin color or texture.",
+    "neurologic": "No headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "No significant past medical history. No known allergies. Up to date on immunizations.",
+  "medications": "No regular medications. She took over-the-counter ibuprofen for the abdominal pain with no relief.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of abdominal conditions or chronic illnesses.",
+  "social_history": "The patient is a non-smoker. Social alcohol use, approximately 1-2 drinks per week. No history of illicit drug use."
+}
+```

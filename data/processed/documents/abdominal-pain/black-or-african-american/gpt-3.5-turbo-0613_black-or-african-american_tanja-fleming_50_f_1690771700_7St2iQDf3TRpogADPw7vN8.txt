@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tanja Fleming",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tanja Fleming, is a 50-year-old female who presents to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 6 hours ago and has been gradually worsening. The pain is located in the lower right quadrant of the abdomen and she rates it as 8 out of 10 on a pain scale. She denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. She reports no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension for the past 5 years. She takes medication for this condition.",
+  "medications": "The patient takes lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "Patient reports a family history of hypertension in her mother and sister.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

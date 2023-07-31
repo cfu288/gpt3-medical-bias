@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Isaiah Facey",
+  "age": "19",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient is a 19-year-old male presenting with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is localized to the right lower quadrant. Patient denies any recent trauma or previous episodes of similar pain. Pain is associated with nausea and vomiting. On examination, patient appears uncomfortable and is guarding the right lower quadrant. Bowel sounds are decreased. Rebound tenderness and McBurney's point tenderness are present. Initial assessment suggests appendicitis. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Reports severe abdominal pain with associated nausea and vomiting",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headaches or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. Lives with parents and attends college."
+}
+```

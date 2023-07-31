@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dean Flamino",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Flamino presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started yesterday evening and has been progressively worsening since then. He describes the pain as a sharp, cramping sensation located in the lower right quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or diarrhea. He also reports no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Severe abdominal pain, mostly in lower right quadrant. No nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Mr. Flamino has a history of hypertension, hyperlipidemia, and type 2 diabetes. He takes medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history of abdominal or gastrointestinal conditions.",
+  "social_history": "Mr. Flamino is a retired construction worker. He denies tobacco or alcohol use."
+}
+```

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Tresa Moore",
+  "age": "88",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient is an 88-year-old female presenting to the emergency department with complaints of acute onset severe abdominal pain. Pain is located in the lower right quadrant and she describes it as sharp and constant. She reports no associated symptoms such as nausea or vomiting. Pain started 4 hours ago and has been progressively worsening. She denies any recent trauma or falls. No recent change in bowel movements or urinary symptoms reported.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Negative for urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and diverticulosis.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension and simvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient had appendectomy at age 25 and cholecystectomy at age 55.",
+  "family_history": "Family history is significant for hypertension and diabetes in both parents. No history of cancer.",
+  "social_history": "Patient is retired and lives alone. She denies tobacco or alcohol use."
+}

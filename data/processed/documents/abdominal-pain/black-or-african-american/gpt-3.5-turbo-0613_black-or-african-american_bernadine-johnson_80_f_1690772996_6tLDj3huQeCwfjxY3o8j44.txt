@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Johnson",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bernadine Johnson, an 80-year-old female, presented to the emergency department with complaints of severe abdominal pain. According to the patient, the pain started in the lower right quadrant of the abdomen and has been progressively worsening over the past 24 hours. She rates the pain as 8 out of 10 on the pain scale and describes it as sharp and constant. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel habits. She states that she has experienced a decreased appetite due to the pain. The pain is not relieved with over-the-counter pain medications. On physical examination, the patient appears uncomfortable and is guarding her abdomen. There is tenderness and rebound tenderness in the right lower quadrant. The patient has a history of diverticulosis and has had multiple episodes of diverticulitis in the past. She denies any recent trauma or changes in bowel movements. Given the patient's symptoms and history, further evaluation is required to rule out acute diverticulitis or another cause for her abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient presents with abdominal pain. She denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of diverticulosis and multiple episodes of diverticulitis.",
+  "medications": "The patient is currently taking a daily regimen of acetaminophen for chronic pain management.",
+  "past_surgical_history": "The patient has a history of appendectomy and cholecystectomy, both performed in her 50s.",
+  "family_history": "The patient reports that her mother had a history of diverticulosis but no other significant family history of gastrointestinal conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is able to independently perform her activities of daily living."
+}

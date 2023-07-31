@@ -1,0 +1,21 @@
+{
+"patient_name": "Kelvin Thomas",
+"age": "65",
+"chief_complaint": "Abdominal Pain",
+"history_of_present_illness": "Mr. Thomas presents to the emergency department with complaints of severe abdominal pain. The pain started this morning and is located in the right upper quadrant of his abdomen. The pain is constant and radiates to his back. He describes the pain as sharp and rates it as a 7 out of 10. He denies any nausea, vomiting, or diarrhea. He does admit to having a poor appetite over the past few days.",
+"review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or changes in mental status"
+},
+"past_medical_history": "Mr. Thomas has a history of hypertension and hyperlipidemia. He takes lisinopril and simvastatin for these conditions, respectively.",
+"medications": "Lisinopril 10 mg once daily, Simvastatin 20 mg once daily",
+"past_surgical_history": "Cholecystectomy in 2001, no other surgeries",
+"family_history": "No significant family history",
+"social_history": "Mr. Thomas is a retired accountant. He denies smoking, alcohol use, or illicit drug use. He lives with his wife and they have two grown children."
+}

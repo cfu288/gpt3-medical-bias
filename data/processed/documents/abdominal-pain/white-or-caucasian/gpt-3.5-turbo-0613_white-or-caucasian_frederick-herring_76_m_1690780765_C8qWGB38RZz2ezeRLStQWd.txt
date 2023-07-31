@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frederick Herring",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department today with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, and the patient rates it as 8 out of 10 on the pain scale. Patient denies any nausea, vomiting, or diarrhea. On physical examination, there is tenderness and guarding in the right lower quadrant. Given the location and severity of the pain, appendicitis is a concern. Other differentials to consider include urinary tract infection, diverticulitis, and gastrointestinal obstruction.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies any changes in bowel habits or blood in the stool.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient had an appendectomy 10 years ago. No other significant surgical history.",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "Patient is a retired teacher. He does not smoke or drink alcohol."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Darrick Cuyler",
+  "age": "24",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Darrick Cuyler, a 24-year-old male, presents to the emergency department with complaints of abdominal pain. He describes the pain as a sharp sensation in the lower right quadrant of his abdomen. The pain started earlier today and has been gradually worsening. He denies any trauma or recent illness that may have caused the pain. On further questioning, he reports nausea and has had one episode of vomiting. There is no associated fever, changes in bowel movements, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as the chief complaint. No other gastrointestinal symptoms such as diarrhea or constipation are reported.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms such as joint pain or swelling.",
+    "skin": "No skin abnormalities or rashes reported by the patient.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history and reports no previous hospitalizations.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient reports no previous surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker, does not use illicit drugs, and denies any alcohol consumption."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Cassel",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The patient also reports nausea and has vomited once. He denies any history of similar pain or recent trauma. The pain is constant and has not improved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient's chief complaint is related to abdominal pain, and he denies any changes in bowel movements, blood in stool, or abdominal distention.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision.",
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes Losartan daily. He has no known drug allergies.",
+  "medications": "Losartan 50mg once daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's mother has a history of colon cancer.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}
