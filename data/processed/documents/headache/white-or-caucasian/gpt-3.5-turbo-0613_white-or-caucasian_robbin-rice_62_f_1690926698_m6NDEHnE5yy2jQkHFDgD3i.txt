@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robbin Rice",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of severe headache. Headache started suddenly about 2 hours ago and is described as a throbbing pain located on the left side of the head. Patient reports associated symptoms of nausea and sensitivity to light. No recent head trauma or other concerning symptoms. ",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Reports severe headache but denies any other focal neurologic deficits or weakness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol 25mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy, appendectomy",
+  "family_history": "Positive for hypertension",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

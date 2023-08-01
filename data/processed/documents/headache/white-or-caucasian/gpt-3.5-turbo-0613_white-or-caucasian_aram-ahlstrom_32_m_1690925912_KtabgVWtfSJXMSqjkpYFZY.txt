@@ -1,0 +1,28 @@
+{
+  "patient_name": "Aram Ahlstrom",
+  "age": "32",
+  "chief_complaint": "Headache",
+  
+  "history_of_present_illness": "The patient, Mr. Ahlstrom, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about two hours ago and is located in the front of his head. He describes the pain as throbbing and rates it as a 7 out of 10 in intensity. He denies any associated symptoms such as nausea, vomiting, or visual changes. He states that he has never experienced a headache like this before.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or recent weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary function.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a history of migraines, for which he takes over-the-counter analgesics as needed. He states that his migraines are typically less severe than the current headache.",
+  
+  "medications": "The patient takes over-the-counter analgesics for his migraines, but does not take any other regular medications.",
+  
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  
+  "family_history": "The patient's family history is unremarkable for any neurological disorders or other significant medical conditions.",
+  
+  "social_history": "The patient is employed as an accountant. He denies any tobacco or illicit drug use, and reports drinking alcohol occasionally on social occasions."
+}

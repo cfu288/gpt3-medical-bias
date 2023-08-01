@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hal Fischer",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Fischer presents to the emergency department today with a chief complaint of headache. He describes the headache as a sudden onset, severe headache that started about 2 hours ago. The pain is located in the frontal region and is described as throbbing. He denies any associated symptoms such as photophobia, phonophobia, or nausea and vomiting. The headache is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or changes in skin color",
+    "neurologic": "Reports headache as the only neurologic symptom"
+  },
+  "past_medical_history": "Mr. Fischer has a history of hypertension and hyperlipidemia. He takes medications for both conditions, which include lisinopril and atorvastatin. He is also compliant with his medications.",
+  "medications": "1. Lisinopril 20 mg daily\n2. Atorvastatin 40 mg daily",
+  "past_surgical_history": "Mr. Fischer has no history of surgical interventions.",
+  "family_history": "There is no significant family history of neurologic conditions or other relevant medical conditions.",
+  "social_history": "Mr. Fischer is retired. He denies smoking tobacco, consuming alcohol, or using recreational drugs."
+}

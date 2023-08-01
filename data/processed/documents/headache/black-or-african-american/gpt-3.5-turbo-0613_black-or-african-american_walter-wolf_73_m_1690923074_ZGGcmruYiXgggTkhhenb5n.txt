@@ -1,0 +1,21 @@
+{
+  "patient_name": "Walter Wolf",
+  "age": "73",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Wolf is a 73-year-old male patient who presents to the emergency department with a chief complaint of headache. The patient states that the headache started 2 days ago and has been getting progressively worse. He describes the pain as a throbbing sensation on the right side of his head, which is accompanied by nausea and sensitivity to light. The patient denies any recent head trauma or changes in vision. He also reports experiencing mild dizziness and fatigue.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or difficulty speaking."
+  },
+  "past_medical_history" : "The patient has a past medical history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother had a history of migraine headaches.",
+  "social_history": "The patient is retired and lives alone. He denies smoking, alcohol, or illicit drug use."
+}

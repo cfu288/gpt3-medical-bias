@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cindy Boggs",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is localized to the front of her head. She describes the pain as a throbbing sensation and rates it as a 7 out of 10. She denies any associated symptoms such as nausea, vomiting, visual changes, or neck stiffness. She took over-the-counter ibuprofen without relief. She has no history of similar headaches in the past. On further questioning, she denies any recent head trauma, fever, weakness, or numbness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria. No changes in urine color or volume.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies weakness, numbness, or tingling in any extremity."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril daily. She also has a history of hyperlipidemia and takes atorvastatin.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. She is a retired teacher."
+}

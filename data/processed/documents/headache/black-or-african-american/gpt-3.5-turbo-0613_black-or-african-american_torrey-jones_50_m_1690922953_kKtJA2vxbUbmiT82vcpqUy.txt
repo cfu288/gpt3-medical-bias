@@ -1,0 +1,21 @@
+{
+  "patient_name": "Torrey Jones",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Torrey Jones, a 50-year-old male, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly approximately 2 hours ago and is described as a severe throbbing pain in the frontal area. The headache is associated with photophobia and phonophobia. The patient denies any recent trauma or head injury. There are no previous episodes of similar headaches. The patient has attempted over-the-counter pain relief medications, but they provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency or urgency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father has a history of migraines.",
+  "social_history": "The patient works as a software engineer. He denies tobacco, alcohol, or illicit drug use."
+}

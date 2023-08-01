@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Loraine Hughes",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Loraine Hughes, a 68-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is located mainly on the right side of her head. She rates the pain as a 7 out of 10 and describes it as throbbing. The headache is accompanied by mild nausea. She denies any associated aura, blurry vision, or changes in her hearing. She states that she has no significant past medical history of headaches. Upon initial assessment, the patient appears in moderate distress but is alert and oriented. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports mild nausea but denies vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or incontinence.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient reports headache as the primary symptom. Denies vision changes or dizziness."
+  },
+  "past_medical_history": "No significant past medical history reported by the patient.",
+  "medications": "Patient reports taking over-the-counter pain relievers occasionally for headache relief.",
+  "past_surgical_history": "No significant past surgical history reported by the patient.",
+  "family_history": "No significant family history reported by the patient.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

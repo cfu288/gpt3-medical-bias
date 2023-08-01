@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katharine Quick",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Ms. Quick presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly about 2 hours ago and is moderate in intensity. She describes the pain as a dull ache in her temples and forehead. She denies any associated symptoms such as nausea, vomiting, or visual disturbances. She has not tried any medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Reports headache as only neurologic symptom."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Amlodipine 5mg daily for hypertension, ibuprofen PRN for arthritis pain",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No significant family history of neurological or cardiovascular diseases.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

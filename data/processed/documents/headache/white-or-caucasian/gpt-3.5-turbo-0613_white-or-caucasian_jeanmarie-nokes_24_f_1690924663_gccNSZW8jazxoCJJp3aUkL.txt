@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeanmarie Nokes",
+  "age": "24",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Jeanmarie Nokes, a 24-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the right side of her head that started 2 days ago. The pain is moderate in severity and worsens with movement. She reports no relief with over-the-counter pain medication. There is no history of head trauma or recent illness. The patient denies any other accompanying symptoms such as nausea, vomiting, blurred vision, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain, muscle pain, or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}
+```

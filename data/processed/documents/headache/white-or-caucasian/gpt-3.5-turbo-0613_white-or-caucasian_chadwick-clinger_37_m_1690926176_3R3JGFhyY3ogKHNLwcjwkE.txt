@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chadwick Clinger",
+  "age": "37",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of headache. He describes the headache as a throbbing pain on the right side of his head that started yesterday. The headache is associated with light sensitivity and nausea. Patient denies any trauma or recent illness. He has tried taking over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies muscle pain, joint pain, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the primary neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of occasional migraines without auras",
+  "medications": "Patient takes ibuprofen as needed for headaches.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's mother had a history of migraines as well.",
+  "social_history": "Patient works as an accountant and denies any tobacco or alcohol use."
+}

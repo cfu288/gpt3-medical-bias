@@ -1,0 +1,29 @@
+The patient name is Marsha Lewandowski and she is a 67-year-old female. She presents to the emergency department with a chief complaint of headache.
+
+Based on Marsha's presentation, her past medical history, medications, past surgical history, family history, and social history should be documented. In addition, a history of the present illness and a review of systems should be obtained.
+
+Please find the complete note below:
+
+```json
+{
+  "patient_name": "Marsha Lewandowski",
+  "age": "67",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient states that she has been experiencing a throbbing headache for the past three days. She rates the pain as 8/10 and describes it as bilateral, located in the temples. The pain is worsened with movement and relieved by rest. She denies any other associated symptoms such as nausea, vomiting, visual changes, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Patients denies any sensory or motor deficits. No changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "Marsha takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has previously had a total knee replacement surgery.",
+  "family_history": "There is a family history of cardiovascular disease, including hypertension and stroke.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or recreational drug use."
+}
+```

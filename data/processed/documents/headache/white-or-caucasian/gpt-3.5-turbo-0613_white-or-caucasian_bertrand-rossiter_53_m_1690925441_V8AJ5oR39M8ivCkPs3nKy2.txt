@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bertrand Rossiter",
+  "age": "53",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Bertrand Rossiter is a 53-year-old male presenting to the emergency department with complaints of a severe headache that has been persisting for the past 2 days. The headache is described as a throbbing pain located on the right side of his head. The patient denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. He states that he has never experienced a headache of this severity before and it is significantly affecting his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No difficulty urinating or blood in the urine.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological deficits such as weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril 10mg daily, and hyperlipidemia, for which he takes atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient has a family history of hypertension in both parents, but no other significant family medical history.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or recreational drugs. He works as an office administrator and denies any recent changes in his lifestyle or stressors."
+}
+```

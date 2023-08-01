@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cathy Johnson",
+  "age": "67",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. She reports that the headache began suddenly this morning and is severe in intensity. She describes the pain as a pounding sensation on both sides of her head. She denies any associated symptoms such as nausea, vomiting, or visual changes. The headache is not relieved with over-the-counter pain medications. She reports no recent head trauma or medical illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She takes medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has a history of appendectomy and cholecystectomy.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}

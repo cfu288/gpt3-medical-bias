@@ -1,0 +1,21 @@
+{
+  "patient_name": "Serena Bolt",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache. The headache started suddenly and is described as a throbbing pain on the right side of the head. Patient rates the pain as a 9 out of 10. She denies any associated symptoms such as nausea, vomiting, or photophobia. The headache has been ongoing for the past 2 hours and has not responded to over-the-counter pain relievers.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient presents with a headache as the chief complaint."
+  },
+  "past_medical_history": "Patient has a history of migraines and takes sumatriptan as needed for headache relief.",
+  "medications": "Sumatriptan 100mg as needed for migraines",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "There is no significant family history of migraines or other neurological disorders.",
+  "social_history": "Patient denies tobacco and alcohol use. She works as an accountant and denies any recent exposure to sick contacts or travel."
+}

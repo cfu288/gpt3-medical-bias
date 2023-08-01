@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robyn Baker",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient arrived in the emergency department complaining of a severe headache that started suddenly about 2 hours ago. She described the pain as throbbing and located in the frontal area of her head. She reports no history of similar headaches. She denies any associated symptoms such as nausea, vomiting, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, or changes in bowel habits.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash, itching, or any skin changes.",
+    "neurologic": "Reports the severe headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medications for it.",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient works as a office manager. She does not smoke or drink alcohol."
+}

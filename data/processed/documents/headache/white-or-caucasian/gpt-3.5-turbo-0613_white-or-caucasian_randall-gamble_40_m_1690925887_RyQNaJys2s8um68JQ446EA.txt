@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randall Gamble",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Randall Gamble, a 40-year-old male, presents to the emergency department with a chief complaint of headache. The headache started approximately 6 hours ago and is described as a throbbing pain in the temporal region. The patient rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes. There is no history of trauma or recent head injury. The patient has taken over-the-counter pain medication, but it has provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin changes.",
+    "neurologic": "Patient reports the headache as the primary neurologic symptom."
+  },
+  "past_medical_history": "The patient has a history of migraines, which he has been experiencing since adolescence. He reports having 2-3 migraines per month. He has not had any recent changes in the frequency or severity of his migraines.",
+  "medications": "The patient takes over-the-counter ibuprofen for headaches as needed. He has not taken any other medications in the past month.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient works as a software engineer and denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fred Brown",
+  "age": "89",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Brown is an 89-year-old male presenting to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly this morning and is described as a severe throbbing pain in the front of his head. He rates the pain as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. He states that the headache has been constant since it started and has not improved with over-the-counter pain medication. He has no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and benign prostatic hyperplasia. He takes lisinopril for his hypertension and tamsulosin for his benign prostatic hyperplasia.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Tamsulosin 0.4 mg daily",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension in both his parents.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

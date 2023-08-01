@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brant Smith",
+  "age": "26",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Smith presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly approximately 4 hours ago. He describes the pain as a throbbing sensation on the right side of his head. He rates the pain as a 7 out of 10 and states that it is exacerbated by light and noise. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has taken over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient reports headache as described in history of present illness."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient does not report any significant family history.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Patient works as a software engineer and denies any recent changes in lifestyle or activities."
+}

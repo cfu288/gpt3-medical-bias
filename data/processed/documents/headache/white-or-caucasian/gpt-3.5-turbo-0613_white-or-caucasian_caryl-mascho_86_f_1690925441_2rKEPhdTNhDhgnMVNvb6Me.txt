@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Caryl Mascho",
+  "age": "86",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Caryl Mascho, an 86-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as severe, throbbing, and located on the left side of her head. The headache started suddenly approximately 2 hours ago and has been persistent. She denies any recent trauma or falls. She has not had any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Reports the current headache is unlike any previous headaches she has experienced."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, osteoarthritis, and hyperlipidemia. She takes amlodipine 5mg daily for hypertension, acetaminophen as needed for arthritis pain, and simvastatin 20mg daily for hyperlipidemia. She denies any known drug allergies.",
+  "medications": "Amlodipine 5mg daily, acetaminophen as needed, simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of neurological disorders or other relevant conditions.",
+  "social_history": "The patient is retired. She lives alone and is independent with her activities of daily living. She denies tobacco or alcohol use."
+}
+```

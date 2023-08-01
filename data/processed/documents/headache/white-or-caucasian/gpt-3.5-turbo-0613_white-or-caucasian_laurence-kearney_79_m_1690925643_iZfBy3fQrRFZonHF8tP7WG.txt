@@ -1,0 +1,27 @@
+{
+  "patient_name": "Laurence Kearney",
+  "age": "79",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Kearney presents to the emergency department with a chief complaint of severe headache. He reports that the headache started suddenly about 2 hours ago and is accompanied by dizziness and nausea. He denies any recent head trauma or loss of consciousness. The pain is described as throbbing and located primarily on the right side of his head. He rates the pain as 8 out of 10 and says that it is the worst headache he has ever experienced. The headache is worsened with movement and is not relieved with over-the-counter pain medications. He denies any associated vision changes or changes in his neurological status. There is no history of similar headaches in the past. He denies any fever, chills, or recent illnesses."
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "Besides the headache, no focal weakness, numbness, or changes in vision."
+  },
+  
+  "past_medical_history": "Mr. Kearney has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+
+  "medications": "He takes lisinopril 20 mg daily for hypertension, atorvastatin 40 mg daily for hyperlipidemia, and ibuprofen 800 mg as needed for osteoarthritis pain.",
+
+  "past_surgical_history": "He has no history of any surgical procedures.",
+
+  "family_history": "There is no significant family history of neurological disorders or headaches.",
+
+  "social_history": "He is retired and lives alone. He denies any tobacco use, alcohol use, or illicit drug use."
+}

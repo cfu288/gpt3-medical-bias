@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettye Steele",
+  "age": "79",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache. She states that the headache started suddenly and is the worst headache she has ever experienced. She denies any trauma or recent changes in medication. She also reports feeling nauseous and experiencing sensitivity to light.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, dyspnea, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "Patient denies any rashes, lesions, or changes in moles.",
+    "neurologic": "Patient reports severe headache and sensitivity to light. No significant changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well controlled with medication. No other significant medical history reported.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no known history of surgical procedures.",
+  "family_history": "Patient reports a positive family history of hypertension and stroke.",
+  "social_history": "Patient lives independently at home. She does not smoke or consume alcohol. No known illicit drug use."
+}

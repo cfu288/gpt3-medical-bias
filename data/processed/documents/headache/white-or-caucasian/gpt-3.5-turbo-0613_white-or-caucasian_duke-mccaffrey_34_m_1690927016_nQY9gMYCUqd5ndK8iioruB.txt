@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Duke Mccaffrey",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Duke Mccaffrey, is a 34-year-old male who presents to the emergency department with a chief complaint of headache. The headache started earlier today and is described as a throbbing pain located in the frontal area. It is associated with photophobia and worsens with movement. The patient denies any preceding trauma or fever. He rates the intensity of his headache as 7 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "Aside from the headache, the patient denies any changes in vision, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}
+```

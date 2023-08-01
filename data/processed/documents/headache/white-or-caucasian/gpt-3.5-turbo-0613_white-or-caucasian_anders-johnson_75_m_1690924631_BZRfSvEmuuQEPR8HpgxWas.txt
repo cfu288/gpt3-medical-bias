@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anders Johnson",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. Patient states that the headache started suddenly and is severe in intensity. Patient reports that this is the first time he has experienced this type of headache. No associated symptoms such as nausea, vomiting, or visual changes. Patient denies any recent head trauma. Patient states he has taken over-the-counter pain medication with minimal relief. No prior history of migraines or similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or hesitancy.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, lesions, or changes in moles.",
+    "neurologic": "In addition to the headache, patient denies any weakness, numbness, changes in vision, or difficulty with speech."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoporosis. No prior history of headaches or neurological disorders.",
+  "medications": "Patient takes lisinopril 10mg daily, simvastatin 20mg daily, and calcium and vitamin D supplements for osteoporosis.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "Patient is retired. He denies smoking or alcohol use."
+}

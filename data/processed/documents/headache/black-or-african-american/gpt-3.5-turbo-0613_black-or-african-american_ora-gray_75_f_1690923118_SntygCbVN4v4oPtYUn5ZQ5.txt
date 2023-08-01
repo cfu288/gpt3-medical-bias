@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ora Gray",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. She describes the pain as a pulsating sensation on the right side of her head. The headache started suddenly this morning and has been progressively worsening. The patient denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. She has tried taking over-the-counter pain medications but they have not provided relief.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash, itching, or changes in moles.",
+    "neurologic": "Besides the headache, denies any changes in vision, sensation, strength, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for hypertension and migraine headaches in her mother and sister.",
+  "social_history": "Patient retired and lives alone. She has a history of smoking but quit 10 years ago. Denies alcohol or illicit drug use."
+}

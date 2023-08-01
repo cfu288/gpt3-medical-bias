@@ -1,0 +1,22 @@
+{
+  "patient_name": "Darek Fulmer",
+  "age": "50",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started suddenly about 2 hours ago. He describes the pain as throbbing and localized to the right temple. Patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He reports no recent head trauma or previous history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, patient denies any focal neurological symptoms such as weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and migraines.",
+  "medications": "Patient takes a daily medication for hypertension (Losartan 50 mg) and uses over-the-counter pain relievers (Ibuprofen) for migraines as needed.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's father had a history of migraines.",
+  "social_history": "Patient is married, works as an accountant, and denies tobacco, alcohol, or drug use."
+}

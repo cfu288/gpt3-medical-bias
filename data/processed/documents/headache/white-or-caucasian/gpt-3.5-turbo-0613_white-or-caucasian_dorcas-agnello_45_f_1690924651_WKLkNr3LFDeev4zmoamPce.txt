@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dorcas Agnello",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly and is severe in intensity. The pain is localized to the forehead and temples. She denies any associated symptoms such as nausea, vomiting, photophobia, or visual changes. The headache has been ongoing for the past few hours and has not improved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient reports experiencing a recent onset headache, but denies any dizziness, syncope, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of migraines, which have been controlled with prescription medication. She has previously been evaluated by a neurologist and has had imaging studies completed, which were negative for any intracranial pathology.",
+  "medications": "Patient is currently taking [list medications].",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient has a family history of migraines, but no other significant family history of medical conditions.",
+  "social_history": "Patient denies any tobacco or alcohol use. She works as a teacher and is married with two children."
+}

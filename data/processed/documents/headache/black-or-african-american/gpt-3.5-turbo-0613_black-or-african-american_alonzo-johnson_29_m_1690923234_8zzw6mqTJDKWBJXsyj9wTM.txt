@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Johnson",
+  "age": "29",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Alonzo Johnson, is a 29-year-old male presenting to the ED with a chief complaint of headache.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Positive for headache. No associated neurological symptoms."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No history of previous surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker, non-drinker."
+}

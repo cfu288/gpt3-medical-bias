@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shira Harris",
+  "age": "30",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. Headache started suddenly approximately 2 hours ago and is described as throbbing and constant. Patient rates the pain as 8 out of 10. Associated symptoms include nausea and sensitivity to light. Patient denies any recent trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, and wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Patient denies dysuria, frequency, and urgency.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, and muscle weakness.",
+    "skin": "Patient denies rash and pruritus.",
+    "neurologic": "Patient complains of severe headache, nausea, and sensitivity to light."
+  },
+  "past_medical_history": "Patient reports a history of migraines for the past 10 years. She has been experiencing attacks like this in the past, but never of this severity.",
+  "medications": "Patient takes over-the-counter ibuprofen for her migraines, but she has not taken any today.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of migraines or other neurological conditions.",
+  "social_history": "Patient denies tobacco, alcohol, and illicit drug use. Works as a software engineer."
+}

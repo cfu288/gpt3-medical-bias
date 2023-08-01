@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrietta White",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Henrietta White, 78-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 4 hours ago and is located in the front of her head. The pain is described as throbbing and is rated 8 out of 10 in severity. She denies any associated symptoms such as visual changes, nausea, or dizziness. The headache is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rash or skin changes.",
+    "neurologic": "Patient reports intermittent episodes of headaches in the past, which have been typical for her. No history of migraines or neurologic deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg once daily, atorvastatin 20mg once daily.",
+  "past_surgical_history": "Cholecystectomy in 2010.",
+  "family_history": "Mother had a history of migraines.",
+  "social_history": "Retired. Non-smoker. Social drinker."
+}

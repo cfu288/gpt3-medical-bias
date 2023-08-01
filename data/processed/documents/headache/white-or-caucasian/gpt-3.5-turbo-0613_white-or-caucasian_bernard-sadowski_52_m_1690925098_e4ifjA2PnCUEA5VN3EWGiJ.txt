@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernard Sadowski",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Sadowski presents to the emergency department with a chief complaint of headache. He describes the headache as a severe throbbing pain on the right side of his head, which started suddenly about two hours ago. He rates the pain intensity as 8 out of 10 and reports that it is worse with movement and bright lights. He denies any associated symptoms such as nausea, vomiting, or changes in vision. The headache is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines, which are often triggered by stress or other environmental factors. He takes over-the-counter pain medications for his migraines as needed.",
+  "medications": "Ibuprofen 400 mg as needed for migraines.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's father had a history of migraines as well.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}

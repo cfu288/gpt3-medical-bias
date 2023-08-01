@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jamal Brown",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Brown presented to the emergency department with a complaint of severe headache. He states that the headache started suddenly this morning and has been getting progressively worse throughout the day. He rates the pain as a 9/10 and describes it as a sharp, throbbing pain that is located on the right side of his forehead. The pain is associated with nausea and sensitivity to light. He denies any history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or burning.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Brown has a history of occasional migraines, but this headache is different from his usual migraines in terms of severity and duration.",
+  "medications": "He takes over-the-counter ibuprofen as needed for his migraines.",
+  "past_surgical_history": "None.",
+  "family_history": "His mother has a history of migraines.",
+  "social_history": "Mr. Brown is a non-smoker and denies any alcohol or drug use."
+}

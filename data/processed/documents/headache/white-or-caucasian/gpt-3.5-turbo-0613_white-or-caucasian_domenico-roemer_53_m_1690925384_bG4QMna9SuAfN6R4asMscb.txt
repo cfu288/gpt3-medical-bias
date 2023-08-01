@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Domenico Roemer",
+  "age": "53",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. He describes the pain as a throbbing sensation on one side of his head, primarily around his temple area. Patient reports that the headache started suddenly this morning and has been progressively worsening throughout the day. He states that he has never experienced a headache of this intensity before. Patient denies any associated symptoms such as nausea, vomiting, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or changes in skin color or texture.",
+    "neurologic": "Patient reports no symptoms other than the headache."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which he is taking Lisinopril 10mg daily. He has not had any recent changes in his medications or dosages.",
+  "medications": "Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "Patient had appendectomy in 1998 and cholecystectomy in 2005.",
+  "family_history": "Patient's mother had a history of migraine headaches. No other significant family history.",
+  "social_history": "Patient works as an accountant and denies tobacco, alcohol, or illicit drug use."
+}
+```

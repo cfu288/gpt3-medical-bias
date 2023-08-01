@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jim Feeney",
+  "age": "82",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. He describes the headache as a throbbing pain in the temples and forehead. He states that the headache started this morning and has been gradually increasing in intensity. He denies any associated symptoms such as photophobia, phonophobia, or nausea. He has tried taking over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations or chest pain.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in color.",
+    "neurologic": "Patient complains only of the headache."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes metoprolol for blood pressure control. He has no other significant medical history.",
+  "medications": "Metoprolol 50 mg once daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is unremarkable.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

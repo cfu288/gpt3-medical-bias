@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jae Pearson",
+  "age": "49",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Pearson presents to the emergency department with a chief complaint of headache. He describes the headache as a throbbing pain on the right side of his head that started a few hours ago. He rates the pain as a 7 out of 10 and reports that it is accompanied by sensitivity to light and sound. He denies any recent head trauma or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Positive for headache as described above. Negative for changes in speech, vision, or sensation."
+  },
+  "past_medical_history": "Mr. Pearson has a past medical history of hypertension and migraines.",
+  "medications": "Mr. Pearson takes lisinopril 10mg daily for hypertension and uses sumatriptan as needed for migraines.",
+  "past_surgical_history": "Mr. Pearson has no past surgical history.",
+  "family_history": "Mr. Pearson's family history is significant for hypertension in his mother and migraines in his brother.",
+  "social_history": "Mr. Pearson is a non-smoker and drinks alcohol occasionally."
+}

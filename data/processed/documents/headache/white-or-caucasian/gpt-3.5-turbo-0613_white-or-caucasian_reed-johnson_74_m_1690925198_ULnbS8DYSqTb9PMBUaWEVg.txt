@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Reed Johnson",
+  "age": "74",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Reed Johnson, is a 74-year-old male who presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly about 2 hours ago and is located in the frontal region. He describes the pain as throbbing and rates it as 8 out of 10 in severity. The headache is associated with nausea but no vomiting. The patient denies any visual changes, weakness, numbness, or speech difficulties. He reports no recent head trauma or falls. Additionally, the patient has a past medical history significant for hypertension and takes medication for this condition.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, polyuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rashes, itching, or skin lesions.",
+    "neurologic": "Aside from the headache, the patient denies any changes in consciousness, confusion, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension.",
+  "medications": "The patient takes antihypertensive medication, but the exact name and dosage are unknown.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and denies any tobacco use, alcohol use, or illicit drug use."
+}
+```

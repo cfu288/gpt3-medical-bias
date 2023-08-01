@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmond Washington",
+  "age": "63",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache that started suddenly about 2 hours ago. He rates his pain as a 7 out of 10 and describes it as throbbing and localized to the front of his head. He denies any recent head trauma or fever. The headache is not associated with any visual changes, nausea, or vomiting. He attempted to take over-the-counter pain relievers at home without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or limitations in movement.",
+    "skin": "Patient denies any rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, patient denies any dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. He is currently taking lisinopril, atorvastatin, and metformin.",
+  "medications": "lisinopril (10mg daily), atorvastatin (20mg daily), metformin (1000mg twice daily)",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's family history is significant for hypertension and diabetes.",
+  "social_history": "Patient denies smoking or alcohol use. He is retired and does not engage in any strenuous physical activity."
+}

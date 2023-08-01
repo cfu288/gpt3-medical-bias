@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Saundra Crittenden",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Saundra Crittenden, a 62-year-old female, presents to the emergency department with a chief complaint of headache. The pain is described as a throbbing sensation on the right side of her head, and it started approximately 3 hours ago. She rates the intensity of the pain as 7 out of 10. She denies any associated symptoms such as visual changes, nausea, or vomiting. She has taken over-the-counter analgesics with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient reports the current headache as her only neurologic symptom."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of migraines.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is retired and lives alone."
+}
+```

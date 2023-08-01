@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlene Smith",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Charlene Smith, a 69-year-old female, presents to the emergency department with a chief complaint of headache. The headache started approximately 4 hours ago and is described as a sharp pain on the right side of her head. The pain is pulsating in nature and is rated 8/10 in intensity. She denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough or difficulty breathing",
+    "gi": "No abdominal pain, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash, itching, or changes in moles",
+    "neurologic": "Headache as described in chief complaint, no changes in vision, no weakness or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes medication.",
+  "medications": "The patient takes amlodipine 5 mg once daily for hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of neurological disorders or migraines",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Carter Johnson",
+  "age": "25",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of headache. He describes the headache as throbbing and located on the right side of his head. The headache began abruptly this morning and has been persistent since then. He rates the pain as a 7 out of 10. He denies any associated symptoms such as changes in vision, nausea, or vomiting. In the past, he has experienced occasional headaches, but nothing as intense as this episode. He tried over-the-counter pain medication without relief. There are no known triggers for his headaches. The patient denies any recent head trauma, fever, or other concerning symptoms. Further evaluation is needed to determine the cause of the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies muscle pain or joint swelling.",
+    "skin": "Patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "Patient reports a severe headache but denies any other neurologic symptoms such as changes in vision, difficulty speaking, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of neurological disorders or other chronic conditions.",
+  "social_history": "Patient denies tobacco, alcohol, and illicit drug use. He is currently employed and lives alone."
+}
+```

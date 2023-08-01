@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Christine Gough",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Christine Gough, a 76-year-old female, presents to the emergency department with a chief complaint of headache. She states that she has been experiencing a severe headache for the past 2 days. The pain is located in her temples and is described as throbbing. The headache is associated with sensitivity to light and nausea. She denies any recent head trauma or loss of consciousness. She has tried over-the-counter pain medications, but they have provided minimal relief. The headache has been causing significant discomfort and has interfered with her daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient reports a severe headache but denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history significant for hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and ibuprofen 400mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has a past surgical history significant for a cholecystectomy 10 years ago.",
+  "family_history": "Patient's family history is non-contributory. Her parents are deceased and cause of death is unknown.",
+  "social_history": "Patient is retired and lives alone. She denies any tobacco or alcohol use."
+}
+```

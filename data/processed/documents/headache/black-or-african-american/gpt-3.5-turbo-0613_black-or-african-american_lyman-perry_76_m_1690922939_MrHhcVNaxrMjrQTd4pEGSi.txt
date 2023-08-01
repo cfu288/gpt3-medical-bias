@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyman Perry",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Lyman Perry, a 76-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that he woke up this morning with a severe headache that has been steadily worsening over the course of the day. He describes the pain as a throbbing sensation in his temples that radiates to the back of his head. The patient states that he has never experienced a headache this severe before and is concerned. He denies any associated symptoms such as fever, blurry vision, or neck stiffness. Upon further questioning, the patient reports that he has also been experiencing mild nausea. The patient has taken over-the-counter pain medication without relief. His medical history is significant for hypertension and osteoarthritis. He denies any recent head trauma or history of migraines. The patient is otherwise healthy and denies any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports mild nausea, but denies any vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient reports a severe headache, but denies any changes in vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes the following medications:\n- Lisinopril 10mg daily for hypertension\n- Naproxen 500mg as needed for osteoarthritis pain",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or consume alcohol."
+}

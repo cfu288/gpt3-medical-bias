@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alicja Hill",
+  "age": "24",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Alicja Hill, a 24-year-old female, presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly about 2 hours ago and is described as a throbbing pain on the right side of her head. She rates the pain as 7 out of 10 and notes that it is accompanied by nausea but no vomiting. She denies any vision changes, dizziness, or other associated symptoms. She has not taken any medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "Negative for vision changes, numbness, tingling, or seizures."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has no significant family history of neurological or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

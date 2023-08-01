@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Patrice Lee",
+  "age": "25",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Patrice Lee, a 25-year-old female, presented to the emergency department with a chief complaint of headache. She reports the headache started suddenly about 3 hours ago and is located on the right temple. The pain is described as throbbing and moderate in intensity. She rates the pain as 7 out of 10 on the pain scale. The headache is associated with photophobia and phonophobia. She denies any recent trauma, fever, neck stiffness, or changes in vision. The headache has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or skin changes",
+    "neurologic": "Headache as described above"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, social alcohol drinker"
+}
+```

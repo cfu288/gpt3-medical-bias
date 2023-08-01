@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Grace Greene",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Grace Greene, a 39-year-old female, presents to the emergency department with a chief complaint of headache. The headache started suddenly approximately 2 hours ago while the patient was at work. The pain is described as a throbbing sensation localized to the right side of the head. The patient rates the severity of the headache as 7 out of 10. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. The patient has never experienced a headache of this intensity before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Denies joint pain, muscle pain, or swelling.",
+    "skin": "Denies rashes, itching, or new skin lesions.",
+    "neurologic": "Reports headache as described above."
+  },
+  "past_medical_history": "The patient's past medical history is significant for migraines, for which she takes sumatriptan as needed. She has had infrequent episodes of migraines in the past, but none as severe as her current episode.",
+  "medications": "Sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory for headache disorders or other significant medical conditions.",
+  "social_history": "The patient works full-time as a software engineer. She denies tobacco, alcohol, or illicit drug use."
+}
+```

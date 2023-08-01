@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Patience Stevenson",
+  "age": "24",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Patience Stevenson, a 24-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain that started this morning and has been persistent. The pain is located in the frontal region and is rated at a 7 out of 10 in severity. She reports no associated symptoms such as nausea, vomiting, or photophobia. The headache is not relieved with rest or over-the-counter pain medications. The patient denies any recent head trauma or history of migraines. Vital signs are stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient reports only the headache as the current neurologic symptom."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}
+```

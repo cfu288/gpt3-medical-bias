@@ -1,0 +1,22 @@
+{
+  "patient_name": "Reuben Jones",
+  "age": "39",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with a complaint of headache. The headache started suddenly approximately 2 hours ago. The patient describes the pain as a throbbing sensation located on the right side of his head. He rates the pain as a 7 out of 10. The headache has been persistent and has not improved with rest or over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, or changes in vision. Upon further questioning, the patient reports recent stress at work and a lack of adequate sleep. He has not had any recent head trauma or similar episodes in the past. He has no significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies dizziness, syncope, or numbness/tingling."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient is married and works as a software engineer. Denies tobacco or illicit drug use."
+}

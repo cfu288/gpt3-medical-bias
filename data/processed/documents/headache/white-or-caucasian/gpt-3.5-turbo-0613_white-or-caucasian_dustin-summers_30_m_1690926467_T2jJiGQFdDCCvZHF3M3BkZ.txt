@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dustin Summers",
+  "age": "30",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and is severe in intensity. He describes the pain as throbbing and localized to the frontal region. Patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. He states that he has never experienced a headache like this before and it is significantly affecting his daily activities. On further questioning, patient reports that he recently had a cold and has been experiencing nasal congestion and fatigue for the past few days. Vital signs are stable with no significant findings. Initial physical examination is unremarkable. Given the acute onset of severe headache with recent upper respiratory symptoms, a possible diagnosis of sinusitis or tension headache is considered.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient reports nasal congestion and fatigue.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "Patient denies urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rashes, itching, or changes in skin color or texture.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient takes over-the-counter pain relievers as needed.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient has no significant family history of medical conditions.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He works as an accountant and denies any significant occupational or environmental exposures."
+}

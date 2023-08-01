@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freda Miller",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache that started 2 days ago. The pain is described as a constant dull ache in the temples and forehead. She rates the pain as a 6 out of 10. The headache has been persistent and has not responded to over-the-counter pain medication. The patient denies any other associated symptoms such as visual changes, fever, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or limited range of motion.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for her medical conditions.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's mother had a stroke in her 70s.",
+  "social_history": "Patient is a retired teacher. She does not smoke or drink alcohol."
+}

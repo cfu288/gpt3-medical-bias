@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gale Capps",
+  "age": "65",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of a severe headache that has been ongoing for the past 24 hours. She describes the pain as a throbbing sensation in her temples and forehead. The headache is accompanied by sensitivity to light and sound. Patient denies any recent head trauma or changes in her medications. She has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in skin appearance.",
+    "neurologic": "Patient reports the headache as her only neurological symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes daily medications for these conditions.",
+  "medications": "Patient takes amlodipine 5mg and atorvastatin 10mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She lives alone and does not have any occupational exposures that could contribute to her symptoms."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Burt Jones",
+  "age": "95",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jones, a 95-year-old male, presents to the emergency department with a chief complaint of headache. Patient reports that the headache started approximately 2 hours ago and is described as a dull, throbbing pain on the left side of his head. The pain is rated as 6 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or color changes.",
+    "neurologic": "Patient reports occasional mild forgetfulness but denies any recent changes in mental status or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension, atorvastatin 20mg daily for hyperlipidemia, and acetaminophen PRN for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia. There is no history of neurological disorders, migraines, or brain tumors.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He lives alone and is able to perform his activities of daily living independently."
+}

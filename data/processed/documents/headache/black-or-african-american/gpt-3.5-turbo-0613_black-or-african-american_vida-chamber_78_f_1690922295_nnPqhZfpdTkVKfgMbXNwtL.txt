@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vida Chamber",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient Vida Chamber, a 78-year-old female, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly and has been progressively worsening over the past 6 hours. She describes the pain as a throbbing sensation on the right side of her head, with associated photophobia and nausea. The patient denies any recent head trauma, visual changes, or focal neurological symptoms. She has taken over-the-counter pain medication with no relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary difficulties or changes in frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Headache as described, no weakness or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, both well-controlled with medications. She denies any history of migraines.",
+  "medications": "The patient takes lisinopril 20mg once daily for hypertension and atorvastatin 40mg once daily for hyperlipidemia. She has not taken any other medications today.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia in her siblings.",
+  "social_history": "The patient is retired and lives with her spouse. She denies smoking or alcohol use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rina Scott",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of a severe headache. She reports that the headache started yesterday afternoon and has been progressively worsening. The pain is described as throbbing and is located in the front of her head. She rates her pain as 8 out of 10. She denies any associated symptoms such as visual changes, nausea, vomiting, or sensitivity to light or sound. She has taken over-the-counter pain medications with no relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Positive for headache as chief complaint. Negative for focal weakness, numbness or tingling, changes in vision, changes in speech, or seizures."
+  },
+  "past_medical_history": "Patient has a history of migraine headaches, but this episode is different from her usual migraine attacks.",
+  "medications": "Patient takes ibuprofen as needed for her migraines.",
+  "past_surgical_history": "None.",
+  "family_history": "Positive for a family history of migraines.",
+  "social_history": "Patient works as a software engineer. Denies tobacco or alcohol use."
+}
+```

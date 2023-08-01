@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sylvain Smith",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Smith presented to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and is severe, pulsatile, and located primarily in the frontal region. He denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. The pain is exacerbated by physical activity and relieved slightly with rest. He states that he has never had a headache like this before and it is significantly affecting his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, sweats, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations, shortness of breath, orthopnea, paroxysmal nocturnal dyspnea, lower extremity swelling",
+    "respiratory": "Denies cough, sputum production, hemoptysis, wheezing",
+    "gi": "Denies nausea, vomiting, diarrhea, constipation, abdominal pain, melena",
+    "gu": "Denies dysuria, frequency, urgency, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness, swelling",
+    "skin": "Denies rash, pruritus, changes in skin color",
+    "neurologic": "Denies numbness, tingling, weakness, seizures, difficulty speaking or understanding speech"
+  },
+  "past_medical_history": "Mr. Smith has a past medical history of hypertension, hyperlipidemia, and migraines. He is not on any specific migraine prophylaxis.",
+  "medications": "Mr. Smith takes medications for his hypertension and hyperlipidemia, including lisinopril and atorvastatin.",
+  "past_surgical_history": "Mr. Smith has no significant past surgical history.",
+  "family_history": "There is no significant family history of migraines or other neurological disorders.",
+  "social_history": "Mr. Smith is a non-smoker and does not drink alcohol. He is married and works as an accountant."
+}

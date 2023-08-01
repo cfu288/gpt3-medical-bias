@@ -1,0 +1,21 @@
+{
+    "patient_name": "Shahram Kilroy",
+    "age": "40",
+    "chief_complaint": "Headache",
+    "history_of_present_illness": "The patient presents to the emergency department with a complaint of severe headache. He reports that the headache started suddenly about 4 hours ago and is located on the right side of his head. He describes the pain as a throbbing sensation and rates it as a 9/10 in intensity. The patient has not experienced any similar headaches in the past. He denies any associated symptoms such as nausea, vomiting, or visual changes. The patient states that he tried taking over-the-counter pain medication, but it did not provide any relief. Given the severity of the headache and the patient's lack of response to over-the-counter medications, immediate further evaluation is warranted.",
+    "review_of_symptoms": {
+        "constitutional": "No fevers, chills, or night sweats.",
+        "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+        "respiratory": "No cough, shortness of breath, or wheezing.",
+        "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+        "musculoskeletal": "No joint pain, swelling, or stiffness.",
+        "skin": "No rashes, itching, or changes in skin color.",
+        "neurologic": "In addition to the severe headache, the patient denies any neurological symptoms such as weakness, numbness, tingling, or changes in coordination."
+    },
+    "past_medical_history": "The patient has a history of occasional migraines.",
+    "medications": "The patient takes ibuprofen as needed for headaches. He denies taking any other medications.",
+    "past_surgical_history": "No past surgical history.",
+    "family_history": "The patient's mother has a history of migraines.",
+    "social_history": "The patient denies any tobacco, alcohol, or drug use. He works as a software engineer and denies any recent stressors or changes in his work or personal life."
+}

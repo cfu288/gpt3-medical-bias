@@ -1,0 +1,21 @@
+{
+  "patient_name": "Milton Carpenter",
+  "age": "79",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache that started suddenly approximately 2 hours ago. The headache is described as a throbbing pain on the right side of the head, accompanied by nausea and sensitivity to light. The patient denies any recent head trauma or similar episodes in the past. Prior to the onset of the headache, the patient reports feeling generally well.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin as prescribed.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is negative for any neurological disorders or significant medical conditions.",
+  "social_history": "The patient is retired and lives alone. He denies tobacco or alcohol use."
+}

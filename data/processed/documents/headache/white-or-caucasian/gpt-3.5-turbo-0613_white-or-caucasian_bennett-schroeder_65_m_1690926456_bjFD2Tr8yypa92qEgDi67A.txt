@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bennett Schroeder",
+  "age": "65",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe headache that started suddenly about an hour ago. He describes the pain as a pounding sensation in the temples and the back of the head. He has never experienced a headache like this before and rates the pain as 9/10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes, itching, or changes in skin color.",
+    "neurologic": "Other than the headache, patient denies dizziness, loss of consciousness, or numbness/weakness in any part of the body."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril 10mg daily. No other significant medical history.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of neurological or cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

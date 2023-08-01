@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Afshin Epley",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of severe headache. Patient reports that the headache started suddenly approximately 2 hours ago. Patient describes the headache as throbbing and localized to the frontal area. Patient denies any associated symptoms such as nausea, vomiting, or vision changes. Patient states that he has never experienced a headache like this before and the pain is significantly affecting his ability to function. Patient reports that he took 2 over-the-counter ibuprofen tablets without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or changes in skin color.",
+    "neurologic": "Patient reports the headache but denies any changes in vision, speech, or weakness in the extremities."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient takes no prescribed medications and has not taken any other medications recently.",
+  "past_surgical_history": "Patient reports no past surgical history.",
+  "family_history": "Patient reports no significant family history of neurological disorders or migraines.",
+  "social_history": "Patient is a non-smoker, non-drinker, and denies any illicit drug use."
+}
+```

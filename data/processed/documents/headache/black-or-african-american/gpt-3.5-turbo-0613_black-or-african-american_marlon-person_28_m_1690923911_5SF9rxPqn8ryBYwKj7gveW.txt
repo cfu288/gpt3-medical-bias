@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marlon Person",
+  "age": "28",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Person presents to the emergency department with a chief complaint of headache. He describes the headache as a dull pain, localized to his right temple, which started yesterday morning. He rates the pain as a 6 out of 10 and reports that it is constant, with no specific triggers. He denies any associated symptoms such as visual changes, nausea, or vomiting. He reports that he has never experienced this type of headache before and it has been interfering with his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling",
+    "skin": "Negative for rash, itching, or changes in moles",
+    "neurologic": "Positive for headache, negative for visual changes, nausea, or vomiting"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Patient denies taking any medications regularly",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use"
+}

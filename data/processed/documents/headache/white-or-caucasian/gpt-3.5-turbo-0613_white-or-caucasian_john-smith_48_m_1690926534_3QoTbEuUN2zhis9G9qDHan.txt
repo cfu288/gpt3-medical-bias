@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Smith",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, John Smith, a 48-year-old male, presents with a chief complaint of headache. The headache is described as a severe, throbbing pain in the temples and forehead that started 2 hours ago. The patient rates the pain as 8 out of 10 on a pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or limitation of movement.",
+    "skin": "The patient denies rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies dizziness, blurred vision, numbness, or weakness on one side of the body."
+  },
+  "past_medical_history": "The patient has a history of migraines, for which he takes sumatriptan as needed. He has not had any recent migraines.",
+  "medications": "Sumatriptan 100mg as needed for migraines",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or recreational drug use."
+}

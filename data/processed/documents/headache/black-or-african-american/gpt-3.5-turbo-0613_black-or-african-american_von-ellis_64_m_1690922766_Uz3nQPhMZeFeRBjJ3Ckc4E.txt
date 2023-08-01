@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Von Ellis",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Ellis, is a 64-year-old male who presents to the emergency department with a chief complaint of headache. He describes the headache as a severe throbbing pain located in his forehead and temples. The headache started suddenly this morning and has been persistent. Mr. Ellis denies any associated symptoms such as nausea, vomiting, or changes in vision. He also reports no history of head trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, changes in coordination, or difficulty speaking."
+  },
+  "past_medical_history": "Mr. Ellis has a past medical history of hypertension, hyperlipidemia, and diabetes mellitus type 2. He is currently on medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension, atorvastatin for hyperlipidemia, and metformin for diabetes.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient is unaware of any significant family history of medical conditions.",
+  "social_history": "Mr. Ellis is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

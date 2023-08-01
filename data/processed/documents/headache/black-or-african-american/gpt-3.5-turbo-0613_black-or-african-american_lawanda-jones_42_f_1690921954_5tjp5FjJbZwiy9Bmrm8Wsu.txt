@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lawanda Jones",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Lawanda Jones, a 42-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is the worst headache she has ever experienced. She describes the pain as throbbing and located on the right side of her head. She denies any associated symptoms such as nausea, vomiting, vision changes, or neck stiffness. She has tried taking over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines, which she reports as similar but not as severe as the current headache. She also has a history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes a daily medication for hypertension, which she cannot recall the name of.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

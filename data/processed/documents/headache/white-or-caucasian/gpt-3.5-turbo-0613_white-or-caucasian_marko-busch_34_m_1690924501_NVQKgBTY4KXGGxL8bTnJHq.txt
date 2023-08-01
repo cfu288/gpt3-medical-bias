@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marko Busch",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of headache. He describes the headache as a throbbing pain on the right side of his head that started suddenly this morning. He rates the pain as a 7/10. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has tried taking over-the-counter pain medications with no relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no notable family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He works as a software engineer and has no current stressors."
+}

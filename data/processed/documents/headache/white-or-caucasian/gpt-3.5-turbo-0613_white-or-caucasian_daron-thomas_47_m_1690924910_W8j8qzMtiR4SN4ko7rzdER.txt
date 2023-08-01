@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daron Thomas",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache. He reports that the headache started suddenly about 2 hours ago and is the worst headache he has ever experienced. He denies any recent head trauma. He also reports feeling nauseous and sensitive to light. Patient states he has no significant past medical history and is not currently taking any medications. On physical examination, his blood pressure is 140/90 mmHg, heart rate is 80 bpm, and temperature is 37.0°C. Neurological examination reveals no focal deficits. Given the sudden onset and severity of the headache, a CT scan of the head was ordered to rule out intracranial bleeding or other acute pathology.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient reports headache as primary symptom but otherwise denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "Patient reports no prior surgeries.",
+  "family_history": "Patient denies any significant family history of neurological or cardiovascular conditions.",
+  "social_history": "Patient reports occasional alcohol use and denies tobacco or recreational drug use."
+}

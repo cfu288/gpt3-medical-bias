@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Sterling Coverson",
+  "age": "69",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache that started suddenly this morning. He describes the headache as severe and throbbing, primarily located on the right side of the head. The patient reports that the headache is accompanied by nausea and sensitivity to light and sound. He denies any recent head trauma or fever. No significant medical history or previous similar episodes. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or itching.",
+    "neurologic": "In addition to the severe headache, the patient denies any focal neurological deficits such as weakness, numbness, or tingling. No changes in vision or speech."
+  },
+  "past_medical_history": "Patient's past medical history is unremarkable.",
+  "medications": "Patient states he takes over-the-counter ibuprofen for headache relief but has not taken any today.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient has no significant family history of neurological diseases or migraines.",
+  "social_history": "Patient is a retired accountant. He denies tobacco or alcohol use."
+}
+```

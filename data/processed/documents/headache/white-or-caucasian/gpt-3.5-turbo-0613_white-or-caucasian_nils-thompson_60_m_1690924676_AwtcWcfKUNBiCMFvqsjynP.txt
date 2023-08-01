@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nils Thompson",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a complaint of severe headache. He reports that the headache started suddenly this morning and has been progressively worsening. He describes the pain as a throbbing sensation on the left side of his head. The headache is accompanied by nausea and sensitivity to light. He denies any recent head trauma, fever, or change in vision.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for this condition.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a history of migraines.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

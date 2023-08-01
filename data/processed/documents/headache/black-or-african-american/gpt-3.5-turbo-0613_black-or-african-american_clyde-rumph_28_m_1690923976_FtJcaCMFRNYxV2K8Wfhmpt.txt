@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clyde Rumph",
+  "age": "28",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain in the temples. The pain is rated as a 7 out of 10 in severity. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He has never experienced a headache of this severity before and is concerned about the sudden onset. He has not taken any medication for the headache. There is no history of head trauma or recent illness. Overall, the patient appears alert and oriented.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes or lesions on the skin.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has never undergone any surgical procedures.",
+  "family_history": "There is no significant family history of neurological or cardiovascular conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or drug use. He works as a software engineer and denies any exposure to toxins or hazardous materials."
+}
+```

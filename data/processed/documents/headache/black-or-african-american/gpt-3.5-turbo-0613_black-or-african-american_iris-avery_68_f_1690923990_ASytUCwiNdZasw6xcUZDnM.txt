@@ -1,0 +1,21 @@
+{
+  "patient_name": "Iris Avery",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe headache. She reports that the headache started suddenly this morning and is persistent. She rates the pain as 9 out of 10 and describes it as a throbbing sensation on the right side of her head. She denies any recent head trauma or fever. She states that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports no joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or skin changes.",
+    "neurologic": "In addition to the headache, patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both well controlled with medications.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's mother had a history of stroke, but otherwise no significant family history.",
+  "social_history": "Patient is retired and lives alone. She does not smoke or use illicit drugs. She drinks alcohol occasionally in moderation."
+}

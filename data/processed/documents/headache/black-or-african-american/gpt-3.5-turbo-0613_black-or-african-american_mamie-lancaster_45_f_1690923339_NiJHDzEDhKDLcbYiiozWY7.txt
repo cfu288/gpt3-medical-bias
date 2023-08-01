@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mamie Lancaster",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache. She states that the headache started suddenly this morning and is the worst headache she has ever experienced. The patient also reports feeling nauseous and has vomited multiple times. She denies any recent head trauma or fever. On further questioning, the patient mentions that she has a history of migraines but states that this headache feels different and more severe than her usual migraines.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and generally unwell.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports nausea and multiple episodes of vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient reports severe headache and denies any changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of migraines and takes prescribed medication for them.",
+  "medications": "The patient takes [list of medications].",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "No significant family history of migraines or other neurological conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lonna Wooten",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Lonna Wooten, a 56-year-old female, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started abruptly about 4 hours ago and is described as a throbbing pain on the left side of her head. The pain is rated 8 out of 10 in severity and is associated with photophobia and nausea. The patient denies any recent head trauma or similar headaches in the past. She states that she has taken over-the-counter pain medication but has not obtained any relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which she manages with hydrochlorothiazide.",
+  "medications": "Hydrochlorothiazide for hypertension.",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient denies tobacco or alcohol use. She is married and works as an accountant."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dexter Lassiter",
+  "age": "25",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Dexter Lassiter, a 25-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly earlier today and is described as a throbbing pain localized to the frontal region. The patient rates the severity of the pain as 8 out of 10. He reports no associated symptoms such as nausea, vomiting, or visual changes. The patient denies any recent head trauma or similar episodes in the past. He states that he has never experienced a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies Fever, Chills, Fatigue, or Weight loss.",
+    "cardiovascular": "The patient denies Chest pain, Palpitations, or Shortness of breath.",
+    "respiratory": "The patient denies Cough, Shortness of breath, or Wheezing.",
+    "gi": "The patient denies Abdominal pain, Nausea, Vomiting, or Diarrhea.",
+    "gu": "The patient denies Dysuria, Urgency, or Frequency.",
+    "musculoskeletal": "The patient denies Joint pain or Muscle weakness.",
+    "skin": "The patient denies Rash or Skin lesions.",
+    "neurologic": "The patient reports only the headache, with no associated neurologic symptoms such as changes in vision, weakness, sensory disturbances, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He reports no chronic medical conditions or previous hospitalizations.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of chronic medical conditions or neurological disorders.",
+  "social_history": "The patient denies smoking, alcohol consumption, or illicit drug use. He is currently employed as a software engineer and lives alone."
+}

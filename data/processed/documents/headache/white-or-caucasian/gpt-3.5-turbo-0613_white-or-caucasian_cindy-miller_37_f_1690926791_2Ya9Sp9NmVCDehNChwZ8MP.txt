@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cindy Miller",
+  "age": "37",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Cindy Miller, a 37-year-old female, presents to the emergency department with a chief complaint of headache. The headache started approximately 2 hours ago and is described as a throbbing pain on the right side of her head. She rates the pain as an 8 out of 10 in intensity. She denies any associated symptoms such as nausea, vomiting, or visual changes. The headache is not relieved by over-the-counter pain medications. There is no history of head trauma or recent illness. The patient has a past medical history of migraines and takes sumatriptan as needed for relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, sputum production, or difficulty breathing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "Aside from the headache, no focal neurological deficits"
+  },
+  "past_medical_history": "History of migraines",
+  "medications": "Sumatriptan as needed for migraines",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of migraines or other neurological conditions",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

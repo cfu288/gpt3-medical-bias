@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emma Harper",
+  "age": "18",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of headache. Patient reports a sudden onset of severe headache about 2 hours ago. She says the pain is throbbing and it is located on the front of her head. She denies any trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient reports a sudden onset of severe headache. Denies any changes in vision, weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient denies any significant family medical history.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

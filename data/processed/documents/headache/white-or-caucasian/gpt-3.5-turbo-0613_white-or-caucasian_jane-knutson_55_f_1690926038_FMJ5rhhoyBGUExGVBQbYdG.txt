@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Knutson",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Jane Knutson, a 55-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately two hours ago and is described as a severe, throbbing pain on the right side of her head. The pain is accompanied by nausea and sensitivity to light. The patient denies any recent head trauma or changes in her usual headache pattern. She also reports no other associated symptoms. She has tried taking over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, for which she takes prescription medication as needed.",
+  "medications": "As needed, the patient takes [Migraine Medication] for her migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for migraines in her mother and sister.",
+  "social_history": "The patient works as an accountant and denies any tobacco, alcohol, or illicit drug use. She reports occasional stress due to work."
+}

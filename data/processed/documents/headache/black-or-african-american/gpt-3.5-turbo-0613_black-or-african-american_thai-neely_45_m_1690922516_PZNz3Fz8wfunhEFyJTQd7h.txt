@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Thai Neely",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Neely is a 45-year-old male presenting with a chief complaint of headache. The patient reports that his headache started suddenly about 2 hours ago. He describes the pain as a pulsating sensation on the right side of his head. He rates the pain as a 7 out of 10 in severity. The headache is accompanied by nausea and sensitivity to light and sound. He denies any recent head trauma or other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or blood in urine.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "Denies dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of migraines, with similar episodes of headache in the past. Denies any other significant medical conditions.",
+  "medications": "Patient takes sumatriptan as needed for migraines. No other medications are currently being taken.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of migraines or other neurological conditions.",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. He is currently employed as an accountant and denies any recent stressors."
+}
+```

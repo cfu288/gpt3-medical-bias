@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myra Elder",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Myra Elder, a 47-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and has been progressively worsening throughout the day. She describes the pain as a pounding sensation on both sides of her head, rated 8 out of 10 in intensity. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has taken over-the-counter pain medication, which has provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient reports only the headache as the primary neurological symptom."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which she reports as similar to her current headache but usually less severe.",
+  "medications": "The patient takes ibuprofen as needed for headaches. She has not taken any prescription medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is married, works as an accountant, and denies any tobacco, alcohol, or illicit drug use."
+}
+```

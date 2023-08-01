@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donny Sostre",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Sostre is a 78-year-old male who presents to the emergency department with a complaint of headache. The headache began approximately 8 hours ago and is described as a throbbing pain on the right side of his head. He rates the pain as 7 out of 10 and states that it is the worst headache he has ever experienced. He is also experiencing sensitivity to light and sound. He denies any associated symptoms such as nausea, vomiting, or neck stiffness. He has no history of migraines or similar headaches in the past. There is no recent trauma or injury to the head. He states that he has taken over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or muscle weakness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Positive for headache as described above. Negative for dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "Mr. Sostre has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "He is currently taking lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "He has no history of any surgical procedures.",
+  "family_history": "Negative for any significant family history of neurological or cardiovascular diseases.",
+  "social_history": "Mr. Sostre is a retired accountant. He does not smoke or drink alcohol. He lives with his wife and denies any recent travel or exposure to sick contacts."
+}

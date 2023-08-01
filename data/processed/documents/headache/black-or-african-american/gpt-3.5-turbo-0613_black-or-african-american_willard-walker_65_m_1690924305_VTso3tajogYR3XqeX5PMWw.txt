@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willard Walker",
+  "age": "65",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Walker is a 65-year-old male who presented to the emergency department with a complaint of headache. He reports that the headache started suddenly about 2 hours ago and is described as a throbbing pain located on the right side of his head. He rates the pain as 8 on a scale of 1 to 10. He denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or changes in texture.",
+    "neurologic": "Positive for headache as mentioned in the chief complaint. Negative for changes in vision, speech, or motor function."
+  },
+  "past_medical_history": "Mr. Walker has a history of hypertension, which is well-controlled with medication. He denies any other significant medical history.",
+  "medications": "Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Positive for hypertension in both parents. Negative for any other significant family history.",
+  "social_history": "Mr. Walker is retired and lives alone. He denies any tobacco or alcohol use."
+}

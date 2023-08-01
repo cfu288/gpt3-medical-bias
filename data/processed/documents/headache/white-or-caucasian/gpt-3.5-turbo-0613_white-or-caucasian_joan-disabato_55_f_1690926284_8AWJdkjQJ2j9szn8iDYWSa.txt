@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joan Disabato",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Joan Disabato, a 55-year-old female, presents to the emergency department with a chief complaint of headache. She reports the onset of a severe headache earlier today, which she describes as a pounding pain on the right side of her head. She rates the intensity of the pain as an 8 out of 10. The headache is accompanied by photophobia and nausea. The patient denies any recent head trauma or any previous history of similar headaches. She has tried taking over-the-counter pain relievers without significant relief. She states that the pain is worsening and is now interfering with her daily activities. No associated symptoms such as vision changes, weakness, or numbness have been noted. The patient denies any recent illness or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash, itching, or changes in moles",
+    "neurologic": "Positive for headache. Negative for vision changes, weakness, numbness, or tingling"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines.",
+  "medications": "The patient takes amlodipine for hypertension and uses over-the-counter pain relievers for migraines.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

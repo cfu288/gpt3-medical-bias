@@ -1,0 +1,24 @@
+```json
+{
+    "patient_name": "Afshin Welker",
+    "age": "40",
+    "gender": "m",
+    "chief_complaint": "Headache",
+    "history_of_present_illness": "The patient, Mr. Afshin Welker, a 40-year-old male, presents to the emergency department with the chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is described as a throbbing pain on the right side of his head. The pain is moderate in intensity and does not radiate to any other location. He denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He states that he has never experienced a headache like this before and is concerned about the sudden onset. The patient denies any recent head trauma, fever, or other systemic symptoms. He has taken over-the-counter pain relievers which have provided only minimal relief. On further questioning, the patient reports experiencing a few episodes of similar headaches over the past month, but they were milder in intensity and resolved spontaneously within a few hours. The patient states that he has otherwise been generally healthy and has no significant past medical history.",
+    "review_of_symptoms": {
+        "constitutional": "No weight loss or fatigue",
+        "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+        "respiratory": "No cough, wheezing, or shortness of breath",
+        "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+        "gu": "No urinary frequency, urgency, or dysuria",
+        "musculoskeletal": "No joint pain or stiffness",
+        "skin": "No rash, itching, or lesions",
+        "neurologic": "No numbness, weakness, or changes in vision"
+    },
+    "past_medical_history": "The patient reports no significant past medical history. He is not taking any regular medications.",
+    "medications": "The patient denies taking any current medications.",
+    "past_surgical_history": "The patient reports no past surgical history.",
+    "family_history": "There is no significant family history of neurological or cardiovascular diseases.",
+    "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leslee Bennett",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Leslee Bennett, a 45-year-old female, presents to the emergency department today with a chief complaint of headache. The headache started this morning and is described as a pulsating pain on the right side of the head. Patient rates the pain as 8 out of 10 on a pain scale. She also reports associated symptoms including nausea, sensitivity to light, and blurred vision. The headache has not improved with over-the-counter pain medication. There is no history of trauma or recent illness. The patient states that she has experienced similar headaches in the past, but this episode is more severe.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient reports a severe headache as described above."
+  },
+  "past_medical_history": "Patient has a history of migraines, for which she takes sumatriptan as needed. She also has a history of hypertension.",
+  "medications": "Sumatriptan, Lisinopril",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "Mother had a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

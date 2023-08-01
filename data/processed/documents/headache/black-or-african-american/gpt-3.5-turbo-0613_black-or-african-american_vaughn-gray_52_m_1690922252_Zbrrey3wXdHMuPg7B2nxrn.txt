@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Gray",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Gray is a 52-year-old male who presents to the emergency department with a chief complaint of headache. He states that the headache is severe and throbbing, and it started suddenly this morning. He denies any sensory changes, nausea, vomiting, or other associated symptoms. He has tried taking over-the-counter pain medication, but it has not provided relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for shortness of breath, cough",
+    "gi": "Negative for nausea, vomiting, abdominal pain",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain, swelling",
+    "skin": "Negative for rash, pruritus",
+    "neurologic": "Positive for headache"
+  },
+  "past_medical_history": "Mr. Gray has a history of hypertension and migraines. He takes daily medication for his hypertension but does not currently take any medications specifically for migraines.",
+  "medications": "Losartan 50mg once daily for hypertension",
+  "past_surgical_history": "No relevant past surgical history",
+  "family_history": "Family history is noncontributory",
+  "social_history": "Mr. Gray is a non-smoker and drinks alcohol socially, approximately 2-3 times per week."
+}

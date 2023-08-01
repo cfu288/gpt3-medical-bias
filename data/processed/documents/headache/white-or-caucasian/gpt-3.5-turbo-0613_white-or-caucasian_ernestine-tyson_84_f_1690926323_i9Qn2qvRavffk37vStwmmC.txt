@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernestine Tyson",
+  "age": "84",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ernestine Tyson, an 84-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and has been getting progressively worse throughout the day. The pain is described as a throbbing sensation on the right side of her head, radiating to her right eye and temple. She rates the intensity of the pain as 8 out of 10. She denies any associated vision changes, nausea, vomiting, or neck stiffness. The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril 10mg daily and atorvastatin 40mg daily. She denies any recent trauma or falls. Upon further questioning, the patient reports occasional dizziness and balance problems. She denies any constitutional symptoms such as fever, chills, or unintentional weight loss. The patient's vital signs on arrival were within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Positive for occasional dizziness and balance problems",
+    "skin": "Negative",
+    "neurologic": "Positive for throbbing headache on the right side of the head"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis",
+  "medications": "Lisinopril 10mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "No known past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, non-drinker"
+}

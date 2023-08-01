@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aura Williams",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Aura Williams, is a 35-year-old female who presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly this morning and has been gradually worsening throughout the day. She describes the pain as a dull ache on the left side of her head, with some throbbing and pressure. The headache is associated with mild sensitivity to light and sound. The patient denies any recent head trauma, fever, changes in vision, or other neurological symptoms. She has taken over-the-counter pain medication, which has provided minimal relief. Additionally, the patient reports feeling a bit lightheaded and fatigued since the onset of the headache.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in bladder function.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of migraine headaches, for which she takes prescribed medication as needed. She also reports a history of seasonal allergies.",
+  "medications": "The patient takes over-the-counter pain medication for migraines as needed. She has taken one dose today with minimal relief.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She denies any illicit drug use. She works as an office manager and is not currently under any significant stressors."
+}
+```

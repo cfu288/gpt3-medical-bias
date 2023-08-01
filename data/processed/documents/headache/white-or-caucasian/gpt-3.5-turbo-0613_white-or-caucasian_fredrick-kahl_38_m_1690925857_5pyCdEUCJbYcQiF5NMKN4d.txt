@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fredrick Kahl",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Kahl, presents to the emergency department with a complaint of severe headache for the past 4 hours. He describes the pain as throbbing and localized to his temples. The headache started suddenly and has been constant since then. He rates the intensity of the pain as 8/10. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He states that he has never experienced a headache of this severity before. On further questioning, the patient reports that he recently started a new job that involves working long hours in front of a computer screen. He also admits to not drinking enough water throughout the day. No previous history of trauma or similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any constitutional symptoms such as fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any cardiovascular symptoms such as chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any respiratory symptoms such as cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any genitourinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms such as joint pain, muscle weakness, or limitation of movement.",
+    "skin": "Patient denies any skin symptoms such as rash, itching, or skin lesions.",
+    "neurologic": "Aside from the severe headache, patient denies any other neurologic symptoms such as focal weakness, seizures, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which are usually managed with over-the-counter medications such as ibuprofen and rest.",
+  "medications": "The patient takes ibuprofen on an as-needed basis for his migraines.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of migraines.",
+  "social_history": "The patient is currently employed as a software engineer and reports working long hours in front of a computer screen. He admits to not drinking enough water throughout the day. He denies tobacco, alcohol, or illicit drug use."
+}

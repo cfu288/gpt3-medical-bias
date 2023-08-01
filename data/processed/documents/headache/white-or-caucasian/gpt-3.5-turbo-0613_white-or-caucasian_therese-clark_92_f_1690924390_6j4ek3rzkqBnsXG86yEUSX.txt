@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Therese Clark",
+  "age": "92",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Therese Clark, is a 92-year-old female who presented to the emergency department with a chief complaint of headache. She reports that the headache started suddenly and is severe in intensity. She states that the headache is located in the right temple area and radiates to the back of her head. The headache is accompanied by nausea and sensitivity to light. The patient denies any recent trauma, changes in vision, or fever. She also states that this is the first time she has experienced this type of headache. On physical examination, the patient appears uncomfortable and is holding her head. She has no focal neurological deficits and her vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient's current medications include Lisinopril 10mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in her father and mother.",
+  "social_history": "The patient is a non-smoker and lives alone. She does not consume any alcohol or illicit drugs."
+}
+```

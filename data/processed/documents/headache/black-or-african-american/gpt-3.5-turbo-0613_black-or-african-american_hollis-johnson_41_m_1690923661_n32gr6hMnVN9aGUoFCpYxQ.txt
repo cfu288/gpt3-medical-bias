@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Hollis Johnson",
+  "age": "41",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. Patient reports that the headache started sudden and of severe intensity about 2 hours ago. Pain is located in the frontal region and is described as a pounding sensation. Patient states that the headache is accompanied by sensitivity to light and noise. He denies any visual changes, numbness, weakness, or loss of consciousness. He has taken over-the-counter pain medication without relief. Patient reports no history of similar headaches in the past. There are no recent head injuries or changes in medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or skin lesions.",
+    "neurologic": "Patient reports no changes in sensation, movement, coordination, or balance."
+  },
+  "past_medical_history": "Patient reports no significant past medical history. No history of hypertension, diabetes, or prior surgeries."",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports no family history of significant medical conditions.",
+  "social_history": "Patient denies smoking, alcohol consumption, or illicit drug use. Patient is married and works as a software engineer."
+}
+```

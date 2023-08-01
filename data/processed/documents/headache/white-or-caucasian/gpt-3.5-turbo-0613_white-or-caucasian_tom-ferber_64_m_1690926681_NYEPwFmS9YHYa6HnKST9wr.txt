@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Ferber",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Tom Ferber, a 64-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain on the right side of his head. It is associated with nausea and sensitivity to light. The patient rates the pain as 7 out of 10. He denies any recent head trauma or episodes of loss of consciousness. There is no history of similar headaches in the past. The patient has tried taking over-the-counter pain medication which provided partial relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or pain",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rashes, itching, or changes in skin color",
+    "neurologic": "The patient reports no changes in vision, speech, or coordination"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

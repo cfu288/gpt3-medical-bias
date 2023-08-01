@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Charlene Needham",
+  "age": "76",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient Charlene Needham, a 76-year-old female, presents to the emergency department with the chief complaint of headache. She reports that the headache began gradually approximately 2 days ago and has been worsening in intensity. She describes the pain as a dull, throbbing sensation localized to the frontal area of her head. The pain is moderate in intensity and is exacerbated by bright light and loud noise. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has tried over-the-counter pain medications but they have provided only temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness, or difficulty with movement",
+    "skin": "Denies rash, itching, or changes in moles",
+    "neurologic": "Denies numbness, weakness, changes in vision, or seizures"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include amlodipine 5 mg daily, atorvastatin 20 mg daily, and ibuprofen 400 mg as needed for pain.",
+  "past_surgical_history": "The patient has a history of cholecystectomy in 2005 and knee replacement surgery in 2010.",
+  "family_history": "The patient's family history is significant for hypertension in her father and mother.",
+  "social_history": "The patient is a retired teacher. She is a non-smoker and denies alcohol or illicit drug use. She lives with her husband and has a supportive social network."
+}
+```

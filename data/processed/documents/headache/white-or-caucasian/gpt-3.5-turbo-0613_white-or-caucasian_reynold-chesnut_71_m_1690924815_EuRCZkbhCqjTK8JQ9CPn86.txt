@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Reynold Chesnut",
+  "age": "71",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Reynold Chesnut, a 71-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that he woke up this morning with a severe, throbbing headache. He describes the pain as located in the frontal area of his head, and rates it as a 8 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, changes in vision, or weakness. The patient has never experienced a headache of this severity before. The headache has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling tired and fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or itching.",
+    "neurologic": "The patient denies any changes in vision, numbness, tingling, or weakness in any body part."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient had a cholecystectomy 5 years ago.",
+  "family_history": "The patient's father had a history of myocardial infarction at age 60.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use."
+}
+```

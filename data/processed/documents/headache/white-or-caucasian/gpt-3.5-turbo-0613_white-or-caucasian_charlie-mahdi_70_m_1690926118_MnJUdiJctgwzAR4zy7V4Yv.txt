@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Mahdi",
+  "age": "70",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Charlie Mahdi, a 70-year-old male, presents to the emergency department with a chief complaint of headache. The patient states that the headache started abruptly about 2 hours ago and is described as a throbbing pain located on the right side of his head. He rates the pain as 8 out of 10 and reports associated symptoms of nausea and sensitivity to light. The patient denies any recent head trauma or similar headaches in the past. His vital signs on arrival are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and temperature of 37.0 degrees Celsius.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient reports prior history of migraines. No focal neurologic deficits on examination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines, for which he is currently taking lisinopril and sumatriptan, respectively.",
+  "medications": "Lisinopril 10 mg daily, Sumatriptan 50 mg as needed for migraines",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient denies any significant family history of neurological disorders or migraines.",
+  "social_history": "The patient is retired and lives alone. He denies tobacco or alcohol use."
+}

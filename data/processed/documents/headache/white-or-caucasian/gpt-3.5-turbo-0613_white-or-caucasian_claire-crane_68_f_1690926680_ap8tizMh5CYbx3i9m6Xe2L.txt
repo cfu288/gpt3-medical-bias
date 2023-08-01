@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claire Crane",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Claire Crane is a 68-year-old female presenting to the emergency department with a complaint of headache. The patient reports that the headache started suddenly this morning and is located in the frontal area. She describes the pain as a sharp, throbbing sensation, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. She states that she has never experienced a headache like this before and is concerned about a possible serious underlying cause.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports no history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a history of hypertension, controlled with medication. She also reports a history of migraines, for which she takes as-needed medication.",
+  "medications": "The patient is currently taking lisinopril for hypertension and sumatriptan for migraines.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a retired teacher. She denies smoking, alcohol, or illicit drug use. She lives alone and has no significant travel history."
+}

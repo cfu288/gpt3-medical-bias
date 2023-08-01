@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eleanor King",
+  "age": "63",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient Eleanor King, a 63-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as severe, throbbing, and located in the frontal region. It started suddenly this morning and has been progressively worsening. The patient denies any trauma or preceding illness. She has tried over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rash or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, numbness, weakness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraine headaches.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension and uses sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is notable for hypertension in her father and migraines in her sister.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is currently retired and lives alone."
+}

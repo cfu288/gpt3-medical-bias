@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pietro Davis",
+  "age": "63",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presenting with severe headache that started yesterday. Patient describes the headache as a pounding sensation on both sides of the head. Patient states that the headache is constant and has not improved with over-the-counter pain medications. Patient denies any recent head trauma or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or recent weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient reports no changes in speech, vision, or sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. Patient reports being compliant with prescribed medications for these conditions.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a history of stroke and mother had a history of heart disease.",
+  "social_history": "Patient denies tobacco use. Patient reports occasional alcohol consumption. Patient lives alone and is retired."
+}

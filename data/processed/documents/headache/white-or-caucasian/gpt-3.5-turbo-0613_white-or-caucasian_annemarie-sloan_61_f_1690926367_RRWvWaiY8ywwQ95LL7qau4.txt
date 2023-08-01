@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annemarie Sloan",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Annemarie Sloan, a 61-year-old female, presents to the emergency department with a complaint of headache. She states that the headache started yesterday afternoon and has been persistent since then. She describes the pain as a dull ache in her temples and behind her eyes. She rates the intensity of the pain as a 6 out of 10. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has tried over-the-counter pain medications, but they have provided only temporary relief. She reports no recent head trauma or other significant medical history. On examination, her vital signs are within normal limits. Neurological examination, including cranial nerves, motor strength, and sensation, reveals no abnormalities. Given her persistent headache and the lack of response to over-the-counter medications, further evaluation and management are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension, but no other significant family history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tammi Bull",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe headache. Headache started suddenly and has been persistent for the past 6 hours. Patient rates the intensity of the headache as 8 out of 10. She describes the pain as throbbing and located in the frontal area. Patient denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty with movement.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports severe headache but denies any other neurologic symptoms such as numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of migraines, for which she takes ibuprofen as needed. No other significant medical history reported.",
+  "medications": "Ibuprofen 800mg as needed for migraines.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of migraines or other neurological disorders.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use. No recent travel or exposure to sick individuals."
+}

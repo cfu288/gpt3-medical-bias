@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Astrid Wood",
+  "age": "28",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Astrid Wood, a 28-year-old female, presents to the emergency department with a chief complaint of headache. The headache started abruptly approximately three hours ago while the patient was at work. The pain is described as a dull, throbbing sensation located in the bilateral temples. The patient rates the pain as a 6 out of 10 in intensity. There are no associated symptoms such as nausea, vomiting, or photophobia. The patient denies any recent illnesses, injuries, or changes in medication. The patient has tried over-the-counter pain medication with minimal relief. She decided to come to the emergency department for evaluation and management.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty ambulating.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a past medical history of migraines, which have been occurring approximately once a month for the past year. The migraines are typically preceded by an aura consisting of visual disturbances.",
+  "medications": "The patient takes over-the-counter ibuprofen as needed for migraine pain relief.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of migraines. Her mother and sister also suffer from migraines.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

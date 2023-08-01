@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damon Brown",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Damon Brown, a 47-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly this morning and is described as a throbbing pain on the right side of his head. He rates the pain as a 7 out of 10 and states that it is the worst headache he has ever experienced. The patient denies any associated symptoms such as nausea, vomiting, or neurological deficits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is significant for hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

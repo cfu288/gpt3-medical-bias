@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sammie Smart",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Sammie Smart, a 75-year-old male, presents to the emergency department with complaints of a severe headache that started approximately 3 hours ago. The headache is described as throbbing and is located in the frontal area. The patient denies any associated symptoms such as visual changes, nausea, or vomiting. He states that he has never experienced a headache of this intensity before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Aside from the headache, the patient denies any focal neurological symptoms such as weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes losartan and simvastatin daily.",
+  "medications": "Losartan 50 mg daily, simvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a retired teacher, lives alone, and denies any tobacco or alcohol use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gilbert Harris",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Harris presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is located in his temples. He rates the pain as a 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has tried taking over-the-counter pain medications but has not experienced any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Denies joint pain or stiffness.",
+    "skin": "Denies rashes or skin lesions.",
+    "neurologic": "Reports the headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Mr. Harris has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He takes medications for these conditions, including lisinopril, atorvastatin, and metformin.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "Mr. Harris has no past surgical history.",
+  "family_history": "There is a family history of hypertension and hyperlipidemia.",
+  "social_history": "Mr. Harris is retired. He is a non-smoker and denies alcohol or drug use."
+}

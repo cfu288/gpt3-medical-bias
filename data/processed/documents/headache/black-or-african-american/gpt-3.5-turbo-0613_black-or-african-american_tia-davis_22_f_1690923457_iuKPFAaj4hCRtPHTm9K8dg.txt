@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tia Davis",
+  "age": "22",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Tia Davis, a 22-year-old female, presents to the emergency department with complaints of a severe headache. She describes the headache as a throbbing pain on the right side of her head that started suddenly and has been persistent for the past 2 hours. Tia reports that she has never experienced a headache of this severity before. She denies any associated symptoms such as visual changes, nausea, vomiting, or sensitivity to light or sound. She also denies any recent head trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or pruritus.",
+    "neurologic": "Positive for the severe headache as chief complaint. Negative for any focal neurologic deficits or changes in consciousness."
+  },
+  "past_medical_history": "Tia has a past medical history of occasional migraines, for which she takes over-the-counter ibuprofen.",
+  "medications": "Ibuprofen 200 mg as needed for headaches.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of headaches or other neurological conditions.",
+  "social_history": "Tia is a non-smoker and denies any use of illicit drugs. She consumes alcohol occasionally on social occasions."
+}

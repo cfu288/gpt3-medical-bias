@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Herron",
+  "age": "86",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. The patient states that the headache started suddenly and is severe in intensity. He describes the pain as pounding and localized to the right side of his head. The headache is accompanied by nausea and sensitivity to light. The patient denies any recent head trauma or similar episodes in the past. He also reports no associated symptoms such as fever, neck stiffness, or changes in vision. The patient admits to feeling anxious and restless due to the pain. Upon further assessment, the patient has no neurologic deficits and his vital signs are stable. The pain is not relieved with over-the-counter pain medications. The patient has no history of migraines. The rest of the review of symptoms is negative.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for restlessness and anxiety",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for numbness, tingling, weakness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes",
+  "medications": "The patient takes Lisinopril for hypertension and Metformin for diabetes",
+  "past_surgical_history": "The patient has no previous surgical history",
+  "family_history": "Positive for hypertension and diabetes in immediate family members",
+  "social_history": "The patient is retired and lives alone. He does not smoke or drink alcohol. He denies any use of recreational drugs."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodger Ballard",
+  "age": "44",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. He describes the pain as a throbbing sensation on the right side of his head, which started suddenly this morning. The pain is moderate in intensity and worsens with movement. He denies any associated symptoms such as nausea, vomiting, or visual disturbances. He states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms or genital discomfort.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or limitation of movement.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, patient denies any focal weakness, numbness, tingling, or difficulty speaking."
+  },
+  "past_medical_history": "Patient reports a history of migraines, for which he takes over-the-counter medications.",
+  "medications": "Patient takes acetaminophen as needed for headaches and does not take any other regular medications.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient reports no significant family history of neurological disorders or migraines.",
+  "social_history": "Patient is employed as an office manager. He denies tobacco or alcohol use and is not on any recreational drugs."
+}

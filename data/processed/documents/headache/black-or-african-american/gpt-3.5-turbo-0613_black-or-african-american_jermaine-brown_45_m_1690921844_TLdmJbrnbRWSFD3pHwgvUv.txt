@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jermaine Brown",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Jermaine Brown, a 45-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 4 hours ago and is localized to the right temple. He describes the pain as a pulsating sensation and rates it as 8 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, or visual changes. His medical history is significant for migraines in the past, but this headache is different from his usual migraine headaches. He has tried taking over-the-counter pain medications without relief. On physical examination, the patient appears uncomfortable and is holding his head. Vital signs are stable and within normal limits. Neurological examination reveals no focal deficits. Based on the history and presentation, the patient's headache is likely a tension-type headache or a new-onset migraine. Further evaluation and management are needed.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency or urgency.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No numbness, tingling, or weakness in extremities."
+  },
+  "past_medical_history": "The patient has a history of migraines and takes sumatriptan as needed for headache relief.",
+  "medications": "Sumatriptan PRN.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "There is no significant family history of neurological disorders or migraines.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He is married and works as a software engineer."
+}

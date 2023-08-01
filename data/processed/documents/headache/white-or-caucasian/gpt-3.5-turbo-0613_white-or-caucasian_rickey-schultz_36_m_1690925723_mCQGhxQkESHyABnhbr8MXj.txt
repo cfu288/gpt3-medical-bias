@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Rickey Schultz",
+  "age": "36",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Rickey Schultz, a 36-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain in the front of the head. The patient rates the severity of the pain as 7/10. He states that the headache is accompanied by nausea but denies any vomiting or neurological symptoms. The patient reports no recent trauma or infection. He has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or sputum production",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, stiffness, or swelling",
+    "skin": "No rash, itching, or changes in skin color",
+    "neurologic": "Headache is the only neurological symptom"
+  },
+  "past_medical_history": "The patient has no significant past medical history. He is not taking any regular medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "No significant family history of neurological disorders or headaches.",
+  "social_history": "The patient denies smoking, alcohol, or drug use. He is employed as an accountant and reports low stress levels."
+}
+```

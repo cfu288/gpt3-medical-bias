@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earline John",
+  "age": "89",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient, an 89-year-old female, presents to the emergency department with complaints of severe headache. She states that the headache started suddenly about 2 hours ago and the pain is located on her temples. Patient denies any nausea, vomiting, sensitivity to light or sound. She reports using over-the-counter pain relievers, which provided minimal relief. No recent trauma or changes in medications. The headache is rated as 9/10 in severity, constant, and not relieved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or swelling.",
+    "respiratory": "Patient denies shortness of breath, cough, or sputum production.",
+    "gi": "Patient denies abdominal pain, diarrhea, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rashes, itching, or changes in skin color or texture.",
+    "neurologic": "Patient reports severe headache as chief complaint. No focal neurologic deficits noted."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoporosis.",
+  "medications": "Patient is currently taking lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has a remote history of cholecystectomy.",
+  "family_history": "Patient has a family history of hypertension.",
+  "social_history": "Patient is retired and lives alone. She denies tobacco, alcohol, or drug use."
+}

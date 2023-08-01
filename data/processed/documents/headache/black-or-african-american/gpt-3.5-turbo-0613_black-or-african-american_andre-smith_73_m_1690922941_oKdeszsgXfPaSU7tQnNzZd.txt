@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "73",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly about 2 hours ago and is described as a throbbing pain located on the right side of his head. He rates the pain as a 7 out of 10. The patient denies any associated symptoms such as visual changes, nausea, or vomiting. He also denies any recent head trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fatigue, weakness, or unintended weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements reported.",
+    "gu": "No urinary frequency, urgency, burning, or hematuria reported.",
+    "musculoskeletal": "No joint pain, muscle weakness, or limited range of motion reported.",
+    "skin": "No rashes, itching, or skin changes reported.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes amlodipine.",
+  "medications": "Amlodipine 5mg daily for hypertension",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's father had a history of migraines.",
+  "social_history": "The patient is retired. He does not smoke or drink alcohol. He lives with his wife and denies any recent travel or exposure to sick individuals."
+}

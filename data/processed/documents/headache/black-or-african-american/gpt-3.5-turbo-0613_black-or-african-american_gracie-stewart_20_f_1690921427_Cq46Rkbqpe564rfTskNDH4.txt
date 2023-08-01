@@ -1,0 +1,27 @@
+{
+  "patient_name": "Gracie Stewart",
+  "age": "20",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Gracie Stewart, is a 20-year-old female who presents to the emergency department with a chief complaint of headache. She reports that the headache started approximately 4 hours ago and has been progressively worsening. She rates the pain as a 7 out of 10 and describes it as a throbbing sensation on the right side of her head. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She has never experienced a headache of this severity before. She has tried taking over-the-counter pain medications, but they provided minimal relief. She denies any recent trauma, fever, or changes in vision. She has a past medical history of occasional tension headaches but states that this headache feels different and more severe than her usual headaches."
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Aside from her current headache, the patient denies any numbness, tingling, weakness, dizziness, or changes in coordination."
+  },
+
+  "past_medical_history": "The patient's past medical history is significant for occasional tension headaches, but she denies any other chronic medical conditions or hospitalizations.",
+
+  "medications": "The patient takes occasional over-the-counter pain medications such as acetaminophen for her tension headaches.",
+
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+
+  "family_history": "The patient has no known family history of migraines, stroke, or other neurological conditions.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

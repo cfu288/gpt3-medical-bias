@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Loretta Moyer",
+  "age": "97",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Loretta Moyer, a 97-year-old female, presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly about 2 hours ago and is described as a severe throbbing pain located on the right side of her head. She denies any associated symptoms such as nausea, vomiting, or visual disturbances. The headache has not responded to over-the-counter pain medications. There is no history of head trauma or recent illness. Her vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash, itching, or discoloration.",
+    "neurologic": "In addition to the headache, no focal neurologic deficits or changes in mental status."
+  },
+  "past_medical_history": "Loretta has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "Loretta has no history of any surgical procedures.",
+  "family_history": "There is no family history of migraines or any other significant medical conditions.",
+  "social_history": "Loretta is retired and lives independently. She does not smoke or drink alcohol."
+}
+```

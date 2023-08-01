@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anson Simmons",
+  "age": "53",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Simmons is a 53-year-old male who presents to the emergency department with a chief complaint of severe headache. He reports that the headache started suddenly this morning and is described as a pounding pain, primarily located in the front of his head. The headache is associated with sensitivity to light and sound. Mr. Simmons denies any visual changes, nausea, or vomiting. He states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations, shortness of breath",
+    "respiratory": "Denies cough, shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Denies urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching, swelling",
+    "neurologic": "Reports only the severe headache"
+  },
+  "past_medical_history": "Mr. Simmons has a history of hypertension and occasional migraines, which are usually well-controlled with sumatriptan.",
+  "medications": "Sumatriptan 100mg PRN for migraines, Lisinopril 20mg daily for hypertension",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Father with history of migraines",
+  "social_history": "Mr. Simmons is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marti Beard",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Marti Beard, a 60-year-old male, presents to the emergency department with complaints of severe headache. He reports that the headache started suddenly this morning and has gradually worsened throughout the day. He describes the pain as throbbing and localized to his forehead and temples. He denies any associated symptoms such as visual changes, nausea, or vomiting. The pain is not relieved with over-the-counter pain medications. There is no history of head trauma or recent illness. On further questioning, the patient states that he has a past medical history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient reports a severe headache, but denies any changes in vision, weakness or tingling in the extremities, or difficulty speaking."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension.",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient denies any significant family medical history.",
+  "social_history": "Patient reports no history of tobacco or alcohol use."
+}

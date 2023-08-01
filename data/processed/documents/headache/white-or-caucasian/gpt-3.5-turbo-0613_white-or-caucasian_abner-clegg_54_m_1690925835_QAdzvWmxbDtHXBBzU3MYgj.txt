@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abner Clegg",
+  "age": "54",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Clegg, presented to the emergency department with a complaint of severe headache. He states that the headache began suddenly about 2 hours ago. The pain is located in the frontal area and is described as throbbing. The patient rates the pain as 8 out of 10. He denies any accompanying symptoms such as nausea, vomiting, sensitivity to light, or visual disturbances. The patient has never experienced a headache of this severity before and was not doing anything out of the ordinary when it started. He states that he has taken over-the-counter pain medications with no relief. The patient denies any recent head trauma.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, skin lesions, or itching.",
+    "neurologic": "In addition to the headache complaint, the patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia, for which he takes amlodipine and atorvastatin, respectively. He denies any other significant past medical history.",
+  "medications": "Amlodipine 5 mg once daily, atorvastatin 20 mg once daily",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's father had a history of hypertension and his mother had a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any significant alcohol or illicit drug use. He works as an office manager and denies any recent travel or sick contacts."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Brinkley",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Brinkley presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and is accompanied by mild nausea. He describes the pain as a throbbing sensation on the left side of his head. The headache has not resolved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Mild nausea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "Headache is the only neurologic symptom."
+  },
+  "past_medical_history": "Hypertension, controlled with lisinopril.",
+  "medications": "Lisinopril 10mg daily.",
+  "past_surgical_history": "Appendectomy at age 18.",
+  "family_history": "Father had history of migraines.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

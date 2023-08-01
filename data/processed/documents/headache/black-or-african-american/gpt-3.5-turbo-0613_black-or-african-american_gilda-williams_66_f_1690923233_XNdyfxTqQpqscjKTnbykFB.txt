@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gilda Williams",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Gilda Williams, a 66-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started approximately 2 days ago and has been progressively worsening. She rates the intensity of the headache as 7/10 and describes it as a constant, throbbing pain located on the left side of her head. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. The headache does not improve with rest or over-the-counter pain medications. The patient states that she has never experienced a headache like this before and is concerned about the sudden onset and severity of the pain. There is no history of trauma or recent illness. On further questioning, the patient reports some mild difficulty with balance and feeling slightly off-balance. She denies any weakness, numbness, or tingling. No other concerning symptoms are reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "Mild difficulty with balance, denies weakness, numbness, or tingling"
+  },
+  "past_medical_history": "The patient reports a history of hypertension and osteoarthritis. She takes medication for her hypertension and uses over-the-counter pain relievers as needed for her osteoarthritis pain.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and occasionally uses acetaminophen for her osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's mother and sister both have a history of migraines.",
+  "social_history": "The patient is a retired teacher and lives independently. She denies tobacco, alcohol, and illicit drug use."
+}
+```

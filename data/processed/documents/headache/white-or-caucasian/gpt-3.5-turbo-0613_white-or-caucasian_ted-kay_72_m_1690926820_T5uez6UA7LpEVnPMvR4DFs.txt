@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ted Kay",
+  "age": "72",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ted Kay, is a 72-year-old male who presented to the emergency department with a complaint of headache. He reports that the headache started suddenly this morning and is severe in intensity. He describes the pain as a throbbing sensation on the left side of his head. He denies any associated symptoms such as nausea, vomiting, visual changes, or difficulty speaking. The patient reports that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is a retired engineer and has never smoked tobacco. He drinks alcohol occasionally."
+}

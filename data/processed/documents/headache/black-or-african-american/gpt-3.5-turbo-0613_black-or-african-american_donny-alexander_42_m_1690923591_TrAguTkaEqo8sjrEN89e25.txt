@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donny Alexander",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presenting with a complaint of headache for the past 2 days. He describes the headache as a persistent, dull pain located in the frontal region. Patient states that the headache is worsened with movement and is associated with mild nausea. Denies any vision changes, fever, or other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or fever.",
+    "cardiovascular": "No chest pain, palpitations, or lightheadedness.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint or muscle pain.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "In addition to the headache, patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Hypertension (controlled with medication), migraines.",
+  "medications": "Lisinopril 10mg daily for hypertension, sumatriptan as needed for migraines.",
+  "past_surgical_history": "Appendectomy at age 18.",
+  "family_history": "Mother with history of migraines.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

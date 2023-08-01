@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mandi Miller",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly about 2 hours ago and is a sharp pain located in the front of her head. She rates the pain as a 7 out of 10. She denies any recent head trauma or fever. She also reports feeling nauseous and having sensitivity to light and sound. No vision changes or focal neurological symptoms are noted. Initial assessment reveals no signs of distress and vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Positive for headache, nausea, and sensitivity to light and sound"
+  },
+  "past_medical_history": "Patient has no significant past medical history",
+  "medications": "Patient denies taking any medications",
+  "past_surgical_history": "No prior surgical history",
+  "family_history": "No significant family history of headaches or neurological conditions",
+  "social_history": "Patient works as an office manager and denies tobacco or alcohol use"
+}

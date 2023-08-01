@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Smith",
+  "age": "58",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Cornell Smith, a 58-year-old male, presents to the emergency department with a chief complaint of headache. The headache is described as a throbbing pain located in the right temple region. It started approximately 6 hours ago and has been progressively worsening. The patient has tried over-the-counter pain relievers, but they have provided minimal relief. There are no associated symptoms such as nausea, vomiting, or visual changes. The patient reports no recent head trauma or past medical history of migraines. The headache has significantly impacted the patient's daily activities and is causing distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies rash, itching, or skin discoloration.",
+    "neurologic": "In addition to the headache, the patient denies dizziness, numbness, or weakness in any extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medications.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or recreational drug use. He works as an accountant and does not report any recent significant stressors."
+}

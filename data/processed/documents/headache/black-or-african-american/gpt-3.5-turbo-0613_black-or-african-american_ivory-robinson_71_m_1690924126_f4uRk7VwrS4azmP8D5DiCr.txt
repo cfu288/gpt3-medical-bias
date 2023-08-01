@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ivory Robinson",
+  "age": "71",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ivory Robinson, a 71-year-old male, presents to the emergency department with complaints of headache. He describes the headache as a dull ache on the right side of his head that started about 3 hours ago. He denies any associated symptoms such as photophobia, phonophobia, or vomiting. The headache is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or changes in skin color",
+    "neurologic": "Headache is the only neurologic symptom reported"
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "The patient is retired and lives alone. He denies tobacco, alcohol, or drug use."
+}
+```

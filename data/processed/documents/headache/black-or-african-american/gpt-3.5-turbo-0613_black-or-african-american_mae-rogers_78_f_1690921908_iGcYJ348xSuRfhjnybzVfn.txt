@@ -1,0 +1,27 @@
+{
+  "patient_name": "Mae Rogers",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mae Rogers, is a 78-year-old female who presented to the emergency department with a chief complaint of headache. She describes the headache as a dull, constant pain located in the frontal region. The headache started approximately 2 hours ago and has been gradually worsening in intensity. The patient denies any associated symptoms such as photophobia, phonophobia, nausea, or vomiting. She also denies any recent trauma or significant medical history. Vital signs on presentation are stable, with a blood pressure of 130/80 mmHg, heart rate of 70 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 97% on room air.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or recent weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, weakness, numbness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. She also has a history of osteoarthritis and osteoporosis. No prior history of similar headaches.",
+  
+  "medications": "The patient takes hydrochlorothiazide 25 mg once daily for hypertension.",
+  
+  "past_surgical_history": "The patient has a history of cholecystectomy at age 65.",
+  
+  "family_history": "The patient's family history is significant for hypertension and osteoporosis.",
+  
+  "social_history": "The patient lives alone and is retired. She denies any tobacco or alcohol use."
+}

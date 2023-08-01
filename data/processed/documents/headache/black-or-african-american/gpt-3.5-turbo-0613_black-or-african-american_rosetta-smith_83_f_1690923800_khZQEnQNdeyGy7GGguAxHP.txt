@@ -1,0 +1,28 @@
+{
+  "patient_name": "Rosetta Smith",
+  "age": "83",
+  "chief_complaint": "Headache",
+  
+  "history_of_present_illness": "Patient Rosetta Smith is an 83-year-old female presenting to the emergency department with a chief complaint of headache. She states that the headache started abruptly about 2 hours ago and is located in the frontal region. The pain is described as a throbbing sensation, rated 7/10 in intensity. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has taken over-the-counter painkillers without relief.",
+
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, or abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or skin lesions",
+    "neurologic": "Reports only the current headache"
+  },
+
+  "past_medical_history": "Patient has a past medical history of hypertension and osteoarthritis",
+
+  "medications": "Patient is currently taking lisinopril for hypertension and acetaminophen for arthritis pain. No recent changes to her medication regimen.",
+
+  "past_surgical_history": "Patient has no history of any surgical procedures",
+
+  "family_history": "Patient has a family history of hypertension in both parents",
+
+  "social_history": "Patient denies smoking or alcohol use. Lives alone and does not have any pets."
+}

@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Grant Freifeld",
+    "age": "20",
+    "chief_complaint": "Headache",
+    "history_of_present_illness": "The patient, Grant Freifeld, a 20-year-old male presents to the emergency department with a chief complaint of headache. The headache started approximately 2 hours ago and is described as a throbbing pain on the right side of the head. The pain is moderate in intensity and has not responded to over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, changes in vision, or focal neurological deficits.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies any fever, chills, or night sweats.",
+        "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+        "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+        "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+        "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+        "skin": "The patient denies any rash, itching, or changes in skin color.",
+        "neurologic": "Besides the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+    },
+    "past_medical_history": "The patient has no significant past medical history.",
+    "medications": "The patient is not currently taking any medications.",
+    "past_surgical_history": "The patient has no history of any surgical procedures.",
+    "family_history": "The patient has no significant family history of medical conditions.",
+    "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is currently in college, living on campus."
+}
+```

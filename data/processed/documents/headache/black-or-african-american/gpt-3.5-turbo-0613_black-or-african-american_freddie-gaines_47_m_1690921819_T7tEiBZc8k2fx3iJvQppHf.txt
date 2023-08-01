@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Freddie Gaines",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Gaines is a 47-year-old male who presents to the emergency department with a chief complaint of severe headache. Onset of the headache occurred approximately 3 hours prior to arrival. He describes it as a pounding sensation that is localized to the frontal area. The headache is associated with photophobia and phonophobia. He denies any recent trauma, fever, neck stiffness, or change in vision. He states that he has never experienced a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight changes, fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habit.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty ambulating.",
+    "skin": "The patient denies any rash, pruritus, or skin lesions.",
+    "neurologic": "In addition to the severe headache, the patient denies any focal weakness, numbness, tingling, seizures, or loss of consciousness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with amlodipine.",
+  "medications": "1. Amlodipine 5 mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of migraine headaches in his mother and sister.",
+  "social_history": "The patient denies tobacco, alcohol, and illicit drug use. He is married and works as an accountant."
+}
+```

@@ -1,0 +1,29 @@
+{
+  "patient_name": "Francois Guyton",
+  "age": "37",
+  "gender": "m",
+  "chief_complaint": "Headache",
+
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started suddenly about 3 hours ago. Headache is located on the right side of the head and is described as throbbing in nature. Patient denies any recent trauma or fever. He has never had a headache like this before and there are no other associated symptoms such as nausea, vomiting, or visual changes. Patient took ibuprofen at home for pain relief but it did not provide any relief.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or burning.",
+    "musculoskeletal": "No joint pain, muscle weakness, or limited range of motion.",
+    "skin": "No rash, itching, or changes in skin color or texture.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, numbness, tingling, weakness, or difficulty speaking."
+  },
+
+  "past_medical_history": "No significant past medical history reported.",
+
+  "medications": "Patient takes no regular medications and has not taken any other medications for the headache except for ibuprofen.",
+
+  "past_surgical_history": "No past surgical history reported.",
+
+  "family_history": "No significant family history of neurological or cardiovascular diseases.",
+
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He works as an office manager and does not have any recent travel history."
+}

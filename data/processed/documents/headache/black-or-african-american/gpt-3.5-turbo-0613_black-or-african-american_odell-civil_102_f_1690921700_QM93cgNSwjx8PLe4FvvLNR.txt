@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Odell Civil",
+  "age": "102",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Odell Civil, is a 102-year-old female who presented to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly about 2 hours ago and is described as a throbbing pain located in the frontal area. The pain is rated as a 7 out of 10 on a numeric rating scale. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She reports that she has never experienced a headache of this severity and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, pruritus, or lesions.",
+    "neurologic": "In addition to the headache, patient denies any focal neurologic deficits, changes in vision, or altered mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient's current medications include amlodipine 5 mg daily for hypertension and acetaminophen 650 mg as needed for pain.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is retired and lives with her daughter. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

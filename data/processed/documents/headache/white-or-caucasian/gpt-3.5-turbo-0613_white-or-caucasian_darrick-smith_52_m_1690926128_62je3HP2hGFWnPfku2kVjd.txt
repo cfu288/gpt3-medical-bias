@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Smith",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache. He describes the pain as throbbing and localized in his temples. The headache has been present for the past 3 days and has progressively worsened. Patient denies any recent trauma or fever. He has tried over-the-counter pain medication but it has provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or discomfort.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Aside from the severe headache, patient denies any changes in vision, speech difficulties, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and migraines.",
+  "medications": "Patient takes Metoprolol for hypertension and Sumatriptan as needed for migraines.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a history of migraines.",
+  "social_history": "Patient works as a software engineer and denies any tobacco or alcohol use."
+}

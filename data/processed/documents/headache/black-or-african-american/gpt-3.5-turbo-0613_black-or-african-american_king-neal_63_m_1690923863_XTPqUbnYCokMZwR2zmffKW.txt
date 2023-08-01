@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "King Neal",
+  "age": "63",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, King Neal, a 63-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about an hour ago and is severe, throbbing, and localized to the front of his head. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has not experienced any recent head trauma. The pain is not relieved with over-the-counter pain medications. On further questioning, the patient reports that he has a history of occasional headaches, but they are usually mild and infrequent. There have been no recent changes in his medication or lifestyle. There is no significant past medical history related to headaches.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medications. He also has a history of high cholesterol and is on a statin medication.",
+  "medications": "The patient takes the following medications: lisinopril 20mg daily for hypertension, atorvastatin 40mg daily for high cholesterol.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

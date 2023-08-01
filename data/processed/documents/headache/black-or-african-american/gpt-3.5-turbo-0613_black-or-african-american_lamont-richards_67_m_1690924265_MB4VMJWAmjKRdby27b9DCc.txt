@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lamont Richards",
+  "age": "67",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Lamont Richards, a 67-year-old male, presents to the emergency department with a chief complaint of headache. He describes the headache as a persistent dull ache located in his forehead and temples. He reports that the headache started yesterday and has been gradually getting worse. The pain is rated as a 6 out of 10 and is constant, with no relief from rest or over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. He also states that he has never experienced a headache like this before. The patient denies any recent trauma or head injury. He has tried taking acetaminophen without any improvement. His medical history is significant for hypertension, for which he takes amlodipine daily. Otherwise, he has no significant past medical or surgical history. He denies any history of migraines or other neurological conditions. His social history is non-contributory.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or tingling in any extremities."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Amlodipine",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "The patient is a non-smoker and has no alcohol or drug use."
+}

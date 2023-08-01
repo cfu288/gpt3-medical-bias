@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mireille Carter",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mireille Carter, presents to the emergency department with a chief complaint of headache. She reports that she has been experiencing a severe throbbing headache for the past 24 hours. She describes the pain as being located on both sides of her head and rates it as a 9 out of 10 on the pain scale. The headache is accompanied by sensitivity to light and sound, as well as nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or tingling in the extremities."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She works as a software engineer and denies any recent travel or exposure to sick contacts."
+}
+```

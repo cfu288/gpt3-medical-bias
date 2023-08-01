@@ -1,0 +1,22 @@
+{
+  "patient_name": "Kerin Smith",
+  "age": "33",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Kerin Smith, is a 33-year-old male who presents to the emergency department with a chief complaint of headache. The headache started suddenly approximately 2 hours ago and is described as a severe, throbbing pain localized to the right temple. The patient states that this is the worst headache he has ever had. He denies any associated symptoms such as vision changes, nausea, or vomiting. The patient reports no recent trauma or history of similar headaches. He has taken over-the-counter pain medication with no relief. On physical examination, the patient appears uncomfortable and is holding his head. Vital signs are stable. There is no meningeal signs or focal neurological deficit.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "Headache is the only neurologic complaint"
+  },
+  "past_medical_history": "The patient has a past medical history of migraine headaches that have been managed with as-needed analgesics. He reports experiencing several previous episodes of severe headache with similar characteristics.",
+  "medications": "The patient takes ibuprofen as-needed for headache relief. No other prescription medications.",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "Negative for significant family history of headache disorders or neurologic conditions",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adele Bauer",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Adele Bauer, a 60-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started this morning and has been getting progressively worse throughout the day. She describes the pain as a throbbing sensation on the right side of her head. She denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "Only complaint is the headache"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines. She takes a daily medication for hypertension.",
+  "medications": "The patient takes [Medication] for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother had migraines, but there is no other significant family history of note.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is married and works as a teacher at a local school."
+}

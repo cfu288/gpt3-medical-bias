@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "enum": ["Angeline Shorey"]
+    },
+    "age": {
+      "type": "string",
+      "enum": ["82"]
+    },
+    "chief_complaint": {
+      "type": "string",
+      "enum": ["Headache"]
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "enum": ["The patient, Angeline Shorey, an 82-year-old female presented to the emergency department with a chief complaint of headache. The headache started a few hours ago and is described as a throbbing pain on the left side of her head. She rates the pain as 8 out of 10. She denies any associated symptoms such as photophobia, phonophobia, nausea, or vomiting. She has no history of recurrent headaches. She states that she takes over-the-counter pain medications occasionally as needed for headaches and find relief from them. She denies any recent trauma or head injury. She has no significant past medical history of migraines or other neurological conditions. She does not have any visual disturbances or neurological deficits on examination. She is otherwise healthy with no other complaints."]
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "enum": ["No fever, chills, weight loss, or fatigue"]
+        },
+        "cardiovascular": {
+          "type": "string",
+          "enum": ["No chest pain, palpitations, or shortness of breath"]
+        },
+        "respiratory": {
+          "type": "string",
+          "enum": ["No cough, shortness of breath, or wheezing"]
+        },
+        "gi": {
+          "type": "string",
+          "enum": ["No abdominal pain, nausea, vomiting, or change in bowel movements"]
+        },
+        "gu": {
+          "type": "string",
+          "enum": ["No dysuria, hematuria, or frequency"]
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "enum": ["No joint pain, swelling, or stiffness"]
+        },
+        "skin": {
+          "type": "string",
+          "enum": ["No rash, itching, or swelling"]
+        },
+        "neurologic": {
+          "type": "string",
+          "enum": ["No dizziness, weakness, or numbness"]
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "medications": {
+      "type": "string",
+      "enum": ["Over-the-counter pain medications occasionally for headaches"]
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "family_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "social_history": {
+      "type": "string",
+      "enum": [""]
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

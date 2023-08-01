@@ -1,0 +1,21 @@
+{
+  "patient_name": "Juliet Stokes",
+  "age": "74",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. She describes the headache as a throbbing pain on the left side of her head, which has been ongoing for the past two days. The pain is moderate in intensity and is exacerbated by bright lights and loud noises. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has tried over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as previously described but denies any other neurologic symptoms such as weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and migraines.",
+  "medications": "Patient takes lisinopril for hypertension and sumatriptan for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient denies smoking or alcohol use."
+}

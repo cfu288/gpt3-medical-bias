@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dudley Gordon",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache. Headache started suddenly this morning and is described as a pounding sensation in the temples. Patient rates the pain as 8/10 on a numeric pain scale. Headache is associated with photophobia and nausea. Patient denies any visual disturbances or changes in mental status. There is no history of head trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and has a general sense of malaise.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency or pain.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient reports experiencing frequent headaches in the past, but none as severe as the current episode."
+  },
+  "past_medical_history": "Patient has a history of hypertension and dyslipidemia. Patient is on medications for these conditions.",
+  "medications": "Patient is currently taking lisinopril 10mg daily for hypertension and atorvastatin 40mg daily for dyslipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a history of stroke.",
+  "social_history": "Patient is retired and lives alone. Patient has a history of smoking but quit 10 years ago."
+}

@@ -1,0 +1,27 @@
+The completed note for the patient is as follows:
+
+```json
+{
+  "patient_name": "Gertrude Gonzalez",
+  "age": "90",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. Headache started yesterday evening and has been constant and severe in nature. Pain is described as pounding and located bilaterally in the frontal and temporal regions. Patient denies any associated symptoms such as nausea, vomiting, or visual changes. No recent trauma or head injury reported. No history of similar episodes in the past. No new medications or changes in daily routine. Pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, vomiting, or changes in bowel movements reported.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported.",
+    "skin": "No rashes, itching, or lesions reported.",
+    "neurologic": "In addition to the headache, patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Amlodipine 5 mg daily, Tylenol 650 mg PRN",
+  "past_surgical_history": "Cholecystectomy in 2008",
+  "family_history": "No significant family history of neurological conditions or migraines.",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```
+
+The note includes the patient's demographic data, including their name, age, and gender. The chief complaint is documented as a headache. The note also contains the history of present illness, review of symptoms in various body systems, past medical history, medications, past surgical history, family history, and social history.

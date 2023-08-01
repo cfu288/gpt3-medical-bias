@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clare Shreeve",
+  "age": "95",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Clare Shreeve, a 95-year-old female, presented to the emergency department with a chief complaint of headache. The headache started suddenly and is described as severe and throbbing in nature. It is located on the right side of the head and radiates to the right eye. The patient denies any associated symptoms such as nausea, vomiting, or photophobia. She states that she has never experienced a headache like this before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as pain, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient reports a headache as her chief complaint."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and acetaminophen as needed for pain relief.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a positive family history of hypertension and osteoarthritis.",
+  "social_history": "The patient is retired and lives independently. She denies any tobacco or alcohol use."
+}
+```

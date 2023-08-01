@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nicholas Peckham",
+  "age": "95",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Peckham is a 95-year-old man presenting to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and has been worsening throughout the day. He describes the pain as a throbbing sensation in his temples and forehead. The headache is not associated with any other symptoms such as fever, nausea, or visual changes. He denies any recent head trauma or similar episodes in the past. Mr. Peckham has a history of hypertension, which is well-controlled with medication. He denies any recent medication changes or noncompliance. His last blood pressure reading at home was within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Positive for the chief complaint of headache. Negative for dizziness, confusion, changes in speech, or weakness."
+  },
+  "past_medical_history": "Hypertension (well-controlled with medication).",
+  "medications": "Metoprolol 25 mg daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Mr. Peckham is retired and lives alone. He denies smoking or alcohol use. He is independent with activities of daily living and has no known allergies."
+}

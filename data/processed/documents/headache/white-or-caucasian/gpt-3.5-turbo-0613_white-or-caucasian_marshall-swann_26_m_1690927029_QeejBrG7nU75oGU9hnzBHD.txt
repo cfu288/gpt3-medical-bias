@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marshall Swann",
+  "age": "26",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started 2 days ago and has been persistent. The patient describes the pain as a dull ache on both sides of the head, with no associated visual changes or nausea. The pain is exacerbated by bright lights and loud noises. The patient reports no recent trauma or fever. He has taken over-the-counter pain medication with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes, skin lesions, or itching.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He reports occasional headaches in the past, but they were less severe and resolved with over-the-counter medication.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient has no history of significant illnesses in his immediate family.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol regularly, and denies any illicit drug use. He works as a software engineer and denies any recent stressors."
+}

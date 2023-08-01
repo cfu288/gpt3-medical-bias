@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carmela Miller",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mrs. Miller is a 64-year-old female who presented to the emergency department with a chief complaint of headache. The headache started approximately 4 hours ago and is described as a throbbing pain on the right side of her head. She rates the pain as 8 out of 10 and reports associated symptoms of nausea and sensitivity to light. She denies any recent trauma or fever. She has tried over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, urinary frequency, or dark urine.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or changes in moles.",
+    "neurologic": "Reports headache as described in chief complaint. Denies dizziness, changes in vision, or weakness in arms or legs."
+  },
+  "past_medical_history": "Hypertension, controlled with lisinopril.",
+  "medications": "Lisinopril 20 mg daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "Both parents had hypertension.",
+  "social_history": "Retired, non-smoker, occasional alcohol use."
+}

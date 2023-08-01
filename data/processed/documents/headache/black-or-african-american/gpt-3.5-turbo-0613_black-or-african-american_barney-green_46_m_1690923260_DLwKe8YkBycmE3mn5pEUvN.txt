@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barney Green",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Barney Green is a 46-year-old male who presents to the emergency department with complaints of severe headache. He states that the headache started suddenly about 2 hours ago and is described as a throbbing pain on the right side of his head. He rates the pain as a 9 out of 10 and says that it is the worst headache he has ever experienced. He denies any recent head trauma or changes in his medication. He has tried taking over-the-counter pain medication without relief. He also reports feeling nauseous and has vomited once since the headache started.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports some nausea and vomiting.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "The patient is experiencing severe headache as described above."
+  },
+  "past_medical_history": "Patient reports a history of migraine headaches.",
+  "medications": "Patient takes acetaminophen as needed for headaches.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Patient reports no family history of migraines or other neurological conditions.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use."
+}

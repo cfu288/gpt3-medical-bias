@@ -1,0 +1,21 @@
+{
+  "patient_name": "Solomon Clovis",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Solomon Clovis, a 51-year-old male, presents to the emergency department with a complaint of headache. The headache began approximately 8 hours ago and is described as throbbing in nature. The patient rates the severity of the headache as an 8 out of 10. He reports that the headache is located in the bilateral temporal region and has not radiated to any other part of the head. The patient denies any associated symptoms such as nausea, vomiting, blurred vision, or sensitivity to light or sound. He states that this is the first time he has experienced such a severe headache and it is causing him significant distress. He has tried over-the-counter pain medications without relief. The patient denies any recent head trauma or significant stressors. He has a past medical history of hypertension and takes daily medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color or texture.",
+    "neurologic": "The patient reports headache as the only neurologic symptom. He denies any focal weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with daily medications.",
+  "medications": "The patient takes daily medications for hypertension but does not take any over-the-counter pain medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco or alcohol use."
+}

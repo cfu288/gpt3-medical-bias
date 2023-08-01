@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Misty Crawford",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Misty Crawford, a 47-year-old female, presents to the emergency department with complaints of severe headache. The headache started suddenly about 2 hours ago and is described as a throbbing pain on the left side of her head. She rates the pain as a 9/10. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She also denies any recent trauma or fever. The patient states that she has never experienced a headache of this severity before and is very concerned about her symptoms. She has taken over-the-counter painkillers but did not find any relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or pruritus",
+    "neurologic": "Apart from the headache, no numbness, tingling, or weakness in any part of the body"
+  },
+  "past_medical_history": "The patient has a history of migraines, which usually present as moderate headaches preceded by aura. However, the intensity and sudden onset of this headache are atypical for her migraines.",
+  "medications": "The patient takes over-the-counter ibuprofen for occasional migraines.",
+  "past_surgical_history": "",
+  "family_history": "There is a family history of migraines in her mother and sister.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

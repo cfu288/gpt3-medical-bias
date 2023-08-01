@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gayla Bullock",
+  "age": "84",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Gayla Bullock, an 84-year-old female, presented to the emergency department with a chief complaint of headache. The headache started suddenly and is described as a severe throbbing pain on the right side of the head. It is associated with nausea, but no vomiting. The pain is aggravated by physical activity and is relieved by rest. The patient denies any recent trauma or history of migraines. She also denies any changes in vision or neurological symptoms. Vital signs on presentation are stable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pains, muscle aches, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color or texture.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, dizziness, or changes in speech or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient currently takes amlodipine for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is able to perform her activities of daily living independently."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dorcas Thompson",
+  "age": "54",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Dorcas Thompson, a 54-year-old female, presented to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly approximately 2 hours ago. She describes the pain as a throbbing sensation located on the right side of her forehead. She rates the pain as 8/10 on a numeric rating scale. She states that the pain is constant and is not relieved with over-the-counter pain medications. She denies any associated symptoms such as nausea, vomiting, blurred vision, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulties with ambulation.",
+    "skin": "The patient denies any rashes, itching, or changes in the appearance of the skin.",
+    "neurologic": "In addition to her headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine 5mg daily.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's mother had migraine headaches.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol."
+}
+```

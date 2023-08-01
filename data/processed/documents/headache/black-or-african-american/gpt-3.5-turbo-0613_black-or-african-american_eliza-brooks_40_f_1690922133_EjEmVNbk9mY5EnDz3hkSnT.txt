@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eliza Brooks",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Eliza Brooks, a 40-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the left side of her head, which started this morning and has been getting progressively worse. The pain is associated with nausea and sensitivity to light. She denies any recent head trauma or changes in vision. She has taken over-the-counter pain relievers but has not experienced significant relief. On further questioning, she reports that she has been under a lot of stress lately due to work deadlines and family issues.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No complaints of joint pain, muscle pain, or swelling.",
+    "skin": "No rash or skin lesions noted.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in coordination. No history of seizures or previous neurological conditions."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which she has been experiencing since her teenage years. She typically gets 1-2 migraines per month, but this current headache is different in severity and duration.",
+  "medications": "The patient takes over-the-counter pain relievers as needed for her migraines.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "Positive for migraines in the patient's mother and sister.",
+  "social_history": "The patient works as a software engineer and reports high levels of stress at work. She denies tobacco, alcohol, or illicit drug use."
+}

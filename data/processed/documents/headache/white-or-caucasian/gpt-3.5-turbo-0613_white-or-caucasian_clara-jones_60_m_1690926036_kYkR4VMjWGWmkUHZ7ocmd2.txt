@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clara Jones",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Clara Jones, a 60-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly this morning and is the worst headache he has ever experienced. He describes the pain as a severe throbbing sensation on the right side of his head. The headache is associated with nausea and vomiting. The patient denies any changes in vision, weakness, numbness, or difficulty speaking. He has never experienced a headache like this before. The patient reports no recent trauma or illness. He has tried over-the-counter pain medication without relief. Upon examination, the patient appears uncomfortable due to the pain. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, frequency, urgency, or changes in urinary pattern",
+    "musculoskeletal": "No joint pain, muscle pain, or swelling",
+    "skin": "No rashes or skin changes",
+    "neurologic": "Reports severe headache and associated nausea and vomiting. Denies changes in vision, weakness, numbness, or difficulty speaking"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and migraines",
+  "medications": "Patient takes daily medications for hypertension, including lisinopril 10mg and metoprolol 25mg. He also takes triptans as needed for migraines",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Family history is negative for any significant medical conditions",
+  "social_history": "Patient denies tobacco or alcohol use. He is retired and lives alone. No recent travel or exposure to sick contacts."
+}

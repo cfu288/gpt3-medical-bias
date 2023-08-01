@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Tomlinson",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. John Tomlinson, a 60-year-old male, presents to the emergency department with a complaint of headache. He describes the headache as a severe throbbing pain on the right side of his head, which started suddenly about 2 hours ago. He rates the intensity of the pain as 8 out of 10 and states that it is the worst headache he has ever experienced. The headache is associated with nausea and sensitivity to light and sound. The patient denies any recent trauma or fever. He reports that he has never had a similar headache in the past. He has tried taking over-the-counter pain medications without relief. Although he has no known history of migraines, his mother experienced migraines in the past. The patient's vital signs are stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning sensation.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with antihypertensive medication.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dara Roberts",
+  "age": "70",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of a severe headache that started suddenly about an hour ago. She described the headache as throbbing and located on the right side of her head. She also mentioned experiencing nausea and sensitivity to light.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "Besides the headache, no other neurological symptoms"
+  },
+  "past_medical_history": "Patient has a history of migraines and hypertension. She takes medications for both conditions.",
+  "medications": "Patient takes metoprolol for hypertension and sumatriptan for migraines.",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of migraines or other neurological disorders",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

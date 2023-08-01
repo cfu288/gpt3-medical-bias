@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ruth Schmitz",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient, Ruth Schmitz, a 78-year-old female, presents to the Emergency Department with a chief complaint of headache. She states that the headache started suddenly this morning and is located on the left side of her head. She describes the pain as sharp and throbbing, with a severity of 8 out of 10. She denies any associated symptoms such as nausea, vomiting, or visual changes. She also reports feeling slightly dizzy. She took acetaminophen at home, but it did not relieve her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Positive for headache and dizziness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoporosis. She takes lisinopril for hypertension and calcium supplements for osteoporosis.",
+  "medications": "Lisinopril 10mg daily, Calcium supplements 1000mg daily",
+  "past_surgical_history": "Patient has no past surgical history",
+  "family_history": "Negative for family history of neurological disorders",
+  "social_history": "Patient is retired. She denies tobacco or alcohol use."
+}

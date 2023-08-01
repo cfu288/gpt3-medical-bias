@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Hollis Buongiorno",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe headache that started suddenly, about 2 hours ago. The headache is located on the left side of the head and is described as a throbbing pain. The patient rates the severity of the pain as 8 out of 10. There is no history of trauma or recent illness. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any other neurologic symptoms such as dizziness, blurred vision, or weakness in any extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and acetaminophen 650mg as needed for pain.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient has no known family history of neurologic disorders.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nedra Gilliland",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of severe headache. She reports that the headache started suddenly this morning and has been progressively worsening. The pain is located on the right side of her head and is described as throbbing and accompanied by nausea. She denies any recent head trauma, fever, or changes in vision. Upon further questioning, the patient also reports sensitivity to light and noise. She has not taken any over-the-counter medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or changes in the skin",
+    "neurologic": "In addition to the headache, the patient denies numbness, tingling, weakness, dizziness, or changes in coordination"
+  },
+  "past_medical_history": "The patient has a past medical history significant for migraines and hypertension. She reports having migraines with the same characteristics as the current headache, but states that this headache is more severe than usual. She is currently prescribed lisinopril for her hypertension.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Patient reports no family history of migraines or other neurological conditions",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a librarian and denies any recent stress or changes in her daily routine."
+}
+```

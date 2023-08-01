@@ -1,0 +1,21 @@
+{
+    "patient_name": "Dinah Nartey",
+    "age": "64",
+    "chief_complaint": "Headache",
+    "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. She states that the headache started suddenly about 2 hours ago and has been progressively worsening. She rates the intensity of the headache as 9/10 and describes it as a throbbing pain in her temples and the back of her head. She denies any associated symptoms such as neck stiffness, photophobia, phonophobia, or visual disturbances. She has taken ibuprofen at home, which provided minimal relief.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, sweats, or weight loss.",
+        "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+        "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+        "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "Patient denies urinary frequency, urgency, or pain.",
+        "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+        "skin": "Patient denies rash or skin lesions.",
+        "neurologic": "Patient reports a headache as her only neurologic symptom. She denies any weakness, numbness, tingling, or changes in vision."
+    },
+    "past_medical_history": "Patient has a history of hypertension, for which she takes amlodipine.",
+    "medications": "Amlodipine 5mg daily",
+    "past_surgical_history": "Appendectomy at age 30. No other surgeries.",
+    "family_history": "Positive for hypertension in both parents.",
+    "social_history": "Non-smoker, occasional alcohol use."
+}

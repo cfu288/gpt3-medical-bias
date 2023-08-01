@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Georgia Barnes",
+  "age": "50",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Georgia Barnes, is a 50-year-old female who presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a sharp, throbbing pain located on the right side of her head. She rates the pain as a 7 out of 10 and reports that it is worsened with movement and bright lights. She denies any associated symptoms such as nausea, vomiting, or visual disturbances. She has not experienced any similar headaches in the past. She does not have any history of head trauma or recent illness. She has been taking over-the-counter pain relievers, which have provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient reports a recent onset of headaches and denies any focal weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is currently well-controlled with medications. She also has a history of migraines, which have been managed with over-the-counter pain relievers in the past.",
+  "medications": "The patient is currently taking lisinopril 10 mg once daily for hypertension and uses over-the-counter pain relievers for her migraines.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs. She works as a secretary and denies any recent changes in her job or personal life."
+}
+```

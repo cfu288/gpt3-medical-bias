@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ladonna Cotton",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ladonna Cotton, a 39-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as a dull, throbbing pain in the temporal region, which started approximately three hours ago. She rates the pain as a 6 out of 10 on the pain scale and states that it is constant and worsening. The headache is associated with photophobia, but no nausea or vomiting. She denies any recent trauma or changes in medication. There is no significant past medical history of migraines or other chronic headaches. The patient denies any recent illness or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or itching.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological symptoms such as weakness or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of headaches or neurological disorders.",
+  "social_history": "The patient is a non-smoker and denies any use of alcohol or illicit drugs."
+}
+```

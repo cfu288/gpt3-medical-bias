@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gaylen Chancellor",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Gaylen Chancellor, is a 47-year-old male who presents to the emergency department with a chief complaint of headache. The headache started approximately 2 hours ago and is described as a throbbing pain located in the frontal region. The patient rates the pain intensity as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or photophobia. The patient has never experienced a headache like this before and is concerned about the sudden onset and severity of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes to the skin.",
+    "neurologic": "Apart from the headache, the patient denies any numbness, weakness, changes in vision, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines. He takes amlodipine 10 mg daily for hypertension and sumatriptan 100 mg as needed for migraines.",
+  "medications": "Amlodipine 10 mg daily for hypertension, sumatriptan 100 mg as needed for migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is noncontributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

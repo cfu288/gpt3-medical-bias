@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Adam Heimbecker",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Adam Heimbecker, a 35-year-old male, presents to the emergency department with a chief complaint of headache. He states that the headache started suddenly about 2 hours ago and is described as a severe throbbing pain located in the frontal region. He denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. The headache has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or sputum production",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash, itching, or changes in skin color",
+    "neurologic": "Apart from the headache, no focal weakness, numbness, or changes in sensation"
+  },
+  "past_medical_history": "No significant past medical history. The patient does not have any known medical conditions and is not taking any prescription medications",
+  "medications": "The patient denies taking any medications currently",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "No significant family history of neurological disorders or migraines",
+  "social_history": "The patient denies alcohol or tobacco use. There is no history of illicit drug use."
+}
+```

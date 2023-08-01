@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Antoine Lewis",
+  "age": "37",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Antoine Lewis, a 37-year-old man, presents to the emergency department with a chief complaint of headache. The patient states that he has been experiencing a severe headache for the past 2 days. He describes the pain as a constant pressure in his temples. The headache is accompanied by sensitivity to light and mild nausea. The patient denies any recent head trauma or changes in his vision. He has tried over-the-counter pain relievers with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or recent weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itchy skin, or changes in moles.",
+    "neurologic": "In addition to the headache described above, the patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient reports a history of occasional migraines, but he states that this headache feels different and more severe than his usual migraines. He has not seen a healthcare provider for his migraines in the past.",
+  "medications": "The patient takes over-the-counter pain relievers, such as ibuprofen, for his occasional migraines. He has not taken any medication specifically for this current headache.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient has a family history of migraines, with his mother and sister both experiencing migraines.",
+  "social_history": "The patient works as a software engineer and denies any tobacco or recreational drug use. He consumes alcohol occasionally on social occasions."
+}
+```

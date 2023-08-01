@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Desmond Reed"
+    },
+    "age": {
+      "type": "string",
+      "value": "34"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Headache"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Desmond Reed, a 34-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started approximately 6 hours ago and has been gradually worsening. He describes the headache as a dull, constant pain located on the front and sides of his head. He rates the intensity of the pain as 7 out of 10. The pain is not relieved with over-the-counter pain medications. He denies any associated symptoms such as visual changes, nausea, or vomiting. He reports no recent head trauma or other concerning symptoms."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Negative for fever, chills, sweats, or weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Negative for chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Negative for cough, shortness of breath, or wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Negative for abdominal pain, nausea, vomiting, or diarrhea."
+        },
+        "gu": {
+          "type": "string",
+          "value": "Negative for dysuria, frequency, urgency, or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Negative for joint pain, stiffness, or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "value": "Negative for rash, itching, or changes in pigmentation."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Negative for numbness, weakness, or changes in vision."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient's past medical history is significant for migraines, which he reports having experienced since his early twenties. He reports that the migraines are usually less frequent and less severe than his current headache."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes over-the-counter analgesics such as ibuprofen and acetaminophen for headache relief. He has not taken any medications for his current headache."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient reports a family history of migraines in his mother and sister."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is employed as a computer programmer. He denies any tobacco, alcohol, or illicit drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

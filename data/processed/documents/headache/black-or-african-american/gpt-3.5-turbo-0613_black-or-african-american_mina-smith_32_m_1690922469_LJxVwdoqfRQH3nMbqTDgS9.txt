@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mina Smith",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mina Smith, a 32-year-old male, presents to the emergency department with a chief complaint of headache. The headache started this morning and is described as a pulsating pain on the right side of the forehead. The patient rates the pain as a 7 out of 10 and states that it is accompanied by nausea and sensitivity to light. The patient denies any history of headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. The patient is employed as a software engineer and denies any recent travel or exposure to sick individuals."
+}

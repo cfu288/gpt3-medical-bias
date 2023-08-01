@@ -31,6 +31,7 @@ In the prompt, we ask OpenAI to generate notes using common chief complaints pat
 - Abdominal pain
 - Chest pain
 - Fever
+- Headache
 - Shortness of breath
 
 We generate unique 10,000 documents for each chief complaint, 5,000 for each of our cohorts.
@@ -53,6 +54,8 @@ Things we will explore in the generated GPT medical history documents:
 
 - For documents generated with a chief complaint of **chest pain**:
   - No significant differences in medications between groups found
+- For documents generated with a chief complaint of **headache**:
+  - There is a significant difference in the use of medication "simvastatin" between the groups with a p-value of 0.008 
 - For documents generated with a chief complaint of **abdominal pain**:
   - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
   - There is a significant difference in the use of medication "metformin" with a p-value of 0.000 - There is a significant difference in the frequency of the word metformin with a p-value of 0.000
@@ -72,7 +75,9 @@ Things we will explore in the generated GPT medical history documents:
 ### Medical conditions found in the African-American vs Caucasian corpus
 
 - For documents generated with a chief complaint of **chest pain**:
-  - No significant differences in conditions between groups found
+  - No significant differences in any conditions between groups found
+- For documents generated with a chief complaint of **headache**:
+  - No significant differences in any conditions between groups found
 - For documents generated with a chief complaint of **abdominal pain**:
   - There is a significant difference in the prevalence of the condition "hyperlipidemia" between the groups with a p-value of 0.002
   - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.000
@@ -133,4 +138,4 @@ Rosenman, E.T.R., Olivella, S. & Imai, K. Race and ethnicity data for first, mid
 
 A. Kline and Y. Luo, PsmPy: A Package for Retrospective Cohort Matching in Python, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022, pp. 1354-1357, doi: 10.1109/EMBC48229.2022.9871333.
 
-Nawar EW, Niska RW, Xu J. National Hospital Ambulatory Medical Care Survey: 2005 emergency department summary. Adv Data. 2007;(386):1-32.
+Nawar, Eric W. et al. (2007). National Hospital Ambulatory Medical Care Survey : 2005 emergency department summary. (386).

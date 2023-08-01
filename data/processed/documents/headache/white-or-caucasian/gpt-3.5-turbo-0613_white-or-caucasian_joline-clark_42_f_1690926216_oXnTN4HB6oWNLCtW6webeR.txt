@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joline Clark",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Joline Clark, a 42-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 2 hours ago and is located in the frontal region. She describes the pain as sharp and throbbing, with a severity of 9/10. She denies any associated symptoms such as blurred vision, nausea, vomiting, or neck stiffness. She has no history of similar headaches in the past. She states that she took ibuprofen 400mg 1 hour ago, but it did not provide any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty with movement.",
+    "skin": "Patient denies rash, itching, or skin discoloration.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of migraines, but the current headache is different in character and severity.",
+  "medications": "Patient takes ibuprofen occasionally for migraines.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has a family history of migraine headaches in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

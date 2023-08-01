@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Smith",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Smith presents to the emergency department today with a chief complaint of headache. He describes the headache as a severe throbbing pain that started suddenly this morning. He rates the pain as an 8 out of 10. He denies any associated symptoms such as visual changes, neck stiffness, or weakness. He has never experienced a headache like this before and states that it is the worst headache of his life.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or change in bowel habits",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash, pruritus, or skin discoloration",
+    "neurologic": "Positive for headache, negative for visual changes or weakness"
+  },
+  "past_medical_history": "Mr. Smith has a past medical history of hypertension and migraines.",
+  "medications": "Mr. Smith takes lisinopril 10 mg daily for hypertension and sumatriptan 100 mg as needed for migraines.",
+  "past_surgical_history": "Negative",
+  "family_history": "Positive for migraines in mother",
+  "social_history": "Mr. Smith is a non-smoker and denies any alcohol or illicit drug use."
+}

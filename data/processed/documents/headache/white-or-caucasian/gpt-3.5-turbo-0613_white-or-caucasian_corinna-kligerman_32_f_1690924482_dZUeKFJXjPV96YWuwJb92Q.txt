@@ -1,0 +1,21 @@
+{
+  "patient_name": "Corinna Kligerman",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the right side of her head, rated 8/10 in severity. The headache started suddenly this morning and has been worsening throughout the day. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has taken over-the-counter pain medication without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or changes in skin color.",
+    "neurologic": "Patient reports headache as described in the chief complaint. Denies any other neurologic symptoms such as numbness, tingling, or weakness."
+  },
+  "past_medical_history": "Patient has a history of migraines and takes sumatriptan on an as-needed basis. She has had a recent migraine episode within the past month.",
+  "medications": "Sumatriptan as needed for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient works as a software engineer. She denies tobacco or alcohol use."
+}

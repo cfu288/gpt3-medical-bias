@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Buford Dugan",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Dugan is a 75-year-old male presenting to the emergency department with a chief complaint of a severe headache. He reports that the headache began suddenly this morning and is the worst headache he has ever experienced. He describes the pain as throbbing and localized to the right side of his head. The headache is associated with photophobia and phonophobia. He denies any head trauma or previous history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty walking.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "In addition to the severe headache, the patient denies any focal weakness, numbness, visual changes, or seizures."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently on amlodipine 10 mg daily and atorvastatin 40 mg daily for these conditions.",
+  "medications": "Amlodipine 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension and stroke in his mother.",
+  "social_history": "The patient is a retired construction worker. He denies tobacco or illicit drug use. He consumes alcohol occasionally, with a maximum of 2 drinks per week."
+}
+```

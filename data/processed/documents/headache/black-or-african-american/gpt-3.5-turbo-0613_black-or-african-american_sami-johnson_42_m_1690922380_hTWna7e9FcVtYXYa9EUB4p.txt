@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sami Johnson",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Sami Johnson, a 42-year-old male, presented to the emergency department with complaints of severe headache. He states that the headache started suddenly approximately 2 hours ago and has been constant since then. He rates the pain as a 9 out of 10 and describes it as a throbbing sensation in his temples and behind his eyes. He denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. He has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines, for which he takes lisinopril and sumatriptan.",
+  "medications": "Lisinopril 10 mg daily, Sumatriptan 50 mg as needed for migraines",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father has a history of hypertension and migraines.",
+  "social_history": "The patient works as an office administrator and denies any tobacco or drug use. He drinks alcohol occasionally."
+}

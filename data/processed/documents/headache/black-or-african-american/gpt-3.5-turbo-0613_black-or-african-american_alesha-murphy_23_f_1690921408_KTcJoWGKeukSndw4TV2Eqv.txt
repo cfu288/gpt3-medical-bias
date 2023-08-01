@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alesha Murphy",
+  "age": "23",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Alesha Murphy, is a 23-year-old female who presents to the emergency department with a chief complaint of headache. According to the patient, the headache started this morning and has been progressively worsening throughout the day. She describes the pain as a throbbing sensation located primarily on her forehead. There is no associated nausea, vomiting, or photophobia. The patient denies any recent head trauma, fever, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, or weakness in any extremities."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of neurological disorders.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She is currently in school and does not work outside of her studies."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Luciana Johnson",
+  "age": "41",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Luciana Johnson, a 41-year-old female, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started this morning and has been progressively worsening since then. She describes the pain as a throbbing sensation on both sides of her head. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She states that she has had similar headaches in the past, but they usually resolve with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin texture.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of migraines, which have been well-controlled with the use of over-the-counter pain medications.",
+  "medications": "The patient is currently taking ibuprofen 400 mg as needed for pain.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is not significant for any neurological or cardiovascular conditions.",
+  "social_history": "The patient does not smoke and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Steve Hanson",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Steve Hanson, is a 35-year-old male who presents to the emergency department with a chief complaint of headache. The patient states that the headache started suddenly about 2 hours ago and is described as a throbbing sensation located in the frontal region. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. The headache has been constant in intensity since onset and does not seem to be affected by changes in position or activity. The patient rates the pain as a 7 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for migraines, which he experiences occasionally but they are usually managed with over-the-counter pain relievers.",
+  "medications": "The patient takes ibuprofen as needed for migraines; he has taken 800mg of ibuprofen for this current headache but it has not provided relief.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of migraines or other neurological conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

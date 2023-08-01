@@ -1,0 +1,21 @@
+{
+  "patient_name": "Minnie Jones",
+  "age": "77",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Minnie Jones, a 77-year-old female, presents to the emergency department with a chief complaint of headache. The headache started yesterday evening and is described as throbbing and located across the forehead. The intensity of the headache is moderate, and it is not relieved with over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. There is no history of head trauma or recent illness. The patient states that she has been experiencing occasional headaches in the past, but this episode is different in terms of its intensity and lack of response to usual treatments.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or shortness of breath.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle aches, or swelling.",
+    "skin": "The patient denies rash, itching, or lesions.",
+    "neurologic": "In addition to the headache, the patient denies dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. She takes lisinopril for blood pressure control and ibuprofen as needed for joint pain.",
+  "medications": "Lisinopril 10mg daily, ibuprofen 400mg as needed",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension in her parents and siblings.",
+  "social_history": "The patient is a nonsmoker and reports a moderate alcohol intake of 1-2 drinks per week."
+}

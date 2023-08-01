@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Darrin Brinson",
+  "age": "49",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Brinson is a 49-year-old male who presents to the emergency department with a complaint of headache. He reports that the headache started suddenly about 2 hours ago. He describes the pain as a throbbing sensation on the right side of his head, which is worsened with movement. He also reports feeling nauseous and has vomited once. He denies any previous episodes of similar headaches. He has taken ibuprofen at home without relief. His headache is currently rated as an 8 out of 10 in severity. He denies any recent head trauma or loss of consciousness. On further questioning, he mentions that he has been experiencing some stress at work recently.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Positive for nausea and vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "Positive for throbbing headache on the right side worsened with movement"
+  },
+  "past_medical_history": "Mr. Brinson reports a history of hypertension, which is well controlled with lisinopril 10 mg daily",
+  "medications": "Lisinopril 10 mg daily for hypertension; ibuprofen as needed for pain",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of neurological or vascular diseases",
+  "social_history": "Mr. Brinson is married and works as a project manager. He denies tobacco, alcohol, or illicit drug use."
+}
+```

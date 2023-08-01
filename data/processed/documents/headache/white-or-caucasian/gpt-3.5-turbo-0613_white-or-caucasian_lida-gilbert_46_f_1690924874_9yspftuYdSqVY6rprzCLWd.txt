@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lida Gilbert",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. She describes the headache as a throbbing pain on the right side of her head, accompanied by nausea and sensitivity to light. The headache began this morning and has been worsening throughout the day. The patient denies any recent head trauma or other concerning symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for palpitations, chest pain, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rashes, itching, or changes in moles.",
+    "neurologic": "Positive for headache as described, negative for dizziness, blurred vision, or weakness."
+  },
+  "past_medical_history": "Patient has a history of migraines and is on prophylactic medication (topiramate) as needed.",
+  "medications": "Topiramate 50 mg PO daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. She works as a teacher and is married with two children."
+}
+```

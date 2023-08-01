@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monique Litten",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. She states that the headache started suddenly about 2 hours ago and is getting progressively worse. She reports photophobia and nausea but denies any vomiting. She has not taken any medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "Headache is the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of migraines.",
+  "medications": "Patient takes ibuprofen as needed for migraines.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

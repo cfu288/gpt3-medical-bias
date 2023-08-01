@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Vivien Black"
+    },
+    "age": {
+      "type": "string",
+      "value": "27"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Headache"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Vivien Black, a 27-year-old female, presented to the emergency department with a chief complaint of headache. The patient reports that the headache started approximately 2 hours ago and is described as a throbbing pain in the right temple. The patient denies any previous episodes of similar headaches and reports no associated symptoms such as nausea, vomiting, or photophobia. The patient states that she has been experiencing increased stress at work recently."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fevers, chills, or weight changes."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough, shortness of breath, or wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "No abdominal pain, nausea, vomiting, or changes in bowel movements."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria, frequency, urgency, or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain, stiffness, or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rash, itching, or lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Besides the headache, no other neurological symptoms reported. No changes in vision, speech, or coordination."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "No significant past medical history."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient denies current use of any medications."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "No past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "No significant family history of neurological or chronic diseases."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient works as a software engineer and reports increased stress at work recently. The patient denies tobacco or alcohol use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

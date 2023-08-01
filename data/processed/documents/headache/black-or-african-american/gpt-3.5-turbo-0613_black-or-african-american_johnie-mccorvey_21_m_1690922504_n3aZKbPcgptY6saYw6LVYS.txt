@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Johnie Mccorvey",
+  "age": "21",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Johnie Mccorvey, is a 21-year-old male who presents to the emergency department with a complaint of headache. The headache started suddenly this morning and is described as a throbbing pain on the right side of his head. He rates the severity of the pain as 7 out of 10. The patient has not experienced any other associated symptoms such as nausea, vomiting, or photophobia. He denies any recent head trauma or other significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is non-contributory to his current complaint.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

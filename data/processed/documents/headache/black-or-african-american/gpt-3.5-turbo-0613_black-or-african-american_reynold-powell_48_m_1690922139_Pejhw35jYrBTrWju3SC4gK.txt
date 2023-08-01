@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reynold Powell",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. The headache started suddenly about 2 hours ago and is described as a pounding pain on the right side of the head. Patient rates the severity of the headache as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes. Patient has no history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient reports the headache is the only neurological symptom he is currently experiencing."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with medication. He has no other significant past medical history.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He works as an accountant and denies any recent significant stressors."
+}

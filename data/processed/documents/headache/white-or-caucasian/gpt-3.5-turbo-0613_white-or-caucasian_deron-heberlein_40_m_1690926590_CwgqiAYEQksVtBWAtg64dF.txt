@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deron Heberlein",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started yesterday morning and has been persistent since then. The patient describes the headache as a dull ache on the right side of the head, above the eye. The pain intensity is moderate and is not relieved with over-the-counter pain medications. The patient denies any other associated symptoms such as vision changes, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Reports headache as the only neurological symptom experienced."
+  },
+  "past_medical_history": "The patient has a history of migraines, with the last episode occurring six months ago. The migraines are usually triggered by stress and are managed with over-the-counter pain medications.",
+  "medications": "The patient is currently taking ibuprofen 400mg as needed for pain relief.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "There is a family history of migraines in the patient's mother.",
+  "social_history": "The patient works as a software engineer and denies tobacco or illicit drug use. He drinks alcohol occasionally, with no excessive consumption."
+}

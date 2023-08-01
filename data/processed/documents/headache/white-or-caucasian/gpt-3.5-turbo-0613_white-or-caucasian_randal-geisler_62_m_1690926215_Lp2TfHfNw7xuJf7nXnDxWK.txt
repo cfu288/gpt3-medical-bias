@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randal Geisler",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient complaints of severe throbbing headache that started this morning. He rates the pain as 8/10 and states that it is affecting his ability to carry out his normal activities. He has tried over-the-counter pain medications, but they have not provided any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient states that the headache is the only neurologic symptom he is experiencing."
+  },
+  "past_medical_history": "Patient has a long history of migraines. He reports having at least 2-3 migraines per month for the past 10 years.",
+  "medications": "Patient takes over-the-counter NSAIDs as needed for his migraines.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient's mother also has a history of migraines.",
+  "social_history": "Patient is retired and lives alone. He denies tobacco or alcohol use."
+}

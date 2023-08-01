@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alta Burns",
+  "age": "84",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Alta Burns, an 84-year-old female, presents to the emergency department with a complaint of headache. She states that the headache started suddenly approximately 2 hours ago. She describes the pain as a dull, throbbing sensation located in the frontal area. She denies any associated symptoms such as visual changes, nausea, vomiting, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, dizziness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a history of hypertension, osteoarthritis, and hypothyroidism. She also reports a remote history of breast cancer, which was successfully treated with surgery and radiation therapy.",
+  "medications": "The patient's current medications include lisinopril for hypertension, levothyroxine for hypothyroidism, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient's surgical history is significant for a mastectomy and lymph node dissection for breast cancer.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease, cancer, or neurological disorders.",
+  "social_history": "The patient lives alone and is retired. She denies any tobacco or alcohol use."
+}
+```

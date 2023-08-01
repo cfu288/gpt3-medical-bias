@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Sloan",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, a 45-year-old male named Jarvis Sloan, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of his head. He rates the intensity of the pain as 8 out of 10 and states that it is the worst headache of his life. The patient denies any associated symptoms such as nausea, vomiting, vision changes, or neck stiffness. He has not taken any over-the-counter pain medications prior to arrival. Upon further questioning, the patient reports that the headache is not relieved by rest or changes in position.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies shortness of breath or cough.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines, which he manages with acetaminophen and rest. He denies any other significant past medical history.",
+  "medications": "The patient takes acetaminophen as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient reports that his father had a history of migraines as well.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco use, alcohol use, or illicit drug use."
+}

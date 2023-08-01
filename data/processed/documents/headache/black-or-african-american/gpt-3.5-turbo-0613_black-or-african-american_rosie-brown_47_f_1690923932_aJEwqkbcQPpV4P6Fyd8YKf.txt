@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosie Brown",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Rosie Brown, a 47-year-old female, presents to the emergency department with a chief complaint of headache. The headache started yesterday morning and has been steadily worsening. The patient describes the headache as a throbbing pain on the left side of her head, accompanied by nausea and sensitivity to light. She denies any recent trauma, fever, or changes in vision. The patient has tried taking over-the-counter pain medication, but has not experienced any relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "The patient denies chest pain or palpitations.",
+    "respiratory": "The patient denies shortness of breath or coughing.",
+    "gi": "The patient reports occasional indigestion and bloating.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports occasional joint stiffness, but no significant muscle pain.",
+    "skin": "The patient denies any rash or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of migraines, for which she takes prescription medication as needed. She also has a history of hypertension and takes medication for this as well. The patient reports that her migraine headaches are typically similar in presentation to her current headache.",
+  "medications": "The patient currently takes metoprolol for hypertension and sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is married and works full-time as an office manager. She denies tobacco, alcohol, or illicit drug use."
+}
+```

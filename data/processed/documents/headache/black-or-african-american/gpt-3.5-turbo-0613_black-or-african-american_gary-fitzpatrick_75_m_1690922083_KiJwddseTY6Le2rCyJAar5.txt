@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gary Fitzpatrick",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of severe headache. He reports that the headache started suddenly and is the worst headache he has ever had. It is accompanied by photophobia and nausea. He denies any recent head trauma or changes in vision. The headache has been constant since onset and has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient has a history of hypertension, treated with medication. Denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient reports headache as described in the chief complaint. Denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. He also has a history of osteoarthritis and takes over-the-counter pain relievers as needed.",
+  "medications": "Patient takes lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had hypertension, mother had osteoarthritis.",
+  "social_history": "Patient is retired and lives alone. He does not smoke or drink alcohol."
+}

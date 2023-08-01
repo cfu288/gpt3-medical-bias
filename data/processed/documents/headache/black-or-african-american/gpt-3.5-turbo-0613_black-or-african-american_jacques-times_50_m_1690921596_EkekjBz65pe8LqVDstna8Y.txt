@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Times",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Jacques Times, a 50-year-old male, presents to the emergency department with a chief complaint of headache. The headache is described as a throbbing pain located in the frontal region of the head. The pain started approximately 4 hours ago and has been continuous since then. The patient rates the pain as severe, with a numerical rating scale of 8 out of 10. He reports some associated symptoms such as photophobia and nausea. The headache has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of migraines, for which he usually takes triptans as needed. He reports having occasional tension headaches as well.",
+  "medications": "Triptans as needed for migraines",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "The patient's mother has a history of migraines",
+  "social_history": "The patient is a non-smoker and has no history of alcohol or drug abuse."
+}

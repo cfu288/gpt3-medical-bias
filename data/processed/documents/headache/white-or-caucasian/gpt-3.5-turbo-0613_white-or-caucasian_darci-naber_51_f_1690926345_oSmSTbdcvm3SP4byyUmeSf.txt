@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darci Naber",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the headache as a dull, constant pain that began yesterday afternoon. She rates the pain as a 6 out of 10 and states that it is worse in the temples. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has tried taking over-the-counter pain medication without relief. She reports that she has a history of migraines, but this headache feels different than her usual migraines.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rashes or skin lesions",
+    "neurologic": "Positive for headache, negative for numbness, tingling, or weakness in limbs"
+  },
+  "past_medical_history": "History of migraines, Hypertension",
+  "medications": "Lisinopril 10mg daily for hypertension, Excedrin Migraine as needed for headaches",
+  "past_surgical_history": "None",
+  "family_history": "Mother had migraines",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

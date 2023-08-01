@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Ola Grandberry",
+  "age": "39",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. She reports that the headache started suddenly about 2 hours ago and is located on the right side of her head. The pain is throbbing in nature and is associated with nausea and sensitivity to light. She denies any recent head trauma or fever. No previous history of similar headaches. No changes in vision or speech. No weakness or numbness in the extremities.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "Patient complains of severe headache, but no focal neurologic deficits noted on assessment"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgical interventions",
+  "family_history": "No family history of migraines or neurologic conditions",
+  "social_history": "Patient denies tobacco, alcohol, and illicit drug use. No recent travel."
+}
+```

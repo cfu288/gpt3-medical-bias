@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chelsey Daniel",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Chelsey Daniel, a 34-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 3 hours ago and is a throbbing pain located on the right side of her head. She rates the pain as a 7 out of 10 and describes it as the worst headache she has ever experienced. She denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. The headache has not improved with over-the-counter pain medications. She has never had a similar headache before. No recent head trauma or illness. No other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or wounds.",
+    "neurologic": "No focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of migraines and is currently taking over-the-counter pain medications for them as needed. No other significant medical history.",
+  "medications": "Over-the-counter pain medications as needed for migraines.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "The patient denies tobacco or illicit drug use. She drinks alcohol socially on occasion."
+}
+```

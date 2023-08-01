@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jon Gleason",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Gleason presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is located on the right side of his head. He describes the pain as throbbing and rates it as a 7 out of 10. He has tried taking over-the-counter pain medications but has not experienced any relief. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has never experienced a headache like this before. His vital signs are stable and he appears in no acute distress.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Positive for headache as mentioned in the chief complaint."
+  },
+  "past_medical_history": "Mr. Gleason has a history of hypertension and takes medication for it.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Mr. Gleason is married, works as an accountant, and denies any tobacco, alcohol, or recreational drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aline Carr",
+  "age": "94",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Aline Carr, is a 94-year-old female who presented to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly this morning and has been progressively worsening throughout the day. She describes the pain as a throbbing sensation on the right side of her head, associated with nausea and sensitivity to light. The patient denies any recent trauma, fever, or other neurological symptoms. The headache has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in moles.",
+    "neurologic": "The patient reports headache as her main neurological symptom."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. She takes daily medications for these conditions, including lisinopril and acetaminophen.",
+  "medications": "Lisinopril - 10 mg once daily; Acetaminophen - 500 mg as needed for pain",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}
+```

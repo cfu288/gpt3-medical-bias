@@ -1,0 +1,29 @@
+{
+  "patient_name": "Marcie Maccallum",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Marcie Maccallum, is a 66-year-old female who presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 2 hours ago and is located in the frontal region. The pain is described as sharp and throbbing, with a severity of 8 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. She has never experienced a headache of this intensity and duration before. 
+
+  The patient denies any recent head trauma, loss of consciousness, fever, neck stiffness, or focal neurologic deficits. Her past medical history is significant for hypertension, for which she takes lisinopril. She has no known drug allergies. There is no history of migraines or other chronic headache disorders. She has not recently started or changed any medications.
+
+  On review of symptoms, the patient denies any constitutional symptoms such as fever, chills, or night sweats. Her cardiovascular, respiratory, gastrointestinal, genitourinary, musculoskeletal, skin, and neurologic systems are otherwise normal.
+
+  Given the acuity and severity of the headache, the patient will be further evaluated with a complete neurological examination and appropriate imaging studies, such as a head CT scan, to rule out any concerning pathology, such as intracranial bleeding or mass lesion.
+
+  The patient will be treated with supportive measures for symptomatic relief, including analgesics such as acetaminophen or nonsteroidal anti-inflammatory drugs, as appropriate. The patient will also be advised to follow up with her primary care physician for further evaluation and management of her headache.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of headache or neurological disorders",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She does not have any significant occupational or recreational exposures."
+}

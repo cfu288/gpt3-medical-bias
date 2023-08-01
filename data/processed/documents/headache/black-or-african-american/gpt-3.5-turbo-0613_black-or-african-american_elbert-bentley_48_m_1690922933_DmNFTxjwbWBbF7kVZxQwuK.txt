@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elbert Bentley",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache. The headache began suddenly earlier today and has been progressively worsening. The patient describes the headache as a pressure-like sensation on both sides of the head, associated with nausea and sensitivity to light. The patient denies any recent trauma or fever. The patient has tried taking over-the-counter pain medications, but they have not provided any relief. On further questioning, the patient reports experiencing occasional headaches in the past, but never as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, and weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, and shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, and sputum production",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and changes in bowel movements",
+    "gu": "Negative for dysuria, urinary frequency, urgency, and hematuria",
+    "musculoskeletal": "Negative for joint pain, swelling, and stiffness",
+    "skin": "Negative for rashes, itching, and changes in skin color",
+    "neurologic": "Positive for severe headache"
+  },
+  "past_medical_history": "Patient has a history of occasional headaches, but no other significant past medical history",
+  "medications": "Patient denies taking any medications regularly",
+  "past_surgical_history": "Patient denies any past surgical procedures",
+  "family_history": "Negative for any significant family history of neurological disorders or migraines",
+  "social_history": "Patient works as an office manager and denies tobacco, alcohol, or illicit drug use"
+}

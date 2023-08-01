@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henrik Baran",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Baran, a 56-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of his head. He rates the severity of the headache as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in vision. Prior to the onset of the headache, the patient states that he was feeling perfectly well. He has not taken any medication or tried any home remedies for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "Headache is the only neurologic symptom"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, controlled with medication. He reports occasional episodes of migraine headaches, but this headache is different from his typical migraines.",
+  "medications": "The patient is currently taking Lisinopril 10mg daily for his hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Father had a history of migraines",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janna Wells",
+  "age": "78",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 2 hours ago and is severe in intensity. She describes it as a throbbing pain on the left side of her head. The pain is accompanied by nausea and sensitivity to light. She denies any recent head trauma and does not have any history of migraines.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight changes",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness",
+    "skin": "Patient denies rash, itching, or skin changes",
+    "neurologic": "Patient reports severe headache localized to the left side of her head"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg nightly for her hypertension and hyperlipidemia",
+  "past_surgical_history": "Patient had a cholecystectomy in 2002 and total knee replacement in 2010",
+  "family_history": "Patient's father had a history of stroke, her mother has hypertension, and her sister has osteoarthritis",
+  "social_history": "Patient denies tobacco or alcohol use"
+}

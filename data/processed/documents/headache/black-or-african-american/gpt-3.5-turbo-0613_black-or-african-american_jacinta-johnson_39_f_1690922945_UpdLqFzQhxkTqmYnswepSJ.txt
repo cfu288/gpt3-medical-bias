@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacinta Johnson",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. She states that the headache started suddenly this morning and is severe in intensity. She describes the pain as throbbing and localized to the front of her head. She has also noticed sensitivity to light and noise. She denies any recent head trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty walking.",
+    "skin": "Patient denies rash, itching, or skin discoloration.",
+    "neurologic": "Patient reports severe headache as her only neurologic symptom."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient reports taking over-the-counter analgesics for mild headaches in the past.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient's family history is unremarkable.",
+  "social_history": "Patient is a non-smoker and denies alcohol or recreational drug use. She is married and works as a teacher."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derek Edmonds",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Derek Edmonds, is a 45-year-old male who presents to the emergency department with a chief complaint of headache. According to the patient, the headache began abruptly this morning and has been severe and throbbing in nature. He also reports associated photophobia, phonophobia, and nausea. The patient denies any recent head trauma or loss of consciousness. He has tried over-the-counter pain relievers, which provided minimal relief. The patient states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, tingling, changes in vision, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a history of migraines, for which he takes triptans as needed.",
+  "medications": "Triptans as needed for migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "No significant family history of migraines or other neurological disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Eden Jones",
+  "age": "20",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Eden Jones, a 20-year-old female, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started yesterday evening and has been progressively worsening. She describes the headache as a constant, throbbing pain located in the frontal region of her head. She rates the pain as a 7 out of 10 on the pain scale. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. She does not have a history of migraines or any recent head trauma. The patient states that she took over-the-counter ibuprofen for the headache, but it provided only temporary relief. She is concerned about the severity and duration of the headache, prompting her to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, blurred vision, numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. She is not currently taking any prescription medications.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a college student and denies any tobacco use, alcohol consumption, or illicit drug use."
+}
+```

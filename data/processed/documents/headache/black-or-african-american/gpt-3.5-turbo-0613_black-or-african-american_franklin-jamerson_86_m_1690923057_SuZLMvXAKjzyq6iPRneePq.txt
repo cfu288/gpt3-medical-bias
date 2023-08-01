@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Franklin Jamerson",
+  "age": "86",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jamerson is an 86-year-old male who presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly approximately 2 hours ago and is described as a throbbing pain located on the right side of his head. He states that the pain is severe and has not responded to over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. He reports no recent head trauma or falls. The patient has a history of hypertension but states that his blood pressure has been well-controlled on his current medication regimen. There is no history of migraines or significant neurological disorders. He has not experienced symptoms like this in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any constitutional symptoms such as fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological deficits or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, well-controlled on medication.",
+  "medications": "Lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "No history of significant surgical procedures.",
+  "family_history": "There is no significant family history of neurological disorders or other relevant conditions.",
+  "social_history": "The patient is retired and lives alone. He does not smoke and denies alcohol or illicit drug use."
+}
+```

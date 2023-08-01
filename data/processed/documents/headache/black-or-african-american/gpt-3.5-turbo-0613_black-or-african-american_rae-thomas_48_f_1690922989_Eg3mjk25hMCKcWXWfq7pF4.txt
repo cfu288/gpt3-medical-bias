@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rae Thomas",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Rae Thomas, is a 48-year-old female presenting to the emergency department with a chief complaint of headache. She describes the headache as a dull, throbbing pain located on the right side of her head. The headache started approximately 2 hours ago and has gradually worsened. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. She states that she has never experienced a headache like this before and is concerned about the severity and sudden onset. Upon further questioning, the patient reports no recent trauma, fever, or other concerning symptoms. She took 2 tablets of over-the-counter acetaminophen with no relief. The patient's medical history is significant for hypertension, which is well-controlled with medication. She denies any recent changes in her medications or other medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weakness, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, itching, or changes in skin color.",
+    "neurologic": "Other than the headache, the patient denies any numbness, tingling, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with lisinopril.",
+  "medications": "The patient takes lisinopril 10 mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

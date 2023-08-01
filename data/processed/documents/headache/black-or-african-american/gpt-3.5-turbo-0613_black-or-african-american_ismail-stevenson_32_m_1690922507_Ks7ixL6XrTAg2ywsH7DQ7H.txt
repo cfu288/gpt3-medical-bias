@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ismail Stevenson",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Ismail Stevenson, a 32-year-old male, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly approximately two hours ago and is described as a throbbing pain located in the frontal area. The pain is moderate in intensity and has not improved with over-the-counter pain medications. The patient denies any associated symptoms such as visual changes, nausea, vomiting, or sensitivity to light or sound. He has no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty ambulating.",
+    "skin": "The patient denies any rashes, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, dizziness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He has not been diagnosed with any chronic illnesses or undergone any surgeries in the past.",
+  "medications": "The patient reports taking acetaminophen 500 mg as needed for occasional headaches.",
+  "past_surgical_history": "N/A",
+  "family_history": "The patient reports that there is no significant family history of neurological disorders, migraines, or other chronic illnesses.",
+  "social_history": "The patient is employed as an office manager and denies any tobacco, alcohol, or illicit drug use. He is not currently on any disability or work restrictions."
+}
+```

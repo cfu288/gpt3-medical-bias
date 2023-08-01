@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tamika Snowden",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of headache. She described the headache as a moderate-to-severe throbbing pain on the right side of her head, which started suddenly about 4 hours ago. The patient reports that she has never experienced a headache like this before. There is no associated nausea, vomiting, or photophobia. She denies any recent head trauma or changes in vision. The patient states that she took 400 mg of ibuprofen approximately 2 hours ago, which provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, for which she takes sumatriptan as needed. She reports that her migraines usually present with unilateral throbbing pain, photophobia, and phonophobia. She denies any other significant medical history.",
+  "medications": "1. Ibuprofen 400 mg PO, taken 2 hours ago\n2. Sumatriptan 100 mg PO, to be taken as needed for migraines",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of migraines or other neurological disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

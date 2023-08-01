@@ -239,7 +239,7 @@ def gen_document(race_pt_name_tuple):
 
 
 if __name__ == "__main__":
-    chief_complaint = "Shortness of Breath"
+    chief_complaint = "Headache"
     aa_name_list = pd.read_csv(DATA_PROCESSED_COHORT_DIR / "aa_matched.csv").to_dict(
         "records"
     )

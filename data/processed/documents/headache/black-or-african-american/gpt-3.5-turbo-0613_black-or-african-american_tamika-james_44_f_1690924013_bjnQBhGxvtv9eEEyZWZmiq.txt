@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tamika James",
+  "age": "44",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly today and is very severe. She describes the pain as throbbing and located in the temples. She denies any visual changes, nausea, or vomiting. The headache has been constant since it started and has not improved with over-the-counter pain medication. She does not have a history of migraines or similar headaches. There is no known trigger for this headache. She reports feeling otherwise well and denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies abdominal pain, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain, muscle weakness, or swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Reports headache as described in the chief complaint. Denies any other neurological symptoms such as weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. She has no other significant medical history.",
+  "medications": "Patient takes amlodipine 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She is currently not working."
+}

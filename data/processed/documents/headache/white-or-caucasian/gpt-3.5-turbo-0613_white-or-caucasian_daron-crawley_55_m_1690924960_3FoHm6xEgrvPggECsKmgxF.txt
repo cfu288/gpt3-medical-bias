@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daron Crawley",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Daron Crawley, a 55-year-old man, presents to the emergency department with a chief complaint of headache. The headache started yesterday and is described as a throbbing pain on the right side of his head. The intensity of the headache is moderate to severe, and it is not relieved with over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. He has no history of similar headaches in the past. The patient reports that the headache woke him up from sleep. He denies any recent head trauma or exposure to triggers such as loud noises or bright lights.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any seizures, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril (10 mg once daily), atorvastatin (20 mg once daily)",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in both parents.",
+  "social_history": "The patient is married and works as a software engineer. He denies tobacco, alcohol, or illicit drug use."
+}

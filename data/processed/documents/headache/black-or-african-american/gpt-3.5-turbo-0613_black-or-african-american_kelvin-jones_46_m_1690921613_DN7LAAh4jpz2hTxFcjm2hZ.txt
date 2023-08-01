@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kelvin Jones",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Jones, presents to the emergency department with a chief complaint of headache. He reports that the headache started yesterday and has persisted. He describes the pain as a throbbing sensation on the right side of his head, which is exacerbated by movement and bright lights. He denies any associated symptoms such as nausea, vomiting, or changes in vision. He also states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Reports only headache as the primary neurological complaint."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension and sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for migraines in his mother and sister.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

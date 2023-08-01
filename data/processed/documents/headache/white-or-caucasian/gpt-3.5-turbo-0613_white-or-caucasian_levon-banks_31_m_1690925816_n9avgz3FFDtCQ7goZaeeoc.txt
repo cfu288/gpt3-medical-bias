@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Levon Banks",
+  "age": "31",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe headache. He states that the headache began suddenly and is located on the right side of his head. He rates the pain as 8 out of 10 and describes it as a throbbing sensation. He also reports associated symptoms of nausea and sensitivity to light. The patient denies any recent trauma or head injury. He has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "Patient reports a severe headache with associated symptoms of nausea and sensitivity to light."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of headache disorders or neurological conditions.",
+  "social_history": "The patient works as an accountant and denies any tobacco, alcohol, or illicit drug use."
+}
+```

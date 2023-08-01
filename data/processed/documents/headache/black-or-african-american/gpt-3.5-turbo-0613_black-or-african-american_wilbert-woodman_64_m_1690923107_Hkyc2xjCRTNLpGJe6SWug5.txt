@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbert Woodman",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache is described as a throbbing pain on the right side of the head, accompanied by nausea and sensitivity to light. The onset of the headache was gradual and it has been present for the past 24 hours. The patient reports no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, wheezing, or shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness, or difficulty walking",
+    "skin": "Denies rash, itching, or changes in skin color",
+    "neurologic": "Reports headache as the only neurologic symptom"
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled with medication.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Father had a history of migraines.",
+  "social_history": "Patient is a retired school teacher. He is a non-smoker and denies alcohol or drug use."
+}

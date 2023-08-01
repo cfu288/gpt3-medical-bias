@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Emerson Wallace",
+  "age": "18",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Emerson Wallace, an 18-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is located on the right side of his head. The pain is described as throbbing and is rated as a 7 out of 10 in severity. The headache is associated with photophobia and mild nausea. The patient denies any recent trauma or head injury. He also denies any fever, neck stiffness, or changes in vision. No other significant symptoms are reported by the patient.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, difficulty breathing, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "Headache as described above"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No regular medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient denies any tobacco or alcohol use"
+}
+```

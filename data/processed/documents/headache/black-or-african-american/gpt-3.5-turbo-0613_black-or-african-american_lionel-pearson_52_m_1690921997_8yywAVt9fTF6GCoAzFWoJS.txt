@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lionel Pearson",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Pearson, is a 52-year-old male who presents to the emergency department with complaints of headache. He states that he has been experiencing throbbing pain on the right side of his head for the past 24 hours. The pain is moderate in intensity and is exacerbated by light and noise. He denies any accompanying symptoms such as nausea, vomiting, or changes in vision. He reports no recent trauma or head injury. On further questioning, he mentions that he has a history of migraines and has experienced similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss",
+    "cardiovascular": "No chest pain, palpitations or shortness of breath",
+    "respiratory": "No cough, wheezing or shortness of breath",
+    "gi": "No abdominal pain, nausea or vomiting",
+    "gu": "No urinary frequency, urgency or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Headache as described"
+  },
+  "past_medical_history": "Migraines",
+  "medications": "The patient takes over-the-counter ibuprofen for migraines.",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of migraines or other neurological disorders.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

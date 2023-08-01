@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oren Wyatt",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of a severe headache that started abruptly about an hour ago. The patient describes the pain as a throbbing sensation localized to the frontal and temporal regions. He rates the pain intensity as 8 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or itching.",
+    "neurologic": "The patient reports no changes in vision, no weakness or numbness in any extremities, and no changes in balance or coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines.",
+  "medications": "The patient takes sumatriptan on an as-needed basis for migraines, but has not taken any today.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient denies tobacco, alcohol, and illicit drug use. He works as a software engineer and reports minimal stress at work."
+}

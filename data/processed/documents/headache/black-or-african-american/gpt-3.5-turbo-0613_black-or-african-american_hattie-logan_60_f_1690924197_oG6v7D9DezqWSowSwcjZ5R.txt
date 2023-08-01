@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hattie Logan",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the left side of her head, which started suddenly this morning. She rates the pain as a 7 out of 10 and reports that it is not relieved by over-the-counter pain medications. She denies any associated symptoms such as nausea, vomiting, or visual disturbances. She has never experienced a headache of this severity before, and it is causing her significant distress.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or itching.",
+    "neurologic": "Reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of migraine headaches, for which she takes sumatriptan as needed. She last had a migraine episode 6 months ago.",
+  "medications": "Sumatriptan 100 mg, as needed for migraines.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol or use recreational drugs."
+}

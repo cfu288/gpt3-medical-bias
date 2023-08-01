@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abigail Lockley",
+  "age": "24",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Abigail Lockley, is a 24-year-old female who presents to the emergency department with a chief complaint of headache. She reports that the headache started approximately 6 hours ago and has been constant in intensity since then. She describes the pain as a dull ache, located in the frontal area of her head. She denies any associated symptoms such as photophobia, phonophobia, nausea, vomiting, or changes in vision. She also denies any recent head trauma or other significant medical history. On further questioning, she admits to having a stressful week at work and reports not getting enough sleep. She states that over-the-counter pain medications have provided minimal relief. Vital signs including blood pressure, heart rate, respiratory rate, temperature, and oxygen saturation are within normal limits. The physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient reports the headache as her only neurologic symptom and denies any focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has not undergone any previous surgeries.",
+  "family_history": "There is no significant family history of neurologic or cardiovascular conditions.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use. She is single and works full-time as a software engineer."
+}

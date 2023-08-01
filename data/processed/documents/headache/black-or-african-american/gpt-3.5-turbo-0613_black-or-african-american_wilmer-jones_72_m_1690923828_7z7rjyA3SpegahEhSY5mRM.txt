@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilmer Jones",
+  "age": "72",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe headache. Patient states that the headache started suddenly and is the most severe headache he has ever experienced. Patient has no history of migraines or similar headaches. He denies any recent head trauma or falls. Patient reports that the headache is accompanied by nausea and sensitivity to light. The headache has not responded to over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies joint pain, muscle pain, or joint swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient reports severe headache. No numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. No other significant past medical history.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father had a history of stroke and heart disease.",
+  "social_history": "Patient is retired. He does not smoke or drink alcohol. No history of illicit drug use."
+}

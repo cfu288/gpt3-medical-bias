@@ -1,0 +1,21 @@
+{
+  "patient_name": "Christopher August",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started suddenly about four hours ago. He describes the pain as sharp and throbbing, primarily on the right side of his head. The headache is accompanied by nausea and sensitivity to light and sound. He denies any recent head trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations, chest pain, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient reports no focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of migraines that typically present with similar symptoms but are usually self-limiting and responsive to over-the-counter pain medications. No other significant past medical history.",
+  "medications": "Patient takes ibuprofen 200 mg as needed for migraines, which he has taken twice today prior to arriving in the emergency department.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of migraines or other neurological conditions.",
+  "social_history": "Patient has a sedentary lifestyle and works long hours in front of a computer."
+}

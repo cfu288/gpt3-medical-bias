@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Geneva Freeman",
+  "age": "87",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Geneva Freeman, an 87-year-old female, presented to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 3 hours ago and is throbbing in nature. The pain is located in the frontal area and is rated as a 7 out of 10 in intensity. She denies any associated symptoms such as nausea, vomiting, or photophobia. The patient states that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin discoloration.",
+    "neurologic": "Other than the headache, the patient denies any numbness, tingling, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has a history of a cholecystectomy and a total hip replacement.",
+  "family_history": "The patient's mother had a history of hypertension and her father had a history of diabetes.",
+  "social_history": "The patient is a retired school teacher. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

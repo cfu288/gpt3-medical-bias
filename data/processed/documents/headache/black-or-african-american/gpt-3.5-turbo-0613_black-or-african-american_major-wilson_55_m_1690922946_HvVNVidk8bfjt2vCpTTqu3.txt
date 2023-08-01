@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Wilson",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He describes the headache as a 7 out of 10 in severity, located primarily in the temporal region, with intermittent throbbing pain. Patient reports that the headache started suddenly earlier today and has been gradually worsening. He denies any associated symptoms such as visual changes, nausea, or vomiting. Patient states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient reports headache as described in the chief complaint. Denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril 20mg daily. He also has a history of migraines and uses sumatriptan as needed.",
+  "medications": "Lisinopril 20mg daily, sumatriptan as needed for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Father has a history of hypertension.",
+  "social_history": "Patient is a non-smoker. Denies alcohol or illicit drug use."
+}

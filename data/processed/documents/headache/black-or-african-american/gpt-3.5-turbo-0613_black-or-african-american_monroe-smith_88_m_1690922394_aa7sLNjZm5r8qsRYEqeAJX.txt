@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Monroe Smith",
+  "age": "88",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents with a complaint of headache that started this morning. Patient describes it as a dull, throbbing pain located in the front of the head. Headache is moderate in severity and has not responded to over-the-counter pain medication. Patient denies any associated symptoms such as nausea, vomiting, or visual changes. No recent trauma or injuries reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Current medications include amlodipine and simvastatin.",
+  "medications": "Amlodipine 5 mg once daily, Simvastatin 20 mg once daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is significant for hypertension and stroke.",
+  "social_history": "Patient is a retired engineer. He does not smoke and drinks alcohol occasionally."
+}
+```

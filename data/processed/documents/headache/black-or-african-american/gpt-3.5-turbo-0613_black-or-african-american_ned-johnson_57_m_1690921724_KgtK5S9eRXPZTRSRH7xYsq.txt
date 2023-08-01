@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ned Johnson",
+  "age": "57",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ned Johnson, a 57-year-old male, presents to the emergency department with a chief complaint of headache. He reports experiencing a severe headache that started suddenly about 4 hours ago. He describes the pain as a throbbing sensation on the right side of his head. He rates the pain as 8 out of 10 on the pain scale and says that it is the worst headache he has ever experienced. He denies any visual changes, nausea, vomiting, or neck stiffness. He has not tried any self-treatments for the headache. The headache is not relieved by resting or changing positions. He denies any recent head trauma or loss of consciousness. His medical history is significant for hypertension, for which he takes lisinopril. His past surgical history is unremarkable. He has no known allergies to medications. His family history is significant for a father with hypertension. He is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father has a history of hypertension.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

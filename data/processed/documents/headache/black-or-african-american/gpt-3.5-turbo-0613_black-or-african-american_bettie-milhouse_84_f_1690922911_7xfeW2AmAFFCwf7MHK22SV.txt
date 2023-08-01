@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bettie Milhouse",
+  "age": "84",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Bettie Milhouse, an 84-year-old female, presents to the emergency department with complaints of a severe headache. According to the patient, the headache started suddenly about 2 hours ago and is described as a throbbing pain on the right side of her head. She rates the pain as 9/10 and reports that it is worsening. She denies any recent head trauma or changes in her medications. She has tried taking over-the-counter pain relievers, but they have not provided any relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "The patient denies any joint pain or swelling",
+    "skin": "The patient denies any rashes or skin changes",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoporosis. She had a stroke 5 years ago but has not had any recurrent neurologic symptoms since then. She also has a history of falls but has not sustained any significant injuries.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia. She does not take any other prescription medications or supplements.",
+  "past_surgical_history": "The patient has a history of a cholecystectomy performed 10 years ago",
+  "family_history": "The patient has a positive family history of hypertension and stroke in her mother and sister",
+  "social_history": "The patient is retired and lives at home with her daughter. She does not smoke or drink alcohol. She denies any illicit drug use."
+}
+```

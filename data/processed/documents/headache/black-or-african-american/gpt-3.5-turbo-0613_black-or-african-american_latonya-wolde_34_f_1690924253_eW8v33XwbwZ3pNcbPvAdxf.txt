@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latonya Wolde",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Latonya Wolde, a 34-year-old female, presented to the emergency department with a complaint of headache. She described the headache as a continuous throbbing pain in her temples and forehead, which started yesterday morning. The pain is moderate in intensity and is not relieved by over-the-counter pain medications. She denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. The headache has been interfering with her daily activities and she has had difficulty sleeping due to the pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any prescription or over-the-counter medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no significant family history of neurological disorders, migraines, or other chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She is not currently employed and lives at home with her spouse and two young children."
+}
+```

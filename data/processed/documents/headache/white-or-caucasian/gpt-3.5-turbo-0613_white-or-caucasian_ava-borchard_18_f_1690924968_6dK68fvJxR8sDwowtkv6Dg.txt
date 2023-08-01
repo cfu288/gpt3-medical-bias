@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ava Borchard",
+  "age": "18",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ava Borchard, an 18-year-old female, presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain on the left side of her head. Ava rates the pain as a 7 out of 10 and reports that it is worsened by bright lights and loud noises. She denies any recent head trauma or fever. She has taken acetaminophen with no relief. There is no associated neck stiffness or visual changes. She is otherwise healthy.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, numbness, or weakness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "The patient denies taking any medications",
+  "past_surgical_history": "The patient has no past surgical history",
+  "family_history": "No significant family history of neurological or chronic headaches",
+  "social_history": "The patient is a student, not currently employed, and denies any tobacco, alcohol, or illicit drug use"
+}
+```

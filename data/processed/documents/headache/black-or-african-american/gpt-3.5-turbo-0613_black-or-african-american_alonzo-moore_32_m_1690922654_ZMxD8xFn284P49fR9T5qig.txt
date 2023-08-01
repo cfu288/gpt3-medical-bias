@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Moore",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Alonzo Moore, a 32-year-old male, presents to the emergency department with a chief complaint of headache. He describes the headache as a dull, throbbing pain located primarily in the front of his head. He rates the severity of the pain as a 7 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of migraines, for which he takes over-the-counter analgesics as needed.",
+  "medications": "The patient takes ibuprofen 200mg as needed for migraine headaches.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He works as an accountant and reports low stress levels."
+}

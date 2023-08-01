@@ -1,0 +1,21 @@
+{
+  "patient_name": "Houston Mcdonald",
+  "age": "53",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and is the worst headache he has ever had. He describes the pain as a throbbing sensation, primarily located on the left side of his head. He denies any associated symptoms such as nausea, vomiting, or visual changes. The pain is not alleviated with over-the-counter pain medications. Upon further questioning, the patient admits to a history of intermittent headaches in the past, but states that they have never been as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any symptoms of fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient reports no other neurological symptoms such as weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. He is currently taking metoprolol and atorvastatin.",
+  "medications": "Metoprolol 100 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient reports a family history of hypertension and stroke in his father and brother.",
+  "social_history": "The patient is a non-smoker. He denies any alcohol or illicit drug use. He is married and works as an accountant."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "33",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of a severe headache. He reports that the headache started suddenly about 6 hours ago and has progressively worsened since then. He describes the pain as a throbbing sensation on both sides of his head, with associated nausea and sensitivity to light and sound. There is no history of head trauma or any recent illnesses. He has taken over-the-counter pain medication with no relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "In addition to the severe headache, the patient denies any dizziness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of migraines, which typically present with moderate to severe headaches, often pulsating or throbbing and worsen with routine physical activity. He states that he has experienced similar symptoms in the past, but this headache is more severe and different from his usual migraines.",
+  "medications": "The patient takes over-the-counter pain medication for his migraines as needed.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient does not have a significant family history of migraines or other neurological conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or recreational drugs."
+}

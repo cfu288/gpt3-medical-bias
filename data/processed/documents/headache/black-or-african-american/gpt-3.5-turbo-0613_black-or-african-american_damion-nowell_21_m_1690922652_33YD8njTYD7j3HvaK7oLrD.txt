@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Damion Nowell"
+    },
+    "age": {
+      "type": "string",
+      "value": "21"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Headache"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Damion Nowell, a 21-year-old male, presented to the emergency department with a chief complaint of headache. The headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of his head. He rates the severity of his headache as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes. There is no history of trauma or recent illness. He has tried over-the-counter pain medications without relief."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Negative for fever, chills, or night sweats."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Negative for chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Negative for cough, sputum production, or difficulty breathing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Negative for abdominal pain, nausea, or vomiting."
+        },
+        "gu": {
+          "type": "string",
+          "value": "Negative for dysuria, frequency, or urgency."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Negative for joint pain, swelling, or stiffness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "Negative for rash, itching, or changes in moles."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Positive for headache as chief complaint. Negative for weakness, numbness, or changes in sensation."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+   },
+    "past_surgical_history": {
+      "type": "string"
+  },
+    "family_history": {
+      "type": "string"
+  },
+    "social_history": {
+      "type": "string"
+  }
+},
+"required": [
+  "patient_name",
+  "age",
+  "chief_complaint",
+  "history_of_present_illness",
+  "review_of_symptoms",
+  "past_medical_history",
+  "medications",
+  "past_surgical_history",
+  "family_history",
+  "social_history"
+ ]
+}

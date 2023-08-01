@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tyrone Tate",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a severe headache that started suddenly about an hour ago. He describes the pain as throbbing and localized to the front of his head. He rates the severity of the pain as 8 out of 10. The headache is associated with photophobia and phonophobia. Patient denies any recent trauma or fever. He states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "In addition to the severe headache, patient denies any weakness, numbness, tingling, or changes in coordination or balance."
+  },
+  "past_medical_history": "Patient has a history of hypertension and coronary artery disease. He takes medications for these conditions.",
+  "medications": "Patient takes lisinopril and atorvastatin daily for hypertension and coronary artery disease.",
+  "past_surgical_history": "Patient has a history of coronary artery bypass graft surgery.",
+  "family_history": "Patient denies any significant family history of neurological or cardiac diseases.",
+  "social_history": "Patient is retired and lives alone. He does not smoke or consume alcohol."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Belinda Wolters",
+  "age": "49",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Belinda Wolters, a 49-year-old female, presents to the emergency department with complaints of a severe headache. The headache started suddenly this morning and is described as a throbbing sensation in the right temporal area. The patient rates the pain as 8 out of 10. She also reports feeling nauseous and sensitive to light. She denies any recent head trauma or changes in her vision. The patient has no significant past medical history of headaches or migraines.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient reports a severe headache as the main symptom. There are no other neurological complaints such as weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports no significant family medical history.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Everett Killian",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started abruptly this morning and is described as a throbbing pain on the right side of the head. The patient rates the pain as 8 out of 10 and reports associated symptoms of nausea and sensitivity to light. The patient has no history of similar headaches in the past. Physical examination reveals no abnormal findings.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "In addition to the headache, patient denies any numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father had a history of migraines.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or illicit drugs. Patient works as an accountant and denies exposure to any toxic substances."
+}

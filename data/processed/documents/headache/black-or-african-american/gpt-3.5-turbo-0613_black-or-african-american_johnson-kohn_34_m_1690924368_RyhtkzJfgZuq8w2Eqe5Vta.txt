@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnson Kohn",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Johnson Kohn, a 34-year-old male, presents to the emergency department with a chief complaint of severe headache. He reports that the headache started suddenly this morning and has been progressively worsening throughout the day. He describes the pain as throbbing and localized to the right side of his head. He denies any associated symptoms such as nausea, vomiting, photophobia, or changes in vision. The patient states that he has never experienced a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Reports severe headache as described in chief complaint. Denies changes in vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, but reports that this headache is different in severity and quality from his usual migraines.",
+  "medications": "The patient takes over-the-counter ibuprofen for his migraines, but has not taken any medication for this current headache.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

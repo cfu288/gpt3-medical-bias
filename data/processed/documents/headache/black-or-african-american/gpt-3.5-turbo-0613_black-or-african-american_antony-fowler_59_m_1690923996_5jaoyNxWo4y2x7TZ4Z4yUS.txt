@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Antony Fowler",
+  "age": "59",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Antony Fowler, a 59-year-old male, presented to the emergency department with a chief complaint of headache. He described the headache as a throbbing pain in the front of his head that started yesterday morning and has been progressively worsening. He rates the pain as 8/10 on the pain scale and notes that it is aggravated by bright lights and loud noises. He denies any associated symptoms such as nausea, vomiting, or changes in vision. The headache is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or frequency of urination.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rashes or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies dizziness, numbness, or tingling in any part of his body."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medication. He denies any other significant past medical history.",
+  "medications": "The patient's current medications include amlodipine 5 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension in his father.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is married, lives with his spouse, and works as a banker."
+}
+```

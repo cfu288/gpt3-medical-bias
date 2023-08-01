@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joi Johnson",
+  "age": "18",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Joi Johnson, an 18-year-old female, presents to the emergency department with a chief complaint of headache. She states that her headache started suddenly this morning and is located on the left side of her head. She rates the pain as a 7 out of 10 and describes it as throbbing and constant. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She states that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or malaise.",
+    "cardiovascular": "Patient denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports a severe headache, but denies any other neurological symptoms such as changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any regular medications or over-the-counter medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

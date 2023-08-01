@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Williams",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He describes the headache as a severe throbbing pain on the right side of his head. The pain started this morning and has been constant since then. He reports feeling nauseous and experiencing sensitivity to light. He denies any recent head trauma or changes in vision. He has taken over-the-counter pain medication, which has provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or limited range of motion.",
+    "skin": "Patient denies rash, itching, or skin lesions.",
+    "neurologic": "Patient reports severe headache, sensitivity to light, and nausea. Denies any focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is on medication for it.",
+  "medications": "Patient is currently taking Lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's father has a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

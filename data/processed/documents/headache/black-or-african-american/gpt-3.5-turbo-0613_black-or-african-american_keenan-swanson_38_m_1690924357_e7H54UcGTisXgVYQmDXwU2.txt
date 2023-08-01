@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keenan Swanson",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Swanson is a 38-year-old male who presents to the emergency department with a chief complaint of headache. He states that his headache started suddenly about two hours ago. He describes the pain as a throbbing sensation on the right side of his head. He rates the intensity of the pain as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies joint pain, muscle pain, or swelling.",
+    "skin": "Patient denies rash, itching, or sores.",
+    "neurologic": "Patient reports only the presenting headache."
+  },
+  "past_medical_history": "Patient has a history of migraines, but has not had a headache this severe in several years.",
+  "medications": "Patient takes over-the-counter ibuprofen for migraines as needed.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient denies tobacco or alcohol use. He works as a computer programmer and does not report any significant stressors."
+}

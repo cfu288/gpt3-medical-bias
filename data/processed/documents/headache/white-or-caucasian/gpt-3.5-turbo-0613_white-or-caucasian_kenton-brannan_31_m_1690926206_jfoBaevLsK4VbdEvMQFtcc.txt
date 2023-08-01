@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kenton Brannan",
+  "age": "31",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of headache. The headache is described as a throbbing pain on the right side of the head, which started suddenly about 2 hours ago. The pain is moderate in intensity and is associated with sensitivity to light and sound. Patient denies any preceding trauma or recent illness. No significant relief with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash or changes in skin color.",
+    "neurologic": "Only significant symptom is headache."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient takes ibuprofen as needed for occasional headaches.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of neurological disorders.",
+  "social_history": "Patient works as a software engineer and denies tobacco, alcohol, or illicit drug use."
+}

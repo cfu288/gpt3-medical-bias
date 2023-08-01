@@ -1,0 +1,21 @@
+{
+  "patient_name": "Giles Carter",
+  "age": "55",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Carter presented to the emergency department today with a complaint of severe headache. He states that the headache started suddenly about an hour ago and is located in the frontal region. He rates the pain as 8 out of 10 and describes it as throbbing.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "Reports decreased sensation in the left arm and leg"
+  },
+  "past_medical_history": "Mr. Carter has a history of hypertension and migraines",
+  "medications": "He takes daily lisinopril and uses sumatriptan as needed for migraines",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for migraines in his mother",
+  "social_history": "Mr. Carter works as an accountant and denies tobacco or alcohol use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vida Raiford",
+  "age": "29",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is severe in intensity. The pain is located on both sides of her head and is described as pulsating. The patient denies any associated symptoms such as nausea, vomiting, or photophobia. She tried taking over-the-counter pain relievers, but they provided minimal relief. No recent head trauma or fever reported. Patient denies any past history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, weight loss, or weight gain.",
+    "cardiovascular": "Denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies any cough, shortness of breath, wheezing, or sputum production.",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies any joint pain, muscle weakness, or limitations in range of motion.",
+    "skin": "Denies any rash, itching, or skin lesions.",
+    "neurologic": "Reports only the current headache."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient takes a daily multivitamin and occasional ibuprofen as needed for pain.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies tobacco, alcohol, and illicit drug use. She is married and works as an accountant."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Evelyn Chestnut",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mrs. Chestnut is a 62-year-old female who presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly about 4 hours ago and has been progressively worsening. She describes the pain as a severe throbbing sensation located in the bilateral temples. The headache is associated with photophobia and phonophobia. She denies any recent head trauma or other precipitating factors. She has taken over-the-counter pain medications for relief, but they have been ineffective.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No numbness or weakness"
+  },
+  "past_medical_history": "Mrs. Chestnut reports a history of hypertension, which is well controlled with medication. She denies any other significant past medical history.",
+  "medications": "Mrs. Chestnut takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "She has no history of any surgical procedures.",
+  "family_history": "She reports a family history of migraine headaches in her mother.",
+  "social_history": "Mrs. Chestnut is a non-smoker and denies alcohol or illicit drug use."
+}
+```

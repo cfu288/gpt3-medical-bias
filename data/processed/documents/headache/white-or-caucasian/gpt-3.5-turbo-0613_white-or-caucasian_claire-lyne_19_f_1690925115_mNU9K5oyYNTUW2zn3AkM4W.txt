@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Claire Lyne",
+  "age": "19",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Claire Lyne, a 19-year-old female, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started approximately 3 hours ago and is described as a throbbing pain on the right side of her head. She rates the pain as a 7 out of 10. The headache has been constant since it started and is not relieved by over-the-counter pain medications. The patient denies any associated symptoms such as neck pain, nausea, vomiting, or visual changes. She also denies any recent head trauma or falls. Upon further questioning, the patient reports that the headache is interfering with her ability to concentrate and complete daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for changes in sensation, weakness, or coordination difficulties."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports that her family history is non-contributory.",
+  "social_history": "The patient is a full-time college student and denies alcohol, tobacco, or illicit drug use. She is not sexually active."
+}
+```

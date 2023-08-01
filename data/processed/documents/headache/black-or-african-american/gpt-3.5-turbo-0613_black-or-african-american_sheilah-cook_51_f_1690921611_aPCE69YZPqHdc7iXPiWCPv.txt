@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheilah Cook",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Sheilah Cook, a 51-year-old female, presented to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a severe throbbing pain in the front of the head. She has no history of similar headaches in the past and has never experienced migraines. There is no associated nausea, vomiting, or sensitivity to light or noise. She denies any recent head trauma or changes in her vision. The pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or skin discoloration.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, tingling, weakness, or loss of coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient works as a teacher and denies tobacco, alcohol, or illicit drug use."
+}
+```

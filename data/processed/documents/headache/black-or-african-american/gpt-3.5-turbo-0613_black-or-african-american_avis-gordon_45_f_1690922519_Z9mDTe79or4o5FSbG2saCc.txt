@@ -1,0 +1,21 @@
+{
+  "patient_name": "Avis Gordon",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents with a complaint of headache that began yesterday. She describes the headache as a throbbing pain on the right side of her head that is worsened with movement. She rates the pain as a 7 out of 10 and states that it is interfering with her daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient reports headache as mentioned in the chief complaint. No other neurological symptoms present."
+  },
+  "past_medical_history": "Patient has a history of migraines for the past 10 years. She takes ibuprofen as needed for pain relief and has been using her migraine medication, sumatriptan, but it has not provided relief for this headache.",
+  "medications": "Ibuprofen 400mg as needed for pain; sumatriptan 50mg as needed for migraines",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

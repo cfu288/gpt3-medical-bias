@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tara Page",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. Patient states that the headache started suddenly and has been progressively worsening over the past few hours. Patient rates the pain as a 10 out of 10. Patient denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "Patient complains of severe headache, but denies any focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of migraines and is prescribed sumatriptan as needed.",
+  "medications": "Sumatriptan PRN for migraines",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient denies tobacco, alcohol, and illicit drug use. Patient works as a software engineer and denies any recent travel or sick contacts."
+}

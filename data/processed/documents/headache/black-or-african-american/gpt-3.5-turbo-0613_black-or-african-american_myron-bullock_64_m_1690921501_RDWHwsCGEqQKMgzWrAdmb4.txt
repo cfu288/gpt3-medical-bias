@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myron Bullock",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Myron Bullock, a 64-year-old male, presents to the emergency department with a chief complaint of headache. The patient states that he woke up this morning with a severe headache on the right side of his head. He describes the headache as throbbing and rates the pain as 8 out of 10. The patient denies any associated symptoms such as nausea, vomiting, blurred vision, or weakness. He has taken over-the-counter pain medication but it has provided minimal relief. The patient reports no recent head trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient presents with a severe headache as the chief complaint. He denies any weakness, numbness, or changes in vision.",
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, controlled with medication. He also had a cholecystectomy 10 years ago and has no complications or subsequent surgeries.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension. He has no known allergies to medications.",
+  "past_surgical_history": "The patient had a cholecystectomy 10 years ago with no complications.",
+  "family_history": "The patient's mother had a history of hypertension and his father had a history of migraines.",
+  "social_history": "The patient is a former smoker with a 30 pack-year history. He quit smoking 6 years ago. He denies alcohol or illicit drug use."
+}
+```

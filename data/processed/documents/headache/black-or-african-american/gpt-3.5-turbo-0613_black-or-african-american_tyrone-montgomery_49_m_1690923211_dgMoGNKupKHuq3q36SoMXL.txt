@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tyrone Montgomery",
+  "age": "49",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Tyrone Montgomery, a 49-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 3 hours ago and is a severe throbbing pain in the front of his head. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has never experienced a headache like this before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or discoloration.",
+    "neurologic": "Besides the headache, the patient denies any numbness, weakness, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraine headaches.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's father has a history of migraines.",
+  "social_history": "The patient is married and works as an accountant. He denies smoking, alcohol, or illicit drug use."
+}
+```

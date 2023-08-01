@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wayne Barnes",
+  "age": "85",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Barnes, an 85-year-old male, presents to the emergency department with a chief complaint of headache. He states that the headache started suddenly this morning and is the worst headache he has ever experienced. He describes the pain as throbbing and located in the front of his head. He denies any associated symptoms such as nausea, vomiting, neck stiffness, or visual changes. He has no history of similar headaches in the past. Mr. Barnes also reports a past medical history of hypertension and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Denies cough, shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting",
+    "gu": "Denies urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Reports chronic joint pain and stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "Reports headache, denies dizziness, weakness, or numbness"
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Amlodipine 5mg once daily, ibuprofen 200mg as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of headaches or neurological conditions",
+  "social_history": "Retired truck driver, no history of smoking or alcohol use"
+}

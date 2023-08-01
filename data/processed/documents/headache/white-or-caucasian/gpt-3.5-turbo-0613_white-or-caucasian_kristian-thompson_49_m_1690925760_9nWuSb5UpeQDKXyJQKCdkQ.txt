@@ -1,0 +1,21 @@
+{
+    "patient_name": "Kristian Thompson",
+    "age": "49",
+    "chief_complaint": "Headache",
+    "history_of_present_illness": "The patient, Mr. Thompson, is a 49-year-old male presenting to the emergency department with a chief complaint of headache. The headache started suddenly two days ago and has been progressively worsening. The patient rates the pain as a 9 out of 10 on the pain scale. The headache is located in the front of the head and is described as a constant, throbbing sensation. The patient reports associated symptoms including sensitivity to light and noise, but no vomiting or visual changes. He states that over-the-counter pain medications have not provided any relief. There is no history of head trauma or recent illness.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+        "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+        "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+        "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "The patient denies urinary frequency, urgency, or difficulty.",
+        "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+        "skin": "The patient denies rashes, lesions, or itching.",
+        "neurologic": "In addition to the headache, the patient denies weakness, numbness, tingling, or changes in coordination."
+    },
+    "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril daily.",
+    "medications": "Lisinopril 20mg daily for hypertension.",
+    "past_surgical_history": "The patient has no history of surgical procedures.",
+    "family_history": "The patient reports a family history of hypertension and migraine headaches in his mother.",
+    "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

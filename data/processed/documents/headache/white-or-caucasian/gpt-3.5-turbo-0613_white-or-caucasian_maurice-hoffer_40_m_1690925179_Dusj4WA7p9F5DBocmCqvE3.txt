@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maurice Hoffer",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Maurice Hoffer, a 40-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is severe in intensity. Maurice states that he has never experienced a headache of this severity before. The pain is located in the frontal area and is described as throbbing. Maurice denies any associated symptoms such as blurred vision, nausea, vomiting, or sensitivity to light or sound. He also denies any recent head trauma or fever. Maurice states that he took over-the-counter pain medication before coming to the hospital, but it provided no relief. Upon further questioning, Maurice states that he has been experiencing stress at work recently and has not been getting enough sleep. He denies any other significant medical history or recent illnesses. Vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or burning",
+    "musculoskeletal": "No joint pain, muscle pain, or swelling",
+    "skin": "No rashes, itching, or skin lesions",
+    "neurologic": "Headache is the only neurologic symptom reported"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "The patient reports taking ibuprofen as needed for occasional headaches",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of neurological disorders",
+  "social_history": "The patient is currently employed as a software engineer. He denies any tobacco use, illicit drug use, or alcohol abuse."
+}

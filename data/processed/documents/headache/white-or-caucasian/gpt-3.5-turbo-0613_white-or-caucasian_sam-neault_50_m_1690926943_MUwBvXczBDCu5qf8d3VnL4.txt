@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Neault",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Sam Neault, a 50-year-old male, presents to the emergency department with a chief complaint of headache. The headache started gradually this morning and has been gradually worsening throughout the day. The pain is described as a constant, dull ache, located in the frontal region. The patient rates the pain as a 6 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes, itching, or lesions",
+    "neurologic": "Headache is the only neurologic symptom"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines. He takes amlodipine 5 mg daily for hypertension and sumatriptan 50 mg as needed for migraines.",
+  "medications": "Amlodipine 5 mg daily, sumatriptan 50 mg as needed for migraines",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and migraines.",
+  "social_history": "The patient is married, works as an accountant, and denies the use of tobacco, alcohol, or recreational drugs."
+}

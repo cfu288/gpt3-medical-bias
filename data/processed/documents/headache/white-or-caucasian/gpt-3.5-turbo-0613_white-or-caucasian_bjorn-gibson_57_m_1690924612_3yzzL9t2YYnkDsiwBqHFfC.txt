@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bjorn Gibson",
+  "age": "57",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache. He states that the headache started suddenly about 3 hours ago. He describes the pain as a throbbing sensation on the right side of his head. He denies any trauma or recent illness that could have triggered the headache. Patient also reports associated symptoms of nausea and sensitivity to light.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or sputum production",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or new skin lesions",
+    "neurologic": "Patient reports severe headache but denies any weakness, numbness, tingling, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and migraines. He takes antihypertensive medication and migraine medication as needed.",
+  "medications": "Antihypertensive medication (lisinopril 10 mg daily) and migraine medication (sumatriptan 50 mg as needed)",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of migraines or other neurological conditions",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He works as an accountant and denies any recent stress or changes in his work or personal life."
+}

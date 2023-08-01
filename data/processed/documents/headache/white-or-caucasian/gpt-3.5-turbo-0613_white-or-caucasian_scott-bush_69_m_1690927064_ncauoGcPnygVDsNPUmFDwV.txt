@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scott Bush",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Scott Bush, is a 69-year-old male presenting with a chief complaint of headache. He reports that the headache started suddenlly this morning and is severe in nature. The pain is predominantly located on the right side of his head, behind his right eye. He describes the pain as throbbing and rates it as 9 out of 10 on the pain scale. The patient denies any associated visual changes, dizziness, nausea, or vomiting. He has no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, speech difficulties, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history":"The patient has no prior surgical history.",
+  "family_history":"The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history":"The patient is retired and lives alone. He denies tobacco, alcohol, or illicit drug use."
+}

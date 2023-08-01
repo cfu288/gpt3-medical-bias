@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ernst Cater",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ernst Cater, a 64-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started this morning and is a throbbing pain located in the front of his head. The headache is associated with nausea but no vomiting. He denies any recent head trauma. Mr. Cater states that he has never experienced a headache like this before and is concerned because the pain is severe and affecting his ability to function.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient reports a severe headache as described in the history of present illness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's father had a history of stroke.",
+  "social_history": "The patient smokes half a pack of cigarettes per day and drinks alcohol socially."
+}
+```

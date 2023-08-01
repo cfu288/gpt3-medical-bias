@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odessa Smith",
+  "age": "27",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Odessa Smith, is a 27-year-old female who presents to the emergency department complaining of a headache. According to the patient, the headache started suddenly about 2 hours ago and is located in the frontal region. The pain is described as a dull ache, with a severity of 7 out of 10. The patient denies any associated symptoms such as vision changes, dizziness, or nausea. She states that she has never experienced a headache of this severity before. There is no history of trauma or recent illness. The patient has taken ibuprofen 400mg with no relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Positive for headache as described above. Negative for visual changes, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies the use of any medications, over-the-counter or prescription.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

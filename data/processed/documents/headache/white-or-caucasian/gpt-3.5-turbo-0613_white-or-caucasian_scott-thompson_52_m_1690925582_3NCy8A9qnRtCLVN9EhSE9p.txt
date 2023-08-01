@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scott Thompson",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Thompson presents to the Emergency Department today with a complaint of severe headache. He reports that the headache began suddenly this morning and is constant, throbbing in nature. He rates the severity as 8 out of 10. The pain is localized to the frontal region and radiates to the back of his head. He denies any visual changes, dizziness, or nausea. He states that he has never experienced a headache like this before and it is interfering with his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, malaise, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, difficulty breathing, or wheezing.",
+    "gi": "Negative for abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rashes, itching, or lesions.",
+    "neurologic": "Positive for severe headache as described above. Negative for changes in vision, numbness, or weakness."
+  },
+  "past_medical_history": "Mr. Thompson has a past medical history of hypertension, for which he takes lisinopril. He does not have any known allergies.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Family history is significant for hypertension in both parents.",
+  "social_history": "Mr. Thompson is a non-smoker and denies alcohol or illicit drug use. He works as a software engineer and does not have any significant occupational exposures."
+}

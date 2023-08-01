@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aliza Wagner",
+  "age": "29",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the pain as a throbbing sensation on the right side of her head. The headache started suddenly this morning and has been getting progressively worse throughout the day. She rates her pain as a 8 on a scale of 1 to 10.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurological": "Positive for headache as chief complaint. Negative for focal weakness or changes in vision."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient does not take any medications regularly. Took over-the-counter ibuprofen 400mg for headache without relief.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies tobacco or illicit drug use. She consumes alcohol occasionally."
+}

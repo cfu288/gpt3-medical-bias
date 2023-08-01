@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carlotta Cooper",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Carlotta Cooper, a 76-year-old female, presents to the emergency department with a chief complaint of headache. The headache started yesterday evening and has been persistent and throbbing in nature. She rates the pain as a 7 out of 10 on the pain scale. The headache is not associated with any specific triggers and is not relieved by rest. She denies any visual changes, dizziness, or nausea. She has also noticed some tenderness in her temples and scalp. She has taken over-the-counter pain medication, but it did not provide much relief. There is no history of head trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological symptoms such as weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}
+```

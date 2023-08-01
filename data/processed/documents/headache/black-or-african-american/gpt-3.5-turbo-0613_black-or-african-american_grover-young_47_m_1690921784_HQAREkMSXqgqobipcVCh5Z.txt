@@ -1,0 +1,21 @@
+{
+  "patient_name": "Grover Young",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Grover Young, a 47-year-old male, presents to the emergency department with a chief complaint of headache. The headache began approximately 2 hours ago and is described as a dull, throbbing pain located in the frontal region. Patient reports that the headache is the worst he has ever experienced and has not responded to over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, vision changes, or neck stiffness. During the physical examination, vital signs were within normal limits. A neurological examination was performed and showed no focal deficits. Given the severity of the headache and the lack of improvement with initial treatment, further diagnostic evaluation is warranted."
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight changes.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, pruritus, or changes in skin color.",
+    "neurologic": "Patient reports a severe headache but denies any weakness, numbness, or tingling in the extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient had an appendectomy at age 20. Otherwise, no significant surgical history.",
+  "family_history": "Patient's father had hypertension and his mother had diabetes.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

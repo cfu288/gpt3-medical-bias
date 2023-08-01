@@ -1,0 +1,21 @@
+{
+  "patient_name": "Violet Sanders",
+  "age": "74",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a severe headache that started this morning. Patient rates the pain as 9/10 and describes it as a throbbing sensation in the temples. Headache is accompanied by nausea and sensitivity to light.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or skin changes.",
+    "neurologic": "Patient reports no changes in vision or speech. No numbness or weakness in extremities."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10 mg daily and naproxen 500 mg as needed for pain.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient is retired and lives alone. Does not smoke or drink alcohol."
+}

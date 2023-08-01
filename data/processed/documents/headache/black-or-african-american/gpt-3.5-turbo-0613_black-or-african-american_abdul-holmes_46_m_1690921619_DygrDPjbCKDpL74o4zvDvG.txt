@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Abdul Holmes",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Abdul Holmes, a 46-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly about 2 hours ago and is described as a throbbing pain located on the right side of the head. The patient rates the intensity of the pain as 8 out of 10. He reports that he has never experienced this type of headache before. The pain is not worsened by movement and is not associated with any nausea, vomiting, or visual changes. The patient denies any recent head trauma or other concerning symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes amlodipine for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is a family history of hypertension.",
+  "social_history": "The patient denies smoking, alcohol consumption, or drug use."
+}
+```

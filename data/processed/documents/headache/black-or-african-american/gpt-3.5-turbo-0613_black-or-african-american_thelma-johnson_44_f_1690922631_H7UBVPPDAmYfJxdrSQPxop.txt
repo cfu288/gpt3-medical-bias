@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thelma Johnson",
+  "age": "44",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Thelma Johnson, is a 44-year-old female presenting to the emergency department with a chief complaint of headache. She reports that the headache started yesterday and has been gradually worsening. She rates the pain as 8 out of 10 and describes it as a throbbing sensation on the left side of her head. She also reports associated nausea and sensitivity to light. She denies any recent head trauma or other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, and weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, phlegm production, or shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, itching, or any changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a history of migraines, which are usually triggered by stress and hormonal changes. She reports that the headaches have been well-controlled with over-the-counter pain medications in the past.",
+  "medications": "The patient takes ibuprofen 200 mg as needed for pain relief.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient works as a software engineer and denies tobacco, alcohol, or illicit drug use."
+}

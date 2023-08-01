@@ -1,0 +1,21 @@
+{
+  "patient_name": "Miles Smith",
+  "age": "87",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient, an 87-year-old male named Miles Smith, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly about 2 hours ago and is a throbbing pain on the left side of his head. He rates the severity of the pain as a 7 out of 10. Patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. He has never experienced a headache like this before. He states that he took acetaminophen at home, but it did not relieve the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color or texture.",
+    "neurologic": "Patient reports the headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis. He takes amlodipine and atorvastatin for his hypertension and hyperlipidemia, respectively.",
+  "medications": "Amlodipine - 5mg once daily, Atorvastatin - 20mg once daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's father had a history of stroke, and his mother had a history of dementia.",
+  "social_history": "Patient is a retired engineer. He lives alone and is independent in activities of daily living. He does not smoke, drink alcohol, or use recreational drugs."
+}

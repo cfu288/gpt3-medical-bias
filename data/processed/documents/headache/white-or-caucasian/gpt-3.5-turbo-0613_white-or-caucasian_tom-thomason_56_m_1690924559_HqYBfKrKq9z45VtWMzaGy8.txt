@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Thomason",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Tom Thomason, presents to the emergency department with a chief complaint of headache. He states that the headache started suddenly this morning and is located at the back of his head. He describes the pain as throbbing and rates it as a 7 out of 10 in severity. He denies any neck stiffness, photophobia, or vomiting. He has taken over-the-counter acetaminophen without relief. There is no known trigger for the headache and no associated symptoms such as fever or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, dyspnea, or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or limited range of motion.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic":"No numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of neurological or cardiovascular diseases.",
+  "social_history": "The patient does not smoke or consume alcohol. He works as an accountant and denies any occupational exposures."
+}

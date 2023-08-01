@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carey Kimmel",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Carey Kimmel, is a 39-year-old male who presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 2 hours ago and is located on the right side of his head. He describes it as a throbbing pain and rates the intensity as a 7 out of 10. He states that this is the worst headache he has ever experienced and it is accompanied by sensitivity to light and sound. He denies any associated symptoms such as nausea, vomiting, or visual changes. There is no history of recent trauma or head injury. He has taken over-the-counter pain medication, but it has not provided any relief. He denies any previous episodes of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies joint pain, muscle weakness, or limited range of motion.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any neurological symptoms such as dizziness, numbness, tingling, or difficulty with speech or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes medication. He denies any other significant medical history.",
+  "medications": "The patient takes lisinopril 10 mg daily for his hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory. There is no history of migraines or any neurological disorders in his immediate family.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a software engineer and reports a moderate level of daily stress."
+}

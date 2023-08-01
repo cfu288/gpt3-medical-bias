@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Wilson Gethers",
+  "age": "30",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Wilson Gethers, is a 30-year-old male who presents to the emergency department with a chief complaint of headache. He describes the headache as a throbbing pain located on the right side of his head. The headache started approximately 2 hours ago and has been gradually worsening. Wilson denies any recent head trauma, fever, or changes in vision. He rates the pain as a 7 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or lesions",
+    "neurologic": "Headache is the main neurological complaint"
+  },
+  "past_medical_history": "Wilson has a history of migraines, which are usually relieved with over-the-counter medications such as ibuprofen. He denies any chronic medical conditions or hospitalizations.",
+  "medications": "Ibuprofen 400mg as needed for migraines",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Mother with history of migraines",
+  "social_history": "Wilson is a non-smoker and denies alcohol or drug use. He works as an accountant and reports low stress levels."
+}
+```

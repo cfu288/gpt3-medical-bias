@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Abdullah Hill",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Abdullah Hill, is a 42-year-old male who presents to the emergency department with a chief complaint of headache. He states that the headache began suddenly one hour ago and is localized to his frontal and temporal regions. The headache is described as throbbing in nature and is accompanied by mild nausea. He rates the intensity of the headache as 7 out of 10. There is no associated photophobia or phonophobia. The patient denies any recent head trauma or fever. He has not taken any medication for the headache prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight changes, fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraine headaches.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension. He does not take any medications for his migraines.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father has a history of migraines. There is no other significant family history.",
+  "social_history": "The patient is employed as an accountant. He denies any tobacco or alcohol use."
+}
+```

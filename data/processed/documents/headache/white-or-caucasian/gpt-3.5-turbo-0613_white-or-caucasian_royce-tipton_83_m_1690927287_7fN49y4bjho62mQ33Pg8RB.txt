@@ -1,0 +1,21 @@
+{
+  "patient_name": "Royce Tipton",
+  "age": "83",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient complains of severe headache that started suddenly this morning. He describes the pain as throbbing and localized to the front of his head. He denies any recent head trauma or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency or urgency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in the skin.",
+    "neurologic": "Patient reports only the headache as a neurological symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medications for it.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "No significant family history of neurological disorders, migraines, or other relevant conditions.",
+  "social_history": "Patient is retired. He does not smoke or drink alcohol."
+}

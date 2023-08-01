@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fritz Williams",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started suddenly about 2 hours ago and is located in the front of the head. The pain is described as throbbing and is rated 8/10 in severity. The patient denies any associated symptoms such as photophobia, phonophobia, nausea, vomiting, or changes in vision. The patient has taken acetaminophen with limited relief. No previous history of similar headaches. No history of trauma.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies numbness, weakness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

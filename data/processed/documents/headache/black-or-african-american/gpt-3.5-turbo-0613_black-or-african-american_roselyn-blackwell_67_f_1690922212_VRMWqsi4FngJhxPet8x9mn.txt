@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roselyn Blackwell",
+  "age": "67",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache that started suddenly a few hours ago. Patient reports that the pain is located on the right side of her head and describes it as a sharp, throbbing pain. Patient denies any associated symptoms such as nausea, vomiting, or visual changes. She has taken over-the-counter pain medication but has not experienced any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, and hematuria.",
+    "musculoskeletal": "Negative for joint pain and stiffness.",
+    "skin": "Negative for rash and skin lesions.",
+    "neurologic": "Positive for severe headache localized to the right side of the head."
+  },
+  "past_medical_history": "Patient has a history of hypertension and migraines.",
+  "medications": "Patient takes daily medication for hypertension (amlodipine 5mg) and as-needed medication for migraines (sumatriptan 50mg).",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Positive for hypertension in mother and siblings.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

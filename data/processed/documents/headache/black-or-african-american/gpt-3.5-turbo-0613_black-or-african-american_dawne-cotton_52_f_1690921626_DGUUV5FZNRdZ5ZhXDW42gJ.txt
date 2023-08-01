@@ -1,0 +1,27 @@
+{
+  "patient_name": "Dawne Cotton",
+  "age": "52",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient is a 52-year-old female who presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 2 hours ago and is described as a throbbing pain located on the left side of her head. The pain is associated with nausea and sensitivity to light. She denies any trauma or recent illness. She has tried over-the-counter pain relievers without relief. The headache has been progressively worsening since onset. She has no significant medical history and takes no medications.",
+
+  "review_of_symptoms": {
+    "constitutional":"Patient reports feeling weak and fatigued.",
+    "cardiovascular":"Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory":"Patient denies cough, shortness of breath, or wheezing.",
+    "gi":"Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu":"Patient denies urinary symptoms.",
+    "musculoskeletal":"Patient denies muscle or joint pain.",
+    "skin":"Patient denies rashes, lesions, or itching.",
+    "neurologic":"In addition to the headache, patient denies any weakness, numbness, tingling, or changes in vision."
+  },
+
+  "past_medical_history": "Patient has no significant past medical history.",
+
+  "medications": "Patient takes no medications.",
+
+  "past_surgical_history": "Patient has no history of surgery.",
+
+  "family_history": "Patient has no significant family history of medical conditions.",
+
+  "social_history": "Patient denies tobacco or alcohol use. She works as an office manager and is married with two children."
+}

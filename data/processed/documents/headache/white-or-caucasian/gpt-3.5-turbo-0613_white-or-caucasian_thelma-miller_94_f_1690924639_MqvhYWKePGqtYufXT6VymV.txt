@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Thelma Miller",
+  "age": "94",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Thelma Miller, is a 94-year-old female who presents to the emergency department with a chief complaint of headache. She reports that the headache began this morning and is located on the right side of her head. She rates the pain as a 7 out of 10 and describes it as a throbbing sensation. She denies any associated symptoms such as nausea, vomiting, or visual changes. The patient states that she has a history of migraines and has experienced similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and migraines.",
+  "medications": "The patient takes daily medications for hypertension and uses acetaminophen as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension, migraines, and stroke.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}
+```

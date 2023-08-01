@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rand Noyes",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Rand Noyes, a 64-year-old male, presents to the emergency department with a chief complaint of headache. He states that the headache began suddenly approximately 2 hours ago and is located on the right side of his head. The pain is described as throbbing and moderate in intensity. He denies any associated symptoms such as dizziness, nausea, or visual changes. He also denies any recent head trauma or significant stressors. His medical history is significant for hypertension, which is well-controlled with medication. He denies any other chronic medical conditions. On examination, the patient appears to be in distress due to the headache, but is otherwise in no acute distress. Vital signs are within normal limits, including blood pressure. Neurological examination is grossly normal with no focal deficits. Given the patient's age, sudden onset, and location of the headache, further evaluation is warranted to rule out any serious underlying causes such as subarachnoid hemorrhage or temporal arteritis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, which is currently well-controlled with medication. He has no other known chronic medical conditions.",
+  "medications": "The patient is taking antihypertensive medication (lisinopril 10 mg daily) and reports good compliance with the prescribed regimen.",
+  "past_surgical_history": "The patient reports no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension in his parents and siblings. There is no history of any neurological disorders or other significant medical conditions in the family.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

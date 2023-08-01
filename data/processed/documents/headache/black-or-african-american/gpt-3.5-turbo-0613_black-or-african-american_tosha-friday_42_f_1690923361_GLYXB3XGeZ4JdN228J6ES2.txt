@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tosha Friday",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient Tosha Friday, a 42-year-old female, presents to the emergency department with complaints of a severe headache. She states the headache started suddenly about 2 hours ago and is located in the front of her head. The pain is described as throbbing and is worsened with movement. She denies any associated symptoms such as nausea, vomiting, visual changes, or neck stiffness. The patient has tried taking over-the-counter pain medications but has not found relief. She has no history of migraines or similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, sweats, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in moles.",
+    "neurologic": "Patient reports only the severe headache as described in the history of present illness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it. No other significant medical history reported.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient reports that her mother has a history of migraines.",
+  "social_history": "Patient works as an accountant and denies tobacco, alcohol, or illicit drug use."
+}

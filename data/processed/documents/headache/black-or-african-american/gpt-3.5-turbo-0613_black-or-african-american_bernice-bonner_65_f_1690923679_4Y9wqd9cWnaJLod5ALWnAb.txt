@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Bernice Bonner"
+    },
+    "age": {
+      "type": "string",
+      "value": "65"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Headache"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Bernice Bonner, a 65-year-old female, presents to the emergency department with a complaint of headache. The headache began suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of her head. She rates the intensity of the pain as 8 on a scale of 1 to 10. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She has no history of similar headaches in the past. She tried taking over-the-counter pain relievers but they did not provide significant relief. The headache is impairing her ability to perform her daily activities. There is no history of head trauma or recent illness. There is no known trigger for the headache. The patient has not experienced any recent changes in vision or neurological symptoms."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills, or weight loss"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations, or shortness of breath"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough, wheezing, or shortness of breath"
+        },
+        "gi": {
+          "type": "string",
+          "value": "No nausea, vomiting, or abdominal pain"
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria, frequency, or urgency"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain, muscle pain, or swelling"
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rashes, lesions, or itching"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "In addition to the headache described above, the patient denies any changes in vision, weakness, numbness, tingling, or difficulty with speech or coordination"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril for hypertension and atorvastatin for hyperlipidemia."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Lisinopril, atorvastatin"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of any surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient's mother had a history of migraines."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is retired and lives alone. She denies smoking, alcohol use, or illicit drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

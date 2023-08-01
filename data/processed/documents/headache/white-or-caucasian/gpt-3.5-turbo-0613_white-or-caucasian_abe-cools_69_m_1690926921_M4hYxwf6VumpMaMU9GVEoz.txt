@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abe Cools",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of severe headache. Patient states that the headache started suddenly about 2 hours ago and is the worst headache he has ever experienced. He describes the pain as throbbing and located in the front of his head. Patient denies any associated visual changes, nausea, vomiting, or neck stiffness. He also denies any recent trauma or head injury. Upon further questioning, patient admits to having a history of migraines, but states that this headache is different and more severe than his usual migraines.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or difficulty walking.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Besides the headache, patient denies any changes in vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of migraines but otherwise no significant past medical history.",
+  "medications": "Patient takes over-the-counter medication such as acetaminophen for migraines.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient's family history is non-contributory.",
+  "social_history": "Patient is a retired accountant and lives alone. He denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barbra Long",
+  "age": "65",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Barbra Long, a 65-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started approximately 2 hours ago and is located in the frontal region. The pain is described as dull and constant, with a severity of 6 out of 10. She denies any associated symptoms such as vision changes, dizziness, nausea, or vomiting. She states that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes daily medications for both conditions, including lisinopril and atorvastatin. Her blood pressure and cholesterol levels have been well controlled on these medications. She reports no previous episodes of similar headaches.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's mother had a history of migraine headaches.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is retired from her job as a librarian."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ester Jackson",
+  "age": "58",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is severe in intensity. She describes the pain as throbbing and located on the right side of her head. She denies any aura, vomiting, or photophobia. The headache is not relieved with over-the-counter pain medications. She has never experienced this type of headache before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, sweats, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or lesions.",
+    "neurologic": "Patient reports no changes in sensation, weakness, or speech difficulties."
+  },
+  "past_medical_history": "Patient is known to have hypertension and takes hydrochlorothiazide for blood pressure control. She reports no other significant medical history.",
+  "medications": "Hydrochlorothiazide 25mg daily",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient is retired. She denies tobacco use, alcohol use, or illicit drug use."
+}
+```

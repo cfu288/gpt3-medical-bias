@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Pendergraft",
+  "age": "29",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Charlie Pendergraft, a 29-year-old female, presents to the emergency department complaining of a severe headache. The headache started suddenly about 2 hours ago and is described as throbbing and located on the right side of the head. The patient rates the pain as an 8 out of 10. She denies any associated symptoms such as nausea, vomiting, or changes in vision. She has tried taking over-the-counter pain relievers but has not found any relief. The patient has no significant past medical history and does not take any medications. She denies any recent head trauma or similar headaches in the past. She has no family history of migraine or other neurological conditions. The patient states that she has been under increased stress lately due to work and personal issues. She denies any other recent illnesses or symptoms. Upon further questioning, the patient reports no current constitutional symptoms such as fever, chills, or weight loss. She denies any respiratory, gastrointestinal, genitourinary, musculoskeletal, or skin symptoms. There are no neurological symptoms apart from the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habit.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "Apart from the headache, no other neurological symptoms such as changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No family history of migraine or neurological conditions.",
+  "social_history": "The patient denies tobacco or alcohol use. She reports increased stress in her personal and work life recently."
+}

@@ -1,0 +1,20 @@
+{ "patient_name": "Franklyn Haugabook",
+  "age": "27",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presented to the emergency department with a complaint of severe headache. He describes the headache as a pounding sensation in his temples, which started suddenly this morning. The pain is described as a 9/10 on the pain scale and is associated with sensitivity to light and sound. The patient denies any recent trauma or any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rashes, sores, or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of occasional migraines, for which he takes over-the-counter pain relievers as needed.",
+  "medications": "The patient takes ibuprofen occasionally for migraines.",
+  "past_surgical_history": "",
+  "family_history": "The patient denies any significant family history of headaches or neurological conditions.",
+  "social_history": "The patient does not smoke and denies alcohol or drug use."
+}

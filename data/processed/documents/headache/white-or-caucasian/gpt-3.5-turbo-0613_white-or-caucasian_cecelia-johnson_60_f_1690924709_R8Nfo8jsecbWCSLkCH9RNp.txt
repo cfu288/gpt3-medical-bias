@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecelia Johnson",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Cecelia Johnson, a 60-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 2 hours ago and it is throbbing in nature. She rates the intensity of the headache as 8 out of 10 on a pain scale. She denies any associated symptoms such as nausea, vomiting, or changes in vision. On further questioning, the patient states that she has never experienced a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary urgency, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rashes, sores, or itching.",
+    "neurologic": "Patient reports a throbbing headache that started suddenly 2 hours ago, but denies any associated neurologic symptoms such as changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking medications for hypertension and hyperlipidemia. She takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes in her parents.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol, or illicit drug use."
+}

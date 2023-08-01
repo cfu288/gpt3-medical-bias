@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tyrone Washington",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started suddenly and is described as a sharp pain in the temples. It is severe in intensity and has been persistent for the past 4 hours. The patient denies any associated symptoms such as nausea, vomiting, or visual changes. He has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports no other neurologic symptoms such as numbness, tingling, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use."
+}

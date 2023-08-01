@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheldon Balde",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Sheldon Balde, a 76-year-old male, presents to the emergency department with a chief complaint of headache. He reports that he has been experiencing severe, throbbing headaches for the past two days. The pain is localized to the forehead and temples and is associated with photophobia and phonophobia. The patient denies any recent head trauma or changes in vision. He has tried taking over-the-counter pain relievers, but they have provided only minimal relief. The patient states that the severity of the headaches has been progressively worsening.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, lesions, or pruritus.",
+    "neurologic": "Aside from the headache, the patient denies any other neurological symptoms such as weakness, numbness, or changes in coordination or balance."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for migraine headaches in his mother and sister.",
+  "social_history": "The patient is a retired engineer. He denies tobacco use, alcohol use, or illicit drug use."
+}
+```

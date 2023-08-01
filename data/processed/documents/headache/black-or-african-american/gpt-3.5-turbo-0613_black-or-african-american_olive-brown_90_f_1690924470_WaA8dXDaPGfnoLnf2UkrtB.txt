@@ -1,0 +1,22 @@
+{
+  "patient_name": "Olive Brown",
+  "age": "90",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Olive Brown, a 90-year-old female, presents to the emergency department with a chief complaint of headache. According to the patient, she started experiencing a throbbing headache on the right side of her head approximately 2 hours ago. She rates the intensity of the pain as 8 out of 10 and describes it as a pounding sensation. The patient denies any associated symptoms such as visual changes, nausea, or vomiting. She also mentions that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies musculoskeletal pain or joint stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "Aside from the headache, the patient denies any focal neurological deficits, numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Acetaminophen 650mg as needed for pain.",
+  "past_surgical_history": "The patient had a right hip replacement surgery 5 years ago.",
+  "family_history": "The patient's family history is significant for hypertension in her parents and siblings.",
+  "social_history": "The patient lives alone and does not smoke or consume alcohol."
+}

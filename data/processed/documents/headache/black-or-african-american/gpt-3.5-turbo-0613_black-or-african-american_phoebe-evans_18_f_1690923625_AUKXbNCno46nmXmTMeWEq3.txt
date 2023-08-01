@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Phoebe Evans",
+  "age": "18",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Phoebe Evans, an 18-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started yesterday and has been progressively getting worse. The pain is located in the frontal region and is described as a pounding sensation. The severity of the headache is moderate and it is constant throughout the day. The pain is not aggravated by any specific activities. She denies any associated symptoms such as nausea, vomiting, or vision changes. There is no history of trauma or recent illnesses. She has not taken any over-the-counter medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies any other neurologic symptoms such as dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of neurologic disorders or migraines.",
+  "social_history": "The patient is currently a high school student and denies any tobacco, alcohol, or drug use."
+}
+```

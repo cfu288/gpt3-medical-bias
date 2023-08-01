@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jarred Wright",
+  "age": "36",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Jarred Wright, a 36-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly about two hours ago and is described as a severe, throbbing pain localized to the right temple. The patient reports that he has never experienced a headache of this severity before. He denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He also denies any recent head trauma or history of migraines. The headache is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, changes in vision, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He reports that he is generally healthy and does not take any medications.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of neurological disorders or migraines.",
+  "social_history": "The patient denies tobacco, alcohol, or drug use. He works as an office manager and is married with two children."
+}
+```

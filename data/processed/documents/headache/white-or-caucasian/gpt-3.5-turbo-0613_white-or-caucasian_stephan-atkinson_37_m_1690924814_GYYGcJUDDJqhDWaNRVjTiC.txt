@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stephan Atkinson",
+  "age": "37",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of headache. He reports that the headache started suddenly and is severe in intensity. He describes the headache as a pounding sensation on both sides of his head that worsens with movement. Patient denies any associated symptoms such as nausea, vomiting, or changes in vision. He states that the headache has been ongoing for the past 3 hours and has not responded to over-the-counter pain relievers.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or limited mobility.",
+    "skin": "Patient denies any rash, itching, or changes in skin color or texture.",
+    "neurologic": "Patient reports only the headache as the main complaint. Denies any focal neurological symptoms such as weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of migraines, which are usually triggered by stress and improved with rest and over-the-counter pain relievers. No history of seizures or head trauma.",
+  "medications": "Patient does not take any medications regularly. He took over-the-counter pain relievers for the current headache but had no relief.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "Patient works as a software engineer and denies any tobacco, alcohol, or drug use."
+}

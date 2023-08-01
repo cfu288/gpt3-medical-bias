@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sierra Mitchell",
+  "age": "22",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of headache. She states that the headache started yesterday and has been progressively worsening. The pain is located in the front of her head and is described as a constant dull ache. She denies any visual changes, nausea, or vomiting. She also denies any recent head trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Positive for headache as described above. Negative for visual changes, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of migraines, which are typically managed with over-the-counter medications.",
+  "medications": "Patient takes ibuprofen as needed for her migraines.",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "No significant family history of migraines or other headache disorders.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. She is a college student and lives on campus."
+}

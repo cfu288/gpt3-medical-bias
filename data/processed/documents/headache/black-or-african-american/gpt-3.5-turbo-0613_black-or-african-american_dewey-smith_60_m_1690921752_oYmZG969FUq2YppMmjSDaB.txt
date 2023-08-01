@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dewey Smith",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Dewey Smith, a 60-year-old male, presents to the emergency department with a chief complaint of headache. The patient states that the headache started suddenly this morning and is the worst headache he has ever experienced. He rates the pain as a 10/10 and describes it as a throbbing sensation on the left side of his head. He reports associated symptoms of nausea and photophobia. The patient denies any recent head trauma or fever. He has taken over-the-counter pain medication without relief. No other significant medical history or recent illnesses are reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient reports headache and associated symptoms as described above."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had a history of stroke.",
+  "social_history": "Patient is a non-smoker and denies alcohol or recreational drug use."
+}
+```

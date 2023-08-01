@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eliza Smith",
+  "age": "19",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Eliza Smith, is a 19-year-old female who presents to the emergency department with a chief complaint of headache. She states that the headache started two days ago and has been gradually worsening. She describes it as a throbbing pain that is located on the left side of her head and is associated with nausea and sensitivity to light. She denies any visual changes, fever, or neck stiffness. The headache is not relieved with over-the-counter pain medications. There is no history of head trauma or recent illness. She reports a past medical history of occasional migraines that have been managed with rest and hydration.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "Headache as described above"
+  },
+  "past_medical_history": "Occasional migraines",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of headaches or migraines",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

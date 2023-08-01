@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kermit Henry",
+  "age": "90",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. The headache started suddenly about 2 hours ago and is accompanied by nausea. The patient denies any recent trauma or fever. He also denies any visual changes or weakness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Aside from the headache, patient denies any changes in vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril, simvastatin, and ibuprofen as needed for joint pain.",
+  "past_surgical_history": "Patient had a knee replacement surgery 5 years ago.",
+  "family_history": "Patient reports a family history of hypertension and heart disease.",
+  "social_history": "Patient is a retired accountant. He does not smoke or drink alcohol."
+}

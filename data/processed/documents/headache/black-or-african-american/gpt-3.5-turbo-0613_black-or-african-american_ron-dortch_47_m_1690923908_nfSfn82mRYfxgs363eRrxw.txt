@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ron Dortch",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Ron Dortch presented to the emergency department with a complaint of severe headache. He reported that the headache started suddenly this morning and has been progressively worsening. The pain is located on the right side of his head and is described as throbbing. He rates the pain as 8/10 on a numeric rating scale. He denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. He states that this is the first time he has experienced a headache of this severity and he is concerned about his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "The patient reported a history of hypertension, which is well-controlled with medication. He denies any history of migraines or other headaches.",
+  "medications": "The patient's current medications include hydrochlorothiazide for hypertension and ibuprofen as needed for pain.",
+  "past_surgical_history": "The patient reported no prior surgeries.",
+  "family_history": "The patient's mother has a history of hypertension and his father has a history of migraines.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco, alcohol, or illicit drug use."
+}
+```

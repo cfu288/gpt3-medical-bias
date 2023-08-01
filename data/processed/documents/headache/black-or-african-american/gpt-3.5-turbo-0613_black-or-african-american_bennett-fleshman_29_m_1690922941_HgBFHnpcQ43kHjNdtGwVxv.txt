@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bennett Fleshman",
+  "age": "29",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Bennett Fleshman, is a 29-year-old male who presents to the emergency department with a chief complaint of headache. He states that his headache started suddenly and is the worst headache he has ever experienced. The pain is located in his temples and radiates to the back of his head. He rates the severity of the pain as 8 out of 10 and describes it as throbbing. He also reports nausea but denies vomiting or photophobia. The headache has been ongoing for the past 2 hours and is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rash or changes in the skin.",
+    "neurologic": "Aside from the headache, no other neurologic symptoms such as dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications and denies any over-the-counter pain medication use.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has no significant family history of neurologic diseases or headaches.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is currently employed as an office worker and denies any recent travel or sick contacts."
+}
+```

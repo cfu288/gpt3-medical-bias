@@ -1,0 +1,30 @@
+```json
+{
+  "patient_name": "Lavon Rollins",
+  "age": "34",
+  "chief_complaint": "Headache",
+  
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache started suddenly about 4 hours ago and is described as severe and throbbing, primarily located in the right temple. The pain is rated 9/10 on the pain scale. The patient states that she has never experienced a headache like this before. She denies any associated symptoms such as nausea, vomiting, or visual changes. She took over-the-counter ibuprofen but did not experience any relief.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "Other than the headache, the patient denies any neurological symptoms such as numbness, weakness, or changes in vision."
+  },
+  
+  "past_medical_history": "The patient has no significant past medical history.",
+  
+  "medications": "The patient takes no regular medications.",
+  
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  
+  "family_history": "The patient has no significant family history of medical conditions.",
+  
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Liana Roe",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Liana Roe, a 42-year-old female, presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain located on the right side of her head, which started abruptly this morning and has been persistent since. She rates the severity of the pain as 8 out of 10. She denies any visual changes, weakness, numbness, or speech difficulties. She also denies any associated symptoms such as nausea, vomiting, or neck stiffness. The patient has tried over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No numbness, weakness, or changes in coordination"
+  },
+  "past_medical_history": "The patient has a history of migraines, for which she takes sumatriptan as needed. She denies any significant medical history.",
+  "medications": "Sumatriptan as needed for migraines",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient's family history is non-contributory, with no known history of migraines or other neurological disorders.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is employed as a teacher and lives with her spouse and two children."
+}
+```

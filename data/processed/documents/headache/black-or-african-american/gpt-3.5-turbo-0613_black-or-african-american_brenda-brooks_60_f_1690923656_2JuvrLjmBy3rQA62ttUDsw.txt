@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brenda Brooks",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Brenda Brooks, is a 60-year-old female presenting to the emergency department with a chief complaint of headache. The headache started approximately 2 hours ago and is described as a severe throbbing pain located in the frontal area. The patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. She states that she has never experienced a headache of this severity before. The pain is not relieved by over-the-counter pain medications. On examination, the patient appears to be in distress and is holding her head. Vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 14 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "Headache is the only neurologic symptom"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes daily medication for blood pressure control. She also has a history of migraines, typically characterized by moderate throbbing pain and associated with photophobia and phonophobia. She has not had a migraine in several months.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "There is no family history of migraines or other significant neurological conditions.",
+  "social_history": "The patient does not smoke and denies alcohol or drug use."
+}

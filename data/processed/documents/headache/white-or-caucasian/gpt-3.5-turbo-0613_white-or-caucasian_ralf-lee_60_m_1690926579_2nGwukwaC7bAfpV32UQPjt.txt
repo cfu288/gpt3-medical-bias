@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ralf Lee",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Ralf Lee, a 60-year-old male, presents to the emergency department with a chief complaint of headache. The headache started approximately 2 hours ago and is described as a throbbing pain located on the right side of the head. The patient rates the pain as 8 out of 10 and reports that it is worsening. He denies any associated symptoms such as nausea, vomiting, or visual changes. Upon further questioning, the patient reports that he has a history of migraines, but this headache feels different from his typical migraines. He also mentions that he recently started taking a new medication for hypertension. No significant head trauma or recent illnesses are reported. The patient denies any fever, chills, sweats, neck stiffness, or changes in consciousness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in moles.",
+    "neurologic": "In addition to the chief complaint of headache, the patient denies any focal weakness, numbness, tingling, dizziness, or changes in speech."
+  },
+  "past_medical_history": "The patient has a history of migraines, hypertension, and hyperlipidemia. He is currently taking amlodipine for hypertension and atorvastatin for hyperlipidemia.",
+  "medications": "Amlodipine 10 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is unremarkable. There is no family history of migraines or other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is retired and lives with his wife. He has no travel history or recent exposure to sick contacts."
+}

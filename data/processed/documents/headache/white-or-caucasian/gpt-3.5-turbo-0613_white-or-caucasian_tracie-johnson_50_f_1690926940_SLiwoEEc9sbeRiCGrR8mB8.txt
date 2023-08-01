@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tracie Johnson",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Tracie Johnson, a 50-year-old female, presents to the Emergency Department with a chief complaint of headache. The patient reports that the headache started this morning and is a throbbing pain on the right side of her head. She rates the pain as a 7 out of 10 and states that it is accompanied by nausea and sensitivity to light. She has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Reports occasional heartburn but denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness",
+    "skin": "Denies rash, itching, or changes in moles",
+    "neurologic": "Reports headache as described in history of present illness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on Lisinopril 10mg daily. She reports no other significant past medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in her mother",
+  "social_history": "The patient denies smoking or alcohol use. She works as an office manager and denies any recent travel or exposure to sick contacts."
+}

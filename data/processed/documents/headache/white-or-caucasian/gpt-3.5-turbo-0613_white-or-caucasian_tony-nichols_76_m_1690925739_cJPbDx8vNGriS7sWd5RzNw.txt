@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tony Nichols",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Tony Nichols, a 76-year-old male, presented to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly about 2 hours ago and is located primarily in the frontal region. He describes the pain as throbbing and rates it as a 7 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, or changes in vision. The patient has never experienced a headache of this intensity or duration before, and it is causing him significant distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or discomfort.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and diabetes mellitus. He is currently taking lisinopril 10 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg twice daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily, metformin 1000 mg twice daily.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes mellitus in his parents.",
+  "social_history": "The patient is a retired teacher. He denies tobacco use, but drinks alcohol socially, consuming approximately 2 drinks per week."
+}
+```

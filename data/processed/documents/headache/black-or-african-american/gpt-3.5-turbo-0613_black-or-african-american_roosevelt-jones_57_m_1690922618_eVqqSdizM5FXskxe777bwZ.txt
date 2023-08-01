@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roosevelt Jones",
+  "age": "57",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with a complaint of severe headache. The headache started suddenly this morning and is described as a pounding sensation on the right side of the head. It is associated with nausea and sensitivity to light. He denies any trauma to the head or recent illness. The pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Positive for severe headache."
+  },
+  "past_medical_history": "Mr. Jones has a history of hypertension and is on regular medication for this. He denies any history of migraines or similar headaches in the past.",
+  "medications": "Mr. Jones takes lisinopril 20mg daily for his hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Negative for any significant family history of neurological disorders or headaches.",
+  "social_history": "Mr. Jones is a retired school teacher. He has never smoked and denies alcohol or recreational drug use."
+}

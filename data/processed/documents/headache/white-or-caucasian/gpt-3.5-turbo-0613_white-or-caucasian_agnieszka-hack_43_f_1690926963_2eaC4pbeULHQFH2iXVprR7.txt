@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Agnieszka Hack",
+  "age": "43",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. Patient reports that the headache started suddenly this morning and is described as a severe throbbing pain primarily on the right side of the head. Patient denies any significant triggers or associated symptoms such as nausea, vomiting, or visual disturbances. Patient has tried over-the-counter pain medications without relief. No previous history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Positive for severe headache."
+  },
+  "past_medical_history": "Patient has a history of migraines diagnosed five years ago. No other significant past medical history.",
+  "medications": "Patient takes ibuprofen as needed for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Negative for family history of migraines or other neurological conditions.",
+  "social_history": "Patient works as an office manager. Denies tobacco or alcohol use."
+}
+```

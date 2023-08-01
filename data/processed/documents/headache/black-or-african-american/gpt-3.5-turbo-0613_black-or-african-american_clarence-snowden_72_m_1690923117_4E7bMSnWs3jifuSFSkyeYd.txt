@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clarence Snowden",
+  "age": "72",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Clarence Snowden, a 72-year-old male, presents to the emergency department with a chief complaint of headache. The headache started abruptly about 3 hours ago and is described as a severe and throbbing pain in the frontal region of his head. Mr. Snowden reports that he has never experienced a headache of this intensity before. He denies any associated symptoms such as nausea, vomiting, visual changes, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain, stiffness, or swelling",
+    "skin": "No rashes, itching, or skin lesions",
+    "neurologic": "Mentioned in the history of present illness"
+  },
+  "past_medical_history": "Hypertension, managed with amlodipine 10mg daily",
+  "medications": "Amlodipine 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Noncontributory",
+  "social_history": "Non-smoker, social alcohol use"
+}
+```

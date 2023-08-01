@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deidra Bridges",
+  "age": "57",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. Patient states that the headache started suddenly about 4 hours ago while she was at home. She describes the pain as a throbbing sensation located primarily in the frontal area of her head. The headache is accompanied by nausea, but she denies any vomiting or neurological symptoms. She has tried taking over-the-counter pain medication without relief. Patient reports no prior history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No palpitations or chest pain",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Nausea without vomiting or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No numbness, weakness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well-controlled with medication. She denies any other significant medical conditions.",
+  "medications": "Patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ezra Addison",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ezra Addison, a 50-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 4 hours ago and is described as a severe throbbing pain on the right side of her head. She rates the pain as a 9 out of 10 and states that it is accompanied by nausea and sensitivity to light and sound. She denies any recent head trauma or changes in her vision. She has taken ibuprofen at home with no relief. Upon assessment, the patient appears uncomfortable and is in mild distress. Her vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient reports no rashes, itching, or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines, which are typically triggered by stress and hormonal changes. She experiences them once a month and has been prescribed sumatriptan for acute attacks. Her last migraine occurred 3 weeks ago.",
+  "medications": "Sumatriptan 50 mg PRN for migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is married, works as a teacher, and denies tobacco, alcohol, or illicit drug use."
+}

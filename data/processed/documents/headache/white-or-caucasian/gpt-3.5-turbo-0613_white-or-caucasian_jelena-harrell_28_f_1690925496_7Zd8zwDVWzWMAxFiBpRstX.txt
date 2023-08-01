@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jelena Harrell",
+  "age": "28",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of headache. The headache started approximately 6 hours ago and is described as a throbbing pain on the right side of the forehead. The pain is moderate in intensity and has not been relieved with over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, or changes in vision. There is no history of head trauma or recent illness. Based on the history provided, further evaluation and treatment are warranted to determine the cause of the headache and provide appropriate management.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Negative for abdominal pain or changes in bowel habits.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Positive for headache as described in the history of present illness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies current use of any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of neurological disorders or migraine headaches.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She works as an accountant and denies any recent stressors."
+}
+```

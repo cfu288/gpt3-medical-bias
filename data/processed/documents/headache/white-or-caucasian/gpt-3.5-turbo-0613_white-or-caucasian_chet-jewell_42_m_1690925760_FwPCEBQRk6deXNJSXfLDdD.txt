@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chet Jewell",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jewell is a 42-year-old male who presents to the emergency department with a chief complaint of headache. He describes the headache as a throbbing pain on the right side of his head that has been present for the past 24 hours. The pain is moderate in intensity and has not been relieved with over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, or visual changes. He reports that his headache is interfering with his daily activities and is causing him significant distress.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Positive for headache as chief complaint. Negative for dizziness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient reports a past medical history of migraines, which he has been experiencing for the past 10 years. He denies any other chronic medical conditions.",
+  "medications": "The patient takes over-the-counter pain medications for the management of his migraines. He does not take any prescription medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of migraines. His mother also suffers from migraines.",
+  "social_history": "The patient is employed as a software engineer. He denies tobacco or illicit drug use. He consumes alcohol occasionally on social occasions."
+}

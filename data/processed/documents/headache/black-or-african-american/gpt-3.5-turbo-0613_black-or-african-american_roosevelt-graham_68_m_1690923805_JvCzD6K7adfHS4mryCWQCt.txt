@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Roosevelt Graham",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache that started suddenly this morning. He describes it as a throbbing pain on the right side of his head. He rates the intensity of the pain as 8 out of 10. The headache has not improved with over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Negative for joint or muscle pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Positive for headache as chief complaint. Negative for changes in vision, weakness, or numbness.",
+  },
+  "past_medical_history": "Patient is known to have hypertension and takes amlodipine for blood pressure control. He has a history of migraine headaches, for which he takes sumatriptan as needed.",
+  "medications": "Amlodipine 5mg daily, Sumatriptan 100mg as needed for migraines",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Patient's father had a history of hypertension.",
+  "social_history": "Patient is retired and lives alone. He denies any tobacco, alcohol, or illicit drug use."
+}
+```

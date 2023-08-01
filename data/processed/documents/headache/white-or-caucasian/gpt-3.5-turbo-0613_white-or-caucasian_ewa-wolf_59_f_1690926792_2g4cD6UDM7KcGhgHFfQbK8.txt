@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ewa Wolf",
+  "age": "59",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. Headache began approximately 2 hours ago and is described as a throbbing pain on the right side of the head. Patient states that the headache is severe and has not responded to over-the-counter pain medications. Patient denies any associated symptoms such as nausea or vomiting. No recent trauma or head injury reported. No history of migraines.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes, lesions, or itching.",
+    "neurologic": "Patient reports only the headache as a neurological symptom. No changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for blood pressure control. No other significant past medical history reported.",
+  "medications": "The patient takes Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "There is no significant family history of neurological disorders, migraines, or other relevant conditions.",
+  "social_history": "Patient denies tobacco or alcohol use. Lives with spouse and two adult children."
+}

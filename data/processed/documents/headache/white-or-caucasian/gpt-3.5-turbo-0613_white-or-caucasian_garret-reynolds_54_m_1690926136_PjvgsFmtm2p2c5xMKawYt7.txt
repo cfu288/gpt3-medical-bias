@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Garret Reynolds",
+  "age": "54",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Reynolds is a 54-year-old male who presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning while he was at work. He describes the headache as a sharp, throbbing pain located in the frontal area of his head. He rates the severity of the pain as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or photophobia. The headache has not improved with rest and over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Positive for headache as chief complaint. Negative for weakness, numbness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Reynolds has a history of hypertension and migraines.",
+  "medications": "He takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Unknown",
+  "social_history": "Mr. Reynolds is a non-smoker and denies alcohol or illicit drug use."
+}
+```

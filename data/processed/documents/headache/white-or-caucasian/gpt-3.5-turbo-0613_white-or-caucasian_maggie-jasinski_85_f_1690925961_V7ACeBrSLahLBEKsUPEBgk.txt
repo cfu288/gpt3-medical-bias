@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maggie Jasinski",
+  "age": "85",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She reports that the headache started abruptly this morning and is severe in intensity. The pain is located in the frontal region and is described as throbbing. The headache is accompanied by photophobia and phonophobia. The patient denies any history of similar headaches in the past. There are no associated symptoms such as nausea, vomiting, or neurological deficits. Patient denies any recent head trauma. No known triggers for the headache. Patient denies any recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological deficits, changes in vision, or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's family history is non-contributory.",
+  "social_history": "Patient lives alone and is independent with activities of daily living. Patient does not smoke or consume alcohol."
+}
+```

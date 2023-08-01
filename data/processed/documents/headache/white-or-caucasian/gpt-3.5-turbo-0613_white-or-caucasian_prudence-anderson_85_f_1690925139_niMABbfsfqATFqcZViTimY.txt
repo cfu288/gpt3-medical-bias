@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Prudence Anderson",
+  "age": "85",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Prudence Anderson, an 85-year-old female, presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as throbbing and severe. It is localized to the frontal region and is not associated with any specific triggers. The patient has not experienced any recent head trauma or falls.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the color or texture of the skin.",
+    "neurologic": "In addition to the headache, the patient denies any numbness, weakness, changes in vision, or alterations in speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, osteoarthritis, and hyperlipidemia. She reports taking medications for these conditions, including lisinopril, acetaminophen, and atorvastatin.",
+  "medications": "Lisinopril, acetaminophen, atorvastatin",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "The patient is retired and lives alone. She quit smoking 20 years ago and denies any alcohol or illicit drug use."
+}
+```

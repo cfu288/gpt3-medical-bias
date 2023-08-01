@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vera Harris",
+  "age": "101",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of a severe headache. She reports that the headache started suddenly about 3 hours ago and has been constant since then. Patient denies any associated symptoms such as nausea, vomiting, or visual changes. She states that she has never experienced a headache like this before and is concerned about the severity of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient reports only the severe headache as the primary symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril for hypertension and acetaminophen for arthritis pain.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's mother had hypertension and her father had diabetes.",
+  "social_history": "Patient is retired and lives alone. She does not smoke or drink alcohol."
+}

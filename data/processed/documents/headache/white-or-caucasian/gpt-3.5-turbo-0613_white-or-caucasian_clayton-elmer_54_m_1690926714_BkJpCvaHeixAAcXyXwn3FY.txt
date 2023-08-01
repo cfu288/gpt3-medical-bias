@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clayton Elmer",
+  "age": "54",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Elmer presents to the emergency department with a chief complaint of headache. He states that the headache started suddenly about two hours ago and is described as a throbbing pain on the right side of his head. The headache is severe and is associated with photophobia and phonophobia. He denies any recent trauma or changes in headache pattern. He has tried over-the-counter pain medications without relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers or chills.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "Headache as described above. No dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Mr. Elmer has a history of hypertension and migraine headaches. He takes losartan for blood pressure control and sumatriptan as needed for migraines.",
+  "medications": "Losartan 100 mg daily, sumatriptan 100 mg as needed for migraines.",
+  "past_surgical_history": "Appendectomy in 1998.",
+  "family_history": "Father had a history of migraines. Mother has hypertension.",
+  "social_history": "Mr. Elmer is married, lives with his wife, and works as an accountant. He denies tobacco, alcohol, or illicit drug use."
+}
+```

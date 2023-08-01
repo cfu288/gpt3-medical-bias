@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cody Faller",
+  "age": "48",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Faller presents to the emergency department with complaints of a severe headache that has been ongoing for the past 24 hours. He describes the pain as a pounding sensation on the right side of his head, accompanied by nausea and sensitivity to light. The headache started suddenly and has been gradually getting worse. The pain is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary frequency, urgency, or burning",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Headache with associated symptoms as described"
+  },
+  "past_medical_history": "Mr. Faller has a history of migraines, for which he takes sumatriptan as needed. He also has a history of hypertension, which is controlled with lisinopril.",
+  "medications": "Sumatriptan 50mg PRN for migraines, Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of migraines or neurological disorders",
+  "social_history": "Mr. Faller is a non-smoker and denies alcohol or illicit drug use. He works as a software engineer and reports minimal stress in his daily life."
+}

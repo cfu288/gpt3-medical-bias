@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Theron Wiggins",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Theron Wiggins, a 39-year-old male, presents to the emergency department with complaints of a severe headache. The headache came on suddenly and has persisted for the past 2 hours. Theron describes the pain as a throbbing sensation on both sides of his head, with a moderate intensity. He rates his pain as an 8 out of 10 on the pain scale. He states that the headache is accompanied by nausea and sensitivity to light. He denies any recent head trauma or loss of consciousness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, sweating, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, numbness or weakness in the extremities, or difficulty speaking."
+  },
+  "past_medical_history": "Theron has a past medical history of migraine headaches, for which he takes over-the-counter medications such as ibuprofen and acetaminophen. He reports having frequent headaches, usually 1-2 episodes per month, but this headache is different from his usual migraines as it is more severe and has lasted longer than usual.",
+  "medications": "Ibuprofen 400mg PRN for headache, taken last night. No other prescription or over-the-counter medications.",
+  "past_surgical_history": "Negative for any past surgical interventions.",
+  "family_history": "Negative for any significant family history of migraines or other neurological conditions.",
+  "social_history": "Theron is a non-smoker and denies any alcohol or drug use."
+}
+```

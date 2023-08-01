@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tari Gates",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started this morning. Patient describes the pain as a throbbing sensation on both sides of the head. Pain is worsened with activity and bright lights. Patient denies any associated symptoms such as nausea, vomiting, or changes in vision. No previous episodes of similar headaches. No recent head trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or burning sensation.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient reports headache as the only neurological symptom experienced."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is well controlled with medication.",
+  "medications": "Patient takes amlodipine 5mg once daily for hypertension.",
+  "past_surgical_history": "None.",
+  "family_history": "No significant family history of neurological disorders or migraines.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Works as an accountant with moderate stress levels."
+}
+```

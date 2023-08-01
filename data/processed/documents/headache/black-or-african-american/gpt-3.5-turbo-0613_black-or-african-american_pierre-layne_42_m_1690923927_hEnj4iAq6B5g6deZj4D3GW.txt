@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pierre Layne",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Pierre Layne, a 42-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the left side of his forehead. He rates the pain as a 7 out of 10. He denies any associated nausea, vomiting, sensitivity to light or sound, or visual changes. He has tried over-the-counter pain medications without relief. The pain is constant and has not improved or worsened since it started.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, numbness or weakness, changes in vision, or difficulty speaking."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which have been diagnosed by his primary care physician. He experiences migraines approximately once per month. He takes over-the-counter pain medications when he has migraines, which usually help relieve the pain.",
+  "medications": "The patient takes over-the-counter pain medications for his migraines as needed. He does not take any other medications regularly.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is married and works as a software engineer. He denies any tobacco or alcohol use."
+}

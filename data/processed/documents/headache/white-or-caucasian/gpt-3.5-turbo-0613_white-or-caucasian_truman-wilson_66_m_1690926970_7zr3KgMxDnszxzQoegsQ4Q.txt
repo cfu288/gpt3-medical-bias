@@ -1,0 +1,21 @@
+{
+  "patient_name": "Truman Wilson",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Truman Wilson is a 66-year-old male presenting to the emergency department with a chief complaint of headache. The headache started suddenly approximately 2 hours ago and is described as a severe, throbbing pain on the right side of his head. He rates the pain as 8 out of 10. He reports that the headache is accompanied by nausea and has not responded to over-the-counter pain medications. He denies any recent head trauma or fever. He has a past medical history of hypertension and takes medications for it. Please see the review of systems and past medical history sections for further details.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. He denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient reports a severe headache with associated nausea. No other neurologic symptoms such as weakness, numbness, or changes in vision are present."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes medication. He has no other significant medical history.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient denies any prior surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and denies any tobacco or alcohol use."
+}

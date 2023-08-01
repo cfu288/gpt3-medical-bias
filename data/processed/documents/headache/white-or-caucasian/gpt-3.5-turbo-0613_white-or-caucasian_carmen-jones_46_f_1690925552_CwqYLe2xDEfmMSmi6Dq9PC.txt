@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carmen Jones",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Carmen Jones, a 46-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 2 hours ago and is located in the frontal region. She describes the pain as sharp and throbbing, with a severity of 7 out of 10. She also reports associated symptoms of light sensitivity and nausea. The headache has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient denies shortness of breath, cough, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a past medical history of migraine headaches and hypertension. She takes daily medications for hypertension.",
+  "medications": "Patient takes lisinopril 10 mg once daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

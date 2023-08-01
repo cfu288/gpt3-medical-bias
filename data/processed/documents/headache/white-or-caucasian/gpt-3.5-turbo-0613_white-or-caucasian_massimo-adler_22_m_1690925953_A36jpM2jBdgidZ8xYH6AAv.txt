@@ -1,0 +1,21 @@
+{
+  "patient_name": "Massimo Adler",
+  "age": "22",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Massimo Adler, a 22-year-old male, presented to the emergency department with complaints of a severe headache. He reports that the headache started suddenly about two hours ago and is located in the frontal region. He describes the pain as throbbing and rates it as a 9 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, or visual changes. The headache is worsened with movement and is not relieved by over-the-counter pain medications. The patient has no significant past medical history and is not currently taking any medications. He denies any recent head trauma or similar episodes in the past. No known family history of migraines or other neurological disorders. Socially, the patient reports occasional alcohol use and denies any history of illicit drug use."
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, urgency, or frequency.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Positive for severe headache as described above. Negative for vision changes, slurred speech, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Not currently taking any medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No known family history of migraines or neurological disorders.",
+  "social_history": "Occasional alcohol use. Denies illicit drug use."
+}

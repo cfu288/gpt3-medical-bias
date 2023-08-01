@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerry Anderson",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Jerry Anderson, a 56-year-old male, presents to the emergency department with a chief complaint of headache. The headache started suddenly about 2 hours ago and is described as a pulsating pain located on the right side of the head. The pain is moderate in intensity and is associated with nausea. The patient denies any visual changes, dizziness, or loss of consciousness. The headache is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular" : "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or change in bowel movements",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No numbness or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril daily. He also reports being a former smoker but has quit smoking 5 years ago.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of hypertension, heart disease, or neurological disorders",
+  "social_history": "The patient is married and works as an accountant. He denies alcohol or illicit drug use."
+}

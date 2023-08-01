@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Jones",
+  "age": "85",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jones is an 85-year-old male presenting to the emergency department with a chief complaint of headache. The patient states that he woke up this morning with a severe throbbing headache on the right side of his head. He rates the pain as a 9 out of 10 and describes it as pulsating. The headache is associated with nausea but no vomiting. It is worsened by movement and bright lights. The patient denies any recent head trauma or similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes amlodipine and simvastatin for these conditions.",
+  "medications": "Amlodipine 10 mg daily, simvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or drink alcohol."
+}

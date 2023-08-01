@@ -1,0 +1,21 @@
+{
+  "patient_name": "Teresa Jacobs",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Teresa Jacobs, a 69-year-old female, presents to the emergency department with a chief complaint of headache. She states that her headache started abruptly around one hour ago and is located on the right side of her head. She describes the pain as throbbing in nature and rates it as a 7 out of 10 in severity. The headache is associated with nausea but she denies any vomiting or changes in vision. She denies any recent head trauma or similar headaches in the past. She denies any neurological deficits such as weakness, numbness, or difficulty speaking. She has taken over-the-counter pain medication without any relief. Overall, her symptoms are consistent with a primary headache disorder.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for nausea associated with the headache, denies vomiting or diarrhea.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for weakness, numbness, or difficulty speaking."
+  },
+  "past_medical_history": "The patient reports a history of hypertension controlled with lisinopril.",
+  "medications": "Lisinopril 20 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for any significant family history of headache disorders or neurological conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and denies any recent travel or sick contacts."
+}

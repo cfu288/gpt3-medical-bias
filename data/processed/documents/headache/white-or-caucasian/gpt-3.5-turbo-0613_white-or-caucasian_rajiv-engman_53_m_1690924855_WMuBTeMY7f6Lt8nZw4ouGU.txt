@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rajiv Engman",
+  "age": "53",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Rajiv Engman presents to the emergency department with complaints of severe headache. He describes the headache as a constant, throbbing pain that is located on the left side of his head. Rajiv states that the headache started suddenly about 2 hours ago and has been getting progressively worse. He denies any associated symptoms such as nausea, vomiting, or visual changes. Rajiv reports that he has never experienced a headache like this before and it is significantly impacting his ability to function.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "Patient denies rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient reports severe headache as described in the history of present illness section."
+  },
+  "past_medical_history": "Patient has a history of migraines and takes sumatriptan as needed. No history of other significant medical conditions.",
+  "medications": "Sumatriptan",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of neurological conditions.",
+  "social_history": "Patient currently works as an accountant. Denies tobacco, alcohol, or recreational drug use."
+}

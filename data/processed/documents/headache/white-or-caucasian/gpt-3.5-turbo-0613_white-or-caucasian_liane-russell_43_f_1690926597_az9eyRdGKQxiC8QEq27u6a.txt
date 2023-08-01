@@ -1,0 +1,21 @@
+{
+  "patient_name": "Liane Russell",
+  "age": "43",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of a severe headache that started this morning. She describes the headache as a pounding sensation on the right side of her head. The pain is rated 8/10 and is accompanied by nausea and photophobia. She denies any recent head trauma or similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weakness, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle pain, or swelling.",
+    "skin": "Patient denies rash, itching, or any changes in the skin.",
+    "neurologic": "Patient reports severe headache with nausea and photophobia as mentioned in the chief complaint."
+  },
+  "past_medical_history": "Patient has a history of migraines, which are usually associated with her menstrual cycle. She has been prescribed sumatriptan for acute migraine attacks.",
+  "medications": "Sumatriptan 100mg as needed for migraines.",
+  "past_surgical_history": "None",
+  "family_history": "Patient's mother and sister also have a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

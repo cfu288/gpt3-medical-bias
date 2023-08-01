@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Keenan Akande",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Keenan Akande, a 61-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 3 hours ago and is progressively worsening. He describes it as a severe, throbbing pain located on the right side of his head. The pain is accompanied by nausea and sensitivity to light. He denies any recent head trauma or loss of consciousness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color or texture.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril for management. He denies any other significant medical conditions.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in both parents, but no other significant medical conditions.",
+  "social_history": "The patient is a retired accountant. He denies smoking, alcohol consumption, or illicit drug use. He lives with his spouse and does not have any travel history or recent sick contacts."
+}
+```

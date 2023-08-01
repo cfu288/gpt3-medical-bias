@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Portia Walcott",
+  "age": "41",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the headache as a dull, throbbing pain located in the frontal region of her head. Patient reports that the headache began approximately 2 hours ago and has gradually worsened in intensity. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. Patient states that she has never experienced a headache of this severity before and has no known triggers.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight changes.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rash, itching, or skin changes.",
+    "neurologic": "Patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Patient reports a history of migraines, occurring approximately once a month and usually milder in intensity. She has been using over-the-counter analgesics to manage her migraines.",
+  "medications": "Patient takes acetaminophen as needed for her migraines.",
+  "past_surgical_history": "Patient reports no past surgical history.",
+  "family_history": "Patient denies any significant family history of migraines or other neurological conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or recreational drug use."
+}
+```

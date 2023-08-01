@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerome Chevis",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Chevis, is a 56-year-old male who presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain located on the right side of his head. The pain is rated as a 7 out of 10 and is worsened with movement. Mr. Chevis reports associated symptoms of nausea and sensitivity to light. He denies any recent head trauma or changes in vision. He has tried taking over-the-counter pain medications, but they have provided only minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for shortness of breath or cough",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Positive for headache"
+  },
+  "past_medical_history": "Mr. Chevis has a past medical history of hypertension, hyperlipidemia, and migraines.",
+  "medications": "He takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia. He also uses sumatriptan as-needed for migraines.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Positive for hypertension and migraines in his mother and sister.",
+  "social_history": "Mr. Chevis is married and works as an accountant. He denies tobacco or alcohol use."
+}

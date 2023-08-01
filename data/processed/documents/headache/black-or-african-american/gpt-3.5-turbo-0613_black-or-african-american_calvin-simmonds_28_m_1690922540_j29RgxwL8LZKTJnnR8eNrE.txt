@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Calvin Simmonds",
+  "age": "28",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He describes the headache as a throbbing pain on both sides of his head. The pain started approximately 4 hours ago and has been gradually getting worse. The patient states that he has never experienced a headache like this before. He denies any associated symptoms such as photophobia, phonophobia, or nausea and vomiting. Patient reports taking acetaminophen for the headache but it did not provide any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports no focal neurologic deficits such as weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

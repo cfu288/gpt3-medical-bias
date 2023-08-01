@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maxine Harold",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Maxine Harold, a 66-year-old female, presents to the emergency department with a chief complaint of headache. The headache started suddenly and is described as a throbbing pain on the left side of the head. It is associated with sensitivity to light and sound. The patient rates the severity of the headache as 8 out of 10. She denies any previous episodes of similar headaches. There are no other accompanying symptoms such as nausea, vomiting, or visual changes. The patient took acetaminophen for pain relief but found no significant improvement.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes Lisinopril 10 mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is a family history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

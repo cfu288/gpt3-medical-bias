@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gary Donaho",
+  "age": "58",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Donaho, is a 58-year-old male who presents to the emergency department with a chief complaint of headache. The patient reports that the headache started two days ago and has been progressively worsening in intensity. He describes the pain as a deep, throbbing sensation located in the frontal area of his head. He also reports associated symptoms of photophobia and phonophobia. The headache is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "In addition to the headache, the patient reports no other neurological symptoms such as weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication daily to control his blood pressure.",
+  "medications": "The patient takes metoprolol 50mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as a construction worker and denies exposure to any hazardous materials."
+}
+```

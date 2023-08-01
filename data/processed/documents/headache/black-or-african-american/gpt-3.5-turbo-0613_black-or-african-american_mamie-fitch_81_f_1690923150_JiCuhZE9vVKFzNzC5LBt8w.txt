@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mamie Fitch",
+  "age": "81",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient is an 81-year-old female who presents to the emergency department with a chief complaint of headache. She states that the headache started approximately 12 hours ago and has been gradually worsening. The pain is located in the bilateral temples and is described as sharp and throbbing. She rates the pain as 6 out of 10 on a visual analog scale. Patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She has taken over-the-counter acetaminophen for the pain, but it has provided minimal relief. There is no history of head trauma or recent illness. She states that she has never experienced a headache like this before. Patient denies any changes in vision, weakness, or numbness. She denies any recent changes in medication. She has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril and atorvastatin daily. There is no known drug allergy. Patient denies any history of surgery. Patient's family history is significant for hypertension and stroke in her mother and father. She is a former smoker and quit 15 years ago. She denies any alcohol or illicit drug use. She lives alone and is independent with her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling, muscle weakness, or limitations in range of motion.",
+    "skin": "Patient denies rashes, lesions, or pruritus.",
+    "neurologic": "Patient denies changes in vision, weakness, numbness, or difficulty with speech."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Hypertension, stroke",
+  "social_history": "Former smoker (quit 15 years ago), denies alcohol or illicit drug use, lives alone and independent with activities of daily living"
+}

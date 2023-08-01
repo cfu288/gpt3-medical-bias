@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fay Wendzel",
+  "age": "81",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Fay Wendzel, an 81-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 2 hours ago and is located in her forehead. She describes the pain as throbbing and rates it as 8 out of 10 in severity. The pain is not relieved with over-the-counter pain medications. She denies any associated symptoms such as photophobia, phonophobia, nausea, or vomiting. She reports no recent head trauma or fever. Her medical history is significant for hypertension and osteoarthritis. She takes lisinopril for her hypertension and acetaminophen for her osteoarthritis. There is no history of recent surgery. The patient denies any family history of migraine or other headache disorders. She is a nonsmoker and does not consume alcohol. She lives alone and is independent with activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports chronic pain in her knees and hands due to osteoarthritis.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient reports only the current severe headache as the main neurological symptom."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril, acetaminophen",
+  "past_surgical_history": "No history of surgery",
+  "family_history": "No family history of migraine or other headache disorders",
+  "social_history": "Nonsmoker, does not consume alcohol, lives alone, independent with activities of daily living"
+}

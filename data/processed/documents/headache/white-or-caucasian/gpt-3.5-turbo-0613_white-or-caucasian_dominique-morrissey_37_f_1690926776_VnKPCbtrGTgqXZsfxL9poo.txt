@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dominique Morrissey",
+  "age": "37",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Dominique Morrissey, a 37-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started yesterday and has been worsening in intensity. She describes the pain as throbbing and located primarily in her temples. She rates the pain as 8 out of 10. She denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient reports intermittent headaches in the past, but never as severe as the current episode. She denies any history of seizures or numbness/weakness in her extremities."
+  },
+  "past_medical_history": "The patient's past medical history is significant for migraines.",
+  "medications": "The patient takes ibuprofen as needed for her migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+}
+```

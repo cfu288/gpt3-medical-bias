@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Burton Reaves",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. The headache started suddenly about 2 hours ago and is described as a throbbing pain located in the temples. The patient rates the pain as 9/10 and reports associated nausea. He denies any recent head trauma or changes in vision. The patient has no history of migraines. There are no other significant symptoms."
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient reports no changes in sensation, weakness, or coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is controlled with medication. Otherwise, patient reports no other significant past medical history.",
+  "medications": "Patient takes hydrochlorothiazide 25 mg daily for hypertension.",
+  "past_surgical_history": "No history of past surgical procedures.",
+  "family_history": "No significant family history of neurological conditions.",
+  "social_history": "Patient is a retired engineer. He is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

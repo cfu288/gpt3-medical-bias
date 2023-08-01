@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brienne Racette",
+  "age": "44",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Brienne Racette, a 44-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 2 hours ago and is located on the right side of her head. She describes the pain as a throbbing sensation and rates the intensity as 7 out of 10. She denies any associated symptoms such as nausea, vomiting, or visual disturbances. She states that she has never experienced a headache like this before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or difficulty walking.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in speech."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, for which she takes propranolol as needed. She reports that her last migraine was approximately 3 months ago. She denies any other chronic medical conditions or previous hospitalizations.",
+  "medications": "Propranolol PRN for migraines.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports that her mother has a history of migraines.",
+  "social_history": "The patient denies smoking, alcohol, or recreational drug use. She is currently employed as a teacher."
+}
+```

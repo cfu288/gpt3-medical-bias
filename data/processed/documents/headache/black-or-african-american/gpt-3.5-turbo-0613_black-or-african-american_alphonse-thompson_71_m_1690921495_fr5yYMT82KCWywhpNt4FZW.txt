@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Thompson",
+  "age": "71",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mr. Thompson, is a 71-year-old male who presents to the emergency department with a chief complaint of headache. The headache is described as a dull, throbbing pain in the frontal region that started suddenly this morning. The pain is rated as a 7 out of 10 in severity and is not relieved by rest or over-the-counter pain medications. There are no associated symptoms such as nausea, vomiting, or visual changes. The patient denies any recent head trauma or prior history of similar headaches. He states that he has never experienced an episode like this before. He reports having a normal sleep pattern and denies any recent stress or changes in his medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurological deficits such as weakness, numbness, or changes in speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril 10 mg daily and atorvastatin 20 mg daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily and atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of hypertension and his mother had a history of stroke. The patient has two siblings who are alive and well.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or drink alcohol. He denies any illicit drug use."
+}

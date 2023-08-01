@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marika Slaton",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Marika Slaton, is a 38-year-old female presenting to the emergency department with a chief complaint of headache. The patient describes the headache as a dull, throbbing pain localized to the frontal and temporal regions of her head. She notes that the headache started abruptly this morning and has been progressively worsening throughout the day. She denies any associated symptoms such as nausea, vomiting, visual disturbances, or sensitivity to light or sound. The headache is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Aside from the headache, the patient denies any neurologic symptoms such as weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which she reports are similar in nature to her current headache. She usually treats her migraines with over-the-counter pain medications.",
+  "medications": "The patient currently takes acetaminophen as needed for pain relief.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of migraines. Her mother and sister both experience migraines.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

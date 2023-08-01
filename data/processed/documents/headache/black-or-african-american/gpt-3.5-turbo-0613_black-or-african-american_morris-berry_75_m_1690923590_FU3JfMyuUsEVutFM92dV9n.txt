@@ -1,0 +1,30 @@
+```json
+{
+  "patient_name": "Morris Berry",
+  "age": "75",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Morris Berry, a 75-year-old male, presents to the emergency department with a chief complaint of headache. According to the patient, the headache started abruptly a few hours ago and is described as a severe throbbing pain localized in the frontal region. The patient denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. The patient has not experienced any recent head trauma or fever. There is no history of migraines or similar headaches in the past. The patient states that he has been taking over-the-counter pain medications, but they have not provided relief. There is no known trigger for the headache.
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, changes in vision, or changes in speech."
+  },
+
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril 10mg daily. He also has a history of osteoarthritis and wears a knee brace for support. No other significant medical history is reported.",
+
+  "medications": "Lisinopril 10mg daily for hypertension. Over-the-counter pain medications as needed for headaches.",
+
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis. No other significant family history is reported.",
+
+  "social_history": "The patient lives alone and is independent with his activities of daily living. He is a retired accountant. He does not smoke, drink alcohol, or use recreational drugs. He denies any recent travel or exposure to sick contacts."
+}
+```

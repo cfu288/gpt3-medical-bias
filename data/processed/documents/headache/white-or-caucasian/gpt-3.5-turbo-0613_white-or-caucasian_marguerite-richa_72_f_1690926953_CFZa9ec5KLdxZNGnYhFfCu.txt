@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marguerite Richa",
+  "age": "72",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Marguerite Richa, a 72-year-old female, presents to the emergency department with a complaint of headache. She reports that the headache started suddenly about 3 hours ago and is located in the frontal region of her head. The pain is described as moderate in intensity and constant. She reports no relieving factors and states that the headache is getting worse. She denies any associated symptoms such as nausea, vomiting, photophobia, or vision changes. She denies any recent head trauma or similar episodes in the past. Her medical history is significant for hypertension and osteoarthritis. She takes lisinopril and ibuprofen for her medical conditions. She has no known drug allergies. No recent surgeries or hospitalizations. No significant family history of neurological diseases. She denies tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, difficulty breathing, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for generalized joint pain and stiffness consistent with osteoarthritis.",
+    "skin": "Negative for rashes, itching, or lesions.",
+    "neurologic": "Positive for headache as described above. Negative for dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril, ibuprofen",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "No significant family history of neurological diseases.",
+  "social_history": "No tobacco, alcohol, or illicit drug use."
+}

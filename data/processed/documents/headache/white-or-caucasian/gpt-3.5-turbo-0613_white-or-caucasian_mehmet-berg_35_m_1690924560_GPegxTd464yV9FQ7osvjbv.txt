@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mehmet Berg",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache which started suddenly 2 hours ago. The patient describes the headache as a throbbing pain on the right side of his head, extending to his right eye and temple. He rates the pain as 8/10 and reports that it is worsening with movement.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of migraines, for which he takes sumatriptan as needed. No other significant medical history.",
+  "medications": "Sumatriptan 50mg as needed for migraines.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of migraines or neurological disorders.",
+  "social_history": "Patient denies tobacco use and drinks alcohol occasionally."
+}

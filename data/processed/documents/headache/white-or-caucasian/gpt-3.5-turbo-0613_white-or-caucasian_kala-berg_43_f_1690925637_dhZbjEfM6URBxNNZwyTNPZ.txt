@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kala Berg",
+  "age": "43",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presenting with severe headache that started two hours ago. She describes the pain as throbbing and localized to the front of her head. She rates the pain intensity as 8/10. She denies any associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or itching.",
+    "neurologic": "Patient reports no recent changes in vision, no numbness or weakness in the extremities, and no seizure activity."
+  },
+  "past_medical_history": "Patient has a known history of migraines, which are usually relieved with ibuprofen.",
+  "medications": "Patient takes ibuprofen as needed for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of neurological disorders.",
+  "social_history": "Patient is a non-smoker and drinks alcohol occasionally."
+}

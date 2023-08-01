@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnna Smith",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Johnna Smith presented to the emergency department with a complaint of severe headache. She reported that the headache started suddenly and was accompanied by nausea and sensitivity to light. She denies any recent head trauma or changes in her vision. The headache has been persistent and is not relieved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Denies urinary symptoms or changes in urine color",
+    "musculoskeletal": "Denies joint pain or stiffness",
+    "skin": "Denies rashes or changes in skin color or texture",
+    "neurologic": "Reports severe headache, sensitivity to light, and nausea"
+  },
+  "past_medical_history": "The patient has a history of occasional migraines but reports that this headache is different and more severe than her typical migraines.",
+  "medications": "The patient currently takes ibuprofen as needed for migraines.",
+  "past_surgical_history": "No history of surgeries",
+  "family_history": "No significant family history of migraines or neurological disorders",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use."
+}

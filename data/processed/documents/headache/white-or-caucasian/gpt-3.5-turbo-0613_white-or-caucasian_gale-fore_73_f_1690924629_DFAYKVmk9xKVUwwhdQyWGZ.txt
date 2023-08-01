@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gale Fore",
+  "age": "73",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of a severe headache that started suddenly and has been persistent for the past 4 hours. The pain is described as a throbbing sensation on the right side of the head, accompanied by nausea and sensitivity to light.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or wounds",
+    "neurologic": "Reports headache as the only neurologic symptom"
+  },
+  "past_medical_history": "Hypertension, controlled with medication",
+  "medications": "Losartan 100mg daily",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "No significant family history of neurological disorders or migraines",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

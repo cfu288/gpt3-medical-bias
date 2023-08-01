@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a complaint of headache. He describes the headache as a severe throbbing pain on the right side of his head, which started suddenly about 2 hours ago. He rates the pain as 8 out of 10 and says that it is the worst headache he has ever experienced. He denies any associated symptoms such as fever, nausea, or vomiting. He also reports a history of migraines in the past, but this headache feels different and more intense than his usual migraines. He states that he has tried taking over-the-counter pain medications, but they have not provided any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes, itching, or changes in the skin.",
+    "neurologic": "Patient reports a severe headache."
+  },
+  "past_medical_history": "Patient has a history of migraines and takes as-needed medications for pain relief. He denies any other significant medical conditions.",
+  "medications": "Patient takes over-the-counter pain medications as needed for migraines.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or recreational drugs."
+}

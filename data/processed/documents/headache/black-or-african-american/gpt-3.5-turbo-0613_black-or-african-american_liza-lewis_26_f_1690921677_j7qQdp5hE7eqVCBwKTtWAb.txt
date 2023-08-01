@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Liza Lewis",
+  "age": "26",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of headache. She reports that the headache started suddenly and is a severe, throbbing pain on both sides of her head. She rates the pain as 8 out of 10 and describes it as the worst headache she has ever experienced. She denies any associated symptoms such as nausea, vomiting, visual changes, or neck stiffness. She states that this is the first time she has experienced a headache of this severity. She has tried taking over-the-counter pain medications but they provided no relief. She has no significant past medical history or recent illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or sores.",
+    "neurologic": "Negative for numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of neurological or psychiatric disorders.",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}
+```

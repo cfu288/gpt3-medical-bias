@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derrick Walcott",
+  "age": "41",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started suddenly about 2 hours ago. The pain is located on the right side of the head and is described as throbbing in nature. Patient has no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "Patient reports sensitivity to light and sound, but denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of migraines and has been prescribed sumatriptan for acute management.",
+  "medications": "Sumatriptan 50 mg as needed for migraines.",
+  "past_surgical_history": "None.",
+  "family_history": "No family history of migraines or other neurological disorders.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}
+```

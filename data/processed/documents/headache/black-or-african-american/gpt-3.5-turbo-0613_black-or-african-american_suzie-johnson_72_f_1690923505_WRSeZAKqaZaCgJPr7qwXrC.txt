@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Suzie Johnson",
+  "age": "72",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly and is described as severe and throbbing. It is located predominantly in the front of the head and is associated with nausea. No prior incidents of similar headaches reported. No recent head trauma or falls. No loss of consciousness or focal neurological deficits noted.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or lesions.",
+    "neurologic": "Patient reports the current headache as the major neurologic symptom. No other neurologic symptoms reported."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily, Ibuprofen 400 mg PRN for arthritis pain",
+  "past_surgical_history": "Appendectomy at age 25",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

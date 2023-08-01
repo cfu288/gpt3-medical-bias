@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mack Miller",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mack Miller, a 75-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly about 1 hour ago and is described as a throbbing pain on the right side of his head. He rates the intensity of the pain as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual changes. The patient has no significant past medical history and denies any recent trauma or head injury. On further questioning, he reports a history of occasional headaches that are usually relieved with over-the-counter pain medications. He states that this headache is different from his usual headaches and is more severe. The patient also reports feeling slightly dizzy. His vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint or muscle pain",
+    "skin": "No rash or skin changes",
+    "neurologic": "Patient reports feeling slightly dizzy"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a non-smoker and does not consume alcohol"
+}

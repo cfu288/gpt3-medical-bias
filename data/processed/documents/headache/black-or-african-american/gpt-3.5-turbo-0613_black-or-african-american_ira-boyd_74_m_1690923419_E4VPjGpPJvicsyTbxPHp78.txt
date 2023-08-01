@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Ira Boyd",
+  "age": "74",
+  "gender": "m",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ira Boyd, a 74-year-old male, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started suddenly approximately 2 hours ago. He describes the pain as a throbbing sensation on the right side of his head. He rates the pain as 8 out of 10 on the pain scale. The patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. The headache has not improved with rest or over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is negative for any significant medical conditions.",
+  "social_history": "The patient is a retired teacher. He lives alone and denies any tobacco or alcohol use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnnie Jones",
+  "age": "81",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Johnnie Jones, an 81-year-old female, presents to the emergency department with a chief complaint of headache. She reports that her headache started suddenly this morning and has been progressively worsening throughout the day. She describes the headache as a constant, throbbing pain located in the front of her head, rated 8/10 in severity. She denies any accompanying symptoms such as nausea, vomiting, or changes in vision. The patient has a past medical history significant for hypertension and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient has a history of hypertension but denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient has a history of osteoarthritis but denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Aside from the headache, the patient denies any neurological symptoms such as dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Metoprolol 25 mg daily, ibuprofen PRN for osteoarthritis pain",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of neurological or cardiovascular diseases.",
+  "social_history": "The patient is a retired teacher. She denies smoking, alcohol consumption, or illicit drug use."
+}

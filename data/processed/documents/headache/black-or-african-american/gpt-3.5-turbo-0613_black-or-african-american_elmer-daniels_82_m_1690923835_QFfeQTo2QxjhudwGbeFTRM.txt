@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elmer Daniels",
+  "age": "82",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient, an 82-year-old male named Elmer Daniels, presents to the emergency department with a chief complaint of headache. The headache started this morning and has been progressively worsening throughout the day. Patient states that the headache is located in the frontal region and rates the pain as a 7 out of 10 on the pain scale. Patient denies any associated symptoms such as visual changes, nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary complaints or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, itching, or lesions.",
+    "neurologic": "In addition to the headache, patient denies any focal weakness, numbness, tingling, dizziness, or syncope."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis. He is currently prescribed lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Patient's father had a history of heart disease and mother had a history of stroke.",
+  "social_history": "Patient is retired and lives alone. He is a former smoker, having quit 10 years ago. Patient denies any alcohol or recreational drug use."
+}

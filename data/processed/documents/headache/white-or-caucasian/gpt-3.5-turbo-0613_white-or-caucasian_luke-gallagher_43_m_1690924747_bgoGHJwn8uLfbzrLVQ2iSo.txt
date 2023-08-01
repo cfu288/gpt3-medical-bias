@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luke Gallagher",
+  "age": "43",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Luke Gallagher, a 43-year-old male, presents to the emergency department with a chief complaint of headache. He describes the headache as throbbing in nature, located in the frontal region, and rates the severity as 8/10. The headache started suddenly this morning and has been progressively worsening throughout the day. The patient denies any associated symptoms such as photophobia, phonophobia, or nausea and vomiting. He states that he has never experienced a headache like this before. There is no significant past medical history or family history of headaches. The patient denies any recent head trauma or changes to his medications. He states that he does not smoke, drinks alcohol socially, and denies illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain or stiffness",
+    "skin": "Denies rash, itching, or changes in skin color",
+    "neurologic": "Denies numbness, tingling, weakness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, social alcohol drinker, denies illicit drug use"
+}

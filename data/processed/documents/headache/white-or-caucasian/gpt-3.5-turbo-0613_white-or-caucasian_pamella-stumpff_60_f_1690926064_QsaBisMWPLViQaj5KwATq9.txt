@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Pamella Stumpff",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of headache. She reports that the headache started this morning and is severe in intensity. It is located in the frontal area and is associated with photophobia and phonophobia. She denies any recent trauma, fever, neck stiffness, or changes in vision. She states that she has a history of migraines but states that this headache feels different from her usual migraines. She took her usual migraine medication but it did not provide relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any palpitations, chest pain, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, pruritus, or changes in pigmentation.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, syncope, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of migraines and hypertension.",
+  "medications": "The patient takes verapamil for her hypertension and sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of hypertension and her mother had a history of migraines.",
+  "social_history": "The patient is retired and does not smoke or drink alcohol. She is widowed and lives alone."
+}
+```

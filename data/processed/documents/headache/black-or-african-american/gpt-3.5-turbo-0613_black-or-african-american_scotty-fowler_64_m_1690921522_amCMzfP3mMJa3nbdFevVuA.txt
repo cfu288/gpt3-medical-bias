@@ -1,0 +1,21 @@
+{
+  "patient_name": "Scotty Fowler",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Scotty Fowler, is a 64-year-old male presenting to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is located in the frontal area. The patient describes the pain as severe and throbbing, and it is not relieved with over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, or visual changes. There is no history of head trauma. It is important to rule out any serious underlying causes for the headache, such as subarachnoid hemorrhage or meningitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Other than the headache, the patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He is currently on lisinopril 10 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg twice daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of hypertension and his mother had a history of type 2 diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is retired and lives alone. He is currently not sexually active."
+}

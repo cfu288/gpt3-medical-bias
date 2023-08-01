@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Jones",
+  "age": "82",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Sam Jones, an 82-year-old male, presented to the emergency department with a chief complaint of headache. He states that he has been experiencing a severe throbbing headache for the past 3 days. The headache is primarily located in the frontal region and is accompanied by sensitivity to light and sound. He rates the pain as 8/10 in severity. He denies any recent trauma or changes in medication. He has been taking over-the-counter pain relievers with minimal relief of symptoms. On further questioning, the patient reports a past medical history of hypertension and occasional migraines.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension managed with lisinopril.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or consume alcohol."
+}

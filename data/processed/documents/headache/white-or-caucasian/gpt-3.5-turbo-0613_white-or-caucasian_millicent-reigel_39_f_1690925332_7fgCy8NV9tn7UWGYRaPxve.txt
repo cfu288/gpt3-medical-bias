@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Millicent Reigel",
+  "age": "39",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of a severe headache that started abruptly this morning. The headache is described as a throbbing pain on the right side of her head, accompanied by nausea and sensitivity to light and sound. She denies any recent trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "Patient denies any skin rash, itching, or any changes in skin color or texture.",
+    "neurologic": "Patient describes a sudden-onset severe headache, which is the reason for her presentation. She denies any weakness, numbness, tingling, or changes in speech or vision."
+  },
+  "past_medical_history": "Patient has a past medical history of migraines, for which she takes sumatriptan as needed.",
+  "medications": "Sumatriptan as needed for migraines.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "Patient's mother has a history of migraines.",
+  "social_history": "Patient denies use of tobacco, alcohol, or illicit drugs. She works as a teacher and lives with her spouse and two children."
+}
+```

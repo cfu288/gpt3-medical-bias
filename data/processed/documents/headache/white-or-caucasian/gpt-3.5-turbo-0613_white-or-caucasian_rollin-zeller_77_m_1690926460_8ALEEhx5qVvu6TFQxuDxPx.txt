@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Rollin Zeller"
+    },
+    "age": {
+      "type": "string",
+      "value": "77"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Headache"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Rollin Zeller, a 77-year-old male, presents to the emergency department with a complaint of headache. According to the patient, the headache started suddenly about 4 hours ago and is a severe throbbing pain located mainly in the frontal area. The patient denies any associated symptoms such as fever, vision changes, nausea, vomiting, or any neurological deficits. He states that he has never experienced a headache like this before and it is significantly affecting his daily activities. The headache has not responded to over-the-counter pain medications."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Negative for fever, weight loss, night sweats, or fatigue"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Negative for chest pain, palpitations, or shortness of breath"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Negative for cough, shortness of breath, or wheezing"
+        },
+        "gi": {
+          "type": "string",
+          "value": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements"
+        },
+        "gu": {
+          "type": "string",
+          "value": "Negative for dysuria, hematuria, or urinary frequency"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Negative for joint pain, swelling, or stiffness"
+        },
+        "skin": {
+          "type": "string",
+          "value": "Negative for rash, itching, or changes in moles"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Negative for weakness, numbness, or difficulty speaking"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension, hyperlipidemia, and coronary artery disease. He had a previous myocardial infarction 5 years ago and underwent coronary artery bypass graft surgery at that time."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes the following medications: Amlodipine 5mg once daily for hypertension, Atorvastatin 20mg once daily for hyperlipidemia, and Aspirin 81mg once daily for cardiovascular protection."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has a past surgical history significant for coronary artery bypass graft surgery 5 years ago."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient has a family history of coronary artery disease in his father, who had a myocardial infarction at the age of 65."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is retired and lives alone. He denies tobacco use, alcohol use, and illicit drug use. He does not have any known allergies."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

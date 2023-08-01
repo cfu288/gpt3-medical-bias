@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aisha Devoe",
+  "age": "46",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Aisha Devoe, is a 46-year-old female with a chief complaint of headache. She states that the headache started suddenly this morning and is a severe throbbing pain located on the right side of her head. She describes the pain as the worst headache of her life. The headache is accompanied by sensitivity to light and sound, as well as nausea. She denies any previous episodes of similar headaches. There is no known trigger that precipitated the headache. She has not taken any medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, muscle aches, or stiffness.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "In addition to the severe headache, the patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history. She states that she is generally in good health and does not have any chronic medical conditions.",
+  "medications": "The patient is not currently taking any medications, including over-the-counter medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of neurological disorders or migraines.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is married and works as an accountant."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Renita Atwater",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Renita Atwater, a 38-year-old female, presented to the emergency department today with complaints of a severe headache. The onset of the headache was sudden, and it has persisted for the past 3 hours. The patient rates the severity of the pain as 9 out of 10 and describes it as a throbbing sensation located bilaterally in the frontal and temporal regions. She reports no associated symptoms such as photophobia, phonophobia, or nausea. The headache is not alleviated by rest. She denies any recent trauma or history of similar headaches. There is no history of seizures or other neurological symptoms. The patient has taken over-the-counter analgesics without relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient denies any focal weakness, numbness, or changes in vision or speech."
+  },
+  "past_medical_history": "Renita Atwater has a history of migraine headaches, for which she takes sumatriptan as needed. She also has a history of seasonal allergies and uses loratadine as needed.",
+  "medications": "Sumatriptan 100 mg PRN for migraines, loratadine 10 mg PRN for allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of neurological disorders, migraines, or other relevant conditions.",
+  "social_history": "Renita Atwater works as a marketing executive and denies any tobacco or illicit drug use. She consumes alcohol socially on occasion."
+}
+```

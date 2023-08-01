@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marshall Smith",
+  "age": "22",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Marshall Smith, a 22-year-old male, presents to the emergency department with a chief complaint of headache. He states that the headache began yesterday and has been progressively worsening. The pain is located in the frontal area and is described as a throbbing sensation. He rates the pain as a 7 out of 10 on the pain scale. The headache is not associated with any other symptoms such as nausea, vomiting, or visual changes. He has tried taking over-the-counter pain medications, but they have provided minimal relief. There is no history of head trauma or recent illness. Inquiring about any recent stressors or changes in his lifestyle may be helpful in identifying potential triggers for the headache. Further evaluation and treatment are indicated to determine the cause of the headache and provide appropriate management.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, itching, or changes in skin color.",
+    "neurologic": "The patient reports experiencing a mild numbness and tingling sensation in his left hand and arm for the past week. He attributes it to his recent increase in computer usage for work.  He denies any weakness or difficulty with coordination."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. He is not taking any prescription medications and has no known allergies.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has not undergone any surgical procedures in the past.",
+  "family_history": "The patient has no significant family history of neurological conditions or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer."
+}

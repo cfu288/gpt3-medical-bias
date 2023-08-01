@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wallace Meredith",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Wallace Meredith, a 42-year-old male, presented to the emergency department with a chief complaint of headache. He describes the headache as a dull ache in his temples that has been present for the past two days. The intensity of the headache is moderate, and it is not associated with any specific triggers. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has tried over-the-counter pain medications, but they have provided little relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or limited range of motion.",
+    "skin": "The patient denies any rashes, itching, or changes in the appearance of the skin.",
+    "neurologic": "The patient reports occasional dizziness, but denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication to control his blood pressure. He also has a history of migraines and has previously been prescribed a triptan medication for acute migraine attacks. However, he has not taken his triptan medication for this current headache.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}
+```

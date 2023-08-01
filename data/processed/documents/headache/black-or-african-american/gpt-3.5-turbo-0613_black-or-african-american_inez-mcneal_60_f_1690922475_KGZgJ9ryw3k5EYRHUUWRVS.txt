@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Inez Mcneal",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Inez Mcneal, a 60-year-old female, presents to the emergency department with a chief complaint of headache. The headache started this morning and is described as throbbing and located on the left side of her head. She rates the pain as 7 out of 10 and reports that it is associated with nausea and sensitivity to light and sound. The patient denies any recent head trauma or changes in vision. She states that she has never experienced a headache of this severity before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient reports experiencing occasional episodes of dizziness but denies any changes in coordination, speech difficulties, or weakness in the extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and naproxen for osteoarthritis.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone."
+}
+```

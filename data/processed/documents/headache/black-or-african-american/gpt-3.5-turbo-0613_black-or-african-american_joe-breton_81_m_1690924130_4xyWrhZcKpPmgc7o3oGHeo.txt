@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joe Breton",
+  "age": "81",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Breton is an 81-year-old male who presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain on the left side of the head. He rates the severity of the pain as 7 out of 10. The headache is associated with nausea but no vomiting, and he denies any visual changes or weakness. He has not experienced any similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations, leg swelling",
+    "respiratory": "Denies shortness of breath, cough, wheezing",
+    "gi": "Denies abdominal pain, diarrhea, constipation",
+    "gu": "Denies dysuria, hematuria, urinary frequency",
+    "musculoskeletal": "Denies joint pain, stiffness, swelling",
+    "skin": "Denies rash, itching, wounds",
+    "neurologic": "Reports headache, denies dizziness, weakness, numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Cholecystectomy in 2002",
+  "family_history": "Father had stroke at age 75",
+  "social_history": "Retired. Former smoker 20 pack-years. Occasional alcohol use."
+}

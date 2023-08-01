@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lynette Smith",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Lynette Smith, a 51-year-old female, presented to the Emergency Department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain in the frontal region. The pain is rated at 7/10 on the pain scale and is associated with photophobia and nausea. The patient denies any recent head trauma, fever, or neck stiffness. She has no prior history of similar headaches.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, confusion, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, controlled with lisinopril.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

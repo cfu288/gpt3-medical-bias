@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmond Cain",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Edmond Cain presents to the emergency department with a chief complaint of headache. The headache started abruptly this morning and is described as a severe throbbing pain on the left side of the head. The patient denies any preceding trauma or neck stiffness. He also reports experiencing nausea and sensitivity to light. He has not taken any medications for the headache.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or unusual bruising.",
+    "neurologic": "Reports severe headache, nausea, and sensitivity to light. Denies visual changes, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes Lisinopril 10mg daily and Simvastatin 40mg daily.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 40mg daily",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "No significant family history of neurological disorders.",
+  "social_history": "Patient is retired and denies tobacco, alcohol, or illicit drug use."
+}

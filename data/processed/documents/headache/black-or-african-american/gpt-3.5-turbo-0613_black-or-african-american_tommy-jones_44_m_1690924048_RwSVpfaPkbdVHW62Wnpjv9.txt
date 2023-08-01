@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Jones",
+  "age": "44",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Jones presents to the emergency department with complaints of severe headache. He states that the headache started suddenly about 2 hours ago and is located on the front of his head. He rates the intensity of the pain as 8 out of 10. He denies any associated vision changes, nausea, vomiting, or neurological symptoms. He has never experienced a headache of this intensity before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No numbness or weakness"
+  },
+  "past_medical_history": "Mr. Jones has a history of hypertension and migraines. He takes amlodipine 5mg daily for his hypertension.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "Appendectomy in 2005",
+  "family_history": "No significant family history of headaches or neurological conditions",
+  "social_history": "Mr. Jones is a non-smoker and denies any alcohol or drug use"
+}

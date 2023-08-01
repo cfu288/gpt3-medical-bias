@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Evette Williams",
+  "age": "82",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Evette Williams, an 82-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache began suddenly this morning and is located on the right side of her head. The pain is described as a throbbing sensation and is rated as a 7 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, or changes in vision. The headache has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "There is no history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "There is no history of abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "There is no history of joint pain, swelling, or stiffness.",
+    "skin": "No rashes, lesions, or changes in the skin are reported.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and osteoarthritis.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Acetaminophen 500mg as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is noncontributory.",
+  "social_history": "The patient is retired and lives independently at home. She denies tobacco or alcohol use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shana Stewart",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Shana Stewart, a 38-year-old female, presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly this morning and has been getting progressively worse throughout the day. She describes the pain as a throbbing sensation on the right side of her head, radiating to her right eye. She denies any associated symptoms such as nausea, vomiting, or sensitivity to light or sound. She has never experienced a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or blood in her urine.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in her skin.",
+    "neurologic": "The patient reports the headache as her only neurologic symptom."
+  },
+  "past_medical_history": "The patient has a history of migraine headaches, which are typically mild to moderate in severity and are managed with over-the-counter medications. She has not had any recent exacerbations of her migraines.",
+  "medications": "The patient takes ibuprofen as needed for her migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of migraines, with her mother and sister also experiencing similar headaches.",
+  "social_history": "The patient is married and works as a software engineer. She does not smoke or consume alcohol."
+}
+```

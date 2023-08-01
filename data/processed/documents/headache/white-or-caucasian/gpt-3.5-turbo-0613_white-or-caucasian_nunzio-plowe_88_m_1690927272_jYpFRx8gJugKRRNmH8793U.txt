@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nunzio Plowe",
+  "age": "88",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe headache that started suddenly this morning. Patient describes the headache as throbbing and located on the right side of the head. He rates the pain as 8 out of 10. The headache is associated with nausea and sensitivity to light. The patient denies any recent head trauma or similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash or skin lesions.",
+    "neurologic": "The patient reports the severe headache as the only neurological symptom."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is on amlodipine and atorvastatin.",
+  "medications": "Amlodipine 5mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has no known family history of neurological disorders or migraines.",
+  "social_history": "The patient is a retired accountant and lives alone. He denies tobacco, alcohol, or illicit drug use."
+}
+```

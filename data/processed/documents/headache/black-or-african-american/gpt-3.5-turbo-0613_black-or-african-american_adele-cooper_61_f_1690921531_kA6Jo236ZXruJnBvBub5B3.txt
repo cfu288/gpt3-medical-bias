@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Adele Cooper",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Adele Cooper, a 61-year-old female, presents to the emergency department with a chief complaint of headache. Onset of the headache occurred approximately 8 hours ago and is described as a throbbing pain located on the right side of the head. The patient rates the intensity of the pain as 7 out of 10. She states that the headache is associated with photophobia, phonophobia, and mild nausea. The patient denies any recent trauma or changes in vision. She has taken over-the-counter acetaminophen without significant relief.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and migraines.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and uses over-the-counter pain relievers as needed for migraines.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother had a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

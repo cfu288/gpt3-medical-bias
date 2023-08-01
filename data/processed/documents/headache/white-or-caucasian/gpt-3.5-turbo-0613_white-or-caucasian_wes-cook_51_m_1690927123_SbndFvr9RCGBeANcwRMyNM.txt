@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wes Cook",
+  "age": "51",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. He describes the headache as a severe, throbbing pain on the right side of his head that started earlier today. The pain has been constant and is aggravated by movement and bright lights. The patient reports associated symptoms of nausea and sensitivity to sound. He denies any recent head trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or difficulty with movement.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, slurred speech, vision changes, or weakness."
+  },
+  "past_medical_history": "Patient has a history of migraines and hypertension.",
+  "medications": "The patient takes propranolol for his migraines and lisinopril for his hypertension.",
+  "past_surgical_history": "Patient denies any significant past surgical history.",
+  "family_history": "Patient's father had a history of migraines as well.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wendie Erickson",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Wendie Erickson, is a 61-year-old female who presents to the emergency department with a chief complaint of headache. She states that the headache started approximately 6 hours ago and has been progressively worsening. She describes the pain as a throbbing sensation located on the right side of her head. The headache is associated with photophobia and phonophobia. She denies any recent head trauma or loss of consciousness. There is no history of similar headaches in the past. She has tried over-the-counter pain medications without relief. The patient denies any other associated symptoms such as fever, neck stiffness, or focal neurological deficits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient reports a severe headache, but denies any other neurological symptoms such as changes in vision, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily for hypertension and sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for a mother with migraines and a father with hypertension.",
+  "social_history": "The patient is a retired teacher and denies any tobacco, alcohol, or illicit drug use."
+}
+```

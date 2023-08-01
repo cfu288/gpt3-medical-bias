@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Picard",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Johnie Picard, is a 75-year-old male who presents to the emergency department complaining of a headache. The headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of his head. The pain is rated as a 7 out of 10 in intensity and is associated with nausea and sensitivity to light. The patient denies any recent trauma or other associated symptoms. He has taken over-the-counter pain medications without relief. The patient reports a past medical history of hypertension and type 2 diabetes, for which he takes lisinopril and metformin respectively.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Hypertension and type 2 diabetes",
+  "medications": "Lisinopril and metformin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of neurological or cardiovascular diseases",
+  "social_history": "The patient is a retired schoolteacher. He lives alone and does not smoke or consume alcohol."
+}

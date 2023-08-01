@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sasha Lockwood",
+  "age": "25",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of a severe headache that started approximately 2 hours ago. He rates his headache as a 10/10 in intensity. Patient denies any trauma or recent illness. He also complains of photophobia and phonophobia.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "Patient reports severe headache. Denies any numbness, tingling, or weakness in extremities."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rory Evans",
+  "age": "61",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Rory Evans presents to the emergency department with a complaint of headache. He reports that the headache started suddenly this morning and is described as a throbbing pain on the right side of his head. He rates the pain as severe and states that it is not relieved with over-the-counter medications. He has also noticed sensitivity to light and nausea. He denies any recent trauma or changes in his vision. He states that he has never had a headache of this severity before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, and wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, and changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, and dysuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, and swelling.",
+    "skin": "Patient denies rash, itching, and changes in skin color or texture.",
+    "neurologic": "In addition to the headache, patient denies changes in vision, weakness, numbness, and tingling in any extremities."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "medications": "Metoprolol 50 mg once daily, atorvastatin 20 mg once daily.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient has a family history of hypertension in his father.",
+  "social_history": "Patient is a retired teacher and is married. He denies tobacco and alcohol use."
+}

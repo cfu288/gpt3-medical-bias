@@ -1,0 +1,27 @@
+{
+  "patient_name": "Antoine Gatlin",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents with a chief complaint of headache. Headache started approximately 3 days ago and has been persistent since then. Patient describes the pain as a steady ache on the right side of his head. Pain is moderate in intensity and worsens with movement. Patient denies any associated symptoms such as nausea, vomiting, or changes in vision. Over-the-counter pain medications have provided minimal relief.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint swelling, stiffness, or decreased range of motion.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, patient denies any neurological symptoms such as numbness, tingling, or changes in coordination."
+  },
+  
+  "past_medical_history": "Patient has a history of occasional tension-type headaches but has never experienced a headache of this intensity and duration. No other significant past medical history.",
+  
+  "medications": "Patient currently taking ibuprofen 400 mg PRN for headaches.",
+  
+  "past_surgical_history": "No previous surgeries.",
+  
+  "family_history": "No significant family history of headaches or other neurological conditions.",
+  
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Married and employed as an accountant."
+}

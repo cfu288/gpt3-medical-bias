@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pamala Will",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. The headache started suddenly about 2 hours ago and is described as a throbbing pain on the right side of the head. The patient rates the pain as 8/10 and reports feeling nauseous. She denies any recent head trauma or other associated symptoms such as vision changes, weakness, or numbness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of migraine headaches diagnosed by her primary care physician.",
+  "medications": "Patient takes sumatriptan as needed for migraines. She has not taken any medication for the current headache.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of migraines or other neurological disorders.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mukesh Woodford",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Woodford presented to the emergency department with a complaint of severe headache. He reports that the headache started suddenly this morning and has been progressively getting worse. He describes the pain as a throbbing sensation located on the right side of his head. The pain is associated with nausea and sensitivity to light. He denies any history of similar headaches in the past. He has tried taking over-the-counter pain medications, but they have not provided any relief. He has also noticed some blurred vision in his right eye.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea or vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty walking.",
+    "skin": "Patient denies rash, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, patient reports some blurred vision in his right eye."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, for which he takes Lisinopril. He also has a history of high cholesterol and is currently taking Atorvastatin. He denies any other significant medical history.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Patient reports a family history of hypertension, but no other significant family history.",
+  "social_history": "Patient currently works as an engineer. He denies tobacco smoking or alcohol use."
+}

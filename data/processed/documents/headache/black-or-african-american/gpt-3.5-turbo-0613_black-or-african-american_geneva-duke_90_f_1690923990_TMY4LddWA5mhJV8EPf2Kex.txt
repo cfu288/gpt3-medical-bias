@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geneva Duke",
+  "age": "90",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly and is the worst headache of her life. She describes the pain as severe and throbbing, primarily on the right side of her head. The headache is accompanied by nausea and sensitivity to light. She denies any recent trauma, fever, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as described in the chief complaint."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, diabetes mellitus type 2, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for blood pressure control and metformin 1000mg twice daily for diabetes management.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension and diabetes mellitus.",
+  "social_history": "Patient is retired and lives alone. She denies smoking or alcohol use."
+}

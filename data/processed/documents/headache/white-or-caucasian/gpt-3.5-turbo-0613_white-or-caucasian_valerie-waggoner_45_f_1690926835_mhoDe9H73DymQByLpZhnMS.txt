@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valerie Waggoner",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Valerie Waggoner, a 45-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly approximately 2 hours ago and is described as a pounding sensation on the right side of her head. The headache is moderate in intensity and is associated with nausea but no vomiting. There is no associated visual changes, weakness, or numbness. The patient denies any recent head trauma or similar episodes in the past. She states that she has been experiencing intermittent headaches for the past few months, but this episode is more severe than her usual headaches. There is no known trigger for her headaches. She has taken over-the-counter pain medications, but they provided only temporary relief. The headache has not improved with rest or changes in position.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning sensation.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any skin lesions, rash, or itching.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, tingling, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines and hypertension. She is not currently taking any medications for migraines, but she takes hydrochlorothiazide for hypertension.",
+  "medications": "Hydrochlorothiazide",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of migraines, stroke, or other neurological conditions.",
+  "social_history": "The patient denies smoking, alcohol consumption, or illicit drug use. She works as an accountant and denies any recent significant stressors."
+}

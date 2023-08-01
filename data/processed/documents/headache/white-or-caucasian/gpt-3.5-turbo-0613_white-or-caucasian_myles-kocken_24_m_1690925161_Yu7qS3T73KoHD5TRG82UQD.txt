@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myles Kocken",
+  "age": "24",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Myles Kocken, a 24-year-old male, presents to the emergency department with a chief complaint of headache. The headache started approximately 6 hours ago and is described as a throbbing pain on the right side of his head. He rates the intensity of the headache as 7 out of 10. He denies any associated symptoms such as nausea, vomiting, or visual disturbances. The headache is worsened by bright lights and loud noises. He has tried taking over-the-counter pain medications but they have provided minimal relief. He has no known history of migraines or similar episodes in the past. On further questioning, he reports feeling fatigued and having difficulty concentrating recently. There is no history of recent head trauma or fever. He denies any history of substance abuse or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in pigmentation.",
+    "neurologic": "In addition to the headache, the patient reports feeling fatigued and having difficulty concentrating recently. No other neurologic symptoms are reported."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer and denies any recent stressors."
+}
+```

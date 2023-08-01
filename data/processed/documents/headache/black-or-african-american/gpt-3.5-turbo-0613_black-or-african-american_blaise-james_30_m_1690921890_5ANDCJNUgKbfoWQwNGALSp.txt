@@ -1,0 +1,21 @@
+{
+  "patient_name": "Blaise James",
+  "age": "30",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of headache. According to the patient, the headache started suddenly this morning and is described as a severe, throbbing pain in the right temple. The patient states that he has never experienced a headache like this before and that it is interfering with his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient reports the headache as the only significant neurologic symptom."
+  },
+  "past_medical_history": "The patient has a history of occasional migraine headaches, usually relieved with over-the-counter analgesics.",
+  "medications": "The patient does not take any medications regularly.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "No significant family history of migraine or other neurologic disorders.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He works as a software engineer and denies any recent significant stressors or changes in his daily routine."
+}

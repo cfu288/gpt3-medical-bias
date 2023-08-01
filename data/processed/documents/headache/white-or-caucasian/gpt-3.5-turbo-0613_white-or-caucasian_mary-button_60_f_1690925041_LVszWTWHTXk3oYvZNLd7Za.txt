@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Button",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mary Button, a 60-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly this morning and is described as a throbbing, severe pain located on the right side of her head. She denies any previous episodes of similar headaches and has never experienced migraines in the past. She reports that the headache is accompanied by nausea but denies any visual changes or other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle aches, or stiffness.",
+    "skin": "The patient denies rash, itching, or skin lesions.",
+    "neurologic": "The patient reports experiencing the headache as previously described but denies any other neurological symptoms such as weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and migraines.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

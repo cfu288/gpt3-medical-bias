@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Morgan King",
+  "age": "23",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Morgan King, is a 23-year-old female who presents to the emergency department with a chief complaint of headache. The patient states that the headache started suddenly this morning and is located on the right side of her head. The pain is described as sharp and throbbing, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or visual changes. She has tried taking over-the-counter pain medications but has not experienced relief. There is no history of head trauma or recent illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies rash, itching, or skin lesions.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient is not aware of any significant family history.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use."
+}
+```

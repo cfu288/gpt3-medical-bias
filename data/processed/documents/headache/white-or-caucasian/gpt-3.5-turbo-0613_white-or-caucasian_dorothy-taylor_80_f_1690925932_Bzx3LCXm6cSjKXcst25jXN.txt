@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dorothy Taylor",
+  "age": "80",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Dorothy Taylor, is an 80-year-old female who presented to the emergency department with a chief complaint of headache. She reports that the headache started abruptly this morning and is the worst headache she has ever experienced. She describes the pain as sharp and intense, localized to the front of her head. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia. She has no history of similar headaches in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient reports headache as her only neurologic symptom."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and ibuprofen 200 mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension in her mother and osteoarthritis in her sister.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}
+```

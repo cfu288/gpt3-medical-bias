@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gerry Graham",
+  "age": "60",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient presents to the emergency department with a complaint of headache. He describes the pain as a throbbing sensation on the right side of his head, rated 7 out of 10 in severity. The headache started suddenly this morning and has been constant since then. He denies any associated symptoms such as nausea, vomiting, or visual changes. The patient has never experienced this type of headache before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "No abdominal pain, nausea, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "Aside from the headache, the patient denies any focal neurologic deficits or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "There is no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of migraine headaches.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He is retired and lives alone."
+}

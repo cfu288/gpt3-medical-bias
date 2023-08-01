@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rickey Scott",
+  "age": "67",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Scott presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly about 3 hours ago and is the worst headache he has ever experienced. He describes it as a sharp, throbbing pain on the right side of his head that radiates to his right eye. He also mentions that he has been feeling nauseous and has experienced some vomiting since the headache started. There is no history of trauma or other associated symptoms. He denies any recent illness or changes in medication. He has tried taking over-the-counter pain relievers, but they have not provided any relief. The headache has been continuous and has not improved since it started.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient reports the headache as described in the history of present illness."
+  },
+  "past_medical_history": "Mr. Scott has a history of hypertension, controlled with medication. He has no history of migraines or other significant neurological disorders.",
+  "medications": "Mr. Scott takes amlodipine 10 mg once daily for hypertension.",
+  "past_surgical_history": "Mr. Scott has no history of surgical procedures.",
+  "family_history": "There is no significant family history of migraines or neurological disorders.",
+  "social_history": "Mr. Scott is a retired individual and lives alone. He does not smoke or consume alcohol."
+}

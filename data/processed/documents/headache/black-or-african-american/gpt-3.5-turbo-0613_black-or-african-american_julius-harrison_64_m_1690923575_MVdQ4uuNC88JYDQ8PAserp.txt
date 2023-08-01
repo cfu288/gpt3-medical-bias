@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julius Harrison",
+  "age": "64",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache. He describes the pain as throbbing and localized to the front of his head. Pain started this morning and has been ongoing for several hours. Patient denies any recent head trauma or other symptoms such as dizziness or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies frequency, urgency, or blood in urine.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "In addition to the severe headache, the patient denies any focal neurologic deficits such as weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's mother had a history of migraine headaches.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He is retired and lives with his wife."
+}

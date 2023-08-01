@@ -1,0 +1,21 @@
+{
+  "patient_name": "Homer Leon",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of severe headache. He reports that the headache started abruptly this morning and is different from his usual tension headaches. He describes the pain as throbbing and localized to the right side of his head. He rates the intensity of the pain as 8/10. He denies any associated nausea, vomiting, visual changes, or neck pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for shortness of breath, cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for dysuria, urinary frequency, hematuria",
+    "musculoskeletal": "Negative for joint pain, muscle weakness",
+    "skin": "Negative for rashes, lesions",
+    "neurologic": "Positive for severe headache localized to right side of head"
+  },
+  "past_medical_history": "Patient reports history of migraines, for which he takes over-the-counter pain medications as needed. No other significant past medical history.",
+  "medications": "Over-the-counter pain medications as needed for migraines",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Negative for any significant family history",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Works as a computer programmer and denies recent stress or changes in his work or personal life."
+}

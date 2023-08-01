@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mohammed Williams",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mohammed Williams, presents to the emergency department with a chief complaint of headache. The headache started this morning and is described as a throbbing pain located in the frontal area. The patient rates the headache as a 7 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, or photophobia. The headache is not relieved with over-the-counter pain medications. The patient states that this is the first time he has experienced a headache of this severity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, the patient denies dizziness, syncope, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines. He has had occasional migraines in the past, but they have never been as severe as the current headache.",
+  "medications": "The patient takes ibuprofen as needed for headaches.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for migraines in his mother and sister.",
+  "social_history": "The patient works as a software engineer and denies tobacco or illicit drug use."
+}

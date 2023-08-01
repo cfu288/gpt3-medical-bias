@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Napoleon Bullard",
+  "age": "54",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Napoleon Bullard, a 54-year-old male, presents to the emergency department with a chief complaint of headache. The headache started approximately 6 hours ago and is described as a throbbing pain located on the right side of the forehead. The pain is rated 7/10 in intensity and is associated with nausea and sensitivity to light. The patient denies any recent head trauma, fevers, or visual disturbances. No significant medical history or recent changes in medication are reported. There is no family history of migraines or other neurological disorders. The patient states that he has been under stress at work lately. On physical examination, vital signs are stable, and there are no focal neurological deficits.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or fever",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "No joint pain, stiffness or swelling",
+    "skin": "No rashes, itching, or changes in skin color",
+    "neurologic": "Aside from the headache, no focal neurological deficits"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "The patient takes no regular medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No family history of migraines or other neurological disorders",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He is married and works full-time as a project manager."
+}
+```

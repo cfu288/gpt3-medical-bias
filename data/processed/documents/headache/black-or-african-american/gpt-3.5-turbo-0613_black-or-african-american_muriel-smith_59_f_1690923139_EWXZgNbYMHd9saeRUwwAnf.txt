@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Muriel Smith",
+  "age": "59",
+  "gender": "f",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Muriel Smith, a 59-year-old female, presents to the emergency department with a chief complaint of headache. The headache started 2 days ago and has been constant since then. The patient describes the pain as aching and throbbing, primarily located in the frontal region. She rates the pain as 7 out of 10 in severity. The headache is not relieved by rest or over-the-counter medication. The patient denies any recent trauma or infections. She has not experienced any associated symptoms such as nausea, vomiting, or changes in vision. The patient reports that she has a history of migraines but states that this headache feels different and more severe than her usual migraines.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "In addition to the headache, the patient also reports experiencing intermittent dizziness and mild confusion."
+  },
+  "past_medical_history": "The patient has a history of migraines and hypertension.",
+  "medications": "The patient takes a daily medication for hypertension, Lisinopril 10 mg.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for migraines in her mother and maternal grandmother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Mckenney",
+  "age": "63",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. Patient reports that the headache began suddenly approximately 2 hours ago and is described as a throbbing pain located on the right side of the head. The pain is rated as 8/10 in severity and is associated with photophobia and phonophobia. Patient denies any associated symptoms such as nausea, vomiting, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or lightheadedness.",
+    "respiratory": "Patient denies shortness of breath, cough, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "In addition to the headache, patient denies any focal weakness, numbness or tingling, changes in coordination, or difficulty speaking."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient is currently taking lisinopril 20 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient's family history is significant for hypertension and hyperlipidemia in both parents.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

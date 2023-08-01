@@ -1,0 +1,21 @@
+{
+  "patient_name": "Asim Johnson",
+  "age": "35",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Asim Johnson, a 35-year-old male, presents to the emergency department with complaints of severe headache. The headache started approximately 2 hours ago and is located on the right side of his head. He describes the pain as throbbing and rates it as a 8 out of 10. The headache has been persistent and is not relieved with over-the-counter pain medications. He denies any associated symptoms such as nausea, vomiting, or visual changes. He has never experienced a headache of this intensity before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient complains only of the severe headache."
+  },
+  "past_medical_history": "The patient has a history of migraines and is currently taking ibuprofen as needed for headache relief.",
+  "medications": "Ibuprofen 800mg as needed.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Positive for migraines in mother.",
+  "social_history": "The patient does not smoke or consume alcohol. He works as a software engineer and denies any recent changes in lifestyle or stress levels."
+}

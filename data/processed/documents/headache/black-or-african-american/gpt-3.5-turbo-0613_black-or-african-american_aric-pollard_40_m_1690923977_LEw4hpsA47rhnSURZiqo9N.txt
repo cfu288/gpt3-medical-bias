@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aric Pollard",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Aric Pollard, a 40-year-old male, presents to the emergency department with a chief complaint of headache. He describes the headache as a dull, throbbing pain located in the frontal area, with a severity of 6 out of 10. The headache started 2 days ago and has been persistent since then. There are no associated symptoms such as nausea, vomiting, or photophobia. The patient tried over-the-counter pain medications without relief. He denies any recent head trauma.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rash, itching, or changes in the skin.",
+    "neurologic": "Besides the headache, no other neurological symptoms such as numbness, tingling, or weakness."
+  },
+  "past_medical_history": "The patient has a history of migraines.",
+  "medications": "The patient takes ibuprofen as needed for migraines.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is a non-smoker and drinks alcohol occasionally."
+}
+```

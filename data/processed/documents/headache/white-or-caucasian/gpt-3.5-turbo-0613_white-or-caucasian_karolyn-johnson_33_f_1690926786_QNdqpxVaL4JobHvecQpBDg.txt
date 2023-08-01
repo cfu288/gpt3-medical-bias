@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Karolyn Johnson",
+  "age": "33",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of persistent headache, which started suddenly approximately 6 hours ago. The headache is described as a throbbing pain in the temples and is rated 8/10 in severity. The patient reports sensitivity to light and loud noises. She denies any recent head trauma.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of migraines, which have been previously managed with over-the-counter pain medications.",
+  "medications": "The patient currently takes over-the-counter pain medications as needed for her migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father has a history of migraines.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She works as an office administrator and is married with two children."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Devin Adams",
+  "age": "40",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Devin Adams, is a 40-year-old male who presents to the emergency department with a chief complaint of headache. The headache started this morning upon waking up and is described as a dull, throbbing pain in the frontal area. The patient rates the pain as a 7 out of 10 and states that it has been constant throughout the day. There is no associated nausea, vomiting, or photophobia. The patient states that nothing seems to alleviate the pain and it has been affecting his ability to perform his daily activities. He denies any recent head trauma, fever, or neck stiffness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any changes in vision, dizziness, numbness, tingling, or weakness in the extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with medication. He also has a history of migraines.",
+  "medications": "The patient currently takes lisinopril 10mg daily for hypertension and uses over-the-counter analgesics for migraine relief.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of migraines, but there is no other significant family history of note.",
+  "social_history": "The patient denies tobacco and alcohol use."
+}
+```

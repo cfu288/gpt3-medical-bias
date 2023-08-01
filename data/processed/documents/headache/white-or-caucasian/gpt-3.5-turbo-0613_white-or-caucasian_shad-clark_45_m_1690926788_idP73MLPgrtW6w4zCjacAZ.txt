@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shad Clark",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Shad Clark, a 45-year-old male, presented to the emergency department complaining of a severe headache. He states that the headache started suddenly about 3 hours ago and is located on the right side of his head. He describes the pain as throbbing and rates it as a 8 out of 10 in severity. The patient denies any associated symptoms such as nausea, vomiting, vision changes, or neck stiffness. He states that he has never experienced a headache this severe before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient reports a severe headache but denies any other neurologic symptoms such as weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes lisinopril as his only medication. He denies any other significant medical conditions or past hospitalizations.",
+  "medications": "Lisinopril for hypertension",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is married, works as a software engineer, and denies any tobacco, alcohol, or illicit drug use."
+}

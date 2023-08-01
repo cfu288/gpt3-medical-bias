@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ruthanne Perkins",
+  "age": "47",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of a severe headache that started this morning. The headache is described as throbbing and is located on the right side of the head. The patient rates the intensity of the pain as 8 out of 10. She has also experienced nausea and sensitivity to light. The headache has not improved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight changes.",
+    "cardiovascular": "The patient denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or muscle weakness.",
+    "skin": "The patient denies rashes, itching, or changes in moles.",
+    "neurologic": "In addition to the headache and associated symptoms, the patient denies numbness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of migraines and is prescribed sumatriptan as needed. She reports experiencing similar severe headaches in the past, but this episode is more intense and prolonged than her typical migraines.",
+  "medications": "Sumatriptan 50mg as needed for migraines.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient has a positive family history of migraines, with her mother and sister also experiencing migraines.",
+  "social_history": "The patient is married and works as a teacher. She does not smoke or use illicit drugs. She consumes alcohol in moderation."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mae Hodge",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mae Hodge, is a 66-year-old female who presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly this morning and is described as a severe throbbing pain located in the frontal area. She denies any associated symptoms such as nausea, vomiting, or visual changes. The headache has persisted for several hours and is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient reports a severe headache but denies any changes in vision, speech, or balance."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and stroke in her parents.",
+  "social_history": "The patient is a retired teacher and denies any tobacco, alcohol, or illicit drug use."
+}
+```

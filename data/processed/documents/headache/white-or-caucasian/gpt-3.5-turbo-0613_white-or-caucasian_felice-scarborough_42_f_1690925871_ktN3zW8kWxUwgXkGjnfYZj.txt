@@ -1,0 +1,29 @@
+{
+  "patient_name": "Felice Scarborough",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. Patient states that the headache started suddenly approximately 2 hours ago and is described as a throbbing pain on the right side of the head. Patient reports no preceding trauma or fever. Patient has tried over-the-counter pain medications with no relief. 
+
+Pain Scale: 8/10",
+
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports sensitivity to light and noise, but denies any other neurologic symptoms."
+  },
+
+  "past_medical_history": "Patient has a history of migraines and is on a daily medication for prevention. No recent changes in medication or dosage.",
+
+  "medications": "Topiramate 100 mg daily for migraine prevention.",
+
+  "past_surgical_history": "No significant past surgical history.",
+
+  "family_history": "Family history is significant for migraines in her mother and sister.",
+
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Works as a software engineer and reports no recent changes in work or lifestyle.",
+}

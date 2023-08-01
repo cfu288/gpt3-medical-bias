@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shari Benedetti",
+  "age": "62",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a complaint of severe headache that started suddenly about 2 hours ago. The pain is described as throbbing and is located on the right side of the head. It is associated with nausea and sensitivity to light. The patient denies any recent head trauma or fever. She has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or tingling in any part of the body."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes daily medication for it. She denies any other medical conditions.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is non-contributory. There is no history of migraines or other neurological conditions in the family.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

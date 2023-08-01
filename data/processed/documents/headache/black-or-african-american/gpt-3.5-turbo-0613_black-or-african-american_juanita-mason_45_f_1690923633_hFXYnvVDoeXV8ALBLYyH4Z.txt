@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Juanita Mason",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the right side of her head that started this morning. She rates the pain as a 7 out of 10. The headache is associated with sensitivity to light and nausea. She denies any recent head trauma or vision changes. Patient states that she has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or changes in moles.",
+    "neurologic": "In addition to the headache, patient denies any focal neurological symptoms such as weakness, numbness, or changes in speech."
+  },
+  "past_medical_history": "Patient has a history of migraines and is prescribed sumatriptan for acute episodes. No other significant past medical history.",
+  "medications": "Sumatriptan 100mg PRN for migraines.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "Mother has a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

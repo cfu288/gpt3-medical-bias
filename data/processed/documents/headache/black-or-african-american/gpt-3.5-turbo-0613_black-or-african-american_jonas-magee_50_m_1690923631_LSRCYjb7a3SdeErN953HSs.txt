@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonas Magee",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. Patient states that the headache started suddenly and is located on the right side of the head. Patient rates the pain as 8 out of 10. Patient denies any associated symptoms such as nausea, vomiting, or vision changes. Patient states that he has never experienced a headache of this severity before. Patient reports taking over-the-counter pain medication, which provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and migraines.",
+  "medications": "Patient takes daily medication for hypertension and occasionally takes over-the-counter pain medication for migraines.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

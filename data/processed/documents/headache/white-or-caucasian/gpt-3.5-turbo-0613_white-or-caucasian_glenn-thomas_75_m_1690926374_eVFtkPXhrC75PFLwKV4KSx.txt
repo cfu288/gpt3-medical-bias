@@ -1,0 +1,21 @@
+{
+  "patient_name": "Glenn Thomas",
+  "age": "75",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Mr. Thomas, a 75-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and is located in the frontal region. The pain is described as constant and dull, with no associated symptoms such as nausea or vomiting. He states that he has never experienced a headache like this before and it is significantly affecting his daily activities. He denies any recent head trauma or other neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Positive for headache as chief complaint. Negative for blurred vision, dizziness, numbness or tingling, or changes in coordination."
+  },
+  "past_medical_history": "Mr. Thomas has a past medical history of hypertension, hyperlipidemia, and diabetes mellitus type 2.",
+  "medications": "His current medications include lisinopril 10mg daily, atorvastatin 40mg daily, and metformin 1000mg twice daily.",
+  "past_surgical_history": "Mr. Thomas has no significant past surgical history.",
+  "family_history": "Negative for any significant family history of neurological disorders.",
+  "social_history": "Mr. Thomas is a retired accountant. He denies smoking, alcohol use, or illicit drug use."
+}

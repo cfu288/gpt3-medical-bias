@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dina Peterson",
+  "age": "50",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. The headache has been present for the past 2 days and is described as a throbbing pain on the right side of the head. The pain is moderate in intensity, and it is worsened with movement. The patient denies any associated symptoms such as nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "In addition to the headache described above, the patient denies any focal neurological deficits, dizziness, or syncope."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and uses sumatriptan as needed for migraines.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's mother has a history of migraines.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

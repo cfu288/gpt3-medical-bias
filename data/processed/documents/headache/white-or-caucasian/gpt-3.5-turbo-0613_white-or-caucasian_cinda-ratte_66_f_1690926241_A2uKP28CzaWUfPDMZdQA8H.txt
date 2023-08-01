@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cinda Ratte",
+  "age": "66",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Cinda Ratte, a 66-year-old female, presents to the emergency department with a chief complaint of headache. The patient states that the headache started approximately 4 hours ago and has been gradually getting worse. The pain is described as a throbbing sensation, primarily located in the frontal and temporal regions. The patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. There is no history of head trauma or recent illness. Upon further questioning, the patient reports a past medical history of hypertension and osteoarthritis. The patient's current medications include lisinopril for hypertension and acetaminophen for osteoarthritis pain. The patient has not had any recent surgeries. The patient denies any family history of migraines or other neurological conditions. In terms of social history, the patient is a non-smoker and consumes alcohol socially.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient reports chronic joint pain in her knees from osteoarthritis.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "Aside from the headache, the patient denies any neurologic deficits such as weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Hypertension, Osteoarthritis",
+  "medications": "Lisinopril, Acetaminophen",
+  "past_surgical_history": "None",
+  "family_history": "No family history of migraines or other neurological conditions.",
+  "social_history": "Non-smoker, social alcohol consumption"
+}

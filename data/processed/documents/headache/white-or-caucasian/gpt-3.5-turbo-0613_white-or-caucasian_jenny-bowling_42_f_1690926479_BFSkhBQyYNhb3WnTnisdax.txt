@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jenny Bowling",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Jenny Bowling, a 42-year-old female, presents to the emergency department with a chief complaint of headache. The headache started suddenly this morning and is described as a throbbing pain located on the left side of the head. The intensity of the pain is severe, with a score of 8/10 on the numerical rating scale. The patient reports associated symptoms of nausea and sensitivity to light and sound. There is no significant trauma or recent illness that could explain the headache. The patient states that she has never experienced a headache of this severity before. It is important to note that Jenny has a history of migraines but reports that this headache is different and more intense.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies dysuria or hematuria. She has regular menstrual cycles.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines and occasional tension headaches. She has been evaluated for her headaches in the past and has been prescribed triptans for abortive therapy. The patient reports that her migraines are typically less severe, with a pain intensity of 4/10 on average.",
+  "medications": "The patient takes triptans as needed for migraines. She also takes over-the-counter ibuprofen for occasional tension headaches.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of migraines. Her mother and sister both experience migraines.",
+  "social_history": "The patient is married and works as a school teacher. She denies tobacco, alcohol, or illicit drug use."
+}

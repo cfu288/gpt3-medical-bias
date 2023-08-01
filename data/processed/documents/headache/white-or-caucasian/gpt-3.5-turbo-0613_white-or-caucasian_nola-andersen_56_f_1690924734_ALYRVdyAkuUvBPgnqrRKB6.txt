@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nola Andersen",
+  "age": "56",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe headache that started suddenly about 2 hours ago. She describes the pain as throbbing and localized to the temporal area. She rates the current pain as 8 on a scale of 0-10. She denies any associated symptoms such as fever, nausea, vomiting, or visual changes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or deformities.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient reports having occasional headaches in the past, but none as severe as the current episode. No history of head trauma."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril daily. She has no other significant medical history.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "There is no significant family history of headache disorders, stroke, or other neurological conditions.",
+  "social_history": "Patient denies any tobacco or alcohol use."
+}

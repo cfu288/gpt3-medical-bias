@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Joline Champagne",
+  "age": "38",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Joline Champagne, is a 38-year-old female presenting to the emergency department with a chief complaint of headache. The headache started approximately 3 hours ago and is described as a throbbing pain located on the right side of her head. She rates the pain as a 7 out of 10 and states that it is the worst headache she has ever experienced. She denies any associated symptoms such as nausea, vomiting, photophobia, or phonophobia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient reports no history of seizures, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines and is currently prescribed sumatriptan for abortive treatment. She reports experiencing migraines approximately once a month.",
+  "medications": "The patient is currently taking sumatriptan 100mg as needed for migraines.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of neurological or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

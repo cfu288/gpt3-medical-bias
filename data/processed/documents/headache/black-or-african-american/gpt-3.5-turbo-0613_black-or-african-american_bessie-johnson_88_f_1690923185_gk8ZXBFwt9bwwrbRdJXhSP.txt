@@ -1,0 +1,27 @@
+{
+  "patient_name": "Bessie Johnson",
+  "age": "88",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of severe headache. Headache started this morning and has been progressively worsening throughout the day. Patient describes the headache as pounding and throbbing, located in the front of the head. Patient denies any associated symptoms such as nausea, vomiting, or visual disturbances. No recent head trauma or similar episodes in the past. 
+
+Patient denies any previous episodes of headaches but reports occasional mild headaches in the past that resolved with over-the-counter painkillers. Patient denies any recent travel, sick contacts, or recent illnesses. No other significant medical history.
+
+Upon further review of symptoms, patient denies any constitutional symptoms such as fever, chills, or weight loss. No cardiovascular symptoms such as chest pain, palpitations, or shortness of breath. No respiratory symptoms such as cough, wheezing, or shortness of breath. No gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or diarrhea. No genitourinary symptoms such as dysuria or hematuria. No musculoskeletal symptoms such as joint pain or swelling. No skin symptoms such as rash or itching. No neurologic symptoms other than the headache.
+
+Patient has a history of hypertension and takes Lisinopril 10mg once daily. No other medications. No known allergies. No previous surgeries. No significant family history of medical conditions. Patient is a non-smoker and denies any alcohol or illicit drug use." ,
+  "review_of_symptoms": {
+    "constitutional": "None",
+    "cardiovascular": "None",
+    "respiratory": "None",
+    "gi": "None",
+    "gu": "None",
+    "musculoskeletal": "None",
+    "skin": "None",
+    "neurologic": "Headache"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg",
+  "past_surgical_history": "None",
+  "family_history": "None",
+  "social_history": "Non-smoker, no alcohol or illicit drug use."
+}

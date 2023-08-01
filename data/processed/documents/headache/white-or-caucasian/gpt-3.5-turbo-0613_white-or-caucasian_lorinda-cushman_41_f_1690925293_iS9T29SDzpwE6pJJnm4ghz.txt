@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lorinda Cushman",
+  "age": "41",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Lorinda Cushman, a 41-year-old female, presents to the emergency department with complaints of a severe headache. She states that the headache started suddenly about 2 hours ago and it is the worst headache she has ever experienced. She describes the pain as a throbbing sensation on both sides of her head. She denies any associated symptoms such as nausea, vomiting, sensitivity to light or sound, or changes in vision.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or muscle weakness.",
+    "skin": "Denies rash, pruritus, or lesions.",
+    "neurologic": "Reports only the severe headache as mentioned in the history of present illness."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, for which she takes sumatriptan as needed. She had a similar episode of severe headache 3 months ago, but it resolved with rest and medication.",
+  "medications": "Sumatriptan 100 mg tablet taken as needed for migraines.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Positive for migraines in mother and sister.",
+  "social_history": "The patient denies tobacco, alcohol, and recreational drug use. She works as an accountant and denies any recent travel or exposure to sick contacts."
+}
+```

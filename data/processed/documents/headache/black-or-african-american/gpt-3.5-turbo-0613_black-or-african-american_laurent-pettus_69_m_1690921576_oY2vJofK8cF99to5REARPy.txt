@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Laurent Pettus",
+  "age": "69",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of a severe headache of sudden onset. He described the pain as a throbbing sensation located on the right side of his head. The headache started approximately 4 hours ago and has been progressively worsening. He denies any associated symptoms such as nausea, vomiting, or visual changes. Patient states that he has never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever or chills.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient complains of a severe headache, but denies any other neurological symptoms such as weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Lisinopril 10mg once daily for hypertension",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient's father had a history of stroke.",
+  "social_history": "Patient denies smoking or alcohol use."
+}
+```

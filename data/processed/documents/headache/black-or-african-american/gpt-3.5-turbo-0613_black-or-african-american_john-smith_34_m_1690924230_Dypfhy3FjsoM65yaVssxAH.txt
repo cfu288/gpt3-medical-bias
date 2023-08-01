@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Smith",
+  "age": "34",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, John Smith, is a 34-year-old male who presents to the emergency department with a chief complaint of headache. According to the patient, the headache started two days ago and has been progressively worsening. He describes it as a constant, throbbing pain located in the frontal region of his head. The patient denies any associated symptoms such as visual changes, dizziness, or nausea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of migraines, which he has been experiencing since his teenage years. He reports similar episodes of throbbing headaches in the past, typically lasting several days.",
+  "medications": "The patient currently takes over-the-counter ibuprofen for his migraines.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of migraines or other neurological disorders.",
+  "social_history": "The patient does not smoke or use recreational drugs. He consumes alcohol occasionally on social occasions."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Helen Mclean",
+  "age": "68",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of headache. She describes the headache as a throbbing pain on the right side of her head. She rates the pain as a 7 out of 10 and states that it started yesterday and has been getting progressively worse. She has tried taking over-the-counter pain medication, but it has not provided relief. She denies any associated symptoms such as nausea, vomiting, or visual changes. ",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient reports headache as the only neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of migraines.",
+  "social_history": "Patient denies tobacco or alcohol use. She lives alone and is independent with activities of daily living."
+}
+```

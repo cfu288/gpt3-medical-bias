@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stefan Ward",
+  "age": "32",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient Stefan Ward, a 32-year-old male, presents to the emergency department with complaints of severe headache. He states that the headache started suddenly about 2 hours ago and is located in the frontal region. The pain is throbbing in nature and rates it as a 8 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, or vision changes. He has no previous history of migraines or similar headaches. There is no history of head trauma. Upon further questioning, he reports feeling stressed lately due to work demands. He denies any recent illnesses or fevers. He does not have any medical conditions and does not take any home medications. No recent changes in diet or lifestyle.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, diarrhea, or vomiting",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "In addition to the severe headache, no other neurological symptoms such as weakness, numbness, or visual changes"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No surgeries",
+  "family_history": "No significant family history of neurological or cardiovascular disorders",
+  "social_history": "The patient works as a software engineer and denies tobacco, alcohol, or illicit drug use."
+}

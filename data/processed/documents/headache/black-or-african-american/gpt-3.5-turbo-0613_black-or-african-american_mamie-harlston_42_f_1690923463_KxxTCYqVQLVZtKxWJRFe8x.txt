@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mamie Harlston",
+  "age": "42",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Mamie Harlston, a 42-year-old female, presents to the emergency department with a chief complaint of headache. The patient reports that the headache started slowly yesterday morning and has been progressively worsening. She describes the headache as a throbbing pain on the left side of her head, which is exacerbated by movement and is associated with sensitivity to light and sound. The patient denies any recent head trauma or loss of consciousness. She has no significant medical history and is currently not taking any medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin abnormalities.",
+    "neurologic": "In addition to the headache, the patient denies any focal weakness, numbness, vision changes, or coordination difficulties."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports no significant family history of neurological disorders, migraines, or other chronic conditions.",
+  "social_history": "The patient is a currently unemployed and does not use tobacco, alcohol, or illicit drugs. She lives alone and does not have any pets."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luciana Evans",
+  "age": "45",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of a severe headache. She describes the pain as throbbing and constant, with intensity of 8 out of 10. The headache started this morning and has been progressively worsening. Patient denies any associated symptoms such as nausea, vomiting, photophobia, or neck stiffness. She has taken over-the-counter pain relievers without relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in moles.",
+    "neurologic": "Patient reports only the headache as the primary neurological symptom."
+  },
+  "past_medical_history": "Patient has a history of migraines and occasional tension headaches. She denies any other significant past medical history.",
+  "medications": "Patient takes ibuprofen PRN for headaches.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}

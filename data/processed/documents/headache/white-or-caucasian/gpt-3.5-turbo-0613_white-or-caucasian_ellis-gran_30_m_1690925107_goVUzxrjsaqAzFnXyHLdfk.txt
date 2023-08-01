@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ellis Gran",
+  "age": "30",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Ellis Gran, a 30-year-old male, presents to the emergency department with a chief complaint of headache. He reports that the headache started suddenly this morning and has been getting progressively worse throughout the day. He describes the pain as a throbbing sensation on the right side of his head, accompanied by nausea and sensitivity to light. He denies any recent head trauma or fever. He has taken over-the-counter pain medication without relief. The patient denies having any previous headaches of similar intensity or duration. He states that he has been feeling otherwise well and has not experienced any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any dizziness, changes in vision, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient reports no significant past medical history and denies any chronic medical conditions or hospitalizations.",
+  "medications": "The patient denies taking any prescription medications. He occasionally takes over-the-counter pain relievers as needed.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient does not have any known history of significant medical conditions in his family.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He is employed as an office worker and reports no occupational exposures or recent travel."
+}
+```

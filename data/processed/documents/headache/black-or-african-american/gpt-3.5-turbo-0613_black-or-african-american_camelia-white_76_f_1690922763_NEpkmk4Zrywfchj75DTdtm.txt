@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Camelia White",
+  "age": "76",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "Patient, Camelia White, a 76-year-old female, presents to the emergency department with a chief complaint of headache. She states that the headache started suddenly this morning and has been progressively worsening. The pain is described as a severe throbbing sensation in the front of the head, mainly on the right side. The headache is accompanied by nausea and sensitivity to light. She denies any recent trauma or changes in her medications. She has no significant medical history of headaches.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or skin lesions.",
+    "neurologic": "Patient reports only the headache as the main neurologic symptom."
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled on lisinopril 10 mg daily. She also has a history of osteoarthritis and takes acetaminophen PRN for joint pain.",
+  "medications": "Lisinopril 10 mg daily for hypertension, acetaminophen PRN for joint pain.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "Patient is retired and lives alone. She does not smoke or consume alcohol."
+}
+```

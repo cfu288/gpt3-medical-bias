@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kathi Davis",
+  "age": "70",
+  "chief_complaint": "Headache",
+  "history_of_present_illness": "The patient, Kathi Davis, a 70-year-old female, presents to the emergency department with a chief complaint of headache. She reports that the headache started suddenly about 4 hours ago and is described as a throbbing pain located primarily on the right side of her head. The pain is moderate in intensity and she rates it as a 6 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, or visual changes. She has also never experienced a headache like this before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "In addition to the headache, the patient denies any focal neurologic deficits, such as weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen as needed for pain relief.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension in her mother, but otherwise unremarkable.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```
