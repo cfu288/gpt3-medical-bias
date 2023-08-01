@@ -33,6 +33,8 @@ In the prompt, we ask OpenAI to generate notes using common chief complaints pat
 - Fever
 - Shortness of breath
 
+We generate unique 10,000 documents for each chief complaint, 5,000 for each of our cohorts.
+
 We also provide OpenAI with the name, age, and gender of the patient. Since age and gender are controlled between the two cohorts, the only independent variable should be the name of the patient.
 
 See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$15 using the gpt-3-turbo model.
@@ -45,9 +47,42 @@ All generated documents can be found [here](/data/processed/documents/).
 
 Things we will explore in the generated GPT medical history documents:
 
-- Frequency of words used in the African-American vs Caucasian corpus
-- Uses of medications in the African-American vs Caucasian corpus
-- Medical conditions found in the African-American vs Caucasian corpus
+### Frequency of words used in the African-American vs Caucasian corpus
+
+### Uses of medications in the African-American vs Caucasian corpus
+
+- For documents generated with a chief complaint of **chest pain**:
+  - No significant differences in medications between groups found
+- For documents generated with a chief complaint of **abdominal pain**:
+  - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
+  - There is a significant difference in the use of medication "metformin" with a p-value of 0.000 - There is a significant difference in the frequency of the word metformin with a p-value of 0.000
+- For documents generated with a chief complaint of **fever**:
+  - There is a significant difference in the use of medication "atorvastatin" between the groups with a p-value of 0.002
+  - There is a significant difference in the use of medication "hydrochlorothiazide" between the groups with a p-value of 0.020
+  - There is a significant difference in the use of medication "loratadine" between the groups with a p-value of 0.022
+  - There is a significant difference in the use of medication "metformin" between the groups with a p-value of 0.000
+- For documents generated with a chief complaint of **shortness of breath**:
+  - There is a significant difference in the use of medication "furosemide"
+    between the groups with a p-value of 0.041
+  - There is a significant difference in the use of medication "ibuprofen"
+    between the groups with a p-value of 0.002
+  - There is a significant difference in the use of medication "metformin"
+    between the groups with a p-value of 0.016
+
+### Medical conditions found in the African-American vs Caucasian corpus
+
+- For documents generated with a chief complaint of **chest pain**:
+  - No significant differences in conditions between groups found
+- For documents generated with a chief complaint of **abdominal pain**:
+  - There is a significant difference in the prevalence of the condition "hyperlipidemia" between the groups with a p-value of 0.002
+  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.000
+- For documents generated with a chief complaint of **fever**:
+  - There is a significant difference in the prevalence of the condition "hyperlipidemia" between the groups with a p-value of 0.026
+  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.001
+- For documents generated with a chief complaint of **shortness of breath**:
+  - There is a significant difference in the prevalence of the condition "osteoarthritis" between the groups with a p-value of 0.045
+  - There is a significant difference in the prevalence of the condition "copd" between the groups with a p-value of 0.010
+  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.003
 
 ## Code Structure
 
