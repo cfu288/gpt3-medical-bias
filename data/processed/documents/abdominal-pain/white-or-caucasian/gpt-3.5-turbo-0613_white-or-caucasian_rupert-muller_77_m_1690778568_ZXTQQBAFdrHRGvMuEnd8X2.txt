@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rupert Muller",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Muller is a 77-year-old male who presents to the emergency department with complaints of severe abdominal pain. According to the patient, the pain started suddenly in the epigastric region and has since radiated to the right lower quadrant. He rates the pain as 8/10 and describes it as sharp and constant. He denies any vomiting or diarrhea. On further questioning, he reports a loss of appetite and unintentional weight loss over the past month. He denies any fever, chills, or changes in bowel or urinary habits.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and loss of appetite.",
+    "gu": "Patient denies any urinary complaints.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is non-contributory.",
+  "social_history": "Patient is a retired engineer. He lives alone and does not smoke or drink alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keri Hiller",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Keri Hiller, a 39-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in the lower abdomen, about a 5 out of 10 in severity. The pain started approximately 6 hours ago and has been gradually getting worse. It is constant and not relieved by over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She states that she has not had any recent dietary changes or trauma to the abdomen. She has no prior history of similar episodes. Upon further questioning, the patient admits to having intermittent constipation over the past few weeks, but no recent changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient complains of abdominal pain as mentioned in the chief complaint.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypothyroidism and takes levothyroxine daily. She has no other significant past medical history.",
+  "medications": "Levothyroxine 100 mcg daily",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient's father has a history of type 2 diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

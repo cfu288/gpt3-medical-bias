@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tomas Starkey",
+  "age": "31",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Starkey presents to the emergency department with a chief complaint of abdominal pain. He describes the pain as a sharp, stabbing sensation located in the lower right quadrant of his abdomen. The pain started approximately 6 hours ago and has been continuous since then. He rates the pain as a 7 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies palpitations or chest pain.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Reports nausea and a decreased appetite.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Denies any joint or muscle pain.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "No issues with coordination or weakness reported."
+  },
+  "past_medical_history": "Mr. Starkey has a past medical history of hypertension, for which he takes losartan 50mg daily. He reports no other significant medical conditions.",
+  "medications": "Losartan 50mg daily",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Mr. Starkey is a non-smoker and does not consume alcohol. He is currently employed as a software engineer and denies any recent travel or exposure to sick contacts."
+}

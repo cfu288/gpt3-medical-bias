@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mahmoud Jones",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mahmoud Jones, a 44-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and began approximately 6 hours ago. The patient describes the pain as sharp and intermittent, which is worsened with movement. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient has no previous history of similar abdominal pain or other significant medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco use, alcohol consumption, or illicit drug use."
+}

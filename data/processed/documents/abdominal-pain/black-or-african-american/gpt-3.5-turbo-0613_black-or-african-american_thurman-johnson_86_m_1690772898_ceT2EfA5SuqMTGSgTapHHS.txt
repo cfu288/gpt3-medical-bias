@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thurman Johnson",
+  "age": "86",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Johnson is an 86-year-old male presenting to the emergency department with a chief complaint of abdominal pain. He reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and worsening with movement. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He has tried taking over-the-counter pain medications without relief. He denies any recent trauma or other precipitating factors. He states that the pain has progressively worsened since onset.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies changes in appetite, nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling. No history of recent trauma.",
+    "skin": "Patient denies rash, pruritus, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for management of his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient has a history of appendectomy at age 40. No other surgeries.",
+  "family_history": "Patient's father had a history of hypertension and his mother had a history of breast cancer.",
+  "social_history": "Patient is a retired accountant. He lives independently and does not smoke or drink alcohol."
+}

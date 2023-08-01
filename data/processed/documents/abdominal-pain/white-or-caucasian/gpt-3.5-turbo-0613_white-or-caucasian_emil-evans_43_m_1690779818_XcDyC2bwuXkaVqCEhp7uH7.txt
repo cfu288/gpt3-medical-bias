@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emil Evans",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Evans presents to the emergency department with complaints of severe abdominal pain. He states that the pain started a few hours ago and has been gradually increasing in intensity. The pain is located in the lower right quadrant and is accompanied by nausea and vomiting. He denies any recent trauma or injury to the abdomen. On further questioning, he reports a history of similar episodes of abdominal pain in the past, but none as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain, nausea, vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Mr. Evans has a past medical history of appendicitis and had an appendectomy 5 years ago. He also has a history of hypertension and is on medications for it.",
+  "medications": "Lisinopril 10 mg daily for hypertension",
+  "past_surgical_history": "Appendectomy 5 years ago",
+  "family_history": "Patient reports no significant family history",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He works as a computer programmer."
+}

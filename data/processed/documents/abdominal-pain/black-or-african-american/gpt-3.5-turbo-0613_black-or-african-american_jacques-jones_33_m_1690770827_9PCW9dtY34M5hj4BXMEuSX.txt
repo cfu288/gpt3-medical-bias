@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Jacques Jones presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is described as a constant, crampy pain located in the lower right quadrant of the abdomen. The pain is associated with nausea and vomiting. The patient denies any fever, changes in bowel movements, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as the chief complaint. Denies any changes in bowel movements, diarrhea, or blood in stool.",
+    "gu": "The patient denies any urinary symptoms including frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of appendectomy at age 18.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient had an appendectomy at age 18.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient denies any tobacco or alcohol use."
+}

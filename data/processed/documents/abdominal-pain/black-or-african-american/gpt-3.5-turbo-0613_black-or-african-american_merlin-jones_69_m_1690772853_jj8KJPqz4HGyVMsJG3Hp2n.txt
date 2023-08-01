@@ -1,0 +1,21 @@
+{
+  "patient_name": "Merlin Jones",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Jones, is a 69-year-old male presenting to the emergency department with complaints of severe abdominal pain. He states that the pain started approximately 6 hours ago and has been gradually getting worse. The pain is located in the lower right quadrant and is associated with nausea and vomiting. There is no history of similar pain in the past. Upon further inquiry, the patient denies any fever, chills, diarrhea, or blood in his stool.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any change in bowel habits or melena.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin regularly.",
+  "medications": "Lisinopril 10mg once daily and atorvastatin 20mg once daily.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a retired accountant and denies any history of tobacco or alcohol use."
+}

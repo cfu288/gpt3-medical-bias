@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odell Johnson",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Odell Johnson presents to the emergency department with a chief complaint of abdominal pain. He reports that the pain began approximately 5 hours ago and is located in the right lower quadrant. He rates the pain as 7/10 on the pain scale and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that the pain is worse with movement and is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as the chief complaint.",
+    "gu": "Patient denies dysuria or changes in urinary frequency or urgency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. He takes medications for both conditions, but is unsure of the names.",
+  "medications": "Patient takes medications for hypertension and type 2 diabetes.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports a family history of hypertension and diabetes in both parents.",
+  "social_history": "Patient is retired and lives alone. He denies smoking, alcohol use, or illicit drug use."
+}

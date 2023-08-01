@@ -1,0 +1,22 @@
+{
+  "patient_name": "Dolores Thomas",
+  "age": "70",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, Dolores Thomas, a 70-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started abruptly few hours ago and is located in the lower right quadrant of the abdomen. The patient states that the pain is constant and sharp in nature. She denies any relieving or aggravating factors. She also reports associated symptoms of nausea and vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Abdominal pain as described above. Denies changes in bowel habits or presence of blood in stool.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling, and no recent injuries.",
+    "skin": "No rashes, changes in skin color, or lesions.",
+    "neurologic": "No headaches, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril for hypertension and acetaminophen for osteoarthritis pain relief.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's mother had a history of colon cancer. No other significant family history reported.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. Lives alone and is independent with activities of daily living."
+}

@@ -1,0 +1,23 @@
+{
+  "patient_name": "Quentin Fuller",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Quentin Fuller, a 34-year-old male, presents to the emergency department with complaints of severe, sharp abdominal pain. The pain started 4 hours ago and is located in the right lower quadrant. The pain is constant and radiates to the back. The patient rates the pain as 8/10 on a numerical rating scale. There is no relieving or exacerbating factor reported. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports severe abdominal pain, but denies any nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness."
+  },
+
+  "past_medical_history": "The patient has a history of appendectomy 10 years ago.",
+  "medications": "The patient denies any current medications.",
+  "past_surgical_history": "The patient has a history of appendectomy 10 years ago.",
+  "family_history": "There is no significant family history of gastrointestinal diseases.",
+  "social_history": "The patient denies any tobacco or alcohol use."
+}

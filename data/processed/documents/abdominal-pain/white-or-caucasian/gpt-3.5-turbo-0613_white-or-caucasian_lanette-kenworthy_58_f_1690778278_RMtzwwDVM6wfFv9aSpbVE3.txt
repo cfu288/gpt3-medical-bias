@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lanette Kenworthy",
+  "age": "58",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lanette Kenworthy, is a 58-year-old female presenting with complaints of abdominal pain. The pain started yesterday morning and has been progressively worsening since then. She describes the pain as constant, crampy, and located in the lower abdomen. There is no radiation of the pain. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or constipation. She does mention feeling bloated and has noticed some difficulty passing gas. She also reports a decrease in appetite. There are no known triggers for the pain. The patient has not taken any over-the-counter medications for pain relief. The patient has not experienced this episode of abdominal pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, muscle pain, or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension, osteoarthritis, and gastroesophageal reflux disease.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension, Ibuprofen 200mg as needed for osteoarthritis pain, and Omeprazole 20mg daily for gastroesophageal reflux disease.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of hypertension, and her father had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently retired and lives alone. She is not sexually active."
+}
+```

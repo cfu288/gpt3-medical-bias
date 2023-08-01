@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deana Henson",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Deana Henson, is a 48-year-old female presenting to the emergency department with a chief complaint of abdominal pain. According to the patient, the pain started this morning and is located in the lower right quadrant of the abdomen. The pain is sharp in nature and has been progressively worsening throughout the day. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or coughing up blood.",
+    "gi": "The patient reports abdominal pain as her chief complaint. No other gastrointestinal symptoms are present.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty walking.",
+    "skin": "The patient denies any rash, skin lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes. She takes medications for both conditions, including lisinopril and metformin.",
+  "medications": "Lisinopril, metformin",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of breast cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

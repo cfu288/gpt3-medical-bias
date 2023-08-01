@@ -1,0 +1,21 @@
+{
+  "patient_name": "Khoa Williams",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the lower right quadrant of the abdomen and is associated with nausea and vomiting. Patient denies any recent trauma or injury to the abdomen. On further questioning, the patient reports a fever and increased frequency of urination in the past couple of days. Patient denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and has had a decreased appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No complaints of cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain, nausea, and vomiting.",
+    "gu": "Increased frequency of urination reported.",
+    "musculoskeletal": "No complaints of joint pain or muscle weakness.",
+    "skin": "No complaints of rashes, itching, or skin discoloration.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of appendectomy at the age of 20. No other significant past medical history reported.",
+  "medications": "Patient takes over-the-counter ibuprofen for occasional headaches.",
+  "past_surgical_history": "Appendectomy at the age of 20.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient works as a software engineer and denies tobacco, alcohol, or illicit drug use. Patient is married and lives with spouse and two children."
+}

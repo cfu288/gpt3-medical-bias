@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Dexter Howard"
+    },
+    "age": {
+      "type": "string",
+      "value": "57"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Dexter Howard, a 57-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly this morning and is located in the lower right abdomen. He describes it as sharp and constant. He denies any other associated symptoms such as nausea, vomiting, or changes in bowel movements. He has no history of similar pain in the past."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills, or night sweats"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations, or shortness of breath"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough, wheezing, or difficulty breathing"
+        },
+        "gi": {
+          "type": "string",
+          "value": "Abdominal pain as previously described"
+        },
+        "gu": {
+          "type": "string",
+          "value": "No urinary frequency, urgency, or blood in urine"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain, swelling, or stiffness"
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rashes, itching, or changes in skin color"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headache, dizziness, or weakness"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril for blood pressure control and atorvastatin for cholesterol management."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Lisinopril 10mg daily, Atorvastatin 40mg daily"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no previous surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient reports a family history of hypertension and coronary artery disease in both parents."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is married and works as an accountant. He denies tobacco or alcohol use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

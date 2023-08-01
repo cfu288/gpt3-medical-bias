@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Harriet Gussler",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Harriet Gussler, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 6 hours ago and has been worsening since then. She describes the pain as a constant, sharp, 8/10 on the pain scale. The pain is located in the lower right quadrant of her abdomen and is associated with nausea and occasional vomiting. She denies any fever or changes in bowel movements. She does not recall any recent trauma or injury. She noticed some bloating and constipation in the past few days, but reports that it has not been severe. She has no known allergies or sensitivities. She has not taken any medications or home remedies for her symptoms prior to coming to the emergency department.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain, nausea, and occasional vomiting. She denies any diarrhea or blood in her stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and type 2 diabetes, which are currently controlled with medications. She had a cholecystectomy 10 years ago and has no other significant surgical history.",
+  "medications": "The patient currently takes lisinopril 10mg daily for hypertension and metformin 1000mg twice daily for diabetes. She has not started any new medications recently.",
+  "past_surgical_history": "The patient had a cholecystectomy 10 years ago. No other significant surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes. There is no family history of colon cancer or inflammatory bowel disease.",
+  "social_history": "The patient is a retired school teacher. She does not smoke, drink alcohol, or use illicit drugs."
+}
+```

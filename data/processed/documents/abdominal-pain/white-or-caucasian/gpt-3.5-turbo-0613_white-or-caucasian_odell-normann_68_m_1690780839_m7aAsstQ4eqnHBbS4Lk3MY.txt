@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odell Normann",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain is localized to the right lower quadrant and started approximately 8 hours ago. Patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. Pain is constant and worsens with movement. No prior history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient complains of abdominal pain as chief complaint. Denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "Patient denies any rash, itching, or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. Patient also had a cardiac stent placed 2 years ago.",
+  "medications": "Patient takes metformin, lisinopril, simvastatin, and aspirin daily.",
+  "past_surgical_history": "Patient underwent a cardiac stent placement procedure 2 years ago. No other surgical history reported.",
+  "family_history": "Patient reports a family history of hypertension and heart disease in siblings and parents.",
+  "social_history": "Patient is a retired engineer. He lives alone and denies any tobacco or alcohol use."
+}

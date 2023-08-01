@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ted Kay",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Kay is a 72-year-old male who presents to the emergency department with complaints of abdominal pain. The pain began approximately 4 hours ago and is described as a constant, dull ache in the lower right quadrant of the abdomen. The patient rates his pain as 7 out of 10 and states that it has been progressively worsening. He denies any associated symptoms such as nausea, vomiting, fever, or change in bowel movements. On further questioning, the patient reports a history of intermittent episodes of abdominal pain over the past year, but none as severe as the current episode. He also states that he had a similar episode of pain 2 days ago, which resolved on its own. He denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient denies any nausea, vomiting, diarrhea, or changes in appetite or weight.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and ibuprofen 400mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia",
+  "social_history": "The patient is retired and lives alone. He denies any smoking, alcohol, or drug use."
+}

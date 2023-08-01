@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donal Rose",
+  "age": "40",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started last night. He describes the pain as sharp and localized to the right lower quadrant. He denies any nausea, vomiting, or diarrhea. No urinary symptoms reported. No fever or chills. No recent changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No reported weight loss or night sweats.",
+    "cardiovascular": "No reported chest pain or palpitations.",
+    "respiratory": "No reported shortness of breath or cough.",
+    "gi": "Patient reports severe abdominal pain. Denies any history of gastric ulcers or gastrointestinal bleeding.",
+    "gu": "No reported urinary symptoms.",
+    "musculoskeletal": "No reported joint pain or stiffness.",
+    "skin": "No reported rashes or skin lesions.",
+    "neurologic": "No reported headaches or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes Lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "Patient had an appendectomy in childhood, no other previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal or surgical disorders.",
+  "social_history": "Patient denies any history of substance abuse or smoking. Lives a sedentary lifestyle and works in an office environment."
+}

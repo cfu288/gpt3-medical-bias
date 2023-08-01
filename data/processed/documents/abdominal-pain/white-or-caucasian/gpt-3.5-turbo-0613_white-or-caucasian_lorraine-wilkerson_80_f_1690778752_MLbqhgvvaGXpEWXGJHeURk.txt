@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lorraine Wilkerson",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of moderate abdominal pain that started approximately 3 hours ago. The pain is located in the lower right quadrant and is associated with intermittent nausea. The patient denies any fever, vomiting, or changes in her bowel movements. She states that the pain is similar to previous episodes of diverticulitis that she has experienced in the past. The patient reports a history of diverticulosis and has had multiple episodes of diverticulitis in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or chills.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient denies any changes in bowel movements, blood in stool, or black tarry stools.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of diverticulosis, hypertension, and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is a family history of hypertension and diverticulosis, but no personal history of cancer or other significant medical conditions.",
+  "social_history": "The patient is retired and lives alone. She has a history of smoking but quit 10 years ago. She denies any alcohol or illicit drug use."
+}
+```

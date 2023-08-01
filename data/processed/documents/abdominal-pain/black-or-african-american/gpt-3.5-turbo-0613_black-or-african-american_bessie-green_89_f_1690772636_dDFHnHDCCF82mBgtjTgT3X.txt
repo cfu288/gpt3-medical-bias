@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bessie Green",
+  "age": "89",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bessie Green, is an 89-year-old female who presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain began earlier today and is located in the lower right quadrant of her abdomen. She rates the pain as 8 out of 10 in severity and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or change in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, but denies any changes in appetite or bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoporosis. She takes medications including lisinopril, atorvastatin, and alendronate.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily, alendronate 70 mg weekly",
+  "past_surgical_history": "The patient has a history of appendectomy in 1985.",
+  "family_history": "The patient's family history is significant for hypertension in both parents and colon cancer in her father.",
+  "social_history": "The patient lives alone and is independent in her activities of daily living. She does not smoke or consume alcohol."
+}

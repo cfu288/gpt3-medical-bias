@@ -1,0 +1,21 @@
+{
+  "patient_name": "Russ Pulk",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain started approximately 3 hours ago and has been constant. Patient states the pain is located in the lower right quadrant and is associated with nausea and vomiting. No fever, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain or shortness of breath.",
+    "respiratory": "Denies cough or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and associated nausea and vomiting.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril, atorvastatin, and naproxen daily.",
+  "past_surgical_history": "Patient had a hip replacement surgery 5 years ago.",
+  "family_history": "Patient's father had a history of colon cancer.",
+  "social_history": "Patient is a retired accountant. Denies smoking or alcohol use."
+}

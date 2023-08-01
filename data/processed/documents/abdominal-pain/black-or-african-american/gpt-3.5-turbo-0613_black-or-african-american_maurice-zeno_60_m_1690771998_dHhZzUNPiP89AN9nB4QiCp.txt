@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maurice Zeno",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Zeno is a 60-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and has been progressively getting worse. He describes the pain as a constant, sharp, and stabbing sensation in the right upper quadrant of his abdomen. The pain radiates to his back and is associated with nausea and vomiting. He denies any recent trauma or injuries. Upon further questioning, he mentions he had a similar episode of abdominal pain a few months ago, which resolved on its own. He reports no relief with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for nausea and vomiting, as described in the history of present illness.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for any recent injuries or joint pains.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Zeno has a history of hypertension, which is currently well-controlled on lisinopril 10 mg daily. He denies any other significant medical conditions or hospitalizations.",
+  "medications": "Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of abdominal conditions or surgical interventions.",
+  "social_history": "Mr. Zeno is a retired teacher and does not smoke or drink alcohol. He lives alone and denies any recent travel or sick contacts."
+}

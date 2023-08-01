@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monroe Barber",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started in the lower right quadrant and has since spread to the entire abdomen. He rates the pain as 8 out of 10 and describes it as sharp and stabbing. He denies any nausea, vomiting, or diarrhea. He reports no previous episodes of similar pain. On examination, the abdomen is tender to palpation in all quadrants. Possible differential diagnoses include appendicitis, diverticulitis, or a gastrointestinal obstruction. Further workup including laboratory tests and imaging will be done to rule out these conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the only gastrointestinal symptom.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is on medications for these conditions.",
+  "medications": "Patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient has a family history of hypertension and diabetes.",
+  "social_history": "Patient is a retired accountant. He denies any tobacco or alcohol use."
+}

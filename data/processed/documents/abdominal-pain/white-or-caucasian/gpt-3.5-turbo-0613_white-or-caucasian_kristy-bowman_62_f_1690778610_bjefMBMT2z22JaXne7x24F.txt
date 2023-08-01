@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kristy Bowman",
+  "age": "62",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Kristy Bowman, a 62-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, stabbing sensation that began approximately 6 hours ago. The pain is located in the lower right quadrant of her abdomen and is associated with nausea and vomiting. She denies any recent trauma or injuries. Onset of symptoms was sudden and has progressively worsened since then. The patient denies any fever, chills, changes in bowel movements, or urinary complaints.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight changes",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Positive for abdominal pain, nausea, and vomiting",
+    "gu": "Negative for dysuria, hematuria, or frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, hyperlipidemia, and osteoarthritis. She takes daily medications for these conditions.",
+  "medications": "1. Lisinopril 10mg daily\n2. Simvastatin 20mg daily\n3. Naproxen 500mg as needed for joint pain",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "No significant family history of gastrointestinal diseases or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is currently unemployed."
+}
+```

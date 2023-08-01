@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Alva Hannah"
+    },
+    "age": {
+      "type": "string",
+      "value": "92"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Mr. Hannah, a 92-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started this morning and is located in the upper right quadrant of his abdomen. It is constant and radiates to his back. The pain is associated with nausea and occasional vomiting. The patient denies any recent dietary changes or trauma to the abdomen."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient reports feeling weak and fatigued."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient denies any chest pain or palpitations."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient denies any shortness of breath or cough."
+        },
+        "gi": {
+          "type": "string",
+          "value": "In addition to the abdominal pain, the patient reports bloating and mild diarrhea."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any urinary symptoms."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient reports generalized body aches and joint pain."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any rash or skin lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient reports no changes in mental status or focal neurologic deficits."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a history of hypertension, diabetes, and osteoarthritis."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes metformin and lisinopril for his medical conditions."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of surgeries."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient's family history is significant for hypertension and diabetes."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient lives alone and is independent with activities of daily living. He does not smoke or consume alcohol."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

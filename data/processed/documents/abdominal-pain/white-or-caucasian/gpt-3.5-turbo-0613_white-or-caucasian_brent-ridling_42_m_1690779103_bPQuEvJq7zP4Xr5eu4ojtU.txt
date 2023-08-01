@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brent Ridling",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of severe abdominal pain. He described the pain as crampy and located in the lower abdomen. The pain started yesterday evening and has been progressively worsening since then. The patient denies any associated symptoms such as nausea, vomiting, or fever. He states that he has not had any bowel movements since yesterday and has been feeling constipated. Upon further questioning, the patient mentions that he has a history of constipation and has been taking over-the-counter laxatives to help with bowel movements. On examination, the patient appears uncomfortable and is guarding his abdomen. Abdominal examination reveals tenderness in the lower abdomen with no rebound or rigidity. A rectal examination was performed and no masses or stool impactions were palpable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or generalized weakness.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "In addition to the abdominal pain mentioned in the chief complaint, the patient denies any other gastrointestinal symptoms such as diarrhea, hematemesis, or melena.",
+    "gu": "No urinary symptoms such as dysuria, frequency, or urgency reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rashes, changes in moles, or skin lesions reported.",
+    "neurologic": "No headache, dizziness, or numbness/tingling reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes lisinopril 10 mg daily.",
+  "medications": "Lisinopril 10 mg daily.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of any medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

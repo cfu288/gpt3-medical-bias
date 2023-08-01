@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rudolph Abrams",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rudolph Abrams, a 68-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started yesterday afternoon and has been steadily worsening. The patient describes the pain as a sharp, cramping sensation located in the lower right quadrant of the abdomen. He states that the pain is constant and has not radiated to any other area. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel movements. He also denies any urinary symptoms or fever. The patient's past medical history is significant for a cholecystectomy 10 years ago. He takes lisinopril for hypertension and simvastatin for hyperlipidemia. There is no known family history of gastrointestinal diseases. The patient denies any tobacco or alcohol use. He lives alone and is retired. There are no recent travel or sick contacts. On physical examination, the patient appears uncomfortable and in moderate distress. Vital signs are stable. Abdominal examination reveals tenderness and guarding in the right lower quadrant without rebound or rigidity. Bowel sounds are present. The remainder of the physical examination is unremarkable. Initial differential diagnoses include appendicitis, diverticulitis, and bowel obstruction. Further diagnostic workup including laboratory tests and imaging will be ordered.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fatigue, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient's chief complaint of abdominal pain is addressed in the history of present illness section.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or wounds.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He had a cholecystectomy 10 years ago.",
+  "medications": "Lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "Cholecystectomy 10 years ago.",
+  "family_history": "There is no known family history of gastrointestinal diseases.",
+  "social_history": "The patient denies any tobacco or alcohol use. He lives alone and is retired. There are no recent travel or sick contacts."
+}

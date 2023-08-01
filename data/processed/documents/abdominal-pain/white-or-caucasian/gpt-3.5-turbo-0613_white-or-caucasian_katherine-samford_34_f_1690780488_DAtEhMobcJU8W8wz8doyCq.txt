@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katherine Samford",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started last night. The pain is located in the right lower quadrant and is constant. Patient denies any nausea or vomiting. No diarrhea, constipation or urinary symptoms. No fever or chills. Review of systems is otherwise negative. On examination, patient has tenderness, guarding and rebound tenderness in the right lower quadrant. Elevated white blood cell count and right lower quadrant tenderness on physical examination raise concern for appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Positive for abdominal pain",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "No known significant past medical history.",
+  "medications": "Patient denies current medications.",
+  "past_surgical_history": "No prior surgical history.",
+  "family_history": "No family history of significant medical conditions.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use."
+}

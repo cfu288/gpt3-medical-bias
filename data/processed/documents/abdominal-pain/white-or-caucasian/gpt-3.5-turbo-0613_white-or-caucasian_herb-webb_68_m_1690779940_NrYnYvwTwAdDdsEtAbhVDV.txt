@@ -1,0 +1,21 @@
+{
+  "patient_name": "Herb Webb",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Webb is a 68-year-old male who presents to the emergency department with a chief complaint of severe abdominal pain. The pain started approximately 6 hours ago and has been gradually worsening. He describes the pain as a constant, sharp, and crampy sensation located in the lower right quadrant of his abdomen. The pain is associated with nausea and vomiting. He denies any recent trauma or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or history of lung disease.",
+    "gi": "Patient reports severe abdominal pain, nausea, and vomiting. Denies diarrhea or constipation.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled with medications.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's father had a history of colorectal cancer.",
+  "social_history": "Patient is retired and denies tobacco, alcohol, or illicit drug use. He lives alone and is independent with activities of daily living."
+}

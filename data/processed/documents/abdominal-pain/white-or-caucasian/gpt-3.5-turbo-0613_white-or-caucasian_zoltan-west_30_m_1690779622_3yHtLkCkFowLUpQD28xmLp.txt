@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Zoltan West",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. West, presented to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and began approximately 6 hours ago. He describes the pain as sharp and constant, with no alleviating or aggravating factors. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain and denies any gastrointestinal symptoms such as diarrhea, constipation, or blood in stools.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in vision or speech, no seizures or numbness/tingling in extremities."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He is currently employed as an accountant."
+}
+```

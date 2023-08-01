@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Curtiss Tate",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started earlier today and has progressively worsened. The pain is located in the upper abdomen and radiates to his back. He rates the pain as a 9 out of 10 and describes it as a sharp, stabbing sensation. He denies any recent trauma or injury to the abdomen. He also reports associated symptoms of nausea and vomiting. Upon further questioning, he denies any diarrhea, constipation, or blood in his stool. He has not experienced any weight loss, changes in appetite, or changes in bowel habits. He has not tried any medications or home remedies to alleviate the pain. His last meal was approximately 6 hours ago.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports nausea and vomiting.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no family history of any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is employed as an office manager and reports no significant occupational exposure."
+}
+```

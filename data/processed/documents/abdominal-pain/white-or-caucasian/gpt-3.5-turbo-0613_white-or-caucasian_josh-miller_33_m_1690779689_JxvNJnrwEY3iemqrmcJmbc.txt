@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josh Miller",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of abdominal pain. The pain started earlier today and is located in the lower right quadrant of the abdomen. The pain is sharp and intermittent. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. There is no history of trauma or recent illness. Upon further questioning, the patient reports a low-grade fever and increased pain with movement.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain and denies any changes in bowel movements.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient reports increased pain with movement.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of appendectomy performed at the age of 16. No other significant medical history.",
+  "medications": "Patient denies any current medications.",
+  "past_surgical_history": "Apart from the appendectomy mentioned above, the patient has no other significant surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "Patient reports occasional alcohol use and denies tobacco or drug use."
+}

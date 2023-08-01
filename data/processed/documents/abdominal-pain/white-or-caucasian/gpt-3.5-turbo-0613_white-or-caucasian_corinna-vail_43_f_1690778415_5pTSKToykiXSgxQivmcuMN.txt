@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Corinna Vail",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Corinna Vail, a 43-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the lower right abdomen. The patient describes the pain as sharp and constant, with a severity of 8 out of 10. She denies any relieving or aggravating factors. Additionally, the patient reports nausea and vomiting since the onset of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports nausea and vomiting. No diarrhea or blood in the stool.",
+    "gu": "No urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in the senses."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS), for which she takes over-the-counter medications occasionally.",
+  "medications": "The patient occasionally takes over-the-counter medications for her irritable bowel syndrome (IBS) symptoms, but she is not currently taking any prescription medications.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is non-contributory. No history of gastrointestinal diseases or surgical interventions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an accountant and lives with her spouse and two children."
+}
+```

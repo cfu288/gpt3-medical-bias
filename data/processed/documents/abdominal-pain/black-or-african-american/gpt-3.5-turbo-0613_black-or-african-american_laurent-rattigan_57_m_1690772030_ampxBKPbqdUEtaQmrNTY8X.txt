@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Laurent Rattigan",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Laurent Rattigan, a 57-year-old male, presents to the emergency department with complaints of severe abdominal pain. The patient reports that the pain started suddenly about 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and sharp in nature. The patient denies any associated symptoms such as nausea, vomiting, or fever. He also reports no recent changes in bowel movements or urinary habits. The patient states that he has never experienced this type of pain before and it is significantly affecting his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Denies nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness in any extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently on medications for both conditions.",
+  "medications": "The patient is taking lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension and heart disease in his mother and father.",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use. He works as an office manager and denies any recent travel or exposure to sick contacts."
+}
+```

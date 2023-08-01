@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eloise Savoy",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Eloise Savoy, is a 68-year-old female presenting with complaints of abdominal pain. She reports that the pain started yesterday and has been progressively worsening. She describes the pain as diffuse and crampy, and rates it as a 7 out of 10 in severity. The pain is not alleviated by any specific position or activity. She denies any other associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient states that she has a history of irritable bowel syndrome, but the current pain is different from her typical symptoms. On examination, the patient appears uncomfortable due to pain. Her abdomen is soft and non-tender to palpation with no guarding or rebound tenderness. Bowel sounds are present and normal. There is no evidence of distension or organomegaly.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint, but denies any other gastrointestinal symptoms such as bloating, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) and hypertension. She takes medications for these conditions as outlined below.",
+  "medications": "1. Medication A - 100 mg daily for IBS\n2. Medication B - 50 mg daily for hypertension",
+  "past_surgical_history": "The patient has a past surgical history significant for a cholecystectomy performed 5 years ago for symptomatic gallstones.",
+  "family_history": "The patient has a family history of hypertension and colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is retired from her job as a teacher."
+}

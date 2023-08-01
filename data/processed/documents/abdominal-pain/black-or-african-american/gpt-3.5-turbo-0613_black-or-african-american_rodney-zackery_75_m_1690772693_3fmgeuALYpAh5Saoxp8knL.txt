@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rodney Zackery",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Zackery, a 75 year old male, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 4 hours ago and is located in the right lower quadrant. He describes the pain as sharp and constant. There is no radiation of pain to other areas. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing",
+    "gi": "Reports abdominal pain as described above",
+    "gu": "Denies any urinary symptoms",
+    "musculoskeletal": "Denies any joint pain or muscle stiffness",
+    "skin": "No rashes or skin lesions reported",
+    "neurologic": "Denies any headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Zackery has a history of hypertension and hyperlipidemia, for which he takes amlodipine and atorvastatin, respectively.",
+  "medications": "Amlodipine 5mg daily\nAtorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 40\nCataract surgery at age 67",
+  "family_history": "No significant family history of note",
+  "social_history": "Retired, lives alone, denies tobacco or alcohol use"
+}

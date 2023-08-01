@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vivian Orange",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the Emergency Department with complaints of severe abdominal pain that started 12 hours ago. She describes the pain as sharp in nature and localized to the right lower quadrant. The pain is associated with nausea, vomiting, and subjective fever. She denies any recent changes in bowel habits or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any recent weight loss, fatigue, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations or shortness of breath.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Besides the abdominal pain, no other gastrointestinal symptoms reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No skin changes or rashes reported.",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 20mg daily, atorvastatin 40mg daily, and ibuprofen 400mg as needed for joint pain",
+  "past_surgical_history": "Patient underwent cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of colorectal cancer.",
+  "social_history": "Patient denies smoking, alcohol or illicit drug use."
+}

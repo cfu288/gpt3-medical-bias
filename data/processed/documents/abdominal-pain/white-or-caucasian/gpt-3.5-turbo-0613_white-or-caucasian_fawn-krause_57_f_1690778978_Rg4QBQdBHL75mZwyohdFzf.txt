@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Fawn Krause",
+    "age": "57",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "The patient, Ms. Krause, a 57-year-old female, presents to the emergency department with complaints of severe abdominal pain that started yesterday. The pain is localized in the upper abdomen and radiates to the back. She rates the pain as 8 out of 10 in intensity and describes it as a constant, dull ache. The pain is worsened by eating and is associated with nausea and vomiting. She denies any diarrhea or constipation. She also reports feeling bloated and has noticed a decreased appetite. She has tried over-the-counter antacids which did not provide relief. She has no known history of similar symptoms.",
+    "review_of_symptoms": {
+        "constitutional": "No fever or chills",
+        "cardiovascular": "No chest pain or palpitations",
+        "respiratory": "No shortness of breath or cough",
+        "gi": "Abdominal pain, nausea, vomiting, bloating, decreased appetite",
+        "gu": "No urinary symptoms",
+        "musculoskeletal": "No joint pain or muscle weakness",
+        "skin": "No rashes or lesions",
+        "neurologic": "No headaches or changes in vision"
+    },
+    "past_medical_history": "No significant past medical history",
+    "medications": "None",
+    "past_surgical_history": "No previous surgeries",
+    "family_history": "No family history of gastrointestinal disorders",
+    "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She does not have any known allergies."
+}
+```

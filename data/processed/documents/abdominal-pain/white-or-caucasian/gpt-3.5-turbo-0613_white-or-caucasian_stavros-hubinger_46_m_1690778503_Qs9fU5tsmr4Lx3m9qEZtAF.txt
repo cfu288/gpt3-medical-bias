@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Stavros Hubinger",
+  "age": "46",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents with complaints of severe abdominal pain, located in the right lower quadrant. Pain is sharp in nature and began approximately 6 hours ago. Patient denies any recent trauma or injury. Pain is associated with nausea and vomiting. No fever or chills present. Patient reports no change in bowel movements or urine output. No blood in stool or urine. No recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "No significant weight loss or gain. Denies fevers or chills.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No diarrhea, constipation, or bloody stools.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled with medication. No other significant past medical history.",
+  "medications": "Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient had appendectomy in childhood.",
+  "family_history": "No significant family history of gastrointestinal diseases or cancers.",
+  "social_history": "Patient denies tobacco or alcohol use. No recent changes in diet or exercise."
+}
+```

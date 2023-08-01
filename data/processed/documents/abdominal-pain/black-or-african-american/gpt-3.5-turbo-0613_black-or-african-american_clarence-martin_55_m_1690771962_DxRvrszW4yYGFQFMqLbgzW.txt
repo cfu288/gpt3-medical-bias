@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clarence Martin",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient complains of severe abdominal pain that started approximately 2 hours ago. Pain is located in the lower right quadrant and is described as sharp and constant. Patient denies any nausea, vomiting, or diarrhea. He also denies any urinary symptoms. Patient reports that the pain is worsening and rates it as 8 out of 10 in intensity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports nausea but denies any vomiting or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or changes in the skin.",
+    "neurologic": "Patient denies any headache, numbness, or weakness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Patient takes metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient reports no prior surgeries.",
+  "family_history": "Patient reports a family history of heart disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

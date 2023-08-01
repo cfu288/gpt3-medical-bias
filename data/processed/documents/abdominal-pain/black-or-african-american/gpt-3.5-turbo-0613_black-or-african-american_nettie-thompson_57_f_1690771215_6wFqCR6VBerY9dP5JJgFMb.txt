@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nettie Thompson",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ms. Nettie Thompson, a 57-year-old female, presents to the emergency department with Chief Complaint of abdominal pain. According to the patient, the pain started approximately 6 hours ago and is located in the lower abdomen. She describes the pain as crampy and constant. The patient denies any alleviating or exacerbating factors. She rates her pain as 7 out of 10 on the pain scale. The patient denies any associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports nausea and denies vomiting, dysphagia, or hematochezia.",
+    "gu": "The patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle pain.",
+    "skin": "The patient denies rash or change in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of type 2 diabetes and hypertension.",
+  "medications": "The patient takes metformin 1000 mg once daily for diabetes and lisinopril 20 mg once daily for hypertension.",
+  "past_surgical_history": "The patient had a cholecystectomy in 2010.",
+  "family_history": "The patient's mother has a history of breast cancer.",
+  "social_history": "The patient denies current tobacco or alcohol use. She is retired and lives at home with her husband."
+}
+```

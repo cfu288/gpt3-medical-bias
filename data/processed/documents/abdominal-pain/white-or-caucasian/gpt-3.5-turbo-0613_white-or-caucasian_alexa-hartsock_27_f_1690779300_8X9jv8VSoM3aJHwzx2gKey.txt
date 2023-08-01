@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alexa Hartsock",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alexa Hartsock, a 27-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as sharp and localized to the right lower quadrant. The pain started approximately 12 hours ago and has been progressively worsening since then. She denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. She also denies any recent trauma or injuries. She states that the pain is constant and has not improved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Reports abdominal pain as chief complaint. Denies nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, muscle pain, or difficulty ambulating.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "No current medications reported.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is a non-smoker and reports social alcohol use on occasions."
+}
+```

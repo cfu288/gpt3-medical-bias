@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cora Tobin",
+  "age": "94",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Cora Tobin is a 94-year-old female presenting to the emergency department with complaints of severe abdominal pain. The pain started suddenly approximately 6 hours ago and has been progressively worsening. She describes it as a constant, sharp, and colicky pain located in the upper abdomen. The pain is associated with nausea and vomiting. The patient denies any fever, chills, or changes in bowel movements. She has not experienced any similar episodes in the past. Upon further questioning, the patient reports a history of peptic ulcer disease and gastroesophageal reflux disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight changes.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient reports nausea, vomiting, and severe abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions on the skin.",
+    "neurologic": "The patient denies any changes in vision, headache, dizziness, or weakness."
+  },
+  "past_medical_history": "1. Peptic ulcer disease\n2. Gastroesophageal reflux disease",
+  "medications": "1. Omeprazole 20 mg once daily\n2. Ranitidine 150 mg twice daily",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "There is no significant family history reported by the patient.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}

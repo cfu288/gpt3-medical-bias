@@ -1,0 +1,21 @@
+{
+  "patient_name": "Concetta Jones",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Concetta Jones, a 67-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately four hours ago and is localized to the right lower quadrant. She describes the pain as sharp and constant, with no relieving factors. She denies any recent trauma, changes in bowel movements, or urinary symptoms. She has not experienced any fever, vomiting, or diarrhea. She has been taking over-the-counter pain medication at home, but it has not provided any relief. On physical examination, the patient appears uncomfortable and is guarding her abdomen. Her vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, and respiratory rate of 16 breaths per minute. There is tenderness on palpation in the right lower quadrant, with rebound tenderness and no guarding. No masses or organomegaly are appreciated. The rest of the physical examination is unremarkable. Given her symptoms and examination findings, an acute appendicitis is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports severe abdominal pain in the right lower quadrant. She denies any changes in bowel movements, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes daily medications including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports her mother had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent with her activities of daily living."
+}

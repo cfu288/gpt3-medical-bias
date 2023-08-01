@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmund Saunders",
+  "age": "90",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The patient describes the pain as a constant, sharp, and worsening in nature. He states that the pain started approximately 2 days ago and has been progressively increasing in intensity. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also denies any history of trauma or recent travel. Upon further questioning, the patient reports a history of intermittent abdominal pain in the past, but never to this severity.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fevers, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Described in the history of present illness.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, itching, or wounds.",
+    "neurologic": "No changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5mg daily and ibuprofen 400mg as needed for pain.",
+  "past_surgical_history": "The patient had a cholecystectomy 10 years ago.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and sister.",
+  "social_history": "The patient is a retired accountant. He is a nonsmoker and denies alcohol or drug use."
+}

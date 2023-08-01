@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Johnie Allen",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Johnie Allen, a 38-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. He reports that the pain is sharp and has been progressively worsening. The patient denies any associated nausea, vomiting, fever, or changes in bowel movements. He reports no recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "The patient reports severe abdominal pain localized to the lower right quadrant. He denies any changes in bowel movements, diarrhea, or blood in stools.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes.",
+  "medications": "The patient takes lisinopril 20mg daily and metformin 1000mg twice daily.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use."
+}
+```

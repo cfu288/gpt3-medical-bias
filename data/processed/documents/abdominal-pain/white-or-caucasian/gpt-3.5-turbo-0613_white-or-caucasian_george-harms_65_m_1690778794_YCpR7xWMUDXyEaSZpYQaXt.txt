@@ -1,0 +1,21 @@
+{
+  "patient_name": "George Harms",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Harms presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a deep, constant ache located in the lower right quadrant of his abdomen. The pain began suddenlly this morning and has been steadily increasing in intensity. He also reports associated symptoms of nausea and vomiting. He denies any recent changes in bowel movements or urinary symptoms. On examination, his abdomen is tender to palpation in the right lower quadrant with guarding and rebound tenderness. A focused assessment will be performed to further evaluate the source of his abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Reports abdominal pain and associated nausea and vomiting.",
+    "gu": "Denies any urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes, changes in skin color, or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Mr. Harms has a history of hypertension, hyperlipidemia, and osteoarthritis. He is currently taking lisinopril, atorvastatin, and acetaminophen for pain management.",
+  "medications": "1. Lisinopril - 20mg once daily\n2. Atorvastatin - 40mg once daily\n3. Acetaminophen - 500mg every 6 hours as needed for pain",
+  "past_surgical_history": "Appendectomy at age 25.",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "Mr. Harms is a retired accountant and does not smoke or consume alcohol. He lives alone and has no known drug allergies."
+}

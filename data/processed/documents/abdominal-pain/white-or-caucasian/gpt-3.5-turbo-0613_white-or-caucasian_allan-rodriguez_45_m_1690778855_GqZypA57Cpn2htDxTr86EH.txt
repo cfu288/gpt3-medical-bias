@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Rodriguez",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Rodriguez presents to the emergency department with complaints of severe abdominal pain. The pain started 2 hours ago and is located in the right lower quadrant. He describes the pain as sharp and stabbing. He denies any other associated symptoms such as nausea, vomiting, or changes in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or neurological deficits"
+  },
+  "past_medical_history": "Mr. Rodriguez has a history of hypertension and hyperlipidemia. He is currently on amlodipine and atorvastatin for management of these conditions.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No significant family history of chronic illnesses or genetic conditions",
+  "social_history": "Mr. Rodriguez denies smoking or alcohol use. He works as an accountant and has a sedentary lifestyle."
+}

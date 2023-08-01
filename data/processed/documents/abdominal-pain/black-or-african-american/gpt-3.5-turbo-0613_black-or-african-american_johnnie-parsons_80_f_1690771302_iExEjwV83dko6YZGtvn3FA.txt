@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnnie Parsons",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Johnnie Parsons, an 80-year-old female, presents to the emergency department today with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the epigastric region. The patient describes the pain as a constant, sharp, stabbing sensation. The pain is rated 8/10 in intensity and is exacerbated by movement and deep breathing. The patient denies any associated symptoms such as vomiting, diarrhea, or fever. She reports no prior episodes of similar pain. On further questioning, she admits to having a poor appetite and unintentional weight loss over the last few months. She denies any history of trauma or recent travel. The pain is not relieved with over-the-counter medications, and she decided to come to the emergency department for evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, sweats, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or sputum production.",
+    "gi": "In addition to abdominal pain, the patient complains of decreased appetite and unintentional weight loss.",
+    "gu": "Patient denies any urinary symptoms such as dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rash, itching, or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes losartan for hypertension and ibuprofen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient has a family history of hypertension and colon cancer.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

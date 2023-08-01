@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leroy Woods",
+  "age": "79",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the ED with complaints of severe abdominal pain that started this morning. He describes the pain as a sharp, constant pain in the lower right quadrant of his abdomen. Patient rates the pain as 8/10 in intensity. He denies any associated symptoms such as nausea, vomiting, or diarrhea. He states that the pain is worsening with movement and coughing.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fever, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports intermittent episodes of constipation, but denies any recent changes in bowel habits or blood in the stool.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and type 2 diabetes.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and metformin 1000mg twice daily for diabetes.",
+  "past_surgical_history": "Patient underwent cholecystectomy 5 years ago.",
+  "family_history": "Patient reports a family history of heart disease in his father.",
+  "social_history": "Patient is a retired teacher. He denies smoking, alcohol use, or illicit drug use."
+}

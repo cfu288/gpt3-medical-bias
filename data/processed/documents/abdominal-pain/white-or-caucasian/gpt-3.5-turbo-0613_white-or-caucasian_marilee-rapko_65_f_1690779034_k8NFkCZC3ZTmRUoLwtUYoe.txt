@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marilee Rapko",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Marilee Rapko, a 65-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 12 hours ago and is located in the right lower quadrant of the abdomen. The pain is constant and sharp in nature. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She states that the pain has worsened since it started and is now interfering with her daily activities. She has not noticed any specific triggers for the pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient also reports a decrease in appetite and a feeling of bloating.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She does not have a history of abdominal surgery or significant gastrointestinal problems.",
+  "medications": "The patient's current medications include Lisinopril 20 mg daily for hypertension and Atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known history of abdominal surgery.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia. There is no family history of abdominal or gastrointestinal problems.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco, alcohol, or illicit drug use."
+}
+```

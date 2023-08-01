@@ -1,0 +1,21 @@
+{
+  "patient_name": "Grover Sheppard",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Grover Sheppard, a 68-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started abruptly earlier today and is located in the upper right quadrant of the abdomen. The patient describes the pain as constant and radiating to the back. The pain is associated with nausea and vomiting. The patient denies any history of trauma or recent dietary changes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as the chief complaint. No other gastrointestinal symptoms are present.",
+    "gu": "No genitourinary symptoms are reported by the patient.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, for which he takes medications.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of heart disease in his father.",
+  "social_history": "The patient is retired and does not smoke or consume alcohol. He lives with his wife and has a sedentary lifestyle."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chandra Thomas",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 3 hours ago. The pain is located in the right lower quadrant and is associated with nausea and vomiting. The patient denies any fever, chills, or recent changes in bowel movements. She has a past medical history of appendectomy and cholecystectomy. On physical examination, there is tenderness in the right lower quadrant with guarding and rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or respiratory distress.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting. Negative for diarrhea or constipation.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Appendectomy and cholecystectomy.",
+  "medications": "None.",
+  "past_surgical_history": "Appendectomy and cholecystectomy.",
+  "family_history": "No significant family history of gastrointestinal diseases.",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}

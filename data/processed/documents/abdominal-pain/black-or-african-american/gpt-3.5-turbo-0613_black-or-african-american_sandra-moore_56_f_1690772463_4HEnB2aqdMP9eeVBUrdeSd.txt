@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sandra Moore",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sandra Moore, a 56-year-old female presented to the emergency department with complaints of severe abdominal pain. The pain is located in the right lower quadrant and started earlier today. She states that the pain is constant and has been increasing in intensity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She did not notice any triggers for the pain. The pain is exacerbated with movement and deep breathing. She denies any recent trauma to the abdomen. The patient has a past medical history of irritable bowel syndrome and gastroesophageal reflux disease (GERD). She takes omeprazole for her GERD. She has no history of abdominal surgeries. The patient denies any family history of gastrointestinal diseases. She is a non-smoker and occasional alcohol drinker.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. No abdominal distention, bloody stools, or changes in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome and gastroesophageal reflux disease (GERD).",
+  "medications": "The patient takes omeprazole for her GERD.",
+  "past_surgical_history": "The patient denies any past abdominal surgeries.",
+  "family_history": "The patient denies any family history of gastrointestinal diseases.",
+  "social_history": "The patient is a non-smoker and occasional alcohol drinker."
+}

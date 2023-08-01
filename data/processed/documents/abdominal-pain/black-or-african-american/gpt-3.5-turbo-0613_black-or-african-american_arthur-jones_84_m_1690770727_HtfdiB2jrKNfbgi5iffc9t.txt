@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arthur Jones",
+  "age": "84",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Jones is an 84-year-old male presenting to the emergency department with complaints of severe abdominal pain that started approximately 3 hours ago. The pain is located in the upper abdomen and is described as a constant, gnawing sensation. The patient rates the pain as 8 out of 10 in severity. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. Mr. Jones reports that he has a history of peptic ulcer disease and has been experiencing intermittent episodes of abdominal pain for the past few months. However, the current episode is more severe and different in quality compared to his previous episodes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports severe abdominal pain but denies any nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "Peptic ulcer disease, hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily, Omeprazole 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "No significant family history of gastrointestinal disorders",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

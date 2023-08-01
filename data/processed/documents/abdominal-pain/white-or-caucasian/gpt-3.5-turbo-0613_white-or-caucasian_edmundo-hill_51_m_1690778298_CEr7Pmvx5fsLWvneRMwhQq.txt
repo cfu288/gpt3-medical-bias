@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Edmundo Hill",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Hill is a 51-year-old male who presents to the emergency department with complaints of severe abdominal pain that started approximately 4 hours ago. He describes the pain as a sharp, cramping sensation located in the and Lower right quadrant and radiating to the back. He rates the pain as 9 out of 10 and reports that it is constant and not alleviated by any position or movement. He denies any recent trauma, history of similar episodes, or any other associated symptoms. He did not take any over-the-counter medications prior to arrival.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No difficulty urinating or blood in urine",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Hill has a history of hypertension and GERD but is otherwise healthy.",
+  "medications": "He takes lisinopril 10 mg daily for hypertension and omeprazole 20 mg daily for GERD.",
+  "past_surgical_history": "Mr. Hill denies any past surgical procedures.",
+  "family_history": "There is no family history of abdominal conditions or gastrointestinal disorders.",
+  "social_history": "Mr. Hill is a non-smoker and drinks alcohol occasionally on weekends."
+}
+```

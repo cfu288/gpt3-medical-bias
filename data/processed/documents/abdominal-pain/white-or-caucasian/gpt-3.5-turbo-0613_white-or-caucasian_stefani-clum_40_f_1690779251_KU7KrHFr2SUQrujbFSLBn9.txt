@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stefani Clum",
+  "age": "40",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Stefani Clum, a 40-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started suddenly about 2 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as 8 out of 10 in intensity. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She reports no recent trauma or injuries to the abdomen. Upon further questioning, she mentions that she had a prior episode of similar abdominal pain 2 months ago, but it resolved spontaneously and she did not seek medical attention at that time. The patient states she has no significant medical history and has not had any recent surgical procedures.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. She denies any diarrhea, constipation, or blood in her stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient's past medical history is unremarkable. She denies any chronic medical conditions or hospitalizations.",
+  "medications": "The patient does not take any regular medications and denies any known medication allergies.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She is currently employed as a teacher."
+}
+```

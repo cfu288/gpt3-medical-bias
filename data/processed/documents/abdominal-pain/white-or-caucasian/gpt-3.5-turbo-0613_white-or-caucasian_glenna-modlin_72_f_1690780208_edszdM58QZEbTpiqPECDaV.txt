@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Glenna Modlin",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Glenna Modlin, a 72-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started this morning and is located in the lower right quadrant of her abdomen. She rates the pain as 8/10 and describes it as sharp and stabbing. She denies any nausea, vomiting, or diarrhea. She has a history of intermittent abdominal pain in the past, but states that this episode is more severe and different in character. She denies any fevers or chills. On physical examination, she has tenderness in the right lower quadrant without any rebound or guarding. Her vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fatigue or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient denies any changes in appetite or bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headaches or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of colorectal cancer.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monty Allen",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Monty Allen, a 73-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 8 hours ago and is located in the right lower quadrant. The patient rates the pain as 8/10 and describes it as sharp and crampy. Associated symptoms include nausea and vomiting. The patient denies any changes in bowel movements or urinary symptoms. No relieving factors have been identified. The pain is constant and does not radiate. The patient denies any recent illness or injury. A review of systems is obtained and will be documented below.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, shortness of breath, sputum production.",
+    "gi": "Positive for abdominal pain, nausea, vomiting. Negative for diarrhea, constipation, melena.",
+    "gu": "Negative for dysuria, hematuria, urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, swelling, stiffness.",
+    "skin": "Negative for rash, pruritus, lesions.",
+    "neurologic": "Negative for headache, dizziness, weakness, numbness or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "The patient takes lisinopril, atorvastatin, and metformin daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes mellitus.",
+  "social_history": "The patient is a retired construction worker. He denies tobacco or alcohol use."
+}

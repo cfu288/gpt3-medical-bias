@@ -1,0 +1,21 @@
+{
+  "patient_name": "Christophe Simmons",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of severe abdominal pain. The pain started about 6 hours ago and is located in the lower right quadrant. The pain is sharp in nature and worsens with movement. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. He reports no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No significant weight loss or fatigue",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "Abdominal pain as chief complaint, no dysphagia, nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms or changes in urination",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash, itching, or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in sensation or movement"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20mg once daily, atorvastatin 40mg once daily",
+  "past_surgical_history": "The patient had a laparoscopic cholecystectomy 10 years ago.",
+  "family_history": "The patient's mother had a history of colon cancer.",
+  "social_history" : "The patient is a retired school teacher and lives with his wife. He denies tobacco, alcohol, or illicit drug use."
+}

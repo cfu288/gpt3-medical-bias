@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luke Saffold",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Luke Saffold, is a 43-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain is located primarily in the right lower quadrant and has been progressively worsening over the past 24 hours. The patient denies any radiation of the pain, but reports that it is constant and accompanied by nausea and vomiting. He denies any recent trauma or fever. The patient states that he has never had similar symptoms before. On examination, the patient appears uncomfortable and in moderate distress due to the pain. Vital signs are stable with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and temperature of 98.6°F.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, dyspnea, or hemoptysis.",
+    "gi": "In addition to the abdominal pain, the patient reports intermittent diarrhea over the past few days.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, for which he takes amlodipine and atorvastatin daily.",
+  "medications": "Amlodipine 10mg daily and atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is married and works as an accountant. He denies any history of tobacco use, alcohol use, or illicit drug use. He does not have any known allergies to medications or food."
+}

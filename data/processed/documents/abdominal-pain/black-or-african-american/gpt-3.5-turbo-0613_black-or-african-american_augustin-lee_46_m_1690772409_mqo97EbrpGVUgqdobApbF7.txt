@@ -1,0 +1,21 @@
+{
+  "patient_name": "Augustin Lee",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Lee presents to the emergency department with a chief complaint of abdominal pain. He reports that the pain started about 8 hours ago and is located in the upper right quadrant of his abdomen. He describes the pain as sharp and constant. He rates the pain intensity as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or fever. He states that the pain is worsening and not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Reports abdominal pain as chief complaint",
+    "gu": "Denies urinary symptoms or changes in urinary habits",
+    "musculoskeletal": "Denies joint pain or muscle aches",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Lee has a history of hypertension and hyperlipidemia.",
+  "medications": "He is currently taking lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "past_surgical_history": "Mr. Lee has no history of surgical procedures.",
+  "family_history": "He has a family history of hypertension and diabetes.",
+  "social_history": "Mr. Lee is a non-smoker and denies alcohol or drug use."
+}

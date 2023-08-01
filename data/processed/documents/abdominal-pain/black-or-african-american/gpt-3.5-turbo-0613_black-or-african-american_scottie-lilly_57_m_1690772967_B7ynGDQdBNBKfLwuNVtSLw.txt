@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Scottie Lilly",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe, sharp abdominal pain. Pain started approximately 5 hours ago and has progressively worsened. Patient reports associated symptoms of nausea and vomiting. Denies any recent trauma or injury. On physical examination, patient is tender to palpation in the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Reports decreased appetite and occasional constipation.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg nightly.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient is married and lives with spouse. Reports occasional alcohol use. Denies tobacco or illicit drug use."
+}
+```

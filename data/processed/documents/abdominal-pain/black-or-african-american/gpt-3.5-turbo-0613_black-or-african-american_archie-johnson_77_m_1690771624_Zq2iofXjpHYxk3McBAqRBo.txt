@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Johnson, presented to the emergency department complaining of severe abdominal pain. He reported the pain started a few hours ago and is located in the lower right quadrant. He described the pain as sharp and constant, with no alleviating or aggravating factors. He denies any associated symptoms such as nausea, vomiting, or fever. No recent bowel movements or changes in bowel habits. He has been unable to eat or drink due to the pain. He denies any urinary symptoms or difficulty passing gas.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Presents with severe abdominal pain as stated in the history of present illness.",
+    "gu": "No urinary symptoms or difficulty passing urine.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Johnson has a history of hypertension and hyperlipidemia. He takes amlodipine 10mg daily and atorvastatin 20mg daily.",
+  "medications": "Amlodipine 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "Cholecystectomy in 2005.",
+  "family_history": "No significant family history of abdominal conditions or malignancy.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

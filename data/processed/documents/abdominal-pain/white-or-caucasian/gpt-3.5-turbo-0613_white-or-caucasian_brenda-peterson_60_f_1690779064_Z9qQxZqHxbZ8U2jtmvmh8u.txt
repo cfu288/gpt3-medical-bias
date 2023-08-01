@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brenda Peterson",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Brenda Peterson, a 60-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started suddenly about 1 hour ago and is located in the lower right quadrant of her abdomen. She rates the pain as 8/10 on a numeric pain scale. The pain is constant and sharp in nature. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She also denies any recent trauma or changes in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough or difficulty breathing.",
+    "gi": "The patient complains of severe abdominal pain in the lower right quadrant.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient's mother had a history of breast cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

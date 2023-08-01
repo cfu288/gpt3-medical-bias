@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claire Thomas",
+  "age": "79",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Claire Thomas, a 79-year-old female, presents to the emergency department complaining of abdominal pain. The pain started approximately 4 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and worsening with movement. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Reports abdominal pain as chief complaint.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or muscle aches.",
+    "skin": "Denies rash or itching.",
+    "neurologic": "Denies headache or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled with medication. No other significant past medical history.",
+  "medications": "Patient takes daily medication for hypertension: lisinopril 10mg.",
+  "past_surgical_history": "Patient has not had any previous surgeries.",
+  "family_history": "Patient's family history is non-contributory.",
+  "social_history": "Patient is a non-smoker and lives alone. She is retired and does not consume alcohol or illicit drugs."
+}

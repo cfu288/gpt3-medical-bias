@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reynold Chesnut",
+  "age": "71",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Chesnut, is a 71-year-old male presenting to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. He rates the pain as an 8 out of 10 and describes it as a sharp, stabbing sensation. The pain is constant and worsens with movement. He denies any associated symptoms such as nausea, vomiting, or diarrhea. He has not experienced any recent dietary changes or trauma. He reports no relief with over-the-counter pain medications. Upon further questioning, he denies any urinary or bowel disturbances. The patient states that he has a history of diverticulosis and has had previous episodes of diverticulitis. He reports similar pain in the past but states that this episode is more severe and concerning. He denies any fever or chills. His past medical history includes hypertension, hyperlipidemia, and osteoarthritis. He takes lisinopril for his blood pressure and atorvastatin for his cholesterol. He has no known drug allergies. He had an appendectomy in his 40s and has no other surgical history of note. His family history is significant for colon cancer in his father. Socially, he is retired and lives with his wife.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient reports severe abdominal pain but denies any difficulty swallowing, heartburn, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia, Osteoarthritis, Diverticulosis",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father with colon cancer",
+  "social_history": "Retired, lives with wife"
+}

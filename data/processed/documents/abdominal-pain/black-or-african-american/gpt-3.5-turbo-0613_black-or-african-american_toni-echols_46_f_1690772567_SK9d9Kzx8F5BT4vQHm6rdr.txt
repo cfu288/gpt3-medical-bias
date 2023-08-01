@@ -1,0 +1,21 @@
+{
+  "patient_name": "Toni Echols",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of abdominal pain. The pain began earlier today and is located in the lower right quadrant. The patient rates the pain at 7 out of 10 and describes it as a sharp, stabbing pain that is constant. The patient denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports abdominal pain and denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hypothyroidism, which are well-controlled with medications.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and levothyroxine 50mcg daily for hypothyroidism.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of any medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

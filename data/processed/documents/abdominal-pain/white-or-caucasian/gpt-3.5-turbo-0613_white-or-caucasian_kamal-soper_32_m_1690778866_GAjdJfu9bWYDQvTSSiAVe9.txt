@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kamal Soper",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain is located in the lower right quadrant and started suddenly two hours ago. Patient rates the pain as 8/10 and describes it as a sharp and stabbing sensation. He denies any recent trauma or injury to the abdomen. He reports associated symptoms of nausea and vomiting. No history of similar pain in the past. No fever or other constitutional symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations, shortness of breath",
+    "respiratory": "Denies cough, shortness of breath, wheezing",
+    "gi": "Reports severe abdominal pain, nausea, vomiting",
+    "gu": "Denies dysuria, hematuria, urinary frequency",
+    "musculoskeletal": "Denies joint pain, muscle weakness, swelling",
+    "skin": "Denies rash, pruritus, lesions",
+    "neurologic": "Denies headache, dizziness, weakness"
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient does not take any regular medications.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports no significant family history of medical conditions.",
+  "social_history": "Patient denies tobacco use, alcohol use, and recreational drug use. He is employed and is married with no children."
+}

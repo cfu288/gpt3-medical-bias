@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nathaniel Chambers",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Nathaniel Chambers, a 42-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The patient states that he has been experiencing sharp, intermittent abdominal pain in the lower right quadrant for the past 24 hours. The pain is severe and is associated with nausea. He denies any recent trauma or changes in bowel habits. The patient has not sought medical attention for this issue previously.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, nausea, and denies vomiting or diarrhea.",
+    "gu": "The patient denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril for blood pressure control.",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of hypertension.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco, alcohol, or illicit drug use."
+}
+```

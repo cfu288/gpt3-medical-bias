@@ -1,0 +1,31 @@
+{
+  "patient_name": "Bridgette Harris",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bridgette Harris, a 50-year-old female with a chief complaint of severe abdominal pain, presented to the emergency department. She reports persistent cramping pain in her lower abdomen for the past 24 hours. The pain is sharp, constant, and worsened with movement. She denies any recent trauma or injury to the abdomen. She has also experienced nausea and has vomited twice today. There is no blood in her vomitus. She denies any urinary symptoms or fever. 
+
+The patient reports a similar episode of abdominal pain in the past, which resolved spontaneously without any medical treatment. She denies any known allergies. However, she states that she has a history of gallstones. She had cholecystectomy surgery 10 years ago to remove her gallbladder. She has not had any recent surgeries or hospitalizations.
+
+On physical examination, the patient appears uncomfortable and is lying still in the bed. Her vital signs are within normal limits. Abdominal examination reveals diffuse tenderness on palpation, especially in the lower quadrants. There is no rebound tenderness, guarding, or rigidity. Bowel sounds are normal. The rest of the physical examination is unremarkable.
+
+Based on the patient's history and physical examination findings, I suspect that she may have a gastrointestinal cause for her abdominal pain such as diverticulitis, appendicitis, or gastroenteritis. Further diagnostic testing and imaging are required to confirm the diagnosis and guide the management plan. A complete blood count, comprehensive metabolic panel, and abdominal X-ray will be ordered. Additionally, I will start the patient on intravenous fluids and administer analgesics to alleviate her pain. The patient will be closely monitored while we await the results of the tests.
+
+Once the results of the diagnostic tests are available, a diagnosis will be made and appropriate treatment will be initiated. Further updates will be provided as necessary.
+
+",
+"review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Reports abdominal pain, nausea, and two episodes of non-bloody vomiting.",
+    "gu": "Denies urinary symptoms, dysuria, or urinary frequency.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+"past_medical_history": "The patient has a past medical history of gallstones and has had a cholecystectomy surgery 10 years ago.",
+"medications": "The patient denies taking any medications at home.",
+"past_surgical_history": "The patient has a past surgical history of cholecystectomy 10 years ago.",
+"family_history": "The patient denies any significant family history of gastrointestinal diseases or other relevant conditions.",
+"social_history": "The patient denies smoking, alcohol use, or illicit drug use. She works as a teacher and lives with her husband and two adult children."
+}

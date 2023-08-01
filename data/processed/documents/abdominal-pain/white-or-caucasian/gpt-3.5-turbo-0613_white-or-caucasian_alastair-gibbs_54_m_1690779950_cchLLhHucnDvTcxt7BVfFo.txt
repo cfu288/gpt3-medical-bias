@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alastair Gibbs",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Gibbs presented to the emergency department with complaints of severe abdominal pain. He described the pain as constant and located in the lower right quadrant of his abdomen. He also stated that the pain started approximately 8 hours ago and has been progressively worsening. He denies any associated symptoms such as fever, nausea, or vomiting. On physical examination, he has tenderness in the right lower quadrant with rebound tenderness and guarding. Given the location and severity of his pain, a possible diagnosis of appendicitis is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient's chief complaint is related to abdominal pain. Denies any recent changes in bowel movements or blood in stool.",
+    "gu": "Patient denies any urinary symptoms such as burning or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Patient's father had a history of appendicitis.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

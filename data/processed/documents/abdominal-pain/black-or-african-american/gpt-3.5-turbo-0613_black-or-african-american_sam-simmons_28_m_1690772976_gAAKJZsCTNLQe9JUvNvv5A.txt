@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Simmons",
+  "age": "28",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of abdominal pain. Patient reports the pain started approximately 6 hours ago and has been progressively worsening. Patient describes the pain as a constant, sharp pain located in the lower right quadrant. Patient denies any nausea, vomiting, diarrhea, or fever. On physical examination, patient has tenderness and guarding on palpation of the right lower quadrant. No rebound tenderness or rigidity noted. Given the location and nature of the pain, concern for appendicitis is high. Patient will be sent for further diagnostic workup including laboratory studies and imaging.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Denies nausea, vomiting, diarrhea, or constipation",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or changes in vision"
+  },
+  "past_medical_history": "Patient reports no significant past medical history. No known chronic medical conditions.",
+  "medications": "Patient does not take any regular medications. No known drug allergies.",
+  "past_surgical_history": "Patient reports no past surgical history. No previous abdominal surgeries.",
+  "family_history": "No significant family history of abdominal conditions or surgical procedures.",
+  "social_history": "Patient denies tobacco use, alcohol use, or illicit drug use. Works as a software engineer."
+}

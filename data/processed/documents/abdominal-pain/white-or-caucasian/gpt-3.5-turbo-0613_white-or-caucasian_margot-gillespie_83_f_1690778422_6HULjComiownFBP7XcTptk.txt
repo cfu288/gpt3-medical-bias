@@ -1,0 +1,21 @@
+{
+  "patient_name": "Margot Gillespie",
+  "age": "83",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Margot Gillespie, an 83-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the upper abdomen. The pain is described as dull and aching, and it is not relieved with over-the-counter pain medications. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She reports no recent travel or exposure to sick contacts. On physical examination, the patient appears uncomfortable and is guarding her abdomen. Palpation of the abdomen elicits tenderness in the epigastric region. There are no signs of peritoneal irritation. Abdominal auscultation reveals normal bowel sounds. Initial vital signs are stable with a blood pressure of 120/70 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, shortness of breath, or palpitations reported.",
+    "respiratory": "No cough, dyspnea, or sputum production reported.",
+    "gi": "Apart from the abdominal pain, no other gastrointestinal symptoms such as nausea, vomiting, or change in bowel habits reported.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rashes, lesions, or pruritus reported.",
+    "neurologic": "No headaches, dizziness, focal weakness, or sensory changes reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril, atorvastatin, and acetaminophen on a regular basis.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily, and acetaminophen 650 mg as needed for pain",
+  "past_surgical_history": "The patient has no history of any major surgeries.",
+  "family_history": "There is no significant family history of any genetic or chronic diseases.",
+  "social_history": "The patient is retired and lives alone. She is a nonsmoker and denies alcohol or illicit drug use."
+}

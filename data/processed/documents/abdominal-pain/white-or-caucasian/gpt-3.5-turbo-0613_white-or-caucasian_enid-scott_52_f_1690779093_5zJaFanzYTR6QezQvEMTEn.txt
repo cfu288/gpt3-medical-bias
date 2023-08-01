@@ -1,0 +1,21 @@
+{
+  "patient_name": "Enid Scott",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of severe abdominal pain. She states that the pain started approximately 6 hours ago and has been progressively worsening. The pain is located in the right lower quadrant and is associated with nausea and vomiting. She denies any fever or diarrhea. On examination, the patient appears uncomfortable and has tenderness to palpation in the right lower quadrant. Given the location and severity of the pain, the possibility of appendicitis is considered.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, shortness of breath, or palpitations.",
+    "respiratory": "No cough or difficulty breathing.",
+    "gi": "Complains of abdominal pain, nausea, and vomiting. No diarrhea or constipation.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient is taking lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of previous surgeries.",
+  "family_history": "Patient has no significant family history.",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. She is married and works as a teacher."
+}

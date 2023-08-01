@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tod Scott",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of abdominal pain. According to the patient, the pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and constant, with a severity of 7 on a scale of 1 to 10. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. No alleviating or aggravating factors have been identified. Physical examination reveals tenderness in the lower right quadrant, without rebound tenderness or guarding. Given the patient's age and location of pain, acute appendicitis is a possibility. Further evaluation and diagnostic studies to confirm the diagnosis are recommended.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, wheezing, or shortness of breath reported.",
+    "gi": "Besides the abdominal pain, the patient denies any other gastrointestinal symptoms such as diarrhea, constipation, or blood in stool.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported.",
+    "skin": "No rashes, lesions, or changes in the skin reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril as prescribed. No other significant past medical history reported.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No prior surgical procedures reported.",
+  "family_history": "The patient reports a family history of hypertension and diabetes.",
+  "social_history": "The patient is a retired accountant. He denies smoking, alcohol use, or illicit drug use."
+}

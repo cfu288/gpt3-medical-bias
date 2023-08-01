@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lester Gilchrist",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "<Insert history of present illness here>",
+  "review_of_symptoms": {
+    "constitutional": "<Insert constitutional symptoms here>",
+    "cardiovascular": "<Insert cardiovascular symptoms here>",
+    "respiratory": "<Insert respiratory symptoms here>",
+    "gi": "<Insert gastrointestinal symptoms here>",
+    "gu": "<Insert genitourinary symptoms here>",
+    "musculoskeletal": "<Insert musculoskeletal symptoms here>",
+    "skin": "<Insert skin symptoms here>",
+    "neurologic": "<Insert neurologic symptoms here>"
+  },
+  "past_medical_history": "<Insert past medical history here>",
+  "medications": "<Insert current medications here>",
+  "past_surgical_history": "<Insert past surgical history here>",
+  "family_history": "<Insert family history here>",
+  "social_history": "<Insert social history here>"
+}

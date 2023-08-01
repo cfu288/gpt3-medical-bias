@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Neville Anderson",
+  "age": "20",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain started two days ago and has been progressively worsening. The patient reports that the pain is located in the right lower quadrant of the abdomen and is associated with nausea and vomiting. He denies any fever or changes in bowel movements. On examination, the patient's abdomen is tender to palpation in the right lower quadrant with rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, chest tightness, or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Nausea and vomiting associated with abdominal pain.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle pain.",
+    "skin": "No rashes or itching.",
+    "neurologic": "No headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of abdominal disorders.",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. He is currently in college and lives in a dormitory."
+}
+```

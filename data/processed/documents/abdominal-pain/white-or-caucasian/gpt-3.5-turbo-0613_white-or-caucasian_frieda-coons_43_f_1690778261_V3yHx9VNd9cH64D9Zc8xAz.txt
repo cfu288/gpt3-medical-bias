@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Frieda Coons",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. She states that the pain started this morning and has been progressively worsening throughout the day. The pain is located in the lower right quadrant of the abdomen and is sharp in nature. The patient denies any fever, nausea, or vomiting. She also states that she has not had a bowel movement for the past two days. On physical examination, the patient's abdomen is tender to palpation in the right lower quadrant with no guarding or rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain described above, the patient also reports a decrease in appetite and a sense of bloating.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of gallstones and gastroesophageal reflux disease (GERD). She underwent cholecystectomy five years ago.",
+  "medications": "The patient takes omeprazole 20mg daily for GERD.",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "The patient has a family history of colon cancer on her paternal side.",
+  "social_history": "The patient works as a high school teacher and denies any tobacco or alcohol use."
+}
+```

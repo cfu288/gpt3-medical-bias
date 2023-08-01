@@ -1,0 +1,21 @@
+{
+  "patient_name": "Burt Fortune",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Burt Fortune, a 68-year-old male, presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started about 8 hours ago and is located in the lower right quadrant of his abdomen. The pain is constant and sharp in nature. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The patient states that the pain is worse with movement. He has not experienced any similar episodes in the past. Upon further questioning, the patient reveals that he has a past medical history of hypertension and type 2 diabetes. He currently takes lisinopril and metformin for these conditions. The patient denies any recent surgeries or hospitalizations. In terms of family history, he reports that his father had a history of heart disease. Socially, the patient is a retired accountant and lives alone. He denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports persistent abdominal pain as his chief complaint.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes.",
+  "medications": "The patient takes lisinopril and metformin for hypertension and type 2 diabetes, respectively.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "The patient is retired and lives alone. He denies any recent travel or exposure to sick individuals."
+}

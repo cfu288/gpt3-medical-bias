@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tamika Gordon",
+  "age": "28",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tamika Gordon, a 28-year-old female, presented to the emergency department with complaints of abdominal pain. The pain started earlier today, is located in the lower right quadrant of the abdomen, and is associated with nausea and vomiting. There is no history of trauma or recent surgery. The patient denies any urinary symptoms or changes in bowel movements. She also denies any fever or chills.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a lack of appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports nausea and vomiting, but denies any diarrhea or blood in stool.",
+    "gu": "No urinary symptoms or changes in urine color or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or wounds.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies.",
+  "medications": "The patient takes daily medications for her asthma and occasional antihistamines for her allergies.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of diabetes.",
+  "social_history": "The patient denies tobacco, alcohol, or drug use. She is currently employed as an accountant and lives a sedentary lifestyle."
+}
+```

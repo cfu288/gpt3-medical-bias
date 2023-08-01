@@ -1,0 +1,21 @@
+{
+  "patient_name": "Coleman Wesley",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Coleman Wesley, a 69-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the epigastric region. The pain is described as sharp and constant, with a severity of 8 out of 10. The pain is not relieved by rest or changes in position. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On further questioning, the patient reports a history of peptic ulcers and takes over-the-counter antacids for symptom relief. Given the severity of the pain, further investigation is warranted to determine the underlying cause.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Peptic ulcers",
+  "medications": "Over-the-counter antacids",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of gastrointestinal disorders",
+  "social_history": "Retired, lives alone, denies tobacco, alcohol, or recreational drug use"
+}

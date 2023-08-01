@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winston Weathers",
+  "age": "31",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and has been constant. He rates the pain as 8 out of 10 in intensity. The pain is located in the lower abdomen and radiates to the back. Patient denies any vomiting, diarrhea, or fever. He reports no recent changes in bowel movements or urinary frequency. No known triggers for the pain. He tried taking over-the-counter antacids but they did not relieve the pain. Patient is concerned about the worsening pain and has come to the emergency department for further evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, night sweats, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as described above. No nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of gastrointestinal diseases.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. Lives alone and works as a software engineer."
+}

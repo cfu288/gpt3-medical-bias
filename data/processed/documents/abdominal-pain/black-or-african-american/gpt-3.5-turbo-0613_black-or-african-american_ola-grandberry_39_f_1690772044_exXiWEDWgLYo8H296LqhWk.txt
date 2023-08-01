@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Grandberry",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presenting with severe abdominal pain. Pain began 2 hours ago and is located in the lower abdomen. Patient rates pain as a 9/10 on the pain scale. Pain is sharp in nature and worsens with movement. Patient denies any associated symptoms such as fever, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any constitutional symptoms such as fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies any cardiovascular symptoms such as chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any respiratory symptoms such as cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports severe abdominal pain as the chief complaint. Denies any nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms reported by the patient.",
+    "musculoskeletal": "No musculoskeletal symptoms reported by the patient.",
+    "skin": "No skin symptoms reported by the patient.",
+    "neurologic": "No neurologic symptoms reported by the patient."
+  },
+  "past_medical_history": "Patient has a history of gastroesophageal reflux disease (GERD) and hypertension.",
+  "medications": "Patient currently takes omeprazole for GERD and lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. No significant occupational exposures or recent travel."
+}

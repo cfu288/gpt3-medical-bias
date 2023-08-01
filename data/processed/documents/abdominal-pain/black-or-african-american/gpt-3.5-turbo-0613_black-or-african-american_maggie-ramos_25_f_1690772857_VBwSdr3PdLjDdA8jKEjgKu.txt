@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maggie Ramos",
+  "age": "25",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Maggie Ramos, a 25-year-old female, presents to the emergency department with complaints of abdominal pain. The pain began approximately 6 hours ago and is located in the lower right quadrant. She rates the pain as 8/10 in severity and describes it as sharp and constant. There is no radiation of pain. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or shortness of breath.",
+    "gi": "Reports abdominal pain as the chief complaint. Denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies any musculoskeletal symptoms such as joint pain, stiffness, or swelling.",
+    "skin": "Denies any skin changes or rashes.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or recreational drug use."
+}

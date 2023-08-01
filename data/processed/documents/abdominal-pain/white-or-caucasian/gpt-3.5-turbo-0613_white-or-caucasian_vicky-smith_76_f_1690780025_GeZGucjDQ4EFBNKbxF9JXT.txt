@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vicky Smith",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of severe abdominal pain. Pain started approximately 6 hours ago and has been constant and worsening. Patient describes the pain as sharp and localized to the lower right quadrant. Denies any urinary or bowel changes, fever, or vomiting. No recent trauma or injury reported.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No shortness of breath or cough reported.",
+    "gi": "Patient reports abdominal pain as the chief complaint.",
+    "gu": "No urinary frequency, urgency, or burning reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "No headaches, dizziness, or numbness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient currently takes lisinopril 10mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient had an appendectomy at age 30.",
+  "family_history": "Patient reports no significant family history of note.",
+  "social_history": "Patient lives alone and is independent with activities of daily living. Denies tobacco or illicit drug use. Drinks alcohol occasionally."
+}

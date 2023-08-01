@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rashid Hall",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Hall is a 49-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started abruptly about 4 hours ago and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and constant. He denies any associated symptoms such as fever, nausea, or vomiting. The pain is not relieved by any position or over-the-counter medications. He has no known triggers for his symptoms and denies any recent trauma or injury. He has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing.",
+    "gi": "Positive for abdominal pain which is the chief complaint. Negative for any other gastrointestinal symptoms such as bloating, diarrhea, or constipation.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or changes in the color or texture of the skin.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or coordination."
+  },
+  "past_medical_history": "Mr. Hall has a past medical history of hypertension and hyperlipidemia. He is on medications for the management of these conditions.",
+  "medications": "Amlodipine 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Mr. Hall has no history of any surgical procedures.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Mr. Hall is a non-smoker and denies any history of alcohol or drug abuse. He is currently employed and has a sedentary lifestyle."
+}

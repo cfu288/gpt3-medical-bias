@@ -1,0 +1,21 @@
+{
+  "patient_name": "Newton Jones",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant of the abdomen. The patient described the pain as sharp and constant. He also reported having nausea and vomiting associated with the pain. Upon further questioning, the patient denied any recent changes in bowel movements or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Complains of abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or wounds.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily.",
+  "past_surgical_history": "Appendectomy in 1998.",
+  "family_history": "Family history of cardiovascular disease.",
+  "social_history": "Patient is a retired engineer, non-smoker, and denies any alcohol or illegal drug use."
+}

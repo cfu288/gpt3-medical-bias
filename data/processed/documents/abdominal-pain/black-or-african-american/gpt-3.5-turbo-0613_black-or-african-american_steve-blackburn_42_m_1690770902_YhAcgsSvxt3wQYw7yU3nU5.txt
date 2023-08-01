@@ -1,0 +1,21 @@
+{
+  "patient_name": "Steve Blackburn",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Blackburn, presents to the emergency department with chief complaint of abdominal pain. He states that the pain began earlier today and has been gradually getting worse. He describes the pain as a sharp, stabbing sensation located in the lower right side of his abdomen. He denies any recent trauma, nausea, vomiting, or changes in bowel movements. Upon further questioning, he reports a fever of 101°F and states that he has not been able to eat much due to the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as stated in chief complaint.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headachek or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient works as a computer programmer. He denies tobacco, alcohol, or recreational drug use."
+}

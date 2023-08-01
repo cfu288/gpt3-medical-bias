@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Tomeka Thompson",
+  "age": "45",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tomeka Thompson, a 45-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started yesterday and she describes it as a dull ache in the lower abdomen, which has been constant and progressively worsening. She rates the pain intensity as 8 out of 10. The pain is not relieved by any specific position or medication. She denies any associated symptoms such as nausea, vomiting, diarrhea or constipation. She also denies any fever, chills, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or chest pain.",
+    "gi": "Reports abdominal pain, denies nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, controlled with medication. She denies any other significant medical conditions.",
+  "medications": "The patient takes hydrochlorothiazide 25 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father has a history of heart disease. The rest of the family history is unremarkable.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a teacher and lives with her husband and two children."
+}
+```

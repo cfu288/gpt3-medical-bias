@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Jones",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started 6 hours ago and is located in the lower right quadrant of the abdomen. Patient rates pain as 8/10 and describes it as sharp and constant. Denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. No previous similar episodes reported. Patient states that pain is worsening and is unable to find relief with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as described in the chief complaint. No associated symptoms of nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "Patient denies any recent injuries or musculoskeletal pain.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any changes in mental status, headache, or neurological symptoms."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, hyperlipidemia, and osteoarthritis. Takes medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Patient reports a cholecystectomy 10 years ago.",
+  "family_history": "Patient reports a family history of hypertension and hyperlipidemia.",
+  "social_history": "Patient is a retired accountant. Denies tobacco or alcohol use."
+}

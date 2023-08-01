@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Shay Dellinger",
+    "age": "40",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started earlier today. The pain is located in the lower right quadrant and is associated with nausea and vomiting. No fever or bowel movement changes noted. Patient denies any recent trauma or injury to the abdomen. Patient states that the pain is progressively worsening.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever, chills, fatigue or weight changes.",
+        "cardiovascular": "Patient denies chest pain, palpitations or shortness of breath.",
+        "respiratory": "Patient denies cough, shortness of breath or wheezing.",
+        "gi": "Patient currently experiencing severe abdominal pain with associated nausea and vomiting. No changes in bowel movements or blood in stool.",
+        "gu": "Patient denies dysuria, hematuria or urinary frequency.",
+        "musculoskeletal": "Patient denies any musculoskeletal complaints.",
+        "skin": "Patient denies any skin rashes, lesions or changes.",
+        "neurologic": "Patient denies headache, dizziness or changes in vision."
+    },
+    "past_medical_history": "Patient reports a history of irritable bowel syndrome and has been managing symptoms with dietary modifications and over-the-counter medications.",
+    "medications": "Patient takes over-the-counter medications for the occasional management of irritable bowel syndrome symptoms. No other prescription medications reported.",
+    "past_surgical_history": "Patient has no history of surgical procedures.",
+    "family_history": "No significant family history reported.",
+    "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

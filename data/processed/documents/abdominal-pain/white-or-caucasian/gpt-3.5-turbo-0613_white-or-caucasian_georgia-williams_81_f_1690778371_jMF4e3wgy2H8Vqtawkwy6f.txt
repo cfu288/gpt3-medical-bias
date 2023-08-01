@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georgia Williams",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. She states that the pain started about 4 hours ago and is located in the lower right quadrant of her abdomen. She denies any recent trauma or injury. She has tried over-the-counter pain medications but her symptoms have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports severe abdominal pain with no associated nausea or vomiting. No changes in bowel movements or blood in stool.",
+    "gu": "No complaints of dysuria, urgency, or frequency. No changes in urine color or odor.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "No rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient had a cholecystectomy for gallstones 10 years ago.",
+  "family_history": "Patient's mother had a history of colon cancer.",
+  "social_history": "Patient lives alone and is independent with activities of daily living. No history of tobacco, alcohol, or recreational drug use."
+}

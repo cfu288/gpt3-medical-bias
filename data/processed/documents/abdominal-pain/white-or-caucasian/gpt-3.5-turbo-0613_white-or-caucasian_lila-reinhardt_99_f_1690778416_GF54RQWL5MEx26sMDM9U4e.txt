@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lila Reinhardt",
+  "age": "99",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lila Reinhardt, a 99-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started abruptly about 2 hours ago. The pain is located in the right lower quadrant and is described as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. It is important to note that the patient has a history of diverticulitis. Vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Presents with abdominal pain, denies any changes in appetite or bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a medical history of diverticulitis, hypertension, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has a past surgical history of a cholecystectomy and appendectomy.",
+  "family_history": "The patient's family history is significant for colon cancer in her mother.",
+  "social_history": "The patient lives alone and is independent in her activities of daily living. She denies any tobacco or alcohol use."
+}

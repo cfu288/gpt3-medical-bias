@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nathalie Gunn",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Nathalie Gunn, a 32-year-old female, presents to the emergency department with complaints of abdominal pain. The pain began earlier today, and she describes it as a dull ache in the lower right quadrant of her abdomen. She rates the pain as a 7 out of 10 in severity. The pain is constant and worsens with movement. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She states that she has never experienced this type of pain before and is concerned that it may be something serious.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as the chief complaint. Denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has no significant past medical history and denies any chronic medical conditions.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug use."
+}
+```

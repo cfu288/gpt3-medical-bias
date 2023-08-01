@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valarie Evans",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and started suddenly about 6 hours ago. Patient states that the pain is constant and worsens with movement. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Patient reports no previous episodes of abdominal pain of this severity.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, difficulty breathing, or wheezing.",
+    "gi": "Patient reports abdominal pain, but denies any changes in appetite, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "No rashes or skin lesions reported by the patient.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Patient reports a family history of hypertension and diabetes.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or drug use."
+}

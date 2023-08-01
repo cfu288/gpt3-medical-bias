@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lavern Jackson",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe abdominal pain. She describes the pain as a constant cramping sensation located in the lower right quadrant of her abdomen. The pain has been present for the past 24 hours and has progressively worsened. Patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. She states that the pain is persistent and does not alleviate with rest or over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports severe pain in the lower right quadrant of her abdomen but denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or limitations in range of motion.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any dizziness, headache, or changes in vision or sensation."
+  },
+  "past_medical_history": "Patient has a history of gallstones and has previously undergone cholecystectomy. She also has a history of hypertension and takes daily medication for it.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Patient's family history is significant for gallbladder disease",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

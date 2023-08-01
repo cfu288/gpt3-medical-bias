@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Von Morris"
+    },
+    "age": {
+      "type": "string",
+      "value": "60"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Mr. Von Morris, is a 60-year-old male who presented to the emergency department with complaints of abdominal pain which started yesterday. The pain is located in the right lower quadrant of the abdomen and is sharp in nature. He rates the pain as 7 out of 10 in severity and describes it as constant. He denies any radiation of the pain. The pain is associated with nausea but no vomiting. He has not noticed any change in bowel movements or urinary symptoms. He denies any fever or chills. He reports, however, that he has had a loss of appetite for the past couple of days. There is no significant medical history or recent travel that may be contributing to his symptoms. On physical examination, there is tenderness on palpation of the right lower quadrant without any rebound tenderness or guarding. Bowel sounds are normal. Based on the presentation and examination findings, a working diagnosis of acute appendicitis is considered. Further investigation and management will be done to confirm the diagnosis and provide appropriate treatment."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient denies any weight loss, fatigue, or night sweats."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient denies any chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient denies any cough, sputum production, or difficulty breathing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "The patient complains of abdominal pain, nausea, and loss of appetite as described in the history of present illness."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient denies any joint pain, muscle pain, or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any rashes, itching, or changes in skin color."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient denies any headache, dizziness, or numbness/tingling."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has no significant past medical history."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient denies taking any medications."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of any surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient denies any significant family history of medical conditions."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a non-smoker and denies any alcohol or recreational drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

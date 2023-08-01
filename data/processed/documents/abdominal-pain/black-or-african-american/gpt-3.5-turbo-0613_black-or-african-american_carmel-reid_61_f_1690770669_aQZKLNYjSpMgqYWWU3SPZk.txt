@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carmel Reid",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ms. Carmel Reid, a 61-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago, is located in the epigastric region, and is constant in nature. The patient reports associated symptoms of nausea and vomiting. There is no relieving or aggravating factors. The pain is rated 8/10 in intensity. The patient denies any recent trauma or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or dyspnea.",
+    "gi": "The patient reports abdominal pain, nausea, and vomiting as described above. Denies any diarrhea, constipation, or hematochezia.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes Amlodipine 5 mg once daily and Atorvastatin 20 mg once daily.",
+  "medications": "Amlodipine 5 mg once daily, Atorvastatin 20 mg once daily",
+  "past_surgical_history": "The patient has no known previous surgical history.",
+  "family_history": "The patient reports a family history of hypertension in her parents.",
+  "social_history": "The patient is a non-smoker, non-drinker, and denies any illicit drug use."
+}
+```

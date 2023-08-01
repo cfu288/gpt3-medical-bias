@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geoff Zanoni",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. The pain is located in the right lower quadrant and has been ongoing for the past 12 hours. The pain is described as sharp and constant. The patient denies any associated symptoms such as fever, nausea, or vomiting. Physical examination reveals tenderness in the right lower quadrant with rebound tenderness. Given the patient's symptoms and physical examination findings, further diagnostic workup is warranted to determine the underlying cause of the abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or shortness of breath",
+    "respiratory": "No cough or difficulty breathing",
+    "gi": "Abdominal pain as described above",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache or changes in mental status"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 32",
+  "family_history": "No significant family history of abdominal conditions or surgeries",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

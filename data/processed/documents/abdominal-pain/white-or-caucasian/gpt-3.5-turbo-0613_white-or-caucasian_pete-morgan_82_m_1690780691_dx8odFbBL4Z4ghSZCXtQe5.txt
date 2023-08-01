@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pete Morgan",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. He reports that the pain started yesterday evening and has been progressively worsening. The pain is located in the lower right quadrant and is associated with nausea. The patient denies any history of trauma or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and nausea. Denies vomiting or diarrhea.",
+    "gu": "Patient denies urgency, frequency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "No history of headaches or changes in mental status reported."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "Patient is currently taking lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is retired and lives alone."
+}

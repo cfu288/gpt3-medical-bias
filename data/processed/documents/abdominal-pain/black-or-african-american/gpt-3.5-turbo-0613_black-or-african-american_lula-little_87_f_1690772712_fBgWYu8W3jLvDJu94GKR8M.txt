@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lula Little",
+  "age": "87",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe abdominal pain. She reports that the pain started earlier today and has been gradually getting worse. She describes it as a sharp, crampy pain located in the lower right quadrant of her abdomen. The pain is associated with nausea and vomiting. Patient states she has not had a bowel movement in 2 days. She denies any recent changes in diet or medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports occasional palpitations but denies chest pain or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain and nausea. Denies vomiting blood or passing dark-colored stools.",
+    "gu": "Patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Patient denies any recent trauma or musculoskeletal complaints.",
+    "skin": "Patient denies any skin rashes, sores, or recent changes in pigmentation.",
+    "neurologic": "Patient denies any changes in sensation or motor function. No headache or dizziness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis. She takes daily medications for these conditions.",
+  "medications": "Hydrochlorothiazide for hypertension and acetaminophen for osteoarthritis",
+  "past_surgical_history": "Patient has a history of appendectomy",
+  "family_history": "Patient reports a family history of hypertension and diabetes",
+  "social_history": "Patient is a retired teacher. Denies tobacco or alcohol use."
+}

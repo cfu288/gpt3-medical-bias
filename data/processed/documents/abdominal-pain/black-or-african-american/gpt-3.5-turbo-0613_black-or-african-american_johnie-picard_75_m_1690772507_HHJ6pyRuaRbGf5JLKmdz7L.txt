@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Picard",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours prior and is located in the right lower quadrant of the abdomen. Patient reports associated nausea and has experienced a few episodes of vomiting. Denies any fever or chills. Reports no recent changes in bowel habits or urinary symptoms. No recent trauma or injury to the abdomen. Patient also reports a history of constipation and occasional bloating.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Complains of severe abdominal pain, associated with nausea and vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in consciousness or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. Takes medications for these conditions.",
+  "medications": "Patient takes Lisinopril for hypertension and Atorvastatin for hyperlipidemia. No known allergies to medications.",
+  "past_surgical_history": "Patient has a history of appendectomy at age 35. No other significant past surgeries.",
+  "family_history": "Patient reports a family history of heart disease in his father and mother. No other significant family history.",
+  "social_history": "Patient is retired. Lives alone and is independent with activities of daily living. Non-smoker. Social drinker."
+}

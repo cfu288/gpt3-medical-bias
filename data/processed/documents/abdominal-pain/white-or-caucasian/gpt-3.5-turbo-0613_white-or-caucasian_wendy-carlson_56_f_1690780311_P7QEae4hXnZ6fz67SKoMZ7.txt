@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wendy Carlson",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started 6 hours ago. The pain is located in the lower right quadrant and is constant. She rates the pain as 8 out of 10 and describes it as sharp and stabbing. She denies any associated symptoms such as fever, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Reports severe abdominal pain in the lower right quadrant. Denies any changes in bowel movements or blood in stool.",
+    "gu": "Reports no urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash, itching, or skin lesions reported.",
+    "neurologic": "No headache, dizziness, or numbness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril for blood pressure management and statins for cholesterol control.",
+  "past_surgical_history": "Patient had an appendectomy at the age of 30.",
+  "family_history": "No significant family history of abdominal conditions or surgical interventions.",
+  "social_history": "Patient is a non-smoker, denies alcohol and illicit drug use."
+}

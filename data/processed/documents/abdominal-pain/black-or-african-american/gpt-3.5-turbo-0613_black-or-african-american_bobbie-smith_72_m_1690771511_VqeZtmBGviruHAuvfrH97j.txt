@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bobbie Smith",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain began earlier today and is located in the lower right quadrant. Patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. The pain is constant and worsens with movement. Patient reports no history of similar episodes in the past. Upon examination, patient appears uncomfortable and is guarding the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described in the chief complaint. No changes in bowel movements or blood in stool.",
+    "gu": "No urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No changes in sensation or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. Patient reports being compliant with prescribed medications.",
+  "medications": "Lisinopril 10mg daily for hypertension, Metformin 1000mg twice daily for type 2 diabetes.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history.",
+  "social_history": "Patient is retired. Denies smoking, alcohol, or illicit drug use."
+}

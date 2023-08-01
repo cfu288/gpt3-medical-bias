@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mariya Modro",
+  "age": "23",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the lower right quadrant and is associated with nausea and vomiting. The patient denies any recent trauma or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies any current medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no significant family history.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

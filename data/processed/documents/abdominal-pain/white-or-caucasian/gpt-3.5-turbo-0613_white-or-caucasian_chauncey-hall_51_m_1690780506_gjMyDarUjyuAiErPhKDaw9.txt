@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chauncey Hall",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Chauncey Hall, a 51-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started a few hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp, intermittent, and worsens with movement. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. Upon further questioning, the patient reports no recent trauma or dietary changes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing",
+    "gi": "The patient presents with abdominal pain, but denies any nausea, vomiting, diarrhea, or blood in the stool",
+    "gu": "The patient denies any dysuria, frequency, urgency, or blood in the urine",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limited range of motion",
+    "skin": "The patient denies any rashes, itching, or skin changes",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no history of any surgical procedures",
+  "family_history": "The patient reports a family history of hypertension and heart disease but denies any family history of gastrointestinal diseases or cancers.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He is currently employed as a software engineer and denies any recent travel or exposure to sick contacts."
+}

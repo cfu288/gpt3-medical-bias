@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hans Wilson",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Hans Wilson, a 49-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain is described as a sharp, crampy sensation located in the lower right side of the abdomen. The pain started earlier today and has been progressively worsening. Patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. He reports no recent trauma or known medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight changes.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports severe abdominal pain as the chief complaint. Denies any nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "No musculoskeletal complaints reported.",
+    "skin": "No skin complaints reported.",
+    "neurologic": "No neurologic complaints reported."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient is unsure of family medical history.",
+  "social_history": "Patient is currently employed as a construction worker. Denies tobacco, alcohol, or illicit drug use."
+}

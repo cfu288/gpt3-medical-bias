@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ferdinand White",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department complaining of severe abdominal pain that started 4 hours ago. Pain is located in the epigastric area and radiates to the back. Patient states that the pain is constant and rated as 9/10 in intensity. He denies any associated symptom such as nausea, vomiting, or changes in bowel movements. Patient has a history of peptic ulcer disease and takes daily omeprazole for acid reflux. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills",
+    "cardiovascular": "Patient denies palpitations or chest pain",
+    "respiratory": "Patient denies cough or shortness of breath",
+    "gi": "Patient reports severe epigastric pain",
+    "gu": "Patient denies dysuria or hematuria",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness",
+    "skin": "Patient denies rash or pruritus",
+    "neurologic": "Patient denies headache or changes in vision"
+  },
+  "past_medical_history": "Peptic ulcer disease, hypertension",
+  "medications": "Omeprazole 20mg daily, Lisinopril 10mg daily",
+  "past_surgical_history": "Cholecystectomy in 2012",
+  "family_history": "No family history of gastrointestinal diseases",
+  "social_history": "Former smoker, quit 10 years ago. Drinks alcohol occasionally."
+}

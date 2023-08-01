@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cedric Woulard",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He states that the pain started earlier today and is located in the lower right quadrant of his abdomen. He rates the pain as 9 out of 10, and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. On physical examination, the abdomen is tender to palpation in the right lower quadrant. There is no rebound tenderness or guarding. Upon further questioning, the patient reports that he had a recent episode of diarrhea and has been experiencing constipation intermittently over the past few weeks. He denies any recent travel or sick contacts. His medical history is significant for irritable bowel syndrome and he takes over-the-counter medications for symptom relief. There is no history of prior abdominal surgeries. The patient's vital signs are stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or focal neurological deficits"
+  },
+  "past_medical_history": "Irritable bowel syndrome",
+  "medications": "Over-the-counter medications for irritable bowel syndrome",
+  "past_surgical_history": "No prior abdominal surgeries",
+  "family_history": "No significant family history of gastrointestinal conditions",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He is employed as an accountant and reports low stress levels."
+}
+```

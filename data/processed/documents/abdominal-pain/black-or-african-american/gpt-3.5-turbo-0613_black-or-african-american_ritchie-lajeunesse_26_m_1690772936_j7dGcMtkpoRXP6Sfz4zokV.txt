@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ritchie Lajeunesse",
+  "age": "26",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of abdominal pain. He reports that the pain started suddenly this afternoon and is located in the lower right quadrant of his abdomen. The pain is sharp and worsens with movement. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient has no known medical conditions and has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports the abdominal pain as the only gastrointestinal symptom.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports that the pain is worsened with movement.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or neurological symptoms."
+  },
+  "past_medical_history": "The patient has no known past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family medical history.",
+  "social_history": "The patient denies tobacco, alcohol, and drug use. He is currently employed and lives alone."
+}
+```

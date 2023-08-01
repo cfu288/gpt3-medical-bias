@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Harlan Vaughn",
+  "age": "38",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Vaughn, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, stabbing sensation in his lower abdomen. The pain started approximately 12 hours ago and has been gradually worsening. He denies any associated nausea, vomiting, or changes in bowel movements. He reports no recent trauma or injuries to his abdomen. On examination, the patient appears uncomfortable and is unable to find a comfortable position. His vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "Abdominal pain as chief complaint",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has no significant past medical history. He denies any chronic illnesses, surgeries, or hospitalizations.",
+  "medications": "The patient takes no regular medications and denies any allergies.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient's family history is unremarkable. There is no family history of abdominal conditions or other significant medical conditions.",
+  "social_history": "The patient is married and works as a software engineer. He denies tobacco, alcohol, or recreational drug use."
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Addie Patrick",
+  "age": "22",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Addie Patrick, a 22-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 8 hours ago and is mainly located in the lower right abdomen. The pain is described as sharp and continuous, and it is aggravated by movement. She denies any associated symptoms such as nausea, vomiting, or fever. She also reports no recent trauma or injuries. Onset of pain was sudden. No relief was reported with over the counter pain medication. She denies any similar episodes in the past. She affirms normal urine and stool pattern earlier in the day. Medical review of symptoms was unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, shortness of breath or palpitations",
+    "respiratory": "No cough, sputum production, or difficulty breathing",
+    "gi": "No nausea, vomiting, diarrhea, or constipation",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history reported",
+  "medications": "Patient denies any current use of medications",
+  "past_surgical_history": "No prior surgeries reported",
+  "family_history": "No significant family history reported",
+  "social_history": "The patient denies smoking, alcohol, or recreational drug use. She works as a receptionist in a local office."
+}

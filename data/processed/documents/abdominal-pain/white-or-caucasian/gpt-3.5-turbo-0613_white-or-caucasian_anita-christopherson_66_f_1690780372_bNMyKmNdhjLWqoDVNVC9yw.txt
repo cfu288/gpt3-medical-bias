@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Anita Christopherson",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Anita Christopherson, a 66-year-old female presents to the emergency department with complaints of severe abdominal pain. The pain started a few hours ago and is located in the lower right quadrant. She describes the pain as sharp and constant. The patient denies any recent trauma or previous episodes of similar pain. There is no associated nausea, vomiting, or diarrhea. She denies any urinary symptoms or vaginal discharge. Upon further questioning, the patient reports experiencing a fever of 100.4°F at home.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the only gastrointestinal symptom.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She has been prescribed lisinopril for blood pressure control and atorvastatin for cholesterol management. The patient denies any other significant past medical history.",
+  "medications": "1. Lisinopril 10mg daily\n2. Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a retired teacher. She lives alone and denies any tobacco, alcohol, or recreational drug use."
+}
+```

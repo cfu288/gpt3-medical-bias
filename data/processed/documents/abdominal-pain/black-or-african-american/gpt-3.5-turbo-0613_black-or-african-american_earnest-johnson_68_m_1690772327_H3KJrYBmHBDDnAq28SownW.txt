@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnest Johnson",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Johnson presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, stabbing sensation located in the lower right quadrant of his abdomen. The pain started suddenly earlier this afternoon and has been gradually worsening. He has also noticed some nausea and a decrease in appetite since the onset of the pain. He denies any recent trauma or injuries to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies any chest pain or palpitations.",
+    "respiratory": "Denies any shortness of breath or cough.",
+    "gi": "Reports the abdominal pain mentioned in the chief complaint.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Denies any joint or muscle pain.",
+    "skin": "Denies any rashes or skin changes.",
+    "neurologic": "Denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Mr. Johnson has a past medical history significant for hypertension and hyperlipidemia. He takes medications for these conditions, which include lisinopril and atorvastatin.",
+  "medications": "lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Mr. Johnson has no history of any surgical procedures.",
+  "family_history": "He is unsure of any significant family medical history as he was adopted and does not have contact with his biological family.",
+  "social_history": "Mr. Johnson is a retired accountant. He is a non-smoker and denies any alcohol or illicit drug use."
+}

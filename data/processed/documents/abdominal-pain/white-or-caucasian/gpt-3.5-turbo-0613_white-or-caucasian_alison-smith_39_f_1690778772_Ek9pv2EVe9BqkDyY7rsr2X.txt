@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alison Smith",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alison Smith, a 39-year-old female, presented to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly two hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as 8/10 on a pain scale and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient denies any recent trauma, but reports a history of similar abdominal pain in the past, which resolved on its own. Upon further questioning, she also mentions a low-grade fever over the past 24 hours. She has not taken any over-the-counter pain medications for her current symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, shortness of breath, or sputum production mentioned.",
+    "gi": "In addition to the abdominal pain, the patient denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria mentioned.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, weakness, or changes in coordination reported."
+  },
+  "past_medical_history": "The patient has a known history of irritable bowel syndrome (IBS) and anxiety disorder. She reports no other significant medical conditions.",
+  "medications": "The patient takes a daily dose of sertraline for her anxiety disorder.",
+  "past_surgical_history": "The patient has not undergone any surgical procedures in the past.",
+  "family_history": "The patient reports no significant family history of gastrointestinal or other relevant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an accountant and lives with her spouse and two children."
+}

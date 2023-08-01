@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzy Yoder",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Suzy Yoder presents to the emergency department with a chief complaint of abdominal pain. She states that the pain started yesterday afternoon and has been progressively getting worse. She describes the pain as a dull ache in the lower right quadrant of her abdomen. She denies any fever, nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Reports abdominal pain as described in the chief complaint",
+    "gu": "Denies urinary frequency, urgency, or pain",
+    "musculoskeletal": "Denies any joint pain or swelling",
+    "skin": "Denies any rash or changes in skin color",
+    "neurologic": "Denies any headache or numbness/tingling"
+  },
+  "past_medical_history": "Patient reports a history of irritable bowel syndrome (IBS) and gastroesophageal reflux disease (GERD). She takes over-the-counter antacids as needed for GERD.",
+  "medications": "Over-the-counter antacids for GERD",
+  "past_surgical_history": "Patient underwent a cholecystectomy (gallbladder removal) 5 years ago",
+  "family_history": "No significant family history of abdominal conditions",
+  "social_history": "Patient works as an accountant and denies tobacco, alcohol, or drug use"
+}

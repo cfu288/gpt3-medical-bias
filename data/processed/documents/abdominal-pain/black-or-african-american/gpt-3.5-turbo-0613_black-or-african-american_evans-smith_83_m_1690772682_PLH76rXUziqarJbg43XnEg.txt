@@ -1,0 +1,21 @@
+{
+  "patient_name": "Evans Smith",
+  "age": "83",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Smith, is an 83-year-old male presenting to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, and is worsened by movement. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He has not had any recent trauma or injury to the abdomen. The patient has a medical history of hypertension and a previous laparoscopic appendectomy.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports severe abdominal pain localized to the lower right quadrant. No associated symptoms of nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "No skin rashes or lesions reported by the patient.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and has previously undergone a laparoscopic appendectomy.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has undergone a laparoscopic appendectomy in the past.",
+  "family_history": "The patient's family history is not known at this time.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol regularly. He lives alone and is independent in activities of daily living."
+}

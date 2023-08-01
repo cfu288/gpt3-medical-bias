@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Niall Musilli",
+  "age": "23",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, a 23-year-old male named Niall Musilli, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. The pain is described as sharp and constant, and it has worsened since onset. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient has not had any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as the chief complaint. No other gastrointestinal symptoms reported.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurologic symptoms reported."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not currently taking any medications.",
+  "medications": "Not applicable",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

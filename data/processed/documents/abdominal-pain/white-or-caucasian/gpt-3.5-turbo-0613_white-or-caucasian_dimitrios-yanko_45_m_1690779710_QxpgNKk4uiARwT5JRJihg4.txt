@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dimitrios Yanko",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain began approximately 8 hours ago and is described as a sharp, constant pain located in the lower right quadrant of the abdomen. Patient denies any recent trauma or injury. Associated symptoms include nausea, vomiting, and decreased appetite. No fever or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, fatigue, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, wheezing, or shortness of breath reported.",
+    "gi": "Patient reports abdominal pain and multiple episodes of vomiting.",
+    "gu": "No urinary frequency, urgency, or hematuria reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rash, itching, or wounds reported.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is currently taking lisinopril 20mg once daily.",
+  "medications": "Lisinopril 20mg once daily",
+  "past_surgical_history": "Patient had an appendectomy at age 20 with no complications.",
+  "family_history": "Negative for any significant family history of gastrointestinal disorders or cancer.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

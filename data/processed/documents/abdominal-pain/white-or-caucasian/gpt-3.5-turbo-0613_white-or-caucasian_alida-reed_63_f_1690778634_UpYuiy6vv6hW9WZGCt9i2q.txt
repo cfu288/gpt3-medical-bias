@@ -1,0 +1,27 @@
+{
+  "patient_name": "Alida Reed",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient arrived to the emergency department with complaints of severe abdominal pain. 
+                                 The pain started approximately 6 hours ago and has been progressively worsening. 
+                                 Patient describes the pain as a constant, sharp, and crampy sensation in the 
+                                 midabdominal region. The pain is radiating to the back and is associated with 
+                                 nausea and vomiting. No relieving or exacerbating factors noted. No recent changes 
+                                 in bowel movements. No fever or chills. No urinary symptoms. No history of similar 
+                                 pain in the past. No recent trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports nausea and vomiting, but denies diarrhea, constipation, or blood in stools.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or wounds.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled with medication.",
+  "medications": "Patient takes Lisinopril 20mg once daily for hypertension.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "No significant family history of abdominal conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

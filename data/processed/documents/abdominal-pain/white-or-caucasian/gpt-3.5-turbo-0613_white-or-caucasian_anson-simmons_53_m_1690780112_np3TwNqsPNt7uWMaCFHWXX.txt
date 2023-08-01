@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anson Simmons",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Anson Simmons, a 53-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain began approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and worsens with movement. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. On further questioning, the patient reports a history of intermittent abdominal pain over the past few months, which has been attributed to indigestion. However, the current episode is more severe and different in character.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, and changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, which are managed with medications.",
+  "medications": "The patient is taking Lisinopril 10mg daily and Simvastatin 20mg daily.",
+  "past_surgical_history": "The patient has a history of appendectomy in childhood.",
+  "family_history": "Negative for any significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient denies tobacco or illicit drug use. The patient consumes alcohol occasionally in moderation."
+}

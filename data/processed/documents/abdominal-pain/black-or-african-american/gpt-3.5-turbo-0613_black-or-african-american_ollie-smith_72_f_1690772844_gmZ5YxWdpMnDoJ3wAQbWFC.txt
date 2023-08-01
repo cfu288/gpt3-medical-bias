@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Smith",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ollie Smith, a 72-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a constant, sharp sensation in the lower abdomen. The pain began approximately 6 hours ago and has been progressively worsening. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She also denies any recent trauma or illness that could account for her symptoms. On examination, the patient appears uncomfortable and is writhing in pain. Her abdomen is tender to palpation in the lower quadrants, with no evidence of rebound tenderness or guarding. Bowel sounds are normal. The patient's vital signs are stable and within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking Lisinopril for hypertension and Ibuprofen for osteoarthritis.",
+  "past_surgical_history": "The patient has a history of an appendectomy 10 years ago.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is retired and resides alone. She denies tobacco or alcohol use."
+}

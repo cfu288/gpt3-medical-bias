@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bessie Johnson",
+  "age": "88",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of abdominal pain. The pain is located in the lower right quadrant and started approximately 6 hours ago. The patient rates the pain as 8 out of 10 and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or fever. She reports a history of constipation and has not had a bowel movement in the past 4 days. She denies any recent changes in diet or medication. On physical examination, the patient's abdomen is tender to palpation in the lower right quadrant with no rebound tenderness or guarding. No masses or organomegaly are appreciated. Bowel sounds are present.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "In addition to the aforementioned abdominal pain, the patient denies any nausea, vomiting, diarrhea, or melena.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, swelling, or skin discoloration.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She also has a history of constipation.",
+  "medications": "The patient takes amlodipine 5 mg daily and atorvastatin 20 mg daily for her hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy and total knee replacement.",
+  "family_history": "The patient's family history is significant for hypertension in her mother and siblings.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

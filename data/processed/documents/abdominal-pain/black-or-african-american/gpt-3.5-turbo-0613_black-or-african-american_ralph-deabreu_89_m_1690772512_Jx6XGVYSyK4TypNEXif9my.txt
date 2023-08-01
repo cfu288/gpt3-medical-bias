@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ralph Deabreu",
+  "age": "89",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ralph Deabreu, is an 89-year-old male who presents to the emergency department with complaints of abdominal pain. He reports that the pain started approximately 12 hours ago and has been gradually worsening. The pain is located in the lower right quadrant of his abdomen and is associated with nausea and vomiting. He denies any recent trauma or changes in bowel habits. On examination, the patient appears uncomfortable and is guarding his abdomen. His vital signs are stable with a blood pressure of 126/78 mmHg, heart rate of 82 beats per minute, respiratory rate of 18 breaths per minute, and temperature of 37.2 degrees Celsius. Abdominal examination reveals tenderness and rebound tenderness in the lower right quadrant, without any palpable masses. No other abnormalities are noted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as described in the chief complaint. He denies any changes in bowel habits, diarrhea, or blood in the stool.",
+    "gu": "The patient denies any urinary symptoms or changes in urine color.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any new or worsening headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He is taking lisinopril, simvastatin, and metformin for these conditions, respectively.",
+  "medications": "Lisinopril, simvastatin, metformin",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient's family history is non-contributory. There is no history of gastrointestinal or urologic diseases in his immediate family.",
+  "social_history": "The patient is retired and lives independently. He denies any tobacco or illicit drug use. He consumes alcohol occasionally in moderation."
+}
+```

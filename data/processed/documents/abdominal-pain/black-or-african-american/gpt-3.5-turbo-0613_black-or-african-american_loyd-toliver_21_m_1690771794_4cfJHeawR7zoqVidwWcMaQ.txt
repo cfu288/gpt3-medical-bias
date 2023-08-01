@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Loyd Toliver",
+  "age": "21",
+  "gender": "m",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Loyd Toliver, is a 21-year-old male who presented to the emergency department with complaints of abdominal pain. He reports that the pain started approximately 12 hours ago and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and constant, with a severity of 7 out of 10. The pain is worsened with movement and deep breathing. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He has not experienced any urinary or bowel changes. It is important to note that the patient has not had a history of similar abdominal pain in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any nausea, vomiting, diarrhea, dysphagia, or melena.",
+    "gu": "The patient denies any dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, pruritus, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or numbness/tingling in extremities."
+  },
+  "past_medical_history": "The patient has a history of appendectomy at the age of 12. No other significant past medical history is reported.",
+  "medications": "The patient takes no regular medications and has not taken any over-the-counter medications for the current abdominal pain.",
+  "past_surgical_history": "The patient has a history of appendectomy at the age of 12. No other significant surgeries are reported.",
+  "family_history": "The patient's family history is non-contributory. There is no history of gastrointestinal diseases or surgical procedures in the family.",
+  "social_history": "The patient denies smoking, alcohol consumption, and illicit drug use."
+}
+```

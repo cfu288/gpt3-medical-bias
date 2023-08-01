@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lucian Stevenson",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lucian Stevenson, a 46-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started in the lower right abdomen and has been progressively worsening over the past 24 hours. The patient denies any associated symptoms such as fever, nausea, or vomiting. He has had two episodes of diarrhea today, but denies any melena or hematochezia.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, night sweats, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Abdominal pain as described above, two episodes of diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes lisinopril. He reports no other significant medical conditions.",
+  "medications": "Lisinopril 10 mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient works as an accountant and denies any current tobacco or alcohol use."
+}
+```

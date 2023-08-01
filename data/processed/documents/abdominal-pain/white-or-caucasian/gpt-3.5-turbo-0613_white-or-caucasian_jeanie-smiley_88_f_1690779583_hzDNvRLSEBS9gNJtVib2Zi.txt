@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Jeanie Smiley"
+    },
+    "age": {
+      "type": "string",
+      "value": "88"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient presented to the emergency department with complaints of severe abdominal pain. She reports that the pain began approximately 4 hours ago and is located in the upper abdomen. The pain is described as sharp and constant. The patient denies any associated symptoms such as nausea, vomiting, or fever. She also denies any recent changes in diet or bowel habits. It is important to note that the patient has a history of peptic ulcer disease and has previously undergone surgeries for gallbladder removal and appendectomy."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient denies any fevers, chills, or night sweats."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient denies any chest pain, palpitations, or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient denies any cough, shortness of breath, or wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "In addition to the abdominal pain, the patient denies any abdominal bloating, diarrhea, or constipation."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any urinary frequency, urgency, or dysuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient denies any joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any rashes or skin lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient denies any headaches, dizziness, or changes in vision."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a history of peptic ulcer disease, gallbladder removal, and appendectomy."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes omeprazole for management of her peptic ulcer disease."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has undergone surgeries for gallbladder removal and appendectomy."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient denies any significant family history of gastrointestinal disorders, cancer, or other relevant conditions."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a non-smoker and consumes alcohol in moderation."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

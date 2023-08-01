@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marek Carpenter",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe abdominal pain. He describes the pain as a sharp and stabbing sensation located in the lower right quadrant. He states that the pain started suddenly approximately 6 hours ago and has been gradually worsening. He denies any associated symptoms such as nausea, vomiting, or diarrhea. On examination, the patient appears uncomfortable and is guarding his abdomen. He also reports that he has been constipated for the past few days and has not experienced any bowel movements. Given the location and severity of the pain, appendicitis is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports constipation and a lack of bowel movements for the past few days.",
+    "gu": "The patient denies any urinary complaints such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of heart disease, with his father having suffered a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug use."
+}

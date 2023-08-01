@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Zoltan Jalbert",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, a 48-year-old male named Zoltan Jalbert, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant, sharp sensation in the upper right quadrant of his abdomen. The pain started approximately 6 hours ago and has been progressively worsening. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He reports no recent trauma or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as his chief complaint. He denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes Lisinopril 10 mg daily for blood pressure control and Atorvastatin 40 mg nightly for cholesterol management.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 40 mg nightly",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is married, works as an accountant, and denies any tobacco, alcohol, or recreational drug use."
+}
+```

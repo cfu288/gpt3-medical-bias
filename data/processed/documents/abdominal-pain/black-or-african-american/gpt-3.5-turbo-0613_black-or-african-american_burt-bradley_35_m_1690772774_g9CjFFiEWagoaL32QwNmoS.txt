@@ -1,0 +1,21 @@
+{
+  "patient_name": "Burt Bradley",
+  "age": "35",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started this morning. The pain is located in the lower right quadrant and is associated with nausea and vomiting. He denies any recent trauma or history of similar episodes. Patient is unable to provide any further details due to the intensity of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling generally unwell with decreased appetite and fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, congestion, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as the chief complaint. He denies any change in bowel movements or blood in stool.",
+    "gu": "Patient denies any urinary problems or changes in urine color.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of appendicitis and underwent an appendectomy 10 years ago.",
+  "medications": "Patient currently takes over-the-counter pain medication for occasional headaches.",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Patient's father has a history of gallstones.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

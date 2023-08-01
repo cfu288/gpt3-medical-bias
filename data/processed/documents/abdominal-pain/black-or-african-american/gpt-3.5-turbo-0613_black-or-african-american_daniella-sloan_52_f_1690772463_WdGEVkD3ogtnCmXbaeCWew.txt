@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Daniella Sloan",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Daniella Sloan, a 52-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a sharp, crampy sensation located in the lower right quadrant of her abdomen. The pain started approximately 6 hours ago and has been progressively worsening. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She states that the pain was sudden in onset and has not improved with over-the-counter pain medications. The patient has no significant past medical history and denies any recent abdominal surgery or trauma. She is sexually active with multiple partners and does not use any form of contraception.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her chief complaint. No other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or hematemesis are present.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history and does not take any medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient denies any previous abdominal surgeries.",
+  "family_history": "The patient reports no significant family history of gastrointestinal or other medical conditions.",
+  "social_history": "The patient is currently employed as a teacher. She drinks alcohol occasionally and denies any tobacco or recreational drug use."
+}
+```

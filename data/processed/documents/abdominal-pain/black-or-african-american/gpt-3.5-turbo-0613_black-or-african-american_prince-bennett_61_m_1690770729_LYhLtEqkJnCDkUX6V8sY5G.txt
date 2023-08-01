@@ -1,0 +1,21 @@
+{
+  "patient_name": "Prince Bennett",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient is a 61-year-old male presenting to the emergency department with complaints of severe abdominal pain. He reports that the pain started this morning and is located in the middle of his abdomen. He describes the pain as a sharp, stabbing sensation that is constant and worsens with movement. The pain is associated with nausea but denies vomiting. No relieving or aggravating factors have been identified. Patient reports no associated symptoms such as fever, changes in bowel movements, or blood in his stool. His past medical history is significant for hypertension and type 2 diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as described in the chief complaint. Denies diarrhea, constipation, or changes in appetite.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+    "skin": "Patient denies rash, itching, or any changes in his skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, Type 2 Diabetes",
+  "medications": "Lisinopril 20mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a retired accountant. He is a non-smoker and denies any alcohol or illicit drug use."
+}

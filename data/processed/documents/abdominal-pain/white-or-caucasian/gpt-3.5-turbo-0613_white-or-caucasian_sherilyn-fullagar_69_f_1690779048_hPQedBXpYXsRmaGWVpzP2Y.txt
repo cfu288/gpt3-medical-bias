@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sherilyn Fullagar",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and has been progressively worsening over the past 24 hours. Patient denies any fever, vomiting, or changes in bowel movements. Physical examination reveals tenderness and guarding upon palpation of the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or changes in skin color.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. She is currently on medications for these conditions.",
+  "medications": "Lisinopril 10mg daily and simvastatin 20mg daily.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

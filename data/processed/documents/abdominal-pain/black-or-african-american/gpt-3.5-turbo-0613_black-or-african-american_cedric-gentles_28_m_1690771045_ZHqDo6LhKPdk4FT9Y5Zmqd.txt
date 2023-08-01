@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cedric Gentles",
+  "age": "28",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Cedric Gentles, a 28-year-old male, presents to the emergency department with complaints of abdominal pain. He reports that the pain started yesterday evening and has been persistent since then. The pain is located in the right lower quadrant and is sharp in nature. He rates the pain as a 6 out of 10 and describes it as intermittent. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the only gastrointestinal symptom.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. He has not been hospitalized, has no chronic medical conditions, and is not taking any medications on a regular basis.",
+  "medications": "The patient denies taking any medications, over-the-counter drugs, or herbal supplements.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions or diseases.",
+  "social_history": "The patient is employed as a software engineer. He denies any tobacco, alcohol, or illicit drug use."
+}
+```

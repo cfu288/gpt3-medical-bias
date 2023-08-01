@@ -1,0 +1,21 @@
+{
+  "patient_name": "Odell Peterson",
+  "age": "71",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain is located in the epigastric area and radiates to the back. Patient states that the pain started suddenly about 4 hours ago and has been persistent since then. Pain is described as sharp and stabbing, with no alleviating or exacerbating factors. Patient denies any nausea, vomiting, or changes in bowel movements. In addition to the pain, patient also reports feeling bloated and having difficulty eating. No history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any skin rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension, diabetes mellitus type 2, and hyperlipidemia. Takes daily medications for these conditions.",
+  "medications": "Metformin 1000mg once daily, Lisinopril 20mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension and diabetes.",
+  "social_history": "Patient is a retired construction worker. Denies tobacco or alcohol use."
+}

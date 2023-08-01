@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Leif Sledge",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Leif Sledge, a 63-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The patient reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. He describes the pain as sharp and constant, with a severity of 7/10. The pain is aggravated by movement and deep breathing. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He states that he has not eaten anything unusual or had any recent travels. He has no known history of similar episodes of abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any constitutional symptoms, such as fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as his chief complaint. He denies any changes in bowel habits, blood in stool, or difficulty swallowing.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or restricted range of motion.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, loss of consciousness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well-controlled with lisinopril 10 mg daily.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports no significant family history of abdominal conditions or other relevant medical conditions.",
+  "social_history": "The patient has a history of smoking, with a 20-pack-year history. He drinks alcohol socially, but denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eduard Corn",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. Pain is described as a dull ache in the upper abdomen that started approximately 4 hours ago. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient presents with abdominal pain as chief complaint. No other gastrointestinal symptoms reported.",
+    "gu": "Patient denies any genitourinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes metoprolol and atorvastatin.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient has a history of smoking, with 10 pack-years. No alcohol or recreational drug use reported."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dwight Schroeder",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started a few hours ago. He describes the pain as a sharp and stabbing sensation located in the right lower quadrant of his abdomen. The pain is worsened with movement and is associated with nausea and vomiting. He denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain and associated nausea and vomiting. He denies any change in bowel movements or blood in the stool.",
+    "gu": "Patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient reports a history of appendectomy in childhood and denies any other significant medical conditions.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Appendectomy in childhood.",
+  "family_history": "No significant family history of gastrointestinal diseases or surgical conditions.",
+  "social_history": "Patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}
+```

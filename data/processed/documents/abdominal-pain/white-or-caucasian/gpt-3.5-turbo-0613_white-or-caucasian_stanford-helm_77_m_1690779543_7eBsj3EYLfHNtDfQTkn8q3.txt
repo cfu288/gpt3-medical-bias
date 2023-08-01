@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stanford Helm",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Helm is a 77-year-old male who presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started earlier today and has been steadily worsening. He describes the pain as a constant, dull ache in the upper abdomen. He denies any associated symptoms such as vomiting, diarrhea, or fever. He states that he has not had any recent changes in his diet or medication regimen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described, no nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Mr. Helm has a history of hypertension and hyperlipidemia. He takes medications for these conditions regularly.",
+  "medications": "Lisinopril 10mg/day, Simvastatin 20mg/day",
+  "past_surgical_history": "Mr. Helm has a history of appendectomy",
+  "family_history": "His father had a history of cardiovascular disease",
+  "social_history": "Mr. Helm is retired and lives alone. He denies tobacco or alcohol use."
+}

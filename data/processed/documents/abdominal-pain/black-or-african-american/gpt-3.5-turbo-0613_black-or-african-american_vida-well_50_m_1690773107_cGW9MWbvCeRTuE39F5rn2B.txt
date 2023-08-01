@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vida Well",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with severe abdominal pain that started approximately 6 hours ago. The pain is described as sharp and localized to the right lower quadrant. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. On physical examination, patient has tenderness and guarding in the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Reports abdominal pain",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. No history of abdominal surgeries.",
+  "medications": "Patient is taking lisinopril and simvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No history of abdominal surgeries or other significant surgical procedures.",
+  "family_history": "No significant family history of abdominal conditions.",
+  "social_history": "Patient denies tobacco or alcohol use."
+}

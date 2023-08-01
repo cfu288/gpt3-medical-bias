@@ -1,0 +1,27 @@
+{
+  "patient_name": "Cathleen Mccoy",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Cathleen Mccoy, a 30-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant, with a severity of 7 out of 10. The pain is worsened by movement and relieved partially by rest. She denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She denies any recent trauma or injury. No known allergies. Vital signs are stable at the time of presentation."
+
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing.",
+    "gi": "Reports abdominal pain as chief complaint. Denies nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rashes, itching, or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in sensation or movement."
+  },
+  
+  "past_medical_history": "No significant past medical history reported.",
+
+  "medications": "Patient reports occasional use of over-the-counter ibuprofen for headache pain relief. No other medications reported.",
+
+  "past_surgical_history": "No previous surgical history.",
+
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. She is in a monogamous relationship and denies any current or recent sexual activity."
+}

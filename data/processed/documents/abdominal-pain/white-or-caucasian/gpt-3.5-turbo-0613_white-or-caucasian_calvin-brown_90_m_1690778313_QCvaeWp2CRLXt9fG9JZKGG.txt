@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Brown",
+  "age": "90",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Brown is a 90-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. The pain is constant and sharp in nature. The patient denies any accompanying symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient's chief complaint is abdominal pain, which is located in the right lower quadrant.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril, simvastatin, and ibuprofen on a daily basis.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of any genetic or chronic conditions.",
+  "social_history": "The patient is retired and lives alone. He denies any alcohol or tobacco use."
+}

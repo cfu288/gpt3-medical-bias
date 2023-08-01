@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frankie Smith",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Frankie Smith, a 72-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and has been progressively worsening. The patient reports that the pain is located in the right lower quadrant of his abdomen and is associated with nausea and vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain and associated nausea and vomiting. No changes in bowel movements or blood in stool.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes.",
+  "medications": "The patient's current medications include lisinopril for hypertension and metformin for diabetes.",
+  "past_surgical_history": "The patient has no known history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is retired and lives with his wife. He has a history of smoking, with a 30 pack-year history. He quit smoking 10 years ago. The patient denies any alcohol or illicit drug use."
+}

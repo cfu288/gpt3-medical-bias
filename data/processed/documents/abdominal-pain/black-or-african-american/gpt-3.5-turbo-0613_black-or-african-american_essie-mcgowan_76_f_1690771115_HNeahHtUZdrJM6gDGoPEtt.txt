@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Essie Mcgowan",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Essie Mcgowan, a 76-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly approximately 4 hours ago and has been progressively worsening. She describes the pain as sharp and located in the lower right quadrant of her abdomen. She denies any previous episodes of similar pain. There are no associated symptoms such as fever, nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient's chief complaint of abdominal pain is discussed above.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any recent trauma or joint pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes amlodipine 5mg daily and atorvastatin 20mg daily for these conditions.",
+  "medications": "Amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

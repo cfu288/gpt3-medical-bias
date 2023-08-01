@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marleen Mudd",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Marleen Mudd, an 81-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started yesterday evening and has been constant and worsening since then. She describes the pain as sharp and localized to the right upper quadrant of her abdomen. The pain is associated with nausea and occasional vomiting. She denies any fever, chills, or changes in bowel movements. The patient reports that she has a history of gallstones and has previously been advised to have a cholecystectomy, but she declined at that time. She has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or loss of appetite.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports severe abdominal pain, associated with nausea and occasional vomiting. Denies any changes in bowel movements or blood in stool.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of gallstones and has previously been advised to have a cholecystectomy.",
+  "medications": "The patient takes over-the-counter antacids for occasional heartburn.",
+  "past_surgical_history": "The patient has no history of any previous surgeries.",
+  "family_history": "The patient has no significant family history of gastrointestinal diseases.",
+  "social_history": "The patient is retired and lives alone. She does not consume alcohol and is a non-smoker."
+}
+```

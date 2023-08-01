@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Trotter",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Trotter, is a 64-year-old male who presented to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 3 hours ago and is located in the upper abdomen. He describes the pain as a constant, burning sensation. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also denies any recent trauma or ingestion of any unusual substances. The pain has been gradually worsening since it started and is now rated as a 9 out of 10 in severity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as his chief complaint.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pains or muscle aches.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes medication (lisinopril 10mg daily). He also has a history of benign prostatic hyperplasia (BPH), for which he takes tamsulosin 0.4mg daily.",
+  "medications": "Lisinopril 10mg daily, tamsulosin 0.4mg daily.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension, but no other significant family history.",
+  "social_history": "The patient is a retired accountant and denies any tobacco or alcohol use."
+}

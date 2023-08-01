@@ -1,0 +1,21 @@
+{
+  "patient_name": "Twyla Hollinger",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Twyla Hollinger, a 73-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. She describes the pain as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She states that the pain has gradually worsened since it started. She denies any recent travel or exposure to sick contacts. Upon further questioning, she mentions that she had some episodes of constipation in the past week but no recent changes in her diet or medications.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough or shortness of breath",
+    "gi": "Reports abdominal pain as chief complaint, denies nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies pain or changes in urinary frequency",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for these conditions, including amlodipine and simvastatin.",
+  "medications": "Amlodipine 5mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes mellitus in her parents.",
+  "social_history": "The patient lives alone and denies any tobacco, alcohol, or illicit drug use."
+}

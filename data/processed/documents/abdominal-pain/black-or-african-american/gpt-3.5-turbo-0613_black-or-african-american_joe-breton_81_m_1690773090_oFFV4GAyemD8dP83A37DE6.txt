@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joe Breton",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Joe Breton presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp and constant ache in the lower abdomen. The pain initially started this morning and has progressively worsened over the course of the day. Patient denies any associated symptoms such as nausea, vomiting, or fever. He states that he has a history of diverticulosis and was previously hospitalized for diverticulitis 2 years ago. On examination, his abdomen is tender to palpation in the lower left quadrant. Bowel sounds are present and no distension is noted.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as chief complaint; no nausea or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Diverticulosis, previously hospitalized for diverticulitis",
+  "medications": "Metformin 500mg once daily, Lisinopril 10mg once daily",
+  "past_surgical_history": "Appendectomy at age 25",
+  "family_history": "Father had a history of colon cancer",
+  "social_history": "Former smoker; quit 20 years ago"
+}

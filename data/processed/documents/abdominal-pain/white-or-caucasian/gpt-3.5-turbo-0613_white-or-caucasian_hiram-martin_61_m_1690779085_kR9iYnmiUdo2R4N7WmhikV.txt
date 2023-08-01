@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hiram Martin",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Hiram Martin, a 61-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, stabbing sensation in the upper abdomen that started suddenly about 2 hours ago. The pain is constant and does not radiate. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. Upon further questioning, the patient reports a history of intermittent episodes of similar abdominal pain in the past, but none as severe as the current episode. He states that the pain is usually relieved with over-the-counter antacids. However, this time the pain is not improving with antacids and is progressively worsening.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, difficulty breathing, or sputum production.",
+    "gi": "No vomiting, diarrhea, or changes in appetite.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of gastroesophageal reflux disease (GERD) and has been on proton pump inhibitors (PPIs) for the past 5 years. He is also known to have hypertension, which is well-controlled with medication.",
+  "medications": "PPIs for GERD, antihypertensive medication.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "No significant family history of gastrointestinal diseases or other relevant medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He is retired and lives alone."
+}

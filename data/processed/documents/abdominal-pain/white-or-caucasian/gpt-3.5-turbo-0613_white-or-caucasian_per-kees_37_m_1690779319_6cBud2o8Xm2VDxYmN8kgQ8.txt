@@ -1,0 +1,21 @@
+{
+  "patient_name": "Per Kees",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents with complaints of abdominal pain for the past 24 hours. The pain is located in the lower abdomen and is described as a dull ache. The patient rates the pain as a 5 out of 10. He reports no associated symptoms such as fever, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain and denies nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or sores.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently on medication for management.",
+  "medications": "The patient is taking lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports no significant family history of medical illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

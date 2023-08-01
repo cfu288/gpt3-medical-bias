@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lex Harris",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. He reports the pain started earlier today and has been progressively worsening. Patient describes the pain as sharp, localized to the right lower quadrant, and radiating to the back. He denies any associated symptoms such as nausea or vomiting. Patient states he has also been experiencing a low-grade fever and decreased appetite over the past few days. Upon examination, there was tenderness in the right lower quadrant and rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Aside from the abdominal pain, patient denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. He is currently managed with medications.",
+  "medications": "Patient takes metformin for diabetes and lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient's father has a history of colon cancer.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

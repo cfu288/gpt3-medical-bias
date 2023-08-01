@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Daniel Whitehead",
+  "age": "53",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Daniel Whitehead, a 53-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The patient describes the pain as sharp and constant. He rates it as a 8/10 in severity. He denies any previous episodes of similar pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "In addition to severe abdominal pain, the patient complains of nausea and a decreased appetite. He denies vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency. He denies any history of kidney stones.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limited range of motion.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a medical history of hypertension, controlled with lisinopril. He also has a history of hyperlipidemia, for which he takes a statin. The patient has no history of abdominal surgeries or other significant medical conditions.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient's father has a history of myocardial infarction at the age of 65. There is no family history of gastrointestinal disorders or malignancies.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He is currently employed as an accountant and denies any history of recreational drug use."
+}
+```

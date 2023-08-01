@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Davies",
+  "age": "94",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jane Davies, a 94-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the upper and central portion of her abdomen. She describes the pain as a constant, sharp, and cramping sensation, with a severity of 8 on a scale of 0-10. The pain is associated with nausea and occasional vomiting. She denies any recent trauma or injury and states that the pain is not relieved by rest or change in position. She has not experienced any similar episodes in the past. The patient also reports a loss of appetite and generalized weakness over the past few days. She denies any recent changes in her bowel movements or urinary habits. Her vital signs upon arrival are stable with a blood pressure of 130/80 mmHg, heart rate of 80 bpm, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports a decreased appetite and occasional nausea and vomiting.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril 10mg for hypertension and atorvastatin 20mg for hyperlipidemia. She denies any other medications or recent changes in her medication regimen.",
+  "past_surgical_history": "The patient has a past surgical history of a cholecystectomy performed 10 years ago.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or cardiovascular diseases.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

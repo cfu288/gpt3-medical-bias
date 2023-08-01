@@ -1,0 +1,21 @@
+{
+  "patient_name": "Franklin Mcadams",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. He states the pain began yesterday evening and has been progressively worsening. The pain is located in the epigastric region and radiates to the back. Patient denies any recent trauma or changes in bowel movements. He also reports associated symptoms of nausea and vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or shortness of breath.",
+    "gi": "Patient reports severe abdominal pain, nausea, and vomiting.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes Lisinopril and Atorvastatin.",
+  "past_surgical_history": "Patient had an appendectomy in his 20s.",
+  "family_history": "Patient's father had a history of heart disease.",
+  "social_history": "Patient is retired. He denies smoking or alcohol use."
+}

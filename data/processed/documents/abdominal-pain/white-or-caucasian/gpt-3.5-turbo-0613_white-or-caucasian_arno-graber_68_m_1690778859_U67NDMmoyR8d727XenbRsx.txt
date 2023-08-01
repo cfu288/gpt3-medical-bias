@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arno Graber",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Arno Graber, a 68-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 8 hours ago and has been constant in the lower abdomen. The patient describes the pain as crampy and rates it as 8 out of 10 in severity. He denies any associated nausea, vomiting, or diarrhea. He tried taking over-the-counter antacids but did not get relief. Upon further questioning, the patient reports that he has a history of diverticulosis and has experienced similar pain in the past, which resolved on its own. The patient states that this episode feels different and more severe than his previous episodes. He denies any recent dietary changes or trauma to the abdomen. The patient reports no other concerning symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Positive for severe abdominal pain as chief complaint. Denies nausea, vomiting, diarrhea, constipation, or blood in stool.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of diverticulosis.",
+  "medications": "The patient takes daily aspirin 81 mg for cardiovascular prevention.",
+  "past_surgical_history": "The patient has no history of abdominal surgery.",
+  "family_history": "Negative for any family history of gastrointestinal conditions.",
+  "social_history": "The patient is a retired truck driver. He recently quit smoking and denies alcohol or illicit drug use."
+}

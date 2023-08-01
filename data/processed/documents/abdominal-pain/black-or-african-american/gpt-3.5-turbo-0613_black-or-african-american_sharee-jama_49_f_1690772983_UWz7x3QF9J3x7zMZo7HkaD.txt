@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sharee Jama",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sharee Jama, a 49-year-old female, presented to the emergency department with complaints of severe abdominal pain. She reports that the pain started approximately 6 hours ago and has been continuous since then. The pain is located in the lower abdomen and is described as sharp and crampy. She rates the intensity of the pain as 8 on a scale of 1 to 10. She denies any recent trauma, fever, vomiting, diarrhea, or urinary symptoms. She states that the pain is worsened with movement and deep breathing. Upon further questioning, she reports no known allergies or previous similar episodes. I will further evaluate her to determine the cause of her abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She reports being on medications for these conditions.",
+  "medications": "The patient is currently taking Lisinopril for hypertension and Atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgeries or hospitalizations.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}

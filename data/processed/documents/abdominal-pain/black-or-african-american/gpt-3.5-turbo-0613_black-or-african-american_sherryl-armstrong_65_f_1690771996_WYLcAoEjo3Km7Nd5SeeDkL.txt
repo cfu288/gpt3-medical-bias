@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sherryl Armstrong",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sherryl Armstrong, a 65-year-old female, presents to the Emergency Department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is localized in the lower right quadrant. Patient reports no associated nausea or vomiting. She denies any recent trauma or injury. On examination, patient appears uncomfortable and is guarding her abdomen. There is tenderness to palpation in the right lower quadrant with rebound tenderness. Assessment and Plan: Suspected appendicitis. Will order CBC, BMP, and ultrasound of the abdomen. Will also administer IV fluids and analgesics for pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "Abdominal pain as described in chief complaint",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or change in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes daily medications including lisinopril for blood pressure and atorvastatin for cholesterol control.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of abdominal conditions or surgical emergencies.",
+  "social_history": "Patient denies tobacco and alcohol use. Lives alone and is independent with activities of daily living."
+}
+```

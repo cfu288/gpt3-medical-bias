@@ -1,0 +1,21 @@
+{
+  "patient_name": "Renita Johnson",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Renita Johnson, a 33-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. She rates the pain as a 7 out of 10 and describes it as a sharp, constant pain. She denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as chief complaint. Denies any changes in bowel habits, blood in stool, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome and seasonal allergies. She denies any other significant past medical history.",
+  "medications": "The patient takes over-the-counter antihistamines for her allergies as needed and reports no other regular medications or allergies.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Negative for any significant family history of gastrointestinal conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a teacher and lives alone."
+}

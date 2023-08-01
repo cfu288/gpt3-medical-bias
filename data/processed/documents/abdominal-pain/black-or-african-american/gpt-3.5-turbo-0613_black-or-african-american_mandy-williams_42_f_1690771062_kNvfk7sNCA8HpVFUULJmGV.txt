@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mandy Williams",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mandy Williams, a 42-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly about 3 hours ago and is located in the lower abdomen. She describes the pain as sharp and crampy and rates it as 8 out of 10 on a pain scale. The pain is constant and not relieved by any position or over-the-counter medications. She denies any associated nausea, vomiting, or changes in bowel movements. No urinary symptoms are reported. The patient denies any recent trauma or fever. Her medical history is significant for gallstones and she underwent a cholecystectomy 5 years ago. She also has a history of hypertension and takes medication for it. No recent surgeries or hospitalizations. No known allergies. No family history of significant illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, dyspnea, or sputum production.",
+    "gi": "The patient reports abdominal pain as her chief complaint. No nausea, vomiting, diarrhea, or constipation.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "No rashes, itching, or skin changes.",
+    "neurologic": "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Gallstones, cholecystectomy, hypertension",
+  "medications": "The patient takes medication for hypertension. No other medications reported.",
+  "past_surgical_history": "Cholecystectomy - 5 years ago",
+  "family_history": "No significant family history of illnesses",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}

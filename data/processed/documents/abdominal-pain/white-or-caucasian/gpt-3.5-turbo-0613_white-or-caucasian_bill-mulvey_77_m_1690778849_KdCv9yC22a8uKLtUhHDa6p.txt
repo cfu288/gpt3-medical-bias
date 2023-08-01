@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Bill Mulvey"
+    },
+    "age": {
+      "type": "string",
+      "value": "77"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Abdominal Pain"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Mr. Mulvey presented to the emergency department with complaints of severe abdominal pain. The pain is localized to the right lower quadrant and started approximately 6 hours ago. He describes the pain as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He reports no recent trauma or injury. On further questioning, he mentions a history of irritable bowel syndrome and occasional episodes of abdominal pain in the past."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills or unintentional weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations or shortness of breath."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough, shortness of breath or wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Abdominal pain as described."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria, hematuria or change in urinary frequency."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or swelling."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rashes or lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No changes in vision, speech or coordination."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Mr. Mulvey has a past medical history of irritable bowel syndrome and hypertension. He takes medications for both conditions."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Mr. Mulvey takes medications for his irritable bowel syndrome and hypertension. He is currently taking [medication name] for irritable bowel syndrome and [medication name] for hypertension."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "Mr. Mulvey has no past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "Mr. Mulvey's family history is non-contributory."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Mr. Mulvey is retired and lives alone. He denies any tobacco or alcohol use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

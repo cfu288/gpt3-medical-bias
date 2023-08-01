@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valarie Jones",
+  "age": "62",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Valarie Jones, a 62-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as sharp and localized to the right lower quadrant. The pain started approximately 8 hours ago and has been worsening since then. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. She reports a loss of appetite and a mild fever of 100.5°F. On examination, the patient appears uncomfortable and is guarding her abdomen. There is tenderness on palpation in the right lower quadrant with rebound tenderness and positive McBurney's sign. Based on the clinical presentation, the working diagnosis is acute appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, the patient denies any other gastrointestinal symptoms such as diarrhea, constipation, or blood in the stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes Lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of diabetes on her mother's side.",
+  "social_history": "The patient lives at home with her husband and denies any tobacco or alcohol use."
+}

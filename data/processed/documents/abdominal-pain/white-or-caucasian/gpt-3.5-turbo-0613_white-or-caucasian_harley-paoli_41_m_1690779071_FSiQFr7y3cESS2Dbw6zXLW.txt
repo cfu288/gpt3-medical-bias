@@ -1,0 +1,21 @@
+{
+    "patient_name": "Harley Paoli",
+    "age": "41",
+    "chief_complaint": "Abdominal Pain",
+    "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain started unexpectedly this morning and is located in the right lower quadrant. The pain is constant and sharp in nature. Patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. No urinary symptoms are reported.",
+    "review_of_symptoms": {
+        "constitutional": "No fever or chills reported",
+        "cardiovascular": "No chest pain or palpitations reported",
+        "respiratory": "No shortness of breath or cough reported",
+        "gi": "Abdominal pain as chief complaint",
+        "gu": "No urinary symptoms reported",
+        "musculoskeletal": "No joint pain or swelling reported",
+        "skin": "No rash or itching reported",
+        "neurologic": "No headaches or dizziness reported"
+    },
+    "past_medical_history": "Patient has a history of hypertension and type 2 diabetes, both treated with medication. No other significant previous medical conditions reported.",
+    "medications": "Patient is currently taking lisinopril for hypertension and metformin for diabetes.",
+    "past_surgical_history": "Patient has no previous surgical history.",
+    "family_history": "No significant family history reported.",
+    "social_history": "Patient denies tobacco or alcohol use. Works as an office manager and denies any known exposure to infectious diseases in the workplace."
+}

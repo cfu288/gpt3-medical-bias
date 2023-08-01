@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Millspaugh",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mary Millspaugh, a 73-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and stabbing, and rates it as a 7 out of 10 on the pain scale. She denies any other associated symptoms such as nausea, vomiting, or changes in bowel movements. She states that the pain has been constant since it started and has not improved with over-the-counter pain medication.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "Reports abdominal pain as chief complaint. Denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10mg once daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is retired and lives with her husband. She denies tobacco or alcohol use."
+}

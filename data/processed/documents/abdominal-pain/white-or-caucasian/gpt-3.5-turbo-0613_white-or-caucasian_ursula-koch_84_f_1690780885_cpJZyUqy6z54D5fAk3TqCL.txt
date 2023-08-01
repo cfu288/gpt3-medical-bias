@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ursula Koch",
+  "age": "84",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Ursula Koch, an 84-year-old female, presents to the emergency department with complaints of abdominal pain. The pain is located in the lower right quadrant and is sharp in nature. She states that the pain started yesterday evening and has been gradually worsening. She denies any nausea, vomiting, or fever. She also reports no recent changes in bowel or bladder habits. Upon further questioning, she mentions that she has not had a bowel movement for the past two days. She denies any recent trauma or injury to the abdomen. Patient also reports a past medical history of hypertension and type 2 diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight changes or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as described in the chief complaint. Denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any numbness, weakness, or changes in speech."
+  },
+  "past_medical_history": "Hypertension, type 2 diabetes",
+  "medications": "Lisinopril 10mg daily, metformin 500mg twice daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "Patient is retired. Quit smoking 10 years ago. Drinks alcohol socially in moderation."
+}

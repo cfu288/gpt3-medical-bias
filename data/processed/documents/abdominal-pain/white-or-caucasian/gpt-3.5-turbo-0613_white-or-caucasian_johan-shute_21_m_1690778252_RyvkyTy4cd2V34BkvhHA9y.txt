@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johan Shute",
+  "age": "21",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presenting to the emergency department with severe abdominal pain that started approximately 6 hours ago. Pain is localized to the right lower quadrant and is a constant, sharp, and worsening in nature. Patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. No known precipitating factors. No previous medical history of similar episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Positive for abdominal pain in the right lower quadrant",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headaches, dizziness, weakness, or changes in sensation"
+  },
+  "past_medical_history": "No previous medical history",
+  "medications": "Not currently taking any medications",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "Non-contributory",
+  "social_history": "Non-contributory"
+}

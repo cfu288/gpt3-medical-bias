@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kaylee Osborne",
+  "age": "29",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Kaylee Osborne, a 29-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right quadrant. The pain is sharp in nature and gets worse with movement. The patient denies any recent trauma or injury to the abdomen. She has not experienced any fever, vomiting, or changes in bowel movements. She does mention feeling nauseous. On further questioning, the patient reports a history of occasional mild abdominal pain in the past, but nothing as severe as the current episode.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports severe abdominal pain in the lower right quadrant. She denies any changes in bowel movements or blood in stool.",
+    "gu": "The patient denies any urinary symptoms or changes in frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history. She reports occasional mild abdominal pain in the past.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She denies any illicit drug use."
+}
+```

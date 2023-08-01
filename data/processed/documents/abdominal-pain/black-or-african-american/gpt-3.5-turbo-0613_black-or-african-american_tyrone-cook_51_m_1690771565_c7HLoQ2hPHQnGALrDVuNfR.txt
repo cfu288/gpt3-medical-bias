@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tyrone Cook",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Cook presents to the emergency department with complaints of severe generalized abdominal pain that started approximately 6 hours ago. The pain is continuous, non-radiating, and is not relieved with over-the-counter medication. He denies any associated symptoms such as nausea, vomiting, diarrhea or constipation. He reports no recent trauma or injuries. He states that the pain is progressively worsening and rates it at a 9 out of 10.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, sputum production, or difficulty breathing.",
+    "gi": "No history of dysphagia, heartburn, or abdominal distension. Reports normal bowel movements.",
+    "gu": "No urinary frequency, urgency, or pain with urination. Denies hematuria or difficulty voiding.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No skin rashes, lesions, or itching.",
+    "neurologic": "No history of headache, dizziness, or loss of consciousness."
+  },
+  "past_medical_history": "Mr. Cook has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He is currently on lisinopril, atorvastatin, and metformin for his medical conditions.",
+  "medications": "Lisinopril, atorvastatin, metformin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive family history of hypertension and diabetes",
+  "social_history": "Mr. Cook is a non-smoker and does not consume alcohol. He is married and works as an accountant."
+}
+```

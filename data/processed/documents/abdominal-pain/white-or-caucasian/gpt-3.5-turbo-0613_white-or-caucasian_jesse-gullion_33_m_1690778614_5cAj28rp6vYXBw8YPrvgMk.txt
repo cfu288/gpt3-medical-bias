@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jesse Gullion",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jesse Gullion, a 33-year-old male, presented to the emergency department with the chief complaint of abdominal pain. The pain is located in the lower right quadrant and began approximately 12 hours ago. The pain is described as sharp and is worsened with movement. The patient denies any associated nausea, vomiting, or changes in bowel movements. He also denies any urinary symptoms. No fever reported.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as his primary concern. He denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well controlled with medication. He does not have any other significant medical conditions.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any significant surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

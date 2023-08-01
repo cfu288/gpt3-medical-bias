@@ -1,0 +1,21 @@
+{
+  "patient_name": "Morton Mitchell",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Mitchell, presents to the emergency department with a chief complaint of abdominal pain. He describes the pain as a sharp, stabbing sensation localized to the right lower quadrant of his abdomen. He reports that the pain started earlier today and has been getting progressively worse. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. The pain is constant and does not radiate to any other areas of his body. He denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or constipation.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication to manage it. He denies any other significant medical conditions.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for colon cancer in his mother at the age of 65.",
+  "social_history": "The patient has a history of smoking 1 pack of cigarettes per day for the past 10 years. He denies alcohol or drug use."
+}

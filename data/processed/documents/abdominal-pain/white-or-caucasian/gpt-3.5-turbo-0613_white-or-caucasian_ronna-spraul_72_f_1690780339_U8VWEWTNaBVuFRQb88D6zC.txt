@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ronna Spraul",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. The patient describes the pain as sharp and constant. She denies any associated nausea, vomiting, or changes in bowel movements. The pain is not relieved with over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as chief complaint. No other gastrointestinal symptoms present.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has a history of appendectomy performed in 2005.",
+  "family_history": "The patient's family history is significant for colon cancer in her maternal aunt.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

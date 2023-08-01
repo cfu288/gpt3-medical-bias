@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kelvin Parks",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Parks presents to the emergency department today with complaints of severe abdominal pain. The pain started suddenly about 2 hours ago and is located in the right lower quadrant. He describes it as sharp and constant, with no alleviating or aggravating factors. He denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for severe abdominal pain in the right lower quadrant. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Mr. Parks has a history of hypertension and type 2 diabetes. He is currently taking lisinopril for hypertension and metformin for diabetes.",
+  "medications": "Lisinopril 20mg once daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Mr. Parks is a nonsmoker and denies any alcohol or illicit drug use."
+}

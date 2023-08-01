@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ying Adams",
+  "age": "19",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ying Adams, a 19-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started about 8 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, or fever. She reports no recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "There are no constitutional symptoms such as fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain as the chief complaint.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications at the moment.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of abdominal pain or other relevant conditions.",
+  "social_history": "The patient is a non-smoker and denies any recent alcohol or illicit drug use."
+}
+```

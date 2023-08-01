@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleve Ralston",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Cleve Ralston, a 76-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is localized to the right lower quadrant. The patient denies nausea, vomiting, diarrhea, fever, or urinary symptoms. He reports no recent trauma or changes in bowel habits. He has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain, negative for nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or wounds.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 20mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Retired. Non-smoker. Drinks alcohol occasionally."
+}

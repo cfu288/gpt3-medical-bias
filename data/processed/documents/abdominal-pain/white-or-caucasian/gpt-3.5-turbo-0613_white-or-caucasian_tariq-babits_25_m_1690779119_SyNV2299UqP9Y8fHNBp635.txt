@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tariq Babits",
+  "age": "25",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, and it has been getting worse over time. The patient denies any recent trauma, vomiting, or fever. He also reports a loss of appetite and a change in bowel movements, with alternating diarrhea and constipation. No relief has been obtained with over-the-counter medications. No other significant symptoms are present.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough, shortness of breath, or wheezing",
+    "gi": "Abdominal pain as described above. No nausea or vomiting.",
+    "gu": "No dysuria, hematuria, or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Demetrius Cazeau",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is located in the right lower quadrant and is associated with nausea and vomiting. Patient denies any diarrhea or blood in the stool. No history of recent trauma or injury to the abdomen. No urinary symptoms. Pain is not relieved with over-the-counter pain medications.",
+
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "Patient reports abdominal pain and vomiting. Denies any change in bowel habits, blood in stool, or black, tarry stools.",
+    "gu": "Patient denies any urinary symptoms or pain on urination.",
+    "musculoskeletal": "No significant complaints in the musculoskeletal system.",
+    "skin": "No significant complaints in the skin.",
+    "neurologic": "Patient denies any headache, dizziness, weakness, or changes in vision."
+  },
+
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes antihypertensive medication daily. No history of abdominal surgeries or significant gastrointestinal diseases.",
+
+  "medications": "Patient takes amlodipine 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+
+  "past_surgical_history": "No significant past surgical history.",
+
+  "family_history": "No significant family history of gastrointestinal diseases or other relevant conditions.",
+
+  "social_history": "Patient denies smoking or alcohol use. Works as an accountant and lives with spouse and two children."
+}

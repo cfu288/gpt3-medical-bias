@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brien Johnson",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Johnson presented to the emergency department with complaints of severe abdominal pain that started earlier today. He describes the pain as sharp and localized in the lower right quadrant of his abdomen. He denies any recent trauma or injury. He also reports having nausea and decreased appetite.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has a history of appendectomy.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "The patient is a retired school teacher. He does not smoke and drinks alcohol occasionally in moderation."
+}

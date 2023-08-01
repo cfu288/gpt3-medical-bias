@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bartholomew Moore",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Bartholomew Moore, a 43-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started approximately 5 hours ago and is located in the right lower quadrant of the abdomen. The pain is sharp in nature and is associated with nausea and vomiting. The patient denies any fever, chills, or changes in bowel habits. On physical examination, the patient appears uncomfortable and is in mild distress. His vital signs are within normal limits. Abdominal examination reveals tenderness and guarding in the right lower quadrant without rebound tenderness or rigidity. Based on the history and physical examination findings, the differential diagnosis includes appendicitis, diverticulitis, and urinary tract infection.",
+  "review_of_symptoms":{
+    "constitutional":"No fever, chills or weight loss",
+    "cardiovascular":"No chest pain or palpitations",
+    "respiratory":"No cough or shortness of breath",
+    "gi":"Abdominal pain as described in chief complaint",
+    "gu":"No urinary symptoms",
+    "musculoskeletal":"No joint pain or swelling",
+    "skin":"No rashes or lesions",
+    "neurologic":"No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently on lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies tobacco or alcohol use. Works as an accountant and lives with his wife and two children."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leo Stevens",
+  "age": "81",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Stevens is an 81-year-old male who presents to the emergency department with complaints of abdominal pain. The pain started yesterday evening and has been persistent since then. The patient describes the pain as a dull ache in the middle of his abdomen. He rates the pain as a 7 out of 10 in severity. The pain is not relieved by over-the-counter medications and is associated with mild nausea but no vomiting. The patient also reports a loss of appetite over the past day.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or sputum production.",
+    "gi": "In addition to abdominal pain, the patient reports no other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or lesions on the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and heart disease.",
+  "social_history": "The patient is retired and does not smoke or consume alcohol."
+}

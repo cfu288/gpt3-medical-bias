@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmond Johnson",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Edmond Johnson is a 52-year-old male presenting to the emergency department with severe abdominal pain. The pain started suddenly this morning and is located in the upper abdomen. The pain is constant and radiates to his back. He rates the pain as 8 out of 10 and describes it as a sharp and stabbing sensation. He denies any vomiting, diarrhea, or changes in bowel habits. He does report feeling bloated. He has not noticed any blood in his stools or changes in urine color. He denies any previous episodes of similar pain. He has tried over-the-counter antacids without relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the chief complaint, the patient reports feeling bloated, but denies any nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of gastroesophageal reflux disease (GERD) and takes omeprazole daily.",
+  "medications": "Omeprazole 20 mg daily",
+  "past_surgical_history": "The patient has not had any previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any significant gastrointestinal or surgical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as an office manager and denies any recent travel or exposure to sick contacts."
+}

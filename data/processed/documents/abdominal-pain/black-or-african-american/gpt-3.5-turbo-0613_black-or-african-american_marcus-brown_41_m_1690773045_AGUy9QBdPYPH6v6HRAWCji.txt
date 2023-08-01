@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcus Brown",
+  "age": "41",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Marcus Brown, a 41-year-old male, presents to the emergency department with chief complaint of abdominal pain. The pain started yesterday evening, is dull in nature, and is located in the right lower quadrant. The pain is associated with nausea and occasional vomiting. The patient denies any fever, chills, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or loss of appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Apart from the abdominal pain, the patient denies any diarrhea, constipation, or blood in stool.",
+    "gu": "No urinary frequency, urgency, or pain reported. Denies any hematuria or difficulty urinating.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes, itching, or skin discoloration reported.",
+    "neurologic": "No headaches, dizziness, or numbness reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril and Atorvastatin for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies the use of alcohol or recreational drugs. He is married and works as an accountant."
+}

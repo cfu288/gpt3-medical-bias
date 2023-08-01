@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wally Haynes",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Wally Haynes, a 45-year-old male, presents to the emergency department complaining of severe abdominal pain. The pain is located in the lower-right quadrant of the abdomen and started earlier today. The pain is constant and radiates to the back. The patient rates the pain as an 8 out of 10 and describes it as sharp and stabbing. He denies any recent trauma or injury to the abdomen. He also reports associated symptoms of nausea and occasional vomiting. There is no history of similar pain in the past. On physical examination, the abdomen is tender to palpation in the lower-right quadrant. The patient also has a low-grade fever. Based on the patient's symptoms and physical examination findings, a differential diagnosis of appendicitis is being considered.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain and occasional vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is currently taking Lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or drug use. He is married and works as a software engineer."
+}

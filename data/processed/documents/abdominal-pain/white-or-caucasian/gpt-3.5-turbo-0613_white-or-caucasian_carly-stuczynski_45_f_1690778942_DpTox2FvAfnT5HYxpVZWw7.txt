@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carly Stuczynski",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started approximately 6 hours ago and is located in the lower right quadrant. Patient rates pain as a 9 out of 10. She denies any associated symptoms such as nausea, vomiting, or fever. She reports no previous history of abdominal pain or similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever or chills.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient reports severe abdominal pain, specifically in the lower right quadrant. No associated symptoms such as nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. Allergies and reactions are unknown.",
+  "medications": "Lisinopril 10 mg once daily, atorvastatin 20 mg once daily",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Unremarkable",
+  "social_history": "Patient smokes half a pack of cigarettes per day and drinks alcohol socially."
+}

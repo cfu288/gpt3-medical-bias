@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonathon Demery",
+  "age": "39",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jonathon Demery, a 39-year-old male, presents to the emergency department with complaints of abdominal pain. He describes the pain as a dull ache in the lower abdomen, which has been present for the past 12 hours. He rates the pain as a 6 out of 10 in intensity and states that it is constant, with no specific triggering factors. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He states that the pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any recent weight loss or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports the chief complaint of abdominal pain. Denies any changes in bowel habits, blood in stool, or dark/black stools.",
+    "gu": "Patient denies any changes in urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any muscle or joint pain.",
+    "skin": "Patient denies any rashes, wounds, or skin changes.",
+    "neurologic": "Patient denies any headaches, dizziness, or numbness/weakness of extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes daily medications for these conditions, including metoprolol and simvastatin.",
+  "medications": "Metoprolol 50 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

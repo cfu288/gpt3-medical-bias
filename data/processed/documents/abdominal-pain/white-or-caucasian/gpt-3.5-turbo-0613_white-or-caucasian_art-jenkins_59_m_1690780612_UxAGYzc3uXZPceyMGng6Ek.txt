@@ -1,0 +1,21 @@
+{
+  "patient_name": "Art Jenkins",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Art Jenkins, a 59-year-old male, presents to the emergency department with complaints of severe abdominal pain. He states that the pain began suddenly approximately 6 hours ago and has been constant since then. He describes the pain as a sharp, crampy sensation located in the right lower quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He has not had this type of pain before. On examination, the patient appears uncomfortable and is guarding his abdomen. His vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain, but no nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or confusion."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes medication for both conditions.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous abdominal surgeries.",
+  "family_history": "The patient's father had a history of colon cancer.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use."
+}

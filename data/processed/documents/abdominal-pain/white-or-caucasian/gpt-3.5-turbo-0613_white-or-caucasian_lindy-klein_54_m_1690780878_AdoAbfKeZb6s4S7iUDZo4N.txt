@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lindy Klein",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lindy Klein, a 54-year-old male, presents to the emergency department with complaints of severe abdominal pain. He states that the pain began earlier today and is localized to the lower right quadrant of his abdomen. He describes the pain as sharp and constant, with a 9/10 intensity. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The patient reports that he has never experienced this type of pain before and it is causing significant discomfort.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "Abdominal pain as described above.",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin daily for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient's father has a history of heart disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

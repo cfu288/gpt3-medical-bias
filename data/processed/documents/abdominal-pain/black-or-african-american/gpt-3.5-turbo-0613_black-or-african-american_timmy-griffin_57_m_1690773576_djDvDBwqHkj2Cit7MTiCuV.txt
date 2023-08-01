@@ -1,0 +1,21 @@
+{
+  "patient_name": "Timmy Griffin",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Timmy Griffin presents to the emergency department with complaints of severe abdominal pain. The pain started 4 hours ago and is located in the lower right quadrant. He describes the pain as sharp and worsening with movement. He denies any nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Besides the abdominal pain, the patient denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "No urinary frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "The patient denies any skin changes or rash.",
+    "neurologic": "No changes in vision, headache, or dizziness reported."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and diabetes. He takes lisinopril and metformin for these conditions.",
+  "medications": "Lisinopril 20mg daily and metformin 1000mg twice daily.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "Patient reports no significant family medical history.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use. He lives with his wife and two adult children."
+}

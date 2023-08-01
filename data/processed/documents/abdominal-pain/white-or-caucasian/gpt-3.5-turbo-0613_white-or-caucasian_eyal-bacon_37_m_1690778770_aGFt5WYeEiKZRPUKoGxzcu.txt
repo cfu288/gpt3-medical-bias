@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Eyal Bacon",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. The pain is localized to the right lower quadrant and is associated with nausea and vomiting. The patient denies any recent trauma or injury to the abdomen. On examination, the patient appears uncomfortable and is guarding his abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "The patient complains of abdominal pain and nausea. He denies any diarrhea or constipation.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies any regular medications.",
+  "past_surgical_history": "The patient has no previous surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

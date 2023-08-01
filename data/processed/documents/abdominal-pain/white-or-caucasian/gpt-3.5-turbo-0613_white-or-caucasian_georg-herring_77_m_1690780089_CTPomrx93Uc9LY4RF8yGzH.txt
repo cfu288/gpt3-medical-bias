@@ -1,0 +1,21 @@
+{
+  "patient_name": "Georg Herring",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Herring presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 6 hours ago and is located in the lower right quadrant. The patient describes the pain as sharp and constant. He reports that the pain is worsened with movement and deep breathing. Mr. Herring denies any associated symptoms such as fever, vomiting, or changes in bowel movements. He has not had any recent trauma or injury to the abdomen. The patient states that he has a history of diverticulitis but has not had any recent episodes. He denies any urinary symptoms or recent changes in urinary habits. Upon further questioning, Mr. Herring states that he has not recently traveled or been exposed to anyone with similar symptoms. He also denies any recent changes in diet or medication.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "In addition to abdominal pain, the patient denies nausea, vomiting, diarrhea, or constipation.",
+    "gu": "No urinary symptoms or changes in urinary habits reported.",
+    "musculoskeletal": "The patient denies any recent trauma or injury.",
+    "skin": "No rashes, wounds, or lesions reported.",
+    "neurologic": "No history of headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Diverticulitis",
+  "medications": "None",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No known family history of abdominal conditions.",
+  "social_history": "Retired, non-smoker, occasional alcohol use."
+}

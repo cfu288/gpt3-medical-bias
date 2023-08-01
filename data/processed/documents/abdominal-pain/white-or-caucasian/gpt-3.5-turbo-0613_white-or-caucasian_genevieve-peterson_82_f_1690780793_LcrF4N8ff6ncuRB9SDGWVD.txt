@@ -1,0 +1,21 @@
+{
+  "patient_name": "Genevieve Peterson",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of abdominal pain. She states that the pain started earlier today and is located in the lower right quadrant. She rates the severity of the pain as 7 out of 10. She denies any associated symptoms such as nausea, vomiting, or fever. She states that the pain is constant and does not worsen with movement. Patient also complains of a recent change in bowel habits, with increased frequency and loose stools. She denies any history of abdominal surgery or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient complains of abdominal pain and change in bowel habits as described in the history of present illness.",
+    "gu": "Patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "Patient has no history of abdominal surgery or other significant surgeries.",
+  "family_history": "Patient reports a family history of hypertension and osteoarthritis.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lee Smith",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Smith is a 36-year-old male presenting to the emergency department with complaints of abdominal pain. The pain began approximately 12 hours ago and is located in the lower right quadrant. The pain is sharp and worsens with movement. The patient denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain, as described in the history of present illness section.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use."
+}

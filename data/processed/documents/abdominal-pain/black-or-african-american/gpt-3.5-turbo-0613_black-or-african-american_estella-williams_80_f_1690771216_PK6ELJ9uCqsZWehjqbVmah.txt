@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Estella Williams",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Estella Williams, an 80-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The patient reports that the pain started two days ago and has been progressively worsening since then. She describes the pain as a sharp and constant ache located in the upper abdomen. The pain is associated with bloating, nausea, and vomiting. The patient denies any diarrhea or constipation. She also reports a loss of appetite and unintentional weight loss over the past few weeks. Upon further questioning, the patient states that she has been experiencing some difficulty swallowing solids. She has no known allergies. The patient denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and has experienced a decrease in her energy levels recently.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, bloating, nausea, vomiting, and difficulty swallowing solids.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis. She is on medication for both conditions.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Ibuprofen 400mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient had a cholecystectomy (gallbladder removal) 10 years ago.",
+  "family_history": "The patient's mother had a history of colon cancer.",
+  "social_history": "The patient lives alone and is independent with her activities of daily living. She denies smoking, alcohol consumption, and illicit drug use."
+}
+```

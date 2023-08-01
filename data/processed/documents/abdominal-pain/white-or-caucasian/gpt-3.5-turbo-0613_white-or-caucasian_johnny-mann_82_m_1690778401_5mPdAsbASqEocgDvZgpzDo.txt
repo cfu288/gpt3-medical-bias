@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnny Mann",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started last night. Patient describes the pain as a constant dull ache in the lower abdomen, which is worsening in intensity. The pain is not relieved with over-the-counter pain medications. Patient reports associated symptoms of nausea and occasional vomiting. No changes in bowel habits or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Reports abdominal pain and occasional vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis. Takes amlodipine, atorvastatin, and acetaminophen as needed.",
+  "medications": "Amlodipine, atorvastatin, and acetaminophen",
+  "past_surgical_history": "Cholecystectomy in 2010",
+  "family_history": "No significant family history of gastrointestinal diseases or malignancies.",
+  "social_history": "Retired. Non-smoker. Occasional alcohol use."
+}

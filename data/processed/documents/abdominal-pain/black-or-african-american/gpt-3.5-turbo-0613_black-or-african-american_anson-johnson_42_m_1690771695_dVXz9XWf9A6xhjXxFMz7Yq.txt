@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Anson Johnson",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Anson Johnson, a 42-year-old male, presented to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant and sharp in nature. The patient denies any recent trauma or injury. He rates the pain as 8 out of 10 on the pain scale.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient reports nausea and one episode of vomiting. He denies any diarrhea or blood in the stool.",
+    "gu": "The patient denies any urinary symptoms such as frequency or burning.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril as a daily medication.",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

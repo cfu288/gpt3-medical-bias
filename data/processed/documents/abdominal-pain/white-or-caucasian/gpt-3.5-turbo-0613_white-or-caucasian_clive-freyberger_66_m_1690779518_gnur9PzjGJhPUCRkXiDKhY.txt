@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clive Freyberger",
+  "age": "66",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Freyberger is a 66-year-old male presenting to the emergency department with a chief complaint of abdominal pain. He reports that the pain started abruptly approximately 2 hours ago and is located in the middle of his abdomen. The pain is described as a sharp and constant, radiating to his back. He rates the pain as 8 out of 10 and states that it is not relieved with rest or change in position. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He reports no recent trauma or injury. The patient states that he has a history of similar episodes in the past, which he attributes to gallbladder issues. He denies any recent dietary changes or consumption of fatty or spicy foods. He has not taken any medications for the pain prior to arrival in the ED.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as described above, no changes in bowel movements, no blood in stool.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a past medical history of gallstones and previous cholecystectomy.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "The patient reports no significant family history of gastrointestinal diseases or cancers.",
+  "social_history": "The patient denies any tobacco use, alcohol use, or illicit drug use. He is retired and lives with his wife."
+}

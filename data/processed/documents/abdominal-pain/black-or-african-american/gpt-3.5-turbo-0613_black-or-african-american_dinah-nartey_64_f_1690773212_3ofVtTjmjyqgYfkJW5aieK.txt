@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dinah Nartey",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started about 2 hours ago. The pain is located in the lower right abdomen and is associated with nausea and vomiting. Patient denies any fever or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient complains of abdominal pain and nausea. Denies any diarrhea or blood in stool.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or wounds.",
+    "neurologic": "Patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes.",
+  "medications": "Patient takes metformin for diabetes and lisinopril for hypertension.",
+  "past_surgical_history": "Patient had a cholecystectomy 5 years ago.",
+  "family_history": "Patient's mother had a history of gallstones.",
+  "social_history": "Patient denies smoking and alcohol use. Patient is retired and lives with her husband."
+}
+```

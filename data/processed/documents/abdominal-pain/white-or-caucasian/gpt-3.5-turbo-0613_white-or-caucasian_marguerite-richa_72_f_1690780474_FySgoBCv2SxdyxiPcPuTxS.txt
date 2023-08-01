@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Marguerite Richa",
+  "age": "72",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Marguerite Richa, a 72-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started three days ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and intermittent. It is aggravated by movement and relieved by rest. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. She also denies any previous similar episodes or recent trauma. On further questioning, the patient reports a loss of appetite and mild fatigue. She states that the pain has been gradually worsening over the past 24 hours. Upon examination, the patient appears uncomfortable but is able to speak in full sentences. Vital signs are within normal limits. The abdomen is soft and mildly tender in the right lower quadrant on palpation. No rebound tenderness or guarding is noted. Bowel sounds are normal. No obvious hernias or masses are appreciated. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as mentioned in the chief complaint. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or blood in urine.",
+    "musculoskeletal": "Negative for joint pain, swelling, or limited range of motion.",
+    "skin": "Negative for rash, itching, or skin discoloration.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking amlodipine for hypertension, atorvastatin for hyperlipidemia, and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes mellitus in her parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is independent with all activities of daily living and lives alone. She has a daughter who lives nearby and is available for support if needed."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Agnes Gaston",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Agnes Gaston, is a 75-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started two days ago and has been progressively worsening. She describes the pain as a constant cramping sensation in the lower abdomen. She denies any associated symptoms such as vomiting, diarrhea, or fever. The patient reports that she has had similar episodes of abdominal pain in the past, but they usually resolve on their own. However, this time the pain has been more intense and persistent, prompting her to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, wheezing, or difficulty breathing",
+    "gi": "Reports abdominal pain as chief complaint, denies nausea, vomiting, or changes in bowel habits",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash, itching, or skin changes",
+    "neurologic": "Denies headache, dizziness, or numbness"
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and osteoarthritis. She takes medications for these conditions.",
+  "medications": "1. Lisinopril - 10mg daily for hypertension management\n2. Ibuprofen - 200mg as needed for pain",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis in her mother and siblings.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}

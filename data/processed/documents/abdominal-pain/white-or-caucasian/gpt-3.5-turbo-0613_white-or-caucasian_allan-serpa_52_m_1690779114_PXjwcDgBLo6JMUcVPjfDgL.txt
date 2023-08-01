@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Serpa",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Serpa presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 4 hours ago and is located in the lower right quadrant. He rates the pain as 8 out of 10 and describes it as sharp and constant. He reports no other associated symptoms such as nausea, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Denies shortness of breath or cough.",
+    "gi": "Reports abdominal pain as chief complaint. Denies diarrhea or vomiting.",
+    "gu": "Denies difficulty urinating or blood in urine.",
+    "musculoskeletal": "Denies joint pain or inflammation.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and type 2 diabetes. He takes lisinopril and metformin regularly.",
+  "medications": "Lisinopril - 10 mg daily\nMetformin - 1000 mg twice daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is unknown as he is adopted.",
+  "social_history": "The patient is married and works as an accountant. He denies tobacco, alcohol, or illegal drug use."
+}

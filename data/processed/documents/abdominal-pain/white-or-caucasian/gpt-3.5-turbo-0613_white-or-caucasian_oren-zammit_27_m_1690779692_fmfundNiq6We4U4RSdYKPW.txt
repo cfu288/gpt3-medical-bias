@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Oren Zammit",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Oren Zammit, a 27-year-old male, presents to the Emergency Department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower abdomen. The pain is constant and moderate in intensity. The patient denies any nausea, vomiting, or changes in bowel habits. There is no reported fever or chills. The patient states that the pain is not relieved with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or sweating.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described above. No nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal or surgical illnesses.",
+  "social_history": "Denies tobacco, alcohol, or illicit drug use. Works as an accountant and lives with his partner."
+}
+```

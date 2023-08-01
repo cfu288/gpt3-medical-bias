@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Jones",
+  "age": "92",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Percy Jones, a 92-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain is described as a constant, gnawing sensation in the upper abdomen that has been present for the past 24 hours. The pain is aggravated by eating and is not relieved by antacids. The patient also reports associated symptoms of nausea and vomiting. He denies any recent changes in bowel movements or urinary symptoms. The patient has not experienced any recent trauma or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or difficulty with mobility.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes. He also has a history of gastroesophageal reflux disease (GERD) and peptic ulcers.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, metformin for diabetes, and omeprazole for GERD.",
+  "past_surgical_history": "The patient has a history of cholecystectomy (gallbladder removal) and hernia repair surgery.",
+  "family_history": "The patient's father had a history of heart disease and his mother had a history of stroke. There is no known family history of gastrointestinal disorders or cancers.",
+  "social_history": "The patient lives alone and is able to perform activities of daily living independently. He does not smoke and consumes alcohol occasionally."
+}

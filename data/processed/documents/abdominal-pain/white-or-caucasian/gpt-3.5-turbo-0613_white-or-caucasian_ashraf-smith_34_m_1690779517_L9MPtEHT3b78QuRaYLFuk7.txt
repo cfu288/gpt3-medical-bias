@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ashraf Smith",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ashraf Smith, a 34-year-old male, presents to the emergency department with complaints of abdominal pain. The patient reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and worsening with movement. The patient denies any recent trauma, changes in bowel movements, or blood in his stool.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as his chief complaint. No other gastrointestinal symptoms are reported.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. He states that he is generally healthy and does not take any medications on a regular basis.",
+  "medications": "The patient does not take any medications regularly.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He works as a software engineer and leads a sedentary lifestyle."
+}

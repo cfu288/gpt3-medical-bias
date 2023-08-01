@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hal Halverson",
+  "age": "73",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Hal Halverson, a 73-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a sharp, constant pain in the upper right quadrant of his abdomen. The pain started suddenly about 6 hours ago and has been progressively worsening. The patient denies any associated symptoms such as fever, nausea, or vomiting. He has not had any recent trauma or injuries. The patient states that he has never experienced this type of pain before and it is different from any previous abdominal pain he has had.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss or fatigue",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above, no changes in bowel movements, no blood in stool",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is on medications for both conditions, which he takes regularly.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any significant surgical procedures.",
+  "family_history": "The patient reports no significant family history of any medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He lives alone and is independent in his activities of daily living."
+}

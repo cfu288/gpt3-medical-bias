@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Jones",
+  "age": "85",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Henri Jones, an 85-year-old male, presents to the emergency department with complaints of abdominal pain. The pain is located in the lower right quadrant and has been gradually worsening over the past 24 hours. The patient denies any associated symptoms such as nausea, vomiting, or fever. He reports having a normal bowel movement this morning. He states that the pain is constant and does not come and go. The patient is otherwise healthy and denies any previous abdominal surgeries or medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain without any associated gastrointestinal symptoms such as nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. He takes medications for these conditions, including amlodipine and simvastatin.",
+  "medications": "Amlodipine 5 mg once daily and simvastatin 20 mg once daily.",
+  "past_surgical_history": "The patient denies any previous abdominal surgeries or other major surgeries.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia. There is no family history of gastrointestinal diseases or cancers.",
+  "social_history": "The patient is retired and lives with his wife. He denies tobacco or alcohol use."
+}

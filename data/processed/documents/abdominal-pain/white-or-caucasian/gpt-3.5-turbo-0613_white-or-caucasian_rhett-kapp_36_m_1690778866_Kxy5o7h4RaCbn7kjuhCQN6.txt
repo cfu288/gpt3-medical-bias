@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rhett Kapp",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant, sharp sensation located in the lower right quadrant of his abdomen. The pain began approximately 12 hours ago and has been progressively worsening. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. Upon further questioning, the patient reports no recent trauma or previous episodes of similar pain. He has not taken any over-the-counter medications for relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports abdominal pain as the chief complaint. He denies any nausea, vomiting, diarrhea, or blood in the stool.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. He has not been hospitalized in the past.",
+  "medications": "The patient denies any current use of medications. He does not have any known allergies to medications.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient reports that his immediate family members are in good health. There is no significant family history of medical conditions.",
+  "social_history": "The patient is employed as a software engineer. He denies any tobacco or alcohol use. He reports occasional recreational drug use in the past but states that he has not used any drugs recently."
+}

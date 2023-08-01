@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lela Matthews",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lela Matthews, a 76-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the right lower quadrant. The patient describes the pain as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. There is no history of trauma or recent surgeries. The patient has a past medical history of hypertension and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for abdominal pain as described in the history of present illness.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for osteoarthritis.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and over-the-counter acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient reports a family history of hypertension in her parents.",
+  "social_history": "The patient is a non-smoker and lives alone. She denies any alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emmanuel Miller",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Miller presents to the emergency department with abdominal pain. The pain started earlier today and is located in the lower right quadrant. The pain is described as sharp and constant. He rates the pain intensity as 8 out of 10. The pain is not alleviated by any position or over-the-counter medication. He denies any recent trauma or fever. He has not had any changes in bowel movements or urinary symptoms. He does report some nausea and has vomited once. His appetite has been decreased. He denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Abdominal pain as described above. No changes in bowel movements, diarrhea, or blood in stool.",
+    "gu": "No urinary symptoms, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or muscle weakness.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Tylenol 500mg PRN for pain.",
+  "past_surgical_history": "Appendectomy at age 18.",
+  "family_history": "No significant family history of abdominal or gastrointestinal disorders.",
+  "social_history": "Mr. Miller is married and works as a software engineer. He denies any tobacco, alcohol, or illicit drug use."
+}

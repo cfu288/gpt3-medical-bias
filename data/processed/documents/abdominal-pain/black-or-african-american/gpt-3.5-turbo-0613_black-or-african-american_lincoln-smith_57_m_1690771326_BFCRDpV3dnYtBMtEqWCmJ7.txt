@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lincoln Smith",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started 6 hours ago and is located in the right lower quadrant of the abdomen. The pain is constant, sharp in nature, and worsens with movement. He denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. The patient has a history of appendicitis 20 years ago, which required an appendectomy. He reports that the pain is similar to what he experienced during his previous episode of appendicitis. He denies any recent trauma or injury. No other significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Reports abdominal pain as described in the history of present illness.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Appendicitis 20 years ago, treated with appendectomy.",
+  "medications": "No current medications.",
+  "past_surgical_history": "Appendectomy 20 years ago.",
+  "family_history": "No significant family history of abdominal conditions or surgical procedures.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

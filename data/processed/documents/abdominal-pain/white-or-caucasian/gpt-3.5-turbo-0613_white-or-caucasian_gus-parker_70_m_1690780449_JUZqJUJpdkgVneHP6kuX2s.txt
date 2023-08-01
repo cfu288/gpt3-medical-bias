@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gus Parker",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Gus Parker, a 70-year-old male, presents to the emergency department with complaints of abdominal pain. He reports that the pain started earlier today and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and intermittent, worsening with movement. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient states that he has no previous history of similar abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient does not report any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or shortness of breath.",
+    "gi": "The patient reports the abdominal pain as his primary symptom. He denies any nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "The patient denies any urinary complaints such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or limitation of movement.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, both well controlled with medications. He denies any other significant past medical history.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient reports a family history of heart disease in his paternal grandfather, who had a myocardial infarction in his 60s.",
+  "social_history": "The patient is retired and currently lives alone. He is a former smoker, having quit 10 years ago. He denies alcohol or illicit drug use."
+}

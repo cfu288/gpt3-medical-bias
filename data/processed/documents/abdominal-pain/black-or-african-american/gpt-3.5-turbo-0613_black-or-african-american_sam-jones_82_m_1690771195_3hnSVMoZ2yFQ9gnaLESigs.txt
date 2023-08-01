@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Jones",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Sam Jones, an 82-year-old male, presents to the emergency department with complaints of severe abdominal pain. The patient reports that the pain started suddenly approximately 4 hours ago and has been constant. He describes the pain as sharp and localized to the right lower quadrant of the abdomen. He denies any associated symptoms such as fever, nausea, vomiting, or change in bowel movements. Patient reports no recent trauma or injury to the abdomen. The pain has progressively worsened over the past few hours, and the patient decided to come to the emergency department for evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Presenting complaint of severe right lower quadrant abdominal pain, denies any other gastrointestinal symptoms such as diarrhea or blood in stool",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He reports taking lisinopril for hypertension, simvastatin for hyperlipidemia, and metformin for diabetes.",
+  "medications": "Lisinopril 20mg daily, simvastatin 40mg daily, metformin 1000mg twice daily",
+  "past_surgical_history": "Patient has no history of any surgeries",
+  "family_history": "Patient reports a family history of hypertension and diabetes. Mother had a history of myocardial infarction.",
+  "social_history": "Patient is retired. He is a former smoker with a 40 pack-year history. He quit smoking 10 years ago. He denies any alcohol or illicit drug use."
+}

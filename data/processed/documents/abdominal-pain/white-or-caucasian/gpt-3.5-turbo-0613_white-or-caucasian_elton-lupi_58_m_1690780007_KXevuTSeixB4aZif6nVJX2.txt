@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elton Lupi",
+  "age": "58",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is described as sharp and located in the lower right quadrant. The pain started earlier today and has been getting progressively worse. Patient denies any recent trauma or injury to the abdomen. Patient also reports symptoms of nausea and has vomited once. Upon physical examination, there is tenderness and guarding in the lower right quadrant. Given the patient's symptoms, differential diagnosis includes appendicitis, diverticulitis, and kidney stone.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No shortness of breath or coughing reported.",
+    "gi": "Patient reports abdominal pain and nausea. No diarrhea or constipation.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes or skin changes reported.",
+    "neurologic": "No headaches, dizziness, or weakness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient had an appendectomy 20 years ago.",
+  "family_history": "No significant family history of abdominal conditions or surgeries.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clayton Elmer",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Elmer presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant, sharp sensation in the lower right side of his abdomen. The pain started approximately 6 hours ago and has been progressively worsening. He denies any associated nausea, vomiting, diarrhea, or fever. He also reports a loss of appetite and feeling fatigued. The pain is exacerbated by movement and is not relieved by over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "Mr. Elmer has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "lisinopril 20 mg daily; atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Mr. Elmer is a retired factory worker. He denies tobacco or alcohol use."
+}

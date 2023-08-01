@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kirk Black",
+  "age": "61",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Black is a 61-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain is located in the right lower quadrant and started earlier today. He describes the pain as sharp and constant, and rates it as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle aches",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No headache or focal neurological symptoms"
+  },
+  "past_medical_history": "Mr. Black has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions, which include lisinopril and atorvastatin. He reports good medication compliance.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "Appendectomy in childhood",
+  "family_history": "No significant family history of abdominal conditions or malignancies",
+  "social_history": "Mr. Black is married and lives with his spouse. He is retired and does not smoke or drink alcohol. He denies any illicit drug use."
+}
+```

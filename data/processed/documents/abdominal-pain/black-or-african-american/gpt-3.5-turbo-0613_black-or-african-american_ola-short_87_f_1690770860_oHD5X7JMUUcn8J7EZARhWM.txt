@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Short",
+  "age": "87",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ola Short, an 87-year-old female, presents to the emergency department with a complaint of abdominal pain. She reports that the pain started earlier today and has been gradually worsening. The pain is located in the lower abdomen and is described as sharp and constant. She rates the intensity of the pain at 8 out of 10. She denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel movements. She states that she has not noticed any blood in her stool or urine. The patient has no significant past medical history and is not currently taking any medications. She denies any recent surgeries or hospitalizations. The patient reports no significant family history of gastrointestinal diseases. She lives alone and is independent with her activities of daily living. She denies any tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her chief complaint. She denies any difficulty swallowing, heartburn, or changes in appetite.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain with urination.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient denies any past surgeries or hospitalizations.",
+  "family_history": "The patient reports no significant family history of gastrointestinal diseases.",
+  "social_history": "The patient lives alone and is independent with her activities of daily living. She denies any tobacco or alcohol use."
+}

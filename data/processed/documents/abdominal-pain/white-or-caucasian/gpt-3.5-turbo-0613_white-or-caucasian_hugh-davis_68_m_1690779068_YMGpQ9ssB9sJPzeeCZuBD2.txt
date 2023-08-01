@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hugh Davis",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Davis is a 68-year-old male who presents to the emergency department with complaints of abdominal pain. He describes the pain as severe and localized to the lower right quadrant. The pain started yesterday and has been continuous since then. He denies any changes in bowel movements, fever, or vomiting. He has tried over-the-counter pain relievers, but they have not provided any relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any skin changes or rash.",
+    "neurologic": "Patient denies any headaches or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes Lisinopril for his blood pressure and Atorvastatin for his cholesterol.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Patient does not have any past surgical history.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is retired and lives with his wife. He has a history of smoking but quit 15 years ago. He denies any alcohol or illicit drug use."
+}

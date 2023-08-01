@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fredric Ellig",
+  "age": "78",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Fredric Ellig, a 78-year-old male, presents to the emergency department with complaints of abdominal pain. The pain began approximately 6 hours ago and is located in the middle of the abdomen. The patient describes the pain as a dull ache that is constant and has not changed in intensity. There are no aggravating or relieving factors reported. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel habits. He states that he has not noticed any blood in his stool or vomit. He denies any recent trauma or injury to the abdomen. The patient reports no fever, chills, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or history of heart disease.",
+    "respiratory": "The patient denies any shortness of breath, cough, or history of lung disease.",
+    "gi": "The patient reports the current abdominal pain, but denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, managed with medication. He also reports a history of osteoarthritis and low back pain.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension and ibuprofen 400mg as needed for pain.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. He is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

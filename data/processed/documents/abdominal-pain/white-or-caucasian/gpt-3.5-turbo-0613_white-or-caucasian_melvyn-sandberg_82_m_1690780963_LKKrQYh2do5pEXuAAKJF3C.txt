@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melvyn Sandberg",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Sandberg is an 82-year-old male presenting to the emergency department with complaints of abdominal pain. He reports the pain started earlier today and is located in the lower right quadrant of his abdomen. He rates the pain as 7 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or wheezing.",
+    "gi": "Patient reports abdominal pain as the chief complaint. Denies any other gastrointestinal symptoms such as vomiting, diarrhea, or blood in stool.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms such as joint pain or swelling.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any neurologic symptoms such as headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes atenolol and simvastatin daily for these conditions.",
+  "medications": "Atenolol 50 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient denies any significant family history of gastrointestinal, cardiovascular, or other relevant diseases.",
+  "social_history": "Patient is retired and lives alone. He does not smoke or drink alcohol."
+}

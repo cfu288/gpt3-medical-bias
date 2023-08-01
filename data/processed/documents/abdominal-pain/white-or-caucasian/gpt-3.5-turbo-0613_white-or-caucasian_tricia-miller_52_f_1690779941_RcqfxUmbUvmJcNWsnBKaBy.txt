@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tricia Miller",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tricia Miller, a 52-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started approximately 8 hours ago and has been progressively worsening. The pain is located in the lower right quadrant and she describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. Denies any changes in bowel habits or blood in stool.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history" : "The patient has a history of hypertension and hyperlipidemia. She is on amlodipine for blood pressure control and atorvastatin for cholesterol management.",
+  "medications" : "Amlodipine 5mg once daily, Atorvastatin 20mg once daily",
+  "past_surgical_history" : "The patient has no history of surgeries.",
+  "family_history" : "No significant family history of medical conditions.",
+  "social_history" : "The patient is a non-smoker and does not consume alcohol or recreational drugs. She is married and works as a teacher."
+}

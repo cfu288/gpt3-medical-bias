@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bennie Matthews",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bennie Matthews, is a 54-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly earlier today and is localized to the right lower quadrant. The patient rates the pain as 8 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or change in bowel habits. He reports no recent trauma or injury to the abdomen. The patient's medical history is significant for hypertension and type 2 diabetes. He takes lisinopril for blood pressure control and metformin for diabetes management. He has no known surgical history. Family history is significant for a paternal grandfather with colon cancer. Social history reveals that the patient is a smoker with a 20 pack-year history. He denies alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "The patient's chief complaint is abdominal pain.",
+    "gu": "The patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rashes or skin lesions.",
+    "neurologic": "The patient denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes.",
+  "medications": "The patient takes lisinopril for blood pressure control and metformin for diabetes management.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "Family history is significant for a paternal grandfather with colon cancer.",
+  "social_history": "The patient is a smoker with a 20 pack-year history. He denies alcohol or drug use."
+}

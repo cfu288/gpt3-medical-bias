@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ada Barlow",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ada Barlow, is a 75-year-old female who presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is localized to the lower right quadrant. It is accompanied by nausea and vomiting. The patient denies any fevers, chills, or changes in bowel movements. She has a history of diverticulosis and hypertension. She takes regular medications for hypertension, including lisinopril and hydrochlorothiazide. She has not had any recent surgeries. The patient reports a past medical history of hypothyroidism and osteoporosis. There is no known family history of gastrointestinal or surgical conditions. The patient is a non-smoker and does not consume alcohol or use recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight changes.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No cough, shortness of breath, or difficulty breathing reported.",
+    "gi": "In addition to the abdominal pain, the patient reports nausea and vomiting. No changes in bowel movements or blood in stool reported.",
+    "gu": "No urinary symptoms or changes in urinary patterns reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rashes, lesions, or changes in skin color reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient has a past medical history of diverticulosis, hypertension, hypothyroidism, and osteoporosis.",
+  "medications": "The patient is on regular medications for hypertension, including lisinopril and hydrochlorothiazide. No other medications reported.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no known family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use recreational drugs."
+}

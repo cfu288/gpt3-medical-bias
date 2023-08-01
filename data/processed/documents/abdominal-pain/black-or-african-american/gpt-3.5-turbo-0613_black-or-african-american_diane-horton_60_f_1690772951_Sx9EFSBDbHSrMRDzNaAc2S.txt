@@ -1,0 +1,21 @@
+{
+  "patient_name": "Diane Horton",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Diane Horton, a 60-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started approximately 6 hours ago and is located in the lower right quadrant of her abdomen. She rates the pain as 7/10 and describes it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or fever. She states that the pain has progressively worsened since its onset and is not relieved by over-the-counter pain medications. The patient denies any recent trauma or injury to the abdomen. She reports having a medical history of hypertension and osteoarthritis, for which she takes lisinopril and ibuprofen, respectively. She denies any known allergies to medications. The patient is not currently taking any other medications and has not had any surgeries in the past. She reports no family history of abdominal conditions. Socially, the patient is a retired teacher and lives with her husband. She denies any tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her chief complaint. She denies any nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient reports having chronic osteoarthritis but denies any recent joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen for osteoarthritis pain.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any family history of abdominal conditions.",
+  "social_history": "Socially, the patient is a retired teacher and lives with her husband. She denies any tobacco, alcohol, or illicit drug use."
+}

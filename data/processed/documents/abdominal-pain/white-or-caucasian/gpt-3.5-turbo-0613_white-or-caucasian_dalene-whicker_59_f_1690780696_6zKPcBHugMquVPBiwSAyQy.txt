@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dalene Whicker",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and has been persistent for the past 24 hours. The patient also reports nausea and vomiting. There is no history of trauma or recent travel. On physical examination, there is tenderness to palpation in the lower right quadrant and rebound tenderness is present.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain and vomiting.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rashes or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes. She is on medication for these conditions.",
+  "medications": "The patient's current medications include metformin for diabetes and lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of significant surgeries.",
+  "family_history": "The patient's family history is notable for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

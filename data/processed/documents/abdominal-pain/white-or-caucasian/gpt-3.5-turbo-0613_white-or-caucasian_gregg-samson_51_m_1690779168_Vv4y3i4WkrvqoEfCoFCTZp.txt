@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gregg Samson",
+  "age": "51",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. Pain started 3 days ago and has been progressively worsening. Patient describes the pain as constant and sharp, localized in the right lower quadrant of the abdomen. He denies any associated nausea, vomiting, or changes in bowel habits. No fever or chills reported. He states that he has never experienced this type of pain before. On physical examination, patient appears uncomfortable and moderately distressed due to pain. Abdomen is tender to palpation in the right lower quadrant with guarding. No rebound tenderness or rigidity noted. Bowel sounds are present. Differential diagnosis includes appendicitis, diverticulitis, and bowel obstruction. Further investigations and imaging studies will be ordered to determine the underlying cause of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, currently managed with medications.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "No significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "Patient is married and works as a computer programmer. He denies any tobacco, alcohol, or illicit drug use."
+}

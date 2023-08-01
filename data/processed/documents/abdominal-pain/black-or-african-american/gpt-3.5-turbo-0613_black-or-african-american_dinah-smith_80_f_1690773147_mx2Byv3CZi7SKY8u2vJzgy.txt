@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dinah Smith",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Dinah Smith, an 80-year-old female, presented to the emergency department with a complaint of abdominal pain. The pain is located in the lower abdomen and started approximately 12 hours ago. The pain is constant and described as sharp and crampy. The patient also reports associated symptoms of bloating and nausea. There is no history of trauma or recent changes in diet. The patient denies any changes in bowel movements or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "As mentioned in the history of present illness, the patient reports abdominal pain, bloating, and nausea. There is no history of vomiting, diarrhea, or blood in stools.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, stiffness, or swelling.",
+    "skin": "The patient denies rashes or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has no significant family history of gastrointestinal disorders or malignancies.",
+  "social_history": "The patient is a non-smoker and reports occasional alcohol consumption."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tristan Green",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of abdominal pain. The pain began approximately 6 hours ago and is located in the right lower quadrant. The pain is sharp in nature and worsens with movement. The patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as chief complaint. Denies any other gastrointestinal symptoms such as bloating, diarrhea, or constipation.",
+    "gu": "Patient denies any genitourinary symptoms such as urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Patient has a history of appendectomy at age 17.",
+  "medications": "Patient currently takes ibuprofen as needed for pain.",
+  "past_surgical_history": "Appendectomy at age 17.",
+  "family_history": "No significant family history of gastrointestinal disorders.",
+  "social_history": "Patient denies tobacco, alcohol, or drug use."
+}

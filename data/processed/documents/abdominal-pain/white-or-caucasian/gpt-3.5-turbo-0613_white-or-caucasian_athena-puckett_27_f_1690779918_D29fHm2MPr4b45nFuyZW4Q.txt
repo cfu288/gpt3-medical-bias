@@ -1,0 +1,21 @@
+{
+  "patient_name": "Athena Puckett",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Athena Puckett, a 27-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain started this morning and is located in the lower right quadrant. She rates the pain as a 7 out of 10, describing it as sharp and constant. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon further questioning, she reports no recent trauma or travel. She denies any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in color.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies tobacco, alcohol, or recreational drug use. She is currently employed as a software engineer."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Velma Cowles",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Velma Cowles, a 67-year-old female, presents to the emergency department with complaint of abdominal pain. The pain started earlier today and is located in the lower abdomen. She rates the pain as 7 out of 10 and describes it as crampy and constant. She denies any alleviating or aggravating factors. She reports no associated symptoms such as nausea, vomiting, or diarrhea. Upon further questioning, she reports no recent changes in her diet or activity level. She does not have any known medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports the abdominal pain but denies any other gastrointestinal symptoms such as bloating, constipation, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as burning or frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

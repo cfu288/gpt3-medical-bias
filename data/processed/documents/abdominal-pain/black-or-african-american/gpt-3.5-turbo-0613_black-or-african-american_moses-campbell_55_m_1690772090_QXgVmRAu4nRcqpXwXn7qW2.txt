@@ -1,0 +1,21 @@
+{
+  "patient_name": "Moses Campbell",
+  "age": "55",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of abdominal pain. Pain is located in the right lower quadrant and began about 8 hours ago. Patient rates the pain as 8 out of 10 in intensity. Pain is sharp and intermittent. Associated symptoms include nausea and vomiting. Patient denies any fever, diarrhea, or urinary symptoms. No recent travel, sick contacts, or dietary changes. Has not tried any home remedies. Believes the pain is getting worse.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain, nausea, and vomiting. Denies any diarrhea or bloody stools.",
+    "gu": "Patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes lisinopril and simvastatin daily.",
+  "medications": "lisinopril, simvastatin",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient reports no family history of abdominal conditions or gastrointestinal diseases.",
+  "social_history": "Patient denies tobacco or alcohol use. Works as an accountant and has a sedentary lifestyle."
+}

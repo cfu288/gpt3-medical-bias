@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sidney Person",
+  "age": "78",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sidney Person, a 78-year-old male, presents to the emergency department with a chief complaint of abdominal pain. The pain is described as a dull ache in the lower abdomen that started approximately 12 hours ago. The patient reports that the pain has been gradually worsening and is now constant. He denies any associated symptoms such as nausea, vomiting, or change in bowel habits. The patient has a history of hypertension and takes medications for this condition. He has not had any recent surgeries or other significant medical history. Family history and social history are unknown at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as the chief complaint. No other gastrointestinal symptoms are present.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle aches.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medications for hypertension, but the specific medications are unknown at this time.",
+  "past_surgical_history": "The patient denies any past surgeries.",
+  "family_history": "Family history is unknown at this time.",
+  "social_history": "Social history is unknown at this time."
+}

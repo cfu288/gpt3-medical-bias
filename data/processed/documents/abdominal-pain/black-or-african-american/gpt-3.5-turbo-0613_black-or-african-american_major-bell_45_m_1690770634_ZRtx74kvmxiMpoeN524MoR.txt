@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Bell",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Major Bell, a 45-year-old male, presents to the emergency department with complaints of abdominal pain. The pain started approximately 3 hours ago and is located in the right lower quadrant. The patient describes the pain as sharp and constant. He rates the intensity of the pain as 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain is not relieved with over-the-counter medications. There is no history of trauma or recent travel. The patient denies any recent illness or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain located in the right lower quadrant. No associated symptoms of nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or limitation of movement.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication to control it.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "There is no significant family history of any chronic medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

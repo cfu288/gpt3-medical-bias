@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosann Smith",
+  "age": "47",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rosann Smith, a 47-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp in nature and radiates to the back. The patient rates the pain as a 7 out of 10 and describes it as intermittent. She denies any changes in bowel movements or urinary symptoms. She reports some nausea but no vomiting. She has not noticed any aggravating or relieving factors.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Positive for abdominal pain",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) and gastroesophageal reflux disease (GERD).",
+  "medications": "The patient takes omeprazole daily for GERD symptoms.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

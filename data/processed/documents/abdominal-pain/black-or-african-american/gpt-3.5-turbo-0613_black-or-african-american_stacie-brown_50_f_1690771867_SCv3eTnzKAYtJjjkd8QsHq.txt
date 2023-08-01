@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stacie Brown",
+  "age": "50",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Stacie Brown, is a 50-year-old female who presents to the emergency department with a chief complaint of abdominal pain. She reports that the pain started abruptly this morning and is located in the right lower quadrant of her abdomen. She rates the pain as 7 out of 10 and describes it as a sharp, stabbing sensation. The pain is exacerbated by movement and deep inspiration. She denies any associated symptoms such as nausea, vomiting, or changes in bowel habits. She has not experienced any fevers, chills, or recent weight loss.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain in the right lower quadrant. Negative for nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes, lesions, or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She denies illicit drug use."
+}

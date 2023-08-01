@@ -1,0 +1,21 @@
+{
+  "patient_name": "Angelita Williamson",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the lower abdomen. The pain is described as crampy and constant, with no radiation. The patient denies any nausea, vomiting, diarrhea, or changes in bowel movements. She also denies any urinary symptoms. The pain is not relieved with over-the-counter pain medications. She has not experienced this type of pain before and is concerned it may be appendicitis.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril 10mg daily. She has no known allergies.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "None",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

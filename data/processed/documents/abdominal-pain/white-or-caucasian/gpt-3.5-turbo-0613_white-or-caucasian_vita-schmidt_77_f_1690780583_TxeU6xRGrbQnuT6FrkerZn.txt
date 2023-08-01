@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vita Schmidt",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Vita Schmidt, a 77-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain began approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and constant, with a severity of 7 out of 10. The patient denies any associated symptoms such as fever, nausea, or vomiting. She states that the pain is worsened with movement and deep breathing. On further questioning, she reports a similar episode of abdominal pain approximately 3 months ago, which resolved spontaneously. The patient states that she has not undergone any surgeries or procedures in the past. She denies any history of trauma or recent illnesses. The patient has not taken any medications for pain relief prior to arrival. Vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for shortness of breath, cough",
+    "gi": "Positive for abdominal pain as chief complaint",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain, stiffness",
+    "skin": "Negative for rash, itchiness",
+    "neurologic": "Negative for headache, dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril 10mg daily and atorvastatin 20mg daily for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia, but no other significant family history.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}

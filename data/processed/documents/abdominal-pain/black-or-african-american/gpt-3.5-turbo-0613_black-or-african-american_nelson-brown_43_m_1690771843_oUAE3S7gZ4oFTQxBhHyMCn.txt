@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nelson Brown",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Nelson Brown, a 43-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 2 hours ago and is located in the right lower quadrant. The pain is sharp in nature and has been constant since its onset. The patient denies any associated symptoms such as fever, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or chills.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient reports severe abdominal pain in the right lower quadrant.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches or neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on regular medication for the same.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He is married and works as a software engineer."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janie Lamas",
+  "age": "75",
+  "chief_complaint":"Abdominal Pain",
+  "history_of_present_illness": "The patient, Janie Lamas, a 75-year-old female, presents to the emergency department with complaints of severe, generalized abdominal pain. The pain started approximately 1 hour ago and is described as sharp and crampy. The patient states that the pain is constant and worsens with movement. She denies any associated symptoms such as nausea, vomiting, or diarrhea. On further questioning, she reports a history of intermittent abdominal pain for the past few months, but this episode is more severe and localized. She denies any recent trauma or changes in bowel habits. Upon examination, the patient appears uncomfortable and is guarding her abdomen. There is tenderness on palpation in the right upper quadrant. No rebound tenderness or distension is noted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or shortness of breath reported.",
+    "respiratory": "No cough, wheezing, or difficulty breathing mentioned.",
+    "gi": "In addition to the abdominal pain, the patient denies any changes in appetite, weight loss, or blood in stool.",
+    "gu": "No urinary symptoms are reported.",
+    "musculoskeletal": "No joint pain or muscle stiffness mentioned.",
+    "skin": "No rashes, lesions, or itching mentioned.",
+    "neurologic": "No headaches, dizziness, or weakness reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and naproxen for osteoarthritis.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of gastrointestinal disorders or malignancies.",
+  "social_history": "The patient is a non-smoker and lives alone. She denies any alcohol or drug use."
+}

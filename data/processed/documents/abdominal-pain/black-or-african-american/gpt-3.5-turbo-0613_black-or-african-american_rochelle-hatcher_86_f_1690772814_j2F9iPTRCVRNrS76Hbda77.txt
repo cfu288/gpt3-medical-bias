@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rochelle Hatcher",
+  "age": "86",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Rochelle Hatcher, an 86-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain started earlier this morning and is located in the lower right side of the abdomen. The pain is described as sharp and constant, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. On further questioning, the patient reports no recent trauma, falls, or prior episodes of similar pain. She states that she has been in good health prior to this episode and has not had any recent medical or surgical procedures.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or loss of appetite.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports the abdominal pain as the only gastrointestinal symptom. No recent changes in bowel habits, blood in the stool, or difficulty swallowing.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis. She takes medications for these conditions, which include lisinopril, simvastatin, and acetaminophen as needed for pain.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily, Acetaminophen 650mg as needed for pain",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient lives alone in a single-story home. She is retired and does not smoke or consume alcohol."
+}
+```

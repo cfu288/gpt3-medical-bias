@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rona Bennett",
+  "age": "58",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 3 hours ago. She describes the pain as a constant, sharp, and crampy sensation located in the lower abdomen. She denies any recent trauma, vomiting, or diarrhea. On further questioning, she reports a change in bowel habits with alternating constipation and diarrhea over the past week. She has also noticed a decrease in appetite and unintentional weight loss.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and has noticed a general decrease in energy levels.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain described above, the patient reports occasional heartburn and bloating after meals.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports no joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril daily. She also reports a history of irritable bowel syndrome.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or other medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any history of alcohol or illicit drug use."
+}
+```

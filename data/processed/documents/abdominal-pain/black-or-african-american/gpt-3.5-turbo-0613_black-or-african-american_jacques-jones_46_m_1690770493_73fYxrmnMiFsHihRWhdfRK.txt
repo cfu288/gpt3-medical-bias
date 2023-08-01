@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. He states that the pain started earlier today and has been progressively worsening. He describes the pain as sharp and constant, located in the upper abdomen. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that he has not had similar episodes in the past. On physical examination, patient appears uncomfortable and is guarding his abdomen. No signs of peritoneal irritation are noted. Initial workup is underway to determine the cause of the pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath, cough, or wheezing",
+    "gi": "Abdominal pain as described",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain, muscle aches, or limited range of motion",
+    "skin": "No rash, itching, or skin lesions",
+    "neurologic": "No headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of gastrointestinal disorders or other medical conditions",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use"
+}

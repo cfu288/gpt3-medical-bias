@@ -1,0 +1,21 @@
+{
+ "patient_name": "Tricia Hennis",
+ "age": "53",
+ "chief_complaint": "Abdominal Pain",
+ "history_of_present_illness": "The patient presents to the emergency department with complaints of severe abdominal pain. She states that the pain began approximately 6 hours ago and has been worsening since then. She describes the pain as a sharp, crampy sensation that is localized to the lower right quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain is not relieved with over-the-counter pain medications. She denies any recent trauma or ingestion of any unusual foods.",
+ "review_of_symptoms": {
+   "constitutional": "The patient denies fever, chills, or weight loss.",
+   "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+   "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+   "gi": "The patient reports severe abdominal pain, as mentioned in the chief complaint. She denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or changes in appetite.",
+   "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+   "musculoskeletal": "The patient denies any joint pain or stiffness.",
+   "skin": "The patient denies any rashes, itching, or changes in the skin.",
+   "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+ },
+ "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. She takes lisinopril and metformin for these conditions. She is not currently taking any other medications.",
+ "medications": "Lisinopril - 20 mg daily, Metformin - 1000 mg twice daily",
+ "past_surgical_history": "The patient has no history of any surgeries.",
+ "family_history": "The patient's mother has a history of hypertension and her father has a history of diabetes. She has no siblings.",
+ "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

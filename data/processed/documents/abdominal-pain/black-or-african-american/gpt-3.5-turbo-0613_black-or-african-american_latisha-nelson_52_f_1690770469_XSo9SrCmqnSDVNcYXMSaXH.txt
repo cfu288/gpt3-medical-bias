@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latisha Nelson",
+  "age": "52",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Latisha Nelson, a 52-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She describes the pain as dull and crampy, which started acutely approximately 2 hours ago. The pain is localized in the right lower quadrant of her abdomen and is associated with nausea. She denies any recent trauma or injury to the abdomen. She reports no vomiting, diarrhea, or changes in bowel habits. She denies any urinary symptoms or vaginal bleeding.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as described above. No other gastrointestinal symptoms to note.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, but is otherwise healthy.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports no significant family history of cardiovascular disease, cancer, or abdominal conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She works as a teacher and lives with her spouse and two children."
+}
+```

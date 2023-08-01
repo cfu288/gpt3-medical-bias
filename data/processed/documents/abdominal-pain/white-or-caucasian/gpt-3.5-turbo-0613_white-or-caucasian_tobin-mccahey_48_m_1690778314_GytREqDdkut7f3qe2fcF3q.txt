@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tobin Mccahey",
+  "age": "48",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tobin Mccahey, a 48-year-old male, presented to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is localized to the right lower quadrant. He describes the pain as sharp and constant, with a severity of 6 out of 10. He denies any associated symptoms such as fever, vomiting, or change in bowel movements. He has not tried any over-the-counter medications for pain relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient reports abdominal pain as chief complaint. No history of hematemesis, melena, or hematochezia. No changes in bowel movements or stool consistency.",
+    "gu": "No urinary symptoms or changes noted.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No history of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes losartan 50mg daily and atorvastatin 20mg at bedtime.",
+  "medications": "Losartan 50mg daily, atorvastatin 20mg at bedtime",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient has a family history of hypertension and heart disease in both parents.",
+  "social_history": "Patient is a non-smoker and denies alcohol and illicit drug use. He works as a computer programmer and lives with his wife and two children. No recent travel or sick contacts."
+}
+```

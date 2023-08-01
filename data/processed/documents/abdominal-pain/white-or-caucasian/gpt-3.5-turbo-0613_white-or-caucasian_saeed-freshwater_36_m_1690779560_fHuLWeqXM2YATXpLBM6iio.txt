@@ -1,0 +1,21 @@
+{
+  "patient_name": "Saeed Freshwater",
+  "age": "36",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain is located in the lower right quadrant and started earlier today. Patient denies any recent trauma or injury. Pain is constant and worsens with movement. Patient also reports nausea and vomiting. Vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient has a history of hypertension but denies any chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain, nausea, and vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril for it.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Appendectomy in childhood. No other surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

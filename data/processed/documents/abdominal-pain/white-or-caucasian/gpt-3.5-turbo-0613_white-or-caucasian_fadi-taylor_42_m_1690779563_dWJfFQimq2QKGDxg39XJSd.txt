@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fadi Taylor",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Taylor presented to the emergency department with complaints of severe abdominal pain. He reports that the pain started suddenly about 4 hours ago and is localized to the right lower quadrant. He describes the pain as sharp and constant, with a severity of 8 out of 10. He denies any recent trauma or change in bowel habits. He also reports associated symptoms of nausea and vomiting. Upon physical examination, he exhibits tenderness in the right lower quadrant with rebound tenderness.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Denies cough, hemoptysis, or dyspnea.",
+    "gi": "Has complaints of nausea and vomiting.",
+    "gu": "Denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Taylor has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin regularly.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 20",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "He is a non-smoker and denies alcohol or drug use."
+}

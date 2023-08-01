@@ -1,0 +1,21 @@
+{
+  "patient_name": "Zoltan Parker",
+  "age": "59",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Zoltan Parker, a 59-year-old male, presented to the emergency department with complaint of severe abdominal pain. The pain started approximately 6 hours ago and is located in the upper abdomen. The patient describes the pain as a sharp and constant pain with radiation to his back. He denies any associated symptoms such as nausea or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Positive for severe abdominal pain. Negative for changes in bowel movements, blood in stool, or difficulty swallowing.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, skin lesions, or changes in pigmentation.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

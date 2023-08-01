@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bridgette Davis",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Bridgette Davis, is a 60-year-old female who presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in the lower abdomen that started approximately 6 hours ago. The pain is constant, and she rates it as a 6 out of 10 in intensity. She has not noticed any specific triggers or alleviating factors. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She has not experienced any similar episodes in the past. Upon further questioning, she mentions that she has been experiencing some constipation over the past few days. She denies any recent changes in diet or medication.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "Abdominal pain as previously described. No nausea, vomiting, or changes in bowel habits other than constipation.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, lesions, or pruritus.",
+    "neurologic": "No headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. She has no other significant past medical history.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient denies tobacco or alcohol use. She is retired and lives alone."
+}

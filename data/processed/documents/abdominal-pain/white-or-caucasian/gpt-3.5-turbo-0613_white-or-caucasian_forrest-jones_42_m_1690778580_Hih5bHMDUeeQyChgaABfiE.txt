@@ -1,0 +1,21 @@
+{
+  "patient_name": "Forrest Jones",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Forrest Jones, a 42-year-old male, presents to the emergency department with a chief complaint of abdominal pain. According to the patient, the pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and constant. The patient denies any associated symptoms such as vomiting, diarrhea, or fever. Upon examination, there is tenderness and guarding on palpation of the right lower quadrant.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient denies any nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and GERD.",
+  "medications": "The patient is currently taking lisinopril for hypertension and omeprazole for GERD.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension in his father and diabetes in his mother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married and works as a software engineer."
+}

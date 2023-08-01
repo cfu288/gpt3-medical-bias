@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Talia Davis",
+  "age": "27",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Talia Davis, a 27-year-old female, presents to the emergency department with complaints of abdominal pain. She states that the pain started yesterday evening and has been gradually getting worse. She describes the pain as a dull ache in her lower abdomen, which is constant and does not radiate. She also reports feeling bloated and having mild nausea. She denies any vomiting or changes in bowel movements. She notes that the pain is not relieved by over-the-counter pain medications. She denies any recent trauma or injury to her abdomen. She has not experienced these symptoms before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain and bloating as described in chief complaint",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "The patient has no significant past medical history. She reports being generally healthy and has not had any previous surgeries.",
+  "medications": "The patient does not take any prescription medications. She occasionally takes over-the-counter pain relievers for headaches.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office manager and lives with her partner."
+}
+```

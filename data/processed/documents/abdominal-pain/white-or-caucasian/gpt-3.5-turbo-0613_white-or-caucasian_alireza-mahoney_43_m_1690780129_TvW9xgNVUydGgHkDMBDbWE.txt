@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alireza Mahoney",
+  "age": "43",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Alireza Mahoney, a 43-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, with a severity of 8/10. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. There is no history of trauma or recent illness. The patient reports no relief with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports severe abdominal pain in the lower right quadrant. No other gastrointestinal symptoms are present.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

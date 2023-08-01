@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vikki Stock",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain for the past 24 hours. She describes the pain as sharp and localized to the lower right quadrant. She denies any associated symptoms such as fever, chills, nausea, or vomiting.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain as the chief complaint. No other gastrointestinal symptoms reported.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any skin rash, lesions, or changes.",
+    "neurologic": "Patient denies any headache, dizziness, or visual disturbances."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which she takes lisinopril 10mg daily. She also has a history of hyperlipidemia and takes atorvastatin 40mg daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 40mg daily",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Unknown",
+  "social_history": "Patient is a retired teacher. She does not smoke, drink alcohol, or use recreational drugs."
+}

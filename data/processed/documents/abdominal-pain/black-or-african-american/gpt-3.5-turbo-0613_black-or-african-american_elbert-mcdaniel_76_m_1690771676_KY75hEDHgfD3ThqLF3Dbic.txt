@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Mcdaniel",
+  "age": "76",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Mcdaniel is a 76-year-old male who presents to the emergency department with complaints of diffuse abdominal pain. The pain started approximately 12 hours ago and has been progressively getting worse. The patient rates the pain as 8 out of 10 on the pain scale. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Abdominal pain as the chief complaint. No abdominal distension, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or burning.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Mcdaniel has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "He takes lisinopril for his hypertension, atorvastatin for his hyperlipidemia, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "Positive family history for hypertension and hyperlipidemia.",
+  "social_history": "Mr. Mcdaniel is a retired construction worker and is currently a non-smoker and non-drinker."
+}
+```

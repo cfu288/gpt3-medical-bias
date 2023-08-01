@@ -1,0 +1,21 @@
+{
+  "patient_name": "Avis Gordon",
+  "age": "45",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Avis Gordon, a 45-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is described as sharp and intermittent, with a severity of 7 out of 10. The patient denies any associated symptoms such as nausea, vomiting, fever, or diarrhea. She reports no recent trauma or injury to the abdomen. The patient has a history of appendicitis and underwent an appendectomy 10 years ago. On physical examination, there is tenderness in the right lower quadrant with no guarding or rebound tenderness. There is no palpable mass or signs of peritonitis. The rest of the physical examination is within normal limits. Given the patient's history and presentation, the possibility of acute appendicitis is being considered and further evaluation and management are recommended.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint. She denies any changes in bowel habits, blood in the stool, or black, tarry stools.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Appendicitis, appendectomy 10 years ago",
+  "medications": "None",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Non-contributory",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently employed as a teacher."
+}

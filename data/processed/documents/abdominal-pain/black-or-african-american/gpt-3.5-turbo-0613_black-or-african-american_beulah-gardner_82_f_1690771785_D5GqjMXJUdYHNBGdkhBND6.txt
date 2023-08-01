@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Beulah Gardner",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Ms. Gardner is an 82-year-old female presenting to the emergency department with complaint of severe abdominal pain. She states that the pain started suddenly a few hours ago and is located in the lower right quadrant of her abdomen. She denies any recent trauma or injury. The pain is persistent and has not improved with over-the-counter pain relievers. She reports associated symptoms of nausea and vomiting. On further questioning, she mentions that she has not had a bowel movement for the past 2 days and has a past medical history of constipation.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient reports abdominal pain and associated symptoms of nausea and vomiting. Denies changes in appetite, changes in bowel movements, blood in stool, or melena.",
+    "gu": "The patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and constipation. She takes lisinopril and atorvastatin as prescribed.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use recreational drugs. She lives alone and has no known allergies."
+}
+```

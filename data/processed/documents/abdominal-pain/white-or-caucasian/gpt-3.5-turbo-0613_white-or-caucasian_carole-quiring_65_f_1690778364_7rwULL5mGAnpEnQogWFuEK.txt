@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carole Quiring",
+  "age": "65",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient Carole Quiring, a 65-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started approximately 12 hours ago and has been gradually worsening. The pain is located in the right lower quadrant and is described as sharp and constant. There is no radiation of the pain. She denies any associated symptoms such as nausea, vomiting, or fever. She has not experienced any recent changes in bowel movements or urinary habits. The patient states that she has never experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, sputum production, or shortness of breath",
+    "gi": "Positive for abdominal pain as described above; negative for nausea, vomiting, diarrhea, constipation, or blood in stool",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

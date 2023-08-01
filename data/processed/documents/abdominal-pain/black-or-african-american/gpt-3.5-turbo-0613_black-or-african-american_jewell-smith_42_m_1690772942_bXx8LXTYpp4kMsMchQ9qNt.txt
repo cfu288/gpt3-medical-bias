@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jewell Smith",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain began approximately 6 hours ago and is located in the right lower quadrant. Patient also reports nausea and vomiting. Denies any recent trauma or changes in bowel habits.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain and nausea. Denies diarrhea or constipation.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension controlled with medication.",
+  "medications": "Patient takes hydrochlorothiazide for hypertension.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "No significant family history of note.",
+  "social_history": "Patient denies tobacco and alcohol use. Married with two children. Works as an accountant."
+}

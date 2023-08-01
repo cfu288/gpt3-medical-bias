@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mathieu Luttrull",
+  "age": "44",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started in the middle of his abdomen and has since become more diffuse. He describes the pain as sharp and constant, with a rating of 8 out of 10 on a pain scale. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that the pain is not relieved by over-the-counter analgesics. He has no known history of abdominal surgeries or other medical conditions. On physical examination, there is tenderness to palpation in all four quadrants of the abdomen, but no rebound tenderness or guarding.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies cough, sputum production, or difficulty breathing.",
+    "gi": "Patient presents with abdominal pain, but denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "Patient denies urinary symptoms such as frequency, urgency, or pain with urination.",
+    "musculoskeletal": "Patient denies joint pain, muscle pain, or swelling.",
+    "skin": "Patient denies rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies taking any medications, including over-the-counter medications.",
+  "past_surgical_history": "Patient reports no history of surgical procedures.",
+  "family_history": "Patient reports no significant family history of medical conditions.",
+  "social_history": "Patient reports a smoking history of 10 pack-years but has quit smoking 2 years ago. He denies any alcohol or drug use."
+}

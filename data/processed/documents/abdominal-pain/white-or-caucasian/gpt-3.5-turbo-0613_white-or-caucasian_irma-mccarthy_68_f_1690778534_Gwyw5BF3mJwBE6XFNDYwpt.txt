@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Irma Mccarthy",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started approximately 6 hours ago. She describes the pain as constant and localized to the lower right quadrant of her abdomen. The pain is accompanied by nausea and occasional vomiting. She denies any recent trauma or changes in bowel movements. On physical examination, the patient appears uncomfortable and is guarding her abdomen. There is tenderness on palpation of the right lower quadrant without rebound tenderness or rigidity. No signs of peritonitis.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Besides the abdominal pain, no other gastrointestinal symptoms reported. No history of gastrointestinal bleeding or change in bowel habit.",
+    "gu": "No urinary symptoms or history of urinary tract infections.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or skin changes.",
+    "neurologic": "No dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is on daily medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily.",
+  "past_surgical_history": "The patient had an appendectomy in her early twenties. No other previous surgeries.",
+  "family_history": "Patient's mother had a history of gallstones.",
+  "social_history": "The patient is a retired teacher. She is a nonsmoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Monroe Coombs",
+  "age": "75",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, Mr. Monroe Coombs, a 75-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain began approximately 8 hours ago and is located in the lower right quadrant of the abdomen. The pain is constant in nature and is associated with a fever of 101°F. 
+  The patient denies any recent travel, sick contacts, or change in bowel habits. He reports no previous episodes of similar pain or any chronic medical conditions. On physical examination, he has tenderness and guarding in the right lower quadrant, with no rebound tenderness or rigidity. His vital signs are stable, with a blood pressure of 120/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, hematuria, or nocturia.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies current use of any medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and drinks alcohol socially on occasions."
+}

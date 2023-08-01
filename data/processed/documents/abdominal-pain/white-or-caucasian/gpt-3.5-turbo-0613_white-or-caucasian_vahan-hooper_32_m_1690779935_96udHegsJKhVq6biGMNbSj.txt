@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vahan Hooper",
+  "age": "32",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of severe abdominal pain. Pain started in the lower right abdomen and has since radiated to the entire abdomen. Patient rates the pain as 10/10 and describes it as sharp and constant. Denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. No history of trauma or recent surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria, frequency, or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes, lesions, or itching",
+    "neurologic": "No headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Patient has a history of irritable bowel syndrome (IBS) and has had similar episodes of abdominal pain in the past, but never as severe as this.",
+  "medications": "Patient takes over-the-counter antacids as needed for relief of occasional indigestion.",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of gastrointestinal diseases or cancers.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use."
+}

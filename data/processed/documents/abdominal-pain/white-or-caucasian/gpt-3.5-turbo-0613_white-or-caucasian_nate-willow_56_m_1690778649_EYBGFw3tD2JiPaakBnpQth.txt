@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nate Willow",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Willow presents to the emergency department with complaints of severe abdominal pain. He reports that the pain started 3 hours ago and is located in the mid-abdomen. He describes the pain as constant and sharp, with a severity of 8 out of 10. He denies any associated symptoms such as nausea, vomiting, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as chief complaint",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches, dizziness, or weakness"
+  },
+  "past_medical_history": "Mr. Willow has a history of hypertension and hyperlipidemia. He takes daily medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 28",
+  "family_history": "No significant family history of abdominal conditions",
+  "social_history": "Mr. Willow has a history of smoking 10 cigarettes per day for the past 30 years. He does not drink alcohol or use recreational drugs."
+}

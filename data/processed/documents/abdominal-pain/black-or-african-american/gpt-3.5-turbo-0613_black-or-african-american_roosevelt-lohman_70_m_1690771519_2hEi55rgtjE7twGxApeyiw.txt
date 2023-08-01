@@ -1,0 +1,23 @@
+{
+  "patient_name": "Roosevelt Lohman",
+  "age": "70",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. The pain is located in the upper abdomen and radiates to the back. The patient reports that the pain started suddenly and has been constant since then. The pain is associated with nausea and vomiting. There is no history of recent trauma or injury. The patient denies any urinary or bowel symptoms. Vital signs are stable.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as the chief complaint.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurologic symptoms reported."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes. He is currently on medication for these conditions.",
+  "medications": "The patient takes Lisinopril for hypertension and Metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of any medical conditions.",
+  "social_history": "The patient is retired and lives alone. He denies smoking, alcohol, or illicit drug use."
+}

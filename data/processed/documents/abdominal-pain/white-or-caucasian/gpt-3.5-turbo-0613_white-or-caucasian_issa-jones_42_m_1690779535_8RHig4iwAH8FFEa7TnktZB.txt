@@ -1,0 +1,21 @@
+{
+  "patient_name": "Issa Jones",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Issa Jones, a 42-year-old male, presents to the emergency department with complaints of severe abdominal pain. He describes the pain as a constant sharp ache in the lower abdomen, which started suddenly about 4 hours ago. He denies any recent trauma or injury to the abdomen. He also complains of nausea and has vomited once since the pain started. He denies any fever, diarrhea, or constipation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Complains of nausea and vomiting. No history of melena or hematemesis.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or changes in the skin.",
+    "neurologic": "No headache, dizziness, or changes in the vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine for management.",
+  "medications": "Amlodipine 5mg daily.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of gastrointestinal or surgical conditions.",
+  "social_history": "The patient works as a software engineer. He denies any significant alcohol or tobacco use."
+}

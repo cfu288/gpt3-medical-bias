@@ -1,0 +1,20 @@
+{ "patient_name": "Elbert Harris", 
+  "age": "87", 
+  "chief_complaint": "Abdominal Pain", 
+  "history_of_present_illness": "The patient, an 87-year-old male named Elbert Harris, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 12 hours ago and is located in the upper abdomen. The pain is described as sharp and constant, and the patient rates it as 8 out of 10 in intensity. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. The pain is not relieved with over-the-counter medications. The patient has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.", 
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "The patient reports abdominal pain as the chief complaint.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a retired accountant and lives alone. He denies smoking or alcohol use."
+}

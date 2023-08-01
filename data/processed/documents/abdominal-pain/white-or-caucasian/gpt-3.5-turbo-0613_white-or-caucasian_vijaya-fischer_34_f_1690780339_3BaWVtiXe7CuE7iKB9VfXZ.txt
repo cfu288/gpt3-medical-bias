@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vijaya Fischer",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of severe abdominal pain. She reports that the pain started several hours ago and has been progressively worsening. She describes the pain as a sharp, crampy sensation located in the lower right quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. On physical examination, there is tenderness to palpation in the right lower quadrant of the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient complains of abdominal pain as described in the HPI. She denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle pain.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome (IBS) and has been managed on a low-FODMAP diet.",
+  "medications": "The patient takes over-the-counter ibuprofen as needed for occasional headaches. She is not taking any other prescribed medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of colon cancer in her father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as a software engineer and is currently not sexually active."
+}

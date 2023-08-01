@@ -1,0 +1,21 @@
+{
+  "patient_name": "Doug Brickey",
+  "age": "72",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Brickey, a 72-year-old male, presents to the emergency department with complaints of severe abdominal pain. The patient reports that the pain started approximately 4 hours ago and is located in the lower right quadrant of his abdomen. He describes the pain as sharp and constant, with no alleviating or aggravating factors. The pain is associated with nausea and vomiting. He denies any fever, diarrhea, or urinary symptoms. He has not had any recent changes in bowel movements or diet. Additionally, the patient reports no history of abdominal surgery or medical conditions such as kidney stones or diverticulitis. Upon further questioning, the patient mentions that he recently started a new medication for his hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain, nausea, and vomiting as mentioned earlier.",
+    "gu": "No complaints of urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain, swelling, or limited range of motion.",
+    "skin": "No rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any dizziness, syncope, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and is currently taking an ACE inhibitor for management.",
+  "medications": "The patient is taking an ACE inhibitor for hypertension.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient has a 40 pack-year smoking history but quit smoking 5 years ago. He denies any alcohol or illicit drug use."
+}

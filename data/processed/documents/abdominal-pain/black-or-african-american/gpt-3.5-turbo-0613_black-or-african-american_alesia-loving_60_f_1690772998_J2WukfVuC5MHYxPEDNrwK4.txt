@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alesia Loving",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Alesia Loving, a 60-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a dull ache in her lower abdomen that started yesterday and has been gradually worsening. She rates the severity of the pain as a 7 out of 10 and states that it is constant and not relieved by any position or over-the-counter pain medications. She denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel movements. She also denies any urinary symptoms or vaginal bleeding. She states that she has been feeling fatigued and has noticed a recent unintentional weight loss. On further questioning, she reports a history of intermittent abdominal pain over the past few months, but this episode is more severe and different in character from her previous episodes.",
+  "review_of_symptoms": {
+    "constitutional": "The patient does not report any fevers, sweats, or chills.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports a recent change in her bowel habits, with looser stools and increased frequency.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient does not report any changes in her mental status, headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and simvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's mother had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone."
+}

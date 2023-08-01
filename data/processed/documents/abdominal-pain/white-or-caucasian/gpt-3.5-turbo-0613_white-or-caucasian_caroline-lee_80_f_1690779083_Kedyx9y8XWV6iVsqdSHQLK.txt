@@ -1,0 +1,21 @@
+{
+  "patient_name": "Caroline Lee",
+  "age": "80",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient, an 80-year-old female, presents to the emergency department with complaints of abdominal pain. Pain is located in the lower abdomen and began two days ago. Patient rates the pain as 7/10 and describes it as a sharp, constant pain. She reports that the pain is worse with movement and is not relieved with over-the-counter pain medications. The pain is associated with nausea and occasional vomiting. Patient denies any recent dietary changes or illnesses. She reports having a bowel movement yesterday but has not had one today. There is no history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports abdominal pain as described above. Denies any changes in bowel habits or blood in stools.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes, itching, or changes in moles.",
+    "neurologic": "Patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril 20mg daily, Ibuprofen 400mg PRN for pain",
+  "past_surgical_history": "Cholecystectomy, knee replacement",
+  "family_history": "Mother had colon cancer",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

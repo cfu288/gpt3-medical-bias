@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antoine Garrett",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Pain started 2 days ago and has been progressively worsening. Patient describes the pain as a sharp, constant, and localized to the right lower quadrant of the abdomen. Associated symptoms include nausea and vomiting. Patient denies any recent trauma or changes in bowel movements. Upon examination, patient appears uncomfortable and is guarding his abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain, nausea, and vomiting.",
+    "gu": "Patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and appendectomy.",
+  "medications": "Patient is currently taking lisinopril for hypertension.",
+  "past_surgical_history": "Patient has undergone an appendectomy in the past.",
+  "family_history": "No significant family history of abdominal diseases.",
+  "social_history": "Patient denies smoking and alcohol use. Works as an accountant and denies any exposure to toxic substances."
+}

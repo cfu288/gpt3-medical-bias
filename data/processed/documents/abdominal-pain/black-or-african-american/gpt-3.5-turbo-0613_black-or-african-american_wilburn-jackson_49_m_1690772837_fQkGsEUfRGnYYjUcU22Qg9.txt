@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wilburn Jackson",
+  "age": "49",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Jackson, is a 49-year-old male who presented to the emergency department with complaints of severe abdominal pain. The pain started yesterday and has been progressively worsening. He describes the pain as a constant, sharp, and crampy sensation located in the epigastric and right upper quadrant regions. The pain is associated with nausea and vomiting, but no fever or chills. Mr. Jackson denies any recent trauma or injury to the abdomen. He has a past medical history of chronic gastritis and gastroesophageal reflux disease (GERD). He takes over-the-counter antacids for his GERD symptoms. Mr. Jackson denies any recent changes in diet or medication. He has not had any similar episodes in the past. Further evaluation and diagnostic tests will be required to determine the cause of his abdominal pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Complains of abdominal pain. Denies changes in bowel habits, diarrhea, or blood in stool.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Chronic gastritis and gastroesophageal reflux disease (GERD).",
+  "medications": "Over-the-counter antacids for GERD symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of gastrointestinal disorders.",
+  "social_history": "Mr. Jackson is a non-smoker and denies alcohol or illicit drug use."
+}
+```

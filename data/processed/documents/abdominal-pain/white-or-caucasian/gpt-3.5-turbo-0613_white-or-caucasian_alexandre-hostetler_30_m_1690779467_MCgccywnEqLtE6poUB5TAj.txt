@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alexandre Hostetler",
+  "age": "30",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with severe abdominal pain that started earlier today. The pain is located in the lower right quadrant and is worsening with movement. Patient denies any nausea, vomiting, or diarrhea. He has also noticed a decrease in appetite. No history of similar episodes in the past. Patient appeared uncomfortable during examination.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations.",
+    "respiratory": "Patient denies shortness of breath, cough.",
+    "gi": "Patient reports abdominal pain as the chief complaint. Denies diarrhea, constipation, melena.",
+    "gu": "Patient denies dysuria, hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No skin rash or lesions reported.",
+    "neurologic": "No dizziness, syncope, or changes in vision reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient is not taking any medications at this time.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient denies smoking, alcohol, or drug use. Works as a software engineer."
+}

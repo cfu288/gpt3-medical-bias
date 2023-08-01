@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sonja White",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Sonja White, a 57-year-old female, presents to the emergency department with a chief complaint of abdominal pain. The pain started this morning and is located in the lower abdomen. The pain is constant and dull, with intermittent cramping. The patient rates the pain as 7/10. She denies any fever, nausea, vomiting, diarrhea, or changes in bowel movements. She also denies any urinary symptoms. She states that the pain is worsened with movement and relieved by lying still. She has previously experienced similar episodes of abdominal pain, but never to this severity. She denies any recent travel, dietary changes, or new medications. She also denies any history of trauma to the abdomen. ",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue or recent illness",
+    "cardiovascular": "No chest pain, palpitations or edema",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "Apart from the abdominal pain, no nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Pain only present in the abdomen",
+    "skin": "No rashes or skin changes",
+    "neurologic": "No headaches, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril 10mg daily for hypertension, atorvastatin 20mg daily for hyperlipidemia, and acetaminophen PRN for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco or alcohol use."
+}
+```

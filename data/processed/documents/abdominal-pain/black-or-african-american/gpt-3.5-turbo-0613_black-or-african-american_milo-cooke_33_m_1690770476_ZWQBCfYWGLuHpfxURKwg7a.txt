@@ -1,0 +1,21 @@
+{
+  "patient_name": "Milo Cooke",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Milo Cooke, a 33-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 3 hours ago and is located in the lower right quadrant of the abdomen. The patient describes the pain as sharp and throbbing, and it has been progressively worsening since onset. He denies any previous episodes of similar pain. There are no associated symptoms such as nausea, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports the current abdominal pain as the only gastrointestinal symptom.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in mobility.",
+    "skin": "The patient denies any rash, itching, or skin abnormalities.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of appendectomy at the age of 15 and otherwise reports no significant medical conditions.",
+  "medications": "The patient takes over-the-counter ibuprofen occasionally for headache relief.",
+  "past_surgical_history": "The patient has a history of appendectomy at the age of 15.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use."
+}

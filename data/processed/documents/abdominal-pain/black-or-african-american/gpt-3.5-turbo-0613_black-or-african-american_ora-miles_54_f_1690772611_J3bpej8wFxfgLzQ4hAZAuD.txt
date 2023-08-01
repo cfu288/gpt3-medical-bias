@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ora Miles",
+  "age": "54",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Ora Miles, a 54-year-old female, presents to the emergency department with a chief complaint of abdominal pain. She describes the pain as a constant ache located in the lower right quadrant of the abdomen. The pain started approximately 6 hours ago and has been gradually worsening. She denies any nausea, vomiting, diarrhea, or constipation. She also denies any urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes, both of which are well-controlled with medication. She is also allergic to penicillin.",
+  "medications": "The patient takes metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of any major surgeries.",
+  "family_history": "The patient's family history is significant for diabetes in her mother and brother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

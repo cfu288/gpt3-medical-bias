@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sophia Williams",
+  "age": "37",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started about 6 hours ago and has been steadily worsening. The pain is located in the lower right quadrant of the abdomen and is associated with nausea and vomiting. She denies any recent trauma or injury. Upon further questioning, she reports having a fever and experiencing pain with urination. She denies any changes in her bowel movements or urinary frequency.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling tired and weak.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or difficulty breathing.",
+    "gi": "Patient reports nausea and vomiting in association with the abdominal pain.",
+    "gu": "Patient reports pain with urination, suggestive of a urinary tract infection.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or changes in the skin.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of irritable bowel syndrome (IBS) and urinary tract infections (UTIs). She has had multiple episodes of abdominal pain in the past.",
+  "medications": "The patient currently takes over-the-counter ibuprofen for pain relief.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of abdominal pain or gastrointestinal disorders.",
+  "social_history": "The patient denies tobacco or alcohol use. She works as a teacher and lives with her husband and two children."
+}

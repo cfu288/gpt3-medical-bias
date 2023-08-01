@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adolph Henry",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Adolph Henry, a 64-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain is located in the lower right quadrant and started approximately 6 hours ago. He describes the pain as sharp and constant, with a rating of 8 out of 10. There is no radiation of the pain and it is not alleviated or aggravated by any specific factors. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The patient states that he has not experienced this type of pain before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Denies shortness of breath or cough",
+    "gi": "Reports abdominal pain as chief complaint, denies nausea or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headache or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes Lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is retired and denies tobacco or alcohol use."
+}

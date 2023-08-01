@@ -1,0 +1,22 @@
+{
+  "patient_name": "Cecelia Louis",
+  "age": "76",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented with severe abdominal pain that started earlier today. Patient reports that the pain is located in the lower abdomen and is sharp in nature. The pain is associated with nausea and vomiting. She denies any fever or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Complains of abdominal pain and associated nausea and vomiting.",
+    "gu": "No complaints of urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and GERD.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and omeprazole 20mg daily for GERD.",
+  "past_surgical_history": "Patient had a cholecystectomy 5 years ago.",
+  "family_history": "No significant family history of gastrointestinal diseases.",
+  "social_history": "Patient denies any tobacco or alcohol use."
+}

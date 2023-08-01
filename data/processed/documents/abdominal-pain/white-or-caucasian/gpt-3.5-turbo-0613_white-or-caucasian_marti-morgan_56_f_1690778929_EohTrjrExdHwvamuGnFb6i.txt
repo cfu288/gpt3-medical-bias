@@ -1,0 +1,21 @@
+{
+  "patient_name":"Marti Morgan",
+  "age":"56",
+  "chief_complaint":"Abdominal Pain",
+  "history_of_present_illness":"The patient, Marti Morgan, a 56-year-old female, presents to the emergency department with complaints of abdominal pain. She reports that the pain started approximately 6 hours ago and has been progressively worsening. The pain is located in the epigastric region and radiates to the back. She rates the pain as 8/10 in severity and describes it as sharp and constant. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. She states that she has never experienced this type of pain before and is concerned about the severity and sudden onset.",
+  "review_of_symptoms":{
+    "constitutional":"The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular":"The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory":"The patient denies any cough, shortness of breath, or wheezing.",
+    "gi":"In addition to the mentioned abdominal pain, the patient denies any other gastrointestinal symptoms such as bloating, changes in bowel habits, or blood in the stool.",
+    "gu":"The patient denies any urinary symptoms such as burning or frequency.",
+    "musculoskeletal":"The patient denies any joint pain, swelling, or stiffness.",
+    "skin":"The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic":"The patient denies any headaches, dizziness, or numbness/tingling in extremities."
+  },
+  "past_medical_history":"The patient has a past medical history of hypertension and hyperlipidemia. She is prescribed lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "medications":"Lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history":"The patient has no history of any surgical procedures.",
+  "family_history":"The patient's family history is significant for hypertension in her mother and sister.",
+  "social_history":"The patient is a non-smoker and does not consume alcohol. She works as an office manager and denies any illicit drug use."
+}

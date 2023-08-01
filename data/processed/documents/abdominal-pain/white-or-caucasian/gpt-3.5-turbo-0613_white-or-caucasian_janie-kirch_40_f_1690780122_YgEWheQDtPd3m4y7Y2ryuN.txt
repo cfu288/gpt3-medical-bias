@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janie Kirch",
+  "age": "40",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Janie Kirch, a 40-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as a crampy, lower abdominal pain that started a few hours ago. The pain is constant and rated at a 7 out of 10 in severity. She denies any associated symptoms such as nausea, vomiting, or diarrhea. The patient states that she has never experienced this type of pain before. On further questioning, the patient reports regular bowel movements and denies any urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient's chief complaint is abdominal pain. She denies any nausea, vomiting, or changes in appetite.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and migraines, for which she takes losartan and sumatriptan, respectively.",
+  "medications": "Losartan (50mg daily), Sumatriptan (as needed)",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient's maternal grandfather had a history of colon cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

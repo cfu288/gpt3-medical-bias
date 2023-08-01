@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simone Daniel",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Simone Daniel is an 82-year-old female who presents to the emergency department with complaints of abdominal pain. The pain started earlier today and is located in the upper right quadrant of the abdomen. She describes the pain as a dull, constant ache with intermittent sharp episodes. The pain is worsened with movement and deep breathing. She denies any associated symptoms such as fever, vomiting, or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Positive for abdominal pain as described.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension, diabetes, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily, metformin 1000mg twice daily, and ibuprofen 600mg as needed for pain.",
+  "past_surgical_history": "Patient has a history of appendectomy in 2003.",
+  "family_history": "Negative for any significant family history of gastrointestinal diseases.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol."
+}

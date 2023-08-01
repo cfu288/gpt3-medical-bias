@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Len Smith",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of severe abdominal pain. Pain started approximately 6 hours ago and is localized to the lower right quadrant. Patient reports associated symptoms of nausea and vomiting. Denied any recent trauma or injury. No previous history of similar symptoms. Upon examination, patient has tenderness and guarding on palpation in the right lower quadrant. Rebound tenderness is also present. Given the patient's symptoms and physical examination findings, appendicitis is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling unwell and fatigued for the past few days.",
+    "cardiovascular": "No chest pain or shortness of breath.",
+    "respiratory": "No cough or difficulty breathing.",
+    "gi": "In addition to abdominal pain, patient reports no changes in bowel movement pattern or blood in stool.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No changes in vision, sensation, or motor function."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. Currently managed with lisinopril and metformin, respectively.",
+  "medications": "Lisinopril, Metformin",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "No significant family history of abdominal conditions or surgical procedures.",
+  "social_history": "Patient is a non-smoker and does not drink alcohol. He works as an accountant and lives with his wife."
+}
+```

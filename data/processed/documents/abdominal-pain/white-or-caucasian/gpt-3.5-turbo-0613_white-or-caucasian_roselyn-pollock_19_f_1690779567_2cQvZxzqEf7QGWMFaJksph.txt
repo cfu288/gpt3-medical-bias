@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roselyn Pollock",
+  "age": "19",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaint of severe abdominal pain that started 5 hours ago. She describes the pain as sharp and localized to the right lower quadrant. She denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. On examination, there is tenderness and guarding in the right lower quadrant with rebound tenderness. No bowel sounds appreciated. Differential diagnosis includes appendicitis, ovarian cyst torsion, and kidney stone colic.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Denies cough, shortness of breath",
+    "gi": "Positive for abdominal pain and tenderness",
+    "gu": "Denies dysuria, frequency, hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness, weakness"
+  },
+  "past_medical_history": "No known significant medical history",
+  "medications": "Patient takes oral contraceptive pill daily",
+  "past_surgical_history": "No known significant surgical history",
+  "family_history": "No significant family history of gastrointestinal conditions",
+  "social_history": "Non-smoker, occasional alcohol drinker"
+}

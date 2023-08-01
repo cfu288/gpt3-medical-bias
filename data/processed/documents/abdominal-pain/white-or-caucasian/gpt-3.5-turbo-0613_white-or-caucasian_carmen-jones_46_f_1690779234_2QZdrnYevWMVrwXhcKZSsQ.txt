@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carmen Jones",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started earlier this evening. The pain is located in the right lower quadrant and is associated with nausea and vomiting. Patient denies any recent trauma or changes in bowel movements. She has not taken any over-the-counter medications for pain relief. On further questioning, the patient reports a family history of ovarian cancer.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No shortness of breath or cough.",
+    "gi": "Abdominal pain as described earlier with associated nausea and vomiting.",
+    "gu": "No dysuria or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or changes in the skin.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes amlodipine daily.",
+  "medications": "Amlodipine 5mg tablet once daily",
+  "past_surgical_history": "The patient had a cholecystectomy 8 years ago.",
+  "family_history": "Family history of ovarian cancer.",
+  "social_history": "The patient works as an accountant and denies any tobacco, alcohol, or illicit drug use."
+}

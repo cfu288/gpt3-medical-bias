@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laura Hollywood",
+  "age": "91",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient present to the emergency department complaining of severe abdominal pain. Patient states that the pain started approximately 3 hours ago and has been progressively worsening. She describes the pain as a sharp, cramping sensation located in the lower right quadrant of her abdomen. She denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. Upon examination, patient appears uncomfortable and is unable to find a position that provides relief. There is tenderness on palpation in the lower right quadrant of the abdomen. No guarding, rebound tenderness, or rigidity noted. Vital signs are stable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for changes in bowel movements, blood in stool, or vomiting",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes.",
+  "medications": "Patient takes lisinopril 10 mg daily for blood pressure control and metformin 1000 mg twice daily for diabetes management.",
+  "past_surgical_history": "Patient had an appendectomy at age 65.",
+  "family_history": "No significant family history of abdominal disorders or surgery.",
+  "social_history": "Patient lives independently and is able to perform her activities of daily living without assistance. She does not smoke or consume alcohol."
+}

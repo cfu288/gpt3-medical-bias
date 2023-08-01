@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Reva Pate",
+  "age": "110",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Reva Pate, a 110-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp in nature and has been progressively worsening. The patient denies any associated symptoms such as fever, nausea, vomiting, or changes in bowel movements. No relieving or exacerbating factors have been identified. The patient reports no previous episodes of similar pain. No significant medical history or trauma was reported. Physical examination reveals tenderness and rebound tenderness in the right lower quadrant of the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath, cough, or wheezing",
+    "gi": "Reports severe abdominal pain",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness",
+    "skin": "No rashes, lesions, or pruritus",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension, osteoarthritis, and constipation. She takes lisinopril and acetaminophen on a regular basis.",
+  "medications": "Lisinopril 10 mg daily, Acetaminophen 500 mg as needed for pain",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Patient denies any significant family history of medical conditions or surgeries.",
+  "social_history": "Patient lives alone and is independent with activities of daily living. She does not smoke or consume alcohol."
+}
+```

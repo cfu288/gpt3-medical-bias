@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Charisse Griffin",
+  "age": "33",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient Charisse Griffin, a 33-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started about 4 hours ago and is located in the lower right quadrant of the abdomen. The pain is sharp and constant, and the patient rates it as a 7 out of 10 in intensity. She denies any radiation of pain, but reports increased pain with movement and deep breathing. The patient has also noticed some nausea and has vomited once. There is no history of trauma or recent changes in bowel movements. She denies any urinary symptoms. On further questioning, the patient states that she had a similar episode of pain about 3 months ago, but it resolved on its own after a couple of days. She denies any fever, chills, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath, cough, or wheezing.",
+    "gi": "The patient reports abdominal pain as the main concern. No history of blood in stool, changes in bowel movement pattern, or recent weight loss.",
+    "gu": "The patient denies any urinary symptoms or history of kidney stones.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rash, itching, or changes in skin color reported.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of occasional headaches but is otherwise healthy. No chronic medical conditions reported.",
+  "medications": "The patient does not take any regular medications. She has taken over-the-counter pain relievers for her headache in the past.",
+  "past_surgical_history": "No history of previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient works as a software engineer and denies any tobacco, alcohol, or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alexandra Adrian",
+  "age": "34",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alexandra Adrian, a 34-year-old female, presents to the emergency department with complaints of abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant. The pain is constant and sharp in nature. The patient denies any radiation of the pain, but reports that it worsens with movement. No alleviating factors have been identified. Additionally, the patient reports associated symptoms of nausea and vomiting, as well as a subjective fever.",
+  "review_of_symptoms": {
+    "constitutional": "No history of fever, chills, or night sweats",
+    "cardiovascular": "No history of chest pain, palpitations, or shortness of breath",
+    "respiratory": "No history of cough, shortness of breath, or wheezing",
+    "gi": "Complains of nausea and vomiting",
+    "gu": "No history of dysuria, frequency, or urgency",
+    "musculoskeletal": "No history of trauma or joint pains",
+    "skin": "No history of rashes, changes in moles, or wounds",
+    "neurologic": "No history of headaches or changes in mental status"
+  },
+  "past_medical_history": "The patient has a history of irritable bowel syndrome and migraines.",
+  "medications": "The patient takes over-the-counter ibuprofen as needed for migraines.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's mother is known to have a history of gallbladder disease.",
+  "social_history": "The patient denies tobacco and alcohol use. She works as a nurse."
+}
+```

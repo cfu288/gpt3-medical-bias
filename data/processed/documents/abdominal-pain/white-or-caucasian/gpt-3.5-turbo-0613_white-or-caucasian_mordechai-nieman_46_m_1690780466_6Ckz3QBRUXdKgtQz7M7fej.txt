@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mordechai Nieman",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started abruptly 3 hours ago. The pain is located in the lower right quadrant and is associated with nausea and vomiting. Patient denies any recent trauma or changes in bowel habits. No fevers or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any recent weight loss or fatigue.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports severe abdominal pain with associated nausea and vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any focal weakness, numbness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient is taking lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of prior surgeries.",
+  "family_history": "Patient reports a family history of colorectal cancer in a first-degree relative.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

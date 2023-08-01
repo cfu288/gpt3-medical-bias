@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duke Picard",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Duke Picard, a 69-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 8 hours ago and is located in the central upper abdomen. The patient describes the pain as sharp and stabbing, radiating towards the back. He rates the intensity of the pain as 8 out of 10. The pain is worsened with movement and deep breathing. The patient denies any recent trauma, changes in bowel movements, vomiting, or fever. There is no relief with over-the-counter pain medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient currently takes lisinopril 10mg daily for hypertension, atorvastatin 20mg daily for hyperlipidemia, and acetaminophen 1000mg as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is retired and currently lives alone. He denies tobacco or alcohol use."
+}

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Odessa Thomas",
+  "age": "82",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. She states that the pain started approximately 8 hours ago and has been progressively worsening. The pain is located in the lower abdomen and is described as sharp and crampy. The patient denies any associated symptoms such as nausea, vomiting, or diarrhea. She reports no recent changes in bowel movements. Upon further questioning, the patient reports a history of constipation and occasional abdominal discomfort in the past. She denies any recent dietary changes or travel. 
+
+Today's episode was accompanied by mild bloating, but no changes in bowel habits. The pain initially began in the lower abdomen and has since migrated to the right lower quadrant. The patient denies any symptoms of fever, chills, or urinary complaints.
+
+Physical examination reveals tenderness in the right lower quadrant with no rebound or guarding. There is no palpable mass. Bowel sounds are present and normal. Vital signs are within normal limits. 
+
+Given the patient's age and the location of the pain, appendicitis is a concern. However, further diagnostic workup is required to confirm the diagnosis. Differential diagnosis also includes diverticulitis, ovarian cyst, and bowel obstruction.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, and night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for urinary complaints.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and constipation. She takes medications for hypertension including lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for any significant family history.",
+  "social_history": "The patient is retired. She lives alone and denies any tobacco or alcohol use."
+}

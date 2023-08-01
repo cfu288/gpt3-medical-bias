@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edie Shapiro",
+  "age": "60",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Edie Shapiro, a 60-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started suddenly about an hour ago and has been constant and worsening since then. She rates her pain as 9 out of 10 and describes it as a sharp, stabbing pain located in the lower right quadrant of her abdomen. The pain is accompanied by nausea and vomiting. She denies any recent trauma or injury to the abdominal area. She has no known history of similar symptoms. Upon further questioning, the patient reports no fever, chills, or changes in bowel movements. She denies any urinary symptoms or blood in the stool. She has not taken any over-the-counter medications for her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any shortness of breath or cough.",
+    "gi": "The patient's chief complaint is abdominal pain.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril daily for her blood pressure and atorvastatin for her cholesterol.",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is married, retired, and lives with her husband. She denies any tobacco or alcohol use."
+}

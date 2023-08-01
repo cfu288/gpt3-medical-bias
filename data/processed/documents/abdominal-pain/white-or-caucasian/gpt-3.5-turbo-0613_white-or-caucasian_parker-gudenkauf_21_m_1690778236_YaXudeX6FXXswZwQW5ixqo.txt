@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Parker Gudenkauf",
+  "age": "21",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Parker Gudenkauf, a 21-year-old male, presents to the emergency department with complaints of abdominal pain. He states that the pain started yesterday evening and has been gradually worsening since then. He describes the pain as a dull, constant ache located in the lower right side of his abdomen. He denies any associated symptoms such as nausea, vomiting, or change in bowel movements. He also reports no history of trauma or recent illnesses. Upon further questioning, he admits to having unprotected sexual intercourse multiple times in the past month.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No shortness of breath or cough",
+    "gi": "Abdominal pain as described above, no nausea or vomiting",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of abdominal conditions",
+  "social_history": "No history of smoking, alcohol or drug use"
+}
+```

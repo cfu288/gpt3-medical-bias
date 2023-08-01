@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kiley Dutton",
+  "age": "31",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain that started approximately 3 hours ago. The pain is located in the right lower quadrant and is sharp in nature. The patient denies any associated symptoms such as nausea, vomiting, fever, or changes in bowel movements. No previous episodes of similar pain reported. No known triggers or relieving factors. No recent travel or sick contacts. ",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough or difficulty breathing",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or itching",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Patient denies taking any medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. No recent travel or sick contacts."
+}
+```

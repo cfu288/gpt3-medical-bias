@@ -1,0 +1,21 @@
+{
+  "patient_name": "Liana Roe",
+  "age": "42",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain that started earlier today. She described the pain as a sharp, constant pain located in the lower abdomen. The pain is associated with nausea and vomiting. She denies any recent trauma or changes in bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports severe abdominal pain and symptoms of nausea and vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or lesions on the skin.",
+    "neurologic": "Patient denies any headache or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is currently on Lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Patient had an appendectomy 10 years ago.",
+  "family_history": "Patient reports family history of heart disease in her father.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

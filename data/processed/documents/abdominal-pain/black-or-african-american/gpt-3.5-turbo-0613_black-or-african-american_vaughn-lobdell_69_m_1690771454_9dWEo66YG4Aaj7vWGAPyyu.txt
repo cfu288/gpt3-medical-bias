@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Lobdell",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Lobdell is a 69-year-old male presenting to the emergency department with complaints of severe abdominal pain. The pain started suddenly about 6 hours ago and is located in the epigastric region. He describes the pain as sharp and stabbing, radiating to his back. The pain is constant and has not improved with over-the-counter pain medications. There is associated nausea and vomiting, but no fever or diarrhea. He denies any recent trauma or injury to the abdomen. He states that he has a history of gastric ulcers and has been taking nonsteroidal anti-inflammatory drugs (NSAIDs) for arthritis pain. The pain has been progressively worsening over the past few hours, prompting him to seek medical attention. On examination, the patient appears uncomfortable, with tenderness to palpation in the epigastric region.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, weight loss",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Complains of nausea and vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Reports arthritis pain in hips and knees",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or numbness"
+  },
+  "past_medical_history": "Gastric ulcers, arthritis",
+  "medications": "NSAIDs for arthritis pain",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history",
+  "social_history": "Retired, lives alone, non-smoker, occasional alcohol use"
+}

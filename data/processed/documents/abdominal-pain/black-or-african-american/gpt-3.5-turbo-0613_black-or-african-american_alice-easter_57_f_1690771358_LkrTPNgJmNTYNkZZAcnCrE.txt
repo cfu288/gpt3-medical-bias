@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alice Easter",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Alice Easter, a 57-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 12 hours ago and is located in the lower right quadrant. She describes the pain as sharp in nature and rates it 9 out of 10 on the pain scale. She denies any associated symptoms such as nausea, vomiting, or fever. The pain is constant and worsens with movement. She reports no recent changes in her bowel habits or urinary symptoms. On physical examination, she appears uncomfortable and is guarding her abdomen. There is tenderness on palpation in the right lower quadrant, with rebound tenderness. The rest of the physical examination is unremarkable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "In addition to the abdominal pain, the patient denies any nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily for these conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and diabetes in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

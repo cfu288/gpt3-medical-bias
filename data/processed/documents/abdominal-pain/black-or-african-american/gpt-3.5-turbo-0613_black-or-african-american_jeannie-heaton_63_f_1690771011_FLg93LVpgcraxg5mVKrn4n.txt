@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeannie Heaton",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Jeannie Heaton, a 63-year-old female, presents to the emergency department with complaints of severe abdominal pain. She states that the pain started about 6 hours ago and has been constant. The pain is located in the lower abdomen and is associated with bloating and nausea. She denies any recent changes in bowel habits or urinary symptoms. She has not had any fever, vomiting, or diarrhea. She states that the pain is worse with movement. On further questioning, the patient reports that she has had intermittent abdominal pain for several months, but this episode is more severe and different from her usual pain.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports intermittent episodes of constipation and diarrhea, but no recent changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency or urgency.",
+    "musculoskeletal": "The patient reports no joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient has no known family history of any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

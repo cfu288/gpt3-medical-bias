@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marilyn Mccrory",
+  "age": "62",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Marilyn Mccrory, a 62-year-old female, presents to the emergency department with chief complaint of abdominal pain. The pain started earlier today and is located in the lower right quadrant of her abdomen. She describes the pain as sharp and constant. There is no radiation of pain and no alleviating or exacerbating factors identified yet. The pain is associated with nausea but no vomiting or diarrhea. She denies any urinary symptoms or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or malaise.",
+    "cardiovascular": "No chest pain, palpitations or shortness of breath.",
+    "respiratory": "No cough or difficulty breathing.",
+    "gi": "Abdominal pain as described above, associated with nausea but no vomiting or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes Lisinopril 10mg once daily for hypertension and ibuprofen 200mg as needed for joint pain.",
+  "past_surgical_history": "No history of any surgeries.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

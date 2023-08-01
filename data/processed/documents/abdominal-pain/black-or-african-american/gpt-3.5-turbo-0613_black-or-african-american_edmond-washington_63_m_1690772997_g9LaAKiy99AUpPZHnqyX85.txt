@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmond Washington",
+  "age": "63",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of severe abdominal pain. Patient states that the pain started suddenly about 4 hours ago and is located in the lower right quadrant of the abdomen. Patient rates the pain as 8 out of 10 and describes it as a sharp, stabbing pain. The patient also reports nausea and a loss of appetite. Patient denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath or cough.",
+    "gi": "Patient reports abdominal pain and nausea. Denies any vomiting or diarrhea.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any neurological symptoms such as headache or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. Patient is on regular medications for these conditions.",
+  "medications": "Patient takes metformin for diabetes and lisinopril for hypertension.",
+  "past_surgical_history": "Patient had an appendectomy in 1999.",
+  "family_history": "Patient's father had a history of heart disease.",
+  "social_history": "Patient is a retired accountant. Patient denies tobacco or alcohol use."
+}

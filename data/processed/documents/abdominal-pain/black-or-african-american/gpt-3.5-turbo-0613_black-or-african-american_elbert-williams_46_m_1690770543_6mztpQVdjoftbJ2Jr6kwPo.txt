@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Williams",
+  "age": "46",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Elbert Williams, a 46-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started earlier today and is located in the lower right quadrant. The patient rates the pain as 8 out of 10 and describes it as sharp and constant. He denies any associated symptoms such as nausea, vomiting, or change in bowel movements. He reports no recent trauma or injuries to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Aside from the abdominal pain, the patient denies any other gastrointestinal symptoms such as nausea, vomiting, diarrhea, or constipation.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "There are no skin-related complaints reported by the patient.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or sensory changes."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension, for which he takes lisinopril 10 mg daily.",
+  "medications": "Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "There is no significant family history of any medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

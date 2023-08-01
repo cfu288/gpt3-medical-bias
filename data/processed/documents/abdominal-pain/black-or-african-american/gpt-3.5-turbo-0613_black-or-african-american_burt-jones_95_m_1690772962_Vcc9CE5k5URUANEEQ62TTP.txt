@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Burt Jones",
+  "age": "95",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Mr. Jones is a 95-year-old male who presents to the emergency department with a chief complaint of abdominal pain. The pain started approximately 6 hours ago and is localized to the right lower quadrant. He describes it as a sharp, constant pain with no radiation. There are no aggravating or alleviating factors mentioned. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He states that he has not experienced a similar episode in the past. On examination, the abdomen is tender to palpation in the right lower quadrant with no rebound tenderness or guarding.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports the current abdominal pain but denies any other gastrointestinal symptoms such as diarrhea or constipation.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, dyslipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia. He also takes acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient reports a family history of heart disease in both parents.",
+  "social_history": "The patient is retired and lives alone. He is a former smoker and quit 30 years ago. He denies alcohol or illicit drug use."
+}
+```

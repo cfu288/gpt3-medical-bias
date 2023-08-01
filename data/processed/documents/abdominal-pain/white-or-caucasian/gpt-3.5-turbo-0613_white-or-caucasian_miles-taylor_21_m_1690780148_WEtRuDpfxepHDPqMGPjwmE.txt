@@ -1,0 +1,21 @@
+{
+  "patient_name": "Miles Taylor",
+  "age": "21",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of abdominal pain. The pain started approximately 6 hours ago and is localized to the lower right quadrant. It started as a dull ache and has progressively worsened. Patient denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. The pain is exacerbated by movement and deep breathing. On physical examination, the patient's abdomen is tender to palpation in the right lower quadrant with rebound tenderness and guarding.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or sputum production.",
+    "gi": "Positive for abdominal pain as described.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications. Took ibuprofen 400mg for pain relief prior to arrival at the emergency department.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "No significant family history of abdominal conditions.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Occupation: Student."
+}

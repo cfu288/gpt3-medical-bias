@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wendell Johnson",
+  "age": "64",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Wendell Johnson, a 64-year-old male, presents to the emergency department with complaints of severe abdominal pain. He states that the pain started in the middle of his abdomen and has since moved to the lower right side. He rates the pain as 8 out of 10 in severity. The pain is constant and has been present for the past 12 hours. He denies any associated symptoms such as nausea, vomiting, or changes in bowel movements. He also denies any recent trauma or injury to the abdomen. Physical examination reveals tenderness in the right lower quadrant of the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath",
+    "respiratory": "No cough, wheezing, or shortness of breath",
+    "gi": "Abdominal pain as described above, no changes in bowel movements",
+    "gu": "No urinary symptoms such as dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or changes in skin",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes lisinopril 10mg daily for blood pressure control and atorvastatin 20mg daily for cholesterol management.",
+  "medications": "lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of major surgeries.",
+  "family_history": "The patient's father had a history of heart disease and his mother had a history of colon cancer.",
+  "social_history": "The patient is a retired teacher, non-smoker, and denies any alcohol or illicit drug use."
+}

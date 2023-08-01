@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcia Sampson",
+  "age": "69",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Marcia Sampson, a 69-year-old female, presents to the emergency department with complaints of severe abdominal pain. She describes the pain as a constant, burning sensation in the upper abdomen, radiating to the back. The pain started approximately 12 hours ago and has been gradually worsening since then. She denies any associated symptoms such as nausea, vomiting, or changes in bowel habits. She has not had any recent trauma or significant medical history. Upon further questioning, the patient reports a prior history of gallstones and underwent cholecystectomy 10 years ago. She states that she has not experienced any similar episodes of abdominal pain since the surgery. The patient has a history of hypertension and takes amlodipine 5mg daily. There is no family history of gastrointestinal disorders.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient reports abdominal pain as her chief complaint. There are no associated symptoms such as nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint or muscle pain.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and cholecystectomy.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient underwent cholecystectomy 10 years ago for gallstones.",
+  "family_history": "There is no family history of gastrointestinal disorders.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

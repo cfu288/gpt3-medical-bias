@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claire Crane",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Claire Crane, a 68-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started suddenly approximately 3 hours ago and is located in the upper abdomen. The patient reports that the pain is constant and has not improved or worsened since onset. She denies any associated symptoms such as nausea, vomiting, or diarrhea. The patient has no known medical conditions and has never experienced a similar episode in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for shortness of breath or cough.",
+    "gi": "Positive for abdominal pain as chief complaint. Denies nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has no documented past medical history.",
+  "medications": "The patient reports taking over-the-counter multivitamins daily but is not on any prescribed medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. She is a nonsmoker and does not consume alcohol."
+}

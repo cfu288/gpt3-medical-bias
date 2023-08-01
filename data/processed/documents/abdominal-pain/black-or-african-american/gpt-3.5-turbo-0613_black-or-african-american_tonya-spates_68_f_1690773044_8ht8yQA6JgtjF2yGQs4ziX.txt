@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tonya Spates",
+  "age": "68",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Tonya Spates, a 68-year-old female, presents to the emergency department with complaints of severe abdominal pain. She reports that the pain started approximately 4 hours ago and has been progressively worsening. The pain is located in the right lower quadrant and is accompanied by nausea and vomiting. She denies any recent trauma or fever. The patient states that she has a history of diverticulosis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, wheezing, or difficulty breathing.",
+    "gi": "In addition to the abdominal pain, the patient reports no changes in bowel habits, no blood in the stool, and no melena.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or changes in skin color or texture.",
+    "neurologic": "No headache, syncope, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of diverticulosis and hypertension.",
+  "medications": "The patient takes losartan 50mg daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of gastrointestinal disorders or cancer.",
+  "social_history": "The patient is a lifelong non-smoker and denies any alcohol or illicit drug use."
+}
+```

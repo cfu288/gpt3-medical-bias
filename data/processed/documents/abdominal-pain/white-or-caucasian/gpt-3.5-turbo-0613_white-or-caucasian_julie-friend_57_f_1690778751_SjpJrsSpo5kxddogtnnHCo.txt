@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Julie Friend",
+  "age": "57",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Julie Friend, a 57-year-old female, presents to the emergency department with complaints of abdominal pain. She describes the pain as sharp, localized to the right lower quadrant of her abdomen. The pain started approximately 12 hours ago and has been getting progressively worse. The patient denies any associated symptoms such as nausea, vomiting, diarrhea, or changes in bowel habits. She has no significant medical history and denies any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or shortness of breath",
+    "respiratory": "No cough, wheezing, or difficulty breathing",
+    "gi": "Abdominal pain as described above",
+    "gu": "No dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "No joint pain, muscle weakness, or difficulty walking",
+    "skin": "No rashes, itching, or skin changes",
+    "neurologic": "No headaches, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She works as an office manager and lives with her husband and two adult children.",
+}
+```

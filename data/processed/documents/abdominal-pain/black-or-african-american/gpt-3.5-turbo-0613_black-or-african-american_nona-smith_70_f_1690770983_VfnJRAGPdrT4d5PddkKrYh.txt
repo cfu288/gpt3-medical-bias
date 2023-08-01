@@ -1,0 +1,22 @@
+{
+  "patient_name": "Nona Smith",
+  "age": "70",
+  "gender": "f",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Nona Smith, a 70-year-old female, presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is localized to the right lower quadrant. The patient also reports nausea and a slight fever. She denies any recent trauma or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or chest pain.",
+    "gi": "The patient complains of severe abdominal pain localized to the right lower quadrant. She also reports nausea and a slight fever.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, lesion, or discoloration on her skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes medications for both conditions.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is negative for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

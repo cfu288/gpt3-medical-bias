@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vijay Vandebogart",
+  "age": "56",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Vandebogart, is a 56-year-old male who presents to the emergency department with complaints of severe abdominal pain. The pain is located in the upper abdomen and started approximately 6 hours ago. The patient describes the pain as a constant, sharp, and crampy sensation. He rates the pain intensity as an 8 out of 10 and states that it is worse with movement. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He reports that the pain is not relieved with over-the-counter pain medications. He denies any recent trauma or injury. On further questioning, the patient reports a history of occasional episodes of similar abdominal pain, but never as severe as the current episode. He states that the previous episodes usually resolved spontaneously within a few hours. He denies any significant medical history or recent changes in his medications. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Positive for severe abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary habits.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies taking any regular medications.",
+  "past_surgical_history": "The patient reports no prior surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an accountant and reports no significant occupational exposures."
+}

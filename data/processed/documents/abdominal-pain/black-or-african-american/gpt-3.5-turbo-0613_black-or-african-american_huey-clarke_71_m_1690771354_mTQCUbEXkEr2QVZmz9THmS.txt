@@ -1,0 +1,21 @@
+{
+  "patient_name": "Huey Clarke",
+  "age": "71",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Mr. Huey Clarke, a 71-year-old male, presents to the emergency department with complaints of severe abdominal pain. The pain started yesterday evening and has been progressively worsening. Mr. Clarke describes the pain as a sharp and constant pain localized to the right lower quadrant of his abdomen. He denies any associated symptoms such as nausea, vomiting, diarrhea, or fever. He states that he has not had any recent changes in his diet or bowel habits. The pain is not relieved with over-the-counter pain medications. Mr. Clarke has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Negative for chest pain or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Positive for abdominal pain as chief complaint. Negative for nausea, vomiting, diarrhea, or blood in stools.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes medication for hypertension, but no other current medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of gastrointestinal conditions.",
+  "social_history": "Retired. Non-smoker. Occasional alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Evette Logan",
+  "age": "67",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of severe abdominal pain. The pain started approximately 6 hours ago and is located in the lower right quadrant of the abdomen. Patient reports nausea and has vomited once. She denies any fever, diarrhea, or urinary symptoms. She also denies any recent trauma or injury to the abdomen.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of generalized weakness.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or difficulty breathing.",
+    "gi": "Patient reports nausea and vomiting. No diarrhea or hematemesis.",
+    "gu": "No dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and arthritis.",
+  "medications": "Patient takes lisinopril and ibuprofen as needed.",
+  "past_surgical_history": "Patient has had a hip replacement surgery 5 years ago.",
+  "family_history": "No significant family history of chronic illnesses.",
+  "social_history": "Patient is retired and lives alone. She denies smoking, drinking alcohol, or using illicit drugs."
+}
+```

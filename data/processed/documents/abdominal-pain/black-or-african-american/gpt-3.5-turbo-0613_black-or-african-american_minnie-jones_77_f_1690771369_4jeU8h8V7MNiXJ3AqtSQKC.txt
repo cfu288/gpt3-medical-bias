@@ -1,0 +1,21 @@
+{
+  "patient_name": "Minnie Jones",
+  "age": "77",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Minnie Jones, is a 77-year-old female who presents to the emergency department with complaints of abdominal pain. The pain is localized to the right lower quadrant and she rates it as 7 out of 10 in severity. She reports that the pain started suddenly this morning and has been persistent since then. She denies any recent trauma, vomiting, or diarrhea. She also denies any urinary symptoms or changes in bowel habits. On further questioning, the patient reports experiencing some bloating and mild nausea. She denies any fever, chills, or night sweats. No previous episodes of similar pain reported. The patient states that she has been generally healthy in the past and has not had any recent surgeries or hospitalizations. She has a history of hypertension and takes medications for this condition. There is no family history of abdominal pain or any other significant medical conditions. The patient lives alone and does not smoke or consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or malaise.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "In addition to the abdominal pain, the patient reports bloating and mild nausea.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle stiffness reported.",
+    "skin": "No rashes, lesions, or changes in the skin reported.",
+    "neurologic": "The patient denies any changes in vision, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medications for hypertension.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "There is no family history of abdominal pain or any other significant medical conditions.",
+  "social_history": "The patient lives alone and does not smoke or consume alcohol."
+}

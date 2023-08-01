@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lisa Wallace",
+  "age": "62",
+  "chief_complaint": "Abdominal Pain",
+  "history_of_present_illness": "The patient, Lisa Wallace, is a 62-year-old female who presents to the emergency department with a chief complaint of abdominal pain. She describes the pain as a constant dull ache in the lower abdomen that started yesterday morning. She rates the pain as a 7 out of 10 and states that it is worse with movement. She denies any associated nausea, vomiting, diarrhea, or changes in appetite. The patient reports no history of trauma or recent travel. She denies any urinary or bowel complaints. She states that she has tried taking over-the-counter medications for pain relief, but they have not provided much relief.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or difficulty breathing.",
+    "gi": "Positive for abdominal pain as described above. Negative for nausea, vomiting, diarrhea, or changes in appetite.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia. She is not currently taking any over-the-counter medications for her abdominal pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is significant for diabetes in her father and breast cancer in her sister.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is retired and lives alone. She denies any illicit drug use."
+}
