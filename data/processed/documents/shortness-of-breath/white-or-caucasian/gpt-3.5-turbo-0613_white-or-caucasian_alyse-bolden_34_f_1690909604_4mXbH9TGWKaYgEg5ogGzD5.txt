@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alyse Bolden",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Alyse Bolden, a 34-year-old female presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began approximately 3 hours ago and has been progressively worsening since then. She also reports associated symptoms of wheezing and chest tightness. The patient denies any recent illness or exposure to sick contacts. She has no history of asthma or other respiratory conditions. Upon further questioning, she reports no other associated symptoms such as cough, fever, or chills. She has not tried any home remedies or over-the-counter medications for her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath, wheezing, and chest tightness.",
+    "gi": "The patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of respiratory or cardiovascular conditions.",
+  "social_history": "The patient denies tobacco use and illicit drug use. She reports occasional alcohol consumption. She is currently unemployed and lives alone."
+}
+```

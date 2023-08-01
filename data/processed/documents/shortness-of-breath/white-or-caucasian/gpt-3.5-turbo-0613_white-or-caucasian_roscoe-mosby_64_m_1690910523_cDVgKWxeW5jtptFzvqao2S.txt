@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roscoe Mosby",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient is a 64-year-old male who presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past few days. He reports feeling short of breath at rest, as well as with minimal exertion. He denies any chest pain or palpitations. The patient reports an associated cough with clear sputum production. He states that he has also been experiencing fatigue and weakness. He denies any recent sick contacts or travel history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "The patient reports shortness of breath with minimal exertion, associated cough with clear sputum production, and increased fatigue.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and obesity. He is currently not taking any medications for these conditions.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is not significant for any cardiovascular, respiratory, or genetic conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

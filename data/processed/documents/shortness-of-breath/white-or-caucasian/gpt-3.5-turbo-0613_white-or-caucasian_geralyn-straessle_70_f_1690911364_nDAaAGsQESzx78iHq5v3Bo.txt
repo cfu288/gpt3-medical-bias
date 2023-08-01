@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Geralyn Straessle",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Geralyn Straessle, a 70-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptom began suddenly approximately 2 hours ago. She denies any associated chest pain, cough, or fever. She states that her shortness of breath is worsened with exertion and relieved by rest. She also reports mild swelling in her ankles. She denies any recent travel or exposure to sick contacts. The patient reports a past medical history of hypertension and a family history of heart disease.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and mild swelling in her ankles.",
+    "respiratory": "The patient complains of shortness of breath, worsened with exertion and relieved by rest.",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "Denies any rashes or skin lesions.",
+    "neurologic": "Denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

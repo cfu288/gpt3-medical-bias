@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ward Butler",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past 2 days. He denies any associated chest pain, cough, or fever. He also denies any recent illness or travel. Initially, he tried using his prescribed inhaler at home but did not achieve any relief. His symptoms prompted him to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, persistent cough",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No numbness, weakness, or changes in speech"
+  },
+  "past_medical_history": "Patient has a history of asthma and hypertension. He reports using an albuterol inhaler for his asthma symptoms as needed. He is also on medications for his blood pressure, including amlodipine and lisinopril.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms, amlodipine 5mg daily for blood pressure, lisinopril 20mg daily for blood pressure",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history of respiratory diseases or cardiovascular diseases",
+  "social_history": "Patient is a current smoker, with a history of smoking 1 pack per day for the past 30 years."
+}

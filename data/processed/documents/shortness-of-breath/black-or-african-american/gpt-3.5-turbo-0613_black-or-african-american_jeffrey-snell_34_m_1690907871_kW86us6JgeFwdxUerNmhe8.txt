@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeffrey Snell",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jeffrey Snell, is a 34-year-old male who presents to the emergency department with the chief complaint of shortness of breath. He reports that his symptoms started approximately 2 hours ago. He describes the shortness of breath as sudden and severe, accompanied by worsening chest tightness and wheezing. He denies any associated cough, fever, or sputum production. He reports no history of similar symptoms in the past. He denies any recent illnesses or exposures. He states that he has no significant medical history and is not currently taking any medications. He denies any recent surgeries or hospitalizations. He reports no family history of respiratory conditions. Upon further questioning, he reveals that he has a history of smoking, with a 10 pack-year smoking history. He denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath, wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or syncope"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not taking any medications",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No family history of respiratory conditions",
+  "social_history": "10 pack-year smoking history, denies alcohol or illicit drug use"
+}

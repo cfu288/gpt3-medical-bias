@@ -1,0 +1,27 @@
+{
+  "patient_name": "Anderson Coon",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Coon is a 27-year-old male presenting to the emergency department with complaints of shortness of breath. He reports that the symptoms began this morning and have been worsening throughout the day. He denies any chest pain or cough. He states that he has not had any recent illnesses or infections. Upon further questioning, he admits to a history of seasonal allergies, but denies any recent exposure to allergens or triggers. He has not taken any over-the-counter medications for his symptoms.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Positive for shortness of breath, denies cough or sputum production",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or changes in urinary frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or itching",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  
+  "past_medical_history": "Mr. Coon has a history of seasonal allergies but is otherwise healthy. He does not have any chronic medical conditions or significant past medical history.",
+  
+  "medications": "Mr. Coon does not take any medications on a regular basis and denies any allergies to medications.",
+  
+  "past_surgical_history": "Negative for any past surgeries or procedures.",
+  
+  "family_history": "Negative for any significant family history of respiratory conditions or allergies.",
+  
+  "social_history": "Mr. Coon is a non-smoker and denies any alcohol or drug use. He works as an office manager and does not have any occupational exposures."
+}

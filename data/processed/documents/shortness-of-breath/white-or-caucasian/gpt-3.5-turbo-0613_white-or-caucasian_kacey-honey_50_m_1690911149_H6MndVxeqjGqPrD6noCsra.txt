@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kacey Honey",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kacey Honey, a 50-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the shortness of breath began suddenly this morning and has been progressively worsening throughout the day. He also reports accompanying symptoms of wheezing and chest tightness. There is no known precipitating event or exposure to allergens. The patient denies any fevers, cough, sputum production, or hemoptysis. He does not have any history of respiratory conditions such as asthma or COPD.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath, wheezing, and chest tightness.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "There are no reports of headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes Lisinopril 20 mg daily and Atorvastatin 40 mg daily, respectively. He has not had any recent changes in his medications or dosages.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia. His father had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as an office manager and has no occupational exposures."
+}
+```

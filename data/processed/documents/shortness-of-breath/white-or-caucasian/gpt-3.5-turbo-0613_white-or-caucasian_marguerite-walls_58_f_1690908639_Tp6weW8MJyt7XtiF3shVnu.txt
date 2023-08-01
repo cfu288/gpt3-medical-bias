@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marguerite Walls",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marguerite Walls, a 58-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly approximately 2 hours ago while she was at rest. She denies any associated chest pain, cough, or fever. She states that her shortness of breath has progressively worsened since onset. The patient also reports feeling slightly lightheaded and weak. She denies any recent illness, changes in medication, or exposure to allergens. She states that she has a history of hypertension and takes medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her legs.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint. She denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limited range of motion.",
+    "skin": "The patient denies any rash, itching, or changes in the appearance of her skin.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling in her extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and takes lisinopril as her only medication.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular, respiratory, or other chronic diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone."
+}
+```

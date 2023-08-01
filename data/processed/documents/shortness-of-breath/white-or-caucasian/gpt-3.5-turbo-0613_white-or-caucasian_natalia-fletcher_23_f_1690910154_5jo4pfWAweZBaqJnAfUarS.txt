@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Natalia Fletcher",
+  "age": "23",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Natalia Fletcher, a 23-year-old female, presents to the emergency department with the chief complaint of shortness of breath. She reports that her shortness of breath started two hours ago and has been progressively worsening since then. She denies any associated chest pain, cough, or fever. She states that she has no significant past medical history and has never experienced symptoms like this before. She does not smoke, drink alcohol, or use any recreational drugs.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, non-drinker, and no recreational drug use."
+}
+```

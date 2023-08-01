@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sidney Walton",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sidney Walton, a 60-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing progressively worsening shortness of breath for the past 2 days. She denies any associated chest pain, cough, or fever. The patient states that she also feels fatigued and has noticed swelling in her ankles. She denies any recent travel, exposure to sick contacts, or known allergies. Upon further questioning, she reports a past medical history of hypertension and hyperlipidemia, for which she takes medications (amlodipine and atorvastatin) daily. She has no known drug allergies. The patient denies any recent surgeries or hospitalizations. Her family history is significant for hypertension and heart disease. In terms of her social history, she is a nonsmoker and does not consume alcohol. She is retired and lives with her husband. She denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports swelling in her ankles but denies any chest pain or palpitations.",
+    "respiratory": "The patient presents with shortness of breath but denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Hypertension, heart disease",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She denies any illicit drug use. She is retired and lives with her husband."
+}

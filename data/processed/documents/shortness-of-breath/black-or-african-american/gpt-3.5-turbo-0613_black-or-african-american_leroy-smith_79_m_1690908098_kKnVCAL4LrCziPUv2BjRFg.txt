@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leroy Smith",
+  "age": "79",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Leroy Smith, a 79-year-old male, presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing difficulty breathing for the past 2 days, which has been progressively worsening. He reports associated cough and increased mucus production. The patient denies any fever, chest pain, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Increased dyspnea and cough with increased mucus production",
+    "gi": "No abdominal pain or changes in bowel habits",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No weakness or numbness"
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "The patient is currently taking lisinopril for hypertension, atorvastatin for hyperlipidemia, and albuterol inhaler for COPD.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a retired mechanic, non-smoker, and denies any alcohol or illicit drug use."
+}

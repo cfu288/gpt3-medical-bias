@@ -1,0 +1,21 @@
+{
+  "patient_name": "Louella Rodgers",
+  "age": "95",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath that started approximately 2 hours ago. Patient reports feeling tired and having difficulty breathing even at rest. No associated chest pain or cough. No recent illness or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats",
+    "cardiovascular": "Denies palpitations or chest pain",
+    "respiratory": "Patient reports shortness of breath that started approximately 2 hours ago. No associated cough or wheezing",
+    "gi": "Denies gastrointestinal symptoms",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Denies musculoskeletal symptoms",
+    "skin": "Denies rashes or skin lesions",
+    "neurologic": "Denies neurologic symptoms"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5 mg daily and atorvastatin 40 mg daily.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient denies family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or illicit drugs."
+}

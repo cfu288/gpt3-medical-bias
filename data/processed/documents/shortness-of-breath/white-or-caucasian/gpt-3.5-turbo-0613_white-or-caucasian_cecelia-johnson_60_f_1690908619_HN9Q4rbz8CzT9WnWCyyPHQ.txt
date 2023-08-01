@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecelia Johnson",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Cecelia Johnson, a 60-year-old female, presents to the emergency department with complaints of shortness of breath. She states that the difficulty in breathing started suddenly about 2 hours ago and has been progressively worsening. She reports that she was at rest when the symptoms began. She denies any chest pain, cough, fever, or leg swelling. She further reports that she has a history of chronic obstructive pulmonary disease (COPD). She was previously a smoker but quit 5 years ago. She has been compliant with her inhalers and has not had any recent exacerbations. Her home oxygen saturation is usually 92-94%. She denies any recent illnesses or changes in her medication regimen.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or fatigue",
+    "cardiovascular": "No palpitations or edema",
+    "respiratory": "Shortness of breath, with no cough or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD)",
+  "medications": "Albuterol inhaler 2 puffs PRN for shortness of breath",
+  "past_surgical_history": "None",
+  "family_history": "No family history of lung diseases",
+  "social_history": "Former smoker, quit 5 years ago"
+}

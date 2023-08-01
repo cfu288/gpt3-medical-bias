@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Annette Randall",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Annette Randall, a 46-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her shortness of breath started approximately 2 hours ago and has been progressively worsening. She denies any prior episodes of shortness of breath or similar symptoms in the past. She states that she has also been experiencing mild chest discomfort and fatigue. She has no known allergies and her general health has been otherwise good.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports mild chest discomfort but denies palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath that worsens with exertion and improves with rest. She denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies headaches, dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hypercholesterolemia. She takes metoprolol for her hypertension and atorvastatin for her hypercholesterolemia.",
+  "medications": "Metoprolol 25 mg once daily, Atorvastatin 20 mg once daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in her mother and a brother with asthma.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a nurse and lives alone."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melvin Gault",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Gault is a 73-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past few days. He notes that he is also feeling fatigued and has noticed a decrease in his appetite. Mr. Gault denies any chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued",
+    "cardiovascular": "No chest pain or palpitations reported",
+    "respiratory": "Chief complaint of shortness of breath",
+    "gi": "Patient reports a decrease in appetite",
+    "gu": "No urinary symptoms reported",
+    "musculoskeletal": "No joint pain or swelling reported",
+    "skin": "No rashes or lesions reported",
+    "neurologic": "No headaches or dizziness reported"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. He also has a remote history of a myocardial infarction 5 years ago.",
+  "medications": "Mr. Gault is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient reports no previous surgeries.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Mr. Gault is a retired teacher and lives alone. He denies any tobacco or alcohol use."
+}

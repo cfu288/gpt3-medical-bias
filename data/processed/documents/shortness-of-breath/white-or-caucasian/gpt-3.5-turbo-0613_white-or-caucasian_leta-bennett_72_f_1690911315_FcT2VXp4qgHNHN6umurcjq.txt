@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leta Bennett",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Leta Bennett, a 72-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increased difficulty breathing over the past few days. She denies any associated chest pain or cough. She has a past medical history significant for hypertension and hyperlipidemia. She is on medication for both conditions. She denies any recent illnesses or changes in her medications. She also reports a past surgical history of a cholecystectomy. Her family history is significant for cardiovascular disease in her father. She is a non-smoker and does not drink alcohol. She lives alone and denies any occupational or environmental exposures that could be contributing to her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath with exertion, orthopnea, and paroxysmal nocturnal dyspnea.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or changes in the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Amlodipine 5 mg once daily and Atorvastatin 20 mg once daily",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Cardiovascular disease in father",
+  "social_history": "Non-smoker, no alcohol use, no occupational or environmental exposures"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Loren Johnson",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Johnson, is a 65-year-old male who presents to the emergency department with complaints of acute onset shortness of breath. He reports that the shortness of breath started suddenly about an hour ago and has been progressively worsening. He denies any preceding trauma or known triggers. The patient states that he has been experiencing some chest tightness and is also coughing up phlegm. He denies any associated chest pain, fever, or other respiratory symptoms. Upon further questioning, he admits to a history of smoking for 20 years, but quit 10 years ago. He denies any known history of lung disease or other chronic medical conditions.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or recent weight changes.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Reports acute onset shortness of breath, chest tightness, and productive cough.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any skin rashes or lesions.",
+    "neurologic": "Denies any dizziness, weakness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well controlled with medications. He also has a history of smoking for 20 years, but quit 10 years ago.",
+  "medications": "The patient currently takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and coronary artery disease in his father.",
+  "social_history": "The patient is a retired construction worker. He has a 20 pack-year smoking history but quit 10 years ago. He denies any alcohol or drug use."
+}

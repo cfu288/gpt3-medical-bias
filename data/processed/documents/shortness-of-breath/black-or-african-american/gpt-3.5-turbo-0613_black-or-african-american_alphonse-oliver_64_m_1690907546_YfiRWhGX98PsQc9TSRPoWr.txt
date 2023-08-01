@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Oliver",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Alphonse Oliver, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing progressively worsening shortness of breath over the past week. Initially, the symptoms were only present with exertion, but now he experiences shortness of breath at rest as well. The patient denies any associated chest pain, cough, wheezing, or orthopnea. He also reports no fevers, chills, or recent illnesses. His medical history is significant for hypertension and hyperlipidemia. He takes medications for both conditions, which include lisinopril and atorvastatin. There have been no recent changes to his medications or dosages. The patient denies any prior surgeries or hospitalizations. There is no significant family history of cardiovascular or respiratory diseases. No recent travels or sick contacts. The patient has a 30-year history of smoking and currently smokes a pack of cigarettes per day. He also admits to occasional alcohol use, with 1-2 drinks per week. The patient has been working as a construction worker for the past 40 years and denies any exposure to environmental toxins or chemicals.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats.",
+    "cardiovascular": "Reports intermittent chest tightness but denies any associated chest pain, palpitations, or lightheadedness.",
+    "respiratory": "Experiences increasing dyspnea on exertion and at rest. Denies cough, wheezing, or hemoptysis.",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint or muscle pain.",
+    "skin": "No rashes, skin lesions, or discolorations.",
+    "neurologic": "No headaches, dizziness, numbness, tingling, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient has a 30-year history of smoking and currently smokes a pack of cigarettes per day. He also admits to occasional alcohol use, with 1-2 drinks per week. The patient has been working as a construction worker for the past 40 years and denies any exposure to environmental toxins or chemicals."
+}

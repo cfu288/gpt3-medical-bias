@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ernest Carter",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Carter is a 43-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started suddenly about 2 hours ago. Mr. Carter states that the shortness of breath is associated with mild chest pain and cough. He denies any fever, chills, or recent illnesses. The patient states that he has a history of smoking for the past 20 years, with a pack-a-day habit. He also reports occasional use of marijuana. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Mild chest pain reported. No palpitations or edema.",
+    "respiratory": "Shortness of breath and cough reported. Denies wheezing or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Mr. Carter has a history of smoking for the past 20 years, with a pack-a-day habit. He reports occasional marijuana use, but denies any other significant past medical history.",
+  "medications": "Mr. Carter denies any current medications or allergies.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient has a 20-year history of smoking with a pack-a-day habit. He also reports occasional use of marijuana."
+}
+```

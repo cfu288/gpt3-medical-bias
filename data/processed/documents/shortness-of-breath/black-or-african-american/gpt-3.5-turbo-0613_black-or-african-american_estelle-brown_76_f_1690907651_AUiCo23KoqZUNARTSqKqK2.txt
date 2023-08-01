@@ -1,0 +1,21 @@
+{
+  "patient_name": "Estelle Brown",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started suddenly about 2 hours ago. She denies any associated chest pain, coughing, or wheezing. Patient states that she has a history of hypertension and takes medication for it. She denies any recent exposure to sick contacts or travel.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath, but no cough or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Hypertension and diabetes",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol regularly."
+}

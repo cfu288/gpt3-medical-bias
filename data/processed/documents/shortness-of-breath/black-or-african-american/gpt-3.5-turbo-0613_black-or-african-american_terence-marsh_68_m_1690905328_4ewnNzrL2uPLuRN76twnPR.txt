@@ -1,0 +1,22 @@
+{
+    "patient_name": "Terence Marsh",
+    "age": "68",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "The patient, Terence Marsh, a 68-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started about 2 hours ago while he was at rest. He describes the shortness of breath as sudden onset, severe, and associated with mild chest pain. He denies any other associated symptoms such as cough, fever, or leg swelling. He states that he has a history of hypertension and is currently taking medication for it. His breathing difficulty has not improved with his home medications and prompted him to seek medical attention.",
+    
+    "review_of_symptoms": {
+        "constitutional": "Negative for fever, chills, or weight loss.",
+        "cardiovascular": "Positive for mild chest pain.",
+        "respiratory": "Positive for shortness of breath.",
+        "gi": "Negative for nausea, vomiting, or abdominal pain.",
+        "gu": "Negative for urinary symptoms.",
+        "musculoskeletal": "Negative for joint pain or swelling.",
+        "skin": "Negative for rashes or skin lesions.",
+        "neurologic": "Negative for headache, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "The patient is currently taking medication for hypertension.",
+    "past_surgical_history": "No significant past surgical history.",
+    "family_history": "No significant family history.",
+    "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

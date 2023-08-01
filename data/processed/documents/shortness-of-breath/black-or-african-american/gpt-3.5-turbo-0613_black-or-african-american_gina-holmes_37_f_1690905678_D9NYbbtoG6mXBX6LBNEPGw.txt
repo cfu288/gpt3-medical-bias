@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gina Holmes",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that the shortness of breath began approximately 2 hours ago and has been progressively worsening. She denies any associated chest pain or cough. She is currently unable to speak in full sentences due to the shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath with minimal exertion. Denies cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in skin appearance.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a history of asthma, which is well-controlled with daily use of an inhaler. She reports no other significant medical history.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "Patient denies any prior surgeries.",
+  "family_history": "Patient reports no significant family history of cardiac or respiratory conditions.",
+  "social_history": "Patient denies tobacco or illicit drug use. She reports occasional alcohol consumption."
+}

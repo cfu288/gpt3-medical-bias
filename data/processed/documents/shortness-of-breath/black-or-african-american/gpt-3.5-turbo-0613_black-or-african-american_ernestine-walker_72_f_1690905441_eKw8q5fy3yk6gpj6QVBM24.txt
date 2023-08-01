@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ernestine Walker",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started approximately 2 hours ago and have been progressively worsening. Patient denies any associated chest pain, cough, or fever. On further questioning, patient reports a history of asthma and occasional use of a rescue inhaler. No recent changes in medications or exposures.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss",
+    "cardiovascular": "Patient denies any chest pain or palpitations",
+    "respiratory": "Patient reports shortness of breath on exertion. Denies any cough or wheezing",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting",
+    "gu": "Patient denies any urinary symptoms",
+    "musculoskeletal": "Patient denies any muscle or joint pain",
+    "skin": "Patient denies any rashes, lesions, or new skin changes",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Uses a rescue inhaler as needed for asthma symptoms",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, lives alone, no recent travel or sick contacts"
+}

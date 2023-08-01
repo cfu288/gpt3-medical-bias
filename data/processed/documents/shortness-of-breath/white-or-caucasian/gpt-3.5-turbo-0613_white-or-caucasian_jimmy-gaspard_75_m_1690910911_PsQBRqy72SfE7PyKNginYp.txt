@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jimmy Gaspard",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of shortness of breath. He reports that the symptoms started 2 hours ago and have been progressively worsening. He denies any associated chest pain, fever, cough, or wheezing. He states that he has a history of chronic obstructive pulmonary disease (COPD) and has been using his inhalers as prescribed. He also notes that he has been feeling more fatigued than usual lately.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fever, or night sweats",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling",
+    "respiratory": "Patient reports shortness of breath with minimal exertion. Denies cough or wheezing",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel habits",
+    "gu": "Patient denies any urinary symptoms",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness",
+    "skin": "Patient denies any rash or changes in the skin",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia. He is not currently on home oxygen therapy.",
+  "medications": "Patient is currently taking albuterol inhaler, ipratropium bromide inhaler, lisinopril, and atorvastatin",
+  "past_surgical_history": "Patient has no history of any major surgeries",
+  "family_history": "Patient's family history is significant for coronary artery disease",
+  "social_history": "Patient is a former smoker, but quit 10 years ago. He denies any alcohol or illicit drug use."
+}

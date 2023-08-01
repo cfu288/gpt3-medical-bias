@@ -1,0 +1,21 @@
+{
+  "patient_name": "Trey Loch",
+  "age": "52",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Trey Loch, a 52-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started suddenly approximately 2 hours ago and have been progressively worsening. He denies any associated chest pain or cough. He also denies any recent travel or exposure to sick contacts. He states that he has a history of smoking but quit 10 years ago. Upon examination, the patient appears anxious and is using accessory muscles to breathe. Auscultation of the lungs reveals bilateral inspiratory crackles. Vital signs are as follows: heart rate 110 bpm, blood pressure 140/90 mmHg, respiratory rate 24 breaths per minute, oxygen saturation 92% on room air. Given the acuity of the symptoms and the patient's presentation, I am concerned about possible acute respiratory distress syndrome (ARDS) or congestive heart failure. Further evaluation and management are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "Shortness of breath is the primary complaint. No cough or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "No headaches, dizziness, or focal neurological deficits reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and diabetes.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He drinks alcohol socially but denies any illicit drug use."
+}

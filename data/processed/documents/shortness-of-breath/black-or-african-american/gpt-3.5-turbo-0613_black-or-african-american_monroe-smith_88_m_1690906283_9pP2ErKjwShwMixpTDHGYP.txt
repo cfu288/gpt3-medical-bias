@@ -1,0 +1,21 @@
+{
+  "patient_name": "Monroe Smith",
+  "age": "88",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Smith is an 88-year-old male who presented to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago while he was resting at home. He says that the shortness of breath is associated with cough and mild chest discomfort. He denies any other symptoms such as fever, chills, palpitations, or leg swelling.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "Mild chest discomfort. No palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Mr. Smith has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "He takes lisinopril, atorvastatin, and albuterol inhaler as needed for COPD.",
+  "past_surgical_history": "Patient denies any significant past surgical history.",
+  "family_history": "Patient's family history is significant for hypertension and lung cancer in his father.",
+  "social_history": "Patient is an ex-smoker and quit smoking 10 years ago. He does not consume alcohol."
+}

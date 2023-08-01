@@ -1,0 +1,21 @@
+{
+  "patient_name": "Seamus Johnson",
+  "age": "31",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Seamus Johnson presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom started suddenly about an hour ago and has been progressively worsening. He denies any associated chest pain, cough, fever, or other symptoms. He states that he has never experienced this symptom before and it is significantly affecting his ability to breathe comfortably.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath as his chief complaint. He denies any history of asthma or chronic obstructive pulmonary disease.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history. He states that he is generally healthy and has not had any major illnesses or surgeries in the past.",
+  "medications": "Patient states that he is not currently taking any medications.",
+  "past_surgical_history": "Patient reports no history of previous surgeries.",
+  "family_history": "Patient states that there is no significant family history of cardiovascular disease, respiratory disease, or any other relevant medical conditions.",
+  "social_history": "Patient reports being a non-smoker and denies any history of alcohol or drug abuse. He works as a software engineer and does not have any known occupational exposures."
+}

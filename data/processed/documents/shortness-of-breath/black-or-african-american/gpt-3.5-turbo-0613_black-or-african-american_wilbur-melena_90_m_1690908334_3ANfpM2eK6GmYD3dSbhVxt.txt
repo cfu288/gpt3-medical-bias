@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbur Melena",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Wilbur Melena, is a 90-year-old male who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing gradually worsening shortness of breath over the past few days. He states that even minimal exertion, such as walking a short distance, leaves him feeling extremely breathless. He denies any associated chest pain, cough, or sputum production. He has no history of similar symptoms in the past and denies any recent illness or exposure to sick contacts. It is important to note that he has a history of chronic obstructive pulmonary disease (COPD), for which he is prescribed inhalers, but he states that his symptoms are different from his usual COPD symptoms. Upon further inquiry, he also reports having paroxysmal nocturnal dyspnea and orthopnea. Review of systems otherwise negative.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath with minimal exertion, paroxysmal nocturnal dyspnea, and orthopnea.",
+    "gi": "No nausea, vomiting, dysphagia, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "No rashes, itching, or changes in pigmentation.",
+    "neurologic": "No headaches, dizziness, syncope, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient is currently taking albuterol and ipratropium inhalers for his COPD, as well as lisinopril for his hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "There is no significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a retired accountant, widowed, and lives alone. He denies any history of tobacco, alcohol, or illicit drug use."
+}

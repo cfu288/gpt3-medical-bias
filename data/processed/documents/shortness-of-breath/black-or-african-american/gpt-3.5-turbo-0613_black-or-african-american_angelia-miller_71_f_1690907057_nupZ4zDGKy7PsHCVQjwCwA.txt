@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Angelia Miller",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath. She reports that the symptom started suddenly about an hour ago and has been progressively worsening since then. She denies any associated chest pain, but does report mild cough and fever. She has no prior history of similar symptoms. No known exposures or recent travel. Upon arrival, her vital signs were stable. Physical examination revealed increased respiratory rate and decreased breath sounds on the left side.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, cough",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or itching",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "No significant family history of cardiovascular or pulmonary diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

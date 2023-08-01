@@ -1,0 +1,21 @@
+{
+  "patient_name": "Luke Brazill",
+  "age": "31",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset of shortness of breath. Patient reports difficulty in breathing and feels as if he cannot get enough air. He denies any chest pain, cough, or wheezing. Symptoms started approximately 2 hours ago. Patient has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath. Denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rash or skin lesions reported.",
+    "neurologic": "No headache, dizziness, or weakness reported."
+  },
+  "past_medical_history": "Patient has a history of asthma and is prescribed an albuterol inhaler for symptom relief. No other significant past medical history reported.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Non-contributory.",
+  "social_history": "Patient is a non-smoker and denies any illicit drug use. No significant alcohol intake. He works as a software engineer and lives a sedentary lifestyle."
+}

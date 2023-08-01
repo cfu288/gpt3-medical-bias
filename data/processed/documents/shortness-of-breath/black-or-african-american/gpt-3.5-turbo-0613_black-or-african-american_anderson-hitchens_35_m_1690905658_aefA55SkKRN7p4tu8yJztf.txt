@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Anderson Hitchens",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Anderson Hitchens, is a 35-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing this symptom for the past 2 days and it has been progressively worsening. He denies any associated chest pain, cough, fever, or sputum production. He states that he has a history of asthma and uses an inhaler as needed.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "In addition to the chief complaint of shortness of breath, the patient denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma, for which he uses an inhaler as needed. He reports no other significant medical history.",
+  "medications": "The patient currently uses an albuterol inhaler as needed for his asthma symptoms.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient reports no significant family history of respiratory disorders or other chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and has no known exposure to occupational or environmental hazards."
+}
+```

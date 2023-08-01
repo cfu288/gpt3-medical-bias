@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chase Lessard",
+  "age": "20",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Lessard is a 20-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms began approximately 2 hours ago. He denies any recent illness or trauma. He states that his shortness of breath is worse with exertion and improves when he rests. He describes the sensation as if he cannot get enough air and reports associated chest tightness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or orthopnea.",
+    "respiratory": "Reports shortness of breath worse with exertion and improved with rest. Denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash, itching, or lesions noted.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "None.",
+  "past_surgical_history": "No prior surgeries reported.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient denies any tobacco, alcohol, or illicit drug use. He is not currently sexually active."
+}
+```

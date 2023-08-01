@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mercy Hooker",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mercy Hooker, a 70-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly about an hour ago while she was resting at home. She describes it as a feeling of difficulty breathing and tightness in her chest. The symptoms have been associated with mild cough and low-grade fever. There is no history of recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "No history of chest pain, palpitations, edema, or leg swelling.",
+    "respiratory": "Reports shortness of breath and mild cough.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain, muscle weakness, or difficulty ambulating.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headache, dizziness, syncope, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily and atorvastatin 20 mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient reports a family history of hypertension in both parents and a history of stroke in her father.",
+  "social_history": "The patient is a non-smoker, denies alcohol or illicit drug use, and lives independently at home."
+}
+```

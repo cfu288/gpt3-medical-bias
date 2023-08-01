@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pete Hart",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Hart is a 66-year-old male who presented to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started suddenly about 2 hours ago and have been getting progressively worse. He denies any associated chest pain or cough. He also states that he has been feeling weak and fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for weakness and fatigue. Denies fever, chills, night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or racing heart.",
+    "respiratory": "Positive for shortness of breath, especially with exertion. Denies cough, wheezing, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or strength."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently not compliant with his medication regimen.",
+  "medications": "The patient is prescribed lisinopril for hypertension and atorvastatin for hyperlipidemia, but he is not taking them regularly.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in both parents.",
+  "social_history": "The patient is a current smoker, with a 30 pack-year history. He does not consume alcohol or use illicit drugs."
+}

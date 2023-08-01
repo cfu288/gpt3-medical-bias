@@ -1,0 +1,21 @@
+{
+  "patient_name": "Natasha Brown",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of acute shortness of breath. She reports that the symptoms started suddenly this afternoon while she was at home. She denies any recent illness or fever. She has no history of respiratory problems or known allergies. The shortness of breath is associated with chest tightness and she reports feeling anxious.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fevers, or chills.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient complains of acute shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies.",
+  "medications": "Patient uses an inhaler as needed for her asthma symptoms. She reports using her inhaler earlier today when her shortness of breath started, but it did not provide relief.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She works as a teacher and has no known occupational exposures."
+}

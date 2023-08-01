@@ -1,0 +1,21 @@
+{
+  "patient_name": "Agatha Bynoe",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started approximately 24 hours ago and has been progressively worsening. She denies any associated chest pain, cough, fever, or wheezing. She states that she has a history of heart failure and takes medication for it. She is also a current smoker with a 10-pack year smoking history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient reports a history of heart failure with shortness of breath as her main symptom.",
+    "respiratory": "Patient complains of shortness of breath without associated cough or wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "No complaints of dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "No complaints of joint pain or swelling.",
+    "skin": "No complaints of rash or any skin abnormalities.",
+    "neurologic": "No complaints of headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of heart failure, hypertension, and diabetes mellitus.",
+  "medications": "Patient is taking medications for heart failure, hypertension, and diabetes mellitus.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient denies any significant family history of heart disease, cancer, or other hereditary conditions.",
+  "social_history": "Patient is a current smoker with a 10-pack year smoking history. She denies any alcohol or illicit drug use."
+}

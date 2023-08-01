@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harley Brown",
+  "age": "26",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started approximately 3 hours ago. The patient describes the shortness of breath as sudden onset and progressively worsening. She denies any chest pain or palpitations. She reports no recent illnesses or exposure to sick contacts. She has no known allergies. The patient reports no prior history of similar symptoms. She denies any recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight changes",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary frequency or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies currently taking any medications.",
+  "past_surgical_history": "Patient reports no prior surgical history.",
+  "family_history": "Patient reports no significant family history of cardiovascular or respiratory conditions.",
+  "social_history": "Patient does not smoke, drink alcohol, or use recreational drugs. She works as a teacher and denies any workplace exposures."
+}

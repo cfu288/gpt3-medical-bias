@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Cristen Thomas"
+    },
+    "age": {
+      "type": "string",
+      "value": "26"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Patient presents to the emergency department with complaints of sudden onset shortness of breath. She states that the symptoms started approximately 2 hours ago while she was at home. She denies any associated chest pain, cough, or fever. She reports feeling anxious about her breathing difficulty."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills, or night sweats"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain or palpitations"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Shortness of breath, increased respiratory rate"
+        },
+        "gi": {
+          "type": "string",
+          "value": "No nausea, vomiting, or abdominal pain"
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria or hematuria"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or muscle weakness"
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rash or skin discoloration"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headache, dizziness, or numbness"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "No significant past medical history"
+    },
+    "medications": {
+      "type": "string",
+      "value": "None"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "None"
+    },
+    "family_history": {
+      "type": "string",
+      "value": "No significant family history of cardiovascular or respiratory diseases"
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Non-smoker, denies alcohol or illicit drug use"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

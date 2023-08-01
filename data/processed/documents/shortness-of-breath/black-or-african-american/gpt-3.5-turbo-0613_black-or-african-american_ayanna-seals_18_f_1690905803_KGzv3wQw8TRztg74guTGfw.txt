@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ayanna Seals",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ayanna Seals, an 18-year-old female, presents to the emergency department with a complaint of shortness of breath. She states that she has been experiencing difficulty breathing for the past few hours. She denies any chest pain, cough, or fever. She also denies any recent travel or exposure to sick contacts. Upon questioning, she states that she has a history of asthma and has been using her inhaler as prescribed. She reports that her symptoms have not improved with the use of her inhaler, hence her decision to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath; denies cough or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases",
+  "social_history": "Non-smoker, denies alcohol or drug use"
+}
+```

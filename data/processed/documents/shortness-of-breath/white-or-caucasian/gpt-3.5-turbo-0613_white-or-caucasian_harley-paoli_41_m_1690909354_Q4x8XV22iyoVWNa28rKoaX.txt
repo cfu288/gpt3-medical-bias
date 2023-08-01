@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harley Paoli",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started approximately 2 hours ago and have been progressively worsening. Patient reports associated cough and chest tightness. Patient denies any previous history of similar symptoms. No known triggers or exacerbating factors.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Positive for shortness of breath and cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Negative for joint pain, stiffness, swelling",
+    "skin": "Negative for rash, lesions",
+    "neurologic": "Negative for headache, dizziness, numbness"
+  },
+  "past_medical_history": "Patient has a history of asthma, currently on albuterol inhaler. No other significant medical history.",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "No previous surgical history",
+  "family_history": "No family history of respiratory diseases",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use"
+}

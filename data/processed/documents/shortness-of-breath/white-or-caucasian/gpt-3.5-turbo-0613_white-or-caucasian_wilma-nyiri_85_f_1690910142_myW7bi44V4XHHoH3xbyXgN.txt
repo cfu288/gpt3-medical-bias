@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilma Nyiri",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Wilma Nyiri, is an 85-year-old female who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing increasing difficulty breathing for the past 2 days. She reports that the shortness of breath is worse with exertion and relieved with rest. She denies any chest pain, cough, fever, or leg swelling. She has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril for her blood pressure and atorvastatin for her cholesterol. She has never had any surgeries in the past. Her family history is significant for coronary artery disease in her father. She is a non-smoker and does not consume alcohol. She lives alone and is able to perform her activities of daily living independently.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient describes her shortness of breath as worse with exertion and relieved with rest. She denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports some discomfort in her knees due to her osteoarthritis, but no acute joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any changes in her vision, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia, Osteoarthritis",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease in father",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is able to perform her activities of daily living independently."
+}

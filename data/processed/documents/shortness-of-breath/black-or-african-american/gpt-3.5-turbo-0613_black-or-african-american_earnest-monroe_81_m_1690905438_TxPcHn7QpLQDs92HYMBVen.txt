@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Earnest Monroe",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Monroe, is an 81-year-old male who presents to the emergency department with complaints of shortness of breath. He states that he started experiencing difficulty breathing earlier today and it has been gradually worsening. He denies any associated chest pain, cough, or fever. He is currently experiencing mild to moderate shortness of breath at rest and with minimal exertion. Mr. Monroe reports having a history of chronic obstructive pulmonary disease (COPD) and he says that he takes his maintenance inhalers regularly. He does not recall any recent changes in his medications or any recent exacerbations of his symptoms. On further questioning, he reports no recent travel, exposure to sick contacts, or recent illnesses. He denies any other associated symptoms. ",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or swelling in the extremities",
+    "respiratory": "Presences of shortness of breath at rest and with minimal exertion",
+    "gi": "No abdominal pain, nausea, vomiting, diarrhea, or blood in stools",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or stiffness",
+    "skin": "No rash, itching, or changes in moles",
+    "neurologic": "No headaches, dizziness, numbness, tingling, or weakness"
+  },
+  "past_medical_history": "Mr. Monroe has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. He is following up regularly with his primary care physician for these conditions. He reports no other significant medical history.",
+  "medications": "Maintenance inhalers for COPD: albuterol and fluticasone/salmeterol. Amlodipine for hypertension.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No family history of significant medical conditions",
+  "social_history": "Mr. Monroe is a retired mechanic. He is a former smoker with a 30-pack-year history but quit smoking 10 years ago. He denies any alcohol or illicit drug use. He lives with his wife and they have a low-stress lifestyle."
+}
+```

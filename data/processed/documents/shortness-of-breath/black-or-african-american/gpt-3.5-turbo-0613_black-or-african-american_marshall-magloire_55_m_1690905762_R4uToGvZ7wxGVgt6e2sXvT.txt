@@ -1,0 +1,22 @@
+{
+  "patient_name": "Marshall Magloire",
+  "age": "55",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Magloire is a 55-year-old male presenting to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath began suddenly about 2 hours ago while he was at rest. He describes the sensation as a feeling of not being able to get enough air and he has been unable to find relief. He denies any chest pain, cough, or fever. The symptoms have been progressively worsening since onset. In addition to the shortness of breath, he reports feeling lightheaded. He has no known respiratory conditions or allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, pruritus, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or confusion."
+  },
+  "past_medical_history": "Mr. Magloire has a past medical history of hypertension and hyperlipidemia. He does not have a history of respiratory conditions or allergies.",
+  "medications": "The patient is currently taking amlodipine 5 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of respiratory conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

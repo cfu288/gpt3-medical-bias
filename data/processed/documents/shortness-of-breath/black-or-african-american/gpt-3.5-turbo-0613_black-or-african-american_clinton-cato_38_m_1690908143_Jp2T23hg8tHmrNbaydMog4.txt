@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Clinton Cato",
+  "age": "38",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Clinton Cato, a 38-year-old male, presented to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing increasing difficulty in breathing over the past 2 days. He states that the shortness of breath is constant and worsens with minimal exertion. He denies any associated chest pain, cough, fever, or leg swelling. The patient's medical history is significant for asthma, for which he uses an albuterol inhaler as needed. On physical examination, the patient is tachypneic with an increased work of breathing. Upon auscultation, bilateral wheezing is noted. Initial vital signs are as follows: blood pressure 120/80 mmHg, heart rate 90 beats per minute, respirations 24 breaths per minute, temperature 98.6°F, and oxygen saturation 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath as his main symptom. No cough or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of asthma.",
+  "medications": "The patient uses an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as a computer programmer and lives with his spouse and two children."
+}
+```

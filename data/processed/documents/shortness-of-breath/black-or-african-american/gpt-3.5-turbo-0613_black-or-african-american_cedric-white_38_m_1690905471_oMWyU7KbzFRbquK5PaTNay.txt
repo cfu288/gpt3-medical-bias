@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cedric White",
+  "age": "38",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing an increased difficulty in breathing over the past few days. He denies any associated chest pain, cough, or fever. He states that the shortness of breath is worse with exertion and improves with rest. He also reports occasional wheezing. He denies any recent travel, sick contacts, or exposure to allergens. Patient has a past medical history of asthma.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath worse with exertion and occasional wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of asthma, but denies any recent exacerbations or hospitalizations.",
+  "medications": "Patient reports using an albuterol inhaler as needed for his asthma. He denies using any other medications.",
+  "past_surgical_history": "Negative for any prior surgical procedures.",
+  "family_history": "Negative for any significant family history of respiratory diseases or other chronic conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

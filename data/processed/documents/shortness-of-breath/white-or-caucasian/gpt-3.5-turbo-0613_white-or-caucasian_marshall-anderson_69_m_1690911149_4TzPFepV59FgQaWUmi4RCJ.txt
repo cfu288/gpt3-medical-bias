@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marshall Anderson",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Anderson is a 69-year-old male who came to the emergency department complaining of shortness of breath. He reports that the symptoms started about 2 hours ago and have been steadily worsening. He denies any chest pain, cough, or wheezing. He also denies any fever, chills, or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or itching",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Mr. Anderson has a past medical history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He is currently managed with metoprolol for hypertension and inhaled bronchodilators for COPD.",
+  "medications": "Metoprolol, inhaled bronchodilators for COPD",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Mr. Anderson's father had a history of hypertension and his mother had a history of type 2 diabetes.",
+  "social_history": "Mr. Anderson is a retired accountant. He lives with his wife and enjoys gardening and fishing. He is a former smoker, having quit 10 years ago."
+}

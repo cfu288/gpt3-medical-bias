@@ -1,0 +1,21 @@
+{
+  "patient_name": "Agnes Curbo",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Agnes Curbo, a 75-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started about 2 hours ago and has been progressively worsening. She denies any chest pain or cough. The patient has a history of hypertension and hyperlipidemia, for which she takes medications. She also reports occasional episodes of acid reflux. She denies any recent illnesses or travel.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Positive for occasional acid reflux.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, occasional acid reflux",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Negative for any significant family medical history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

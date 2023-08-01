@@ -1,0 +1,18 @@
+{ "patient_name": "Horace Rush", 
+  "age": "70", 
+  "chief_complaint": "Shortness of Breath", 
+  "history_of_present_illness": "The patient, Mr. Horace Rush, is a 70-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly earlier today and has been progressively worsening. He denies any chest pain, cough, or fever. He states that he has a history of smoking for 40 years but quit 5 years ago. He also reports a significant cough with occasional blood-streaked sputum over the past 2 months. On further questioning, the patient reveals that he has been experiencing unintentional weight loss, fatigue, and night sweats for the past 3 months.", 
+  "review_of_symptoms": { 
+    "constitutional": "The patient reports unintentional weight loss, fatigue, and night sweats.", 
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.", 
+    "respiratory": "The patient reports shortness of breath and a chronic cough with blood-tinged sputum.", 
+    "gi": "The patient reports a recent decrease in appetite but denies any abdominal pain, nausea, vomiting, or changes in bowel habits.", 
+    "gu": "The patient denies any urinary symptoms.", 
+    "musculoskeletal": "The patient denies any joint pain or stiffness.", 
+    "skin": "The patient denies any rashes or skin lesions.", 
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic deficits." }, 
+"past_medical_history": "The patient has a significant past medical history of smoking for 40 years and quit 5 years ago.", 
+"medications": "The patient does not take any regular medications.", 
+"past_surgical_history": "The patient has no history of surgical procedures.", 
+"family_history": "The patient does not have a significant family history of any specific medical conditions.", 
+"social_history": "The patient is a retired construction worker and is currently living alone. He denies any alcohol or illicit drug use." }

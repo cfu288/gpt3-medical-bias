@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kip Ford",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started earlier this morning and have been progressively worsening. He denies any associated chest pain, cough, or fever. There is no history of similar symptoms in the past. Patient states that he has a history of hypertension and takes medication for it. He denies any recent changes in medications or any symptoms of palpitations or dizziness. Upon further questioning, the patient reports that he has been experiencing some swelling in his lower extremities over the past week. He denies any recent travel or exposure to sick contacts. Patient is a non-smoker and does not use recreational drugs. He admits to drinking alcohol socially but denies any excessive alcohol intake. He lives alone and is independent with activities of daily living. There is no known history of allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats.",
+    "cardiovascular": "Positive for lower extremity swelling, negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, negative for cough or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, weakness or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes amlodipine 10mg daily for hypertension.",
+  "past_surgical_history": "Appendectomy in 1998.",
+  "family_history": "No significant family history of heart disease, lung disease, or cancer.",
+  "social_history": "Patient is retired and lives alone. He denies any history of smoking or drug use. He consumes alcohol socially but denies excessive alcohol intake. There is no known history of allergies."
+}

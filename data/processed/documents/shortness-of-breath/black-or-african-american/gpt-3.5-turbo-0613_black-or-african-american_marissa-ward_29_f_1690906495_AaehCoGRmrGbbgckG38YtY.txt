@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marissa Ward",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marissa Ward, a 29-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the onset of her symptoms occurred approximately 2 hours ago. She describes her shortness of breath as sudden in onset and progressively worsening. She denies any associated chest pain, cough, or fever. She states that she has no significant medical history and is not currently taking any medications. She denies any recent surgeries or family history of cardiac or respiratory diseases. Additionally, she reports no significant social history. On evaluation, she appears tachypneic and is using accessory muscles of respiration. She is currently receiving oxygen via nasal cannula at 4 liters per minute. Vital signs are as follows: blood pressure 120/80 mmHg, heart rate 110 beats per minute, respiratory rate 30 breaths per minute, and oxygen saturation 88% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath as her chief complaint.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any dysuria, frequent urination, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "No prior surgical history reported.",
+  "family_history": "No significant family history of cardiac or respiratory diseases reported.",
+  "social_history": "No significant social history reported."
+}

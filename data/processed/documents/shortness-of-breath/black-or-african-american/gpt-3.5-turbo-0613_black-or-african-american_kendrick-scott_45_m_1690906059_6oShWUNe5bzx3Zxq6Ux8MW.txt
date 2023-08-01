@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kendrick Scott",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kendrick Scott, is a 45-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom has been gradually worsening over the past week and is now causing significant discomfort. He denies any associated chest pain, cough, fever, or other respiratory symptoms. He states that he has been using his albuterol inhaler without relief. On examination, the patient appears anxious and is tachypneic with increased work of breathing. Auscultation reveals bilateral wheezing. Initial assessment suggests a possible exacerbation of chronic obstructive pulmonary disease (COPD), although other causes such as an asthma exacerbation or pneumonia need to be considered. Further evaluation and appropriate treatment are planned.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath and wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a significant past medical history of chronic obstructive pulmonary disease (COPD), for which he uses a daily albuterol inhaler. He has never required hospitalization for his COPD in the past.",
+  "medications": "The patient takes albuterol inhaler daily for his COPD.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for a father who had a heart attack in his 50s. His mother is alive and well with no significant medical conditions.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He drinks alcohol socially and denies any illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+    "patient_name": "Yves Daley",
+    "age": "51",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "Patient, a 51-year-old male named Yves Daley, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing gradually worsening shortness of breath over the past week. He reports that the shortness of breath is more pronounced with exertion and is associated with occasional chest tightness. He denies any significant cough, fever, or chills. The patient states that he has a history of smoking, with a 30-pack-year history. He has no history of lung disease that he is aware of. Upon examination, the patient is alert and oriented, with normal vital signs. Auscultation of the lungs reveals decreased breath sounds bilaterally, with scattered wheezes. Cardiovascular examination is unremarkable.",
+    "review_of_symptoms": {
+        "constitutional": "Negative for fatigue, weight loss, or night sweats.",
+        "cardiovascular": "Occasional chest tightness. No palpitations or syncope.",
+        "respiratory": "Shortness of breath worse with exertion. No cough or wheezing.",
+        "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+        "gu": "Negative for urinary frequency, urgency, or dysuria.",
+        "musculoskeletal": "Negative for joint pain or swelling.",
+        "skin": "Negative for rash or skin lesions.",
+        "neurologic": "Negative for headaches, dizziness, or neurologic symptoms."
+    },
+    "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medications. No history of lung disease, heart disease, or diabetes.",
+    "medications": "The patient takes lisinopril 10 mg daily for hypertension.",
+    "past_surgical_history": "The patient has no history of surgical procedures.",
+    "family_history": "Positive for hypertension in both parents. Negative for lung disease, heart disease, or diabetes.",
+    "social_history": "The patient has a 30-pack-year smoking history but quit smoking 5 years ago. He does not consume alcohol excessively. No illicit drug use."
+}

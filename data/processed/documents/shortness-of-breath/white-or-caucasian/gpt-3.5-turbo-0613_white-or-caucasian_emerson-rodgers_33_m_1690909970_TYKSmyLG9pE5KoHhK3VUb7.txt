@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Emerson Rodgers",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Rodgers is a 33-year-old male presenting to the emergency department with complaints of shortness of breath. He reports that he has been experiencing difficulty breathing for the past 2 days. He states that the shortness of breath is worse with exertion and he has also noticed increased wheezing and chest tightness. He denies any fever, cough, or sputum production. He denies any recent illnesses or travel.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, wheezing, and chest tightness.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes, lesions, or itching.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Rodgers has a history of asthma and seasonal allergies.",
+  "medications": "He uses an albuterol inhaler as needed for his asthma symptoms and takes over-the-counter antihistamines for his allergies.",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Mr. Rodgers denies any tobacco or illicit drug use. He drinks alcohol occasionally but does not exceed moderate consumption. He reports no recent travel or exposure to sick contacts."
+}
+```

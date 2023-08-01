@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jason Waters",
+  "age": "30",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Jason Waters, a 30-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago and has been progressively worsening. He denies any associated chest pain or cough. He states that he has not experienced any similar episodes in the past. He has no known allergies and takes no medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, diarrhea, abdominal pain",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, syncope"
+  },
+  "past_medical_history": "No significant past medical history reported",
+  "medications": "No medications reported",
+  "past_surgical_history": "No past surgical history reported",
+  "family_history": "No significant family history reported",
+  "social_history": "Patient denies tobacco, alcohol, or drug use. He works as a software engineer and denies exposure to any environmental hazards."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kia Brown",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kia Brown, is a 51-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly today and has been progressively worsening. She denies any recent illnesses or injuries. Prior to the onset of the shortness of breath, she reports feeling fatigued and experiencing some intermittent chest discomfort for the past few weeks. She also notes an unintentional weight loss of 10 pounds over the past month. She denies any fevers, chills, cough, or sputum production. On further questioning, she reports some leg swelling over the past few days and occasional palpitations, but no dizziness or syncope. She denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and experiencing unintentional weight loss.",
+    "cardiovascular": "The patient reports occasional palpitations with no associated chest pain or syncope. She denies any history of heart disease or hypertension.",
+    "respiratory": "The patient presents with shortness of breath that has been progressively worsening. She denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient reports recent leg swelling but denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or limitations in movement.",
+    "skin": "The patient denies any rash, skin changes, or wounds.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is on medications for these conditions.",
+  "medications": "The patient is currently taking lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of heart disease in her mother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as a secretary and lives alone."
+}

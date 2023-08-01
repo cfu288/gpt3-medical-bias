@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleo Robinson",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Cleo Robinson, a 67-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. The patient reports feeling a sense of air hunger and difficulty breathing, particularly on exertion. She denies any chest pain or palpitations. No fever, cough, or sputum production. No leg swelling or orthopnea. No recent travel or sick contacts. The patient states that she has a history of hypertension but is otherwise healthy. She takes amlodipine 5mg daily for her blood pressure. She denies any recent changes in her medications or any known drug allergies. On further questioning, the patient reports no history of heart disease, lung disease, or clotting disorders. She has never had a surgical procedure. Her family history is significant for hypertension in her parents. Socially, she is retired and lives alone. She does not smoke or drink alcohol. She denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for shortness of breath.",
+    "respiratory": "Positive for shortness of breath. Negative for cough or sputum production.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "Amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "No previous surgical procedures.",
+  "family_history": "Family history of hypertension in parents.",
+  "social_history": "Retired, lives alone. Non-smoker, non-drinker, no illicit drug use."
+}

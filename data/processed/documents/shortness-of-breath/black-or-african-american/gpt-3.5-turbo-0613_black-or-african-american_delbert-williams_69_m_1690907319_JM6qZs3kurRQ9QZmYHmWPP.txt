@@ -1,0 +1,21 @@
+{
+  "patient_name": "Delbert Williams",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Williams is a 69-year-old male presenting with the chief complaint of shortness of breath. He reports that the shortness of breath began suddenly and has been worsening over the past few hours. He denies any chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath and wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies any joint pain, swelling, or stiffness.",
+    "skin": "Denies any rash or lesions.",
+    "neurologic": "Denies any weakness, numbness, or changes in sensation."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and dyslipidemia. He is currently taking amlodipine for hypertension.",
+  "medications": "Amlodipine 5mg, 1 tablet daily",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient reports a positive family history of heart disease, with his father having a myocardial infarction in his 50s.",
+  "social_history": "Patient has a 30 pack-year smoking history and drinks alcohol occasionally."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Letitia Alleyne",
+  "age": "31",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Letitia Alleyne, a 31-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started suddenly about two hours ago while she was at rest. She describes the shortness of breath as severe and associated with a feeling of tightness in her chest. She denies any cough, fever, or wheezing. The patient has a history of asthma and uses an albuterol inhaler as needed. She states that her symptoms are not relieved with her inhaler and she feels increasingly anxious. There is no known trigger for her symptoms. Upon initial assessment, her vital signs are as follows: blood pressure 136/82 mmHg, heart rate 98 beats per minute, respiratory rate 22 breaths per minute, oxygen saturation 94% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath as described above.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Asthma diagnosed in childhood. No other significant medical history.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or use illicit drugs. She works as a teacher and lives with her spouse and two children."
+}
+```

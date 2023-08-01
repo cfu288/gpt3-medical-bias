@@ -1,0 +1,22 @@
+{
+  "patient_name": "Barbara Terrell",
+  "age": "77",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms began yesterday and have been progressively worsening. She denies any chest pain, fever, cough, or wheezing. She states that she has a history of asthma and has been using her rescue inhaler without relief. She also reports increased swelling in her legs and a recent 10-pound weight gain. On physical examination, the patient appears to be in respiratory distress with increased work of breathing. She has bilateral lower extremity edema and crackles on lung auscultation. Given her symptoms and physical findings, a diagnosis of congestive heart failure exacerbation is suspected. Further evaluation and treatment are warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Positive for leg swelling and recent weight gain",
+    "respiratory": "Positive for shortness of breath without cough or wheezing",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary frequency or urgency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "Asthma, hypertension, and diabetes",
+  "medications": "Albuterol inhaler, lisinopril, and metformin",
+  "past_surgical_history": "Appendectomy at age 35",
+  "family_history": "Mother had history of heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeremiah Ferragamo",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Jeremiah Ferragamo, a 28-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started suddenly about 1 hour ago. He denies any chest pain or cough. He states that he has never experienced this before and it is causing him significant distress. Upon further questioning, the patient admits to a history of smoking and occasional alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath, no cough or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient has a history of smoking about half a pack per day for the past 10 years and occasional alcohol use."
+}
+```

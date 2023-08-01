@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lester Piatt",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient came to the emergency department complaining of sudden onset of severe shortness of breath. He reports no fever, cough, or chest pain. He denies any associated leg swelling or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever or chills.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath with exertion.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary problems or changes.",
+    "musculoskeletal": "Patient denies any joint or muscle pain.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or confusion."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient has no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a former smoker, quitting 10 years ago. He denies alcohol or illicit drug use."
+}
+```

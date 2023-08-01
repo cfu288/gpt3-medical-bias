@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosie Strong",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Rosie Strong, a 70-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that these symptoms started abruptly earlier today while she was at home. She states that she has never experienced this level of difficulty breathing before. The shortness of breath is associated with mild chest tightness and occasional coughing. She denies any fever, chills, or wheezing. She reports no recent travel or sick contacts. She has no known respiratory illnesses and has never been diagnosed with asthma or COPD. She currently lives alone and is independent with activities of daily living. Upon initial assessment, the patient appears moderately distressed, using accessory muscles of respiration. Oxygen saturation is 90% on room air and improves to 94% with supplemental oxygen via nasal cannula at 2L/min. Lung auscultation reveals diminished breath sounds bilaterally with bibasilar crackles.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Positive for shortness of breath, mild chest tightness, occasional coughing",
+    "gi": "Negative for nausea, vomiting, abdominal pain, changes in bowel movements",
+    "gu": "Negative for dysuria, frequency, urgency",
+    "musculoskeletal": "Negative for joint pain, muscle weakness",
+    "skin": "Negative for rash, pruritus",
+    "neurologic": "Negative for headache, dizziness, focal weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes the following medications: lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia in her parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and is retired. She was previously employed as a teacher."
+}

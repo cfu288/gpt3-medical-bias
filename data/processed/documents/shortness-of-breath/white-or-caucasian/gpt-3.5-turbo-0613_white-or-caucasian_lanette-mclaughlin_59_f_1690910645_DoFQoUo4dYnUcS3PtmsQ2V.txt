@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lanette Mclaughlin",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Lanette Mclaughlin, a 59-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been gradually worsening over the past 2 days and is associated with coughing, wheezing, and chest tightness. She denies any fever, chills, or chest pain. The patient states that she has a history of asthma and uses an inhaler as needed. She denies recent changes in her medications or exposure to any triggers. The patient reports that she has not sought medical attention for her symptoms until now because she thought they would resolve on their own.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "The patient reports shortness of breath, coughing, wheezing, and chest tightness.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limited range of motion.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma.",
+  "medications": "The patient uses an inhaler as needed for asthma.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of respiratory conditions.",
+  "social_history": "In terms of social history, the patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

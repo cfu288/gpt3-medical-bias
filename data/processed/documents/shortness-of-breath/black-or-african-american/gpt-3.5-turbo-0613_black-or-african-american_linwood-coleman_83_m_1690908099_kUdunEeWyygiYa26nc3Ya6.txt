@@ -1,0 +1,21 @@
+{
+  "patient_name": "Linwood Coleman",
+  "age": "83",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. Patient reports that he has been experiencing shortness of breath for the past 2 days. He reports that the shortness of breath is worse with exertion and lying flat. He denies any associated chest pain or cough. Upon arrival to the emergency department, the patient was tachypneic with a respiratory rate of 28 breaths per minute. Oxygen saturation on room air was 88%. He was immediately placed on supplemental oxygen via nasal cannula to maintain oxygen saturation above 92%. Initial workup including chest X-ray and ECG were obtained and are pending. Intravenous access was established and basic labs were sent including a complete blood count, electrolytes, and troponin. The patient is currently receiving nebulized albuterol and ipratropium and is being monitored closely.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath as the chief complaint.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or stiffness.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and chronic obstructive pulmonary disease (COPD). He also has a history of atrial fibrillation.",
+  "medications": "The patient is currently taking metoprolol for hypertension and warfarin for atrial fibrillation.",
+  "past_surgical_history": "The patient had a pacemaker placement 2 years ago for treatment of bradycardia.",
+  "family_history": "The patient's mother had a history of hypertension and his father had a history of COPD.",
+  "social_history": "The patient is a retired construction worker. He is a former smoker with a 30 pack-year history. He quit smoking 10 years ago."
+}

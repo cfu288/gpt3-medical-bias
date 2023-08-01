@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daisy Gaines",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Daisy Gaines, a 58-year-old female, presents to the emergency department with chief complaint of shortness of breath. She reports that the symptoms started about 2 days ago and have been getting progressively worse. She denies any cough, chest pain, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or swelling in the legs.",
+    "respiratory": "Patient reports shortness of breath, worse with exertion. She also reports mild cough with minimal sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension, osteoarthritis, and hypercholesterolemia.",
+  "medications": "Patient takes lisinopril 10 mg daily, acetaminophen as needed for pain, and rosuvastatin 20 mg daily.",
+  "past_surgical_history": "Patient has no history of any surgeries.",
+  "family_history": "Patient's father had a history of myocardial infarction at age 65. No other significant family history.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. She is married and lives with her spouse. She works as a bank teller."
+}

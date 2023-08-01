@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maurice Zeno",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Maurice Zeno, a 60-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The shortness of breath began suddenly earlier today, and the patient reports feeling increasingly short of breath with minimal activity. The patient denies any recent illness, fever, cough, or chest pain. On further questioning, the patient reports a history of smoking for 30 years, with a 10-pack-year history. The patient also reports a history of hypertension, for which he takes medication. There is no known history of heart disease in the family. The patient's shortness of breath significantly impacts his daily activities and quality of life.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath as the primary symptom. There is no associated cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or difficulty.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any numbness, weakness, or headaches."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension, but the specific medication is unknown at this time.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is no known history of heart disease in the family.",
+  "social_history": "The patient has a 30-pack-year history of smoking."
+}

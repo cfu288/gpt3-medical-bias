@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frederick Gable",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Gable is a 60-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past few days. He denies any associated chest pain, cough, or fever. He also mentions a recent episode of orthopnea and paroxysmal nocturnal dyspnea. His symptoms have been interfering with his daily activities and sleep. He denies any known triggers or recent illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Shortness of breath, orthopnea, paroxysmal nocturnal dyspnea.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, type 2 diabetes.",
+  "medications": "Metoprolol, Atorvastatin, Metformin.",
+  "past_surgical_history": "Appendectomy at age 30.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ronaldo Williams",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ronaldo Williams, an 18-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he began experiencing difficulty breathing approximately 2 hours ago. He reports that the shortness of breath is associated with chest tightness and wheezing. He denies any fever, cough, or sputum production. The patient states that he has a history of asthma and has been using his rescue inhaler as prescribed, but it has not provided relief. He reports no recent changes to his medications or exposures to known triggers. The patient states that he has never experienced symptoms like this before and is concerned about his breathing. He denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, wheezing, and chest tightness.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of asthma and reports sporadic use of his rescue inhaler for symptom control.",
+  "medications": "The patient reports using a rescue inhaler (albuterol) as needed for asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of asthma in his maternal grandmother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

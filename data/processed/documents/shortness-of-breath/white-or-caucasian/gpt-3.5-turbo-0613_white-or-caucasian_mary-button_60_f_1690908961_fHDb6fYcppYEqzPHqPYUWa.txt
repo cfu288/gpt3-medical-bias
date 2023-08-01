@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Button",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mary Button, is a 60-year-old female who presents to the emergency department with a chief complaint of shortness of breath. The patient states that the shortness of breath started suddenly a few hours ago and has been progressively getting worse. She denies any chest pain or other associated symptoms. The patient reports no recent illness or fever. She has a history of chronic obstructive pulmonary disease (COPD) and is a former smoker, having quit 10 years ago. She is currently not on any medications for her COPD. On physical examination, the patient appears anxious and is using accessory muscles to breathe. Her respiratory rate is elevated at 24 breaths per minute and she has decreased breath sounds on auscultation. The rest of her physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her legs.",
+    "respiratory": "The patient reports shortness of breath with exertion but denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD).",
+  "medications": "The patient is not currently taking any medications for her COPD.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. She denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Millicent Small",
+  "age": "86",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 2 hours ago. She denies any chest pain or cough. She has a history of chronic obstructive pulmonary disease (COPD) and is a current smoker.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or itching.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of COPD, hypertension, and hyperlipidemia.",
+  "medications": "Patient is taking albuterol inhaler, lisinopril, and simvastatin.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of hypertension and diabetes.",
+  "social_history": "Patient is a current smoker with a 50 pack-year history. She denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ira Stallone",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Ira Stallone, a 66-year-old male, presented to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing worsening shortness of breath over the past 24 hours. He denies any associated chest pain, cough, or fever. He also reports feeling fatigued and having decreased exercise tolerance. The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin as his regular medications. In addition, he had a coronary artery bypass graft 5 years ago. There is no history of tobacco or alcohol use. He denies any recent travel or exposure to sick contacts. Upon further questioning, the patient reports occasional orthopnea and paroxysmal nocturnal dyspnea. He denies any leg swelling or weight gain. The patient is concerned about his symptoms and is seeking medical evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or lightheadedness.",
+    "respiratory": "As mentioned in the history of present illness, the patient reports shortness of breath, orthopnea, and paroxysmal nocturnal dyspnea.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, changes in skin color, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He had a coronary artery bypass graft 5 years ago.",
+  "medications": "The patient takes lisinopril and atorvastatin as his regular medications.",
+  "past_surgical_history": "The patient had a coronary artery bypass graft 5 years ago.",
+  "family_history": "The patient denies any significant family history of cardiovascular diseases, respiratory diseases, or malignancies.",
+  "social_history": "The patient has no history of tobacco or alcohol use. He denies any illicit drug use. He is retired and lives with his spouse."
+}

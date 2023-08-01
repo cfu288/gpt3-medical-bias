@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joan Blackburn",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Joan Blackburn, a 70-year-old female, presents to the Emergency Department with complaints of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. She reports difficulty breathing at rest and has noticed increasing fatigue. She denies any associated chest pain, palpitations, or cough. She also denies any recent sick contacts or travel history. The patient has a history of hypertension and hyperlipidemia and takes medications for these conditions. She does not have a known history of lung disease, such as asthma or chronic obstructive pulmonary disease. There is no history of recent surgeries or hospitalizations. Upon initial assessment, the patient appeared in moderate respiratory distress with labored breathing. Physical examination revealed decreased breath sounds bilaterally and crackles heard on auscultation. Oxygen saturation was 88% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of fatigue and reduced exercise tolerance.",
+    "cardiovascular": "No chest pain, palpitations or orthopnea reported.",
+    "respiratory": "Shortness of breath at rest, worse with exertion. No cough or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness or visual changes."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for the management of hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "No known history of surgeries.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She lives alone and has minimal social support"
+}

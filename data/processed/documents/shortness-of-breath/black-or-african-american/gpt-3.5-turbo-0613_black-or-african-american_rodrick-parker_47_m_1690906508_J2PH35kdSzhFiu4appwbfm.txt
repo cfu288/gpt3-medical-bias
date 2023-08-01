@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rodrick Parker",
+  "age": "47",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Rodrick Parker, is a 47-year-old male who presents to the emergency department with a chief complaint of shortness of breath. The symptoms started suddenly earlier today and have been progressively worsening. He describes the shortness of breath as being accompanied by chest tightness and a dry cough. He denies any recent sick contacts or travel. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, dizziness, or syncope.",
+    "respiratory": "The patient reports shortness of breath, chest tightness, and a dry cough.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies headaches, seizures, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies. He has no other significant past medical history.",
+  "medications": "The patient takes an inhaler for his asthma and over-the-counter antihistamines for his allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of asthma. Otherwise, there is no significant family history.",
+  "social_history": "The patient works as a teacher and lives with his wife and two children. He does not smoke or use illicit drugs. He occasionally drinks alcohol in moderation."
+}
+```

@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Abbey Gray",
+  "age": "23",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started suddenly approximately 2 hours ago after she had an argument with her partner. She denies any previous episodes of shortness of breath or similar symptoms. She states that she has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath at rest and with minimal exertion. She denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies rash, itching, or discoloration.",
+    "neurologic": "Patient denies headache, dizziness, or numbness.",
+    "social_history": ""
+  },
+  "past_medical_history": "Patient has no significant past medical history and takes no regular medications.",
+  "medications": "",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has no known family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient reports occasional use of alcohol and denies any tobacco or drug use."
+}
+```

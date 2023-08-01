@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Betty Humbert",
+  "age": "93",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started approximately 2 hours ago and have been progressively worsening. Patient denies any chest pain, cough, or fever. Patient reports feeling lightheaded and fatigued. Upon arrival, patient was found to be tachypneic with an oxygen saturation of 87% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of fatigue and lightheadedness.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "No complaints of nausea, vomiting, or abdominal pain.",
+    "gu": "No complaints of urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No complaints of joint pain or muscle weakness.",
+    "skin": "No complaints of rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Patient had a cholecystectomy in 1999.",
+  "family_history": "Patient's mother had a history of hypertension and diabetes.",
+  "social_history": "Patient lives alone and is independent with activities of daily living. She does not smoke or drink alcohol."
+}
+```

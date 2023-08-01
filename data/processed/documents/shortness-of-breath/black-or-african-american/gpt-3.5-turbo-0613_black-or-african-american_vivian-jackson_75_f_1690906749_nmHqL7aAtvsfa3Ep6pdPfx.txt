@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vivian Jackson",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Vivian Jackson, a 75-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her shortness of breath started suddenly this morning while she was at rest. She denies any chest pain, palpitations, or lightheadedness. She also reports a productive cough with yellow sputum. She denies any recent travel or sick contacts. She has a past medical history of hypertension and hyperlipidemia. She takes Lisinopril and Atorvastatin daily. There is no history of smoking or alcohol use. On physical examination, the patient appears anxious and is using her accessory muscles for respiration. Her respiratory rate is 26 breaths per minute and her oxygen saturation is 88% on room air. Lung auscultation reveals crackles bilaterally. The cardiovascular and neurological exams are unremarkable. Based on the patient's history and physical examination, acute exacerbation of chronic obstructive pulmonary disease (COPD) with acute respiratory failure is suspected.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or history of heart disease",
+    "respiratory": "Shortness of breath, productive cough with yellow sputum",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, non-drinker"
+}

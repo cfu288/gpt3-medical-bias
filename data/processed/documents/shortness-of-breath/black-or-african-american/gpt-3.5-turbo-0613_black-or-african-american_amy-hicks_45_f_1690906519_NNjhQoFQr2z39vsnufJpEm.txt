@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amy Hicks",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Amy Hicks, a 45-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started approximately 2 hours ago and have been gradually worsening. She denies any recent illness or respiratory infections. She has no significant medical history and takes no medications. She denies any recent surgeries. Onset: 2 hours ago, Gradual. Progression: Worsening. Severity: Moderate. Palliative: Nothing alleviates the symptoms. Provocative: No specific triggers. Quality: Patient describes the shortness of breath as a feeling of tightness in the chest. Radiation: None. Time: Continuous. The patient denies any associated symptoms such as chest pain, cough, fever, or swelling in the legs. No hemoptysis. No orthopnea or paroxysmal nocturnal dyspnea. There is no history of recent travel or exposure to sick contacts. The patient denies any history of heart disease or lung disease in the family. She has never smoked and denies alcohol or drug use. She works as an office administrator and has no significant occupational exposure to chemicals or dust.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath as described in the history of present illness.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of heart disease or lung disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She works in an office and has no significant occupational exposure to chemicals or dust."
+}

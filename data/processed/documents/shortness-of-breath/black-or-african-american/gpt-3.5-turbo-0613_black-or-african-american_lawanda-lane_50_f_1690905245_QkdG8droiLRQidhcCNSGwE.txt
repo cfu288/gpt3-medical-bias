@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lawanda Lane",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Lawanda Lane, a 50-year-old female, presents to the emergency department with complaints of shortness of breath. The patient reports that she has been experiencing shortness of breath for the past 2 days, which has been progressively worsening. She states that the shortness of breath is associated with minimal exertion and is relieved by rest. She denies any chest pain, cough, or fever. Upon further questioning, the patient also admits to a history of smoking for the past 30 years, approximately 1 pack per day. She has not sought any medical attention for this issue previously. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Denies cough or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg daily, and albuterol inhaler as needed.",
+  "past_surgical_history": "None.",
+  "family_history": "Mother with hypertension and stroke.",
+  "social_history": "Patient is a current smoker with a 30 pack-year history. Denies alcohol or illicit drug use."
+}
+```

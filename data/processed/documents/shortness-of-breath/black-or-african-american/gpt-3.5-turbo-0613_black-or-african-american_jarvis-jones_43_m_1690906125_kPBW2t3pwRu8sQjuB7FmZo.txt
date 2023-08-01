@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Jones",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Jones presented to the emergency department complaining of shortness of breath. He reports that the symptoms started suddenly and have been worsening over the past few hours. He also reports associated chest pain and coughing up blood. He denies any recent travel, trauma, or similar episodes in the past. His medical history is significant for smoking and hypertension. On physical examination, Mr. Jones appears anxious and is using accessory muscles to breathe. He has decreased breath sounds on the left side and dullness to percussion. His vital signs are stable at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "Associated chest pain",
+    "respiratory": "Shortness of breath and coughing up blood",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Current smoker, 1 pack per day for 20 years"
+}

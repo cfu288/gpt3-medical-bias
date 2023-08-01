@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Arleen Fuchs",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient is a 65-year-old female presenting with complaints of shortness of breath. She reports that she has been experiencing difficulty breathing for the past 2 days, especially with exertion. She also mentions feeling tired and having a cough with white phlegm. She denies chest pain or wheezing.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "The patient complains of shortness of breath and cough with white phlegm.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash or skin lesions reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is also a former smoker, having quit 10 years ago.",
+  "medications": "The patient is currently taking Amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's father had a history of coronary artery disease and her mother had a stroke.",
+  "social_history": "The patient lives alone and is retired. She denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damon Brown",
+  "age": "47",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. The symptoms started this morning and have been progressively worsening throughout the day. Patient reports increased respiratory effort, difficulty speaking in full sentences, and a feeling of suffocation. No associated chest pain, fever, or cough. The patient denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient presents with shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain, stiffness, or swelling.",
+    "skin": "Patient denies rash, lesions, or discoloration.",
+    "neurologic": "Patient denies headache, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension, which is controlled with medication. No history of lung disease or any other significant medical conditions.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. Lives alone and works as an office manager."
+}

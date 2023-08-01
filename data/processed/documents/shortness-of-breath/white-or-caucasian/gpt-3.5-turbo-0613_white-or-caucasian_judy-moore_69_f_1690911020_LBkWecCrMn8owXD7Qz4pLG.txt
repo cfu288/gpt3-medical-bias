@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Judy Moore",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Judy Moore, a 69-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began this morning when she woke up feeling increasingly short of breath. She denies any chest pain or cough. She also reports a mild headache and feeling lightheaded. She has no known history of respiratory problems or allergies. She denies any recent travel or exposure to sick contacts. She states that she has been feeling fatigued and generally unwell for the past week. Upon further questioning, she denies any recent fever, chills, night sweats, weight loss, or changes in appetite. She reports no symptoms of chest pain, palpitations, or leg swelling. She denies any recent changes in the color or amount of her urine.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and generally unwell for the past week.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports a recent onset of shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient reports a mild headache and feeling lightheaded."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is on medications for both conditions.",
+  "medications": "The patient is currently taking lisinopril and simvastatin for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a retired teacher and currently lives alone. She denies any tobacco or alcohol use."
+}
+```

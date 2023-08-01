@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Walter Mcgaskey",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Walter Mcgaskey, an 80-year-old male, presented to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly earlier today and has been progressively worsening. He denies any chest pain or cough. He also reports feeling fatigued and having difficulty walking short distances. He has no known history of heart or lung problems. Physical examination reveals tachypnea and increased work of breathing. Lung auscultation reveals decreased breath sounds at the lung bases. A chest X-ray is ordered to further evaluate the cause of the shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or wounds.",
+    "neurologic": "Negative for headaches, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine, atorvastatin, and acetaminophen on a regular basis.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "The patient is retired and used to smoke 20 pack-years. He quit smoking 10 years ago and denies any current use of tobacco, alcohol, or illicit drugs."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marie Gadoury",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marie Gadoury, a 71-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly earlier today and has been progressively worsening since. She denies any chest pain, dizziness, or cough. The patient states that she has a history of congestive heart failure and hypertension, for which she takes medications regularly. She also reports a recent upper respiratory infection, which resolved about a week ago. Upon further discussion, the patient reports that she has been experiencing increased fatigue and leg swelling over the past few weeks. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of palpitations and occasional chest discomfort, but denies any syncope or orthopnea.",
+    "respiratory": "The patient reports shortness of breath without associated cough or wheezing. She denies any hemoptysis or pleuritic chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel or bladder function.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "The patient reports a history of joint pain, especially in the knees and hands, but denies any recent trauma or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, blurry vision, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "The patient has a past medical history significant for congestive heart failure and hypertension.",
+  "medications": "The patient reports taking the following medications regularly: Lisinopril 20mg daily and Furosemide 40mg daily.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient is a non-smoker. She denies any alcohol or illicit drug use. She lives alone and is independent with activities of daily living."
+}

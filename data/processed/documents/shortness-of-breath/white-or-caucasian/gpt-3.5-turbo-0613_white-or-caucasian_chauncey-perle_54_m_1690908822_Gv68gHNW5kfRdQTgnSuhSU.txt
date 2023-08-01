@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chauncey Perle",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. The symptoms started approximately 2 hours ago and have been gradually worsening. Patient denies any chest pain, cough, or fever. He reports feeling lightheaded and has been resting in a sitting position to relieve the symptoms. The patient has a history of asthma and allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath as the chief complaint. Denies any cough or sputum production.",
+    "gi": "Patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any numbness, tingling, or weakness in the extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and allergies. He uses an inhaler as needed for symptom relief. The patient does not have any known cardiac or pulmonary diseases.",
+  "medications": "Patient uses albuterol inhaler as needed for asthma symptoms. He is not currently taking any other medications.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "Patient denies any significant family history of cardiac or pulmonary diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ebony White",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ebony White, a 43-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that she began experiencing sudden onset of shortness of breath approximately 2 hours ago. She denies any recent illness or exacerbation of her asthma symptoms. She states that she has been using her rescue inhaler as needed with good relief over the past few months.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Reports no chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath without cough or sputum production. Denies history of wheezing or hemoptysis.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Reports no dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies dizziness or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of asthma, for which she uses an albuterol inhaler as needed. She also has a history of hypertension, which is well-controlled on amlodipine 5mg daily.",
+  "medications": "Amlodipine 5mg daily for hypertension. Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease, respiratory conditions, or other chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently employed as a teacher and lives with her husband and two children."
+}
+```

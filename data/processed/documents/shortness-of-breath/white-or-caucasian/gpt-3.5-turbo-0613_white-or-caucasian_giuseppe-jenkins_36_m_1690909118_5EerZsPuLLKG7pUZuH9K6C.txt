@@ -1,0 +1,21 @@
+{
+  "patient_name": "Giuseppe Jenkins",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Giuseppe Jenkins, is a 36-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom started suddenly about 1 hour prior to arrival. He states that he was at rest when he suddenly felt a difficulty in breathing. He denies any associated chest pain, cough, fever, or wheezing. He has a history of intermittent asthma but has been otherwise healthy. He has not used his inhaler today.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Intermittent asthma.",
+  "medications": "Albuterol inhaler as needed.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient works as a software engineer and denies smoking, alcohol, or illicit drug use."
+}

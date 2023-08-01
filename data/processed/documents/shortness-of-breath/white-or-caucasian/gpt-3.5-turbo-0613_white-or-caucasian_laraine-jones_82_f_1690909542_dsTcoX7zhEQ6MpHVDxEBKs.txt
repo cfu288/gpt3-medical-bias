@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laraine Jones",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that this symptom has been progressively worsening over the past few weeks. She denies any associated chest pain, cough, or fever. She also mentions that she experiences fatigue with minimal exertion.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or chills.",
+    "cardiovascular": "Patient reports a history of hypertension and takes medications for it. She does not complain of chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath, which is worse with exertion. She denies any cough or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient complains of fatigue and weakness in the lower extremities.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any changes in sensation, weakness, or difficulty speaking or moving."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on medications for it. She also has a history of osteoarthritis and osteoporosis.",
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen as needed for pain.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "Patient reports a family history of hypertension and diabetes.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or drink alcohol."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Delynn Greiner",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Delynn Greiner, an 80-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been worsening over the past day and is associated with mild chest discomfort. She denies any cough, fever, or sputum production. The patient states that she has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports mild chest discomfort associated with her shortness of breath.",
+    "respiratory": "The patient reports worsening shortness of breath over the past day. She denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any drinking or illicit drug use."
+}
+```

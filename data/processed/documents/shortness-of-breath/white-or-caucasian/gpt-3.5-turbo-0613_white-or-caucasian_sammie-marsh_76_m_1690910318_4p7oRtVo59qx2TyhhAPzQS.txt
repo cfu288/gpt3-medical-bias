@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sammie Marsh",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Sammie Marsh, a 76-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient states that he has been experiencing increasing difficulty breathing for the past 3 days. He reports that the shortness of breath is worse with exertion and is associated with a non-productive cough. He denies any chest pain, palpitations, or fever. He reports no recent travel, sick contacts, or known exposure to any respiratory illnesses. On further questioning, he admits to a history of smoking for 30 years but quit 5 years ago. His past medical history is significant for hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He takes medications for his hypertension and hyperlipidemia, but he does not take any regular medications for his COPD. He has no known drug allergies. He reports no previous surgeries. He has a family history of hypertension and heart disease. Socially, the patient is retired and denies any alcohol or illicit drug use. He is a non-smoker and lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath with exertion and non-productive cough. Negative for hemoptysis, wheezing, or orthopnea.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "The patient takes medications for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient has a family history of hypertension and heart disease.",
+  "social_history": "The patient is retired and denies any alcohol or illicit drug use. He is a non-smoker and lives alone."
+}

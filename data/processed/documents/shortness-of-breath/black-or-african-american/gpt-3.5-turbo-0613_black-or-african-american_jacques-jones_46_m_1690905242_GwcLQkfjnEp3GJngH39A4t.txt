@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Jacques Jones is a 46-year-old male who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he started experiencing shortness of breath approximately 2 hours ago while at rest. He denies any associated chest pain, cough, fever, or leg swelling. He reports no recent travel or sick contacts. He has a past medical history significant for hypertension and hyperlipidemia. He is currently not taking any medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker, non-drinker, and denies any drug use."
+}

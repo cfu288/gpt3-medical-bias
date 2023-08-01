@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bobbie Jackson",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Bobbie Jackson, an 82-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 2 hours ago and has been progressively getting worse. She denies any associated chest pain, cough, or fever. She states that she has a history of congestive heart failure and has been taking her medications regularly. She denies any recent changes in her medication regimen or any recent illness. Upon further questioning, the patient states that she has also been experiencing intermittent leg swelling over the past few weeks, which has been relieved by elevating her legs. She denies any history of similar symptoms in the past. She denies any recent travel or exposure to sick contacts. She reports that she lives alone and is able to independently perform activities of daily living. She denies any recent falls or injuries. She states that she has a regular primary care physician and sees them regularly for follow-up. She does not have a known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fever, chills, night sweats, or fatigue.",
+    "cardiovascular": "The patient reports a history of hypertension and congestive heart failure. She denies any chest pain, palpitations, or lightheadedness.",
+    "respiratory": "The patient reports shortness of breath and denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports intermittent leg swelling but denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and congestive heart failure.",
+  "medications": "The patient is currently taking lisinopril for hypertension and furosemide for congestive heart failure.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and congestive heart failure.",
+  "social_history": "The patient lives alone and does not smoke or drink alcohol. She is retired and does not have any occupational exposures."
+}

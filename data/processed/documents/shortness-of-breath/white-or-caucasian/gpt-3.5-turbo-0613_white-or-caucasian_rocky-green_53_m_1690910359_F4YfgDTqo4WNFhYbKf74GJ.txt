@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rocky Green",
+  "age": "53",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath that started suddenly 2 hours ago. Patient states that he was resting at home when he suddenly felt a tightness in his chest and difficulty breathing. He denies any associated symptoms such as chest pain, dizziness, or wheezing. He has a past medical history of hypertension and hyperlipidemia. He denies any recent illnesses, infections, or exposure to allergens.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient complains of shortness of breath with minimal exertion and difficulty lying flat. Denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or flank pain.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headaches, syncope, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No known surgical procedures",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a non-smoker, denies alcohol or illicit drug use. Retired from his job as a construction worker."
+}

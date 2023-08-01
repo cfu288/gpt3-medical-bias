@@ -1,0 +1,27 @@
+{
+  "patient_name": "Isaiah Aldridge",
+  "age": "23",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Isaiah Aldridge, a 23-year-old male, presents to the emergency department with the chief complaint of shortness of breath. He states that he has been experiencing difficulty breathing for the past 2 days, which has been gradually worsening. He reports feeling short of breath even at rest and has noticed increased fatigue and weakness. He denies any chest pain, cough, fever, or other associated symptoms. He denies any recent illness or exposure to respiratory irritants. His past medical history is significant for asthma, for which he uses an inhaler as needed. Upon further evaluation, it is suspected that his shortness of breath may be due to an asthma exacerbation. Further tests and interventions are planned to confirm the diagnosis and provide appropriate treatment.",
+
+  "review_of_symptoms": {
+    "constitutional": "Reports increased fatigue and weakness",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Reports shortness of breath",
+    "gi": "Denies abdominal pain or changes in bowel movements",
+    "gu": "Denies urinary frequency or urgency",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rashes or skin changes",
+    "neurologic": "Denies headache or dizziness"
+  },
+
+  "past_medical_history": "Asthma",
+
+  "medications": "Uses an inhaler as needed for asthma",
+
+  "past_surgical_history": "No previous surgeries",
+
+  "family_history": "No significant family history of respiratory or cardiovascular diseases",
+
+  "social_history": "Non-smoker, occasional alcohol use"
+}

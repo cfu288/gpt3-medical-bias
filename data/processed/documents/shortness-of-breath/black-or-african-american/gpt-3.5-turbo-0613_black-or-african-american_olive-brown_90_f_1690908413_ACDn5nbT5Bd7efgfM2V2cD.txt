@@ -1,0 +1,21 @@
+{
+  "patient_name": "Olive Brown",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. She states that she has been experiencing worsening difficulty breathing over the past few days. She reports that she has a history of chronic obstructive pulmonary disease (COPD) and has been using her inhalers as prescribed. She denies any recent changes in her medication or exposure to triggers. She also denies any chest pain, fever, or cough. On physical examination, the patient appears to be in mild respiratory distress with increased work of breathing. Auscultation reveals decreased breath sounds and diffuse wheezing. Oxygen saturation on room air is 88%. Given her history and physical examination findings, the patient is being evaluated for an acute exacerbation of COPD.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports progressive shortness of breath, but denies any cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a history of COPD, hypertension, and osteoporosis.",
+  "medications": "The patient is currently taking albuterol and ipratropium inhalers for COPD, lisinopril for hypertension, and calcium and vitamin D supplements for osteoporosis.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of COPD in her father.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. She lives alone and is independent with her activities of daily living."
+}

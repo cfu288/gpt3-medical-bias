@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mae Johnson",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mae Johnson, a 65-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptom began approximately 2 hours ago and has been progressively worsening since onset. She denies any associated chest pain, cough, fever, or chills. The patient states that she has a history of chronic obstructive pulmonary disease (COPD) and has been compliant with her medications. She has been using her albuterol inhaler as needed and has not required any recent hospitalization for her COPD exacerbations. The patient reports no recent changes to her medications or treatment plan. She denies any recent travel or sick contacts. She states that her shortness of breath is worse with exertion and is affecting her ability to perform activities of daily living. On initial assessment, the patient's oxygen saturation is 93% on room air. She is using accessory muscles of respiration and appears to be in moderate respiratory distress. A focused physical examination reveals decreased breath sounds bilaterally with diffuse expiratory wheezing. The patient's vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 88 beats per minute, respiratory rate of 24 breaths per minute, and temperature of 98.6°F. The patient is placed on supplemental oxygen via nasal cannula at 2 L/min and is started on nebulized albuterol and ipratropium for symptom relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any changes in mental status, headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "COPD, hypertension",
+  "medications": "Albuterol inhaler as needed, lisinopril 10 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "The patient reports a family history of coronary artery disease in her older brother, who had a myocardial infarction at the age of 60.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is retired and lives alone. She is independent with activities of daily living and does not require any assistance at home."
+}

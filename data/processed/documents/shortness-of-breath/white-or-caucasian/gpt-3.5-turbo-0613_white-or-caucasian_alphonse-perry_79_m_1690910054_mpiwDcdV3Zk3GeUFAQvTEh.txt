@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Perry",
+  "age": "79",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived at the emergency department with chief complaint of shortness of breath. He reports that the symptoms started approximately 2 hours ago and have been progressively worsening. He denies any associated chest pain or dizziness. The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and has been on oxygen therapy at home. He states that he has been compliant with his home oxygen therapy, but it has not been relieving his symptoms. He denies any recent illnesses or infections. Upon initial evaluation, the patient appears to be in moderate respiratory distress with visible use of accessory muscles and prolonged expiration. Lung auscultation reveals diminished breath sounds bilaterally with crackles heard at the bases. Pulse oximetry shows an oxygen saturation of 88% on room air. EKG and cardiac enzymes have been ordered to rule out acute coronary syndrome."
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "No prior history of heart disease, chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Patient reports experiencing progressively worsening shortness of breath over the past 2 hours. Denies cough, sputum production, or hemoptysis.",
+    "gi": "No abdominal pain, diarrhea, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urinary pattern.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "Denies changes in sensation, movement, or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia.",
+  "medications": "The patient is currently taking albuterol inhaler, fluticasone inhaler, tiotropium inhaler, lisinopril, and atorvastatin.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease in his father, who had a myocardial infarction at age 65.",
+  "social_history": "The patient is a retired construction worker. He has a 40-pack-year smoking history and quit smoking 10 years ago. He denies alcohol or illicit drug use."
+}

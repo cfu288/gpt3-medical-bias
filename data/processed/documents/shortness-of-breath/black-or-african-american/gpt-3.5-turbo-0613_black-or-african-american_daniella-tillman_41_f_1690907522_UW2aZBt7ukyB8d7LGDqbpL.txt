@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Daniella Tillman",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Daniella Tillman, a 41-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing an increasing difficulty in breathing over the past 24 hours. She denies any chest pain, cough, or fever. The shortness of breath is exacerbated with exertion and relieved by rest. She has no history of similar symptoms in the past. Onset of symptoms is sudden and there are no precipitating factors.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or fatigue",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, worsened with exertion",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or changes in sensation"
+  },
+  "past_medical_history": "The patient has a history of allergic rhinitis and seasonal allergies. No other significant past medical history.",
+  "medications": "The patient takes loratadine as needed for allergies.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "No significant family history of cardiovascular, respiratory, or allergic conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

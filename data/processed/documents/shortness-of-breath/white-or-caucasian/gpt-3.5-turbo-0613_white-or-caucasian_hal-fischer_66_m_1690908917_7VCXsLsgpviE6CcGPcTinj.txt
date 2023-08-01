@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hal Fischer",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Fischer is a 66-year-old male who presents to the emergency department with complaints of shortness of breath. The symptoms began yesterday and have been progressively worsening. He reports difficulty breathing, particularly with exertion. He denies any chest pain, cough, fever, or sputum production. He also states that he has a history of smoking for 30 years but quit 5 years ago. He has no known cardiac history. His vital signs on presentation are stable with a heart rate of 80 beats per minute, blood pressure of 130/80 mmHg, respiratory rate of 18 breaths per minute, oxygen saturation of 98% on room air, and a temperature of 98.6°F.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, night sweats, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or peripheral edema",
+    "respiratory": "Shortness of breath with exertion",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits",
+    "gu": "No dysuria, hematuria, or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol, simvastatin",
+  "past_surgical_history": "Appendectomy in childhood",
+  "family_history": "No significant family history of cardiac or pulmonary disease",
+  "social_history": "Former smoker (quit 5 years ago), occasional alcohol use"
+}

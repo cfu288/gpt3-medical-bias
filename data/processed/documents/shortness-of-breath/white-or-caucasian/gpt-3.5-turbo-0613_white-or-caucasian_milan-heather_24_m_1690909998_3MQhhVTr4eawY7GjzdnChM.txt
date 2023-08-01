@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Milan Heather",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Milan Heather, a 24-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started two days ago and have been progressively worsening. He denies any chest pain, cough, wheezing, or fever. He states that he has been feeling quite fatigued and has noticed increased swelling in his legs.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or leg pain at rest.",
+    "respiratory": "Reports shortness of breath on exertion.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rash or skin changes reported.",
+    "neurologic": "No headaches, dizziness, or focal neurological symptoms reported."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications on a regular basis.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies illicit drug use. He drinks alcohol occasionally."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Giulio Prescott",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Prescott, presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing for the past 2 days. He notes that the shortness of breath is worse with exertion and does not improve with rest. There is no associated chest pain or cough. He denies any recent illness or travel. He states that he has a history of asthma but has not required the use of his inhaler in over a year. He denies any recent changes in his medications or exposures to allergens.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with exertion. No cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "History of asthma",
+  "medications": "Uses albuterol inhaler PRN for asthma symptoms.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Non-smoker. Denies use of illicit drugs. Occasional alcohol use."
+}
+```

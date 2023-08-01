@@ -1,0 +1,21 @@
+{
+  "patient_name": "Len Robinson",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath that started acutely about 2 hours ago. Patient reports no recent illness or known exposures. Shortness of breath is associated with mild chest discomfort and a non-productive cough. Patient denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports dyspnea on exertion and mild cough.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any rash, lesions, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies, requiring the use of intermittent rescue inhalers and antihistamines. Patient reports no hospitalizations or surgeries in the past.",
+  "medications": "Albuterol inhaler as needed for wheezing. Loratadine 10 mg daily for allergies.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of cardiac, respiratory, or autoimmune diseases.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. Patient works as an accountant and denies any recent travel or sick contacts."
+}

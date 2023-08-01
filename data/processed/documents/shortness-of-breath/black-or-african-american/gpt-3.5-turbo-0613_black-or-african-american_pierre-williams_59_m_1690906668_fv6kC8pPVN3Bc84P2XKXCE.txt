@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pierre Williams",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset shortness of breath. He reports feeling increasingly breathless over the past few hours, which has worsened with exertion. He denies any chest pain or cough. His symptoms are associated with mild dizziness and lightheadedness. No previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills or weight loss",
+    "cardiovascular": "No chest pain, palpitations or edema",
+    "respiratory": "Shortness of breath, no cough",
+    "gi": "No abdominal pain, nausea or vomiting",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "Mild dizziness and lightheadedness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg nightly",
+  "past_surgical_history": "Cholecystectomy in 2015",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

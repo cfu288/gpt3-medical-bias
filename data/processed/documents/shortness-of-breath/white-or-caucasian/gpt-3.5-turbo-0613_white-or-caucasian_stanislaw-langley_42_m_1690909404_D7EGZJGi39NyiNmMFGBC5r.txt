@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stanislaw Langley",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Langley, a 42-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago. He denies any chest pain, cough, or fever. The patient states that he has not had any recent illnesses or exposure to sick contacts.",
+  "review_of_symptoms": {
+      "constitutional": "No fever, chills or weight loss.",
+      "cardiovascular": "No chest pain or palpitations.",
+      "respiratory": "Complains of shortness of breath, denies cough or sputum production.",
+      "gi": "No nausea, vomiting, or abdominal pain.",
+      "gu": "No dysuria or hematuria.",
+      "musculoskeletal": "No joint pain or stiffness.",
+      "skin": "No rashes or wounds.",
+      "neurologic": "No headache or change in mental status."
+  },
+  "past_medical_history": "Mr. Langley has a past medical history of asthma and seasonal allergies. He reports being on an inhaler for his asthma, but is unsure of the exact name of the medication.",
+  "medications": "The patient takes an inhaler for his asthma, but does not know the specific name of the medication. He denies taking any other prescription or over-the-counter medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Mr. Langley is a non-smoker and denies any alcohol or illicit drug use. He is currently employed as a software engineer and lives alone."
+}

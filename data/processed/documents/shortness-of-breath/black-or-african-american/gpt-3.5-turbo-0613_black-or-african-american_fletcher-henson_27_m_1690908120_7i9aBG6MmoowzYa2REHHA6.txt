@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fletcher Henson",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the ED with chief complaint of shortness of breath. Symptoms started suddenly this evening while at home. Patient reports feeling a tightness in his chest and difficulty breathing, especially on exertion. Denies any recent illness or exposure to sick contacts. No known allergies. Last ate a regular meal about 4 hours ago. Vital signs: HR 92, BP 120/70, RR 20, O2 sat 92% on room air. Patient appears to be in mild distress, tripoding in bed. Lung auscultation reveals decreased breath sounds bilaterally with crackles at the bases. Cardiac exam is unremarkable. EKG shows normal sinus rhythm. Concern for possible acute respiratory distress, further evaluation needed.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient's chief complaint of shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or changes in pigmentation.",
+    "neurologic": "No headache, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient takes albuterol inhaler as needed for exercise-induced asthma.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

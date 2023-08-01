@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Short",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ola Short, an 87-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing progressive difficulty breathing for the past 3 days. She denies any associated chest pain, cough, or fever. She reports that her shortness of breath is exacerbated with minimal exertion and is relieved by rest. She also complains of mild fatigue and palpitations. The patient states that she has a history of congestive heart failure and has been compliant with her medications, including diuretics and beta blockers. She denies any recent travel or exposure to sick contacts. On further questioning, she mentions that she has a history of smoking for 30 years but quit 10 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "No weight changes, fevers, or night sweats",
+    "cardiovascular": "Reports palpitations, denies chest pain or orthopnea",
+    "respiratory": "Experiences progressive shortness of breath with minimal exertion",
+    "gi": "No nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "Mild fatigue",
+    "skin": "No rashes or wounds",
+    "neurologic": "No dizziness or syncope"
+  },
+  "past_medical_history": "Congestive heart failure",
+  "medications": "Diuretics and beta blockers",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "Non-contributory",
+  "social_history": "Former smoker, quit 10 years ago"
+}

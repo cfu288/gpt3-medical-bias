@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katy Leavitt",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath. She reports that this symptom has been worsening over the past few days. She denies any chest pain or cough. She states that she has been feeling fatigued and has noticed swelling in her ankles. She denies any recent travel or sick contacts. She has a past medical history of hypertension and congestive heart failure.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Positive for ankle swelling",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, Congestive Heart Failure",
+  "medications": "Lisinopril, Metoprolol, Furosemide",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

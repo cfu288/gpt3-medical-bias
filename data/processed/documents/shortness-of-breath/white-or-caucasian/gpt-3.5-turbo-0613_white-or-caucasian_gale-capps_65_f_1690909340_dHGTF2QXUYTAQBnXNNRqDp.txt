@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gale Capps",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gale Capps, is a 65-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started two days ago and has been getting progressively worse. She also notes associated cough and occasional wheezing. She denies any chest pain, fever, chills, or sweats. She has a history of smoking, with a 30-pack-year smoking history. She currently smokes 10 cigarettes per day. She has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. She takes albuterol as needed for her COPD and lisinopril for her hypertension. She denies any recent travel, sick contacts, or exposure to irritants or allergens. She is not currently on any new or recently changed medications. She denies any recent changes in her exercise tolerance or diet. She has no significant past surgical history. The patient reports that her symptoms have been interfering with her activities of daily living and she thought it would be best to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath and occasional wheezing. She denies any coughing up blood or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty ambulating.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient takes albuterol as needed for her COPD and lisinopril for her hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory diseases, cardiovascular diseases, or cancers.",
+  "social_history": "The patient has a 30-pack-year smoking history and currently smokes 10 cigarettes per day. She denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joan Rickle",
+  "age": "83",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Joan Rickle, an 83-year-old female, presents to the emergency department with complaints of shortness of breath. She states that this symptom started suddenly about 2 hours ago and has progressively worsened. She denies any associated chest pain, cough, or fever. She reports a past medical history significant for hypertension, atrial fibrillation, and congestive heart failure. She states that she takes medications for these conditions, including lisinopril and warfarin.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever or chills.",
+    "cardiovascular": "Patient reports a history of atrial fibrillation and congestive heart failure.",
+    "respiratory": "Patient is presenting with shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any focal weakness or sensory changes."
+  },
+  "past_medical_history": "Hypertension, atrial fibrillation, congestive heart failure",
+  "medications": "Lisinopril, warfarin",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "No significant social history reported."
+}

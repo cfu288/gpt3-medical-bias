@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gerri Harris",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gerri Harris, is a 77-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She states that her symptoms began suddenly earlier today. The patient reports feeling like she cannot take a deep breath and experiencing difficulty breathing. She denies any associated chest pain or cough. Her shortness of breath is worse with exertion and lying flat, and she states that she has been using extra pillows at night to prop herself up. She denies any fever or chills. The patient has no significant past medical history or previous episodes of shortness of breath. She takes no regular medications and denies any recent surgeries. Her family history is negative for any respiratory or cardiac conditions. The patient has a 20 pack-year smoking history but quit smoking 5 years ago. She denies any alcohol or illicit drug use. In summation, Gerri Harris presents with acute onset shortness of breath worsened by exertion and lying flat, without any associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any history of chest pain, palpitations, or edema.",
+    "respiratory": "As mentioned in the history of present illness, the patient complains of shortness of breath.
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any confusion, dizziness, or difficulty with speech or coordination."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is negative for any respiratory or cardiac conditions.",
+  "social_history": "The patient is a former smoker with a 20 pack-year history but quit 5 years ago. She denies any alcohol or illicit drug use."
+}

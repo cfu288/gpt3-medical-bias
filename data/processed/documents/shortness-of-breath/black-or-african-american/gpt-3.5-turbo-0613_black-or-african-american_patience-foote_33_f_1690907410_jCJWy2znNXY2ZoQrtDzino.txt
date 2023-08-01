@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patience Foote",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began suddenly approximately 2 hours ago while she was at rest. She describes the shortness of breath as moderate in severity and constant. She denies any associated chest pain, cough, fever, or recent travel. Patient reports a significant medical history of asthma, which is usually well controlled with daily use of an albuterol inhaler. She states that she has been using her inhaler as prescribed, but it has not provided significant relief. Patient reports no recent illness or changes in her environment. Upon examination, the patient appears anxious and is in moderate respiratory distress, with an increased respiratory rate of 24 breaths per minute and difficulty speaking in full sentences. Chest auscultation reveals bilateral wheezes and decreased breath sounds in the lower lung fields.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Patient reports shortness of breath as the chief complaint. Denies cough, hemoptysis, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No skin rashes, lesions or changes.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of asthma.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies history of alcohol or drug abuse."
+}

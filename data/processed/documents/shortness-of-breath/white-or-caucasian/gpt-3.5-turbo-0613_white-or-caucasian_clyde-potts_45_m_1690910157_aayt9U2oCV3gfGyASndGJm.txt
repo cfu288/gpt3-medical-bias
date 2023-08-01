@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clyde Potts",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Clyde Potts, is a 45-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the onset of his symptoms occurred approximately 2 hours ago, and he describes the shortness of breath as sudden in nature. He denies any associated chest pain, cough, or fever. He reports no recent illnesses or travel.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath with exertion. Denies cough or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it regularly.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient reports no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

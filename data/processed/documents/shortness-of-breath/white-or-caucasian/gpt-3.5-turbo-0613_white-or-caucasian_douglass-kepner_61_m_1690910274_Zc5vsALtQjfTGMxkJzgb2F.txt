@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Douglass Kepner",
+  "age": "61",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Douglass Kepner, a 61-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the shortness of breath started suddenly and has been getting worse over the past few hours. He denies any associated chest pain, cough, or fever. The patient has a history of smoking and reports a smoking history of one pack per day for the past 40 years. He also has a medical history of hypertension and hyperlipidemia. On physical examination, the patient appears to be in mild respiratory distress, with tachypnea and using accessory muscles to breathe. His oxygen saturation is 88% on room air. Lung auscultation reveals decreased breath sounds and inspiratory crackles in the bases. Cardiac examination is unremarkable. The patient's vital signs are stable except for tachycardia with a heart rate of 110 beats per minute. Given the patient's symptoms and physical examination findings, further evaluation is warranted to determine the cause of his shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, tachypnea, and inspiratory crackles.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient has a 40-pack-year smoking history and currently smokes one pack per day. He does not consume alcohol or use recreational drugs."
+}
+```

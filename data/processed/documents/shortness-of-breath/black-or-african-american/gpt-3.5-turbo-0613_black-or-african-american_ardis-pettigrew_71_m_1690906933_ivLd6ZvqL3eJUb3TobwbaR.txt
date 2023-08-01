@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ardis Pettigrew",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Pettigrew, is a 71-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms began approximately 2 days ago and have been progressively worsening. He describes the shortness of breath as being present at rest and exacerbated with minimal exertion. He denies any associated chest pain, cough, or fever. He also reports intermittent dizziness and lightheadedness. Mr. Pettigrew states that he has a history of hypertension and hyperlipidemia, for which he takes medications. He denies any recent illnesses or changes in medications. His past surgical history is significant for a coronary artery bypass graft (CABG) surgery performed 10 years ago. He states that he has not had any recent surgeries or procedures. Mr. Pettigrew reports a family history of heart disease, with both his parents having a history of heart attacks. He denies any tobacco or alcohol use. He is retired and lives alone. He does not have any known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, drenching night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports intermittent chest discomfort in the past, which has been previously evaluated and attributed to his known coronary artery disease. He denies any recent changes in this symptom. He also denies any palpitations or irregular heartbeats.",
+    "respiratory": "The patient reports shortness of breath at rest and with exertion as his primary complaint. He denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness. He also denies any muscle weakness or limitations in range of motion.",
+    "skin": "The patient denies any rashes, itching, or changes in the appearance of his skin.",
+    "neurologic": "The patient reports intermittent dizziness and lightheadedness, especially with exertion or position changes. He denies any headaches, changes in vision, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes losartan 50 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia. His blood pressure has been well-controlled with his current medication regimen.",
+  "medications": "Losartan 50 mg daily, atorvastatin 40 mg daily.",
+  "past_surgical_history": "Coronary artery bypass graft (CABG) surgery 10 years ago.",
+  "family_history": "Family history of heart disease; both parents with a history of heart attacks.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use. He does not have any known drug allergies."
+}

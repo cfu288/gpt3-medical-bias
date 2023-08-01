@@ -1,0 +1,21 @@
+{
+  "patient_name": "Werner Malloy",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Malloy is a 75-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports a sudden onset of difficulty breathing that worsened over the past few hours. He denies any chest pain, cough, or fever. He notes that he has a history of hypertension and takes medication for it. He denies any recent illnesses or exposure to sick contacts. On physical examination, he appears anxious and short of breath, with increased work of breathing and decreased breath sounds on the right side of his chest. Vital signs are as follows: heart rate 110 bpm, blood pressure 140/90 mmHg, respiratory rate 24 breaths per minute, oxygen saturation 90% on room air. Given his symptoms and physical findings, concern for a pneumothorax or other pulmonary pathology is raised. Immediate intervention and further investigation are needed to determine the underlying cause of his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient complains of shortness of breath but denies cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

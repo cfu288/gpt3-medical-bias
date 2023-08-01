@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnnie Gilmore",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the symptoms started suddenly about 2 hours ago. He describes the shortness of breath as being worse with exertion and when lying flat. The patient denies any chest pain, cough, or fever. He also denies any leg swelling or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath with exertion and when lying flat.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient had a cholecystectomy in 2015.",
+  "family_history": "The patient's father had a history of myocardial infarction.",
+  "social_history": "The patient is a former smoker and quit smoking 10 years ago. He denies alcohol or drug use."
+}

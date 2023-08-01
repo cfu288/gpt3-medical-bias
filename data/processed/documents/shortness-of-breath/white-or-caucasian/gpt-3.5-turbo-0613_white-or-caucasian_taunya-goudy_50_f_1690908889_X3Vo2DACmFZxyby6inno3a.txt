@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Taunya Goudy",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Taunya Goudy, a 50-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The symptom started approximately 3 hours ago. It is associated with mild coughing and wheezing. The patient reports no fever, chest pain, palpitations, or dizziness. She denies any recent travel or exposure to sick contacts. The shortness of breath has been gradually worsening and is not relieved with rest. She has no significant past medical history.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "No history of smoking or alcohol use. She is married and works as an accountant."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mack Miller",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Miller is a 75-year-old male who presented to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing gradual onset of shortness of breath over the past week. He states that he becomes easily winded with minimal activity and finds it difficult to catch his breath. He denies any associated chest pain, cough, fever, or chills. He reports no history of similar symptoms in the past. In addition, he denies any recent illness or exposure to respiratory pathogens. He has a past medical history of hypertension and dyslipidemia. He has been compliant with his medications which include lisinopril and atorvastatin. His surgical history is significant for a cholecystectomy performed 10 years ago. Socially, he is retired and lives alone. He denies smoking, alcohol, or drug use. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient reports no chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a known history of hypertension and dyslipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for his hypertension and dyslipidemia, respectively.",
+  "past_surgical_history": "The patient has a history of cholecystectomy performed 10 years ago.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease or respiratory conditions.",
+  "social_history": "The patient is retired and lives alone. He denies smoking, alcohol, or drug use. He has no known allergies."
+}

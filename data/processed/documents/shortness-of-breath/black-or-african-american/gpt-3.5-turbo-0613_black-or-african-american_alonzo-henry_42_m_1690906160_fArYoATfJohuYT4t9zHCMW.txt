@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Henry",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath for the past 2 days. The symptoms have been progressively worsening and are associated with a dry cough. The patient denies any fever, chest pain, or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient presents with shortness of breath and a dry cough. No known history of asthma or chronic obstructive pulmonary disease (COPD).",
+    "gi": "No complaints of abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No history of seizures or neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for both conditions.",
+  "medications": "Patient takes Lisinopril for hypertension and Atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "No significant family history of cardiovascular or respiratory conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

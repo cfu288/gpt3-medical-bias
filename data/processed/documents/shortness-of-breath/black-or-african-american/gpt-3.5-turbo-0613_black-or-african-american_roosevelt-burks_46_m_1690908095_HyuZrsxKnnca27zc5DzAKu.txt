@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roosevelt Burks",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago. He denies any associated chest pain or fever. He also reports some mild cough and wheezing. Past medical history includes hypertension and asthma. He is currently taking Lisinopril for his blood pressure. There is no history of recent surgeries. He denies any family history of lung disease. The patient is a current smoker with a 15 pack-year history. He denies any illicit drug use or alcohol abuse."
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, cough, and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Hypertension, asthma",
+  "medications": "Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "No family history of lung disease.",
+  "social_history": "The patient is a current smoker with a 15 pack-year history. He denies any illicit drug use or alcohol abuse."
+}

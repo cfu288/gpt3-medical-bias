@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherwin Smith",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Smith is a 64-year-old male who presents to the emergency department with chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago and has been gradually worsening. He denies any chest pain, palpitations, or cough. He states that he has had a similar episode of shortness of breath in the past, but it resolved on its own. He has no past medical history of respiratory conditions or cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath, but denies cough, sputum production, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes lisinopril 10mg daily.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Appendectomy at age 30. No other surgeries.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a retired teacher. He does not smoke or drink alcohol. He lives alone and denies any exposure to occupational or environmental toxins."
+}

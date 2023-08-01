@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wolfgang Phipps",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Wolfgang Phipps, a 24-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started suddenly this morning and have been progressively worsening. He denies any previous episodes of shortness of breath or known respiratory conditions. On further interview, he describes his shortness of breath as worsened with activity and relieved by rest. He has associated cough, but denies fever, chills, chest pain, or palpitations.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath with activity.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No numbness, weakness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has no significant past medical history and denies any chronic medical conditions.",
+  "medications": "The patient denies any current use of medications.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient is unsure of his family medical history as he was adopted at a young age and does not have contact with his biological family.",
+  "social_history": "The patient reports that he is a student and does not smoke, drink alcohol, or use recreational drugs. He denies any recent travel or exposure to sick contacts."
+}
+```

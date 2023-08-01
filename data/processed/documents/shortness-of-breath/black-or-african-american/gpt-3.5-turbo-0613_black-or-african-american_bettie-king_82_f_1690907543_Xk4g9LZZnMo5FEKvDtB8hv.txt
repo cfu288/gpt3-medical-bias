@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie King",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly today and has been gradually getting worse. She denies any chest pain or cough. She reports feeling tired and weak. She states that she has a history of heart failure and has been taking medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Positive for previous heart failure diagnosis and history of heart attack",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Patient has a history of heart failure, hypertension, and diabetes",
+  "medications": "Patient is currently taking lisinopril, metoprolol, furosemide, and insulin",
+  "past_surgical_history": "Patient has a history of coronary artery bypass surgery",
+  "family_history": "No significant family history",
+  "social_history": "Patient is retired and lives alone"
+}

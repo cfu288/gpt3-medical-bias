@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Moore",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Moore, is a 73-year-old male who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing progressive difficulty breathing for the past two days. He reports that the dyspnea is worse with exertion and is associated with a cough productive of yellow phlegm. He denies any chest pain, fever, chills, or wheezing. His shortness of breath has been interfering with his ability to perform activities of daily living. He denies any recent sick contacts or travel history.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with exertion and productive cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "Metoprolol 25mg daily, atorvastatin 40mg daily, and albuterol inhaler as needed for shortness of breath.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Hypertension and hyperlipidemia in parents.",
+  "social_history": "Former smoker with a 20-pack-year history. No alcohol or illicit drug use."
+}
+```

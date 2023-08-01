@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lelia Kyles",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Lelia Kyles, a 77-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptom started suddenly about an hour ago and has been progressively worsening. She denies any associated chest pain, palpitations, or cough. She states that she has not had any recent illnesses or exposure to sick individuals. Her medical history includes hypertension and hyperlipidemia, for which she takes medication. She denies any recent changes in her medications or any new allergies. On physical examination, the patient appears mildly distressed and is using accessory muscles to breathe. Auscultation of the heart reveals regular rate and rhythm with no murmurs, gallops, or rubs. Lung examination reveals bilateral crackles on inspiration. The patient's oxygen saturation is 88% on room air. Given the acuity of her symptoms and the abnormal findings on examination, further evaluation and management is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or wounds",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Unknown",
+  "past_surgical_history": "None",
+  "family_history": "Unknown",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

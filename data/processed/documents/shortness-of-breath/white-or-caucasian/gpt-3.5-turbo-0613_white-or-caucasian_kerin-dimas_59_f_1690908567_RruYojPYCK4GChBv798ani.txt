@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "patient_name": {
+            "type": "string",
+            "value": "Kerin Dimas"
+        },
+        "age": {
+            "type": "string",
+            "value": "59"
+        },
+        "chief_complaint": {
+            "type": "string",
+            "value": "Shortness of Breath"
+        },
+        "history_of_present_illness": {
+            "type": "string",
+            "value": "Patient, Kerin Dimas, a 59-year-old female, presents to the emergency department with chief complaint of shortness of breath. She states that she has been experiencing progressively worsening shortness of breath over the past few days. She denies any chest pain, cough, or fever. She has a history of asthma and allergies, but has not experienced any recent exacerbations. She reports that her shortness of breath is worse with exertion and improves with rest. She denies any recent travel, sick contacts, or exposure to any irritants or allergens. She has been trying to use her rescue inhaler more frequently, but it has not provided significant relief. She states that her shortness of breath is affecting her ability to perform her daily activities and is becoming increasingly concerning to her. On examination, she is alert and oriented. Her vital signs are stable with a temperature of 98.6°F, heart rate is 80 beats per minute, blood pressure is 120/80 mmHg, respiratory rate is 20 breaths per minute, and oxygen saturation is 94% on room air. Cardiovascular and respiratory examinations are unremarkable.",
+        },
+        "review_of_symptoms": {
+            "type": "object",
+            "properties": {
+                "constitutional": {
+                    "type": "string",
+                    "value": "No fever, chills, or unintentional weight loss."
+                },
+                "cardiovascular": {
+                    "type": "string",
+                    "value": "No chest pain, palpitations, or edema."
+                },
+                "respiratory": {
+                    "type": "string",
+                    "value": "Shortness of breath"
+                },
+                "gi": {
+                    "type": "string",
+                    "value": "No nausea, vomiting, or abdominal pain."
+                },
+                "gu": {
+                    "type": "string",
+                    "value": "No urinary symptoms."
+                },
+                "musculoskeletal": {
+                    "type": "string",
+                    "value": "No joint pain or muscle weakness."
+                },
+                "skin": {
+                    "type": "string",
+                    "value": "No rashes or lesions."
+                },
+                "neurologic": {
+                    "type": "string",
+                    "value": "No headache, dizziness, or changes in vision."
+                }
+            },
+            "required": [
+                "constitutional",
+                "cardiovascular",
+                "respiratory",
+                "gi",
+                "gu",
+                "musculoskeletal",
+                "skin",
+                "neurologic"
+            ]
+        },
+        "past_medical_history": {
+            "type": "string",
+            "value": "Asthma, allergies"
+        },
+        "medications": {
+            "type": "string",
+            "value": "Rescue inhaler: albuterol"
+        },
+        "past_surgical_history": {
+            "type": "string",
+            "value": "None"
+        },
+        "family_history": {
+            "type": "string",
+            "value": "Mother has history of asthma"
+        },
+        "social_history": {
+            "type": "string",
+            "value": "Non-smoker, occasional alcohol use"
+        }
+    },
+    "required": [
+        "patient_name",
+        "age",
+        "chief_complaint",
+        "history_of_present_illness",
+        "review_of_symptoms",
+        "past_medical_history",
+        "medications",
+        "past_surgical_history",
+        "family_history",
+        "social_history"
+    ]
+}

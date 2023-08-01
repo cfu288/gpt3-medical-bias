@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clarence Sago",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Sago is a 75-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the shortness of breath started suddenly earlier today and has been worsening since then. He denies any chest pain, cough, or fevers. He has a history of chronic obstructive pulmonary disease (COPD) and has been using home oxygen therapy for the past 2 years. However, he states that his usual home oxygen flow rate is not providing adequate relief for his current symptoms. He reports that he has been feeling more fatigued than usual over the past few days. He denies any recent changes in his usual medications, diet, or exercise routine. He came to the emergency department because his symptoms were not improving with his home oxygen therapy.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, lower extremity swelling",
+    "respiratory": "Positive for shortness of breath, negative for cough, hemoptysis",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Negative for joint pain, stiffness",
+    "skin": "Negative for rashes, lesions",
+    "neurologic": "Negative for headache, dizziness, weakness"
+  },
+  "past_medical_history": "Mr. Sago has a history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia.",
+  "medications": "He is currently taking the following medications: albuterol inhaler, fluticasone/salmeterol inhaler, lisinopril, and atorvastatin.",
+  "past_surgical_history": "Mr. Sago has a history of an appendectomy and a right knee arthroscopy.",
+  "family_history": "Negative for any significant family history of respiratory diseases or cardiovascular diseases.",
+  "social_history": "Mr. Sago is a retired teacher. He is a former smoker, having quit 10 years ago. He denies any alcohol or drug use."
+}

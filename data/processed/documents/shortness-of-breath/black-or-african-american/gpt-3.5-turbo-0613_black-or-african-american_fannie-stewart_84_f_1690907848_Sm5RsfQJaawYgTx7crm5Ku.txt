@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fannie Stewart",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Fannie Stewart, an 84-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started approximately 2 hours ago and have been progressively worsening since then. She states that she is experiencing difficulty breathing at rest and with minimal exertion. She denies any associated chest pain, palpitations, or dizziness. She reports no recent sick contacts or travel history. She has a past medical history of hypertension and hyperlipidemia. On examination, the patient appears to be in respiratory distress, with increased work of breathing and decreased breath sounds bilaterally. Initial vital signs are as follows: blood pressure 150/90 mmHg, heart rate 100 bpm, respiratory rate 24 bpm, oxygen saturation 88% on room air, temperature 36.8°C. EKG shows sinus tachycardia. Initial laboratory tests, including complete blood count, basic metabolic panel, and cardiac enzymes, are within normal limits. Chest X-ray shows bilateral infiltrates consistent with pulmonary edema. Given the patient's clinical presentation and findings on examination and imaging, a provisional diagnosis of acute heart failure exacerbation secondary to fluid overload is suspected. The patient will be started on supplemental oxygen via nasal cannula, diuretic therapy, and close monitoring of her hemodynamic status.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath at rest and with minimal exertion.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No prior surgical history",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Non-smoker, lives at home alone, retired"
+}

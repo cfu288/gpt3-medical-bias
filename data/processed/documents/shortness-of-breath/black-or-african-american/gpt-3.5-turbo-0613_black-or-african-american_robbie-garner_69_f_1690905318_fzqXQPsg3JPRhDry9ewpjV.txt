@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robbie Garner",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. Upon further questioning, she reports that her symptoms started acutely about 2 hours ago. She describes her shortness of breath as sudden and severe, and it is associated with chest pain and cough. The patient denies any history of similar symptoms in the past. She denies any recent travel or sick contacts. She reports that she has been feeling generally well otherwise, with no fevers, chills, or weight loss.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss",
+    "cardiovascular": "Patient reports chest pain",
+    "respiratory": "Patient reports shortness of breath and cough",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. She is on medications for both conditions.",
+  "medications": "Patient takes lisinopril 10mg once a day for hypertension and simvastatin 20mg once a day for hyperlipidemia.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension and hyperlipidemia in both of her parents.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

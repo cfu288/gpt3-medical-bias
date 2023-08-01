@@ -1,0 +1,21 @@
+{
+  "patient_name": "Keven Visor",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Keven Visor, a 59-year-old male, presents to the emergency department with complaints of shortness of breath. He states that the shortness of breath has been progressively worsening over the past few days. He denies any associated chest pain, cough, or fever. He reports no recent travel or sick contacts. He has a past medical history of hypertension and hyperlipidemia. He takes metoprolol for blood pressure control. He denies any recent changes in his medications or exposures to any new medications or allergens. He denies any recent surgeries or hospitalizations. He does not have a significant family history of pulmonary or cardiac diseases. In terms of his social history, he is a non-smoker and does not drink alcohol or use recreational drugs. He works as an office manager and denies any occupational exposures.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes, pruritus, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, no alcohol or recreational drug use, office manager"
+}

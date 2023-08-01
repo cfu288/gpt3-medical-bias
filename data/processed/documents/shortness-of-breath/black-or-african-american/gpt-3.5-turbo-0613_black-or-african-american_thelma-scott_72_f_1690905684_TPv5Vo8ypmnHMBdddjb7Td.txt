@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thelma Scott",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Thelma Scott, a 72-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly and has been worsening over the past 24 hours. She denies any associated chest pain, cough, or fever. She also reports no recent travel or exposure to sick contacts. She has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Positive for shortness of breath. Negative for cough or wheezing.",
+    "gi": "Negative for abdominal pain or changes in bowel movements.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Cholecystectomy in 2005",
+  "family_history": "Positive for hypertension in mother",
+  "social_history": "Non-smoker, drinks alcohol occasionally, lives alone"
+}

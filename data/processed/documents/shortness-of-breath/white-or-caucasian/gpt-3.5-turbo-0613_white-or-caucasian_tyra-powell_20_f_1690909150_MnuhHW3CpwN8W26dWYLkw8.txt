@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tyra Powell",
+  "age": "20",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tyra Powell, a 20-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she first started experiencing shortness of breath approximately four hours ago. She states that she was at her home when she suddenly felt a sudden onset of difficulty breathing. She denies any associated chest pain or cough. In terms of duration, the shortness of breath has been constant since its onset and has not improved or worsened. The patient reports that she has no past history of similar episodes and denies any known triggers for her symptoms. She also denies any recent illness, trauma, or significant medical history. Upon further questioning, the patient indicates that her symptoms are not relieved with rest and she has not tried any home remedies or over-the-counter medications. She denies any other associated symptoms such as fever, chills, cough, wheezing, or chest tightness. The patient states that she has not noticed any changes in her sputum color or production. She denies any recent travel, exposure to sick contacts, or recent changes in medication or allergen exposure. Overall, the patient's primary concern is her sudden onset of shortness of breath and she would like to have immediate evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or fatigue.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with no associated cough, wheezing, or chest tightness.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or pruritus.",
+    "neurologic": "No headache, dizziness, or confusion."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient denies any current use of medications.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient denies any tobacco use, alcohol use, or illicit drug use. She also denies any recent travel or exposure to sick contacts."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simone Spellman",
+  "age": "89",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, an 89-year-old female named Simone Spellman, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly earlier today, and she is feeling increasingly fatigued. She denies any chest pain or cough. Her shortness of breath is worse with exertion and relieved with rest. She also notes some swelling in her ankles and feet. She denies any recent travel or known exposure to sick contacts. On further questioning, the patient reports a history of hypertension and congestive heart failure. She takes medications for these conditions. She also reports a past medical history significant for a myocardial infarction and a previous hospitalization for heart failure exacerbation. She denies any recent surgical procedures. The patient's family history is significant for heart disease, with her mother and brother both having a history of myocardial infarctions. In terms of social history, the patient is a non-smoker and does not drink alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "In addition to the shortness of breath and ankle swelling, the patient denies any chest pain or palpitations.",
+    "respiratory": "The patient's main concern is the shortness of breath. She denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient reports some generalized body aches and joint stiffness, but no focal musculoskeletal symptoms such as pain or swelling in specific areas.",
+    "skin": "The patient denies any rashes, sores, or changes in the skin.",
+    "neurologic": "The patient denies any changes in mental status, headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, congestive heart failure, and a previous myocardial infarction.",
+  "medications": "The patient takes medications for her hypertension and congestive heart failure, which include a beta blocker and a diuretic.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient's family history is significant for heart disease, with her mother and brother both having a history of myocardial infarctions.",
+  "social_history": "The patient is a non-smoker and does not drink alcohol."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cathryn Lalich",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Cathryn Lalich, is a 73-year-old female who presents to the emergency department with complaints of shortness of breath. The patient reports that she has been experiencing increasing difficulty breathing for the past two days. She describes the shortness of breath as being worse with exertion and relieved by rest. She denies any associated chest pain or cough. She states that she has also been feeling fatigued and has noticed swelling in her ankles. The patient denies any recent illnesses or infections. She has a medical history of hypertension and hyperlipidemia. She takes medications for these conditions, including amlodipine and atorvastatin. She has no known allergies. The patient has not had any previous surgeries. The patient does not smoke or use alcohol. She lives alone and denies any recent travel. She reports no family history of heart disease or lung disease. The patient has no known exposure to sick contacts. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient reports swelling in her ankles but denies any chest pain or palpitations.",
+    "respiratory": "The patient's chief complaint is shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient reports no joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any family history of heart disease or lung disease.",
+  "social_history": "The patient does not smoke or use alcohol. She lives alone and denies any recent travel. She reports no known exposure to sick contacts."
+}
+```

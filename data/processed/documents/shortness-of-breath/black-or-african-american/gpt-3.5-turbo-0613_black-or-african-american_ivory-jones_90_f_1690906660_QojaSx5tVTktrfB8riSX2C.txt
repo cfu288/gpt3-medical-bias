@@ -1,0 +1,28 @@
+{
+  "patient_name": "Ivory Jones",
+  "age": "90",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ivory Jones, a 90-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing worsening shortness of breath over the past three days. She denies any associated chest pain, cough, or fever.",
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintended weight loss.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient reports shortness of breath at rest and with minimal exertion. She denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or limitation of movement.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and congestive heart failure.",
+  
+  "medications": "The patient's current medications include lisinopril 10 mg daily, atorvastatin 40 mg daily, and furosemide 40 mg daily.",
+  
+  "past_surgical_history": "The patient has a history of cholecystectomy at the age of 70.",
+  
+  "family_history": "The patient's father had a history of myocardial infarction and her mother had a history of stroke.",
+  
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. She lives alone and is independent with activities of daily living."
+}

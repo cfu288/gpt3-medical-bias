@@ -1,0 +1,20 @@
+{
+  "patient_name": "Vicky Smith",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Vicky Smith, a 76-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly this morning and has been progressively worsening. She denies any associated chest pain, cough, fever, or leg swelling. She states that she has never experienced this symptom before. Upon further questioning, she reports mild exertional dyspnea over the past few months and occasional palpitations. She also mentions a history of hypertension and high cholesterol, which are being managed with medications.",
+  "review_of_symptoms": {
+    "cardiovascular": "Denies chest pain, palpitations, orthopnea, paroxysmal nocturnal dyspnea",
+    "respiratory": "Shortness of breath",
+    "gi": "Denies nausea, vomiting, abdominal pain, changes in bowel movements",
+    "gu": "Denies urinary frequency, urgency, dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness, back pain",
+    "skin": "Denies rashes, itching, bruising, discoloration",
+    "neurologic": "Denies headache, dizziness, numbness, tingling"
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Appendectomy at age 40",
+  "family_history": "Mother had hypertension and diabetes",
+  "social_history": "Retired, nonsmoker, non-drinker"
+}

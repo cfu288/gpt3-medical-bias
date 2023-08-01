@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arie Davis",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, a 45-year-old male named Arie Davis, presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started abruptly this morning while he was climbing stairs. He states that he has never experienced this level of difficulty breathing before and is concerned. He denies any associated chest pain, cough, fever, or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 20 mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Family history is significant for hypertension in both parents.",
+  "social_history": "Patient denies tobacco use, alcohol use, and illicit drug use. He works as a computer programmer and lives a sedentary lifestyle."
+}

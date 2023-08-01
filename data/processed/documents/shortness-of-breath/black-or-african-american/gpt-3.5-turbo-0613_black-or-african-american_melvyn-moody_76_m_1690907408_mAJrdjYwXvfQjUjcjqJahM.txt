@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Melvyn Moody",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Moody, is a 76-year-old male who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly about 2 hours ago. He reports feeling like he can't catch his breath and is experiencing difficulty breathing. He denies any chest pain, cough, or fever. The patient states that he has been generally healthy and has never experienced this level of difficulty breathing before.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "No history of chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath without associated cough or wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary complaints or changes in urinary frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No issues with skin rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia but is not currently taking any medications for these conditions.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. He lives alone and has been independent in his activities of daily living."
+}
+```

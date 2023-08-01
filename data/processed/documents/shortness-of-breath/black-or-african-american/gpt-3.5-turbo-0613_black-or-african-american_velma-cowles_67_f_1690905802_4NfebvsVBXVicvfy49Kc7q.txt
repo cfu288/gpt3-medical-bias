@@ -1,0 +1,21 @@
+{
+  "patient_name": "Velma Cowles",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient is a 67-year-old female presenting to the emergency department with a chief complaint of shortness of breath. Symptoms started acutely this afternoon while the patient was at home. She reports feeling increasingly short of breath at rest and with minimal exertion. She denies any chest pain, cough, or fever. The patient states that she has a history of hypertension and takes medication for it. She also reports a past surgical history of cholecystectomy. Upon arrival to the ED, the patient's oxygen saturation was 88% on room air. Initial interventions were focused on improving her oxygenation, including supplemental oxygen via nasal cannula, which improved her saturation to 94%. The patient was placed on a cardiac monitor and IV access was obtained.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension but denies any palpitations or chest pain.",
+    "respiratory": "The patient reports shortness of breath at rest and with minimal exertion. She denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "The patient denies any rashes, wounds, or other skin changes.",
+    "neurologic": "The patient denies any changes in mental status, dizziness, or syncope."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient had a cholecystectomy in the past.",
+  "family_history": "The patient reports a family history of hypertension and cardiovascular disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

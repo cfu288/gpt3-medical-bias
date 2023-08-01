@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elinor Sutton",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Elinor Sutton, an 84-year-old female, presents to the emergency department with complaints of sudden onset shortness of breath. She states that she was resting at home when she suddenly started experiencing difficulty breathing. The shortness of breath is associated with mild chest discomfort and she denies any cough, fever, or recent illness. She reports that her symptoms have been worsening over the past few hours and are not relieved with rest or sitting upright. No previous history of similar symptoms. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath on exertion, worse with lying flat.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension controlled with medication. No known history of heart disease, lung disease, or diabetes.",
+  "medications": "The patient takes amlodipine 10 mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of heart disease or lung disease.",
+  "social_history": "The patient is a lifelong non-smoker and denies any alcohol or illicit drug use."
+}
+```

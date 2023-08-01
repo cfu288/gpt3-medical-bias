@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mihaela Hagans",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient complains of sudden onset of shortness of breath. She states that she was feeling fine until about an hour ago when she began to experience difficulty breathing. She denies any previous episodes of SOB. She also reports no chest pain, cough, fever, or other accompanying symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient complains of dyspnea on exertion but denies cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient is not currently on any medications.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

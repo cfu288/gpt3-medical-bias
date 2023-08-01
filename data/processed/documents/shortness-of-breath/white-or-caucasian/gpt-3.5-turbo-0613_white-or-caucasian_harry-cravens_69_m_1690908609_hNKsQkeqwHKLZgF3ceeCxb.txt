@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harry Cravens",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Cravens presents to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing difficulty breathing for the past two days. He describes the shortness of breath as worsening with exertion and relieved by rest. He denies any chest pain, cough, or fever. He reports no recent sick contacts or travel history. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Positive for shortness of breath, worse with exertion but relieved by rest.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Cravens has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "He is currently taking lisinopril, simvastatin, and metformin for his medical conditions.",
+  "past_surgical_history": "He has no history of any surgical procedures.",
+  "family_history": "There is a family history of hypertension.",
+  "social_history": "Mr. Cravens is a retired truck driver. He is a current smoker, with a smoking history of 40 pack-years. He denies any alcohol or illicit drug use."
+}

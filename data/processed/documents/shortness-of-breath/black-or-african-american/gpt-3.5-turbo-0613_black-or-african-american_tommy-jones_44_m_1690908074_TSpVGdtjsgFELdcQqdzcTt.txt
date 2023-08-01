@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Jones",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tommy Jones, is a 44-year-old male who presents to the emergency department with complaints of shortness of breath. According to the patient, he developed sudden onset of difficulty breathing approximately one hour ago. He reports that the shortness of breath is associated with a cough and mild chest discomfort. Mr. Jones denies any recent illness, fever, or chills. He also denies any known exposure to sick contacts. He states that he has a history of smoking for 10 years but quit 5 years ago. He is unsure if he has any allergies. The patient denies any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, malaise, or weight loss",
+    "cardiovascular": "Negative for palpitations or chest pain",
+    "respiratory": "Positive for shortness of breath, cough, and mild chest discomfort",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "The patient has a history of smoking for 10 years but quit 5 years ago. He currently has no known medical conditions or chronic illnesses.",
+  "medications": "The patient reports not taking any medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease, respiratory conditions, or other hereditary conditions.",
+  "social_history": "The patient is a former smoker, having quit 5 years ago after smoking for 10 years. He denies any alcohol or recreational drug use. He is currently unemployed and lives alone."
+}

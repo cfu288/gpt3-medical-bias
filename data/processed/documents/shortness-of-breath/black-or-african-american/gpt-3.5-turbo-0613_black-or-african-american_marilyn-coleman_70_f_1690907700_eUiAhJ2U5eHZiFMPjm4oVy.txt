@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marilyn Coleman",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started approximately 3 hours ago and have been worsening. Patient reports difficulty breathing, especially with exertion. No associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash, itching, or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia",
+  "medications": "Patient is currently taking lisinopril 20mg daily and atorvastatin 40mg daily",
+  "past_surgical_history": "Patient has no history of any surgeries",
+  "family_history": "No significant family history of heart disease, lung disease, or other chronic illnesses",
+  "social_history": "Patient is a non-smoker and denies alcohol and drug use"
+}

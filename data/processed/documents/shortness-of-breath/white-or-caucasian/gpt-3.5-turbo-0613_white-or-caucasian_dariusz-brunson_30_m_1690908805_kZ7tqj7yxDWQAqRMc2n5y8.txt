@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dariusz Brunson",
+  "age": "30",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Brunson presents to the emergency department with complaints of shortness of breath. Symptoms started earlier today and have been gradually worsening. Patient reports feeling breathless even with minimal exertion. No associated chest pain or cough. Denies any history of asthma or allergies.",
+  "review_of_symptoms": {
+    "constitutional":"Negative for fever, chills, night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, weakness"
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

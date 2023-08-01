@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Jones",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sam Jones, an 82-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started three days ago and have been progressively worsening. He denies any associated chest pain, cough, or fevers. He also reports no recent travel or exposure to sick contacts. His medical history is significant for chronic obstructive pulmonary disease (COPD) and hypertension. He is a former smoker with a 20-pack-year history and quit smoking 10 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, worsened over the past three days.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history significant for COPD and hypertension.",
+  "medications": "The patient is currently taking albuterol inhaler as needed for shortness of breath.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a former smoker with a 20-pack-year history. He quit smoking 10 years ago. He does not consume alcohol or use recreational drugs."
+}

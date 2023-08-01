@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nalini Scott",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Nalini Scott, a 44-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past day. The symptoms are worse with activity and she gets easily fatigued. She denies any associated chest pain, cough, or fever. She also reports a history of asthma, which is usually well-controlled with an albuterol inhaler. However, she has been using her inhaler more frequently over the past 24 hours without significant relief. Upon further questioning, the patient reports that she has a past medical history of hypertension and takes medication for it. She denies any recent infections or changes in medications. She does not have a significant past surgical history. The patient also reports a family history of asthma in her mother. She is a non-smoker and denies any alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, weight changes, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in neurologic function."
+  },
+  "past_medical_history": "Asthma, Hypertension",
+  "medications": "Albuterol inhaler, hypertension medication (unknown name)",
+  "past_surgical_history": "None",
+  "family_history": "Mother with asthma",
+  "social_history": "Non-smoker, no alcohol or drug use"
+}

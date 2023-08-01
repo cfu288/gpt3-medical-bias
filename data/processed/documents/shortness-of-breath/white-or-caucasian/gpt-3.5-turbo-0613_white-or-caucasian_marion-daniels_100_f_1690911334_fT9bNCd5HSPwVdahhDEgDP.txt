@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marion Daniels",
+  "age": "100",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marion Daniels, a 100-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that she has been experiencing increasing difficulty breathing over the past 24 hours. She states that the shortness of breath is worse with exertion and has been associated with a cough and mild chest discomfort. The patient denies any fever, chills, or other respiratory symptoms. She reports no recent travel or exposure to sick individuals. The patient has a history of smoking, with a 30-pack-year history, but states that she quit smoking 5 years ago. She also has a history of hypertension and takes medication for this condition. Upon physical examination, the patient appears in mild respiratory distress, with increased work of breathing and decreased breath sounds on the right side of the chest. The patient's vital signs are stable, with a heart rate of 80 beats per minute, blood pressure of 130/80 mmHg, respiratory rate of 22 breaths per minute, and oxygen saturation of 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient reports no history of chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath and a cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes medication.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of note.",
+  "social_history": "The patient has a history of smoking but quit 5 years ago. She denies alcohol or illicit drug use."
+}

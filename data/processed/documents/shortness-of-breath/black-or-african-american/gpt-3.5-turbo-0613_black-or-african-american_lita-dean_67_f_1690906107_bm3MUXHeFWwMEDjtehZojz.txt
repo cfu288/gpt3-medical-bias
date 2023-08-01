@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lita Dean",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath. She reports that the symptoms began suddenly this morning and have been progressively worsening throughout the day. She denies any chest pain or cough.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath at rest and with minimal exertion.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Patient denies urinary frequency, urgency, or blood in the urine.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash, itching, or changes in the skin.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin for the above mentioned conditions.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient reports a family history of heart disease in her mother and sisters.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rufus Oakley",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Rufus Oakley is a 66-year-old male who presents to the emergency department with a chief complaint of shortness of breath that started two hours ago. He states that he was at home when he suddenly experienced difficulty breathing. The shortness of breath is associated with mild chest discomfort. The patient denies any fever, cough, or sputum production. He has a past medical history significant for hypertension and hyperlipidemia. He takes hydrochlorothiazide and simvastatin for management of his hypertension and hyperlipidemia, respectively. He has no known allergies. The patient states that he has never had any surgeries. He denies any family history of heart disease or lung disease. Socially, the patient is a retired construction worker and lives alone.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports mild chest discomfort and palpitations.",
+    "respiratory": "The patient complains of shortness of breath with minimal exertion. He denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any skin rashes or changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Hydrochlorothiazide and simvastatin",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "No family history of heart disease or lung disease",
+  "social_history": "Retired construction worker, lives alone"
+}

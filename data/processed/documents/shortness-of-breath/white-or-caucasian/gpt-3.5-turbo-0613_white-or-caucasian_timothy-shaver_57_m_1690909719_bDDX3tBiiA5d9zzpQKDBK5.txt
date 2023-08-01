@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Timothy Shaver",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Shaver presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past few days. He states that he feels as though he is not getting enough air and has to take deep breaths frequently. He denies any chest pain or palpitations. He also reports a productive cough with yellowish sputum. He denies any fever or chills. He denies any recent travel or exposure to sick contacts. He states that his symptoms have been worsening and he decided to come to the emergency department for evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or swelling",
+    "respiratory": "Shortness of breath, cough with yellowish sputum",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or lesions",
+    "neurologic": "No headaches, dizziness, or focal weakness"
+  },
+  "past_medical_history": "Mr. Shaver reports a history of hypertension and type 2 diabetes. He is compliant with his medications. He denies any previous hospitalizations or surgeries.",
+  "medications": "1. Lisinopril 10 mg daily for hypertension\n2. Metformin 500 mg twice daily for diabetes",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for hypertension and diabetes in both parents",
+  "social_history": "Mr. Shaver is a non-smoker and denies any alcohol or illicit drug use. He is married and works as a software engineer."
+}
+```

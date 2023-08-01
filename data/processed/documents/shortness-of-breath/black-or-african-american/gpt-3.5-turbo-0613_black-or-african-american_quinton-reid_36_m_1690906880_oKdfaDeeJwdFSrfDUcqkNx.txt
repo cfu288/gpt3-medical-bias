@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quinton Reid",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started approximately 2 hours ago and have been progressively worsening since then. He denies any associated chest pain, cough, fever, or sputum production. He also denies any recent travel, sick contacts, or exposure to any known respiratory illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, but negative for cough, wheezing, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint swelling, muscle weakness, or difficulty ambulating.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or illicit drug use. He is employed as an office assistant."
+}

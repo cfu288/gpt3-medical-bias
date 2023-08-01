@@ -1,0 +1,21 @@
+{
+  "patient_name": "Natasha Pierre",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms began earlier today and have been progressively worsening. Patient reports associated cough and wheezing. No fevers, chills, or chest pain reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Shortness of breath and cough are present.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or burning.",
+    "musculoskeletal": "No joint pain or stiffness reported.",
+    "skin": "No rashes or skin changes reported.",
+    "neurologic": "No numbness, weakness, or dizziness reported."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and asthma.",
+  "medications": "Patient takes lisinopril, atorvastatin, and albuterol as needed.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Family history is non-contributory.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

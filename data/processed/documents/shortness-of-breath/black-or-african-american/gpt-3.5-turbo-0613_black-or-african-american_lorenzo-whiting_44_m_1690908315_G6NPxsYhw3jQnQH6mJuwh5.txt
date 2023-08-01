@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lorenzo Whiting",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started suddenly about an hour ago while he was resting at home. He describes his shortness of breath as an uncomfortable sensation of breathlessness, along with a feeling of tightness in his chest. He denies any associated cough, wheezing, or chest pain. The patient reports no previous history of respiratory problems. He does state that he has a past medical history of hypertension and is currently on medication for this condition. There is no significant past surgical history. On physical examination, the patient appears in mild distress, with increased work of breathing. His vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 90 bpm, respiratory rate of 22 breaths per minute, and oxygen saturation of 96% on room air. Auscultation of the lungs reveals decreased breath sounds bilaterally with fine crackles at the bases. The patient was further evaluated with laboratory tests and imaging studies to determine the underlying cause of his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient reports no chest pain, palpitations, or edema.",
+    "respiratory": "Patient has shortness of breath as his chief complaint. He denies any cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies any gastrointestinal symptoms such as nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any genitourinary symptoms such as dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "Patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient is currently taking medication for hypertension. Medication details are not available.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient is unsure of any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or substance abuse. He is currently employed as a software engineer and has a sedentary lifestyle."
+}

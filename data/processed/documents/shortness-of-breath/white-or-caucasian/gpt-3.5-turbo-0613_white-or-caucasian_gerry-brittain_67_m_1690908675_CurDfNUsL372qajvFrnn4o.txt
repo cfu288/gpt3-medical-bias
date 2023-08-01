@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gerry Brittain",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gerry Brittain, a 67-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He states that the shortness of breath started approximately 2 hours ago and has been progressively worsening. He denies any chest pain, cough, or fever. On further questioning, he reports a history of smoking for 40 years, approximately 1 pack per day. He also reports a remote history of chronic obstructive pulmonary disease (COPD), for which he is not currently on any medications. He states that he has not had any recent exacerbations of his COPD. The patient denies any recent travel or exposure to sick contacts. He states that he has been feeling well otherwise and has not had any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, denies cough or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient's past medical history is significant for chronic obstructive pulmonary disease (COPD) and a remote history of smoking.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient has a significant smoking history, with a 40-year history of smoking 1 pack per day. He denies any alcohol or illicit drug use."
+}
+```

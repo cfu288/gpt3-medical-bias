@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jan Kirkland",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Jan Kirkland, a 60-year-old female, presented to the emergency department with a chief complaint of shortness of breath. The patient reports that she has been experiencing gradual shortness of breath over the past few days. She denies any chest pain, cough, fever, or other respiratory symptoms. She also denies any recent travel or exposure to sick contacts. The patient states that she has a longstanding history of smoking and has not been able to quit despite multiple attempts. She reports that she has never had any respiratory conditions or previous episodes of shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, leg swelling, or changes in skin color.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "Negative for rashes, lesions, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of smoking for over 30 years and has been unable to quit despite multiple attempts. She has no history of respiratory conditions or previous episodes of shortness of breath. Her past medical history is otherwise unremarkable.",
+  "medications": "Patient takes no regular medications.",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "Patient has no significant family history of respiratory diseases.",
+  "social_history": "Patient has a history of smoking for over 30 years. She denies any alcohol or drug use."
+}

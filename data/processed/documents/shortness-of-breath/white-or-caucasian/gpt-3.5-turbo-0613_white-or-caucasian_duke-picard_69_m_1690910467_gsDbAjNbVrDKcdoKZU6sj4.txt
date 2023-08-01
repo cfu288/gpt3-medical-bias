@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duke Picard",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of shortness of breath. He reports that the symptoms began suddenly about 4 hours ago. He describes the shortness of breath as severe and states that it is worse when he exerts himself. He denies any chest pain, cough, or fever. He has a history of asthma and has been using his inhaler as directed but has not seen improvement in his symptoms. Upon arrival to the emergency department, he was found to have a decreased oxygen saturation level of 88% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient complains of shortness of breath, which is his chief complaint.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history significant for asthma and hypertension.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma symptoms. He also takes lisinopril for hypertension.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient's family history is significant for coronary artery disease in his father and sister.",
+  "social_history": "Patient is a retired accountant. He lives alone and denies tobacco, alcohol, or illicit drug use."
+}

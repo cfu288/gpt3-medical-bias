@@ -1,0 +1,21 @@
+{
+    "patient_name": "Tod Alcorn",
+    "age": "60",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "Patient arrived to the Emergency Department complaining of sudden onset shortness of breath. He reports feeling breathless and experiencing difficulty breathing. Symptoms started approximately 2 hours ago and have been worsening since. He denies any other associated symptoms such as chest pain, cough, fever or leg swelling. He has a past medical history of hypertension.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies fever or chills",
+        "cardiovascular": "Patient denies chest pain or palpitations",
+        "respiratory": "Patient reports shortness of breath",
+        "gi": "Patient denies abdominal pain, nausea, vomiting or change in bowel habits",
+        "gu": "Patient denies urinary symptoms",
+        "musculoskeletal": "Patient denies any joint pain or swelling",
+        "skin": "Patient denies any rashes or lesions",
+        "neurologic": "Patient denies numbness, weakness or changes in vision"
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Lisinopril 10mg daily",
+    "past_surgical_history": "Appendectomy in 1995",
+    "family_history": "Father had a history of hypertension",
+    "social_history": "Patient is a non-smoker and denies alcohol or recreational drug use"
+}

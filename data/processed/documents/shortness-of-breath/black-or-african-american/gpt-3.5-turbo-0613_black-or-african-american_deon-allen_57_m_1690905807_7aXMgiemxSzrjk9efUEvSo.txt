@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deon Allen",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Allen is a 57-year-old male who presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing increased difficulty breathing over the past few days. He notes that the shortness of breath has been worsening with exertion and is associated with a persistent cough. He denies any chest pain or palpitations. Mr. Allen also mentions that he has a history of asthma.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath and a persistent cough.",
+    "gi": "The patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of asthma.",
+  "medications": "The patient reports using an albuterol inhaler for his asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of asthma in his brother.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

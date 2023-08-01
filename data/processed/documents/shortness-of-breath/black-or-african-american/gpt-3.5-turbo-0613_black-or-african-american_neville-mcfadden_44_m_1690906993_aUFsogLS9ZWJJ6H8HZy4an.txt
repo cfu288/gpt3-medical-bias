@@ -1,0 +1,21 @@
+{
+  "patient_name": "Neville Mcfadden",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath that started 2 hours ago. The patient reports that the symptom came on suddenly and has been getting progressively worse. He denies any chest pain or other associated symptoms. Patient has a past medical history of asthma and is on a daily inhaler. He reports not having any recent exacerbations of his asthma symptoms. Patient denies any recent illnesses, infections or exposure to irritants.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath, but denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of asthma, otherwise no significant past medical history.",
+  "medications": "Patient takes a daily inhaler for asthma.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

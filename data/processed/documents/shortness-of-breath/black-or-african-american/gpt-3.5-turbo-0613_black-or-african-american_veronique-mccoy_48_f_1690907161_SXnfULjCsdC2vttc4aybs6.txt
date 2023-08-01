@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Veronique Mccoy",
+  "age": "48",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Veronique Mccoy, a 48-year-old female, presents with a chief complaint of shortness of breath. She reports experiencing increasing difficulty breathing over the past two days. The shortness of breath is worse with exertion and improves with rest. She denies any chest pain, cough, or fever. The patient states that she has a history of asthma and has been using her rescue inhaler more frequently over the past week. She also reports feeling fatigued and having decreased exercise tolerance.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma.",
+  "medications": "The patient is currently using a rescue inhaler for her asthma symptoms.",
+  "past_surgical_history": "",
+  "family_history": "The patient's family history is significant for asthma and hypertension.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives in a smoke-free environment. She works as a teacher."
+}
+```

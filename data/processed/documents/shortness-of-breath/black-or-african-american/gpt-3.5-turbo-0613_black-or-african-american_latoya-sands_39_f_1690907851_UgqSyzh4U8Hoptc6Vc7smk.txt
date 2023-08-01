@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Latoya Sands"
+    },
+    "age": {
+      "type": "string",
+      "value": "39"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Patient presents to the emergency department with complaints of shortness of breath. She reports that the symptoms started several hours ago and have since worsened. She denies any chest pain or fevers. She states that she has no similar episodes in the past. On examination, the patient appeared to be in mild respiratory distress with increased work of breathing. Lung auscultation revealed diminished breath sounds in both lower lung fields. Oxygen saturation was noted to be 86% on room air."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills or weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations or edema."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Shortness of breath, decreased breath sounds."
+        },
+        "gi": {
+          "type": "string",
+          "value": "No abdominal pain, nausea or vomiting."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria, hematuria or frequency."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rashes, itching or bruising."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headaches, dizziness or seizures."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "No significant past medical history."
+    },
+    "medications": {
+      "type": "string",
+      "value": "No regular medications."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "No significant past surgical history."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "No significant family history."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Non-smoker, occasional alcohol use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

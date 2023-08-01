@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tari Carroll",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ms. Tari Carroll, a 69-year-old female, presented to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing episodes of shortness of breath over the past week, which have been progressively worsening. She denies any chest pain or cough. She has a history of chronic obstructive pulmonary disease (COPD) and has been using her inhaler as prescribed, but it does not seem to be providing adequate relief. She reports that the shortness of breath is worse with exertion and improves with rest. She denies any recent illness or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint. She denies cough, sputum production, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or swelling. She reports feeling weakness and fatigue.",
+    "skin": "The patient denies any rashes, lesions, or changes in her skin.",
+    "neurologic": "The patient denies any changes in her vision, headache, dizziness, numbness or tingling.",
+  },
+  "past_medical_history": "Ms. Carroll has a past medical history of chronic obstructive pulmonary disease (COPD), for which she is on inhaler medications (albuterol and ipratropium). She is also being treated for hypertension with lisinopril.",
+  "medications": "Albuterol and ipratropium inhalers for COPD management, and lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of coronary artery disease in her father, but no other significant family history.",
+  "social_history": "The patient is a non-smoker and does not drink alcohol. She lives at home alone and does not have any pets."
+}

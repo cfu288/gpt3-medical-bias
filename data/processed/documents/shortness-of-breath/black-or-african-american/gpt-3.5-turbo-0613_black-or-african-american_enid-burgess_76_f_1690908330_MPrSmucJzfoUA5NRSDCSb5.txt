@@ -1,0 +1,21 @@
+{
+  "patient_name": "Enid Burgess",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started about 2 hours ago and have been gradually worsening. Patient states that she has been experiencing difficulty breathing, especially with exertion and lying down. She denies any chest pain, cough, or fever. She reports a history of hypertension and takes medication for it. She also reports a history of smoking, with a 30-pack year smoking history. Physical examination reveals decreased breath sounds and crackles on auscultation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath and cough. Denies any hemoptysis.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any changes in vision or speech, numbness, or weakness in limbs."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes amlodipine daily for hypertension.",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Patient has a 30-pack year smoking history, denies alcohol or drug use."
+}

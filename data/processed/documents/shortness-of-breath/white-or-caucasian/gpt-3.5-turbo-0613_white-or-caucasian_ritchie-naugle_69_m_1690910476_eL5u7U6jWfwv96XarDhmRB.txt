@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ritchie Naugle",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath for the past 2 days. He reports worsening of symptoms with exertion and during sleep. He denies any chest pain, cough, fever, or leg swelling.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for shortness of breath with exertion.",
+    "respiratory": "Positive for shortness of breath at rest and with sleep. Negative for cough or sputum production.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or change in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and atorvastatin.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient's father had a history of heart disease.",
+  "social_history": "Patient is a retired accountant. He quit smoking 10 years ago and denies alcohol or recreational drug use."
+}

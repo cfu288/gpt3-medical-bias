@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clark Snyder",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Snyder is a 62-year-old male who presented to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago while he was at home. He denies any associated chest pain, cough, fever, or swelling in his legs. He states that he has a history of hypertension and takes medication for it. He also reports a mild cough and occasional wheezing for the past few months, which he attributes to his history of smoking. His vital signs on presentation are as follows: Blood pressure: 140/90 mmHg, Heart rate: 92 bpm, Respiratory rate: 20 breaths per minute, Oxygen saturation: 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "<list of medications>",
+  "past_surgical_history": "<list of past surgical procedures>",
+  "family_history": "<family history>",
+  "social_history": "Mr. Snyder is a current smoker, smoking about one pack per day for the past 40 years. He does not drink alcohol or use recreational drugs."
+}

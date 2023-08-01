@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maggie Jasinski",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Maggie Jasinski, an 85-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her shortness of breath started suddenly about an hour ago. She describes feeling as if she cannot catch her breath and has been using her inhaler without relief. She denies any associated chest pain, cough, fever, or sputum production. She also denies any recent illness or exposure to sick contacts. Her symptoms have been gradually worsening throughout the day and are now interfering with her ability to perform activities of daily living. On further questioning, she reports a history of chronic obstructive pulmonary disease (COPD) and is currently prescribed albuterol inhaler as needed. She has been compliant with her medications and has not had any recent exacerbations of her symptoms. She denies any new medications or changes to her treatment plan. She does not have a history of any surgical procedures. She has no significant family history of respiratory or cardiovascular diseases.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Patient's chief complaint already addressed in history of present illness.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or changes in urinary output.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or limitation of range of motion.",
+    "skin": "Patient denies any rash, itching, or changes in skin color or texture.",
+    "neurologic": "Patient denies any headache, dizziness, weakness, or changes in coordination or balance."
+  },
+  "past_medical_history": "Patient has a past medical history significant for chronic obstructive pulmonary disease (COPD).",
+  "medications": "Patient takes albuterol inhaler as needed for her COPD symptoms as prescribed. No other medications reported.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient denies any significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and lives alone. She denies any alcohol or illicit drug use. She does not work or have any significant travel history."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Milind Hawkins",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Milind Hawkins, an 18-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he first noticed the shortness of breath earlier today and it has been progressively worsening. He denies any associated chest pain or cough. He states that he has no significant past medical history and no recent illnesses or exposures.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain or nausea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of respiratory diseases or cardiac conditions.",
+  "social_history": "The patient denies any history of smoking, alcohol or drug use."
+}
+```

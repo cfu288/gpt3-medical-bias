@@ -1,0 +1,21 @@
+{
+  "patient_name": "Amos Sturm",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Sturm, is an 87-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning while he was getting out of bed. He describes the shortness of breath as progressively worsening over the course of the day. He denies any associated chest pain, cough, or fever. He states that he has a history of chronic obstructive pulmonary disease (COPD) and is using albuterol inhaler as needed. He also reports a past medical history of hypertension, hyperlipidemia, and heart failure. The patient denies any recent changes in his medications or any recent illnesses or surgeries. There is no known family history of respiratory diseases. On social history, the patient is a retired accountant and is a non-smoker. He does not consume alcohol or use illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath as his chief complaint. He denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle cramps, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or hearing."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease, hypertension, hyperlipidemia, and heart failure.",
+  "medications": "The patient is currently using albuterol inhaler as needed for his chronic obstructive pulmonary disease. He is also on medications for hypertension, hyperlipidemia, and heart failure.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "There is no known family history of respiratory diseases.",
+  "social_history": "The patient is a retired accountant and is a non-smoker. He does not consume alcohol or use illicit drugs."
+}

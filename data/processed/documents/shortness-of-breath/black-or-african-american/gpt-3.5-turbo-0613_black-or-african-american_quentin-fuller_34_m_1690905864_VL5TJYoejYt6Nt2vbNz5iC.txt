@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quentin Fuller",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Fuller presented to the emergency department today with a chief complaint of shortness of breath. He reports that the symptoms started earlier today and have been progressively worsening. He denies any chest pain or cough. Upon further questioning, he reports a history of smoking and occasional alcohol use. He also mentions that he has been feeling fatigued and has noticed some weight gain over the past few weeks. Mr. Fuller denies any previous episodes of shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "negative",
+    "cardiovascular": "negative",
+    "respiratory": "positive - shortness of breath",
+    "gi": "negative",
+    "gu": "negative",
+    "musculoskeletal": "negative",
+    "skin": "negative",
+    "neurologic": "negative"
+  },
+  "past_medical_history": "Mr. Fuller has a past medical history of hypertension and smoking. He is currently not taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "No surgeries",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Mr. Fuller is a smoker with a 10 pack-year history. He occasionally drinks alcohol."
+}

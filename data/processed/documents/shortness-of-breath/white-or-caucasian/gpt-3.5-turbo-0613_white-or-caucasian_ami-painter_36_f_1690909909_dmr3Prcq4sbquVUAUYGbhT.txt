@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ami Painter",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of sudden onset shortness of breath. She reports that the symptoms started about an hour ago while she was at home. She denies any recent travel or known exposure to sick contacts. She states that she has a history of asthma and has been using her rescue inhaler more frequently over the past few days. She denies any fever, cough, chest pain, or wheezing.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or dizziness.",
+    "respiratory": "Patient complains of shortness of breath that started suddenly about an hour ago. She denies any cough, wheezing, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of asthma and reports using a rescue inhaler as needed.",
+  "medications": "Patient takes albuterol as needed for asthma symptoms.",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

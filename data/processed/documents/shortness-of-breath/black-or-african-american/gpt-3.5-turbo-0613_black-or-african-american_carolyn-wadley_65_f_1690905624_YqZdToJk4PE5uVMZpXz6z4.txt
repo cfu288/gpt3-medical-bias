@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carolyn Wadley",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Ms. Wadley is a 65-year-old female who presents to the emergency department with a chief complaint of shortness of breath. The patient reports that her symptoms started suddenly earlier today. She describes the shortness of breath as moderate in severity and worsening with exertion. She denies any associated chest pain, cough, or fever. She states that she has a history of chronic obstructive pulmonary disease (COPD) and has been using her inhalers as prescribed. There has been no recent change in her inhaler regimen. The patient also mentions that she has a history of smoking for 20 years, but quit 5 years ago. She denies any recent exposures or travel. She states that she has not seen a doctor for her COPD in the past year.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Aside from the chief complaint of shortness of breath, the patient denies coughing, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or limited range of motion.",
+    "skin": "The patient denies rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies headache, dizziness, focal weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of chronic obstructive pulmonary disease (COPD) and smoking for 20 years.",
+  "medications": "The patient uses inhalers for her COPD, including a short-acting beta-agonist and an inhaled corticosteroid.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient has a family history of lung cancer, with her mother being diagnosed at age 70.",
+  "social_history": "The patient is a former smoker and quit smoking 5 years ago. She has a sedentary lifestyle and lives alone."
+}

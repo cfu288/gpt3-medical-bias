@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Avis Berezansky",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Avis Berezansky, a 58-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly earlier today and has been gradually getting worse. She denies any associated chest pain or cough. She also reports feeling lightheaded and fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient reports shortness of breath with minimal exertion.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient's current medications include lisinopril 20mg daily, atorvastatin 40mg daily, and metformin 1000mg twice daily.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker. She consumes alcohol socially but does not have any history of alcohol abuse. She denies any illicit drug use."
+}
+```

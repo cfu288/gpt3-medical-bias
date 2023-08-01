@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Erskine",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Erskine is a 68-year-old male who presented to the emergency department with chief complaint of shortness of breath. The patient reports that the symptoms started suddenly approximately 2 hours ago and have been progressively worsening. He denies any chest pain, cough, or fever. The patient states that he has a history of smoking, approximately 40 pack-years, and has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension. He currently takes albuterol and lisinopril for his medical conditions. The patient denies any recent sick contacts or travel. His vital signs on presentation are as follows: temperature 98.7°F, heart rate 110 beats per minute, blood pressure 150/90 mmHg, respiratory rate 22 breaths per minute, and oxygen saturation 89% on room air. Physical examination reveals increased work of breathing with bilateral wheezing and decreased breath sounds in the lower lobes. The patient appears uncomfortable but is able to speak in complete sentences.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, swelling, or stiffness.",
+    "skin": "The patient denies rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient takes albuterol and lisinopril for his medical conditions.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient has a 40-pack year smoking history and currently smokes 1 pack of cigarettes per day. He denies any alcohol or drug abuse."
+}

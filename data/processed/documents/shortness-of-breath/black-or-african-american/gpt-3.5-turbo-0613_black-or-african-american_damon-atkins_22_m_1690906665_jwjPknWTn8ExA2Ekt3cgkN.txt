@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Damon Atkins",
+  "age": "22",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Damon Atkins, a 22-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing difficulty breathing for the past 2 days. He describes the shortness of breath as sudden onset and progressively worsening. He denies any associated chest pain, cough, fever, or sputum production. He states that he feels breathless even at rest and has to stop and catch his breath frequently. He also reports feeling tired and weak. The patient states that he has no known allergies or significant medical history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports experiencing shortness of breath but denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient reports no previous surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is currently not working or attending school."
+}
+```

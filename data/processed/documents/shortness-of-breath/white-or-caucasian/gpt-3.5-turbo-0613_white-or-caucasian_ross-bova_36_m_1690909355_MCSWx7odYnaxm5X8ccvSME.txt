@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ross Bova",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Ross Bova presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing difficulty breathing for the past 24 hours. He describes the shortness of breath as sudden onset, progressive in nature, and worsens with exertion. He denies any associated chest pain or cough. Patient states that he has a history of asthma and has been compliant with his inhaler. He denies any recent changes to his medication regimen or exposure to any triggers. On physical examination, the patient appears anxious and is in mild respiratory distress with an increased respiratory rate of 24 breaths per minute. Lung auscultation reveals bilateral wheezing and decreased breath sounds at the bases. Oxygen saturation on room air is 92%. EKG shows sinus tachycardia. Based on the clinical presentation and physical examination findings, the patient is being evaluated for an acute exacerbation of asthma. A chest x-ray has been ordered to evaluate for any underlying lung pathology. The patient has been given a nebulizer treatment with albuterol and oxygen therapy via nasal cannula at 2 liters per minute.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler, as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Non-smoker, denies any alcohol or drug use"
+}

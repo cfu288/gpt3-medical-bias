@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deon Simmons",
+  "age": "48",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. He states that the symptom started suddenly about 2 hours ago and has been progressively getting worse. He denies any chest pain, but reports feeling anxious and lightheaded. Patient has a past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Reports shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, swelling",
+    "skin": "Denies rash, pruritus",
+    "neurologic": "Denies headache, dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "Appendectomy in 2010",
+  "family_history": "No known family history of cardiovascular diseases or other chronic illnesses",
+  "social_history": "Patient is a non-smoker, denies alcohol or illicit drug use"
+}

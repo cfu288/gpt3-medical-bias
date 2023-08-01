@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Penny Fike",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Penny Fike, a 71-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began gradually a few days ago and have been worsening. She denies any associated chest pain or palpitations. She also reports feeling fatigued and has noticed swelling in her legs and ankles. She denies any recent fever, cough, or sputum production. She states that she has a history of hypertension and takes daily medication for it. She denies any recent changes in her medications. Upon further questioning, she reports no recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports swelling in both legs and ankles.",
+    "respiratory": "Chief complaint of shortness of breath. Denies cough, sputum production, or chest pain.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "Reports fatigue and difficulty with mobility.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "Reports no changes in sensorium or neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unknown",
+  "past_surgical_history": "Unknown",
+  "family_history": "Unknown",
+  "social_history": "Unknown"
+}
+```

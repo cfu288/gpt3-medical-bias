@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jarred Rachel",
+  "age": "32",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Jarred Rachel, a 32-year-old male, presents to the emergency department with a chief complaint of shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, and unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "The patient reports shortness of breath with minimal exertion, which has been progressively worsening over the past few days. He also mentions cough and occasional wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "The patient denies any changes in sensation, coordination, or balance."
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies.",
+  "medications": "The patient uses an albuterol inhaler for his asthma symptoms.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases reported.",
+  "social_history": "The patient denies smoking. He occasionally consumes alcohol socially and denies illicit drug use."
+}
+```

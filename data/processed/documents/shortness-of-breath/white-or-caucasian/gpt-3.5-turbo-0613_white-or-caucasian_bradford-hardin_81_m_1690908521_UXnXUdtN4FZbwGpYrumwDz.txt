@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bradford Hardin",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing difficulty breathing for the past 2 days. He reports that he experiences shortness of breath with minimal exertion and at rest. He denies any associated chest pain, cough, or fever. He states that he has a history of COPD and has been compliant with his inhalers, but they have not been providing relief. Upon further questioning, the patient reports a past medical history of hypertension, hyperlipidemia, and diabetes. He denies any recent changes in his medications or any recent illnesses. The patient reports a history of smoking for 40 years but quit 20 years ago. He does not have any known allergies. He denies any recent injuries or falls.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Reports shortness of breath with minimal exertion and at rest. Denies cough, sputum production, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies muscle or joint pain or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, numbness, tingling, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, diabetes, and COPD.",
+  "medications": "Inhalers for COPD (albuterol and fluticasone), amlodipine, simvastatin, metformin.",
+  "past_surgical_history": "Appendectomy in 2005.",
+  "family_history": "No family history of cardiovascular disease, cancer, or respiratory disorders.",
+  "social_history": "Former smoker for 40 years. Quit smoking 20 years ago. Denies alcohol or substance abuse."
+}

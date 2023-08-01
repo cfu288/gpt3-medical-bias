@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chester Armstrong",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Armstrong presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptom started suddenly about an hour ago. He states that he has been experiencing difficulty breathing and feels like he can't catch his breath. He denies any chest pain or cough. He states that he has a history of hypertension and takes medication for it. He also reports that he is a former smoker, but quit 5 years ago. He denies any other associated symptoms. On physical examination, Mr. Armstrong was found to have tachypnea and labored breathing. His oxygen saturation was 92% on room air. Lung examination revealed decreased breath sounds and occasional wheezing. He was given a bronchodilator nebulizer treatment, which provided some relief of his symptoms. Further evaluation and workup, including a chest x-ray and blood tests, were ordered to determine the underlying cause of his shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath, wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Hypertension medication",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history",
+  "social_history": "Former smoker, quit 5 years ago"
+}

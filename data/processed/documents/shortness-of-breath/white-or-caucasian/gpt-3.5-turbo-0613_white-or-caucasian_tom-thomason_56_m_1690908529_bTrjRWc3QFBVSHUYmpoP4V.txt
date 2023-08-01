@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tom Thomason",
+  "age": "56",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tom Thomason, a 56-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that his symptoms began earlier today and have been gradually worsening. He describes the shortness of breath as a feeling of inability to catch his breath fully, and he also reports some chest tightness. He denies any associated fever, cough, or wheezing. The patient has a history of smoking for 30 years prior to quitting 10 years ago. He has no known allergies to medications or food. He denies any recent travel or exposure to sick contacts. Upon further questioning, the patient reports occasional episodes of similar symptoms in the past, but they have never been this severe.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath and chest tightness but denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any changes in cognition, speech, or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled on medication. He also has a history of smoking for 30 years prior to quitting 10 years ago.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a history of hypertension and heart disease.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He drinks alcohol socially and denies any illicit drug use. He is currently employed as an accountant and is married with two adult children."
+}

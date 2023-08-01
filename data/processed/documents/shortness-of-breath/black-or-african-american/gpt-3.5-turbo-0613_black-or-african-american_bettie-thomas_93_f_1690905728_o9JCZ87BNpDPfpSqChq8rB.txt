@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie Thomas",
+  "age": "93",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Bettie Thomas, a 93-year-old female, presented to the emergency department with complaints of shortness of breath. According to the patient, the shortness of breath started acutely about an hour ago. She denies any associated chest pain, cough, or fever. She reports no recent travel or sick contacts. She has a past medical history significant for hypertension and hyperlipidemia. Her current medications include lisinopril, atorvastatin, and aspirin. She has no known allergies. On examination, the patient appears in mild respiratory distress. She is tachypneic with a respiratory rate of 24 breaths per minute. Oxygen saturation is 92% on room air. Lung auscultation reveals bilateral crackles with decreased breath sounds at the bases. Heart sounds are normal. No lower extremity edema or signs of peripheral cyanosis noted. The patient is in no acute distress at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for unexplained weight loss or fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, denies cough or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or changes in moles.",
+    "neurologic": "Negative for headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 20 mg daily\n3. Aspirin 81 mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient lives alone. Non-smoker. No history of alcohol or illicit drug use."
+}

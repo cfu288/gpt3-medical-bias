@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Taylor",
+  "age": "86",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, a 86-year-old male named Allan Taylor, presents to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past few days, with associated cough and wheezing. The shortness of breath is worse with activity and he has had to sleep propped up on multiple pillows to help alleviate symptoms. He denies any chest pain, fever, or recent illness. Patient also reports a history of chronic obstructive pulmonary disease (COPD) and has been on home oxygen therapy. He states that his symptoms have not improved with his usual medications and he has been feeling increasingly fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or swelling in the legs.",
+    "respiratory": "Patient reports shortness of breath, cough with productive sputum, and wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a known history of chronic obstructive pulmonary disease (COPD) for which he takes inhalers, including albuterol and tiotropium, and requires home oxygen therapy. He also has hypertension and takes lisinopril for blood pressure control. Patient has a history of smoking, having quit 10 years ago.",
+  "medications": "Albuterol inhaler, tiotropium inhaler, lisinopril.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient has no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a former smoker, having quit 10 years ago. He does not drink alcohol or use illicit drugs."
+}

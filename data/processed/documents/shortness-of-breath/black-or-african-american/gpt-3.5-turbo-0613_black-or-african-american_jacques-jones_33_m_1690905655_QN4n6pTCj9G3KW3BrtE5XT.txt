@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jacques Jones, a 33-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient states that he began experiencing gradual onset of dyspnea about 3 days ago. He reports that the shortness of breath is worse with exertion and relieved with rest. He denies any chest pain, cough, or sputum production. He denies any fever or chills. He also denies any known exposures to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath with exertion",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of asthma, for which he uses an albuterol inhaler as needed.",
+  "medications": "Albuterol inhaler as needed for asthma",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He works as a software engineer and denies any recent travel."
+}

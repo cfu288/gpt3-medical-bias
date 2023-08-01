@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beatrice Perry",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Beatrice Perry, a 72-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath started suddenly this morning and has been gradually worsening throughout the day. She denies any associated chest pain or cough. She states that she has been feeling fatigued and has noticed swelling in her ankles. She denies any recent illness or known exposure to COVID-19. She has a history of hypertension, hyperlipidemia, and congestive heart failure and is currently taking amlodipine, simvastatin, and furosemide. She has no known drug allergies. She has had no recent surgeries and there is no family history of heart disease. She is a non-smoker and does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension, hyperlipidemia, and congestive heart failure. She denies any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath, which has been gradually worsening throughout the day. She denies any cough or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes to her skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and congestive heart failure.",
+  "medications": "The patient is currently taking amlodipine, simvastatin, and furosemide.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no family history of heart disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

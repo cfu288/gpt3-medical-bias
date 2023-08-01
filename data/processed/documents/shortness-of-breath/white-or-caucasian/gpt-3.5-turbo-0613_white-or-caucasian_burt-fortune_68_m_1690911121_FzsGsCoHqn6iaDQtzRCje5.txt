@@ -1,0 +1,21 @@
+{
+  "patient_name": "Burt Fortune",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath. He states that the symptoms started suddenly about 2 hours ago while he was at home. He reports that he has been experiencing some tightness in his chest as well. He denies any associated cough, fever, or recent illness. He states that he has a history of hypertension.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports a history of hypertension. Denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient presents with shortness of breath. Denies any cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any changes in urinary frequency, urgency, dysuria, hematuria, or nocturia.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "Patient denies any rash, itching, or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, syncope, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes lisinopril daily.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports a family history of hypertension in both parents.",
+  "social_history": "Patient is a retired teacher. Denies tobacco or alcohol use."
+}

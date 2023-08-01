@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hilda Alberts",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Hilda Alberts, a 66-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly approximately 1 hour ago while she was at home watching television. She denies any chest pain, palpitations, or cough. She has no history of similar episodes in the past. She has a past medical history of hypertension and hyperlipidemia and takes medications for these conditions. She denies any recent illnesses or travel. On physical examination, the patient appears in distress, with increased respiratory effort. Her vital signs are as follows: blood pressure 145/90 mmHg, heart rate 100 bpm, respiratory rate 26 breaths per minute, and oxygen saturation 89% on room air. Auscultation of the lungs reveals decreased breath sounds and diffuse inspiratory and expiratory wheezing. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, pruritus, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia.",
+  "past_surgical_history": "",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

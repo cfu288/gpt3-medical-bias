@@ -1,0 +1,22 @@
+{
+  "patient_name": "Morton Beard",
+  "age": "74",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started two days ago and have progressively gotten worse. Patient reports difficulty breathing even at rest, associated with cough and wheezing. Patient denies any fevers, chills, chest pain, or sputum production. No known triggers for symptoms. Patient denies any history of similar episodes in the past. No known allergies or recent travel. Patient reports no significant changes in activity level or exposure to potential respiratory irritants.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath and wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and asthma.",
+  "medications": "Patient takes lisinopril 20 mg daily for hypertension, atorvastatin 40 mg daily for hyperlipidemia, and albuterol inhaler as needed for asthma.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2005.",
+  "family_history": "Patient's father had a history of coronary artery disease.",
+  "social_history": "Patient is a retired accountant and quit smoking 10 years ago. Patient denies any alcohol or drug use."
+}

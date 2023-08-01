@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charles Potter",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Charles Potter, a 54-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he suddenly started experiencing difficulty breathing about 2 hours ago. He describes the shortness of breath as severe and constant. He denies any associated chest pain, cough, or fever. The patient states that he has a history of hypertension but has not been compliant with his medications. His shortness of breath is not relieved by rest and he reports feeling lightheaded. On physical examination, the patient appears anxious and is using accessory muscles to breathe. His respiratory rate is elevated at 32 breaths per minute and he has decreased breath sounds in the left lung base. Oxygen saturation is 88% on room air. A chest x-ray has been ordered to rule out any underlying lung pathology."
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension.",
+    "respiratory": "The patient's chief complaint is shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient reports non-compliance with his hypertension medications due to cost.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a current smoker with a 20 pack-year history. He reports occasional alcohol use but denies any illicit drug use.",
+}

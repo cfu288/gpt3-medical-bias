@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shahram Benfield",
+  "age": "47",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Benfield is a 47-year-old male who presents to the emergency department with shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. He reports associated chest pain and cough. He denies any fever, chills, or recent illnesses. He has a past medical history of hypertension and dyslipidemia. He reports taking lisinopril and atorvastatin daily. Upon further questioning, he denies any recent travel, exposure to sick contacts, or known allergies. He states that the symptoms are similar to an episode he experienced 2 years ago, which was diagnosed as a pulmonary embolism.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, weight changes",
+    "cardiovascular": "Positive for chest pain and palpitations",
+    "respiratory": "Positive for shortness of breath and cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting",
+    "gu": "Negative for urinary changes or discomfort",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, weakness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Positive for hypertension in both parents",
+  "social_history": "Non-smoker, occasional alcohol use, denies illicit drug use"
+}

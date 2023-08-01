@@ -1,0 +1,22 @@
+{
+  "patient_name": "Hubert Taylor",
+  "age": "75",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Hubert Taylor, a 75-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports progressive shortness of breath over the past 2 days. He states that he has had difficulty breathing even at rest and has had to sleep with extra pillows to prop himself up. He denies any chest pain, fever, cough, or sputum production. He also denies any recent travel, exposure to sick contacts, or changes in his medications. His past medical history is significant for hypertension and chronic obstructive pulmonary disease (COPD). He is prescribed albuterol inhaler and takes it as needed for shortness of breath. His social history is significant for a 30-pack-year smoking history, but he quit smoking 10 years ago. He lives alone and does not have any pets.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath and denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any changes in sensation, strength, coordination, or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and chronic obstructive pulmonary disease (COPD).",
+  "medications": "The patient takes albuterol inhaler as needed for shortness of breath.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of cardiovascular, respiratory, or other chronic diseases.",
+  "social_history": "The patient is a former smoker with a 30-pack-year smoking history. He quit smoking 10 years ago. He lives alone and does not have any pets."
+}

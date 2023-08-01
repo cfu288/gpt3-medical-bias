@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joi Richards",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Joi Richards, a 45-year-old female, presents to the Emergency Department with complaints of shortness of breath. The symptoms began this morning and have been progressively worsening. She reports difficulty breathing, especially with exertion, and has noticed increased fatigue over the past few days. She denies any chest pain or cough. On further questioning, she mentions a recent upper respiratory tract infection, which resolved about a week ago. She reports no known allergies or recent travel. She denies any history of similar symptoms in the past. Vital signs are stable with no fever or oxygen desaturation. Examination reveals decreased breath sounds bilaterally with mild wheezing on expiration. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash, itching, or skin discoloration.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of mild asthma, but reports no recent exacerbations. She denies any other significant medical conditions.",
+  "medications": "The patient's only regular medication is an albuterol inhaler, which she has been using as needed for her occasional asthma symptoms.",
+  "past_surgical_history": "The patient has no history of any prior surgeries.",
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office assistant and lives with her husband and two children. There is no known exposure to any respiratory illnesses at home or work."
+}

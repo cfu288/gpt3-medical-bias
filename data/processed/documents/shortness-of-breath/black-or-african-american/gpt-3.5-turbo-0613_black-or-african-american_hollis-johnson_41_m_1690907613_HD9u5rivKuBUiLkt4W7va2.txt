@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hollis Johnson",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Patient reports that the symptoms started approximately 3 hours ago and have been progressively worsening. Patient denies any associated chest pain, fever, or cough. Patient states that he has a history of asthma but has not been using his inhaler regularly. Physical examination reveals wheezing and decreased breath sounds on auscultation.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies palpitations, chest pain, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of asthma and has been non-compliant with his prescribed medications.",
+  "medications": "Patient is not currently taking any medications.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient's family history is unremarkable for respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Patient lives alone and has a sedentary lifestyle."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Major Turner",
+  "age": "48",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Turner presents to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing for the past 24 hours. He denies any chest pain or cough. He reports that he has no known history of respiratory issues and has not recently traveled or been exposed to anyone with respiratory symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath but denies cough or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal issues or joint pain.",
+    "skin": "Patient denies any skin changes or rashes.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, which is controlled with medication. He also reports a history of high cholesterol and seasonal allergies.",
+  "medications": "Atenolol 50mg daily for hypertension, Simvastatin 20mg nightly for high cholesterol, and Loratadine 10mg daily for allergies.",
+  "past_surgical_history": "Patient reports no past surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension in both parents, but no other significant family medical history.",
+  "social_history": "Patient is a non-smoker, denies drug or alcohol use, and is currently employed as a manager at a local retail store."
+}

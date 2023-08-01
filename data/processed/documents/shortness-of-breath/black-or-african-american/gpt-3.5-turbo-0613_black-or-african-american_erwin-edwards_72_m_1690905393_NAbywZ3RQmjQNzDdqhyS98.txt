@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Erwin Edwards",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient is a 72-year-old male presenting to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly earlier today and has been progressively worsening. He denies any associated chest pain, cough, or fever. He also states that he has a history of chronic obstructive pulmonary disease (COPD) and uses inhalers regularly for symptom control. He admits to poor adherence to his medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, and edema.",
+    "respiratory": "Positive for progressive dyspnea without associated cough or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, weakness, or sensory changes."
+  },
+  "past_medical_history": "The patient has a past medical history of COPD, hypertension, and hyperlipidemia. He had a myocardial infarction (MI) two years ago and underwent coronary artery bypass graft (CABG). He is also a current smoker with a 30 pack-year history.",
+  "medications": "The patient is prescribed albuterol and ipratropium nebulizers for his COPD. He also takes metoprolol, lisinopril, and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient underwent CABG two years ago.",
+  "family_history": "The patient's family history is significant for hypertension and lung cancer in his father.",
+  "social_history": "The patient is a retired engineer. He is currently divorced and lives alone. He smokes one pack of cigarettes per day and denies any alcohol or illicit drug use."
+}
+```

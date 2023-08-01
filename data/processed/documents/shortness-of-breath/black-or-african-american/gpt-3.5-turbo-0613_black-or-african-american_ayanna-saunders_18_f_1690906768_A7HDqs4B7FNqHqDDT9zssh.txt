@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ayanna Saunders",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ayanna Saunders, is an 18-year-old female who presents to the emergency department with the chief complaint of shortness of breath. The symptoms began earlier today and have been progressively worsening. She reports feeling short of breath at rest and with minimal exertion. She denies any cough or chest pain. She has no significant past medical history and has never experienced similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats. No unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath at rest and with minimal exertion. No cough or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headaches, dizziness, or focal weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and does not use illicit drugs. She denies any alcohol consumption."
+}
+```

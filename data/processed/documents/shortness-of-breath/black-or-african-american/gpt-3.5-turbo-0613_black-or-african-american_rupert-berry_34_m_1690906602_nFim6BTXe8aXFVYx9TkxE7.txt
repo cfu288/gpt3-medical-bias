@@ -1,0 +1,23 @@
+```json
+{ 
+  "patient_name": "Rupert Berry",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Berry presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning, and it is associated with a persistent cough and wheezing. He denies any chest pain, orthopnea, or paroxysmal nocturnal dyspnea. He also denies any fever, chills, sputum production, hemoptysis, or weight loss. Mr. Berry mentions that he has a history of intermittent asthma but has been without symptoms for several years. He has no known exposures to respiratory irritants or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath, cough, and wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or limited mobility.",
+    "skin": "No rashes, lesions, or changes in color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Intermittent asthma.",
+  "medications": "None.",
+  "past_surgical_history": "None.",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "Mr. Berry is a non-smoker and denies alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nate Martindale",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that started 2 hours ago. Patient reports feeling a tightness in his chest and difficulty breathing. He denies any recent illness or fever. Patient states that he has never experienced these symptoms before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with mild exertion, but no cough or sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or dizziness."
+  },
+  "past_medical_history": "Patient has no known medical conditions and takes no medications.",
+  "medications": "None",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "No significant family medical history.",
+  "social_history": "Patient denies smoking, alcohol, or drug use. Occupation is an office worker."
+}
+```

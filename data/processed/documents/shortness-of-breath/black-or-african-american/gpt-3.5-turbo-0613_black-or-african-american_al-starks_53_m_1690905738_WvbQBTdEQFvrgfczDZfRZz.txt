@@ -1,0 +1,21 @@
+{
+  "patient_name": "Al Starks",
+  "age": "53",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Starks is a 53-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started earlier today and have been gradually worsening. He denies any associated chest pain, cough, wheezing, or fever. He states that he has a history of asthma, for which he uses a prescribed inhaler. He denies any recent changes in his medication regimen or exposure to triggers.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in sensorium."
+  },
+  "past_medical_history": "Asthma, hypertension.",
+  "medications": "Albuterol inhaler (as needed), lisinopril (daily).",
+  "past_surgical_history": "Appendectomy 10 years ago.",
+  "family_history": "No significant family history of respiratory or cardiovascular conditions.",
+  "social_history": "Mr. Starks works as a construction worker and is a former smoker with a 10 pack-year history. He quit smoking 5 years ago. He consumes alcohol occasionally but does not use any illicit drugs."
+}

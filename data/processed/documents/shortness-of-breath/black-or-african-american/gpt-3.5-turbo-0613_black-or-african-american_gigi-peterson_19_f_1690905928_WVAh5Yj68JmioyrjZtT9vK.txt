@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gigi Peterson",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. The symptoms started suddenly earlier today and have been progressively worsening. Patient reports feeling breathless even at rest and reports difficulty in speaking full sentences. Denies any associated symptoms such as chest pain, cough, or wheezing. No known triggers for the symptoms. No previous episodes of similar symptoms. No prior medical history or lung conditions. No recent travel or exposure to sick contacts. No known drug allergies.",  
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath as chief complaint, no cough or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No genitourinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No known medical conditions.",
+  "medications": "None.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of chronic medical conditions.",
+  "social_history": "Non-smoker, no alcohol or drug use."
+}
+```

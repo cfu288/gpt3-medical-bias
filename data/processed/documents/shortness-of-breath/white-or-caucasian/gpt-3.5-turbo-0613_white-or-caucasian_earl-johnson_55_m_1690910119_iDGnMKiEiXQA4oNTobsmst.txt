@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earl Johnson",
+  "age": "55",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Earl Johnson, a 55-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started approximately 2 hours ago while he was at rest. His shortness of breath has been progressively worsening since then and is associated with mild chest pain. He denies any history of respiratory infections or traumas. He has never experienced similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Positive",
+    "cardiovascular": "Negative",
+    "respiratory": "Positive",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is currently well-controlled with medication.",
+  "medications": "The patient's current medications include lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a non-smoker, denies any alcohol or illicit drug use, and is currently employed as a construction worker."
+}

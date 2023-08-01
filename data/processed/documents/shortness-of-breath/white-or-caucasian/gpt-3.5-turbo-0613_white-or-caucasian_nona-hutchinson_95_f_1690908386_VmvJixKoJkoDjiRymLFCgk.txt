@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nona Hutchinson",
+  "age": "95",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, Nona Hutchinson, a 95-year-old female, presents to the emergency department with the chief complaint of shortness of breath. The patient reports that her shortness of breath started suddenly this morning while she was lying in bed. She describes the sensation as feeling as if she cannot get enough air into her lungs, and she also notes some associated chest discomfort. She denies any cough, fever, or sputum production. The patient has a history of chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF). She is currently receiving treatment for these conditions with a combination of medications, including bronchodilators, diuretics, and beta-blockers. The patient has been compliant with her medications. She also has a past surgical history significant for a coronary artery bypass graft (CABG) procedure five years ago. The patient has a family history of heart disease, with her father and two siblings having a heart attack. Socially, the patient lives alone but has regular support from a home health aide and her daughter who lives nearby. She is a former smoker, having quit 20 years ago. The patient denies any alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations, orthopnea, paroxysmal nocturnal dyspnea.",
+    "respiratory": "Shortness of breath on exertion and at rest, associated with chest discomfort.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or changes in skin integrity.",
+    "neurologic": "No headache, dizziness, numbness, or tingling."
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF).",
+  "medications": "Bronchodilators, diuretics, beta-blockers.",
+  "past_surgical_history": "Coronary artery bypass graft (CABG) procedure five years ago.",
+  "family_history": "Father and two siblings with a history of heart attack.",
+  "social_history": "Former smoker (quit 20 years ago), no alcohol or illicit drug use."
+}

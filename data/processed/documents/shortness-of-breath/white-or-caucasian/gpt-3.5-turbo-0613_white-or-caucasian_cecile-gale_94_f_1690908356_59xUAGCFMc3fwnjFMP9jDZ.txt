@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecile Gale",
+  "age": "94",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She states that the shortness of breath began earlier today and has been progressively worsening. She denies any chest pain, cough, or fever. She also reports feeling weak and fatigued. Upon further questioning, patient reports a past medical history of heart failure and hypertension. She states that she has been compliant with her medications and has not had any recent changes in medications or dosages. The patient denies any recent surgeries. She reports a family history of heart disease, with her father and two siblings having a history of heart attacks. The patient lives alone and is currently independently functional at home. She reports being a former smoker, having quit smoking 30 years ago. She denies any alcohol or recreational drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of heart failure and hypertension.",
+  "medications": "The patient is currently taking lisinopril 10mg daily for hypertension and furosemide 40mg once daily for heart failure.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of heart disease, with her father and two siblings having a history of heart attacks.",
+  "social_history": "The patient lives alone and is currently independently functional at home. She reports being a former smoker, having quit smoking 30 years ago. She denies any alcohol or recreational drug use."
+}

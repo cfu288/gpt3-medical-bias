@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Isabelle Williams",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Isabelle Williams, a 28-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began suddenly about 1 hour ago. She describes her shortness of breath as severe and constant, and it is associated with chest tightness and cough. She denies any recent illness or fever. She reports a history of asthma. She has been using her rescue inhaler as needed, but it has not provided relief. She has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, and leg swelling.",
+    "respiratory": "Positive for shortness of breath, cough, and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for dysuria, urinary frequency, and hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, and muscle weakness.",
+    "skin": "Negative for rash, itching, and lesions.",
+    "neurologic": "Positive for headache."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma. She has had occasional flare-ups in the past, but has not required hospitalization.",
+  "medications": "She uses a rescue inhaler (albuterol) as needed for her asthma symptoms. She is not on any other medications.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of respiratory diseases, heart disease, or other chronic illnesses.",
+  "social_history": "The patient works as a teacher. She denies tobacco use and illicit drug use. She occasionally drinks alcohol on social occasions. She lives alone and has no recent travel."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latanya Heavens",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Latanya Heavens, is a 57-year-old female who presented to the Emergency Department with a chief complaint of acute onset shortness of breath. The patient reports that she was watching TV at home when she suddenly felt intense difficulty breathing. She denies any associated chest pain, cough, or fever. The patient states that she has a history of smoking but quit 10 years ago. She denies any recent respiratory infections or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath with exertion but denies any recent cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any changes in vision, speech, sensation, or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She reports being on amlodipine and atorvastatin for management of these conditions.",
+  "medications": "1. Amlodipine 5mg daily\n2. Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is significant for coronary artery disease in both parents.",
+  "social_history": "The patient is a former smoker and quit 10 years ago. She denies any alcohol or illicit drug use."
+}
+```

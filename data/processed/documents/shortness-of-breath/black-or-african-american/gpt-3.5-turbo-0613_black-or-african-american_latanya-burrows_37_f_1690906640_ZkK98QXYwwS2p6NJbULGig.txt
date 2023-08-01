@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latanya Burrows",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Latanya Burrows, a 37-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that her symptoms began suddenly about an hour ago. She describes the shortness of breath as mild to moderate and constant. She denies any associated chest pain, cough, or wheezing. She states that she has never experienced this type of symptom before. There are no exacerbating or relieving factors identified at this time. The patient denies any recent illness, fever, or changes in medications. She reports that she has no known medical conditions or allergies. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, fever, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has no known past medical history and denies any previous hospitalizations or surgeries.",
+  "medications": "The patient denies current use of any medications.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. She works as a teacher and lives with her spouse and two children."
+}
+```

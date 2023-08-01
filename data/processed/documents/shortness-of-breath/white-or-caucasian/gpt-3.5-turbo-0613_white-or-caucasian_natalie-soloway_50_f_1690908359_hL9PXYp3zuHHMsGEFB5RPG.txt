@@ -1,0 +1,21 @@
+{
+    "patient_name": "Natalie Soloway",
+    "age": "50",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "The patient Natalie Soloway, a 50-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started yesterday and have progressively worsened. She describes the shortness of breath as a sensation of not being able to take in enough air, and she states that it is exacerbated by activity. She denies any associated chest pain, cough, or fever. She reports no recent travel or sick contacts. The patient has a history of hypertension and is currently taking lisinopril 10mg daily. She denies any recent changes in her medications or compliance. The patient reports no recent surgeries or hospitalizations. She is a non-smoker and denies any alcohol or drug use. She has no known allergies. Her family history is non-contributory.",
+    "review_of_symptoms": {
+        "constitutional": "No fever, chills, or night sweats",
+        "cardiovascular": "No chest pain or palpitations",
+        "respiratory": "Shortness of breath, worse with activity",
+        "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+        "gu": "No urinary frequency, urgency, or dysuria",
+        "musculoskeletal": "No joint pain or swelling",
+        "skin": "No rash or lesions",
+        "neurologic": "No headache, dizziness, or focal neurologic symptoms"
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Lisinopril 10mg daily",
+    "past_surgical_history": "No surgeries",
+    "family_history": "Non-contributory",
+    "social_history": "Non-smoker, no alcohol or drug use"
+}

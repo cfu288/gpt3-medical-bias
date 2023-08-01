@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wolfgang Allen",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Wolfgang Allen, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that over the past few hours, he has noticed increasing difficulty in breathing. The shortness of breath is associated with mild chest discomfort. He denies any cough, fever, or sputum production. The patient denies any recent travel, sick contacts, or exposure to COVID-19. He reports no significant medical history or hospitalizations.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or swelling of the lower extremities.",
+    "respiratory": "The patient reports worsening shortness of breath with exertion, but denies any orthopnea, paroxysmal nocturnal dyspnea, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No changes in vision, speech, coordination, or sensation."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular disease, respiratory disease, or other genetic conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

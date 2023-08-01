@@ -1,0 +1,21 @@
+{
+  "patient_name": "Felicia Jackson",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Ms. Jackson presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started earlier today and has been progressively worsening. She denies any chest pain, cough, or lower extremity swelling. She states that she has a history of asthma and has been using her inhaler today with minimal relief. She denies any recent changes in her medication regimen or exposure to known triggers. On further questioning, she admits to feeling more fatigued than usual and having difficulty lying flat due to shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, night sweats, or unintentional weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or edema",
+    "respiratory": "Reports shortness of breath that is worse with exertion",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Denies urinary symptoms or changes in urine output/color",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling",
+    "skin": "Denies rash or changes in skin color",
+    "neurologic": "Denies headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Non-smoker, no known alcohol or illicit drug use"
+}

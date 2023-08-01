@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Daphne Engelhardt",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about an hour ago. She denies any previous episodes of shortness of breath. She also denies any chest pain, cough, or fever. She states that she has been feeling weak and fatigued lately. On further questioning, the patient reports that she has a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "Weakness and fatigue",
+    "cardiovascular": "No complaints of chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No complaints of abdominal pain or changes in bowel habits",
+    "gu": "No complaints of urinary frequency, urgency, or pain",
+    "musculoskeletal": "No complaints of joint pain or muscle aches",
+    "skin": "No complaints of skin rash or lesions",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "She takes an antihypertensive medication. The name of the medication is unknown.",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "No significant family history of cardiovascular disease or respiratory conditions",
+  "social_history": "The patient denies tobacco use. She consumes alcohol occasionally."
+}
+```

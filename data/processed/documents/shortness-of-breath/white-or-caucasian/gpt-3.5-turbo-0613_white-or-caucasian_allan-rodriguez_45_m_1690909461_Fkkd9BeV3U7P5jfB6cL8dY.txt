@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Rodriguez",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived at the emergency department complaining of sudden onset shortness of breath. He reports feeling like he can't catch his breath, and that the shortness of breath is worse with exertion. Patient denies any chest pain, cough, fever, or other associated symptoms. No previous episodes of shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports history of smoking 10 pack-years. Denies cough or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Patient reports family history of hypertension.",
+  "social_history": "Patient is currently unemployed and has a history of smoking."
+}

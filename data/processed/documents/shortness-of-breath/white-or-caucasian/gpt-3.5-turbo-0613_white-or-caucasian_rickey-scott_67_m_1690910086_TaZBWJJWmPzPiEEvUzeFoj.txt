@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Rickey Scott",
+  "age": "67",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Rickey Scott, a 67-year-old male, presented to the emergency department with a chief complaint of shortness of breath. The patient reports that the shortness of breath began suddenly, and he describes it as a feeling of difficulty breathing. He states that the shortness of breath is constant and has not improved or worsened since it started. The patient denies any associated chest pain, cough, or fever. Upon further questioning, the patient reports a history of smoking for 30 years, with a 20 pack-year smoking history. He also states that he has a medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath as his main symptom.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of heart disease in his father and brother.",
+  "social_history": "The patient has a history of smoking for 30 years with a 20 pack-year smoking history. He denies any alcohol or drug use."
+}
+```

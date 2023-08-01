@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Deon Gibson",
+  "age": "25",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Deon Gibson, is a 25-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom has been progressively worsening over the past 24 hours and is associated with a dry cough. The patient denies any chest pain or wheezing. He has no significant medical history and is not currently taking any medications. On further questioning, the patient denies any recent travel or exposure to sick contacts. He also denies any fevers or chills. The patient does not have any known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or malaise.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough with production, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in movement.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no known past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is currently employed as a software engineer and lives with his roommates."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jewell Smith",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms began approximately 2 hours ago and have been progressively worsening. Patient denies any known triggers or prior episodes of shortness of breath. There is no associated chest pain or cough.  Patient reports a mild fever of 100.4°F (38°C). No other respiratory symptoms are present.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, malaise, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, chest discomfort, palpitations, or orthopnea.",
+    "respiratory": "Patient reports shortness of breath and mild fever.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or limited range of motion.",
+    "skin": "Patient denies rash, pruritus, or skin discoloration.",
+    "neurologic": "Patient denies headache, dizziness, fainting, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension managed with losartan.",
+  "medications": "Losartan 50 mg daily",
+  "past_surgical_history": "Patient denies any prior surgeries.",
+  "family_history": "Patient reports a family history of hypertension in both parents.",
+  "social_history": "Patient is a current smoker with a 20 pack-year history. Denies alcohol or illicit drug use."
+}

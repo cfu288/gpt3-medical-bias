@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barrett Doe",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Barrett Doe, a 24-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that the symptom started suddenly about an hour ago while he was at home. He describes the shortness of breath as moderate in severity and associated with a mild cough. He denies any chest pain, fever, or other respiratory symptoms. He states that he has no known history of respiratory or cardiac problems.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Positive for shortness of breath and cough, negative for sputum production, hemoptysis, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history and denies any chronic medical conditions.",
+  "medications": "The patient takes no regular medications and has no known drug allergies.",
+  "past_surgical_history": "The patient has no previous surgical procedures.",
+  "family_history": "The patient reports no significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as a software engineer and lives with his family."
+}

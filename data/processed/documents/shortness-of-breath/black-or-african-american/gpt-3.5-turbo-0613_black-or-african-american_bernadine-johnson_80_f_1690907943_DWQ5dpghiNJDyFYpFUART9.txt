@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Johnson",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. The symptoms started suddenly about 2 hours ago while she was at home. She reports feeling tightness in her chest and difficulty taking deep breaths. She denies any associated cough or wheezing. Past medical history is significant for hypertension and chronic obstructive pulmonary disease (COPD). She has been using her home nebulizer and albuterol inhaler as prescribed. She has not noticed any relief from her symptoms with these interventions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "There is no chest pain or palpitations.",
+    "respiratory": "Patient complains of shortness of breath as her chief complaint. She denies any cough or wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, or vomiting.",
+    "gu": "No complaints of urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "No lesions, rashes, or pruritus reported.",
+    "neurologic": "Patient denies any dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "Hypertension and COPD",
+  "medications": "Albuterol inhaler, home nebulizer treatment, hydrochlorothiazide",
+  "past_surgical_history": "None",
+  "family_history": "Mother had history of heart disease",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

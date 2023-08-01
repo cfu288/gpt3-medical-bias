@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Greta Shannon",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Greta Shannon, an 18-year-old female presents to the emergency department with the chief complaint of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. She reports difficulty breathing at rest and on exertion, and also states that she is experiencing chest tightness and wheezing. She denies any fever, cough, or sputum production. She has no known allergies or history of similar symptoms in the past. Initial assessment reveals tachypnea and increased work of breathing. Oxygen saturation is 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any fever, chills, or night sweats.",
+    "cardiovascular": "She denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "She reports shortness of breath, wheezing, and chest tightness.",
+    "gi": "No abdominal pain, nausea, vomiting or change in bowel habits.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain, muscle weakness, or limited range of motion.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

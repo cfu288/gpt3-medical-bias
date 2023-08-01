@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rupert Smart",
+  "age": "86",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, an 86-year-old male named Rupert Smart, presents to the emergency department with complaints of shortness of breath. According to the patient, the symptoms started approximately 2 hours ago and have been progressively worsening. He also reports feeling tired and having mild chest discomfort. No associated cough, fever, or leg swelling.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No palpitations or orthopnea.",
+    "respiratory": "Presenting complaint of shortness of breath. No associated cough or wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No dizziness or syncope."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, coronary artery disease, and a previous myocardial infarction.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 40 mg daily, Aspirin 81 mg daily.",
+  "past_surgical_history": "Coronary artery bypass graft surgery 8 years ago.",
+  "family_history": "Mother with a history of stroke. No other significant family history.",
+  "social_history": "Retired. Non-smoker. No alcohol or substance use."
+}
+```

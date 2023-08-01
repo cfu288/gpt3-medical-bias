@@ -1,0 +1,21 @@
+{
+  "patient_name": "Murat Maxie",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. Patient reports sudden onset of difficulty breathing while at rest. No associated chest pain or cough. Denies any recent illness or trauma. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath at rest. No associated cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "Patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "Patient denies headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. Takes daily medications for both conditions. Denies any history of heart disease or lung disease.",
+  "medications": "Patient takes lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient does not have a significant family history of heart disease, lung disease, or any other relevant medical conditions.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol or use recreational drugs. Works as an office manager and lives with his wife."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Yves Walker",
+  "age": "61",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Walker, is a 61-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past week. He notes that the shortness of breath is worse with exertion and is accompanied by a persistent cough. He denies any chest pain or wheezing. His symptoms have been progressively worsening and have prompted him to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath with exertion and persistent cough.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and simvastatin.",
+  "medications": "Lisinopril 10 mg daily, simvastatin 20 mg daily",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease in his father and a sister.",
+  "social_history": "The patient has a 20 pack-year smoking history but quit smoking 10 years ago. He denies any alcohol or illicit drug use."
+}
+```

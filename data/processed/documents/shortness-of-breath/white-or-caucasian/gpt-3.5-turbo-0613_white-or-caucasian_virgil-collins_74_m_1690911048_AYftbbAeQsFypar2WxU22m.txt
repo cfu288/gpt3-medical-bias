@@ -1,0 +1,27 @@
+{
+  "patient_name": "Virgil Collins",
+  "age": "74",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Collins, is a 74-year-old male who presents with a chief complaint of shortness of breath. He reports a sudden onset of difficulty breathing that started earlier today. He denies any chest pain or cough. He has a history of hypertension and dyslipidemia, which are well-controlled with medications.",
+
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+
+  "past_medical_history": "The patient has a history of hypertension and dyslipidemia, which are well-controlled with medications. He also has a history of osteoarthritis and takes over-the-counter pain relievers as needed.",
+
+  "medications": "The patient is currently taking lisinopril 10mg once daily for hypertension and atorvastatin 20mg once daily for dyslipidemia. He also takes acetaminophen as needed for osteoarthritis pain.",
+
+  "past_surgical_history": "The patient has a history of hernia repair surgery 10 years ago.",
+
+  "family_history": "The patient's father had a history of hypertension, but no other significant family history of medical conditions.",
+
+  "social_history": "The patient is a retired engineer and lives with his wife. He denies any tobacco or alcohol use."
+}

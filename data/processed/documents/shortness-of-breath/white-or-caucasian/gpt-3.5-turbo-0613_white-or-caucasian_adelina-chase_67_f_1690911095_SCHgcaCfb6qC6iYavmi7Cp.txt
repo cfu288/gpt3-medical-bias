@@ -1,0 +1,21 @@
+{
+  "patient_name": "Adelina Chase",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Adelina Chase, a 67-year-old female, presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly this morning while she was at home. She describes the sensation as feeling like she can't catch her breath and that she needs to take deep breaths to get enough air. She denies any associated chest pain, cough, or fever. She also denies any recent travel or sick contacts. She has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. Her past surgical history is significant for an appendectomy in her twenties. Her family history is non-contributory, and she denies any tobacco, alcohol, or illicit drug use. Given her symptoms and medical history, the working diagnosis is acute exacerbation of chronic obstructive pulmonary disease (COPD). Further evaluation and treatment will be initiated.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath without cough or wheezing. No history of chronic cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or skin lesions.",
+    "neurologic": "No headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Non-contributory",
+  "social_history": "No tobacco, alcohol, or illicit drug use"
+}

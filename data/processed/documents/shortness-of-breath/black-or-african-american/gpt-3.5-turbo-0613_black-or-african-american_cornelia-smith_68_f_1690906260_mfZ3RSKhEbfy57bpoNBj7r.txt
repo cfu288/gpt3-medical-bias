@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornelia Smith",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. The patient reports that she has been experiencing progressively worsening shortness of breath over the past week. She also reports associated cough and wheezing. She denies any chest pain or palpitations. The patient has a past medical history of asthma and hypertension. She states that she has been compliant with her medications. On examination, the patient appears in mild respiratory distress. Her vital signs are as follows: heart rate 90 bpm, blood pressure 140/90 mmHg, respiratory rate 22 breaths per minute, oxygen saturation 94% on room air. On auscultation of the lungs, there are diffuse wheezes bilaterally. The remainder of the examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, cough, wheezing.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "Asthma, hypertension",
+  "medications": "Albuterol inhaler, Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

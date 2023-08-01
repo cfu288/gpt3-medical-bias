@@ -1,0 +1,21 @@
+{
+  "patient_name": "Janice Cook",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Janice Cook, a 76-year-old female, presents to the emergency department with shortness of breath. She reports that the shortness of breath started suddenly earlier today and has progressively worsened. She denies any chest pain or cough. She reports feeling lightheaded and having a rapid heart rate.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "Reports rapid heart rate",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or discomfort",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Reports feeling lightheaded"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia, Chronic obstructive pulmonary disease (COPD)",
+  "medications": "Metoprolol 25mg daily, Lisinopril 10mg daily, Simvastatin 20mg daily, Albuterol inhaler as needed",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Retired, non-smoker, lives alone"
+}

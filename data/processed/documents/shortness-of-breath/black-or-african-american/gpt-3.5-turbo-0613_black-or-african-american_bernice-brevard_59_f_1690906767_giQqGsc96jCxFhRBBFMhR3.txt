@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernice Brevard",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. The symptom started abruptly approximately 1 hour ago and has been progressively worsening. The patient reports associated cough and chest pain. She denies any fever, chills, hemoptysis, or syncope. She reports a history of smoking for the past 30 years with a 20-pack year smoking history. She also reports a history of hypertension and hyperlipidemia. On physical examination, the patient appears distressed and is using accessory muscles to breathe. She has decreased breath sounds bilaterally and wheezing on auscultation. Her vital signs are as follows: blood pressure 150/90 mmHg, heart rate 110 beats per minute, respiratory rate 30 breaths per minute, temperature 98.6°F, and oxygen saturation 90% on room air. Oxygen is administered via nasal cannula at 4 liters per minute, bringing the oxygen saturation up to 94%. The patient is placed on continuous cardiac monitoring, and peripheral intravenous access is obtained.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills",
+    "cardiovascular": "Negative for chest pain, palpitations, edema",
+    "respiratory": "Positive for shortness of breath, cough, wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency",
+    "musculoskeletal": "Negative for joint pain, muscle pain",
+    "skin": "Negative for rash, pruritus",
+    "neurologic": "Negative for headache, dizziness, numbness, weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 50 mg once daily, Lisinopril 20 mg once daily, Atorvastatin 40 mg once daily",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Non-contributory",
+  "social_history": "Current smoker with a 20-pack year smoking history, denies alcohol or illicit drug use"
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Imogene Smart",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Imogene Smart, an 87-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath began suddenly about an hour ago and has been gradually worsening. She denies any associated chest pain, cough, or fever. She states that her shortness of breath is worse with exertion and relieved when she rests. She denies any recent illness or changes in her medications. She reports a history of chronic obstructive pulmonary disease (COPD) and congestive heart failure. She is on home oxygen therapy.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Reports shortness of breath",
+    "gi": "Denies nausea, vomiting, abdominal pain",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness, weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of COPD and congestive heart failure.",
+  "medications": "The patient's current medications include albuterol inhaler, furosemide, and spironolactone.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has a family history of heart disease, but no history of lung disease or cancer.",
+  "social_history": "The patient is a retired teacher and lives alone. She is a nonsmoker and denies any history of alcohol or illicit drug use."
+}
+```

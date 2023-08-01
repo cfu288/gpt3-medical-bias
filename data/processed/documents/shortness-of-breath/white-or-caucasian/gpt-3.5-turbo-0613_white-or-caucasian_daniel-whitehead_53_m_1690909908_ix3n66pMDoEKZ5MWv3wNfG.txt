@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daniel Whitehead",
+  "age": "53",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Whitehead presents to the emergency department with a chief complaint of shortness of breath (SOB) that started approximately one hour ago. He reports that the SOB is associated with mild exertion and improved with rest. He denies any chest pain, cough, or sputum production. He also denies any fever, chills, or recent illness. He states that he has a history of hypertension and hyperlipidemia and has been compliant with his medications. He is a current smoker with a 40-pack year smoking history. He has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, fatigue, or weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling",
+    "respiratory": "Positive for shortness of breath with exertion",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, hematuria, or change in urine frequency",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for syncope, dizziness, or headache"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Current smoker with a 40-pack year history"
+}

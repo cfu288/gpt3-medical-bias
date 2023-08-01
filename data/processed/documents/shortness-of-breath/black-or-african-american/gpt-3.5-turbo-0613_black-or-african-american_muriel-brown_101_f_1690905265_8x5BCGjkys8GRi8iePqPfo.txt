@@ -1,0 +1,21 @@
+{
+  "patient_name": "Muriel Brown",
+  "age": "101",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that she was feeling fine earlier in the day but suddenly started experiencing difficulty breathing. She denies any chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain or nausea.",
+    "gu": "No urinary frequency or burning.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is on losartan and atorvastatin.",
+  "medications": "Losartan 50mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "There is no significant family history of heart disease, lung disease, or cancer.",
+  "social_history": "Patient currently lives alone. She is a non-smoker and does not consume alcohol or use illicit drugs."
+}

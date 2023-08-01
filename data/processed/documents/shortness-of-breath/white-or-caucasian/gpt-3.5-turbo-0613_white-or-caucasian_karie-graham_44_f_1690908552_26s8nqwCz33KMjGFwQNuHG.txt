@@ -1,0 +1,21 @@
+{
+  "patient_name": "Karie Graham",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived at the emergency department complaining of sudden onset of shortness of breath. She is having difficulty breathing and states that she feels like she cannot get enough air. Symptoms started approximately 2 hours ago and have been progressively worsening. She denies any associated chest pain or cough. She denies any recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient's chief complaint is shortness of breath. She denies cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and asthma.",
+  "medications": "Patient takes metoprolol and albuterol inhaler as needed.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient's mother has a history of hypertension. Otherwise, family history is non-contributory.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

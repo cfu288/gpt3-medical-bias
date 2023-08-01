@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Boyd",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with the chief complaint of shortness of breath. The patient reports that the difficulty in breathing started approximately 1 hour ago and has been progressively worsening. He denies any associated chest pain or cough. The patient also reports feeling fatigued and lightheaded.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath without associated cough or wheezing. No significant history of asthma or chronic obstructive pulmonary disease (COPD).",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "No rashes or skin changes noted.",
+    "neurologic": "No focal weakness or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin for management of these conditions.",
+  "medications": "Lisinopril 10 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is retired and a former smoker, having quit 10 years ago. He denies any alcohol or illicit drug use."
+}

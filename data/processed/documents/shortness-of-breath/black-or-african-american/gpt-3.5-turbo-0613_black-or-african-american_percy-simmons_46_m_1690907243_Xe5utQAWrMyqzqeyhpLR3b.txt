@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Simmons",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Simmons presented to the emergency department complaining of shortness of breath. He reports that the symptoms started suddenly this afternoon while he was at home. He describes the shortness of breath as severe, with an associated feeling of chest tightness and difficulty breathing.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or changes in the skin.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Mr. Simmons has a past medical history of hypertension, hyperlipidemia, and obesity. He takes lisinopril for his blood pressure and atorvastatin for his cholesterol.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Laparoscopic cholecystectomy in 2010",
+  "family_history": "Positive for hypertension and diabetes in both parents.",
+  "social_history": "Mr. Simmons is a non-smoker and denies any alcohol or drug use."
+}

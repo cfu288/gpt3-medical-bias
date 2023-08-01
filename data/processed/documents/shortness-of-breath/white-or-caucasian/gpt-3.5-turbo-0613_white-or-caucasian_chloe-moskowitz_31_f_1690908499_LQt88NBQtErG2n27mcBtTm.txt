@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chloe Moskowitz",
+  "age": "31",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of shortness of breath that started 2 hours ago. She reports feeling increasingly short of breath with minimal exertion. She denies any chest pain, cough, or fever. The patient has a past medical history of asthma and seasonal allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath with minimal exertion that has been progressing over the past 2 hours. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies.",
+  "medications": "The patient uses an albuterol inhaler as needed for asthma symptoms. She also takes over-the-counter antihistamines as needed for seasonal allergies.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a graphic designer and has no known environmental exposures."
+}

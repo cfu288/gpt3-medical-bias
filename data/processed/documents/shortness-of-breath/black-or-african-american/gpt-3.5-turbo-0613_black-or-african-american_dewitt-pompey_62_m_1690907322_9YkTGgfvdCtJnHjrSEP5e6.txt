@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewitt Pompey",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the shortness of breath started suddenly this morning and has been progressively worsening. He describes it as a sensation of difficulty breathing and feels like he cannot catch his breath. The shortness of breath is associated with minimal exertion and is not relieved by rest. The patient denies any chest pain, cough, fever, or leg swelling. He reports no recent travel, sick contacts, or known exposures to respiratory illnesses. The patient has a history of hypertension and hyperlipidemia and is currently on lisinopril and simvastatin. He denies any previous hospitalization or surgeries. The patient has no significant family history of cardiovascular or respiratory diseases. He is a former smoker, having quit 10 years ago, and denies any illicit drug use or alcohol consumption."
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, weight loss, or fatigue.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema. Regular rate and rhythm without murmurs.",
+    "respiratory": "Patient complains of shortness of breath as his chief complaint. Denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rashes, lesions, or itching.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Former smoker (quit 10 years ago), denies illicit drug use or alcohol consumption"
+}

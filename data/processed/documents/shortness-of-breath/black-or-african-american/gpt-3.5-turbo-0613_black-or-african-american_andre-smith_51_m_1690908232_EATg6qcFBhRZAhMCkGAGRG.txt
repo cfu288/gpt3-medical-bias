@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Andre Smith",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Smith is a 51-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started approximately 3 hours ago while he was at rest. The shortness of breath is associated with mild chest discomfort and he denies any cough or wheezing. He reports no fever or chills. He denies any recent travel or sick contacts. His past medical history is significant for hypertension, hyperlipidemia, and obesity. His medications include lisinopril and atorvastatin. He has no known drug allergies. He has no history of smoking or illicit drug use. On review of systems, there are no other associated symptoms. He denies any recent surgeries. There is no significant family history of heart disease or other medical conditions. He works as an office manager and is married with two children.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, obesity",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": "Non-smoker, no known drug or alcohol use"
+}
+```

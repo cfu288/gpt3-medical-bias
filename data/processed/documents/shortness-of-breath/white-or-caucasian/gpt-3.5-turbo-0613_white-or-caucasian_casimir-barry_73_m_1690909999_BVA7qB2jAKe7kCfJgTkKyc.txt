@@ -1,0 +1,27 @@
+{
+  "patient_name": "Casimir Barry",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Barry is a 73-year-old male with a chief complaint of shortness of breath. He reports that he has been experiencing progressively worsening shortness of breath for the past week. He describes the shortness of breath as being worse with exertion and relieved with rest. He denies any chest pain, palpitations, or cough. He has a history of hypertension and has been taking medication for it. He has no known allergies. On physical examination, he appears to be in moderate respiratory distress with increased work of breathing. His vital signs include a heart rate of 100 beats per minute, blood pressure of 150/90 mmHg, respiratory rate of 24 breaths per minute, and oxygen saturation of 92% on room air. Auscultation of the lungs reveals decreased breath sounds bilaterally with crackles at the bases. The remainder of the examination is unremarkable.",
+
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "No dizziness or syncope."
+  },
+
+  "past_medical_history": "Hypertension",
+
+  "medications": "Unknown",
+
+  "past_surgical_history": "None",
+
+  "family_history": "Unknown",
+
+  "social_history": "Non-smoker, non-drinker"
+}

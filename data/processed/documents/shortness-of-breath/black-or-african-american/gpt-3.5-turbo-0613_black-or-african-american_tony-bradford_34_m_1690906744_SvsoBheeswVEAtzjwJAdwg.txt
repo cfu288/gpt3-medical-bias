@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tony Bradford",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Bradford is a 34-year-old male presenting to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started abruptly today while he was at rest. He denies any associated chest pain or cough. He has no significant medical history. Upon further questioning, he reports occasional smoking (5 cigarettes per day) for the past 10 years. He denies any alcohol or illicit drug use. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath, but denies cough.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or changes in pigmentation.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Occasional smoking (5 cigarettes per day) for the past 10 years. No alcohol or illicit drug use."
+}
+```

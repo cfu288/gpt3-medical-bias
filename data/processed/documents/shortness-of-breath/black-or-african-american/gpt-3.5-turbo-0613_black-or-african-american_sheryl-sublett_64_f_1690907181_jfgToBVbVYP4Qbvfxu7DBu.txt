@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sheryl Sublett",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sheryl Sublett, a 64-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing progressively worsening shortness of breath over the past 24 hours. She states that she is unable to complete her normal daily activities without feeling very short of breath. The patient denies any chest pain, cough, fever, or other associated symptoms. She reports a past medical history of hypertension and hyperlipidemia. She is not currently taking any medications and has no known drug allergies. The patient's vital signs upon arrival are as follows: heart rate 98 bpm, blood pressure 140/86 mmHg, respiratory rate 22 bpm, oxygen saturation 93% on room air. Physical examination is significant for decreased breath sounds and diffuse wheezing on lung auscultation. The patient's initial oxygen saturation improved to 96% on supplemental oxygen via nasal cannula at 2 liters per minute.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "As stated in the history of present illness, the patient is experiencing shortness of breath, but denies any cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any changes in vision, speech, sensation, or motor function."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular disease or respiratory disorders.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or substance abuse."
+}

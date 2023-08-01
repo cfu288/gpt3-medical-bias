@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alexis Whitaker",
+  "age": "22",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived to the emergency department complaining of shortness of breath, which started approximately 2 hours ago. The patient states that the shortness of breath is accompanied by coughing, wheezing, and chest tightness. The patient denies any fever, chills, or sputum production. The patient reports no recent illnesses or known exposures to respiratory infections. The patient states that she has a history of asthma and has been using her inhaler at home as needed, but it has not provided complete relief. The patient's symptoms have been progressively worsening over the past 2 hours.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills reported.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling reported.",
+    "respiratory": "Shortness of breath, coughing, wheezing, chest tightness.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms reported."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory, cardiovascular, or other chronic diseases reported.",
+  "social_history": "Non-smoker, no known exposures to respiratory irritants."
+}

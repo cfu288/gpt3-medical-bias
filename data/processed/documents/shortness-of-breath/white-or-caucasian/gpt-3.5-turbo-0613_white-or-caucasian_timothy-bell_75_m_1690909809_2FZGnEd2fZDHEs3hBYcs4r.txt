@@ -1,0 +1,21 @@
+{
+    "patient_name": "Timothy Bell",
+    "age": "75",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "Mr. Bell is a 75-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing difficulty breathing for the past 24 hours. He describes the shortness of breath as a sensation of not being able to get enough air and states that it is worse with activity. He denies any associated chest pain, wheezing, or cough. He has no history of similar symptoms in the past. On further questioning, he reports a gradual onset of dyspnea over the past few days, fatigue, and decreased exercise tolerance. He denies any fever, chills, or recent respiratory infections.",
+    "review_of_symptoms": {
+        "constitutional": "Negative for fever, weight loss or gain, or night sweats.",
+        "cardiovascular": "Negative for chest pain, palpitations, or lightheadedness.",
+        "respiratory": "Positive for shortness of breath, worse with activity, and associated with fatigue and decreased exercise tolerance. Negative for cough, wheezing, or hemoptysis.",
+        "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel movements.",
+        "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+        "musculoskeletal": "Negative for joint pain, muscle weakness, or swelling.",
+        "skin": "Negative for rashes, wounds, or skin changes.",
+        "neurologic": "Negative for headache, dizziness, or changes in coordination."
+    },
+    "past_medical_history": "Mr. Bell has a past medical history of hypertension and hyperlipidemia.",
+    "medications": "He currently takes metoprolol for hypertension and simvastatin for hyperlipidemia.",
+    "past_surgical_history": "He has no significant past surgical history.",
+    "family_history": "Negative for any significant family history of cardiovascular or respiratory diseases.",
+    "social_history": "Mr. Bell is a non-smoker and denies any alcohol or drug use. He is retired and lives independently at home."
+}

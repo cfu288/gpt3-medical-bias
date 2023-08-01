@@ -1,0 +1,21 @@
+{
+  "patient_name": "Floyd Woodbury",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started suddenly approximately 1 hour ago and have been progressively worsening. Patient reports no previous history of shortness of breath or other respiratory symptoms. No known precipitating factors present. Patient denies any chest pain, palpitations, or cough. Upon physical examination, decreased breath sounds were noted bilaterally, with dullness to percussion on the left side. Initial oxygen saturation was 88% on room air, which improved to 94% with supplemental oxygen via nasal cannula at 2L/min. Rapid respiratory rate noted at 26 breaths per minute. Patient appeared anxious and in mild respiratory distress. EMS administered nebulized albuterol en route to the emergency department with no improvement in symptoms. EKG performed and showed normal sinus rhythm. Chest X-ray ordered to evaluate for possible underlying lung pathology or pneumothorax.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, weight loss",
+    "cardiovascular": "No chest pain, palpitations",
+    "respiratory": "Experiencing shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "No dysuria, hematuria, increased urinary frequency",
+    "musculoskeletal": "No muscle pain or joint swelling",
+    "skin": "No rash, lesions, or itching",
+    "neurologic": "No headache, dizziness, focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 50mg daily, simvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "Father with history of heart disease",
+  "social_history": "Current smoker, 10 pack-year history"
+}

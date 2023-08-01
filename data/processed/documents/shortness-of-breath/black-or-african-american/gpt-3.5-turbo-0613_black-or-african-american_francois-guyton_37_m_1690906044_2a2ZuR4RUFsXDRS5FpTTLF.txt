@@ -1,0 +1,21 @@
+{
+  "patient_name": "Francois Guyton",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived in the emergency department with complaints of sudden onset of shortness of breath. He reports that the symptoms started approximately 1 hour ago and have been progressively worsening. He denies any associated chest pain or cough. Patient has a history of asthma and has had a few previous episodes of acute exacerbation in the past, but he states that this episode feels different than his usual asthma attacks.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath but denies any cough or sputum production.",
+    "gi": "Patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies. He also suffers from occasional migraines.",
+  "medications": "Patient takes an albuterol inhaler as needed for asthma symptoms and occasional ibuprofen for migraines.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient reports no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient works as a software engineer and lives with his wife and two children. He denies any tobacco or illicit drug use."
+}

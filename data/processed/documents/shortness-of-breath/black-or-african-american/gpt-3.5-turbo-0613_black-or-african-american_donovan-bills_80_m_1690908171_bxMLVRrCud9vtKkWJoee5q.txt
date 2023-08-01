@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donovan Bills",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. Patient reports that the shortness of breath started approximately 1 hour ago while at rest. He denies any associated chest pain, palpitations, or cough. Patient reports no fever, chills, or recent illness. He does report a past medical history significant for hypertension, dyslipidemia, and type 2 diabetes. Patient is a non-smoker and denies any allergies to medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, dyslipidemia, type 2 diabetes.",
+  "medications": "Patient takes metformin, atorvastatin, and lisinopril.",
+  "past_surgical_history": "Appendectomy in 1995.",
+  "family_history": "Negative for family history of cardiovascular disease or respiratory disorders.",
+  "social_history": "Patient lives alone and denies any alcohol or illicit drug use."
+}

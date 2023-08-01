@@ -1,0 +1,28 @@
+{
+  "patient_name": "Shanda Bryan",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that started suddenly this morning. She reports feeling breathless even at rest. She denies any chest pain or cough. She reports feeling anxious and scared about her symptoms. She has no prior history of similar symptoms. Patient denies any fever, chills, or recent sick contacts. No recent travel history. No known allergies.",
+  
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills",
+    "cardiovascular": "No chest pain",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain",
+    "skin": "No rash",
+    "neurologic": "No focal neurological deficits"
+  },
+  
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes daily medications for both conditions. She has not been compliant with her medications recently due to financial constraints.",
+  
+  "medications": "1. Lisinopril 10 mg daily\n2. Simvastatin 20 mg daily",
+  
+  "past_surgical_history": "Patient had an appendectomy in her early twenties. No other surgeries or major medical procedures.",
+  
+  "family_history": "Family history significant for hypertension in both parents. No other significant family history of cardiac or respiratory illnesses.",
+  
+  "social_history": "Patient is a non-smoker. She denies any alcohol or illicit drug use. She works as a teacher. She is currently living with her husband and two children. No recent changes in her living conditions or stressors."
+}

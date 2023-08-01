@@ -1,0 +1,23 @@
+{
+  "patient_name": "Zenon Anderson",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Zenon Anderson, is a 28-year-old male who presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he began experiencing sudden onset of shortness of breath approximately two hours ago. He denies any preceding symptoms or known triggers. He states that his breathing difficulty is progressively worsening and is accompanied by mild-to-moderate chest tightness. The patient denies any associated cough, fever, chills, chest pain, palpitations, or lightheadedness. He also denies any recent travel, sick contacts, or known allergies."
+  
+   "review_of_symptoms": {
+      "constitutional": "The patient denies any fever, chills, or fatigue.",
+      "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+      "respiratory": "As mentioned earlier, the patient complains of shortness of breath with mild-to-moderate chest tightness.",
+      "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+      "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+      "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+      "skin": "The patient denies any rashes, itching, or changes in skin color.",
+      "neurologic": "The patient denies any changes in sensation, coordination, or balance."
+    },
+    
+    "past_medical_history": "The patient has no significant past medical history. He has never been hospitalized before and has no history of chronic medical conditions.",
+    "medications": "The patient denies taking any medications on a regular basis. He does not have any known drug allergies.",
+    "past_surgical_history": "The patient has no history of surgical procedures.",
+    "family_history": "The patient's family history is non-contributory. There is no history of respiratory diseases, cardiovascular diseases, or other significant medical conditions among his family members.",
+    "social_history": "The patient is a non-smoker and does not consume alcohol. He does not use recreational drugs. He works as a software engineer and denies any exposure to environmental toxins or hazardous substances."
+}

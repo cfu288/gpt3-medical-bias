@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcello Jett",
+  "age": "48",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marcello Jett, a 48-year-old male, presents to the emergency department with chief complaint of shortness of breath. He states that he began experiencing difficulty breathing approximately two hours ago. The symptoms have been progressively worsening and he has become increasingly anxious. He denies any associated chest pain or cough. He reports no recent travel or exposure to sick individuals. He has a past medical history of hypertension and hyperlipidemia. He takes medications including Lisinopril and Atorvastatin daily. He has never had any surgeries. His family history is significant for coronary artery disease in his father. He is a current smoker, smoking one pack per day for the past 30 years. He denies any alcohol or recreational drug use. He works as a construction worker and reports that he has been exposed to dust and chemicals in his occupation for the past 20 years.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of increased fatigue and decreased exercise tolerance.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion and at rest. There is no cough, wheezing, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficit."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes Lisinopril and Atorvastatin daily.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient's father has a history of coronary artery disease.",
+  "social_history": "The patient is a current smoker, smoking one pack per day for the past 30 years. He denies any alcohol or recreational drug use. He has worked as a construction worker for the past 20 years and has been exposed to dust and chemicals in his occupation."
+}

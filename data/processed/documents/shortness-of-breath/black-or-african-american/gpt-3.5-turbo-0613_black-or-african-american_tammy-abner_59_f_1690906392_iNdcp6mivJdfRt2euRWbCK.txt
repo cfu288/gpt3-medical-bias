@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tammy Abner",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tammy Abner, is a 59-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began suddenly earlier today and have been progressively worsening. She denies any associated chest pain or cough. She also denies any fever, chills, or recent sick contacts. She has a past medical history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin. She denies any past surgical history. She has a family history of heart disease, with her father having a heart attack in his 60s. Socially, she is a non-smoker and does not consume alcohol. She has a sedentary lifestyle and does not engage in regular exercise. She is employed as an office manager and denies any exposure to environmental toxins or occupational hazards. She lives alone and is independent with activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, no cough or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or pruritus",
+    "neurologic": "No dizziness, syncope, or focal weakness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Father with history of heart disease",
+  "social_history": "Non-smoker, no alcohol use, sedentary lifestyle, no exposure to environmental toxins or occupational hazards"
+}

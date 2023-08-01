@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Simon Thacker",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. Symptoms began earlier today and have been progressively worsening. Patient reports no associated chest pain, cough, or fever. On examination, patient appears distressed with increased work of breathing. Oxygen saturation on room air is 88%. Also noted bilateral wheezing upon auscultation.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "Shortness of breath, no cough or sputum production.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary symptoms or recent changes in urine output.",
+    "musculoskeletal": "No musculoskeletal complaints.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker, denies alcohol or drug use."
+}
+```

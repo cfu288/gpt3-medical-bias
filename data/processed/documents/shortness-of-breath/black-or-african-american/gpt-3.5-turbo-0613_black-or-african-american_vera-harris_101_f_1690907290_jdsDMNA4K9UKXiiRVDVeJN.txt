@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vera Harris",
+  "age": "101",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Vera Harris, a 101-year-old female, presented to the emergency department with complaints of shortness of breath. She reports that the symptoms began approximately 2 hours ago and have been progressively worsening. She denies any associated chest pain, cough, fever, or recent illness. She does have a past medical history significant for hypertension and congestive heart failure.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any fevers or chills.",
+    "cardiovascular": "She reports a history of hypertension and congestive heart failure, for which she takes medications. She denies any chest pain or palpitations.",
+    "respiratory": "She presents with shortness of breath as her chief complaint.",
+    "gi": "She denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "She denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "She denies any joint pain or stiffness.",
+    "skin": "She denies any rashes, itchiness, or changes in the appearance of her skin.",
+    "neurologic": "She denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and congestive heart failure.",
+  "medications": "She takes medications for her hypertension and congestive heart failure, including lisinopril and furosemide.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient is unsure of her family medical history.",
+  "social_history": "The patient lives alone and has no history of smoking or alcohol consumption."
+}

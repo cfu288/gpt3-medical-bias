@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lena Jones",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lena Jones, an 81-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing episodes of shortness of breath for the past two days. She describes the shortness of breath as being worse with exertion and relieved with rest. She denies any chest pain or cough. The patient reports no significant medical history or recent illnesses. She states that she has been taking her prescribed medications as directed and denies any recent changes in her medications. She has not undergone any recent surgeries. There is no significant family history of respiratory or cardiovascular diseases. Socially, the patient lives alone and is retired.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain or palpitations. Reports occasional leg swelling.",
+    "respiratory": "Reports worsening shortness of breath with exertion, improved at rest. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Reports no joint pain or muscle weakness.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Denies any changes in sensation, movement, or mental status."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, controlled with medication.",
+  "medications": "The patient reports taking the following medications: 1) Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient lives alone and is retired. She denies smoking, alcohol use, or illicit drug use."
+}

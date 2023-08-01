@@ -1,0 +1,21 @@
+{
+  "patient_name": "Heike Ceci",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of shortness of breath. She reports that the symptoms started a few hours ago and have been progressively worsening. She denies any recent illness or trauma. She has a past medical history of hypertension and hyperlipidemia and currently takes lisinopril and atorvastatin. On physical examination, the patient was noted to be tachypneic with decreased breath sounds and prolonged expiration. Oxygen saturation was 92% on room air. Chest x-ray was obtained and showed bilateral infiltrates. Given the clinical presentation and imaging findings, a diagnosis of acute exacerbation of chronic obstructive pulmonary disease (COPD) was made. Patient was started on bronchodilators and steroids and admitted to the hospital for further management.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril, atorvastatin.",
+  "past_surgical_history": "",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "Non-smoker, lives alone, retired."
+}

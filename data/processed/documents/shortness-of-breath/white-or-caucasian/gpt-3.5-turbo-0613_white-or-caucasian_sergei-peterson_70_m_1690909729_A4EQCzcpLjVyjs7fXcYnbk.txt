@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sergei Peterson",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Peterson is a 70-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his shortness of breath started suddenly about 2 hours ago while he was at home. He denies any chest pain, cough, or fever. He states that he has been feeling increasingly fatigued over the past few days. He denies any recent travel or sick contacts. His past medical history is significant for hypertension and hyperlipidemia. He is on medications for both conditions. He denies any recent surgeries. He has a family history of heart disease, with his father having a heart attack at the age of 60. He is a retired engineer and lives alone. He is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness or headache"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Father with history of heart attack at age 60",
+  "social_history": "Retired engineer, lives alone, nonsmoker, no alcohol or illicit drug use"
+}

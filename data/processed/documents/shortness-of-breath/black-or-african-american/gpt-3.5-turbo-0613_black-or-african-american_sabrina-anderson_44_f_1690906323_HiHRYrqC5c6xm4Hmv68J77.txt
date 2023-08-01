@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sabrina Anderson",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sabrina Anderson, a 44-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began suddenly about an hour ago. She states that she was at rest when it started and denies any triggering factors. She describes the shortness of breath as a sensation of not being able to get enough air and says she feels like she needs to take deep breaths. She denies any associated chest pain, cough, or fever. She reports no significant medical history and is not currently taking any medications. She denies any recent surgeries. The patient denies any family history of respiratory or cardiovascular diseases. She is a nonsmoker and does not use alcohol or illicit drugs. Her vital signs on presentation are as follows: blood pressure 120/80 mmHg, heart rate 90 bpm, respiratory rate 22 breaths per minute, oxygen saturation 98% on room air. Physical examination reveals clear lung sounds bilaterally and no signs of distress. The patient appears well-nourished and in no acute distress. Initial diagnostic tests including a chest x-ray and EKG are ordered.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Denies any chest pain, palpitations, or edema.",
+    "respiratory": "Describes shortness of breath as chief complaint.",
+    "gi": "Denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Denies any urinary frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "Denies any joint pain or swelling.",
+    "skin": "Denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Not currently taking any medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "Denies any family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a nonsmoker and does not use alcohol or illicit drugs."
+}

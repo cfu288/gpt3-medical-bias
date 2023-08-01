@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annie Michael",
+  "age": "89",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past few days. She also complains of fatigue and decreased exercise tolerance. She denies any chest pain, palpitations, or cough. No fevers or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or changes in appetite.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath with minimal exertion. Denies cough, wheezing, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports generalized weakness but denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rashes, itching, or changes in the appearance of the skin.",
+    "neurologic": "Patient denies any headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and congestive heart failure.",
+  "medications": "Patient takes lisinopril, simvastatin, and furosemide.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's mother had a history of heart disease.",
+  "social_history": "Patient is a non-smoker and lives alone. She does not drink alcohol or use recreational drugs."
+}

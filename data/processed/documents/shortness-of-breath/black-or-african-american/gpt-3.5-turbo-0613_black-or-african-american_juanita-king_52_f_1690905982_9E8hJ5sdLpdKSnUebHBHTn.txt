@@ -1,0 +1,21 @@
+{
+  "patient_name": "Juanita King",
+  "age": "52",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Juanita King, a 52-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been progressively worsening over the past week. She states that she has been feeling more tired and has noticed swelling in her legs. She denies any chest pain or cough. She has a history of hypertension and takes medications for this. She denies any recent illnesses or infections. She also denies any recent travel or exposure to sick contacts. On physical examination, the patient appears to be in mild respiratory distress. She has bilateral pitting edema in her lower extremities. Her vital signs are stable, with a blood pressure of 140/90 mmHg and a heart rate of 90 beats per minute. A detailed review of systems is provided below.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports swelling in her legs but denies chest pain, palpitations, or syncope.",
+    "respiratory": "The patient complains of shortness of breath but denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in moles.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of hypertension, but there is no other significant family history.",
+  "social_history": "The patient is a nonsmoker and does not use alcohol or recreational drugs. She works as a secretary and lives with her husband and two adult children."
+}

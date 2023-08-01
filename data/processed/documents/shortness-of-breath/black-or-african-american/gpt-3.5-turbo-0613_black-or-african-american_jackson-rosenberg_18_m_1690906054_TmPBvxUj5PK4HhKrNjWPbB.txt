@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jackson Rosenberg",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Jackson Rosenberg, an 18-year-old male, presents to the emergency department with the chief complaint of shortness of breath. The patient reports experiencing difficulty breathing for the past 2 hours. He states that his breathing has been progressively getting worse and he feels like he can't catch his breath. He denies any associated chest pain, cough, or fever. No recent illnesses or injuries. No known allergies or sensitivities. No significant medical history. Family history and social history unknown. Initial vital signs: HR - 110 bpm, BP - 130/80 mmHg, RR - 26 breaths/min, SpO2 - 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or syncope",
+    "respiratory": "Shortness of breath with exertion",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No urinary symptoms or changes",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes, lesions, or changes",
+    "neurologic": "No headache or changes in mental status"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Unknown",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Unknown",
+  "social_history": "Social history unknown"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lyndon Foster",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Foster presents to the Emergency Department with complaints of shortness of breath. He reports that his symptoms started about 2 hours ago and have been progressively getting worse. He denies any chest pain, cough, or fever. He states that he has a history of hypertension and diabetes, which are currently well-controlled. He denies any recent changes in his medications or diet. His last visit to his primary care physician was 3 months ago, at which time his blood pressure and blood sugar levels were within normal limits. On physical examination, Mr. Foster appears in mild respiratory distress. His vital signs are as follows: blood pressure 140/90 mmHg, heart rate 100 bpm, respiratory rate 24 breaths per minute, oxygen saturation 92% on room air. His lungs are clear to auscultation bilaterally with decreased breath sounds at the bases. The remainder of his physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath at rest",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria, hematuria, or urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash, itching, or lesions",
+    "neurologic": "No headache, dizziness, or syncope"
+  },
+  "past_medical_history": "Hypertension and diabetes, both well-controlled",
+  "medications": "Lisinopril 10 mg daily for hypertension; Metformin 1000 mg twice daily for diabetes",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Mr. Foster is a retired construction worker. He is a former smoker with a 30 pack-year history but quit smoking 10 years ago. He denies any alcohol or illicit drug use."
+}

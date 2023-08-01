@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chet Jones",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Chet Jones, a 59-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that his symptoms began earlier today and have been gradually worsening. He denies any chest pain or cough. He states that he has a history of hypertension, for which he takes medication daily.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with exertion and at rest.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or itching.",
+    "neurologic": "No headache or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Patient takes daily medication for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies smoking or alcohol use. Works as an office manager and denies exposure to any environmental toxins."
+}

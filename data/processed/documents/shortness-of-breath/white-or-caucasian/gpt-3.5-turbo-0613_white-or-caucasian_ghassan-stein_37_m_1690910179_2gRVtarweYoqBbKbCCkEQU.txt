@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ghassan Stein",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ghassan Stein, a 37-year-old male, presents to the emergency department complaining of shortness of breath. He states that the symptoms started earlier today and have been progressively worsening. He describes the shortness of breath as a feeling of heaviness in his chest and difficulty catching his breath, especially with exertion. He denies any chest pain, palpitations, or cough. He reports no recent travel, sick contacts, or exposure to respiratory illnesses. He has no significant past medical history and is not currently taking any medications. Upon further assessment, the patient was found to have tachypnea and low oxygen saturation on room air. He denies any recent illness or infections.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath. He denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any muscle pain or joint swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Melva Husband",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ms. Melva Husband, is an 80-year-old female who presented to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing progressive difficulty breathing for the past 2 days. She states that the shortness of breath worsens with minimal exertion and is associated with a cough productive of white sputum. She denies any chest pain, palpitations, or lightheadedness. She also denies any fever, chills, or sweats. The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. She is a non-smoker and lives alone. She has not had any recent sick contacts and has not traveled recently. Her current medications include albuterol inhaler, ipratropium inhaler, and lisinopril. She has not had any recent surgeries. Her family history is significant for COPD in her father. She has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or sweats",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Experiencing shortness of breath and productive cough",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies dysuria or hematuria",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "Denies rashes or lesions",
+    "neurologic": "Denies headache or dizziness"
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD) and hypertension",
+  "medications": "Albuterol inhaler, ipratropium inhaler, lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "COPD in her father",
+  "social_history": "The patient lives alone and is a non-smoker"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leroy Clark",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing difficulty breathing for the past 3 days. He denies any chest pain, cough, or fever. He reports that his shortness of breath worsens with physical activity and improves with rest. The patient also reports feeling more fatigued than usual.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any recent weight loss, night sweats, or fevers.",
+    "cardiovascular": "Patient reports a history of hypertension and coronary artery disease. He takes metoprolol and lisinopril for these conditions. He denies any chest pain or palpitations.",
+    "respiratory": "Patient reports a cough with clear sputum. He denies any hemoptysis or wheezing.",
+    "gi": "Patient denies any nausea, vomiting, or diarrhea. He reports a normal appetite and bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria. He denies any hematuria or flank pain.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, coronary artery disease.",
+  "medications": "Metoprolol, lisinopril.",
+  "past_surgical_history": "Coronary artery bypass grafting in 2002.",
+  "family_history": "Family history significant for hypertension.",
+  "social_history": "Patient denies any tobacco use. He consumes alcohol occasionally."
+}

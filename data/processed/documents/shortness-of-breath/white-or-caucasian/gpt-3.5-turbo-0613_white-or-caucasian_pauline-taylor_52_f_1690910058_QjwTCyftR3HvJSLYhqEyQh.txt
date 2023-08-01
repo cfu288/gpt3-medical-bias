@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Pauline Taylor",
+    "age": "52",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "The patient, Pauline Taylor, a 52-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that this started suddenly earlier today while she was at home. She states that she was sitting on the couch when she noticed that she was having difficulty breathing. She describes the shortness of breath as feeling like she can't take a deep breath in and having to work harder to breathe. She denies any associated chest pain, cough, fever, or other symptoms.",
+    "review_of_symptoms": {
+        "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+        "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+        "respiratory": "The patient reports shortness of breath, but denies any cough or sputum production. She also denies any history of smoker or exposure to second-hand smoke.",
+        "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in appetite or bowel movements.",
+        "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+        "musculoskeletal": "The patient denies any joint pain, muscle pain, or swelling.",
+        "skin": "The patient denies any skin rash, lesions, or changes in color or texture.",
+        "neurologic": "The patient denies any headache, dizziness, numbness or weakness in any part of her body."
+    },
+    "past_medical_history": "The patient has a history of hypertension, for which she takes Lisinopril 10mg daily. She also has a history of hypercholesterolemia and takes Atorvastatin 20mg daily. She has no known history of lung disease, cardiovascular disease, or kidney disease.",
+    "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+    "past_surgical_history": "The patient has no history of surgical procedures.",
+    "family_history": "The patient reports no significant family history of lung disease, cardiovascular disease, or other serious medical conditions.",
+    "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently unemployed and lives alone. She does not have any pets."
+}
+```

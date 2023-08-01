@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kelvin Jones",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Kelvin Jones, a 46-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing progressively worsening shortness of breath over the past week. He reports that the shortness of breath is aggravated by exertion and relieved by rest. He denies any chest pain, cough, or wheezing. The patient states that he has no known history of lung disease, heart disease, or allergies. He has no recent history of travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, worse with exertion.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary complaints.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well controlled on medication.",
+  "medications": "The patient takes Lisinopril 20 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "There is no significant family history of lung disease, heart disease, or allergies.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or recreational drug use. He is married and works as a software engineer."
+}
+```

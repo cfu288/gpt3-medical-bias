@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willa Smith",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Willa Smith, an 87-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing worsening shortness of breath over the past week, particularly with exertion. She reports associated symptoms of fatigue, decreased exercise tolerance, and occasional chest tightness. The patient denies any cough, wheezing, or orthopnea. She also denies any fever, chills, or night sweats. There is no history of recent travel or exposure to sick contacts. The patient has a past medical history of hypertension and hyperlipidemia, for which she takes lisinopril, atorvastatin, and aspirin. She has no known allergies to medications.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or diaphoresis",
+    "cardiovascular": "Fatigue and occasional chest tightness",
+    "respiratory": "Shortness of breath with exertion. Denies cough or wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria, urgency, frequency, or hematuria",
+    "musculoskeletal": "No joint pain, muscle weakness, or limited mobility",
+    "skin": "No rashes, lesions, or pruritus",
+    "neurologic": "No headaches, dizziness, syncope, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin, Aspirin",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular or respiratory disease",
+  "social_history": "The patient is currently retired and lives alone. She denies smoking, alcohol use, or illicit drug use."
+}

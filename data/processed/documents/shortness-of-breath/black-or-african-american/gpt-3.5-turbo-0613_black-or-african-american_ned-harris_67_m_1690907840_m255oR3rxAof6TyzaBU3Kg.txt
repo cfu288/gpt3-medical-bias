@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ned Harris",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Harris is a 67-year-old male presenting to the emergency department with complaints of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago and has been gradually worsening. He denies any chest pain, cough, or fever. He states that he has a history of smoking and has been feeling more fatigued in the past few weeks. He denies any recent trauma or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, negative for cough.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches or numbness/weakness in extremities."
+  },
+  "past_medical_history": "Mr. Harris has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily.",
+  "past_surgical_history": "None reported.",
+  "family_history": "Positive for hypertension and diabetes in parents.",
+  "social_history": "Mr. Harris has a 30-pack-year smoking history. He denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kimberley Mccarty",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kimberley Mccarty, a 45-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she started experiencing difficulty breathing earlier today. She reports that she has been feeling increasingly short of breath with minimal exertion and has also noticed a persistent cough. The patient denies any chest pain, fever, or recent illness. She states that she has never experienced these symptoms before and they are concerning to her. Upon further questioning, the patient admits to being a smoker with a 20-year pack history. She also reports occasional wheezing and coughing, especially in cold weather.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her legs.",
+    "respiratory": "As mentioned previously, the patient reports shortness of breath and a persistent cough. She denies any hemoptysis or chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes amlodipine for hypertension and atorvastatin for hyperlipidemia. She is otherwise healthy and has no known drug allergies.",
+  "medications": "Amlodipine 5mg once daily, Atorvastatin 40mg once daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for cardiovascular disease, with her father having a myocardial infarction at the age of 55.",
+  "social_history": "The patient is a smoker with a 20-year pack history. She reports drinking alcohol occasionally but denies any illicit drug use."
+}

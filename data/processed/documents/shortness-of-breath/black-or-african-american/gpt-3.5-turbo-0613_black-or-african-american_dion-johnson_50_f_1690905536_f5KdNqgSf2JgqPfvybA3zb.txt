@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dion Johnson",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Dion Johnson, a 50-year-old female, presented to the emergency department complaining of shortness of breath. She reported that she had been experiencing progressively worsening shortness of breath for the past 2 days. She denies any cough, chest pain, or other associated symptoms. She states that she has a history of asthma but has not had any recent exacerbations. She reports no recent illnesses or travel. Upon arrival to the emergency department, she appeared to be in moderate respiratory distress with labored breathing and increased work of breathing.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion. Denies cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or changes in sensation."
+    },
+  "past_medical_history": "Asthma, but well-controlled. No other significant past medical history.",
+  "medications": "Albuterol inhaler as needed for her asthma symptoms.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of respiratory diseases or other concerning conditions.",
+  "social_history": "The patient is a non-smoker. She lives at home with her husband and is retired. She denies any alcohol or illicit drug use."
+}
+```

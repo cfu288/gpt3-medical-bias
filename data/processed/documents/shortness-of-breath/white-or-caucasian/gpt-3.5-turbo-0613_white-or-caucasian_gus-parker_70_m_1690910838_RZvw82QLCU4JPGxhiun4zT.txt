@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gus Parker",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gus Parker, a 70-year-old male, presented to the emergency department with a chief complaint of shortness of breath. He reports that his shortness of breath started earlier today and has been gradually worsening. He denies any associated chest pain, cough, or fever. He reports that he has a history of hypertension and is on medications for that. He denies any recent illnesses or travel. On physical examination, the patient appears anxious and is using accessory muscles to breathe. His oxygen saturation is 89% on room air. Auscultation of the lungs reveals decreased breath sounds bilaterally with crackles heard throughout. Upon further questioning, the patient states that he has a past history of heart failure and has been non-compliant with his medications. This is concerning for exacerbation of heart failure as the underlying etiology for his shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "As mentioned previously, the patient has a past history of hypertension and heart failure. He denies any chest pain or palpitations at this time.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any increased frequency or urgency of urination, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or decreased range of motion.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, heart failure, and non-compliance with his medications.",
+  "medications": "The patient is on medications for hypertension, but is non-compliant with his medication regimen.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history of hypertension and heart disease.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Martin",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. He reports experiencing difficulty breathing for the past 2 days. Symptoms have been progressively worsening and he states that he feels like he cannot take a deep breath. He denies any associated chest pain, cough, or fever. He reports no recent travels or sick contacts. Patient denies any known allergies. Patient has a past medical history of mild asthma, for which he occasionally uses a rescue inhaler. No recent exacerbations reported. Patient denied any recent changes in medications or exposures. Physical examination revealed increased respiratory rate, decreased breath sounds, and mild wheezing on auscultation. Oxygen saturation was 92% on room air. Chest x-ray was ordered and results are pending. Initial treatment included administration of supplemental oxygen via nasal cannula and bronchodilator therapy. Patient currently stable and responding well to treatment. Further evaluation and monitoring recommended.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema reported.",
+    "respiratory": "Shortness of breath is the primary complaint. No cough, sputum production, or blood-tinged sputum reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No dysuria, hematuria, or urinary frequency reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rash, itching, or skin lesions reported.",
+    "neurologic": "No headaches, dizziness, or focal neurologic deficits reported."
+  },
+  "past_medical_history": "Mild asthma.",
+  "medications": "Rescue inhaler as needed for asthma.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Non-smoker, occasional alcohol use, lives alone, employed as an accountant."
+}

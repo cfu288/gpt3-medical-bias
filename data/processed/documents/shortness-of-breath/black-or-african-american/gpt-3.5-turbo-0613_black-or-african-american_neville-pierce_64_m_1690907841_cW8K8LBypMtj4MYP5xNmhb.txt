@@ -1,0 +1,22 @@
+{
+  "patient_name": "Neville Pierce",
+  "age": "64",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Neville Pierce, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago and has been progressively worsening. He denies any associated chest pain or wheezing. The patient states that he has a history of chronic obstructive pulmonary disease (COPD) and is currently using a home nebulizer treatment. He also reports a past medical history of hypertension and has been taking medications for both conditions. The patient denies any recent changes in medication or exposures to allergens.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath as his chief complaint. He denies any wheezing or cough.",
+    "gi":"The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limited range of motion.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient is currently taking albuterol inhaler as needed for COPD and lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently retired and lives with his wife. He denies any recent travel or exposure to sick contacts."
+}

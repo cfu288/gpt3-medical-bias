@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Garth Scanlan"
+    },
+    "age": {
+      "type": "string",
+      "value": "22"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Garth Scanlan, is a 22-year-old male who presents to the emergency department with chief complaint of shortness of breath. The symptoms started 2 hours ago and have been progressively worsening. He reports no known triggers or recent illnesses. The patient denies any chest pain, cough, fever, or recent travel. He has no history of asthma or chronic lung disease."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient denies fevers, chills, or night sweats."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient denies chest pain, palpitations, or leg swelling."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient reports shortness of breath on exertion, which has worsened over the last 2 hours."
+        },
+        "gi": {
+          "type": "string",
+          "value": "The patient denies nausea, vomiting, diarrhea, or abdominal pain."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies dysuria or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient denies joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies rash or itching."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient denies headache, dizziness, or focal neurologic symptoms."
+        }
+      }
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient reports no significant past medical history."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient is not currently taking any medications."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of surgical procedures."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient reports no significant family history of medical conditions."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient denies tobacco, alcohol, or drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

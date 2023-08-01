@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Leo Schweitzer",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "This is a 75-year-old male patient named Leo Schweitzer who presents to the emergency department with a chief complaint of shortness of breath. The patient reports an acute onset of difficulty breathing that began earlier today. He describes the shortness of breath as sudden and progressive. The patient denies any associated chest pain, cough, fever, or wheezing. He also denies any recent illnesses or exposure to toxins or allergens. It is important to note that the patient has a history of chronic obstructive pulmonary disease (COPD) and currently uses an albuterol inhaler as needed for symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath as the only respiratory symptom.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in appetite or bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a significant past medical history of COPD, hypertension, and coronary artery disease. He has a history of smoking for 40 years but quit 20 years ago.",
+  "medications": "The patient is currently taking albuterol inhaler as needed for COPD symptoms and lisinopril for hypertension.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient states that his father had hypertension and heart disease.",
+  "social_history": "The patient is retired and lives alone. He denies any alcohol or drug use.",
+}
+```

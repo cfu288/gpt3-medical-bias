@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Melvin Bales",
+  "age": "91",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Melvin Bales, a 91-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past 2 days. He reports that he has a history of chronic obstructive pulmonary disease (COPD) and has been prescribed albuterol inhaler for his symptoms. He denies any recent exacerbation of his COPD or any other respiratory illnesses. He also denies any chest pain, cough, or wheezing. He reports no recent fever, chills, weight loss, or fatigue. Upon further questioning, he mentions that he developed a productive cough with yellowish sputum and episodes of increased sputum production. He denies any orthopnea, paroxysmal nocturnal dyspnea, or leg swelling. No associated symptoms of chest pain, palpitations, or syncope.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or syncope",
+    "respiratory": "Shortness of breath, productive cough with yellowish sputum, episodes of increased sputum production",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "No joint pain, swelling, or limited range of motion",
+    "skin": "No rashes, lesions, or wounds",
+    "neurologic": "No headaches, dizziness, or changes in speech or vision"
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD)",
+  "medications": "Albuterol inhaler",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of respiratory illnesses",
+  "social_history": "Non-smoker, lives alone, independent with activities of daily living"
+}
+```

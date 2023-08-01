@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abe Cools",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Cools is a 69-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started suddenly about two hours ago while he was at rest. He describes the shortness of breath as severe, with associated chest pain and a feeling of tightness in his chest. He denies any recent illness or trauma. The patient has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and atorvastatin. The patient also reports a past surgical history of cholecystectomy 10 years ago. He denies any family history of cardiovascular disease. In terms of social history, Mr. Cools is a lifelong non-smoker and does not consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "In addition to the shortness of breath and chest pain, the patient denies palpitations or leg swelling.",
+    "respiratory": "The patient's chief complaint is shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any changes in vision, speech, or coordination."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "lisinopril, atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No family history of cardiovascular disease",
+  "social_history": "Non-smoker, no alcohol consumption"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bonnie Eisenmenger",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Bonnie Eisenmenger, is a 60-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increased difficulty breathing over the past few days. She denies any chest pain or cough. She states that she has a history of smoking, with a 30 pack-year history, and has recently noticed a decreased exercise tolerance. She denies any recent fever or cold symptoms. Upon further questioning, the patient admits to a past medical history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin for these conditions. She has no known allergies. The patient also reports a past surgical history of cholecystectomy. She is divorced and lives alone. Her family history is significant for coronary artery disease in her father and breast cancer in her mother. Socially, the patient admits to smoking half a pack of cigarettes per day and occasionally drinks alcohol. She denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports occasional palpitations but denies any chest pain or leg swelling.",
+    "respiratory": "The patient reports increased shortness of breath with exertion and mild wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports generalized joint stiffness but denies any joint swelling or deformities.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Coronary artery disease in father, breast cancer in mother",
+  "social_history": "The patient is divorced and lives alone. She has a 30 pack-year smoking history and currently smokes half a pack of cigarettes per day. She occasionally drinks alcohol but denies any illicit drug use."
+}

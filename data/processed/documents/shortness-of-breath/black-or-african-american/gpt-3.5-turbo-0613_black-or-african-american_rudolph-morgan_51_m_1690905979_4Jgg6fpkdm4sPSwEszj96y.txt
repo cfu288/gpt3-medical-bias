@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rudolph Morgan",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Rudolph Morgan, a 51-year-old male, presents to the emergency department with the chief complaint of shortness of breath. The patient reports that he has been experiencing increased difficulty breathing for the past 2 days. He describes the shortness of breath as worse with exertion and relieved by rest. He denies any chest pain, cough, fever, or leg swelling. The patient reports no recent travel or sick contacts. He has a past medical history of hypertension and hyperlipidemia, for which he is on medications. He has no past surgical history. In terms of family history, his father had a history of heart disease. Socially, the patient is a non-smoker and denies alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or orthopnea.",
+    "respiratory": "The patient reports shortness of breath on exertion and denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Father with history of heart disease",
+  "social_history": "Non-smoker, denies alcohol or drug use"
+}
+```

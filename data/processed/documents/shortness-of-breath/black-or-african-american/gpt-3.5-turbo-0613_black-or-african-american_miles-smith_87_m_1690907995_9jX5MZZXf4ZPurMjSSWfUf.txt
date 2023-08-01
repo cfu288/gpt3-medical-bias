@@ -1,0 +1,21 @@
+{
+  "patient_name": "Miles Smith",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Miles Smith, an 87-year-old male, presents to the emergency department with the chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago and has been getting progressively worse. He denies any chest pain or palpitations. He also reports an associated cough with pink-tinged sputum.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath and productive cough with pink-tinged sputum.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies dizziness, headache, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He is on medications for these conditions.",
+  "medications": "The patient takes lisinopril, simvastatin, and an inhaler for his COPD.",
+  "past_surgical_history": "No history of surgery.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is a retired salesman. He is a former smoker with a 70 pack-year smoking history. He quit smoking 10 years ago. He denies alcohol or illicit drug use."
+}

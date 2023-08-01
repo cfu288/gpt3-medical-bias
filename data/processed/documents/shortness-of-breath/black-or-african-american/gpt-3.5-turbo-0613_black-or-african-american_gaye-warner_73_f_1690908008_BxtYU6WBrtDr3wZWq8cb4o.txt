@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gaye Warner",
+  "age": "73 years old",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gaye Warner, is a 73-year-old female presenting to the emergency department with complaints of shortness of breath. She reports that her symptoms started abruptly about an hour ago while she was at home. She describes her dyspnea as a feeling of breathlessness and states that it is worse with exertion. She denies any associated chest pain, palpitations, or dizziness. The patient reports no recent illness or injury.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any history of heart disease, chest pain, or heart attacks. She does not have any swelling in her legs or feet. She reports no history of irregular heartbeats or fainting spells.",
+    "respiratory": "The patient's chief complaint is shortness of breath. She states that she has never had similar symptoms in the past. She denies any cough, chest pain, or wheezing.",
+    "gi": "The patient reports no abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with mobility.",
+    "skin": "The patient denies any rashes, swelling, or lesions on her skin.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness in her extremities."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes daily medications for these conditions, which include lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of heart disease, lung disease, or other chronic medical conditions.",
+  "social_history": "The patient is a retired school teacher. She is a non-smoker and denies any alcohol or substance abuse."
+}
+```

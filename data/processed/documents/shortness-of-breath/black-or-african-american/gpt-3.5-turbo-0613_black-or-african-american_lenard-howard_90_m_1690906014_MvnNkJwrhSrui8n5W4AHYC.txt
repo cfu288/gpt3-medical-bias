@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lenard Howard",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lenard Howard, is a 90-year-old male who presented to the emergency department with chief complaint of shortness of breath. According to the patient, he has been experiencing increasing difficulty in breathing for the past two days. He reports feeling winded even with minimal exertion. He denies any chest pain, cough, or fever. He has a past medical history of hypertension and hyperlipidemia but is unsure of his last blood pressure and lipid panel readings. He reports taking medications for these conditions, although the specific names are unknown. The patient denies any recent surgeries or hospitalizations. Upon further questioning, the patient reports no family history of respiratory or cardiovascular diseases. Socially, the patient lives alone and denies any tobacco or alcohol use. Additionally, he does not have any pets or exposure to potential allergens or irritants.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "As mentioned earlier, the patient presents with shortness of breath. There is no associated cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is unsure of the names of the medications he is currently taking for hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient denies any family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient lives alone and denies any tobacco or alcohol use. He does not have any pets or exposure to potential allergens or irritants."
+}

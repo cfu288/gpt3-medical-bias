@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lesly Stevens",
+  "age": "20",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lesly Stevens, a 20-year-old male, presents to the emergency department with the chief complaint of shortness of breath. Patient reports that the shortness of breath started suddenly about 2 hours ago while he was at home. The symptoms have been progressively worsening. He denies any associated chest pain, cough, fever, or wheezing. He has no past medical history of respiratory diseases or allergies. Patient denies any recent travel or exposure to sick contacts. He appears anxious and distressed due to difficulty breathing. Vital signs on presentation are as follows: temperature 98.6°F, heart rate 100 bpm, blood pressure 120/80 mmHg, respiratory rate 24 breaths per minute, oxygen saturation 92% on room air. Physical examination reveals decreased air entry bilaterally with scattered coarse crackles on lung auscultation. There is no accessory muscle use or cyanosis. The rest of the examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, weight loss, or fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath is the main symptom noted by the patient. No cough or wheezing.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or wounds.",
+    "neurologic": "No headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No family history of respiratory diseases or significant medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He works as a cashier and denies any recent occupational exposures."
+}
+```

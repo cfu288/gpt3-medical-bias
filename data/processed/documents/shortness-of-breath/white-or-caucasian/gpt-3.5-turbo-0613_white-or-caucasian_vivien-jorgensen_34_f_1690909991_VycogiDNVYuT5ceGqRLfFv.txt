@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vivien Jorgensen",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ms. Vivien Jorgensen, a 34-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started abruptly about an hour ago while she was at home watching television. She describes the shortness of breath as a feeling of tightness in her chest and difficulty taking deep breaths. She denies any associated chest pain, cough, fever, or other respiratory symptoms. The patient also reports feeling lightheaded and dizzy. She denies any recent travel, exposure to sick contacts, or known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath as described above.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Patient reports feeling lightheaded and dizzy."
+  },
+  "past_medical_history": "The patient has a history of asthma, but reports no recent exacerbations or hospitalizations.",
+  "medications": "The patient uses an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. She consumes alcohol occasionally."
+}
+```

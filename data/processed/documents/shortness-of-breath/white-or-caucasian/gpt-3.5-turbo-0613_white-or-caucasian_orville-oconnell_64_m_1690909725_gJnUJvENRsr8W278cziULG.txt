@@ -1,0 +1,22 @@
+{ 
+  "patient_name": "Orville Oconnell",
+  "age": "64",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Orville Oconnell, a 64-year-old male, presents to the emergency department with the chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 1 hour ago while he was resting at home. He describes the shortness of breath as moderate in severity, worsened with exertion, and relieved by rest. He denies any associated chest pain, cough, or wheezing. He states that he has not experienced any similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "As mentioned before, the patient reports shortness of breath. He denies cough, sputum production, hemoptysis, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, frequency, urgency, or nocturia.",
+    "musculoskeletal": "The patient denies muscle or joint pain.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies headache, dizziness, syncope, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily and atorvastatin 20 mg daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of hypertension in his mother and brother.",
+  "social_history": "The patient is a retired accountant and is currently a non-smoker. He drinks alcohol occasionally and denies any illicit drug use."
+}

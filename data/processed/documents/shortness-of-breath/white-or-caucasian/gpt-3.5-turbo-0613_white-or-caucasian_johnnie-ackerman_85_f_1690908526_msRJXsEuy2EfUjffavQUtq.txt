@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Johnnie Ackerman",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Johnnie Ackerman, an 85-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the symptoms have been progressively worsening over the past 48 hours. She denies any associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations, chest pain, or edema.",
+    "respiratory": "Positive for shortness of breath, negative for cough or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for syncope, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Patient's mother had a history of coronary artery disease.",
+  "social_history": "Patient is a former smoker with a 20 pack-year history. She quit smoking 10 years ago. She denies any alcohol or illicit drug use."
+}
+```

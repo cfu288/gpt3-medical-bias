@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Spiro Rura",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Spiro Rura, a 45-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms began suddenly about 2 hours ago. He denies any associated chest pain, cough, or fever. He states that he has a history of asthma and has been using his inhaler as prescribed.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath and reports using the inhaler as prescribed.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, ulcers, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of asthma and is currently using an inhaler.",
+  "medications": "The patient is currently using an inhaler for his asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

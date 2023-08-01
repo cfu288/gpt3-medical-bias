@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Harriett Broxson",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Harriett Broxson, an 82-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 3 hours ago. She denies any associated chest pain or cough. She states that she has been feeling weak and fatigued recently, but she has not experienced any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, and weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or orthopnea.",
+    "respiratory": "The patient reports shortness of breath and denies cough or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for her hypertension and atorvastatin for her hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in her parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is retired and lives alone."
+}
+```

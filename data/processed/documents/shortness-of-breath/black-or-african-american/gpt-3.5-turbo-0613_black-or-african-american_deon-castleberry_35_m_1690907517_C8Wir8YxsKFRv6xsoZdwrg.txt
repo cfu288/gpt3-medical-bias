@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deon Castleberry",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Castleberry presented to the emergency department with complaints of shortness of breath that started about 2 hours ago. He reports feeling increasingly winded with minimal exertion and is unable to catch his breath despite resting. He denies any chest pain or palpitations. There is no history of similar symptoms in the past. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath with exertion.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or changes in urine color.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, lesions, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal weakness."
+  },
+  "past_medical_history": "Mr. Castleberry has a history of hypertension, which is well-controlled with hydrochlorothiazide.",
+  "medications": "Hydrochlorothiazide 25 mg once daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for significant family medical history.",
+  "social_history": "Mr. Castleberry is a non-smoker. He denies any alcohol or illicit drug use. He works as a software engineer and leads a sedentary lifestyle."
+}

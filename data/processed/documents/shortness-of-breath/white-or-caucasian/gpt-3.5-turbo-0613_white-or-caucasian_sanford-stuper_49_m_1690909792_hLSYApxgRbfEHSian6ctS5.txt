@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sanford Stuper",
+  "age": "49",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. Patient states that he has been experiencing increasing difficulty breathing over the past week. He reports that he has been feeling short of breath even during minimal exertion and is unable to lay flat without experiencing shortness of breath. Patient denies any chest pain or cough. He reports no recent fevers, chills, or weight loss. This is the first time the patient has experienced these symptoms. Patient states that he has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath with minimal exertion and inability to lay flat without symptoms.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes metoprolol and atorvastatin for these conditions.",
+  "medications": "Metoprolol 100 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient has no history of prior surgeries.",
+  "family_history": "Patient reports a family history of heart disease in his father and brother.",
+  "social_history": "Patient is a non-smoker. He denies any drug or alcohol use."
+}

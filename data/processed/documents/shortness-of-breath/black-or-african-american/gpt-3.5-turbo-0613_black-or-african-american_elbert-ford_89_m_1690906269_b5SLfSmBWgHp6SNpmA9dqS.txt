@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Ford",
+  "age": "89",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Elbert Ford, an 89-year-old male, presents to the emergency department with complaints of shortness of breath. According to the patient, he has been experiencing gradual onset of shortness of breath over the past week. He describes the shortness of breath as worse with exertion and relieved with rest. He denies any chest pain, cough, or fever. He reports no recent travel, sick contacts, or exposure to chemicals or allergens.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath, worse with exertion and relieved with rest.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary urgency, frequency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and atrial fibrillation.",
+  "medications": "The patient's current medications include amlodipine 5mg daily, atorvastatin 20mg daily, and warfarin 5mg daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease and hypertension in both parents.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco, alcohol, or illicit drug use."
+}
+```

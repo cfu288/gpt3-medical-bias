@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Smith",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Smith is a 73-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started about 2 hours ago and have been progressively worsening. He denies any associated chest pain or cough. He has a past medical history of hypertension and hyperlipidemia. Upon further questioning, the patient reports that he has been non-compliant with his prescribed medications and has not seen a healthcare provider in over a year.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and hyperlipidemia. He denies any chest pain or palpitations.",
+    "respiratory": "The patient complains of shortness of breath. He denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in appetite or bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in range of motion.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, loss of consciousness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He reports being non-compliant with his medications.",
+  "medications": "The patient is supposed to be taking medications for hypertension and hyperlipidemia, but he admits to not taking them regularly.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use. He has no known drug allergies."
+}

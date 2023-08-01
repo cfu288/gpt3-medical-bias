@@ -1,0 +1,21 @@
+{
+  "patient_name": "Raffaele Putnam",
+  "age": "25",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started approximately 1 hour ago while he was at rest. He denies any associated chest pain or palpitations. He states that he has never experienced this before and is concerned. On further questioning, he reports feeling fatigued and lightheaded. He denies any recent illnesses or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath on exertion, but none at rest or while lying flat.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or changes in skin color.",
+    "neurologic": "Patient denies headaches, vision changes, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of mild intermittent asthma but has not required inhalers in the past year.",
+  "medications": "Patient does not take any prescribed medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient has no significant family history of heart disease or respiratory disorders.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use. He is currently employed as a software engineer."
+}

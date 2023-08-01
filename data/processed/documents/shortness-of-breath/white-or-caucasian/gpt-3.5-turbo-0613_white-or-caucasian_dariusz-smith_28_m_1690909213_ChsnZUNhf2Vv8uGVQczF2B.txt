@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dariusz Smith",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents to the Emergency Department with complaints of shortness of breath that started suddenly about an hour ago. The patient reports that he was feeling fine earlier in the day and denies any recent illness, fever, or cough. He has no known allergies. Upon further questioning, the patient reports a history of asthma and occasional use of an inhaler. He states that his symptoms have been worsening over the past hour and he is finding it difficult to complete sentences without feeling short of breath.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies chills, fever, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient experiences shortness of breath at rest and with minimal exertion. He denies cough, wheezing, or sputum production.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a history of asthma and occasional use of an inhaler.",
+  "medications": "The patient takes albuterol as needed for his asthma symptoms.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

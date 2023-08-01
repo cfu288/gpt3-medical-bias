@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wilbert Robinson",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of shortness of breath. He reports that the symptoms started about 2 hours ago and have been progressively worsening. He denies any chest pain or cough. He states that he has a history of hypertension and takes medications for it. He has never had this symptom before. ",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or fatigue.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath without cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is on Lisinopril 20mg daily.",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "Notable surgical history includes an appendectomy in 1985.",
+  "family_history": "Patient reports a positive family history of cardiovascular disease, with both parents having a history of heart attacks.",
+  "social_history": "Patient is a former smoker, having quit 10 years ago. He denies any alcohol or drug use."
+}

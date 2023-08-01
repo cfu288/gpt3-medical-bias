@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thaddeus Smallwood",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Thaddeus Smallwood, is a 64-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started approximately 2 days ago and have been progressively worsening. He denies any associated chest pain, cough, or fever. He states that he has a history of hypertension and has been non-compliant with his medications. On physical examination, the patient appears distressed and is in respiratory distress. He is tachypneic with a respiratory rate of 28 breaths per minute. There are diminished breath sounds bilaterally with diffuse rales heard on auscultation. Oxygen saturation is 89% on room air. A chest X-ray is ordered to further evaluate his respiratory status.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and occasional chest pain, but denies any recent changes in his cardiovascular symptoms.",
+    "respiratory": "The patient reports shortness of breath as his primary complaint. He denies any cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or changes in urinary function.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any focal weakness, numbness, or changes in mental status."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, for which he has been non-compliant with his medications.",
+  "medications": "The patient is currently not taking any medications regularly.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient has a family history of hypertension but denies any other significant family medical history.",
+  "social_history": "The patient is a retired accountant. He denies smoking, alcohol use, or illicit drug use."
+}

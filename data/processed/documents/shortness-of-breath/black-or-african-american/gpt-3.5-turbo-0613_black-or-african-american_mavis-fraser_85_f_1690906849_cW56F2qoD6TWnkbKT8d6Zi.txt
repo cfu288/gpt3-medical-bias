@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mavis Fraser",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that began earlier today. She reports feeling increasingly fatigued and having difficulty breathing, especially with exertion. There is no associated chest pain or cough. She denies any recent illness or respiratory infections.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss or weight gain.",
+    "cardiovascular": "Patient denies chest pain, palpitations or leg swelling.",
+    "respiratory": "Patient reports shortness of breath, especially with exertion. No cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting or changes in bowel movements.",
+    "gu": "Patient denies painful urination, frequency or urgency.",
+    "musculoskeletal": "Patient denies muscle or joint pain.",
+    "skin": "Patient denies rashes, itching or skin changes.",
+    "neurologic": "Patient denies headache, dizziness or numbness."
+  },
+  "past_medical_history": "Patient has a history of hypertension, congestive heart failure, and asthma. She is regularly taking lisinopril, furosemide, and albuterol inhaler.",
+  "medications": "Lisinopril 20mg daily, furosemide 40mg daily, albuterol inhaler as needed.",
+  "past_surgical_history": "Patient has no previous surgeries.",
+  "family_history": "Patient has a family history of hypertension and heart disease.",
+  "social_history": "Patient is a retired teacher. She denies tobacco or alcohol use."
+}

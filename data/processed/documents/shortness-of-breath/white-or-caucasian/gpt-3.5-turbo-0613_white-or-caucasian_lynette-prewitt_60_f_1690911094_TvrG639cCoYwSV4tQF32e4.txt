@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lynette Prewitt",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lynette Prewitt, a 60-year-old female, presented to the emergency department today with a chief complaint of shortness of breath. She states that the shortness of breath started approximately 2 hours ago and has been gradually worsening since then. She denies any associated chest pain, cough, fever, or leg swelling. She reports a history of asthma and infrequent use of her inhaler. The patient also mentions occasional heartburn and mild dyspepsia but attributes it to her diet choices. She denies any recent illnesses or infections. She states that she has been under significant stress at work recently, which may have contributed to her symptoms. On review of systems, the patient denies any constitutional symptoms, chest pain, palpitations, or syncope. The patient reports no recent changes in bowel or bladder habits, no urinary symptoms, no joint pain or stiffness, and no recent rashes or skin changes. She denies any history of neurologic symptoms. ",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Positive for occasional heartburn and mild dyspepsia",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a history of asthma, which is managed with an as-needed inhaler. She reports no other significant past medical history.",
+  "medications": "As-needed inhaler for asthma",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "The patient denies any significant family history of cardiac or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol on a regular basis. She works as a high school teacher and denies any illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Minnie Thompson",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Minnie Thompson, a 62-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing difficulty breathing for the past 2 days. She reports that the shortness of breath is worse with activity and is accompanied by cough and wheezing. She denies any chest pain, fever, or chills. She states that she has a history of asthma and has been using her inhaler without much relief. She also reports a history of smoking, with a pack-a-day history for the past 30 years. On physical examination, the patient appears in mild respiratory distress, with increased work of breathing. Lung auscultation reveals bilateral expiratory wheezing. Initial oxygen saturation is 92% on room air. A chest X-ray is ordered to rule out any underlying lung pathology.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fever, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath, cough, and wheezing.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or change in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "The patient denies any numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and a 30-year history of smoking.",
+  "medications": "The patient is currently using an albuterol inhaler for asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of asthma in her mother.",
+  "social_history": "The patient has a 30-year history of smoking."
+}

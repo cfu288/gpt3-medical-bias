@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alton Lawhon",
+  "age": "78",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Alton Lawhon, a 78-year-old male, presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing progressively worsening difficulty breathing over the past two days. He reports associated symptoms of cough, wheezing, and chest tightness. He denies any fever, chills, or coughing up blood. He states that he has a history of chronic obstructive pulmonary disease (COPD) and has been using his inhalers as prescribed. However, his symptoms have not been well controlled recently. Mr. Lawhon also reports a history of smoking for 40 years, but he quit 10 years ago. He denies any recent travel or exposure to sick contacts. He states that he has not had any recent changes in his medications or any new allergies. His vital signs upon arrival are as follows: blood pressure 140/90 mmHg, heart rate 98 bpm, respiratory rate 24 breaths per minute, oxygen saturation 89% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in his legs.",
+    "respiratory": "The patient complains of shortness of breath, cough, wheezing, and chest tightness.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limitations in range of motion.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia. He is currently taking albuterol and ipratropium inhalers for his COPD, lisinopril for hypertension, and atorvastatin for hyperlipidemia. He is up to date on his vaccinations.",
+  "medications": "1. Albuterol inhaler - 2 puffs every 4-6 hours as needed for shortness of breath\n2. Ipratropium inhaler - 2 puffs every 6 hours as needed for shortness of breath\n3. Lisinopril - 10 mg once daily for hypertension\n4. Atorvastatin - 20 mg once daily for hyperlipidemia",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient states that his father had a history of hypertension and his mother had a history of COPD.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago after smoking for 40 years. He denies any alcohol or drug use. He is retired and lives at home with his spouse."
+}
+```

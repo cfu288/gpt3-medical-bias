@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shahin Wilhelm",
+  "age": "30",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom started suddenly approximately 2 hours ago. The patient denies any fever, cough, chest pain, or respiratory infections prior to the onset of this symptom. He also denies any recent travel, exposure to sick contacts, or known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, no cough or wheezing",
+    "gi": "No abdominal pain or vomiting",
+    "gu": "No dysuria or frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or pruritus",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has no known medical conditions and does not take any regular medications. He also reports no known drug allergies.",
+  "medications": "The patient does not regularly take any medications.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and does not use recreational drugs. He drinks alcohol occasionally. He works as an office administrator and denies any recent occupational exposures."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Denise Moore",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Denise Moore, a 65-year-old female, presents to the emergency department with complaints of shortness of breath. She states that she has been experiencing worsening difficulty breathing for the past 3 days. She reports that her shortness of breath is worse with exertion and she has also noticed swelling in her feet and ankles. She denies any chest pain, cough, or fever. She states that she has a history of hypertension and takes medication for it. She denies any recent changes in her medications or any known allergies. On physical examination, the patient appears in moderate respiratory distress. Her vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 24 breaths per minute, and oxygen saturation of 92% on room air. On auscultation, decreased breath sounds are noted in both lung fields and bilateral lower extremity pitting edema is appreciated. The patient is started on supplemental oxygen and her symptoms begin to improve. She is admitted to the hospital for further evaluation and management of her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Reports swelling in her feet and ankles. Denies chest pain, palpitations, or syncope.",
+    "respiratory": "Main complaint is shortness of breath. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary complaints or changes in urinary habits.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "No rashes or changes in skin color noted.",
+    "neurologic": "Denies headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension.",
+  "medications": "Patient takes medication for hypertension, but denies any recent changes.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history noted.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

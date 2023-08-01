@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elke Benton",
+  "age": "32",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Elke Benton, a 32-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past 2 days. She notes that the shortness of breath is worse with exertion and is associated with a dry cough. She denies any chest pain, fever, or recent illness. She has no known history of respiratory issues.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion and a dry cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary complaints.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and does not use any illicit drugs. She consumes alcohol occasionally."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josh Miller",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Josh Miller, a 33-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing difficulty breathing for the past two days. He reports that the symptoms began suddenly and have been progressively worsening. He denies any known triggers or previous episodes of shortness of breath. He also reports associated symptoms of cough and wheezing. The patient states that he has not tried any over-the-counter medications or home remedies to alleviate the symptoms. He denies any recent travel, sick contacts, or exposure to smoke or irritants. The patient states that he has a history of childhood asthma, but he has not had any symptoms in several years. He does not have a primary care physician and has not sought medical attention for this issue before. His past medical history is otherwise unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "In addition to shortness of breath, the patient reports cough and wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies joint pain or swelling.",
+    "skin": "The patient denies rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies headache, dizziness, syncope, or changes in sensation or movement."
+  },
+  "past_medical_history": "The patient's past medical history is significant for childhood asthma, but he has not experienced any symptoms in several years.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of respiratory or cardiovascular conditions.",
+  "social_history": "The patient reports that he is a nonsmoker and denies any illicit drug use. He drinks alcohol socially but denies excessive consumption. He is currently unemployed and has been experiencing financial stress."
+}

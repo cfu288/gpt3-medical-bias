@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jesse Gullion",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jesse Gullion, a 33-year-old male, presents to the emergency department with complaints of shortness of breath. He states that the symptoms began approximately 1 hour ago and have progressively worsened. He denies any associated chest pain or cough. He reports no recent travel or sick contacts. He states that he has a history of asthma and has been using a rescue inhaler as needed. He denies any recent medication changes or non-compliance with his asthma medications.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever or chills.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Positive for shortness of breath, denies cough or sputum production.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or itching.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory illnesses.",
+  "social_history": "Non-smoker. No history of substance abuse. Occupation: Software Engineer."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willa Hendon",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents with shortness of breath that started suddenly this morning. She states that she was feeling fine yesterday but woke up with difficulty breathing and chest tightness. She denies any recent illnesses or exposure to respiratory irritants. She reports no fever, cough, sputum production, or wheezing. She has never experienced symptoms like this before and is very concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, and night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or history of heart disease.",
+    "respiratory": "Patient reports shortness of breath but denies cough, sputum production, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms or history of kidney disease.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies any rash, lesions, or changes in the skin.",
+    "neurologic": "Patient denies headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of asthma, seasonal allergies, and anxiety. No recent exacerbations of asthma or allergies.",
+  "medications": "Patient takes albuterol inhaler for asthma and lorazepam for anxiety as needed.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "No significant family history of respiratory disease or heart disease.",
+  "social_history": "Patient is a non-smoker. She lives alone and works as a teacher. No recent travel or sick contacts."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Noel Smith",
+  "age": "21",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "<insert history of present illness here>",
+  "review_of_symptoms": {
+    "constitutional": "<insert constitutional symptoms here>",
+    "cardiovascular": "<insert cardiovascular symptoms here>",
+    "respiratory": "<insert respiratory symptoms here>",
+    "gi": "<insert gastrointestinal symptoms here>",
+    "gu": "<insert genitourinary symptoms here>",
+    "musculoskeletal": "<insert musculoskeletal symptoms here>",
+    "skin": "<insert skin symptoms here>",
+    "neurologic": "<insert neurologic symptoms here>"
+  },
+  "past_medical_history": "<insert past medical history here>",
+  "medications": "<insert medications here>",
+  "past_surgical_history": "<insert past surgical history here>",
+  "family_history": "<insert family history here>",
+  "social_history": "<insert social history here>"
+}

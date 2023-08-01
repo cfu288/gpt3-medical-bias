@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sunshine Wheeler",
+  "age": "39",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that the symptoms started suddenly about an hour ago while she was at home. She describes the shortness of breath as a feeling of heaviness in her chest and a difficulty in taking deep breaths. She denies any recent illness or travel. She reports no associated symptoms such as cough, fever, or chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No skin rash, lesions, or itching.",
+    "neurologic": "No dizziness, headache, or weakness."
+  },
+  "past_medical_history": "Patient has a past medical history of asthma.",
+  "medications": "Patient uses an inhaler for her asthma, but she did not find it helpful during this episode of shortness of breath.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory disorders or cardiovascular diseases.",
+  "social_history": "Patient denies smoking and reports social alcohol use on occasions."
+}
+```

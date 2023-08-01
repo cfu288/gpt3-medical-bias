@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roscoe Henderson",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Roscoe Henderson, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The onset of symptoms occurred approximately 2 hours prior to arrival. The patient reports feeling progressively more short of breath with minimal exertion. The patient denies any chest pain or lightheadedness. He also denies any recent travel, sick contacts, or fever. According to the patient, he has a history of hypertension and takes medications for it. He states that he never experienced shortness of breath like this before.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or weakness."
+  },
+  "past_medical_history": "Hypertension, for which he takes [Medication].",
+  "medications": "[Medication] for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Hypertension in both parents.",
+  "social_history": "The patient denies any tobacco or alcohol use. He lives alone and is retired."
+}

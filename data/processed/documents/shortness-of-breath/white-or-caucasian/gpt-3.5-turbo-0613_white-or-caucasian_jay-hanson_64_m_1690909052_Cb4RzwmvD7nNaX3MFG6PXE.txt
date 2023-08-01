@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jay Hanson",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started two days ago and have been progressively worsening. Patient reports associated chest tightness and cough with blood-tinged sputum. Patient denies fever, chills, or any recent illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, weight loss, or night sweats.",
+    "cardiovascular": "Patient reports a medical history of hypertension and coronary artery disease. Currently takes lisinopril and atorvastatin.",
+    "respiratory": "Patient reports a 40-pack year smoking history. Denies any recent changes in respiratory symptoms. No history of chronic lung disease.",
+    "gi": "Patient denies any GI symptoms.",
+    "gu": "Patient denies any GU symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal symptoms.",
+    "skin": "Patient denies any skin changes or rash.",
+    "neurologic": "Patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and coronary artery disease.",
+  "medications": "Patient currently takes lisinopril and atorvastatin for the management of hypertension and coronary artery disease.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient denies any relevant family history.",
+  "social_history": "Patient has a 40-pack year smoking history and currently smokes one pack per day. Patient does not consume alcohol or use illicit drugs."
+}
+```

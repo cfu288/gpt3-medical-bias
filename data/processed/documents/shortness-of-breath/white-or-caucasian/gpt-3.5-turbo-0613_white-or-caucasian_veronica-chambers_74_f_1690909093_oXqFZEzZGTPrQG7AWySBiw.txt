@@ -1,0 +1,21 @@
+{
+  "patient_name": "Veronica Chambers",
+  "age": "74",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began suddenly this morning while she was at rest. She denies any chest pain or cough. She also reports feeling lightheaded and weak. Upon further questioning, patient states that she has a history of heart failure and has been non-compliant with her medications. She admits to not taking her diuretic medication for the past week.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and weak",
+    "cardiovascular": "Patient denies any chest pain or palpitations",
+    "respiratory": "Patient reports shortness of breath at rest",
+    "gi": "Patient denies any abdominal pain or change in bowel movements",
+    "gu": "Patient denies any urinary symptoms",
+    "musculoskeletal": "Patient denies any muscle or joint pain",
+    "skin": "Patient denies any skin changes or rashes",
+    "neurologic": "Patient reports feeling lightheaded"
+  },
+  "past_medical_history": "History of heart failure",
+  "medications": "Non-compliant with diuretic medication",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Patient smokes one pack of cigarettes per day"
+}

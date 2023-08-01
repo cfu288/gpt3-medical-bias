@@ -1,0 +1,22 @@
+{
+  "patient_name": "Baxter Holmes",
+  "age": "18",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Baxter Holmes, an 18-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning and has been progressively worsening throughout the day. He denies any recent illness, fever, or cough. He also reports no chest pain or palpitations. He states that he has never experienced shortness of breath before and is concerned because it is difficult for him to catch his breath even at rest.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath at rest, worsens with activity.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No dizziness or syncope."
+  },
+  "past_medical_history": "Patient denies any significant past medical history. He is not currently on any medications.",
+  "medications": "No medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Patient denies any significant family history of respiratory diseases or other relevant conditions.",
+  "social_history": "Patient is an 18-year-old student and denies tobacco use, alcohol use, or illicit drug use."
+}

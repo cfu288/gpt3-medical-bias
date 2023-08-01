@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Bijan Tomkins",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Tomkins presented to the emergency department with complaints of shortness of breath that started suddenly about 2 hours ago. He reports that he was at home when he suddenly felt like he couldn't catch his breath. He denies any chest pain, cough, or fever. He reports no recent history of travel or exposure to sick contacts. He states that he does not have a history of similar symptoms. Upon arrival, his vital signs were stable with a heart rate of 80 bpm, blood pressure of 120/80 mmHg, respiratory rate of 18 breaths per minute, and oxygen saturation of 96% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fatigue, weight loss, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or syncope.",
+    "respiratory": "Reports shortness of breath but denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No prior medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Non-smoker. Denies alcohol or drug use."
+}
+```

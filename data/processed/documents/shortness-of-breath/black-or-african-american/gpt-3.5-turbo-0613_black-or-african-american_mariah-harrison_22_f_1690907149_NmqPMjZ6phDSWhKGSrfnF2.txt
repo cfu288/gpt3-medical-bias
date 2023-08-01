@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "patient_name": "Mariah Harrison",
+  "age": "22",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of shortness of breath. She reports that the symptoms started suddenly about 2 hours ago and have been worsening since then. She denies any chest pain or cough. As per the patient, she has no history of asthma or allergies. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or diaphoresis.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "Shortness of breath with exertion, no cough.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "No muscle pain or joint swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lucie Costanza",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lucie Costanza, a 24-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing worsening shortness of breath for the past 2 days, which is associated with coughing, wheezing, and chest tightness. She denies any fever, chills, or sputum production. The patient reports no known allergies or recent sick contacts. Notably, she has a history of asthma and has been using albuterol inhaler as needed. She denies any recent changes in medication or exacerbation of her asthma symptoms.",
+  "review_of_symptoms": {
+    "constitutional": null,
+    "cardiovascular": null,
+    "respiratory": "Shortness of breath, cough, wheezing, chest tightness",
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": null,
+  "family_history": null,
+  "social_history": null
+}
+```

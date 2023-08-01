@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Robbin Kensinger",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Robbin Kensinger, a 58-year-old male, presented to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing increasing difficulty breathing over the past 48 hours. He reports that the shortness of breath is worse with exertion and relieved by rest. The patient denies any associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with exertion, relieved by rest. No cough or sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes in urine output.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No numbness, weakness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He reports being compliant with his medications.",
+  "medications": "The patient's current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has a history of appendectomy in 2005.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a current smoker with a 20-pack year history. He does not consume alcohol or use illicit drugs."
+}
+```

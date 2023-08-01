@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gabriella Harris",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Gabriella Harris, a 19-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started approximately 2 hours ago and have been gradually worsening. The patient denies any chest pain, cough, fever, or recent illness. She states that she has never experienced this type of symptom before and is concerned about her breathing difficulty. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, no cough or wheezing",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No pain or swelling in joints or muscles",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient reports no significant family history of respiratory diseases, cardiac diseases, or other chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is a full-time college student with a part-time job."
+}
+```

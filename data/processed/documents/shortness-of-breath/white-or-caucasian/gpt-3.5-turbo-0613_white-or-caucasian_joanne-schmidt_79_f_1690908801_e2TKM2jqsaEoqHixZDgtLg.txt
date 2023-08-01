@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Joanne Schmidt",
+  "age": "79",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. She reports a gradual onset of dyspnea over the past 2 days. She denies any chest pain, cough, fever, or other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any fever or chills.",
+    "cardiovascular": "She has a history of hypertension and takes medication for it.",
+    "respiratory": "She reports shortness of breath. She denies any cough or sputum production.",
+    "gi": "She denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "She denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "She denies any joint pain or swelling.",
+    "skin": "She denies any rashes or skin lesions.",
+    "neurologic": "She denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "She takes lisinopril, simvastatin, and ibuprofen as needed for arthritis pain.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "She is a nonsmoker and denies any alcohol or drug use."
+}
+```

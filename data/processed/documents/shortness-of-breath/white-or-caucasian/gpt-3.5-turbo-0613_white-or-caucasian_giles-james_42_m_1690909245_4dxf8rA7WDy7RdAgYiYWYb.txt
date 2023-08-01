@@ -1,0 +1,21 @@
+{
+  "patient_name": "Giles James",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Giles James, a 42-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing increasing difficulty breathing over the past few days. He states that he has been feeling short of breath even at rest and that simple activities such as getting dressed or walking short distances have become extremely difficult. He denies any chest pain, cough, fever, or any other associated symptoms. His shortness of breath has been gradually worsening and is not relieved with rest. The patient states that he has a history of smoking and has smoked a pack of cigarettes per day for the past 10 years. He also reports a past medical history of asthma. Upon further evaluation, the patient does not have any known allergies to medications. He denies any recent illnesses or injuries. The patient has not had any recent surgeries. He has a family history of asthma in his maternal side. The patient works as a construction worker and has a 10-year history of exposure to dust and chemicals. He denies any recent travel or exposure to sick contacts. He is not currently taking any medications. The patient is otherwise healthy and denies any other medical conditions or symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, weakness, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, edema, or leg swelling.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle aches, or back pain.",
+    "skin": "Negative for rashes, pruritus, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, syncope, or numbness/tingling."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Maternal side: Asthma",
+  "social_history": "The patient is a 10-pack-year smoker and currently works as a construction worker with exposure to dust and chemicals."
+}

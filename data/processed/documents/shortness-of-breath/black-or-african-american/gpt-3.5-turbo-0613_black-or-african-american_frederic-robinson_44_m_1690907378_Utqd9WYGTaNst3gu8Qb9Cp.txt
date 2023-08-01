@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frederic Robinson",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Robinson is a 44-year-old male who presents to the emergency department with a complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing for the past 3 days. He denies any chest pain, cough, or fever. The shortness of breath is worse with exertion and relieved by rest. Mr. Robinson states that he has a history of asthma but has not been taking his medications regularly. He denies any recent illnesses or exposure to sick individuals. Upon further questioning, he reports a significant smoking history of 20 pack-years.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed, not using regularly",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Smokes 1 pack of cigarettes per day for the past 20 years"
+}

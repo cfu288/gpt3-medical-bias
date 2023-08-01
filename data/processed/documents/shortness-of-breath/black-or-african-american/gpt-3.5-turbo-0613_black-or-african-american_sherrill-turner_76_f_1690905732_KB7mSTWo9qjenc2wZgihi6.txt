@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Sherrill Turner"
+    },
+    "age": {
+      "type": "string",
+      "value": "76"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Patient presents to the Emergency Department with complaints of shortness of breath. She states that she has been experiencing difficulty breathing for the past 2 days. She reports that the shortness of breath worsens with exertion and is associated with a cough and mild wheezing. She denies any chest pain or fevers. The patient has a history of chronic obstructive pulmonary disease (COPD) and is a current smoker."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Patient denies fever, chills, or unintentional weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Patient denies chest pain, palpitations, or dizziness."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Patient reports shortness of breath, cough, and mild wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits."
+        },
+        "gu": {
+          "type": "string",
+          "value": "Patient denies any urinary symptoms or changes."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Patient denies any joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "Patient denies any skin rash or lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Patient denies any headaches, dizziness, or changes in sensation."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Patient has a past medical history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Patient takes the following medications: albuterol inhaler for COPD, lisinopril for hypertension, and atorvastatin for hyperlipidemia."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "Patient has no history of any surgeries."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "Patient has a family history of hypertension and lung cancer."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Patient is a current smoker with a 20 pack-year history. She drinks alcohol occasionally and denies any illicit drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

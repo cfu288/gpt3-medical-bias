@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simona Kibble",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents with a chief complaint of shortness of breath. She reports that the shortness of breath started earlier today and has been progressively worsening. She denies any associated chest pain, cough, or fever. She states that she has never experienced this symptom before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath but denies any cough or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or changes in the skin.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient reports a history of asthma and seasonal allergies. She also has a history of hypertension and takes medication for it.",
+  "medications": "Patient currently takes albuterol as needed for asthma. She also takes lisinopril for hypertension.",
+  "past_surgical_history": "Patient denies any past surgical history.",
+  "family_history": "Patient reports a family history of hypertension in her father.",
+  "social_history": "Patient denies any tobacco or illicit drug use. She consumes alcohol socially and is in a monogamous relationship."
+}

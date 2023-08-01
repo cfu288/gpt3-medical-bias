@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cornell Williams",
+  "age": "53",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started about 2 hours ago and have been progressively getting worse. Patient reports no other associated symptoms such as chest pain, cough, or fever. Patient denies any history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, weight loss, or fever.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency or urgency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's father had a history of hypertension.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

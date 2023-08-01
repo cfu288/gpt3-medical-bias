@@ -1,0 +1,21 @@
+{
+  "patient_name": "Quincy Mccray",
+  "age": "20",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Quincy Mccray, a 20-year-old male, presented to the emergency department with a chief complaint of shortness of breath. He reports experiencing sudden onset of difficulty breathing earlier today while at home. The shortness of breath has been progressively worsening since then. He denies any chest pain or palpitations. He reports no recent fever, cough, or sputum production. He denies any recent travel or exposure to sick contacts. The patient has a history of asthma, for which he uses an albuterol inhaler as needed. He has had episodes of shortness of breath in the past, but this episode is more severe and concerning to him. He denies any recent changes in his medications or any new exposures. No relieving or exacerbating factors have been identified at this time. The patient states that he has not been seen by a primary care physician recently. He has not had any recent hospitalizations or surgeries. The patient appears anxious and is using accessory muscles while breathing. His vital signs are within normal limits.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or diaphoresis.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed for asthma symptoms",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "No smoking or substance abuse history. Lives with parents and attends college."
+}

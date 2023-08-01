@@ -1,0 +1,21 @@
+{
+  "patient_name": "Markus Johnson",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. He reports that the symptoms started suddenly approximately 2 hours ago. He denies any chest pain, cough, or fever. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath, but denies cough, wheezing or hemoptysis.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or limitations.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or syncope."
+  },
+  "past_medical_history": "No significant medical history.",
+  "medications": "Patient does not take any prescribed medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-smoker, no alcohol or drug use. Works as a software engineer and denies exposure to environmental toxins or chemicals."
+}

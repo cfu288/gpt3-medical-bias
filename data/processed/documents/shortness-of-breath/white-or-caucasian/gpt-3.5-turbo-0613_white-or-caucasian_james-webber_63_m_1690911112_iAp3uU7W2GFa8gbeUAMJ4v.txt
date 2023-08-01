@@ -1,0 +1,21 @@
+{
+  "patient_name": "James Webber",
+  "age": "63",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient James Webber presents to the emergency department with a chief complaint of shortness of breath. He reports a sudden onset of difficulty breathing that started earlier today. He denies any chest pain or cough, but reports feeling very tired and weak. He states that his symptoms have been progressively worsening throughout the day. Upon further questioning, the patient admits to a history of smoking for the past 40 years, with a pack-a-day habit.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath, but denies cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or stiffness.",
+    "skin": "Patient denies any skin changes, rashes, or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hypercholesterolemia. He is currently on lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "medications": "Lisinopril 10mg once daily for hypertension and atorvastatin 20mg once daily for hypercholesterolemia.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient's father had a history of myocardial infarction, but otherwise, there is no significant family history of cardiovascular disease, lung disease, or cancer.",
+  "social_history": "Patient is a retired construction worker. He has a 40-pack-year smoking history and currently continues to smoke. He denies any history of alcohol or illicit drug use."
+}

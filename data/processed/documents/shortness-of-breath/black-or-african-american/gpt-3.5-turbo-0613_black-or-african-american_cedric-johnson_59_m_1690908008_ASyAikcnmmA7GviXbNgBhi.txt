@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cedric Johnson",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of shortness of breath. According to the patient, he first experienced shortness of breath earlier today while climbing stairs. He also reports associated chest pain and dizziness. His symptoms have been progressively worsening throughout the day, and he now feels extremely fatigued and unable to catch his breath. He denies any fever, cough, or sputum production. He states that he has a history of hypertension and takes medication for it, but he has not been faithful in taking his prescribed medications. He denies any recent illnesses or infections. The patient is a lifelong nonsmoker and does not consume alcohol. There is no known family history of heart disease or respiratory conditions. The patient has no history of surgeries and denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and feeling extremely weak.",
+    "cardiovascular": "The patient reports associated chest pain and dizziness.",
+    "respiratory": "The patient presents with shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient is currently prescribed antihypertensive medications, but admits to not taking them regularly.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "There is no known family history of heart disease or respiratory conditions.",
+  "social_history": "The patient is a lifelong nonsmoker and does not consume alcohol."
+}

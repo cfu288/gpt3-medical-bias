@@ -1,0 +1,21 @@
+{
+  "patient_name": "Etta Lane",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that started 3 hours ago. She reports feeling breathless even when sitting still and has noticed difficulty breathing especially when lying down. The patient denies any chest pain, cough, or fever. She has a past medical history of hypertension and hyperlipidemia. On examination, the patient is afebrile with a respiratory rate of 24 breaths per minute and an oxygen saturation of 90% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No complaints of fever, chills or fatigue.",
+    "cardiovascular": "No complaints of chest pain, palpitations or edema",
+    "respiratory": "Complaints of shortness of breath as mentioned in the chief complaint.",
+    "gi": "No complaints of abdominal pain, nausea or vomiting.",
+    "gu": "No complaints of urinary frequency, urgency or dysuria.",
+    "musculoskeletal": "No complaints of joint pain or weakness.",
+    "skin": "No complaints of rash, pruritus or discoloration.",
+    "neurologic": "No complaints of headache, dizziness or syncope."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Patient currently takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sylvester Johnson",
+  "age": "91",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. Patient reports that the shortness of breath started suddenly approximately 2 hours ago. She describes the shortness of breath as a feeling of not being able to get enough air, and states that it is worse with exertion and relieved by rest. She denies any chest pain or cough. Patient also reports feeling weak and fatigued. Patient states that she has a history of heart failure and has been prescribed medications for this condition. She states that her symptoms have been fairly stable in the past few months and she has not required any hospitalization for exacerbation of her heart failure. However, she notes that she has not been adherent to her medication regimen for the past week.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling weak and fatigued.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath which is worse with exertion and relieved by rest.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain or musculoskeletal complaints.",
+    "skin": "Patient denies any rash or skin changes.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Heart failure, hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, furosemide 40mg daily, metoprolol 50mg twice daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Lives at home with her daughter who helps with activities of daily living."
+}

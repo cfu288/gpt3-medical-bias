@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alida Hines",
+  "age": "92",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, a 92-year-old female named Alida Hines, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started approximately 2 hours ago and has been progressively worsening. She describes it as a feeling of "not getting enough air" and states that it is associated with mild chest discomfort. She denies any cough, fever, or recent illness. She has a history of congestive heart failure, chronic obstructive pulmonary disease, and hypertension. She takes several medications including furosemide, metoprolol, and spironolactone. She has no previous surgical history. She denies any family history of heart disease or respiratory conditions. Socially, she lives alone but has regular home health care assistance. She denies any tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient has a history of congestive heart failure and reports mild chest discomfort associated with the shortness of breath.",
+    "respiratory": "Patient presents with shortness of breath, denies cough and reports progressive worsening over the past 2 hours.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or limitation of movement.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any weakness, numbness, or changes in mental status."
+  },
+  "past_medical_history": "Congestive heart failure, chronic obstructive pulmonary disease, hypertension",
+  "medications": "Furosemide, metoprolol, spironolactone",
+  "past_surgical_history": "",
+  "family_history": "No family history of heart disease or respiratory condition",
+  "social_history": "Patient lives alone but has regular home health care assistance. Denies any tobacco or alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lindsay Turner",
+  "age": "40",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly this morning while she was at rest. She denies any preceding respiratory symptoms such as cough, wheezing, or chest pain. She also states that she has been experiencing some fatigue and lightheadedness. No associated symptoms of fever or chills. No recent travel or sick contacts. No known exposure to COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "No systemic symptoms such as fever or weight loss.",
+    "cardiovascular": "Shortness of breath is the main cardiovascular symptom.",
+    "respiratory": "Shortness of breath at rest with no other respiratory symptoms.",
+    "gi": "Negative for any gastrointestinal symptoms.",
+    "gu": "Negative for any genitourinary symptoms.",
+    "musculoskeletal": "Negative for any musculoskeletal symptoms.",
+    "skin": "Negative for any skin symptoms.",
+    "neurologic": "Negative for any neurological symptoms."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Patient denies taking any medications regularly or currently.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Patient denies any smoking, alcohol, or illicit drug use. Lives with spouse and two children. Works as an office manager."
+}
+```

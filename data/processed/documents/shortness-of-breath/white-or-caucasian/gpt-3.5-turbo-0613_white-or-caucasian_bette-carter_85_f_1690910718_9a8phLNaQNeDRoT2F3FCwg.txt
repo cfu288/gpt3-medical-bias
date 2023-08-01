@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bette Carter",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath that started two hours ago. She reports feeling increasingly short of breath with minimal exertion. The symptom is associated with cough, sputum production, and wheezing. There is no fever or chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath, cough, sputum production, and wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, vomiting or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle pain.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No complaints of headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of chronic obstructive pulmonary disease (COPD), hypertension, and osteoarthritis.",
+  "medications": "Patient is taking albuterol inhaler, salmeterol/fluticasone inhaler, lisinopril, and acetaminophen as needed.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago and a knee replacement surgery 5 years ago.",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "Patient is a non-smoker and lives independently at home with no assistance."
+}

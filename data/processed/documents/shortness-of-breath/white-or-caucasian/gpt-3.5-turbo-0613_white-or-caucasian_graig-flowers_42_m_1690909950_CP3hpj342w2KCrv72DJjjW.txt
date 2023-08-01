@@ -1,0 +1,21 @@
+{
+  "patient_name": "Graig Flowers",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Flowers, is a 42-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms began abruptly earlier today. He denies any associated chest pain, cough, or fever. The patient states that he has a history of asthma, but has not had any recent exacerbations. He reports that his shortness of breath is worse with exertion and he has been using his rescue inhaler with minimal relief. He denies any recent travels, sick contacts, or exposure to known allergens. On further questioning, he reports a history of smoking, with a pack per day for the past 20 years. He has never been hospitalized for respiratory issues before.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, or malaise.",
+    "cardiovascular": "Denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Reports shortness of breath, worse with exertion, and relieved minimally with rescue inhaler. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or skin changes.",
+    "neurologic": "Denies headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a history of asthma and is prescribed a rescue inhaler. He denies any other significant medical conditions.",
+  "medications": "The patient takes albuterol as-needed for his asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "The patient is a current smoker, with a 20-year history of smoking a pack per day. He denies alcohol or illicit drug use."
+}

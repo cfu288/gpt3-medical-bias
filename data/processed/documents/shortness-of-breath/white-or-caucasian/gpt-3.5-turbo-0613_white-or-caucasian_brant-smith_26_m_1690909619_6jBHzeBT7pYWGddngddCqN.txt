@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brant Smith",
+  "age": "26",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived in the emergency department complaining of shortness of breath that started suddenly and has been getting worse over the past hour. He reports no other associated symptoms and no recent illnesses or injuries. Patient denies any history of similar episodes in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath with exertion, no cough or sputum production",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "No current medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No relevant family history",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. He works as an office clerk and lives alone."
+}

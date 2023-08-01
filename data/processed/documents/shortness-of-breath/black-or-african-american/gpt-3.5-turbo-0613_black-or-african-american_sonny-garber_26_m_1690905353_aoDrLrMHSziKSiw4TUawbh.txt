@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sonny Garber",
+  "age": "26",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sonny Garber, a 26-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing increasing difficulty breathing for the past two days. The shortness of breath is worsened with exertion and is associated with coughing. He denies any chest pain, fever, or chills. The patient reports no known triggers for his symptoms and states that this is the first time he has experienced this level of breathing difficulty. He denies any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion and coughing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms reported by the patient.",
+    "musculoskeletal": "No musculoskeletal symptoms reported by the patient.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and seasonal allergies. He reports occasional use of an albuterol inhaler as needed for asthma symptoms.",
+  "medications": "The patient takes over-the-counter allergy medication during allergy season and occasional use of albuterol inhaler for asthma symptoms.",
+  "past_surgical_history": "No past surgical history reported by the patient.",
+  "family_history": "The patient's family history is unremarkable for any cardiovascular or respiratory diseases.",
+  "social_history": "The patient denies any tobacco or illicit drug use. He occasionally consumes alcohol in social settings. He is employed as a software engineer and does not report any significant occupational exposures."
+}
+```

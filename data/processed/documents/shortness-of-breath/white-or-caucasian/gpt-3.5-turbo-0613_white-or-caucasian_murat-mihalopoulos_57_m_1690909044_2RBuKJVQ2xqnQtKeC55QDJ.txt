@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Murat Mihalopoulos",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Murat Mihalopoulos, a 57-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing worsening shortness of breath for the past 2 days. He describes the shortness of breath as a sensation of difficulty breathing, especially with exertion. He denies any chest pain, cough, or fever. The patient reports a history of smoking and has been smoking one pack per day for the past 30 years. He also mentions that he has a history of high blood pressure and takes medication for it. On physical examination, the patient appears anxious, with rapid breathing and increased work of breathing. Auscultation of the lungs reveals decreased breath sounds in the bases bilaterally. The patient's oxygen saturation is 89% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, no cough or sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and is on medication for it. He denies any other significant past medical history.",
+  "medications": "The patient takes [medication] for hypertension daily.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's father had a history of heart disease, but no other notable family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a smoker, currently smoking 1 pack per day for the past 30 years. He does not consume alcohol or use recreational drugs."
+}
+```

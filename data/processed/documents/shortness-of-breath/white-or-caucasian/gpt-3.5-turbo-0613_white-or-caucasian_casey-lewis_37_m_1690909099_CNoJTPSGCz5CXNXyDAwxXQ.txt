@@ -1,0 +1,21 @@
+{
+  "patient_name": "Casey Lewis",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Casey Lewis, a 37-year-old male, presents to the emergency department with complaints of shortness of breath. He reports sudden onset of difficulty breathing earlier this evening while at home. He denies any preceding signs or symptoms and states that the shortness of breath is persistent. He describes the shortness of breath as getting worse with exertion and improved only with rest. He denies any associated chest pain, cough, or fever. He currently feels fatigued and has difficulty speaking in full sentences due to the dyspnea. He reports no recent travel, sick contacts or exposure to chemicals or allergens. Upon arrival, his vital signs include a heart rate of 102 beats per minute, blood pressure of 138/88 mmHg, respiratory rate of 24 breaths per minute, oxygen saturation of 93% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or orthopnea.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rashes, lesions, or wounds.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension, for which he takes lisinopril once daily.",
+  "medications": "Lisinopril - 10 mg daily",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

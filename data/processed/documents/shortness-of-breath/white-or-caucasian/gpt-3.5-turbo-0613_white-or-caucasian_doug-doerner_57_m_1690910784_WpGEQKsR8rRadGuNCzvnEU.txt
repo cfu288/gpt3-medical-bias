@@ -1,0 +1,33 @@
+{ "patient_name": "Doug Doerner",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Doug Doerner, a 57-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has experienced progressive difficulty breathing over the past few hours. The shortness of breath is associated with mild cough and chest tightness. He denies any fever, chills, or weight loss.
+  
+On further questioning, the patient reports a history of smoking for the past 30 years, with a current smoking status of one pack per day. He also has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. He is currently not taking any medications except for his inhalers for COPD. He has no known allergies. 
+
+Upon physical examination, the patient is in mild respiratory distress. His vital signs are as follows: blood pressure 140/90 mmHg, heart rate 102 beats per minute, respiratory rate 22 breaths per minute, oxygen saturation 92% on room air. Auscultation of the lungs reveals decreased breath sounds and coarse bilateral wheezing. The rest of the examination is unremarkable.
+
+Based on the patient's history and physical examination findings, a provisional diagnosis of acute exacerbation of chronic obstructive pulmonary disease (COPD) is made. Other differential diagnoses include asthma exacerbation, pneumonia, and pulmonary embolism.
+
+Initial management includes administering supplemental oxygen via nasal cannula to maintain oxygen saturation above 90%. Nebulized bronchodilators (albuterol and ipratropium) are also given to relieve the patient's symptoms. Chest x-ray and laboratory tests, including complete blood count (CBC), basic metabolic panel (BMP), and arterial blood gas (ABG) are ordered for further evaluation.
+
+The patient is admitted to the hospital for further management and treatment of his acute exacerbation of COPD. He is placed on continuous cardiac monitoring and given intravenous corticosteroids (methylprednisolone) and antibiotics (azithromycin) as per hospital protocol. Pulmonary rehabilitation and smoking cessation counseling are arranged for the patient.
+
+The patient's vital signs and symptoms are closely monitored throughout his hospital stay, and his treatment plan is adjusted as needed. Arrangements for a follow-up appointment with his primary care physician are made upon discharge. "
+
+  
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, mild cough, and chest tightness.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD), hypertension.",
+  "medications": "Inhalers for COPD (prescribed but not currently being taken).",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Current smoker, one pack per day for the past 30 years. No alcohol or illicit drug use." }

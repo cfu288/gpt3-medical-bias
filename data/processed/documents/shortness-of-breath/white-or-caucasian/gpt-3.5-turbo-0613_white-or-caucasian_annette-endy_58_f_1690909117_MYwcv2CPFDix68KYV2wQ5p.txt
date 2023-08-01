@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Annette Endy",
+  "age": "58",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Annette Endy, a 58-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing a gradual onset of shortness of breath over the past 24 hours. She denies any associated chest pain, cough, or fever. The patient states that the shortness of breath worsens with physical exertion and is minimally relieved with rest. She also reports feeling fatigued and weak. The patient denies any recent travel, sick contacts, or exposure to allergens. She has no known history of respiratory conditions or allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "As mentioned in the history of present illness, the patient complains of shortness of breath which worsens with physical activity.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any skin rash, itching, or changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in speech or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "medications": "Amlodipine 5mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in her parents but denies any other significant family history.",
+  "social_history": "The patient denies any tobacco use, alcohol use, or illicit drug use. She is retired and lives alone."
+}
+```

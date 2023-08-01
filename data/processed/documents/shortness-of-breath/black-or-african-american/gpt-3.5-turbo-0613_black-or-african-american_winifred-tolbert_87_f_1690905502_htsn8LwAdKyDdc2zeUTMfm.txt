@@ -1,0 +1,21 @@
+{
+  "patient_name": "Winifred Tolbert",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Winifred Tolbert, an 87-year-old female, presented to the emergency department with chief complaint of shortness of breath. According to the patient, her symptoms started suddenly about 3 hours ago. She reports feeling breathless even at rest and having difficulty speaking in full sentences. She denies any chest pain or cough. She also notes a history of hypertension, which is well-controlled with medications. Upon further questioning, the patient mentions that she has been feeling fatigued and weak for the past week. She also reports swelling of her ankles and feet. The patient has a history of smoking 30 pack-years but quit 10 years ago. There is no history of lung disease or significant respiratory symptoms in the past. She denies any recent travel or exposure to sick contacts. Overall, her symptoms are concerning for an acute exacerbation of congestive heart failure.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued",
+    "cardiovascular": "The patient reports swelling of ankles and feet",
+    "respiratory": "The patient reports shortness of breath",
+    "gi": "The patient denies any gastrointestinal symptoms",
+    "gu": "The patient denies any genitourinary symptoms",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms",
+    "skin": "The patient denies any skin symptoms",
+    "neurologic": "The patient denies any neurologic symptoms"
+  },
+  "past_medical_history": "Hypertension, well-controlled with medications",
+  "medications": "Losartan 50mg daily, Hydrochlorothiazide 25mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient is a former smoker with a 30 pack-year history. She quit smoking 10 years ago."
+}

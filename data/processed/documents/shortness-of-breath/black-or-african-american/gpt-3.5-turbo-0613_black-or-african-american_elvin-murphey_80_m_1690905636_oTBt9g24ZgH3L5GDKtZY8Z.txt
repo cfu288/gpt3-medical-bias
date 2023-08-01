@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elvin Murphey",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started 3 days ago and have been progressively worsening. Patient reports dyspnea at rest and with minimal exertion. Denies cough, fever, chest pain, or leg swelling. No recent travel or sick contacts. Past medical history significant for chronic obstructive pulmonary disease (COPD), hypertension, and atrial fibrillation. No recent medication changes. Patient currently uses home oxygen therapy at a rate of 2 liters per minute. Vital signs taken upon arrival are as follows: blood pressure 142/84 mmHg, heart rate 92 beats per minute, respiratory rate 28 breaths per minute, temperature 98.6°F, oxygen saturation 89% on 2 liters of oxygen via nasal cannula. Physical examination reveals bilateral wheezing and decreased breath sounds on auscultation.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fever, or chills.",
+    "cardiovascular": "No chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Patient reports shortness of breath and decreased exercise tolerance.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "No joint swelling or pain.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD), hypertension, atrial fibrillation.",
+  "medications": "Albuterol inhaler, fluticasone-salmeterol inhaler, tiotropium inhaler, metoprolol, losartan, warfarin.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "Former smoker, quit 10 years ago. No alcohol or drug use. Lives alone, assisted by home health services."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cosmo Jones",
+  "age": "22",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started suddenly earlier today while he was at rest. The shortness of breath is associated with a non-productive cough. He denies chest pain, palpitations, orthopnea, paroxysmal nocturnal dyspnea, or leg swelling. The patient has no known history of asthma or COPD. He denies any recent illness, fever, chills, weight loss, or night sweats.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, orthopnea, paroxysmal nocturnal dyspnea, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath and a non-productive cough.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints.",
+    "skin": "The patient denies any skin issues or rashes.",
+    "neurologic": "The patient denies headache, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient has no known past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any tobacco, alcohol, or illicit drug use. He works as a software engineer and lives a sedentary lifestyle."
+}

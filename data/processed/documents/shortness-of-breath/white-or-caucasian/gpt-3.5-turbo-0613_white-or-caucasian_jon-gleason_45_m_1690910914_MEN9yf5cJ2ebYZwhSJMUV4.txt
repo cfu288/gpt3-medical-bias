@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jon Gleason",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jon Gleason, a 45-year-old male, presented to the emergency department complaining of shortness of breath. According to the patient, the symptoms started suddenly this morning and have been progressively worsening throughout the day. He denies any associated chest pain, cough, or fever. Upon further questioning, he also reports a mild headache and generalized weakness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient's chief complaint of shortness of breath is the primary respiratory symptom. He denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms such as urgency, frequency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient reports a mild headache but denies any dizziness, blurred vision, or numbness/weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with lisinopril.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father has a history of coronary artery disease, but both parents are otherwise healthy.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and is married with two children."
+}

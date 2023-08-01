@@ -1,0 +1,27 @@
+{
+  "patient_name": "Luca Nadell",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Luca Nadell, a 19-year-old male, presents to the emergency department with complaints of shortness of breath. The symptoms began two days ago and have been progressively worsening. He reports associated cough with white sputum and occasional wheezing. He denies any chest pain, fever, or chills. He also denies any recent travel, sick contacts, or known allergies.",
+
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, cough with white sputum, wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or decreased range of motion.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or syncope."
+  },
+
+  "past_medical_history": "The patient has no significant past medical history.",
+
+  "medications": "The patient takes no regular medications.",
+
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+
+  "family_history": "The patient's family history is noncontributory.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

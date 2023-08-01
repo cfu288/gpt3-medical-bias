@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Ingram",
+  "age": "40",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom started suddenly and has been worsening over the past 2 hours. He denies any associated chest pain or cough. He has no known history of respiratory conditions and has not experienced this symptom before.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath is the primary complaint.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "No musculoskeletal complaints.",
+    "skin": "No changes in the skin.",
+    "neurologic": "No changes in neurologic function."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension.",
+  "medications": "The patient takes lisinopril daily for his hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "There is no significant family history of respiratory conditions or heart disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He works as a software engineer and does not have any occupational exposures."
+}

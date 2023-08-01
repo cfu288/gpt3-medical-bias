@@ -1,0 +1,21 @@
+{
+  "patient_name": "Beverley Hanks",
+  "age": "80",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Beverley Hanks, an 80-year-old female, presents to the emergency department with the chief complaint of shortness of breath. She reports that the symptoms started acutely approximately 2 hours ago while she was at home. The shortness of breath is associated with mild chest discomfort and cough. She denies any fever, chills, or hemoptysis. She reports no recent travel, sick contacts, or known exposure to tuberculosis or any transmissible conditions. She denies any recent changes in her medications or new allergens exposure. She has no known drug allergies. The patient states that she has a history of hypertension and osteoarthritis. Her last hospitalization was 5 years ago for a fall injury. Her chronic medications include lisinopril and ibuprofen. She has not had any surgeries in the past. The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone in an independent living facility and has no family members living with her or nearby.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills",
+    "cardiovascular": "Positive for mild chest discomfort",
+    "respiratory": "Positive for shortness of breath, cough",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency",
+    "musculoskeletal": "Positive for osteoarthritis",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, weakness"
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril, ibuprofen",
+  "past_surgical_history": "No past surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Non-smoker, denies alcohol or illicit drug use. Lives alone in an independent living facility."
+}

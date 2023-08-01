@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Russ Thornton",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Russ Thornton, a 67-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his shortness of breath began suddenly about 2 hours ago while he was resting at home. He states that the shortness of breath is worse when he lies flat and improves when he sits upright. He denies any associated chest pain, cough, fever, or leg swelling. His shortness of breath is not relieved by his prescribed albuterol inhaler.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, worse when lying flat",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or pruritus",
+    "neurologic": "No dizziness or syncope"
+  },
+  "past_medical_history": "History of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD)",
+  "medications": "Albuterol inhaler 2 puffs every 4 hours as needed, lisinopril 10 mg daily, simvastatin 20 mg daily",
+  "past_surgical_history": "Appendectomy at age 30",
+  "family_history": "No family history of cardiovascular disease or respiratory conditions",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or illicit drug use"
+}
+```

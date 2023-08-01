@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claire Crane",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Claire Crane, a 68-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She states that she has been experiencing increasing difficulty breathing over the past few days, with a constant feeling of shortness of breath even at rest. She denies any chest pain, cough, or fever. She has a history of smoking for 20 years but quit 10 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath, worse with exertion and at rest. She denies cough or production of sputum.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of smoking for 20 years but quit 10 years ago. She also has a history of hypertension and hyperlipidemia, which are well-controlled with medications. She had a cholecystectomy 10 years ago.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia. She also takes a daily multivitamin.",
+  "past_surgical_history": "Cholecystectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of high blood pressure and father had a history of heart disease.",
+  "social_history": "Patient is a retired teacher. She is a former smoker and quit 10 years ago. She denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Susie Johnson",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Susie Johnson, a 66-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly earlier this evening and has been progressively worsening. She also reports associated symptoms of mild chest pain and cough. She denies any fever, chills, or recent sick contacts. She states that she has a history of asthma but has not required any inhalers or medications for it in recent years. She also reports a history of hypertension and takes medication for it.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports mild chest pain but denies palpitations or syncope.",
+    "respiratory": "The patient reports shortness of breath and a productive cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports no joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and hypertension.",
+  "medications": "The patient takes medication for hypertension but is unsure of the name.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension but no other significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

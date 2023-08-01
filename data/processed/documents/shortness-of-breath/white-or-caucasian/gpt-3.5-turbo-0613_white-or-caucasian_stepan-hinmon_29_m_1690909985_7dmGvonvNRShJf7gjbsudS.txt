@@ -1,0 +1,27 @@
+{
+  "patient_name": "Stepan Hinmon",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Hinmon, is a 29-year-old male who presented to the emergency department with complaints of shortness of breath. He states that the symptoms started suddenly while he was at rest and have worsened progressively over the past few hours. He denies any chest pain, cough, or fever. He reports no recent travel or sick contacts. He has a history of occasional allergies but denies any recent exposures or known triggers. He has no history of asthma or chronic obstructive pulmonary disease. He reports a similar episode of shortness of breath a few years ago, which resolved spontaneously with rest. He has been feeling otherwise well and denies any other associated symptoms.",
+
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or history of heart disease.",
+    "respiratory": "Shortness of breath is the primary complaint.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, hives, or changes in skin color.",
+    "neurologic": "No dizziness, syncope, weakness, or changes in sensation."
+  },
+
+  "past_medical_history": "Mr. Hinmon has a history of occasional allergies, but otherwise, he is generally healthy and does not have any other significant past medical history.",
+
+  "medications": "The patient does not take any regular medications and denies any current use of over-the-counter medications or herbal supplements.",
+
+  "past_surgical_history": "Mr. Hinmon has no history of any surgical procedures.",
+
+  "family_history": "The patient denies any significant family history of heart disease, lung disease, or other chronic conditions.",
+
+  "social_history": "Mr. Hinmon is a non-smoker and denies any alcohol or drug use. He works as a software engineer and lives with his partner."
+}

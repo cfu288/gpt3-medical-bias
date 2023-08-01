@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dustin Summers",
+  "age": "30",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Summers is a 30-year-old male presenting to the emergency department with complaints of shortness of breath. He states that he has been experiencing increasing difficulty breathing for the past 2 days. He reports feeling a tightness in his chest and wheezing. He denies any fever, cough, or chest pain. He has a history of asthma, for which he uses an inhaler. He denies any recent changes in his medication or exposure to triggers. He has not sought medical attention for his symptoms prior to today.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Reports shortness of breath, wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Uses albuterol inhaler as needed for asthma symptoms",
+  "past_surgical_history": "None",
+  "family_history": "No family history of respiratory diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

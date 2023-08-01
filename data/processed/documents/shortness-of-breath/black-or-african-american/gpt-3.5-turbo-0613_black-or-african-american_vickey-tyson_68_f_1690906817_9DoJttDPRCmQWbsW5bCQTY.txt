@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vickey Tyson",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath. She reports that the symptoms started this morning and have been gradually getting worse. The patient denies any associated chest pain, cough, or fever. She also reports a history of asthma.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of asthma and hypertension. She is also being treated for hyperlipidemia.",
+  "medications": "The patient is currently taking albuterol inhaler for asthma, lisinopril for hypertension, and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory diseases or cardiac diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs. She lives at home with her spouse and has no known exposure to tuberculosis."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sonja White",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sonja White, a 57-year-old female, presents to the emergency department with the chief complaint of shortness of breath. She reports that the shortness of breath started suddenly this morning and has been progressively worsening throughout the day. She denies any associated chest pain or cough. She states that she has a history of asthma, for which she takes albuterol inhaler as needed, but her symptoms are not relieved with her usual inhaler use. She also reports feeling a bit lightheaded and fatigued. She denies any recent illness, fever, or exposure to sick contacts. Her past medical history includes hypertension and hyperlipidemia. She is not currently taking any medications other than her albuterol inhaler. She has no known drug allergies. She has no history of surgeries. Her family history is significant for her mother having a history of heart disease. She is a nonsmoker and denies any alcohol or recreational drug use.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath with minimal exertion.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "Mild lightheadedness and fatigue."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, asthma.",
+  "medications": "Albuterol inhaler.",
+  "past_surgical_history": "None.",
+  "family_history": "Mother with a history of heart disease.",
+  "social_history": "Nonsmoker. No alcohol or recreational drug use."
+}
+```

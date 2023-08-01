@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randy Wagner",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Randy Wagner, a 57-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms began abruptly approximately 3 hours ago. He states that he was at rest when he suddenly felt a tightness in his chest and started to experience difficulty breathing. The shortness of breath is associated with mild chest discomfort. He denies any palpitations, dizziness, or lightheadedness. He also reports no fever, cough, or sputum production. The patient has a history of hypertension and takes medications for this condition. He has no known allergies or any other significant past medical history. He denies any recent illnesses or infections. Social history is significant for a 20 pack-year smoking history, but he quit smoking 5 years ago. He does not use any illicit drugs and denies excessive alcohol consumption. He is married and works as an accountant. There is no known family history of cardiovascular diseases. On physical examination, the patient appears in mild distress with a respiratory rate of 24 breaths per minute and an oxygen saturation of 92% on room air. Lung auscultation reveals bilateral crackles. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for palpitations or chest pain unrelated to shortness of breath.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in level of consciousness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "There is no known family history of cardiovascular diseases.",
+  "social_history": "The patient is married and works as an accountant. He quit smoking 5 years ago and denies any illicit drug use or excessive alcohol consumption."
+}

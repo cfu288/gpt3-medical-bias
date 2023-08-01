@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Stefani Trachtenberg",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Stefani Trachtenberg, a 35-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began approximately two hours ago. She describes the shortness of breath as sudden onset and progressively worsening. She denies any associated chest pain, palpitations, cough, or wheezing. She reports no fever, chills, or sputum production. She states that she has no history of similar episodes and denies any known exposure to allergens or irritants. She states that she has not experienced any recent illness or trauma.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or swelling.",
+    "respiratory": "Reports shortness of breath as main symptom. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient reports a history of asthma, for which she uses an albuterol inhaler on an as-needed basis. She states that she otherwise has no significant past medical history.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "The patient reports no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker. She denies any alcohol or illicit drug use. She is currently employed as a teacher. She lives with her husband and two children."
+}
+```

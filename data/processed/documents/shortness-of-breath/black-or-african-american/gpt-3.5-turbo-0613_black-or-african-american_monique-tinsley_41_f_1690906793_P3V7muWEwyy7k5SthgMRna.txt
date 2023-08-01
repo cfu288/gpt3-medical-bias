@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Monique Tinsley",
+  "age": "41",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Monique Tinsley, a 41-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the symptoms started abruptly approximately 2 hours ago. She denies any preceding illness or trauma. She states that the shortness of breath is associated with mild chest discomfort. She has no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath, cough, and mild chest discomfort.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is controlled with medication.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol or illicit drugs."
+}
+```

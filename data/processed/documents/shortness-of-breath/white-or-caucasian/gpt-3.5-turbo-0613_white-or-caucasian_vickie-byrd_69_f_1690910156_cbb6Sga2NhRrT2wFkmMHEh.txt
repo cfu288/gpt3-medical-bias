@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vickie Byrd",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She states that she has been experiencing worsening shortness of breath over the past few days. She reports that she also has a cough and wheezing. She denies any chest pain, fever, or chills. She states that she has a history of asthma and uses an inhaler as needed. She reports that her symptoms have not improved with her usual medication, and she is more short of breath than usual. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with cough and wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Asthma, hypertension, and hyperlipidemia.",
+  "medications": "Albuterol inhaler as needed, lisinopril, and atorvastatin.",
+  "past_surgical_history": "None.",
+  "family_history": "Mother with asthma and father with hypertension.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Khalil Mikelonis",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Khalil Mikelonis, an 18-year-old male, presents to the Emergency Department with complaints of shortness of breath. According to the patient, the symptoms started suddenly about 2 hours ago while he was at home. He reports that he has never experienced anything like this before and that the shortness of breath is associated with a feeling of tightness in his chest. He denies any cough, wheezing, or fever. He also denies any recent illnesses or recent travel. He states that he has been otherwise healthy and has no known allergies. There were no triggering factors or alleviating factors that he can identify. The patient appears to be in mild distress.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath as the main symptom.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, sores, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "There is no significant family history of cardiovascular disease or respiratory conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or substance abuse."
+}
+```

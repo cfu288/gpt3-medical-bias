@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alexandre Williams",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Alexandre Williams, a 29-year-old male, presents to the emergency department with a chief comlaint of shortness of breath. The patient reports that he has been experiencing increasing difficulty breathing for the past 2 days. He denies any chest pain or cough. On further questioning, the patient mentions that he recently returned from a hiking trip in a high altitude area. He states that he did not experience any symptoms during the trip. However, upon returning to lower altitude, he began to feel short of breath. The patient also mentions that he has a history of asthma, for which he uses an inhaler as needed. He denies any recent illness or trauma. He states that his shortness of breath is worse with exertion and improves with rest. He denies any associated symptoms such as fever, chills, wheezing, or sputum production. The patient reports no other significant medical history and takes no other medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, night sweats, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling reported.",
+    "respiratory": "Patient reports shortness of breath upon exertion, especially after returning from a high altitude area. No cough, wheezing, or sputum production. Denies hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in voiding patterns reported.",
+    "musculoskeletal": "No joint pain, stiffness, or muscle weakness.",
+    "skin": "No rashes, skin lesions, or itching reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "No past surgical history reported",
+  "family_history": "No significant family history reported",
+  "social_history": "The patient smokes approximately half a pack of cigarettes per day and reports occasional alcohol use. He denies any illicit drug use."
+}

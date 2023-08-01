@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elma Berryhill",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Elma Berryhill, is an 84-year-old female who presents to the emergency department with a chief complaint of shortness of breath. On arrival, the patient appears to be in moderate respiratory distress, with increased work of breathing and use of accessory muscles. She reports that the shortness of breath began suddenly this morning and has been progressively worsening throughout the day. The patient denies any recent illness, fever, cough, or chest pain. She has a past medical history significant for hypertension, hyperlipidemia, and coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of palpitations, but denies any chest pain or edema.",
+    "respiratory": "The patient's chief complaint is shortness of breath. She denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and coronary artery disease. She had a myocardial infarction five years ago and received a stent placement. She also has a pacemaker in place for symptomatic bradycardia.",
+  "medications": "The patient's current medications include lisinopril, atorvastatin, and aspirin.",
+  "past_surgical_history": "The patient had a myocardial infarction five years ago, which was treated with a stent placement. She also had a pacemaker placed for symptomatic bradycardia.",
+  "family_history": "The patient's family history is unremarkable. There is no known history of heart disease, cancer, or other significant illnesses in her immediate family.",
+  "social_history": "The patient is retired and lives alone. She does not smoke or drink alcohol. She has no known history of illicit drug use."
+}
+```

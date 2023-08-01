@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "John Smith"
+    },
+    "age": {
+      "type": "string",
+      "value": "48"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, John Smith, a 48-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he woke up this morning with increasing difficulty breathing. He notes that he has been experiencing intermittent cough, mild chest discomfort, and fatigue for the past week. He denies any fever, chills, or recent sick contacts. There is no history of recent travel. The patient's symptoms have gradually worsened throughout the day, prompting him to seek medical attention."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "The patient denies any recent weight loss, night sweats, or generalized weakness."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "The patient denies any chest pain, palpitations, or swelling in the legs."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "The patient reports shortness of breath on exertion, cough with minimal sputum production, and occasional wheezing."
+        },
+        "gi": {
+          "type": "string",
+          "value": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements."
+        },
+        "gu": {
+          "type": "string",
+          "value": "The patient denies any urinary frequency, urgency, or burning."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "The patient denies any joint pain, swelling, or stiffness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "The patient denies any rash or skin lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "The patient denies any headaches, dizziness, or changes in sensation."
+        }
+      }
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a past medical history of hypertension, hyperlipidemia, and asthma."
+    },
+    "medications": {
+      "type": "string",
+      "value": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and albuterol inhaler as needed for asthma symptoms."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of surgeries."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient's father has a history of coronary artery disease."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a current smoker with a 20 pack-year history. He denies any alcohol or illicit drug use."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

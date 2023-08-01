@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robbin Smith",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, a 60-year-old female named Robbin Smith, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about an hour ago and has been gradually worsening. She denies any associated chest pain or cough. On further questioning, she reports feeling lightheaded and dizzy. She denies any recent illnesses or changes in her usual respiratory symptoms. She does admit to a history of smoking for 30 years but quit 5 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "As mentioned in the history of present illness, the patient complains of shortness of breath. She denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any skin rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient reports feeling lightheaded and dizzy, but denies any weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and dyslipidemia, both well-controlled on medications.",
+  "medications": "The patient takes amlodipine for hypertension and atorvastatin for dyslipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of coronary artery disease in her father.",
+  "social_history": "The patient is a former smoker, having quit 5 years ago. She denies any alcohol or illicit drug use."
+}

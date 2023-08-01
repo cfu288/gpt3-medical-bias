@@ -1,0 +1,31 @@
+{
+  "patient_name": "Sharyn Mancuso",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sharyn Mancuso, a 70-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the symptom started approximately 2 days ago and has been progressively worsening. She denies any associated chest pain or cough. She states that she has also been experiencing fatigue and mild dizziness. The symptoms are worse with exertion and improve with rest. She denies any recent illness, fever, or chills. She reports no changes in her appetite or weight. 
+
+On further inquiry, the patient states that she has a history of hypertension and takes medication for it but is unsure of the name. She denies any other significant past medical history or surgical history. She also states that there is no significant family history of heart or lung diseases. The patient lives alone and denies any tobacco or alcohol use.
+
+Upon examination, the patient appears tired but not in acute distress. Her vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 16 breaths per minute, and oxygen saturation of 95% on room air. Auscultation of the lungs reveals decreased breath sounds bilaterally with fine crackles heard at the bases. The cardiovascular examination is unremarkable.
+
+Given the patient's symptoms and findings on examination, the working diagnosis at this time is acute exacerbation of congestive heart failure. However, further investigations including a chest x-ray, electrocardiogram, and laboratory studies will be performed to confirm the diagnosis.
+
+The patient has been informed about the plan of care, including the need for further investigations and possible hospital admission. She has provided consent for the proposed treatment and is agreeable to further evaluation. She will be closely monitored in the emergency department and appropriate interventions will be initiated as necessary. The patient's husband has been contacted and is on his way to the hospital to provide support.
+
+The patient will continue to be assessed and managed accordingly. Further updates will be provided as needed.",
+  "review_of_symptoms": {
+    "constitutional": "Mild fatigue, mild dizziness",
+    "cardiovascular": "Denies chest pain",
+    "respiratory": "Shortness of breath, worse with exertion and improves with rest",
+    "gi": "No gastrointestinal symptoms reported",
+    "gu": "No genitourinary symptoms reported",
+    "musculoskeletal": "No musculoskeletal symptoms reported",
+    "skin": "No skin symptoms reported",
+    "neurologic": "No neurologic symptoms reported"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unknown",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of heart or lung diseases",
+  "social_history": "Patient lives alone, denies tobacco or alcohol use"
+}

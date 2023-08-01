@@ -1,0 +1,21 @@
+{
+  "patient_name": "Stella Forty",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Stella Forty, is a 19-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began earlier today and have been gradually worsening. She denies any associated chest pain, cough, or fever. She has no significant past medical history or recent travels. She denies any recent sick contacts. On further questioning, she reports a history of occasional asthma symptoms, which she uses a rescue inhaler to manage. She states that her symptoms are similar to her previous asthma flares. However, she mentions that her inhaler has been expired for the past few months, and she ran out of refills. She denies any recent changes to her medications or exposures to new allergens.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, fatigue, weight changes",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Reports worsening shortness of breath, denies cough or wheezing",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Denies dysuria, frequency, urgency",
+    "musculoskeletal": "Denies joint pain, swelling",
+    "skin": "Denies rash or skin changes",
+    "neurologic": "Denies headache, dizziness, weakness, numbness"
+  },
+  "past_medical_history": "Intermittent asthma",
+  "medications": "Used rescue inhaler for asthma symptoms, which has been expired for the past few months",
+  "past_surgical_history": "No history of surgeries",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Non-smoker, denies alcohol and illicit drug use, no recent travels"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dorian Ackerson",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Ackerson is a 70-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the shortness of breath began suddenly and has been worsening over the past few hours. He denies any chest pain, cough, or fever. He has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. He is a lifelong smoker, with a 50 pack-year history. He has been compliant with his home medications for COPD, which include inhaled bronchodilators and corticosteroids. He also takes medications for his hypertension, including a beta-blocker and a diuretic. He has no known allergies. He denies any recent illnesses, hospitalizations, or surgeries. His family history is significant for cardiovascular disease, with his father and two brothers having suffered from heart attacks. He is retired and lives alone. He does not consume alcohol or use illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath with exertion, worse in supine position.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in mental status or headache."
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease, hypertension.",
+  "medications": "Inhaled bronchodilators, inhaled corticosteroids, beta-blocker, diuretic.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Cardiovascular disease in father and two brothers.",
+  "social_history": "Lifelong smoker (50 pack-year history), retired, lives alone, no alcohol or drug use."
+}

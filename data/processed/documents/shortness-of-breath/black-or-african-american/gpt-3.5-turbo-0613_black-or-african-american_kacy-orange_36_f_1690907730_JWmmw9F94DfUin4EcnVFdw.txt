@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kacy Orange",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past day. She denies any chest pain or cough. She also mentions feeling tired and fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "Reports fatigue and general malaise.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports increasing shortness of breath.",
+    "gi": "Denies any abdominal pain or changes in bowel movements.",
+    "gu": "Denies any urinary symptoms.",
+    "musculoskeletal": "Denies any joint pain or muscle weakness.",
+    "skin": "Denies any rashes or changes in skin color.",
+    "neurologic": "Denies any headaches or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies. She reports previous episodes of shortness of breath related to her asthma, but states that this episode feels different from her usual symptoms.",
+  "medications": "Patient takes albuterol inhaler as needed for her asthma.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient does not smoke or use illicit drugs. She consumes alcohol socially, but denies excessive alcohol use."
+}

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Lavern Bryce",
+  "age": "77",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Bryce is a 77-year-old male presenting to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing shortness of breath for the past few hours, which has been gradually worsening. He denies any chest pain or palpitations. He states that he has a history of congestive heart failure and is currently prescribed diuretics. He also states that he recently started taking a new medication for his high blood pressure called lisinopril. On physical examination, he appears anxious and is using accessory muscles to breathe. His vital signs are as follows: blood pressure 140/90 mmHg, heart rate 110 bpm, respiratory rate 30 breaths per minute, oxygen saturation 88% on room air. Auscultation of the chest reveals decreased breath sounds bilaterally with no wheezing or crackles. Cardiac examination reveals regular rate and rhythm with no murmurs, rubs, or gallops. "
+  "review_of_symptoms": {
+    "constitutional": "He denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "He denies chest pain, palpitations, or edema.",
+    "respiratory": "He reports shortness of breath with minimal exertion and orthopnea. He denies cough or sputum production.",
+    "gi": "He denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "He denies dysuria, frequency, or urgency.",
+    "musculoskeletal": "He denies any joint pain, swelling, or stiffness.",
+    "skin": "He denies any rashes, itching, or changes in the color of the skin.",
+    "neurologic": "He denies any headache, dizziness, syncope, or changes in sensation."
+  },
+  "past_medical_history": "Mr. Bryce has a past medical history significant for congestive heart failure and hypertension.",
+  "medications": "He is currently taking diuretics for his congestive heart failure and lisinopril for his hypertension.",
+  "past_surgical_history": "He has no history of any surgical procedures.",
+  "family_history": "He has a family history of hypertension and heart disease.",
+  "social_history": "Mr. Bryce denies any tobacco or alcohol use. He currently lives alone and is independent in his activities of daily living."
+}

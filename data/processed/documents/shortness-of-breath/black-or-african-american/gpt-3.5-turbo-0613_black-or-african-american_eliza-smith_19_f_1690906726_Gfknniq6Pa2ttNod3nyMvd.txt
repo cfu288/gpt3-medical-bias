@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eliza Smith",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Eliza Smith, a 19-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started approximately 2 hours ago and have been progressively worsening. She denies any associated chest pain or cough. She states that she has no significant past medical history and is not taking any medications. She denies any recent illnesses or exposure to sick contacts. Upon further questioning, Eliza reports that she recently recovered from a viral illness two weeks ago."
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or fatigue.",
+    "cardiovascular": "Denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Reports shortness of breath with exertion, but denies cough or wheezing.",
+    "gi": "Denies abdominal pain, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria or urinary frequency.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Not taking any medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Eliza is a non-smoker and denies alcohol or illicit drug use. She is currently a college student and lives in a dormitory."
+}

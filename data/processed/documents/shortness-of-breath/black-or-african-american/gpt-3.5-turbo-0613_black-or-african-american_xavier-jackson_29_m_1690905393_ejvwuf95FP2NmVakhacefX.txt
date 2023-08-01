@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Xavier Jackson",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath that started suddenly this morning. The symptoms worsened over the course of the day and are accompanied by a productive cough with yellow mucus. Patient reports feeling fatigued and has a low-grade fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats reported.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "Shortness of breath with cough and yellow mucus.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash or itching reported.",
+    "neurologic": "No headaches, dizziness, or numbness/tingling reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family medical history reported.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}
+```

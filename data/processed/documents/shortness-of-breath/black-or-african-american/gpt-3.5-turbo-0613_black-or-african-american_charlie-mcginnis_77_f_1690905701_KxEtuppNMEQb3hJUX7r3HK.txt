@@ -1,0 +1,21 @@
+{
+  "patient_name": "Charlie Mcginnis",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, an elderly female named Charlie Mcginnis, presents to the emergency department with chief complaint of shortness of breath. She reports that the shortness of breath started about 2 days ago and has been progressively getting worse. She reports associated chest pain and coughing up phlegm. The patient denies any fever or chills. She states that she has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension. She has been compliant with her medications and has not had any recent exacerbation of her COPD. The patient has no known drug allergies. Upon arrival to the emergency department, the patient appeared uncomfortable and was using accessory muscles to breathe. She was tachypneic with a respiratory rate of 24 breaths per minute. Her oxygen saturation was 88% on room air and improved to 94% on 2 liters of nasal cannula. Auscultation of the lungs revealed decreased breath sounds and occasional wheezing. The rest of the physical examination was unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath, coughing up phlegm, and wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a significant past medical history of chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient is currently taking albuterol inhaler for her COPD and lisinopril for her hypertension. She reports compliance with her medications.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports having a family history of hypertension and lung cancer.",
+  "social_history": "The patient is a retired teacher. She is a former smoker with a 30 pack-year history. She quit smoking 10 years ago. She denies any alcohol or illicit drug use."
+}

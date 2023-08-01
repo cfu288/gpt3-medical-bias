@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elbert Watson",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, Elbert Watson, a 76-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that the shortness of breath began suddenly earlier today while he was at home. He describes the shortness of breath as worsened with exertion and relieved when he rests. The patient denies any associated chest pain, cough, fever, or leg swelling. He states that he has never experienced these symptoms before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion, but no cough or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary symptoms or changes in urinary frequency or color.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies headaches, dizziness, or any changes in coordination or sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "The patient takes lisinopril 10 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg twice daily.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He drinks alcohol socially and denies any illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Neena Chapin",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Neena Chapin, an 84-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past few days. She states that the shortness of breath is associated with minimal exertion and is accompanied by a feeling of tightness in her chest. She denies any chest pain or palpitations. The shortness of breath has been getting progressively worse and has not improved with rest. She also notes a cough productive of yellowish-green sputum. There is no associated fever, chills, or night sweats. The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and uses albuterol inhaler as needed. She denies any recent exacerbations of her COPD. She has not had any recent changes in medication or any new exposures to allergens. She denies any recent travel or contact with sick individuals. The patient lives alone and is able to manage her activities of daily living independently. She has no significant family history of respiratory or cardiovascular diseases.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her lower extremities.",
+    "respiratory": "In addition to the chief complaint, the patient also reports a cough productive of yellowish-green sputum.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD).",
+  "medications": "The patient uses albuterol inhaler as needed for her COPD.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient has no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient lives alone and is able to manage her activities of daily living independently."
+}
+```

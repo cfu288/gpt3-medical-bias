@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ralf Lee",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ralf Lee, a 60-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning and has been worsening throughout the day. He denies any associated chest pain, cough, fever, or dizziness. He states that he has never experienced this symptom before and is concerned.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath, denied cough or wheezing.",
+    "gi": "Negative for abdominal pain or nausea.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He takes medication for all of these conditions, including amlodipine, atorvastatin, and metformin.",
+  "medications": "Amlodipine (5mg daily), atorvastatin (20mg daily), metformin (1000mg twice daily).",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a retired accountant. He is a former smoker with a 30 pack-year history but quit smoking 10 years ago. He denies alcohol or illicit drug use."
+}
+```

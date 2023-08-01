@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Geraldine Phipps",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. Symptoms started suddenly approximately 2 hours ago. Patient has no history of shortness of breath in the past. No associated chest pain or cough. Some relief was seen with rest. No exacerbating or alleviating factors identified. Patient denies any other concurrent symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Metoprolol 50mg daily, Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "Cholecystectomy in 2001",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

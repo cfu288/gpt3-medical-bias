@@ -1,0 +1,21 @@
+{
+  "patient_name": "Catharine Bartholomew",
+  "age": "96",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, a 96-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She states that she has been experiencing increased difficulty breathing over the past few days. She denies any chest pain, cough, or fever. She has a past medical history of hypertension and osteoarthritis. She takes lisinopril for her hypertension and ibuprofen for her arthritis. She denies any recent surgeries or hospitalizations. Her family history is significant for heart disease in her parents. She lives alone and has no significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss",
+    "cardiovascular": "Patient denies any chest pain or palpitations",
+    "respiratory": "Patient reports shortness of breath with exertion and at rest",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "Patient denies any urinary frequency, urgency, or blood in the urine",
+    "musculoskeletal": "Patient reports arthritis pain in her knees and hands",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color",
+    "neurologic": "Patient denies any changes in sensation, coordination, or vision"
+  },
+  "past_medical_history": "Hypertension, osteoarthritis",
+  "medications": "Lisinopril, ibuprofen",
+  "past_surgical_history": "None",
+  "family_history": "Heart disease in parents",
+  "social_history": "Lives alone, no significant social history"
+}

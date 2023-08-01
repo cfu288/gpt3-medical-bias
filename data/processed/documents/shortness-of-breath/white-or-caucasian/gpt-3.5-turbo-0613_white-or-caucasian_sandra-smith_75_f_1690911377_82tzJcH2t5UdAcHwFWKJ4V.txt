@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sandra Smith",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sandra Smith, a 75-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly about 2 hours ago and has been worsening since. She denies any chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Denies any fever, chills, or weight loss.",
+    "cardiovascular": "Reports no history of heart disease, palpitations, or edema.",
+    "respiratory": "Shortness of breath is the patient's main complaint. She denies any history of asthma, COPD, or pneumonia.",
+    "gi": "No complaints of abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No complaints of joint pain, muscle weakness, or swelling.",
+    "skin": "Patient denies any skin lesions or rashes.",
+    "neurologic": "No complaints of headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medications for both conditions, but is unsure of the names and dosages.",
+  "medications": "Patient takes medications for hypertension and hyperlipidemia, but is unsure of the names and dosages.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Patient reports no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and denies any recent travel."
+}

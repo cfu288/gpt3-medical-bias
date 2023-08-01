@@ -1,0 +1,28 @@
+{
+  "patient_name": "Thelma Giannelli",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath has been progressively worsening over the past few days. She denies any associated chest pain, cough, or fever. The patient has a history of chronic obstructive pulmonary disease (COPD) and uses a home oxygen concentrator. She states that her usual home oxygen flow rate is 2 liters per minute but she has been requiring higher flow rates of up to 4 liters per minute in order to relieve her symptoms. She denies any recent changes in her medications or any other new symptoms. The patient also reports a few episodes of wheezing. 
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her legs.",
+    "respiratory": "In addition to the shortness of breath, the patient reports some wheezing but no cough or sputum production.",
+    "gi": "No abdominal pain, nausea, or vomiting reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No skin rash or lesions reported.",
+    "neurologic": "No changes in sensation, movement, or coordination reported."
+  },
+  
+  "past_medical_history": "The patient has a history of chronic obstructive pulmonary disease (COPD), hypertension, and osteoarthritis.",
+  
+  "medications": "The patient takes the following medications: - Albuterol inhaler as needed - Spiriva inhaler once daily - Lisinopril for hypertension - Ibuprofen as needed for osteoarthritis pain",
+  
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  
+  "social_history": "The patient is a former smoker, having quit 10 years ago. She lives alone and has minimal social support. She denies any alcohol or illicit drug use."
+}

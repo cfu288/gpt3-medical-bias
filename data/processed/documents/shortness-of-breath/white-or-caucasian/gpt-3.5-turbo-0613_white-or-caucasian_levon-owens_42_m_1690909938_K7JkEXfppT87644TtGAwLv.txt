@@ -1,0 +1,21 @@
+{
+  "patient_name": "Levon Owens",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Owens is a 42-year-old male presenting to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath began suddenly about an hour ago and has been progressively worsening. He denies any associated chest pain, cough, or fever. He states that he has a history of asthma, but has not required any medications for it recently. He denies any recent travel, sick contacts, or exposure to toxins. On examination, the patient is in moderate respiratory distress, with an increased respiratory rate of 30 breaths per minute. He is able to speak full sentences but appears slightly anxious. His oxygen saturation on room air is 93%. Lung auscultation reveals decreased breath sounds on the left side, with crackles and wheezes heard throughout. His heart rate is 100 beats per minute and regular, and his blood pressure is 130/80 mmHg.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or diaphoresis",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath at rest, increased respiratory rate",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, urinary frequency, or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or lesions",
+    "neurologic": "No dizziness, syncope, or weakness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

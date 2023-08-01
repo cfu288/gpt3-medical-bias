@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barbra Westmore",
+  "age": "53",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started approximately 2 hours ago while she was at home. She describes the shortness of breath as sudden in onset and worsening with minimal exertion. She denies any associated chest pain, cough, or fever. Patient reports a history of hypertension and hyperlipidemia for which she takes medication.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient complains of shortness of breath without cough or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Metoprolol, Atorvastatin",
+  "past_surgical_history": "Hysterectomy in 2005",
+  "family_history": "No significant family history of cardiovascular disease.",
+  "social_history": "Non-smoker, non-drinker, no illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cornell Williams",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started earlier today and have been progressively getting worse. Patient reports no fever, cough, or chest pain. He denies any recent travel or exposure to sick individuals. He has a history of cigarette smoking for 20 years, and he quit smoking 5 years ago. Patient states that he has been experiencing occasional wheezing and coughing, but had not sought medical attention until now. His breathing difficulties are mainly with exertion and have not been relieved with rest. He denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No general malaise or fatigue",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath with exertion",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headaches, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Patient has a history of cigarette smoking for 20 years, but he quit smoking 5 years ago. He also has a history of hypertension and takes amlodipine as prescribed. No other significant past medical history.",
+  "medications": "Amlodipine 5mg daily",
+  "past_surgical_history": "No previous surgical interventions",
+  "family_history": "No significant family history of respiratory diseases or cardiovascular diseases",
+  "social_history": "Patient has a history of cigarette smoking for 20 years, but he quit smoking 5 years ago. He does not consume alcohol or use recreational drugs. He is married and works as a computer programmer. Patient denies any recent travel or exposure to sick individuals."
+}
+```

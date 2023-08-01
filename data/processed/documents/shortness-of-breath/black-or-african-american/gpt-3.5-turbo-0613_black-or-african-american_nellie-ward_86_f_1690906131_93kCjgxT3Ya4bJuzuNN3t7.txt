@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nellie Ward",
+  "age": "86",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Nellie Ward, an 86-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports experiencing difficulty breathing for the past 3 days, which has been gradually worsening. She denies any chest pain, cough, or wheezing. She states that her shortness of breath is worse with exertion but also occurs at rest. She denies any recent respiratory infections or exposure to sick contacts. She has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension. She is a former smoker, having quit 20 years ago. She does not have any known drug allergies. She denies any recent changes in her medications or living situation. Her symptoms are causing her significant distress and have prompted her to seek medical attention.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint. She denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient is currently taking albuterol inhaler for her COPD and amlodipine for her hypertension.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a former smoker, having quit 20 years ago. She denies any current alcohol or illicit drug use. She lives alone and is independent with her activities of daily living."
+}

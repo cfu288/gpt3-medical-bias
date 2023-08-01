@@ -1,0 +1,27 @@
+{
+  "patient_name": "Raoul Mohammed",
+  "age": "52",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that started approximately 2 hours ago. He reports that he has been feeling increasingly short of breath with minimal exertion. He denies any associated chest pain, palpitations, or fevers. No known triggers or inciting events.",
+  
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, orthopnea, or paroxysmal nocturnal dyspnea.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for skin changes or rash.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  
+  "medications": "Patient takes amlodipine 10 mg daily and atorvastatin 20 mg daily.",
+  
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  
+  "family_history": "Negative for any significant family history of cardiovascular disease or respiratory conditions.",
+  
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

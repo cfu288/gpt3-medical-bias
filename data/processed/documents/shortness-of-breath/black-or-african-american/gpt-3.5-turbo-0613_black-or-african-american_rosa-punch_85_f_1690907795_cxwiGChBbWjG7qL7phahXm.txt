@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosa Punch",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Rosa Punch, an 85-year-old female, presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began this morning and has been progressively worsening. She denies any chest pain, cough, fever, or other associated symptoms. There is no history of trauma or other significant medical issues.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath on exertion and at rest. She denies cough, sputum production, or wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "Patient denies headache, dizziness, numbness, or weakness in any extremities."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, osteoarthritis, and hyperlipidemia. She is also on daily aspirin therapy.",
+  "medications": "Aspirin 81 mg daily, hydrochlorothiazide 25 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient has a family history of hypertension and osteoarthritis.",
+  "social_history": "Patient lives alone and is independent in activities of daily living. She is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

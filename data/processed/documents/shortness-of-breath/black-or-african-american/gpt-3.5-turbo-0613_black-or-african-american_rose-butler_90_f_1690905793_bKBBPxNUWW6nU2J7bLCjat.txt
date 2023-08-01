@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rose Butler",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Rose Butler, a 90-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath started about 2 hours ago and has been progressively worsening. She denies any chest pain or cough. She also reports feeling fatigued and weak. No fever or chills reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Complains of shortness of breath",
+    "gi": "No abdominal pain or nausea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "Denies any joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches or dizziness"
+  },
+  "past_medical_history": "Patient has a known history of hypertension and hyperlipidemia. No history of asthma or other respiratory conditions. No previous hospitalizations.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No family history of heart disease, lung disease, or other significant medical conditions.",
+  "social_history": "Patient denies smoking or alcohol use. Lives alone at home and does not require any assistance with activities of daily living."
+}

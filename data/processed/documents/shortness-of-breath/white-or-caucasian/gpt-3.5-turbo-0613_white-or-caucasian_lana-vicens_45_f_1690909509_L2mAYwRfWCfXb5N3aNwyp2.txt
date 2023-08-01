@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lana Vicens",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lana Vicens, a 45-year-old female, presented to the emergency department with a chief complaint of shortness of breath. She reports experiencing difficulty breathing for the past 2 days. She describes the shortness of breath as worsening with exertion and relieved by rest. She denies any associated chest pain, cough, fever, or chills. She denies any recent travel or sick contacts. She reports no previous history of similar symptoms. She denies any other complaints at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient's chief complaint is shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or limited range of motion.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is currently on medications including lisinopril and simvastatin.",
+  "medications": "Lisinopril 20 mg daily, Simvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is negative for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Corie Edwards",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Corie Edwards, a 29-year-old female, presents to the emergency department with the chief complaint of shortness of breath. She reports that her symptoms started suddenly this morning while she was at home. She describes her breathing as labored and states that she feels like she cannot take a deep breath. She denies any associated chest pain or wheezing. The patient also reports feeling lightheaded and dizzy. She has no history of similar symptoms in the past. The symptoms have worsened since onset and have not improved with rest.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient does not complain of any chest pain or palpitations.",
+    "respiratory": "The patient reports shortness of breath with exertion and at rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria or hematuria.",
+    "musculoskeletal": "The patient does not have any musculoskeletal complaints.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient reports feeling lightheaded and dizzy."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes birth control pills.",
+  "past_surgical_history": "The patient has not had any previous surgeries.",
+  "family_history": "The patient reports no family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

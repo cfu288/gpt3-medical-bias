@@ -1,0 +1,21 @@
+{
+  "patient_name": "Von Williams",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. Patient reports that the symptoms started approximately 3 hours ago, and have been progressively worsening. She states that she feels like she cannot catch her breath and has been coughing up pink, frothy sputum. She denies any other associated symptoms such as chest pain or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or lightheadedness.",
+    "respiratory": "Patient complains of shortness of breath. No cough, wheezing, or hemoptysis.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria, urgency, or frequency.",
+    "musculoskeletal": "Patient denies any muscle or joint pain.",
+    "skin": "Patient denies any rashes, lesions or changes in moles.",
+    "neurologic": "Patient complains of mild headache, but no other neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril and simvastatin.",
+  "past_surgical_history": "Patient had appendectomy at the age of 25.",
+  "family_history": "Patient reports a family history of hypertension and coronary artery disease.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She works as an accountant and denies any occupational exposures."
+}

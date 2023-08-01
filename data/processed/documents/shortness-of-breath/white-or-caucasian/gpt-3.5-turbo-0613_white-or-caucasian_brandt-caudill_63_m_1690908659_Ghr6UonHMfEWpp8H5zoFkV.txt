@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brandt Caudill",
+  "age": "63",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. The symptoms began two days ago and have gradually worsened. Patient reports difficulty breathing, especially with exertion, and feels as if he cannot get enough air. He denies any chest pain, but notes a productive cough with yellow sputum. No fever or chills. Patient denies any history of similar symptoms in the past. Patient reports a smoking history of 30 pack-years.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations. Reports occasional lower leg swelling.",
+    "respiratory": "Shortness of breath with exertion, productive cough with yellow sputum.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria. No hematuria or changes in urine color.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).",
+  "medications": "Lisinopril 10mg daily, simvastatin 20mg daily, albuterol inhaler as needed.",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "Father had a history of heart disease.",
+  "social_history": "Patient is a retired smoker with a 30 pack-year history. No alcohol or illicit drug use."
+}
+```

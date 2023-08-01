@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maren Smith",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Maren Smith, a 19-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptom started suddenly about 2 hours ago. She denies any trauma, fever, cough, or chest pain. The patient reports no past history of similar symptoms and no recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath but no cough.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "No complaints of dysuria or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions or itching.",
+    "neurologic": "Negative for headache, dizziness or syncope."
+  },
+  "past_medical_history": "The patient has no significant past medical history",
+  "medications": "The patient denies taking any medications",
+  "past_surgical_history": "The patient has no history of surgery",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient is a non-smoker, denies alcohol or illicit drug use."
+}
+```

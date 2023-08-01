@@ -1,0 +1,21 @@
+{
+  "patient_name": "James Hansen",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of shortness of breath. He reports that the symptoms started suddenly about 2 hours ago while he was at home. He denies any recent travel or exposure to sick contacts. Patient has a history of asthma and allergies, but he states that his symptoms are different from his usual asthma attacks. Patient reports that he has been using his rescue inhaler but it has not provided relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath with exertion and at rest. He also complains of cough and wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain, swelling, or limitations in range of motion.",
+    "skin": "Patient denies rash, itching, or skin changes.",
+    "neurologic": "Patient denies headache, dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "Patient has a history of asthma, allergies, and hypertension.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma symptoms, as well as lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's father has a history of asthma.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

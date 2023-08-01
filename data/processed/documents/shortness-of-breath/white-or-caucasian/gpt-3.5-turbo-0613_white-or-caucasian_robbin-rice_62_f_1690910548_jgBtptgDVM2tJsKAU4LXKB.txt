@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Robbin Rice",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Robbin Rice, a 62-year-old female, presents to the emergency department with a chief complaint of shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath on exertion, negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or syncope."
+  },
+  "past_medical_history": "The patient has a past medical history significant for chronic obstructive pulmonary disease (COPD) and hypertension.",
+  "medications": "The patient takes albuterol inhaler for COPD and amlodipine for hypertension.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension and lung cancer.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

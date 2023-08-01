@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bertrand Linen",
+  "age": "94",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Bertrand Linen is a 94-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago and has been progressively worsening. He denies any chest pain or palpitations. He also mentions a recent history of a productive cough with yellow sputum. He denies any fever, chills, or night sweats. Upon further questioning, patient reports a past medical history significant for chronic obstructive pulmonary disease (COPD) and heart failure.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Patient reports shortness of breath and productive cough with yellow sputum.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any dysuria or urgency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any headaches, weakness, or numbness."
+  },
+  "past_medical_history": "Known medical conditions include chronic obstructive pulmonary disease (COPD) and heart failure.",
+  "medications": "The patient reports taking the following medications: - Albuterol inhaler twice daily for COPD - Lisinopril 10 mg daily for hypertension - Furosemide 40 mg daily for fluid management",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient reports a family history of cardiovascular disease, including coronary artery disease and heart failure.",
+  "social_history": "Patient is a lifetime non-smoker. He lives alone and denies any significant alcohol or drug use."
+}

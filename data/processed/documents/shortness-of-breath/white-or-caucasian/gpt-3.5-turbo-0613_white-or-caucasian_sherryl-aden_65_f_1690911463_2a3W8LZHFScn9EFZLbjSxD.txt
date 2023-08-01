@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sherryl Aden",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived in the emergency department with chief complaint of shortness of breath. She reports that the symptom started approximately 2 hours ago and has been gradually worsening. The patient denies any chest pain, cough, wheezing, or fever. She has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. She has no known allergies to medications or food. The patient denies any recent travel, sick contacts, or exposure to respiratory illnesses. She has never had any surgical procedures in the past. Social history is significant for a 35 pack-year smoking history, but she quit 5 years ago. She does not consume alcohol or use illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath without wheezing or cough.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular or respiratory illnesses.",
+  "social_history": "Patient is a former smoker with a 35 pack-year history. She quit smoking 5 years ago. She does not consume alcohol or use illicit drugs."
+}
+```

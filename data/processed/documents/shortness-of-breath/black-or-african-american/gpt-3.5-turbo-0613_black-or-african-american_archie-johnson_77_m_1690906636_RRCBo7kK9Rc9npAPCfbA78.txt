@@ -1,0 +1,22 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "77",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the difficulty breathing started suddenly earlier today. He denies any chest pain, palpitations, or cough. No other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath without any other respiratory symptoms.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 40 mg daily, and acetaminophen as needed for pain.",
+  "past_surgical_history": "Total knee replacement 10 years ago.",
+  "family_history": "Non-contributory.",
+  "social_history": "Retired engineer. No significant tobacco or alcohol use."
+}

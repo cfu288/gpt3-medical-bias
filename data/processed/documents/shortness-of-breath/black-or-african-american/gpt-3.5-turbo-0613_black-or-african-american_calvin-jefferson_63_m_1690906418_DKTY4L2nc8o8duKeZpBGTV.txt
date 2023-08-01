@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Jefferson",
+  "age": "63",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. The symptoms started earlier today and have been progressively worsening. Upon further questioning, the patient reported no history of similar symptoms in the past.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and weakness.",
+    "cardiovascular": "Negative for chest pain, palpitations, or history of heart disease.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for changes in sensation or vision impairment."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes atorvastatin for hyperlipidemia and lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Positive for coronary artery disease in immediate family members.",
+  "social_history": "Patient is a current smoker with a 20 pack-year smoking history."
+}

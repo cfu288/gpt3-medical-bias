@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kori Woods",
+  "age": "31",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kori Woods, a 31-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms began approximately 2 hours ago and have been progressively worsening. She denies any associated chest pain, cough, fever, or wheezing. She states that she had been feeling well prior to the onset of symptoms. She denies any recent travel, sick contacts, or known exposure to COVID-19. The patient says that she has a history of asthma and has used her rescue inhaler at home without relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath and a history of asthma.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rash, pruritus, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "1. Asthma - Diagnosed at age 14. The patient reports occasional exacerbations but has been able to control symptoms with her rescue inhaler. She denies any recent hospitalizations or emergency department visits for asthma exacerbation.",
+  "medications": "1. Albuterol inhaler - 2 puffs as needed for asthma symptoms\n2. Fluticasone inhaler - 2 puffs daily\n3. Montelukast - taken daily for asthma control",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "1. Asthma - The patient's mother and sister both have a history of asthma.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use. She is currently employed as a teacher and lives with her husband and two children. She denies any recent travel or exposure to sick contacts."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freddie Lawyer",
+  "age": "79",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Freddie Lawyer, a 79-year-old male, presents to the emergency department with complaints of shortness of breath. Patient reports that the shortness of breath started suddenly this afternoon while he was at home. He describes the shortness of breath as severe and constant, without any relief. He denies any associated chest pain, cough, or fever. He reports no recent travel or exposure to sick contacts. He has a past medical history of hypertension and diabetes, for which he takes lisinopril and metformin. His last hospitalization was one year ago for an episode of pneumonia. He does not smoke cigarettes or use alcohol. He lives alone and is independent with activities of daily living. He denies any recent changes in medication or recent infections.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Reports shortness of breath.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, diabetes",
+  "medications": "Lisinopril, metformin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, non-alcoholic"
+}

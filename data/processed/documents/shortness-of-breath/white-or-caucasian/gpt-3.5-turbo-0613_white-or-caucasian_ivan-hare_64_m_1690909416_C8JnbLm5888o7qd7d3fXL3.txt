@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ivan Hare",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ivan Hare, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath has been progressively worsening over the past few days. He denies any associated chest pain, cough, or fever. He also states that he has been experiencing increased fatigue and decreased exercise tolerance. The patient has a significant past medical history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports occasional mild chest discomfort but denies palpitations or irregular heartbeats.",
+    "respiratory": "As described in the chief complaint, the patient reports shortness of breath, especially with exertion. He denies any wheezing or coughing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or sores.",
+    "neurologic": "The patient denies any changes in sensation, weakness, or disturbances in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia. He takes daily medications for both conditions including lisinopril and atorvastatin.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father who had a myocardial infarction at the age of 65.",
+  "social_history": "The patient is a retired accountant. He is a former smoker and quit approximately 20 years ago. He denies any alcohol or illicit drug use."
+}

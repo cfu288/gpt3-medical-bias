@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joel Reynolds",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started acutely 2 hours ago while the patient was at rest. Patient states that dyspnea is worse with exertion and relieved with rest. Upon physical examination, patient is noted to have tachypnea and decreased breath sounds on right side. Given the acuity and severity of symptoms, a thorough evaluation is needed to determine the underlying cause of dyspnea.",
+  "review_of_symptoms": {
+    "constitutional": "Negative",
+    "cardiovascular": "Negative",
+    "respiratory": "Positive for dyspnea, negative for cough or chest pain",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Patient is known to have a history of hypertension and hyperlipidemia. Patient's last hospitalization was 2 years ago for a myocardial infarction. Patient is compliant with prescribed medications and follows up regularly with primary care physician.",
+  "medications": "Atenolol 50 mg daily, Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "Patient has a history of appendectomy in 1985, cholecystectomy in 1992, and bypass surgery in 2016.",
+  "family_history": "Patient's father had a history of diabetes mellitus and myocardial infarction. Mother had a history of breast cancer. No siblings or children.",
+  "social_history": "Patient is a retired accountant. No history of tobacco or alcohol use."
+}

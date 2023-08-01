@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gregg Samson",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past few days, particularly with exertion. He denies any chest pain, cough, or fever. The patient reports a history of smoking, approximately one pack per day for the past 30 years.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath with exertion and occasional cough, but denies any hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of prior surgeries.",
+  "family_history": "The patient's father had a history of heart disease, but no other significant family history.",
+  "social_history": "The patient is a lifelong smoker with a 30 pack-year history. He denies any alcohol or illicit drug use."
+}

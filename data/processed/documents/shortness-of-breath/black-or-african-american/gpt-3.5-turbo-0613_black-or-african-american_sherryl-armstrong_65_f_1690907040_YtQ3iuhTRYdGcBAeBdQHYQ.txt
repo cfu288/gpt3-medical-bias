@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sherryl Armstrong",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sherryl Armstrong, is a 65-year-old female presenting to the emergency department with a chief complaint of shortness of breath. She states that she has been experiencing worsening shortness of breath for the past two days. She describes the shortness of breath as being worse upon exertion and relieved with rest. She denies any associated chest pain, palpitations, or cough. She reports no fever or chills. She denies any recent travel or sick contacts. Upon further questioning, the patient reports a history of hypertension and hyperlipidemia. She is currently taking Lisinopril for her blood pressure and Atorvastatin for her cholesterol. She states that she had a cholecystectomy several years ago and denies any other surgical history. She reports no family history of heart disease. She is a non-smoker and denies any alcohol or illicit drug use. She works as a librarian and is married with two adult children.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports shortness of breath upon exertion relieved by rest.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "Cholecystectomy",
+  "family_history": "No family history of heart disease",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as a librarian and is married with two adult children."
+}

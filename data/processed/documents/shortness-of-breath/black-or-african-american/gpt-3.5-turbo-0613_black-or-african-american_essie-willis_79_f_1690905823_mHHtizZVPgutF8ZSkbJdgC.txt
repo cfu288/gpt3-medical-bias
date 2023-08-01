@@ -1,0 +1,21 @@
+{
+  "patient_name": "Essie Willis",
+  "age": "79",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the Emergency Department with complaints of shortness of breath. She reports that the difficulty breathing started suddenly about 1 hour ago and has since worsened. She denies any associated chest pain, cough, or fever. She notes that she has a history of congestive heart failure and has been compliant with her medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, fatigue, or fever.",
+    "cardiovascular": "Patient reports a history of congestive heart failure with associated shortness of breath on exertion.",
+    "respiratory": "Patient's main complaint is shortness of breath that is worsening.",
+    "gi": "No complaints of nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "No complaints of dysuria or urinary frequency.",
+    "musculoskeletal": "No complaints of pain or stiffness in the muscles or joints.",
+    "skin": "No changes in skin color, rashes, or lesions reported.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Congestive heart failure, hypertension, diabetes. Patient also had a history of stroke 5 years ago.",
+  "medications": "Lisinopril 10 mg daily, Metformin 1000 mg twice daily, Lasix 40 mg daily",
+  "past_surgical_history": "Coronary artery bypass graft surgery 10 years ago",
+  "family_history": "Mother had a history of heart disease.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use. Lives alone and is independent with activities of daily living."
+}

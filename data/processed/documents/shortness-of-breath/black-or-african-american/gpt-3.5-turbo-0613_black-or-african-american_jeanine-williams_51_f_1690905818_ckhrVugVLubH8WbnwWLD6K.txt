@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jeanine Williams",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient is a 51-year-old female presenting with chief complaint of shortness of breath. Symptom has been present for the past two days and has gradually worsened. Patient denies chest pain, fever, or cough. She also reports no recent travel or exposure to sick contacts. No known history of lung disease or cardiac issues.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations. No previous episodes of heart problems.",
+    "respiratory": "Presents with shortness of breath. Denies cough or sputum.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling. No recent injuries.",
+    "skin": "No rashes, lesions, or abnormal findings.",
+    "neurologic": "No headaches, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, managed with lisinopril. No history of lung disease.",
+  "medications": "Lisinopril 10mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history of heart or lung disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use. Patient works as a teacher and lives with her spouse and two teenage children."
+}
+```

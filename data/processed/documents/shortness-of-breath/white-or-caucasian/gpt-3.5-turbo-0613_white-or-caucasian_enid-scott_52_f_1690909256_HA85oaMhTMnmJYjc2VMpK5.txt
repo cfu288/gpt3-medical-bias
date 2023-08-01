@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Enid Scott",
+  "age": "52",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that began 3 hours ago. She reports that the shortness of breath is worse with exertion and relieved by rest. Patient denies any chest pain, cough, fever, or leg swelling.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath reported.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She takes losartan and simvastatin for these conditions.",
+  "medications": "Losartan, Simvastatin",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol. She works as an accountant and denies any exposure to environmental hazards."
+}
+```

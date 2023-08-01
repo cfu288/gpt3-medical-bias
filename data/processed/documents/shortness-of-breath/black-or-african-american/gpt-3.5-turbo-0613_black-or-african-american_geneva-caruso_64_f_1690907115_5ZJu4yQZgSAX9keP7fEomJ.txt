@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Geneva Caruso",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Geneva Caruso, is a 64-year-old female who presents to the emergency department with chief complaint of shortness of breath. She reports that her symptoms began suddenly this morning while she was at home. She states that she woke up feeling very breathless and has been unable to catch her breath since then. She denies any associated chest pain, cough, fever, or wheezing. She does state that she has been feeling more fatigued than usual lately. Upon further questioning, she reports a history of smoking for 30 years, but quit smoking 10 years ago. She also reports a history of hypertension and takes medication for it. No recent changes in her medication regimen. No other significant past medical history. No known allergies. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Mild fatigue",
+    "cardiovascular": "Denies chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No focal weakness or numbness"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Hypertensive medication",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Former smoker (quit 10 years ago)"
+}
+```

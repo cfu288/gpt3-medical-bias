@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eddie Jenkins",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Eddie Jenkins, a 41-year-old male, presents to the emergency department with complaints of shortness of breath. He reports that his symptoms began suddenly this morning while he was at rest. He describes the shortness of breath as severe, accompanied by chest tightness and difficulty speaking in full sentences. He denies any associated symptoms such as chest pain, lightheadedness, or palpitations. The patient has a history of smoking and exposure to second-hand smoke for many years. He has no known allergies and has never experienced similar symptoms in the past. Upon initial assessment, the patient's vital signs are as follows: blood pressure 130/80 mmHg, heart rate 100 beats per minute, respiratory rate 20 breaths per minute, oxygen saturation 93% on room air. Auscultation of the chest reveals decreased breath sounds bilaterally and diffuse wheezes. Given his symptoms and physical findings, the preliminary diagnosis is acute exacerbation of asthma. Immediate interventions have been initiated, including administration of supplemental oxygen and bronchodilators.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "In addition to the shortness of breath, the patient denies any cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a known history of persistent asthma and has been using an albuterol inhaler as needed.",
+  "medications": "The patient is currently taking albuterol as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of allergies and asthma in his mother and siblings.",
+  "social_history": "The patient has a 20 pack-year smoking history and has recently quit smoking."
+}

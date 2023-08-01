@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lela Forte",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lela Forte, is a 76-year-old female who presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath started suddenly about an hour ago and has been gradually worsening. She denies any associated chest pain or cough.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, vision changes, or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include lisinopril and simvastatin.",
+  "past_surgical_history": "The patient has a history of appendectomy.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

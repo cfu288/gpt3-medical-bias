@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damon Person",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Damon Person, a 64-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he has been experiencing progressively worsening shortness of breath over the past week. He reports that the shortness of breath is worse with exertion and is accompanied by mild chest tightness. He denies any associated symptoms such as cough, fever, or leg swelling. The patient has a history of smoking for 20 years but quit 10 years ago. He has no history of similar symptoms in the past. His medical history includes hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, weight loss, or fatigue.",
+    "cardiovascular": "Positive for mild chest tightness, negative for palpitations or syncope.",
+    "respiratory": "Positive for worsening shortness of breath, negative for cough or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient's current medications include Lisinopril 20mg daily for hypertension and Atorvastatin 40mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father had a history of hypertension and his mother had a history of diabetes.",
+  "social_history": "The patient is a former smoker and quit 10 years ago. He denies alcohol or illicit drug use. He is retired and lives alone."
+}

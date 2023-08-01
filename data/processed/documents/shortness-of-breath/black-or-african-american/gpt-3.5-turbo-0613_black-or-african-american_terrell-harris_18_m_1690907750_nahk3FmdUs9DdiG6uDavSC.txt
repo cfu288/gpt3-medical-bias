@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Terrell Harris",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Terrell Harris, an 18-year-old male, presents to the emergency department with a chief complaint of shortness of breath. Patient reports experiencing episodes of difficulty breathing for the past two days. Symptoms have been progressively worsening and are now associated with chest tightness and wheezing. Patient states that the shortness of breath is exacerbated by physical activity and relieved by rest. No known triggers or alleviating factors have been identified. Patient denies any fever, cough, or sputum production. No history of similar symptoms in the past. No recent illnesses or traumas. No known exposure to any allergens or irritants.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Apart from the chief complaint mentioned above, no cough, sputum production, or hemoptysis.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or syncope."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient does not take any regular medications and has not recently taken any new medications or over-the-counter drugs.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory diseases, cardiac diseases, or allergies.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vera Jones",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ms. Vera Jones, a 66-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the symptoms began suddenly about 2 hours ago. She describes her shortness of breath as severe and constant, which is exacerbated by minimal exertion. She denies any associated chest pain, cough, or fever. The patient has a past medical history of hypertension and diabetes. She denies any recent illnesses or injuries. She is a non-smoker and does not consume alcohol. She reports that she is compliant with her medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "As mentioned earlier, the patient presents with chief complaint of shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain or muscle stiffness.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "1. Hypertension\n2. Diabetes",
+  "medications": "1. Lisinopril 10mg daily for hypertension\n2. Metformin 500mg twice daily for diabetes",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient denies any significant family history of cardiovascular disease, respiratory conditions, or other inheritable disorders.",
+  "social_history": "The patient is retired. She lives alone and is independent with her activities of daily living. She denies any history of smoking, alcohol, or illicit drug use."
+}

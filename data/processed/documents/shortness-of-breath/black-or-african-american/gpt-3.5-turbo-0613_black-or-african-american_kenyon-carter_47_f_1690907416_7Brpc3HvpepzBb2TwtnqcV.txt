@@ -1,0 +1,29 @@
+{
+  "patient_name": "Kenyon Carter",
+  "age": "47",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Kenyon Carter, a 47-year-old female, presented to the emergency department with complaints of shortness of breath. She reports that the shortness of breath has been worsening over the past 2 days, and she is now experiencing difficulty breathing even at rest. She denies any chest pain, cough, or fever. The patient reports no recent travel or sick contacts. 
+
+The patient has a history of asthma and has been using her rescue inhaler at home without relief. She has also noticed swelling in her lower legs and feet over the past week. She denies any history of heart disease or pulmonary embolism. She has not had any recent illnesses or infections.
+
+Upon further questioning, the patient reports experiencing fatigue, especially with exertion. She has also noticed increased urination and thirst over the past few weeks. She denies any abdominal pain, nausea, or vomiting.
+
+Current medications include albuterol inhaler as needed for asthma symptoms.
+
+Overall, the patient's symptoms are concerning for a possible exacerbation of her asthma as well as signs of fluid overload. Further evaluation is warranted to determine the cause of her shortness of breath and address her worsening symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Reports fatigue with exertion, denies chest pain or palpitations",
+    "respiratory": "Shortness of breath even at rest, reports worsening over past 2 days",
+    "gi": "Denies abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Reports increased urination and thirst over the past few weeks",
+    "musculoskeletal": "Denies joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "Denies headache, changes in vision, or weakness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "None",
+  "family_history": "No family history of asthma, heart disease, or pulmonary embolism",
+  "social_history": "The patient is a nonsmoker and denies alcohol or drug use"
+}

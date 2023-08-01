@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ina Brock",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ina Brock, an 84-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the symptoms began suddenly earlier today and have been progressively worsening. She describes the shortness of breath as feeling like she can't get enough air, and it is associated with mild chest discomfort. She denies any cough, wheezing, or fever. The patient states that she has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She reports taking medications for her conditions, including lisinopril and atorvastatin. She denies any recent surgeries or hospitalizations. The patient has no known allergies. In terms of family history, her mother had diabetes and her father had a history of heart disease. Socially, she lives alone and is independent in her activities of daily living. She denies smoking, alcohol use, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "No history of chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "The patient reports a sudden onset of shortness of breath without associated cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "The patient reports chronic osteoarthritis, but denies any joint pain, swelling, or stiffness at this time.",
+    "skin": "No rashes, lesions, or changes in skin color reported.",
+    "neurologic": "The patient reports no focal weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "",
+  "family_history": "Mother had diabetes, father had history of heart disease",
+  "social_history": "Non-smoker, no alcohol or drug use, lives alone"
+}

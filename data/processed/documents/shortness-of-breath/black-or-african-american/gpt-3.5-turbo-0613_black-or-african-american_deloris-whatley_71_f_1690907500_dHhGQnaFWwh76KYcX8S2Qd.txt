@@ -1,0 +1,21 @@
+{
+  "patient_name": "Deloris Whatley",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Deloris Whatley, a 71-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started two days ago and has been progressively worsening. She denies any associated chest pain or cough. She states that she has not had any recent illnesses or infections. She has a history of hypertension and takes medication for it. She also has a history of smoking, with a 40 pack-year history. Upon further questioning, the patient reports no other significant symptoms. She denies any fever, chills, night sweats, weight loss, abdominal pain, changes in bowel movements, urinary symptoms, joint pain, rash, or neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, and night sweats.",
+    "cardiovascular": "Positive for palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain and changes in bowel movements.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain.",
+    "skin": "Negative for rash.",
+    "neurologic": "Negative for neurological symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and is currently taking medication for it.",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient has a 40 pack-year smoking history."
+}

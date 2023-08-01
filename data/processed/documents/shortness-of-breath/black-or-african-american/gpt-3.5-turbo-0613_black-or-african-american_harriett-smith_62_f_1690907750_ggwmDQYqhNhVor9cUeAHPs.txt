@@ -1,0 +1,21 @@
+{
+  "patient_name": "Harriett Smith",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Harriett Smith, a 62-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started two days ago and have been progressively worsening. She states that she feels like she can't catch her breath and has been experiencing mild chest pain. She denies any fever, cough, or sputum production. She also denies any recent travel or exposure to sick contacts. She reports a history of hypertension and diabetes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Positive for mild chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain or changes in bowel habits.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headaches, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes.",
+  "medications": "The patient takes metformin for diabetes and lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and does not have any pets."
+}

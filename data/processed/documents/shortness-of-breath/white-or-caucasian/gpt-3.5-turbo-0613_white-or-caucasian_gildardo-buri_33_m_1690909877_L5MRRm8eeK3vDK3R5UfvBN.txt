@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gildardo Buri",
+  "age": "33",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of shortness of breath. Symptoms began approximately 2 hours ago and have been progressively worsening. Patient reports associated chest tightness and cough with productive yellow sputum. No fever, chills, or recent illness reported.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Patient reports shortness of breath at rest and with minimal exertion. Cough with yellow sputum.",
+    "gi": "Denies nausea, vomiting, diarrhea",
+    "gu": "Denies dysuria, hematuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, pruritus",
+    "neurologic": "Denies headache, dizziness"
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies",
+  "medications": "Patient takes albuterol inhaler PRN for asthma",
+  "past_surgical_history": "Patient underwent appendectomy at age 15",
+  "family_history": "Family history is non-contributory",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use"
+}

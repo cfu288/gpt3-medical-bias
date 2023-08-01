@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cyril Sorber",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Cyril Sorber, a 54-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started this morning and has been progressively worsening throughout the day. He describes it as a sensation of not getting enough air and states that it is associated with cough and wheezing. He denies any chest pain, fever, or chills. He denies any recent illnesses or exposures. He states that he has a history of asthma and uses a rescue inhaler as needed.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports cough and wheezing associated with shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for asthma and hyperlipidemia.",
+  "medications": "The patient takes albuterol as needed for asthma and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mariusz Tolbert",
+  "age": "43",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived in the emergency department complaining of acute onset shortness of breath. Patient reports a productive cough with yellowish sputum. Denied chest pain or other associated symptoms. Initial vitals were stable with oxygen saturation of 92% on room air. Respiratory distress was present with increased work of breathing, prolonged expiration, and use of accessory muscles. Assessment and treatment initiated.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or sweats.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Patient reports shortness of breath and cough with yellowish sputum.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, pruritus, or changes to skin.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation or movement."
+  },
+  "past_medical_history": "Patient reports history of hypertension and hyperlipidemia. Patient is not currently on any medications for these conditions.",
+  "medications": "Patient states he takes over-the-counter ibuprofen as needed for pain.",
+  "past_surgical_history": "Patient reports no previous surgeries.",
+  "family_history": "Patient reports a family history of hypertension and heart disease. No known family history of lung or respiratory conditions.",
+  "social_history": "Patient is a non-smoker and denies drug or alcohol use. Patient works as a office manager and lives alone."
+}

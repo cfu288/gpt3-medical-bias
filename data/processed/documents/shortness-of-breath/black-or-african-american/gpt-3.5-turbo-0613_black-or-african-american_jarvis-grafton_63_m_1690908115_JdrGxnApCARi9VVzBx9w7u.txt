@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jarvis Grafton",
+  "age": "63",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms developed suddenly about an hour ago. He denies any associated chest pain, palpitations, or lightheadedness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or orthopnea.",
+    "respiratory": "The patient complains of shortness of breath with minimal exertion. He reports increased dyspnea with lying down.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any skin rashes or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He reports being compliant with his medications.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical interventions.",
+  "family_history": "The patient's family history is significant for hypertension in his mother and grandfather.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

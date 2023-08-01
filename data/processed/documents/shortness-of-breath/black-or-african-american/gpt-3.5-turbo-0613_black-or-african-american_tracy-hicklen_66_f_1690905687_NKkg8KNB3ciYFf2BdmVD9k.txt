@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tracy Hicklen",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Ms. Hicklen is a 66-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms began suddenly this morning and have been worsening throughout the day. She denies any chest pain, cough, or fever. She states that she has a history of asthma but has not required any rescue inhalers in the past year. She has no known triggers for her asthma. Ms. Hicklen also reports that she has a history of heart disease and is currently taking medications for high blood pressure and high cholesterol. She denies any recent medication changes or noncompliance. She has no history of lung disease or smoking. She denies any recent travel or sick contacts. On physical examination, Ms. Hicklen appears in mild respiratory distress. She is speaking in full sentences and maintaining oxygen saturation of 95% on room air. Her lungs are clear to auscultation bilaterally with no wheezes or crackles appreciated. Her heart sounds are regular with no murmurs. Her extremities are warm and well-perfused. There is no evidence of lower extremity edema. Ms. Hicklen's vital signs are as follows: temperature 98.4°F, heart rate 80 beats per minute, blood pressure 140/90 mmHg, respiratory rate 24 breaths per minute, and oxygen saturation 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, fatigue, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Reports shortness of breath, denies cough or wheezing",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "No dysuria or changes in urinary frequency",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No dizziness, syncope, or changes in sensation or motor function"
+  },
+  "past_medical_history": "Asthma, heart disease, hypertension, and hypercholesterolemia",
+  "medications": "Albuterol inhaler, lisinopril, and atorvastatin",
+  "past_surgical_history": "Appendectomy in 1995",
+  "family_history": "Father with heart disease",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

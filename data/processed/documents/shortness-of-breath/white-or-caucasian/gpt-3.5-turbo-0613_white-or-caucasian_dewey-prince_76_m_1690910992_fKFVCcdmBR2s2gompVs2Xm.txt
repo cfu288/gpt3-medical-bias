@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewey Prince",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started yesterday and have been progressively worsening. He denies any chest pain, cough, or fever. The patient has a past medical history significant for hypertension and hyperlipidemia. He takes lisinopril and simvastatin for his chronic medical conditions. The patient denies any recent sick contacts or travel. On physical examination, the patient appears in moderate respiratory distress. His vital signs are as follows: temperature 98.6°F, heart rate 96 bpm, blood pressure 150/90 mmHg, respiratory rate 26 breaths per minute, and oxygen saturation 90% on room air. Lung auscultation reveals decreased breath sounds and crackles bilaterally. The patient is placed on supplemental oxygen and a respiratory treatment is initiated.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or fevers.",
+    "cardiovascular": "The patient has a history of hypertension but denies any chest pain or palpitations.",
+    "respiratory": "The patient presents with a chief complaint of shortness of breath. He reports decreased exercise tolerance and orthopnea.",
+    "gi": "The patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any dysuria or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and simvastatin.",
+  "past_surgical_history": "",
+  "family_history": "The patient denies any significant family history of cardiovascular disease or respiratory conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

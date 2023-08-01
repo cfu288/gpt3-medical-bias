@@ -1,0 +1,21 @@
+{
+  "patient_name": "Frank Shanon",
+  "age": "38",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. He reports that the symptoms started suddenly approximately 2 hours ago. He denies any associated chest pain, cough, or fever. He describes the shortness of breath as progressively worsening and is now unable to complete sentences without taking multiple pauses to catch his breath. He has a history of asthma and reports that he has used his inhaler at home without any relief. He denies any recent illness or exposure to known allergens or irritants. On examination, the patient appears anxious and is using accessory muscles to breathe. He has decreased breath sounds on the left side and his oxygen saturation is 88% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or swelling in the extremities.",
+    "respiratory": "Patient reports shortness of breath and decreased breath sounds on the left side.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria or changes in urinary frequency or urgency.",
+    "musculoskeletal": "Patient denies joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Patient reports using albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

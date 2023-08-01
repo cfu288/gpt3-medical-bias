@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnest Johnson",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Earnest Johnson, a 68-year-old male, presented to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started yesterday and has been progressively worsening. He denies any associated chest pain, palpitations, or cough. He reports no fevers, chills, or recent sick contacts. The patient states that he has a history of hypertension but is noncompliant with his medications. He denies any recent changes in his medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever or weight loss.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication inconsistently.",
+    "respiratory": "The patient presents with shortness of breath, without any associated cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any weakness, numbness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and is noncompliant with his medications.",
+  "medications": "The patient is currently prescribed antihypertensive medications but admits to inconsistent adherence.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "There is no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is retired and denies any tobacco or alcohol use."
+}

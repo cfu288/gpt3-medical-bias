@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jasper Mccombs",
+  "age": "74",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Mccombs, is a 74-year-old male who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly about 2 hours ago while he was resting at home. He describes it as a sensation of difficulty breathing and feels like he cannot get enough air. He denies any associated chest pain, cough, or fever. The patient has a past medical history significant for hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He has been non-compliant with his medications for the past few days. He denies any recent respiratory infections or exposure to sick contacts. His current medications include lisinopril, atorvastatin, and albuterol inhaler. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or dizziness.",
+    "respiratory": "The patient reports shortness of breath as his chief complaint. He denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a significant history of hypertension, hyperlipidemia, and COPD.",
+  "medications": "Lisinopril for hypertension, atorvastatin for hyperlipidemia, and albuterol inhaler for COPD.",
+  "past_surgical_history": "The patient has no known surgical history.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He denies any alcohol or drug abuse."
+}

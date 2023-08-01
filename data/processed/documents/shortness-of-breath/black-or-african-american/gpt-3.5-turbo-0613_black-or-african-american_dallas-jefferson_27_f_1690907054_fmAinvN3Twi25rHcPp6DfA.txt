@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dallas Jefferson",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Dallas Jefferson, a 27-year-old female, presents to the emergency department with complaints of shortness of breath. She states that the symptom started suddenly about an hour ago and has been progressively worsening. The patient denies any known triggers or associated symptoms such as chest pain, cough, or palpitations. She denies any history of similar episodes in the past. Upon further probing, the patient reports feeling anxious and has a history of anxiety disorder. She denies any recent illnesses or exposure to sick individuals. The patient denies any recent travel, surgery, trauma, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient complains of shortness of breath but denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or stiffness.",
+    "skin": "The patient denies any rashes, sores, or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient’s past medical history is significant for anxiety disorder for which she takes prescribed medications.",
+  "medications": "The patient is currently taking [list of medications].",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular, respiratory, or other hereditary conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She works as a software engineer."
+}

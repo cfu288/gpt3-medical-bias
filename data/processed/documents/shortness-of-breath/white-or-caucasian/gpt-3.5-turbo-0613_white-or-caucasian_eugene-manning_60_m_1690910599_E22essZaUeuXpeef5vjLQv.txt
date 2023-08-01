@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eugene Manning",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Manning is a 60-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing increasing difficulty breathing over the past 24 hours. He denies any associated chest pain or cough. He reports that he has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril 20 mg daily and atorvastatin 40 mg daily. He denies any recent changes in his medication regimen. He states that he has never had surgery before. He also reports a family history of hypertension and cardiovascular disease. He denies any tobacco or illicit drug use. He does report occasional alcohol consumption. Upon further questioning, he also reports occasional episodes of swelling in his lower extremities. Upon examination, his vital signs are stable with a blood pressure of 130/80 mmHg, heart rate of 80 beats per minute, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air. He appears to be in no acute distress. On auscultation, he has bilateral decreased breath sounds, especially in the bases. His cardiac exam reveals no murmur, rub, or gallop. His extremities are warm and well-perfused with trace pedal edema.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, night sweats, and weight loss.",
+    "cardiovascular": "Positive for occasional lower extremity edema.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, and vomiting.",
+    "gu": "Negative for dysuria and hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No known surgeries",
+  "family_history": "Hypertension, cardiovascular disease",
+  "social_history": "Occasional alcohol consumption"
+}

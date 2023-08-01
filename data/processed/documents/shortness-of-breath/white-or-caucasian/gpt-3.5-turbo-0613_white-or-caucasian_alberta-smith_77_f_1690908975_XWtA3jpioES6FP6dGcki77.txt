@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alberta Smith",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient is a 77-year-old female named Alberta Smith who presents to the emergency department with complaints of shortness of breath. She reports that the symptoms have been gradually worsening over the past few days and she is now experiencing difficulty breathing even at rest. She denies any chest pain or palpitations. Upon further questioning, she mentions that she has a history of chronic obstructive pulmonary disease (COPD) and has been prescribed an inhaler.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or orthopnea.",
+    "respiratory": "The patient reports worsening shortness of breath with exertion and at rest. She also mentions increased sputum production and cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD). She also has a history of hypertension and hyperlipidemia. She has not been hospitalized recently and denies any recent infections or illnesses.",
+  "medications": "The patient is currently taking albuterol inhaler for her COPD. She also takes lisinopril for her hypertension and atorvastatin for her hyperlipidemia.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory diseases, heart disease, or cancer.",
+  "social_history": "The patient is a retired teacher. She is a non-smoker and denies any alcohol or illicit drug use. She lives with her husband and does not have any known exposure to respiratory irritants or toxins."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hillary Meyer",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reported that the symptoms began suddenly earlier this evening while she was at home. She denies any associated chest pain or palpitations. She also denies any recent illness or travel. Patient states that she has a history of asthma but has been compliant with her medications and has not had any recent exacerbations. She has been using her rescue inhaler as needed. Upon arrival to the ED, the patient was tachycardic with a heart rate of 110 beats per minute. Oxygen saturation was 92% on room air. Physical examination revealed bilateral wheezing and decreased breath sounds. EKG showed sinus tachycardia. Given the patient's history of asthma and acute presentation with shortness of breath, the patient was given nebulized albuterol and ipratropium as well as systemic corticosteroids to treat the presumed asthma exacerbation. Patient's symptoms improved after treatment, with resolution of wheezing and increased oxygen saturation to 97%. She was then admitted to the hospital for further evaluation and management.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or open wounds.",
+    "neurologic": "Negative for headache or dizziness."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler (used as needed), Fluticasone inhaler (used twice daily)",
+  "past_surgical_history": "None",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dick Hancock",
+  "age": "87",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms began approximately 1 hour ago and have been progressively worsening. Patient reports that the shortness of breath is associated with mild chest discomfort and cough. Denies any fever, chills, or sputum production. Patient has a past medical history of chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF).",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports mild chest discomfort but denies any palpitations or syncope.",
+    "respiratory": "Patient is experiencing shortness of breath with exertion and at rest. Denies any cough or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes in urination.",
+    "musculoskeletal": "Patient reports no musculoskeletal complaints.",
+    "skin": "Patient denies any rashes, lesions, or itching.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF).",
+  "medications": "Patient currently takes medications for COPD and CHF including inhalers, diuretics, and a beta-blocker.",
+  "past_surgical_history": "Patient has a history of coronary artery bypass graft (CABG) surgery performed 10 years ago.",
+  "family_history": "Patient denies any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol regularly. Patient lives alone and is able to take care of his activities of daily living independently."
+}

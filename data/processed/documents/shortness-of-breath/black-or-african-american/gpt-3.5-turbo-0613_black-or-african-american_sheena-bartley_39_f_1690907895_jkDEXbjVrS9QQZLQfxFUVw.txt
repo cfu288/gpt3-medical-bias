@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheena Bartley",
+  "age": "39",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents with a chief complaint of shortness of breath. She reports that the shortness of breath began suddenly while she was at rest. She denies any recent travel or exposure to sick individuals. She has no history of asthma or allergies. Upon further questioning, she reports a mild cough and slight wheezing. She denies any chest pain or palpitations. No associated symptoms such as fever, chills, or swollen feet. She reports increased work of breathing and difficulty catching her breath when performing daily activities. She has not noticed any relief with over-the-counter medications such as antihistamines or cough suppressants.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Mild cough and slight wheezing",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No complaints",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Patient has a past medical history of seasonal allergies but has never experienced shortness of breath to this severity before.",
+  "medications": "Patient takes loratadine as needed for allergies.",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory disorders.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

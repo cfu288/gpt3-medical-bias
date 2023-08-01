@@ -1,0 +1,21 @@
+{
+  "patient_name": "Brenda Danvers",
+  "age": "61",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Brenda Danvers, is a 61-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing shortness of breath for the past 2 days. The shortness of breath is worse with exertion and relieved with rest. She denies any associated chest pain, cough, fever, or leg swelling. She states that she has a past medical history of hypertension and hyperlipidemia. She takes medications for both conditions, but is unsure of the names and doses. She denies any past surgical history. Family history is noncontributory. Social history is significant for a 50 pack-year smoking history but denies any other illicit drug use or alcohol consumption.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any muscle or joint pain.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia, but is unsure of the names and doses.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "Family history is noncontributory.",
+  "social_history": "The patient has a 50 pack-year smoking history but denies any other illicit drug use or alcohol consumption."
+}

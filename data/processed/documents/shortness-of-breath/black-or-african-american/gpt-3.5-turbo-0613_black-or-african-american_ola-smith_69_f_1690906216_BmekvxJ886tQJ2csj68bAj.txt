@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ola Smith",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. She reports that the symptom started suddenly about an hour ago. She has no history of similar symptoms in the past. She denies any chest pain or palpitations. She also denies any cough or fever. She reports feeling anxious and restless.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or night sweats.",
+    "cardiovascular": "No history of chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath without any cough or expectoration.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "No history of dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or lesions noted.",
+    "neurologic": "Reports feeling anxious and restless."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She also has a remote history of appendectomy.",
+  "medications": "The patient takes amlodipine and atorvastatin for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient had an appendectomy in 1995.",
+  "family_history": "Patient's mother had a history of hypertension and diabetes. Her father had a history of heart disease.",
+  "social_history": "The patient is a former smoker, but she quit 10 years ago. She denies any alcohol or illicit drug use."
+}

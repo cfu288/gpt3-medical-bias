@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dayna Roda",
+  "age": "46",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Dayna Roda, a 46-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started two hours ago and have been progressively worsening. She describes the shortness of breath as a sensation of being unable to get enough air, and it is associated with cough and wheezing. She denies any chest pain, fever, or recent illness. She has no known history of respiratory problems. ",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient is experiencing shortness of breath with cough and wheezing. She denies any hemoptysis or orthopnea.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes metoprolol 50mg daily. She also has a history of seasonal allergies.",
+  "medications": "Metoprolol 50mg daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She is married and works as a teacher."
+}
+```

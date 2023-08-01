@@ -1,0 +1,21 @@
+{
+  "patient_name": "Arie Haddock",
+  "age": "92",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient is a 92-year-old male presenting with chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly approximately 2 hours ago. He reports feeling difficulty in breathing and a sensation of not getting enough air. The patient denies any chest pain or pressure, cough, fever, or chills. He states that he has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath as his chief complaint.",
+    "gi": "Patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or muscle weakness.",
+    "skin": "Patient denies any rashes, lesions, or color changes on the skin.",
+    "neurologic": "Patient denies any dizziness, syncope, or loss of consciousness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily and Atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient has no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Leopoldo Green",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of acute onset shortness of breath. He reports that the symptoms started approximately 2 hours ago. He denies any associated chest pain or fever. He states that he has a history of asthma but has been well-controlled on his current medications. Patient reports that he has been using his albuterol inhaler as prescribed but has not found relief. He also states that he has experienced occasional episodes of shortness of breath in the past but this episode feels different and more severe. He denies any recent illness or exposure to sick contacts. Upon examination, the patient appears anxious and is using accessory muscles to breathe. Lung auscultation reveals decreased air entry bilaterally with expiratory wheezes. Oxygen saturation is 89% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, weakness, or numbness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler, fluticasone/salmeterol inhaler",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases",
+  "social_history": "Non-smoker, denies alcohol or illicit drug use"
+}
+```

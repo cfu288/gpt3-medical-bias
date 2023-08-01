@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marcello Pritchett",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath which began suddenly this afternoon while exercising. Patient reports no history of similar symptoms in the past. Denies any recent illness or exposure to sick contacts. States that he has been feeling well overall.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath and mild cough but denies hemoptysis.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any changes in urinary habits or symptoms suggestive of urinary tract infection.",
+    "musculoskeletal": "Patient denies any joint pains or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any changes in sensation or coordination."
+  },
+  "past_medical_history": "Patient reports no significant past medical history and does not take any chronic medications.",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Patient reports no significant family history of cardiovascular, respiratory, or other chronic diseases.",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. Lives alone and works as a software engineer."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carlene Keehn",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Carlene Keehn, a 77-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports experiencing sudden onset of difficulty breathing, which has been worsening over the past few hours. She denies any associated chest pain, fever, or cough. The patient has a history of chronic obstructive pulmonary disease (COPD) and has been prescribed albuterol inhaler for symptom relief. She reports compliance with her medication regimen. The patient denies any recent changes in her medication or any known allergens.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies experiencing any fever, chills, sweats, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or irregular heartbeats reported by the patient.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint. She denies any cough, wheezing, or blood-tinged sputum.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements reported by the patient.",
+    "gu": "No urinary frequency, urgency, dysuria, or hematuria reported by the patient.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness reported by the patient.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "No changes in mental status, headache, dizziness, or focal neurologic symptoms reported by the patient."
+  },
+  "past_medical_history": "The patient has a past medical history of COPD, hypertension, and osteoarthritis.",
+  "medications": "The patient takes albuterol inhaler as needed for symptom relief of COPD, lisinopril for hypertension, and ibuprofen for osteoarthritis pain. The patient denies any medication allergies.",
+  "past_surgical_history": "The patient has a past surgical history of a cholecystectomy and a total knee replacement.",
+  "family_history": "The patient reports a family history of hypertension and COPD, but no history of any other significant medical conditions.",
+  "social_history": "The patient is a former smoker with a 20 pack-year history. She quit smoking 6 years ago. She reports minimal alcohol use and denies any illicit drug use or occupational exposures."
+}
+```

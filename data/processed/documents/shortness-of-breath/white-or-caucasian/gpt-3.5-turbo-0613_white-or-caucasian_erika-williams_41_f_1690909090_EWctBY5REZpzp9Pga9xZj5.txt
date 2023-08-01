@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Erika Williams",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Erika Williams, a 41-year-old female presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing for the past 2 days. She states that the shortness of breath is worse with activity and is associated with a persistent cough. She denies any chest pain, palpitations, or fevers.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, edema.",
+    "respiratory": "Positive for shortness of breath, cough.",
+    "gi": "Negative for nausea, vomiting, diarrhea.",
+    "gu": "Negative for dysuria, hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness.",
+    "skin": "Negative for rash, lesions.",
+    "neurologic": "Negative for headache, dizziness."
+  },
+  "past_medical_history": "Erika has a history of asthma, for which she uses an albuterol inhaler as needed. She denies any previous surgeries.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Erika is a non-smoker and denies any alcohol or drug use."
+}
+```

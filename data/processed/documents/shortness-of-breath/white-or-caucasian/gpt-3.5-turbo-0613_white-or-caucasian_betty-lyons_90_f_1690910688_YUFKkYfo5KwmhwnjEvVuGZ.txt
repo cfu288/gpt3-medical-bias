@@ -1,0 +1,21 @@
+{
+  "patient_name": "Betty Lyons",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Betty Lyons, a 90-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 2 hours ago and is associated with chest tightness. She denies any fever, cough, or coughing up blood. She also denies any palpitations, dizziness, or syncope. She has no history of similar symptoms in the past. She states that she is feeling more short of breath with minimal exertion and has to sit upright in order to breathe comfortably. She denies any leg swelling or pain. Upon further questioning, she reports that she has a history of hypertension and takes medications for it. She denies any recent illnesses, trauma, or surgeries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports chest tightness and shortness of breath. No known history of heart disease or heart attack.",
+    "respiratory": "The patient's chief complaint is shortness of breath without cough or coughing up blood.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any musculoskeletal pain or joint swelling.",
+    "skin": "No issues reported by the patient with the skin.",
+    "neurologic": "No neurological symptoms reported by the patient."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "No known surgical history.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol use, or drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Valeria Babbel",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Valeria Babbel, a 69-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She states that the shortness of breath began suddenly this morning and has been getting progressively worse throughout the day. She denies any chest pain, cough, or fever. She reports no known allergies and has not had any recent illnesses or infections. The patient's medical history is significant for hypertension and hyperlipidemia, both of which are well-controlled with medications. She is a non-smoker and denies any history of lung disease. On physical examination, the patient appears to be in moderate distress, with increased work of breathing and use of accessory muscles. Auscultation of the lungs reveals decreased breath sounds in the lower lobes with scattered wheezes. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient's chief complaint is shortness of breath. She denies any cough, sputum production, or hemoptysis.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient is retired and lives alone. She denies any tobacco, alcohol, or illicit drug use."
+}

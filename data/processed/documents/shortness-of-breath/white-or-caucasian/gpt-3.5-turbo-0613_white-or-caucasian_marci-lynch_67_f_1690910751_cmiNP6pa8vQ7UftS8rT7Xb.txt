@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marci Lynch",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marci Lynch, is a 67-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that her symptoms started earlier this morning and have been progressively worsening. She denies any associated chest pain or fever. She states that she has a history of asthma but has not required the use of her inhaler in the past year. She has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, or weight changes.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "The patient reports worsening shortness of breath with minimal exertion. She denies any cough, wheezing, or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rashes or changes in skin color reported.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits reported."
+  },
+  "past_medical_history": "The patient has a history of asthma, for which she has been using an inhaler. She reports no other significant past medical history.",
+  "medications": "The patient takes albuterol inhaler as needed for her asthma.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "The patient reports no significant family history of respiratory diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

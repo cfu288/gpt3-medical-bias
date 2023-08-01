@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Chelsey Zoeller",
+  "age": "34",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with the chief complaint of shortness of breath. She states that the symptoms started 2 days ago and have been progressively worsening. She reports difficulty breathing at rest and with minimal exertion. She denies any chest pain or palpitations. She has no recent travel or sick contacts. She has no known allergies. Upon further questioning, patient reports a history of smoking for 15 years but reports being quit for the past 5 years. She denies a history of asthma or other lung diseases. No known cardiac history. No previous hospitalizations. No recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Complains of shortness of breath",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No recent injuries or joint pain",
+    "skin": "No rashes or lesions",
+    "neurologic": "Patient reports no headaches or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "None",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Patient is a former smoker, quitting 5 years ago. No alcohol or illicit drug use. Patient is employed as an accountant."
+}
+```

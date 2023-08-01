@@ -1,0 +1,22 @@
+{
+  "patient_name": "Agnes Molton",
+  "age": "78",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 1 hour ago. She denies any associated chest pain or palpitations. She has a history of hypertension and takes medication for it. She denies any recent illnesses or exposures. On further questioning, she reports that she has been feeling more fatigued than usual over the past week and has noticed some swelling in her ankles.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or orthopnea. She reports occasional mild swelling in her ankles for the past week.",
+    "respiratory": "Patient reports shortness of breath that started suddenly 1 hour ago. She denies any cough, sputum production, wheezing, or hemoptysis.",
+    "gi": "Patient denies any abdominal pain, bloating, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports feeling more fatigued than usual over the past week. She denies any joint pain or stiffness.",
+    "skin": "Patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, numbness, tingling, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is taking medication for it. No other significant past medical history reported.",
+  "medications": "Patient takes medication for hypertension.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Patient is a non-smoker. She lives alone and does not require any assistance with activities of daily living."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kylie Mercer",
+  "age": "32",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. Patient reports that she has been experiencing increasing difficulty breathing over the past 2 days. She states that the shortness of breath is worse with exertion and improves slightly when she sits upright. She denies any associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or diaphoresis.",
+    "cardiovascular": "No history of palpitations or chest pain.",
+    "respiratory": "Presenting complaint of shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal complaints.",
+    "skin": "No rashes or skin lesions reported.",
+    "neurologic": "Denies headache, dizziness, or visual changes."
+  },
+  "past_medical_history": "Patient has a past medical history of asthma and seasonal allergies. She reports occasional use of albuterol inhaler for asthma symptoms. No other chronic medical conditions reported.",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "Negative for family history of heart disease, lung disease, or blood disorders.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use. She works as an accountant and does not report any recent travel or exposures."
+}
+```

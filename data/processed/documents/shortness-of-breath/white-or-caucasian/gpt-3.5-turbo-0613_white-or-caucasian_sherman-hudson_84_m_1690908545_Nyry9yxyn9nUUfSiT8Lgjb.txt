@@ -1,0 +1,22 @@
+{
+  "patient_name": "Sherman Hudson",
+  "age": "84",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Sherman Hudson, an 84-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started earlier today and have been progressively worsening. He describes the shortness of breath as sudden onset, with associated wheezing and coughing. He denies any chest pain or fever. He has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. He has a history of smoking for 50 years. Upon arrival, the patient was tachypneic with an increased respiratory rate of 28 breaths per minute. Lung auscultation revealed decreased breath sounds and expiratory wheezes bilaterally. His oxygen saturation on room air was 88%. Given the severity of his symptoms and his past medical history, a diagnosis of acute exacerbation of COPD is suspected. Further evaluation and treatment are required.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports a history of chronic cough and wheezing, which have been well-controlled with bronchodilators. He denies any hemoptysis.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD) and hypertension. He also has a history of smoking for 50 years.",
+  "medications": "The patient takes the following medications: albuterol inhaler, tiotropium inhaler, and amlodipine for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a retired mechanic and lives alone. He has a 50 pack-year history of smoking but quit 10 years ago. He denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marlena Armstrong",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Marlena Armstrong, a 45-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that she began experiencing difficulty breathing about an hour ago while climbing the stairs in her home. She describes the shortness of breath as sudden in onset, and she denies any associated chest pain, cough, or fever. The patient also reports a history of smoking for the past 20 years.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and hyperlipidemia. She is currently taking lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of coronary artery disease in her father.",
+  "social_history": "The patient has a 20-pack-year smoking history and drinks alcohol occasionally but does not use any illicit drugs."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lanette Jeanbaptiste",
+  "age": "49",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Lanette Jeanbaptiste is a 49-year-old female who presents to the emergency department with complaints of shortness of breath. According to the patient, she started experiencing difficulty breathing approximately 3 hours ago. She reports that her symptoms have been gradually worsening and are associated with mild chest discomfort. She denies any fever, cough, or sputum production. She also denies any recent travel or exposure to sick contacts. The patient has a past medical history of hypertension but is noncompliant with her medications. She has no known allergies. Upon arrival, the patient's vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 20 breaths per minute, oxygen saturation of 95% on room air. On physical examination, the patient appears uncomfortable and is using accessory muscles to breathe. Auscultation of the lungs reveals decreased breath sounds bilaterally with diffuse wheezes and prolonged expiration. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "No fever or chills",
+    "cardiovascular": "No palpitations or chest pain",
+    "respiratory": "Shortness of breath with associated mild chest discomfort, wheezing, and decreased breath sounds bilaterally",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or pruritus",
+    "neurologic": "No headache or focal neurologic deficits"
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "The patient is noncompliant with her hypertension medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No relevant family history",
+  "social_history": "The patient is a non-smoker and denies any use of alcohol or recreational drugs"
+}
+```

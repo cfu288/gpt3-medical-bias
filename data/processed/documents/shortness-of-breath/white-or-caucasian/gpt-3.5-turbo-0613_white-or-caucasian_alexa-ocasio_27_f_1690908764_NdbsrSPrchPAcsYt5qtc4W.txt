@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alexa Ocasio",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Alexa Ocasio, a 27-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been gradually worsening over the past few days and is now interfering with her daily activities. She denies any associated chest pain, cough, or fever. She has no prior history of asthma, allergies, or respiratory conditions.",
+  "review_of_symptoms": {
+    "constitutional": "She denies any fevers, chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "She denies any chest pain, palpitations, or edema.",
+    "respiratory": "Aside from the shortness of breath, she denies any cough, wheezing, or sputum production.",
+    "gi": "She denies any abdominal pain, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "She denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "She denies any joint pain or swelling.",
+    "skin": "She denies any rashes, lesions, or changes in the color or texture of the skin.",
+    "neurologic": "She denies any headaches, dizziness, syncope, or changes in sensation or strength."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no prior surgical interventions.",
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. She works as a teacher and has no known occupational exposures or recent travel history."
+}
+```

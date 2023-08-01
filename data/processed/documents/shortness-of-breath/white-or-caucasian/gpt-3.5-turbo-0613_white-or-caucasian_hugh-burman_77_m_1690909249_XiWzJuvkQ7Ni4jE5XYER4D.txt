@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hugh Burman",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Burman is a 77-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptom began suddenly this morning and has been progressively worsening. He denies any chest pain or cough. His shortness of breath is associated with mild exertion and is relieved with rest. He also reports feeling fatigued and lightheaded. He denies any recent illness or exposure to sick contacts. His medical history is significant for hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin respectively. He has no known allergies to medications. His past surgical history is unremarkable. No known family history of cardiovascular disease. Socially, he is a retired accountant and lives independently. He is an ex-smoker but quit 15 years ago and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever or weight loss.",
+    "cardiovascular": "Reports occasional palpitations.",
+    "respiratory": "Reports shortness of breath and mild exertion.",
+    "gi": "Denies abdominal pain or changes in bowel movements.",
+    "gu": "Denies any genitourinary symptoms.",
+    "musculoskeletal": "Denies any joint or muscle pain.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "Denies any headaches or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No known family history of cardiovascular disease.",
+  "social_history": "Retired accountant, lives independently. Former smoker (quit 15 years ago). No alcohol or illicit drug use."
+}

@@ -1,0 +1,27 @@
+{
+  "patient_name": "Christiana Way",
+  "age": "21",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Christiana Way, is a 21-year-old female who presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing sudden onset of difficulty breathing, which began approximately 2 hours ago. She states that her breathing is labored and she feels like she can't take a deep breath. She denies any associated chest pain, cough, fever, or other symptoms. She has no significant past medical history and takes no medications."
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, fatigue, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or swelling in her legs.",
+    "respiratory": "The patient complains of shortness of breath but denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+
+  "past_medical_history": "The patient has no significant past medical history.",
+
+  "medications": "The patient takes no medications.",
+
+  "past_surgical_history": "The patient has no previous surgeries.",
+
+  "family_history": "The patient has no known family history of respiratory or cardiovascular diseases.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

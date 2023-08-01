@@ -1,0 +1,21 @@
+{
+  "patient_name": "Laurence Smithhart",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that started this morning. He states that he was sleeping and woke up feeling very short of breath. He denies any associated symptoms such as chest pain, cough, or fever. He has a history of smoking for 30 years but quit 5 years ago. He has no known allergies and is not currently taking any medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath but denies cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rash or changes in the skin.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and smoking.",
+  "medications": "Patient takes metoprolol and atorvastatin daily for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "No significant family history of cardiovascular disease or respiratory illness.",
+  "social_history": "Patient is a former smoker and drinks alcohol occasionally."
+}

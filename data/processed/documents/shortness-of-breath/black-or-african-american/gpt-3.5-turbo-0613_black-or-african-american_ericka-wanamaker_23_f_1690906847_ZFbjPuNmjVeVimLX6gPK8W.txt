@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ericka Wanamaker",
+  "age": "23",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient Ericka Wanamaker, a 23-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing difficulty breathing for the past 24 hours. She states that the shortness of breath is worse with exertion and slightly relieved by resting. She denies any chest pain, cough, fever, or other associated symptoms. It is important to note that the patient has a history of asthma, for which she takes albuterol as needed. She has not used her inhaler today. On examination, the patient is tachypneic with a respiratory rate of 24 breaths per minute. She is using accessory muscles to breathe. Lung auscultation reveals decreased breath sounds bilaterally with diffuse wheezing. The rest of the examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion, but denies cough or sputum production.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives with her husband who is a non-smoker as well."
+}
+```

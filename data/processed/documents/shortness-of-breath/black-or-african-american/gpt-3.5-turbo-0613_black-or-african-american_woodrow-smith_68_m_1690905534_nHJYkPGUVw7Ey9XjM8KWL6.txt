@@ -1,0 +1,21 @@
+{
+  "patient_name": "Woodrow Smith",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents with a chief complaint of shortness of breath. Symptoms started 3 days ago and have progressively worsened. Patient reports feeling short of breath with minimal exertion. Denies chest pain, fever, cough, or wheezing. Patient also reports generalized fatigue and difficulty sleeping.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports generalized fatigue.",
+    "cardiovascular": "No reported symptoms of chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath with minimal exertion.",
+    "gi": "No reported symptoms of nausea, vomiting, or abdominal pain.",
+    "gu": "No reported symptoms of urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "No reported symptoms of joint pain or muscle weakness.",
+    "skin": "No reported symptoms of rash, itching, or discoloration.",
+    "neurologic": "No reported symptoms of headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Hypertension diagnosed 5 years ago, currently managed with medication. Hyperlipidemia diagnosed 3 years ago, currently managed with medication.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension and Atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient had cholecystectomy in 2008. Otherwise, no reported surgical history.",
+  "family_history": "No reported family history of cardiovascular disease, pulmonary disease, or malignancies.",
+  "social_history": "Patient has a 35 pack-year smoking history. Drinks alcohol socially on occasion, but denies excessive use or any history of alcohol abuse."
+}

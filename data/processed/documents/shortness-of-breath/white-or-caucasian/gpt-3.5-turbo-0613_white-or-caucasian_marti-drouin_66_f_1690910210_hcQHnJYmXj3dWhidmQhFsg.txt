@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marti Drouin",
+  "age": "66",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started 2 days ago and have been progressively worsening. Patient reports feeling tired and fatigued. Denies any chest pain or cough. No history of trauma or recent illness. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain or changes in bowel movements",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine, atorvastatin",
+  "past_surgical_history": "Cholecystectomy, appendectomy",
+  "family_history": "No significant family history of cardiac or respiratory conditions",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

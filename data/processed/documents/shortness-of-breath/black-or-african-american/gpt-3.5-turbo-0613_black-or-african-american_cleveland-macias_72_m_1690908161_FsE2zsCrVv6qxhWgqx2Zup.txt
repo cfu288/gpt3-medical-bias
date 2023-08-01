@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cleveland Macias",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Macias is a 72-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that the shortness of breath started suddenly approximately 2 hours ago. He denies any associated chest pain or dizziness. Mr. Macias states that he has a history of hypertension and takes medication for it. He also reports occasional use of an albuterol inhaler for his chronic obstructive pulmonary disease (COPD). He denies any recent illness or exposure to sick contacts. The patient reports no recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, fatigue, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "In addition to shortness of breath, the patient denies cough, wheezing, or sputum production.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "The patient denies headaches, dizziness, syncope, or changes in vision."
+  },
+  "past_medical_history": "The patient's past medical history includes hypertension and COPD.",
+  "medications": "The patient takes medication for hypertension and uses an albuterol inhaler as needed for COPD symptoms.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a former smoker, having quit 10 years ago. He denies alcohol or illicit drug use."
+}
+```

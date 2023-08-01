@@ -1,0 +1,21 @@
+{
+  "patient_name": "Velma Roberts",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Velma Roberts, an 82-year-old female, presents to the emergency department with chief complaint of shortness of breath. The patient reports that the shortness of breath started suddenly about 2 hours ago while she was walking up a flight of stairs. She describes the shortness of breath as severe, with associated dizziness and palpitations. She denies any chest pain or cough. She has a history of hypertension and takes medication for it. The patient states she has never experienced similar symptoms in the past. On physical examination, the patient appears anxious and is using accessory muscles to breathe. Her respiratory rate is 22 breaths per minute, heart rate is 110 beats per minute, blood pressure is 160/90 mmHg, and oxygen saturation is 92% on room air. Auscultation of the lungs reveals decreased breath sounds bilaterally with expiratory wheezing. EKG shows sinus tachycardia. Initial interventions include administration of supplemental oxygen via nasal cannula, nebulized bronchodilators, and IV fluids. The patient is being closely monitored for any changes in her condition.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "The patient reports palpitations and dizziness.",
+    "respiratory": "The patient presents with severe shortness of breath and wheezing on examination.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "The patient takes antihypertensive medication for her hypertension.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient does not have any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

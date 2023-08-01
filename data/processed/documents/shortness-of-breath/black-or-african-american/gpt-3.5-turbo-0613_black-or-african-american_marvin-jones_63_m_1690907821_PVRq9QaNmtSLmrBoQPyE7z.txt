@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marvin Jones",
+  "age": "63",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Marvin Jones, a 63-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago. He describes it as a sensation of difficulty breathing and states that it is worse with exertion. He denies any associated chest pain, cough, fever, or other respiratory symptoms. He also reports no recent travel or exposure to sick contacts. He has a past medical history of hypertension and hyperlipidemia. He takes medications for these conditions and is compliant with his medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "As mentioned in the chief complaint, the patient complains of shortness of breath. He denies any cough or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is taking antihypertensive medication and a statin for his medical conditions.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's family history is significant for cardiovascular disease in his immediate family. His father had a heart attack at the age of 68.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is retired and lives with his wife."
+}

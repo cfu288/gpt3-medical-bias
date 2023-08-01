@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ron Stewart",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ron Stewart, a 77-year-old male, presents to the emergency department with complaints of shortness of breath. According to the patient, the symptom has been worsening over the past few days and is associated with mild exertion. He also reports a productive cough with yellowish sputum. No fever or chest pain is reported. The patient denies any recent respiratory infections or known allergies. He states that he has a history of smoking and stopped approximately 10 years ago.",
+  "review_of_symptoms": {
+    "constitutional": null,
+    "cardiovascular": null,
+    "respiratory": "Shortness of breath, productive cough with yellowish sputum",
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "The patient's past medical history includes hypertension, hyperlipidemia, and a remote history of smoking.",
+  "medications": "The patient's current medications include lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a retired accountant and lives alone. He denies any alcohol or illicit drug use. He used to smoke but quit approximately 10 years ago."
+}
+```

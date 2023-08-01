@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dwight Briggs",
+  "age": "26",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath that started earlier today. Patient reports that the shortness of breath is associated with coughing and wheezing. Patient denies any chest pain or pressure. Shortness of breath is worsened with exertion and improves with rest. Patient reports no recent illnesses or exposures to any respiratory irritants. No previous history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling",
+    "respiratory": "Positive for cough and wheezing; Negative for sputum production, hemoptysis, or pleuritic chest pain",
+    "gi": "Negative for nausea, vomiting, or abdominal pain",
+    "gu": "Negative for dysuria, frequency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or pruritus",
+    "neurologic": "Negative for headache, dizziness, or focal weakness"
+  },
+  "past_medical_history": "No known medical conditions",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory disorders",
+  "social_history": "Non-smoker, no known exposure to environmental toxins"
+}

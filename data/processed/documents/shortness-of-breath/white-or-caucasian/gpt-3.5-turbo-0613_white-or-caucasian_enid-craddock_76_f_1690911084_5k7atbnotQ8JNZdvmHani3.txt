@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Enid Craddock",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Enid Craddock, is a 76-year-old female who presents to the Emergency Department with a chief complaint of shortness of breath. She reports that the shortness of breath started several hours ago and has been gradually worsening. She denies any associated chest pain or cough. She states that she has been a smoker for 40 years but quit smoking 15 years ago.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Reports palpitations and occasional episodes of lightheadedness.",
+    "respiratory": "Shortness of breath with minimal exertion.",
+    "gi": "Denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Reports no changes in vision, headache, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include amlodipine 5mg daily for hypertension, atorvastatin 40mg daily for hyperlipidemia, and ibuprofen 600mg as needed for osteoarthritis.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any major medical conditions.",
+  "social_history": "The patient is a former smoker with a 40 pack-year history, but she quit smoking 15 years ago. She denies any alcohol or illicit drug use."
+}
+```

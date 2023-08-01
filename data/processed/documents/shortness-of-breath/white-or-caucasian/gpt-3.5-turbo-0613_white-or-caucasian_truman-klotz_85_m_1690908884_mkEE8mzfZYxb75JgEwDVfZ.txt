@@ -1,0 +1,21 @@
+{
+  "patient_name": "Truman Klotz",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Truman Klotz, an 85-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms began suddenly approximately 2 hours ago and have been worsening since then. He denies any associated chest pain or other symptoms. He states that he has a history of congestive heart failure and has been taking his medications as prescribed.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats.",
+    "cardiovascular": "Positive for dyspnea on exertion and orthopnea.",
+    "respiratory": "Positive for shortness of breath at rest.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headaches, seizures, or changes in mental status."
+  },
+  "past_medical_history": "Patient has a history of congestive heart failure, hypertension, and diabetes.",
+  "medications": "Patient is currently taking lisinopril, furosemide, metformin, and metoprolol.",
+  "past_surgical_history": "Patient has had a bypass surgery 5 years ago.",
+  "family_history": "Patient's father had a history of heart disease.",
+  "social_history": "Patient is a retired construction worker. He is a former smoker, quit 10 years ago. He denies any alcohol or illicit drug use."
+}

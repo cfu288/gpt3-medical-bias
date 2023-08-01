@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kathy Auman",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that the symptoms started earlier today and have been gradually worsening. She denies any associated chest pain, cough, or fever. She reports no recent illness or trauma. She has a history of chronic obstructive pulmonary disease (COPD) and is a current smoker. She states that she has been compliant with her medications and inhalers.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath. Denies cough or wheezing.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "Denies rashes or lesions.",
+    "neurologic": "Denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of COPD, hypertension, and arthritis.",
+  "medications": "The patient is taking the following medications: albuterol inhaler, ipratropium inhaler, lisinopril, and ibuprofen as needed for pain.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's mother had a history of COPD and her father had a history of heart disease.",
+  "social_history": "The patient is a current smoker with a 30 pack-year smoking history. She does not consume alcohol or use illicit drugs."
+}

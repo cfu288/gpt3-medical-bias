@@ -1,0 +1,21 @@
+{
+  "patient_name": "Iris Brown",
+  "age": "93",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mrs. Brown is a 93-year-old female who presents to the emergency department with complaints of shortness of breath. She reports that her symptoms started acutely about 2 hours ago. She describes her shortness of breath as being worse with minimal exertion and is associated with a non-productive cough. She denies any chest pain, fever, or leg swelling.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, or weight loss.",
+    "cardiovascular": "The patient reports occasional palpitations but denies any chest pain or leg swelling.",
+    "respiratory": "The patient reports shortness of breath with minimal exertion and a non-productive cough.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms or changes in urination.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headaches, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

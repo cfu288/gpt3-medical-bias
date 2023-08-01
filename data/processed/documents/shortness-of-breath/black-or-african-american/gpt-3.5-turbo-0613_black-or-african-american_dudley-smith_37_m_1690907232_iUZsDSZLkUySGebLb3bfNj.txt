@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dudley Smith",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Dudley Smith presents to the emergency department with complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past few days. He describes the shortness of breath as sudden in onset and worsening with minimal exertion. He denies any chest pain, cough, or fever. Patient reports no known allergies and has not sought treatment for this issue prior to today.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath as chief complaint.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or changes in skin color or texture.",
+    "neurologic": "No numbness, weakness, or changes in mental status."
+  },
+  "past_medical_history": "Patient reports a history of asthma, diagnosed in childhood. He has not required hospitalization for asthma since childhood and does not use a rescue inhaler regularly. Patient also has a history of obesity and hypertension.",
+  "medications": "Patient takes a daily medication for hypertension, prescribed by his primary care physician. He does not currently take any medications for his asthma.",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No family history of asthma or other respiratory conditions.",
+  "social_history": "Patient reports being a lifelong non-smoker. He lives with his spouse and two children and denies any exposure to second-hand smoke. Patient works as an office manager and denies any occupational exposures or recent travel."
+}

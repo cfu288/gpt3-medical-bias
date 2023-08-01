@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dudley Mayo",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of sudden onset shortness of breath. Patient reports that the symptoms started approximately 2 hours ago. He describes the shortness of breath as severe, with difficulty in taking deep breaths. The patient denies any recent respiratory infections or exposure to sick contacts. He also reports no history of similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient presents with shortness of breath as the primary complaint.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and simvastatin for these conditions.",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "Patient reports no previous surgeries.",
+  "family_history": "Patient reports a family history of cardiovascular disease.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He is married and works as a high school teacher."
+}

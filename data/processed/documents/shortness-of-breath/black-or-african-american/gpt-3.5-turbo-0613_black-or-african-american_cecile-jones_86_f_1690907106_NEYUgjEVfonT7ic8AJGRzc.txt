@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecile Jones",
+  "age": "86",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. Symptoms started 2 days ago and have been progressively worsening. Patient denies any associated chest pain or cough. Patient states that she has been experiencing fatigue and weakness with minimal exertion. No other respiratory symptoms. Patient has a history of chronic obstructive pulmonary disease (COPD) and is a former smoker.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and weakness",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath, no cough or wheezing",
+    "gi": "No nausea, vomiting, or abdominal pain",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No changes in sensation or coordination"
+  },
+  "past_medical_history": "Chronic obstructive pulmonary disease (COPD), Hypertension",
+  "medications": "Albuterol inhaler, Lisinopril",
+  "past_surgical_history": "Laparoscopic cholecystectomy",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Former smoker with a 30 pack-year history, has quit smoking 10 years ago."
+}

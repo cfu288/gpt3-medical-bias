@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willis Barnett",
+  "age": "55",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Barnett, is a 55-year-old male who presented to the ED with complaints of shortness of breath. He reports that the shortness of breath has been present for the past 2 days and has been progressively worsening. Mr. Barnett states that he is experiencing difficulty breathing even at rest and that he has been coughing up pink, frothy sputum. He denies any associated chest pain or fevers. Upon further questioning, he reports a history of smoking for 30 years, with a 20-pack year smoking history. He also mentions a history of hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Positive for shortness of breath and pink, frothy sputum.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Current smoker (30 years, 20 pack-years)"
+}

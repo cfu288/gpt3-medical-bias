@@ -1,0 +1,21 @@
+{
+  "patient_name": "Oliver Dallas",
+  "age": "65",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Dallas presents to the emergency department with complaint of shortness of breath that started suddenly. The patient reports that the symptoms have been progressively worsening over the past few hours. He denies any recent illnesses or injuries.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or fatigue.",
+    "cardiovascular": "The patient reports a history of hypertension and takes medication for it. He denies any chest pain or palpitations.",
+    "respiratory": "The patient complains of shortness of breath with minimal exertion. He denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any musculoskeletal symptoms such as joint pain or stiffness.",
+    "skin": "The patient denies any skin rashes, lesions, or changes.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or weakness.",
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. He denies any other significant medical history.",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

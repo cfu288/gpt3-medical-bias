@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tarun Murphy",
+  "age": "18",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tarun Murphy, an 18-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about one hour ago while he was at home. He states that he has never experienced this symptom before and that it has been progressively worsening since onset. There is no associated chest pain or cough. The patient denies any fever, chills, or recent illness. He also denies any recent travel or exposure to sick contacts. Upon further inquiry, the patient reveals a past medical history of asthma, for which he uses an albuterol inhaler as needed. He reports that his asthma symptoms have been well controlled in recent months with minimal use of his inhaler. He denies any recent changes in his asthma management or exposure to triggers. To further evaluate the patient's shortness of breath, a thorough review of symptoms was conducted.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or lightheadedness.",
+    "respiratory": "The patient reports shortness of breath as his chief complaint. He denies any cough, sputum production, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma.",
+  "medications": "Albuterol inhaler - as needed for asthma symptoms",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient denies any significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He is a high school student and lives at home with his parents. He has no recent travel history or exposure to sick contacts."
+}

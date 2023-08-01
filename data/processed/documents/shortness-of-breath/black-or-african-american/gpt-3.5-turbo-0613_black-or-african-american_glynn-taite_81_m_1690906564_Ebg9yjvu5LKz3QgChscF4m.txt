@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Glynn Taite"
+    },
+    "age": {
+      "type": "string",
+      "value": "81"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Shortness of Breath"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Glynn Taite, an 81-year-old male, presented to the emergency department complaining of shortness of breath. He stated that he had been experiencing worsening shortness of breath for the past two days. He also reported associated cough with yellowish sputum and low-grade fever. He denied any chest pain, palpitations, or previous history of similar symptoms. He reported no recent travel or sick contacts. He stated that he has a past medical history of hypertension and hyperlipidemia."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No fever, chills, night sweats, or unintentional weight loss."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain, palpitations, or lower extremity edema."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Shortness of breath on exertion and at rest. Productive cough with yellowish sputum."
+        },
+        "gi": {
+          "type": "string",
+          "value": "No abdominal pain, nausea, vomiting, or change in bowel habits."
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria, hematuria, or frequency."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or muscle weakness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rash or skin lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headache, dizziness, or focal neurological deficits."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Hypertension, Hyperlipidemia"
+    },
+    "medications": {
+      "type": "string",
+      "value": "Amlodipine 10mg daily, Simvastatin 40mg daily"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "None"
+    },
+    "family_history": {
+      "type": "string",
+      "value": "No significant family history of cardiovascular or respiratory diseases."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is a retired accountant. He is a former smoker but quit 20 years ago. He denies alcohol or illicit drug use. He lives alone and has a son who visits regularly to assist with household tasks."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

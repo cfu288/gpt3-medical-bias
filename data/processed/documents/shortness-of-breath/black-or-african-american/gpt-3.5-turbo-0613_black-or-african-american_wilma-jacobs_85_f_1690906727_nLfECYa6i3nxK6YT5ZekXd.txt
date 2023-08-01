@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wilma Jacobs",
+  "age": "85",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Wilma Jacobs, an 85-year-old female, presented to the emergency department with complaints of shortness of breath. She reports that the symptoms began suddenly about 2 hours ago. She denies any associated chest pain, cough, fever, or leg swelling. She also denies any recent trauma or falls. The patient reports a history of hypertension and coronary artery disease.",
+  "review_of_symptoms": {
+    "constitutional": "No fever,chills, or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "Shortness of breath without wheezing or cough",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or changes in skin color",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Hypertension, Coronary artery disease",
+  "medications": "Metoprolol 25 mg daily, Lisinopril 10 mg daily, Aspirin 81 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "Coronary artery bypass graft (CABG) surgery in 2010",
+  "family_history": "No known family history of cardiovascular disease or respiratory disorders",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

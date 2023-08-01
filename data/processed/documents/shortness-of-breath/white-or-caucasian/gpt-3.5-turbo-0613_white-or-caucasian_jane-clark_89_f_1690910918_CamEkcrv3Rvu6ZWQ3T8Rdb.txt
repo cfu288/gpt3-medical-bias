@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Clark",
+  "age": "89",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jane Clark, an 89-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that the shortness of breath started suddenly this morning and has been progressively worsening throughout the day. She denies any chest pain, cough, fever, or leg swelling. The patient also states that she has a history of congestive heart failure and has been taking diuretics.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for palpitations and mild chest tightness",
+    "respiratory": "Positive for shortness of breath on exertion",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or weakness",
+    "skin": "Negative for rash or changes in skin color",
+    "neurologic": "Negative for dizziness, syncope, or weakness"
+  },
+  "past_medical_history": "Congestive heart failure, hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Diuretics, beta blocker, ACE inhibitor, statin",
+  "past_surgical_history": "Total knee replacement in 2015",
+  "family_history": "Positive for coronary artery disease in both parents",
+  "social_history": "The patient is a non-smoker and lives alone. She does not consume alcohol."
+}

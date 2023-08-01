@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lee Smith",
+  "age": "36",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath for the past 3 hours. He reports no fever, cough, or chest pain. He denies any recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or chest pain.",
+    "respiratory": "Shortness of breath with exertion. No cough or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal" : "No joint pain or swelling.",
+    "skin": "No rashes, itching, or changes in the skin.",
+    "neurologic": "No headaches, dizziness, or numbness."
+  },
+  "past_medical_history": "Hypertension, well controlled with lisinopril.",
+  "medications": "Lisinopril 20 mg daily",
+  "past_surgical_history": "Appendectomy in 2010.",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Non-smoker. Occasional alcohol use."
+}

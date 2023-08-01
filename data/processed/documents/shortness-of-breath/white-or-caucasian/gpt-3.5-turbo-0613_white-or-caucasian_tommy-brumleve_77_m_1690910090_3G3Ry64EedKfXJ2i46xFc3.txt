@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Brumleve",
+  "age": "77",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. He states that he has been experiencing this symptom for the past two days. He denies any associated chest pain, cough, or fever. He states that he has a history of chronic obstructive pulmonary disease (COPD) and has been compliant with his inhalers.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, or weight loss.",
+    "cardiovascular": "Denies palpitations or chest pain.",
+    "respiratory": "Reports shortness of breath at rest and with minimal exertion.",
+    "gi": "Denies nausea, vomiting, or abdominal pain.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies any rash or skin lesions.",
+    "neurologic": "Denies any changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient's past medical history is significant for chronic obstructive pulmonary disease (COPD), hypertension, and diabetes mellitus.",
+  "medications": "The patient is currently taking albuterol inhaler two puffs every 4 hours as needed for shortness of breath, salmeterol/fluticasone inhaler twice daily for maintenance of COPD, metoprolol for hypertension, and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is noncontributory.",
+  "social_history": "The patient is a retired construction worker. He denies any tobacco or alcohol use. He lives alone and has no known allergens."
+}

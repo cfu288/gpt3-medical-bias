@@ -1,0 +1,21 @@
+{
+  "patient_name": "Susie Reese",
+  "age": "70",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath. She reports that the symptoms started earlier today and have been progressively worsening. She denies any chest pain, cough, or fever. She also denies any recent travel or exposure to sick contacts. She has a history of chronic obstructive pulmonary disease (COPD) and is currently prescribed albuterol inhaler and tiotropium inhaler for symptom control. She states that her inhalers have not been providing relief as they usually do.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath with minimal exertion.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies dysuria or frequency.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, lesions, or itching.",
+    "neurologic": "Patient denies headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of chronic obstructive pulmonary disease (COPD), hypertension, and type 2 diabetes.",
+  "medications": "The patient is currently taking albuterol inhaler and tiotropium inhaler for COPD, lisinopril for hypertension, and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of respiratory diseases, cardiovascular diseases, or malignancies.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She lives alone and has no history of occupational exposure."
+}

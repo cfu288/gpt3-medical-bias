@@ -1,0 +1,21 @@
+{
+  "patient_name": "Susie Fanfan",
+  "age": "89",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with shortness of breath, which started suddenly earlier today. She reports that the shortness of breath is associated with cough and wheezing. She denies any chest pain, fever, or chills. She also reports feeling tired and weak. The patient reports that her shortness of breath has been worsening over the past few hours.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss or fever.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "As mentioned previously, the patient reports shortness of breath associated with cough and wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movement.",
+    "gu": "The patient denies any urinary complaints.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF). She takes daily medications for these conditions.",
+  "medications": "The patient takes albuterol inhaler and furosemide daily for her COPD and CHF, respectively.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has no significant family history of respiratory or cardiac diseases.",
+  "social_history": "The patient is a retired school teacher. She lives alone and denies any tobacco or alcohol use."
+}

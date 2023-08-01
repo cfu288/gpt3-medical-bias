@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hilda Odum",
+  "age": "91",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Hilda Odum, a 91-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing gradually worsening shortness of breath over the past 2 days. She reports that the shortness of breath is worse with exertion and has been associated with a cough that produces white sputum. She denies any chest pain or wheezing. The patient states that she has a history of congestive heart failure and is on medications for this condition. She also reports a past medical history significant for hypertension and diabetes. She denies any recent travel, sick contacts, or exposure to chemicals or irritants. Upon initial examination, the patient is alert and oriented. She appears to be in respiratory distress and is using accessory muscles to breathe. Her vital signs show a blood pressure of 150/90 mmHg, heart rate of 110 beats per minute, respiratory rate of 30 breaths per minute, and oxygen saturation of 88% on room air. Her lungs reveal bilateral crackles upon auscultation. The rest of her physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports subjective fever and chills.",
+    "cardiovascular": "Patient reports occasional palpitations but denies any chest pain.",
+    "respiratory": "Patient reports shortness of breath that has worsened over the past 2 days. She also reports a cough with white sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary patterns.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Congestive heart failure, hypertension, diabetes",
+  "medications": "Patient is currently taking medications for her congestive heart failure, including diuretics and an ACE inhibitor. She also takes medications for her hypertension and diabetes.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases",
+  "social_history": "Patient lives alone and is independent in her activities of daily living. She denies any tobacco or alcohol use."
+}

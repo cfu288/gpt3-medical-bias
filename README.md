@@ -1,4 +1,4 @@
-# What's In a Name: Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Medical History Note Completions And Providing A Patient's Name
+# What's In a Name: Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Medical History Note Completions From A Patient's Name
 
 We ask GPT to generate medical histories given only a patient's name. Does GPT give different responses if we use names more commonly used by one race vs another?
 
@@ -6,11 +6,11 @@ The goal is to see if there is any implicit bias shown by GPT in a medical conte
 
 ## Generating accurate cohorts for African-American and Caucasian patients
 
-We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each dataset contains the mock patient's first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
+We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each mock patient is made up of the following properties: first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
 
 However, there may be implicit gender and age biases in the names of the voter data.
 
-In order to generate age data for each generated patient name, we attempt to estimate an age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods.
+In order to generate age data for each generated patient name, we attempt to estimate an age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods. To simplify cohort generation, we limit the genders of the mock patients to "Male" and "Female".
 
 Neither of these approaches have yet been validated as far as I am aware.
 
@@ -26,12 +26,16 @@ See `propensity_score_matching.py` to see how the the final matched cohorts were
 
 ## Generating the Medical History Documents From Cohort Data
 
-See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$15 using the gpt-3-turbo model.
+In the prompt, we ask OpenAI to generate notes using common chief complaints patients may present with to the emergency department:
 
-In the prompt, we pick common chief complaints patients may present with
-- chest pain
-- abdominal pain
-- fever
+- Abdominal pain
+- Chest pain
+- Fever
+- Shortness of breath
+
+We also provide OpenAI with the name, age, and gender of the patient. Since age and gender are controlled between the two cohorts, the only independent variable should be the name of the patient.
+
+See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$15 using the gpt-3-turbo model.
 
 The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
 
@@ -41,7 +45,7 @@ All generated documents can be found [here](/data/processed/documents/).
 
 Things we will explore in the generated GPT medical history documents:
 
-- Frequency of words used in the African-American vs Caucasian corpus 
+- Frequency of words used in the African-American vs Caucasian corpus
 - Uses of medications in the African-American vs Caucasian corpus
 - Medical conditions found in the African-American vs Caucasian corpus
 
@@ -93,3 +97,5 @@ jupyter lab
 Rosenman, E.T.R., Olivella, S. & Imai, K. Race and ethnicity data for first, middle, and surnames. Sci Data 10, 299 (2023). https://doi.org/10.1038/s41597-023-02202-2
 
 A. Kline and Y. Luo, PsmPy: A Package for Retrospective Cohort Matching in Python, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022, pp. 1354-1357, doi: 10.1109/EMBC48229.2022.9871333.
+
+Nawar EW, Niska RW, Xu J. National Hospital Ambulatory Medical Care Survey: 2005 emergency department summary. Adv Data. 2007;(386):1-32.

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vince Smith",
+  "age": "61",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Vince Smith, a 61-year-old male, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, he was at rest when he suddenly started experiencing difficulty breathing. He states that the shortness of breath has been progressively worsening over the past few hours and is associated with cough and wheezing. He denies any chest pain or palpitations. The patient reports no recent illnesses or exposure to sick contacts. He does not have a history of asthma or chronic obstructive pulmonary disease. His vital signs on arrival are as follows: blood pressure 140/90 mmHg, heart rate 90 bpm, respiratory rate 24 breaths per minute, oxygen saturation 94% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "Shortness of breath, cough, wheezing",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled on lisinopril 10 mg daily.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No previous surgical procedures",
+  "family_history": "Negative for any significant family history of lung disease or cardiac conditions",
+  "social_history": "Patient is a lifelong nonsmoker and denies alcohol or illicit drug use"
+}

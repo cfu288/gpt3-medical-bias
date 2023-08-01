@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Augustin Chester",
+  "age": "28",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. The patient reports associated chest pain and a dry cough. There is no history of trauma or recent illness.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No palpitations or chest pain at rest.",
+    "respiratory": "Shortness of breath with exertion, cough, and chest pain.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a history of asthma, but no recent exacerbations.",
+  "medications": "The patient currently takes albuterol as needed for asthma symptoms.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory diseases.",
+  "social_history": "The patient denies smoking, alcohol use, and drug use. There is no occupational exposure to respiratory irritants."
+}
+```

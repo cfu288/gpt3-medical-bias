@@ -1,0 +1,21 @@
+{
+  "patient_name": "Karma Assmann",
+  "age": "19",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms began earlier today and have been gradually worsening. He denies any associated chest pain, cough, or fever. The patient reports no recent travel or sick contacts. He states that he has a history of mild asthma, but has not required any medication for it in several years. On further questioning, the patient admits to smoking marijuana occasionally. He denies any current illicit drug use. On physical examination, the patient appears acutely ill. He is in mild respiratory distress with increased work of breathing. Lung auscultation reveals decreased breath sounds and prolonged expiration. Heart sounds are normal. No wheezing or crackles appreciated. Vital signs: HR 110, BP 140/90, RR 24, O2 sat 90% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Shortness of breath is the patient's chief complaint.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies dysuria or urinary frequency.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes or skin lesions.",
+    "neurologic": "Patient denies any weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Mild asthma",
+  "medications": "None",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Occasional marijuana use",
+}

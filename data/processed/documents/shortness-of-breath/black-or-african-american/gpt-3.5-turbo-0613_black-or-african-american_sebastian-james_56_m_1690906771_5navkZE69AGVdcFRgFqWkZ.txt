@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sebastian James",
+  "age": "56",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath that has been worsening over the past 2 days. He reports difficulty breathing with minimal exertion and has also noticed increasing fatigue and a cough with yellow sputum production. He denies any chest pain, fever, or chills. Patient reports a history of smoking for 30 years, but quit 5 years ago. His medical history is significant for hypertension and hyperlipidemia.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or fevers.",
+    "cardiovascular": "Patient reports mild edema in his lower extremities but denies any chest pain, palpitations, or syncope.",
+    "respiratory": "Patient reports increasing shortness of breath, cough with yellow sputum production, and denies any wheezing or hemoptysis.",
+    "gi": "Patient denies any gastrointestinal symptoms such as abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms such as dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Patient reports no joint pain or muscle weakness.",
+    "skin": "Patient denies any skin rash, lesions, or changes.",
+    "neurologic": "Patient denies any headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Father had a history of coronary artery disease",
+  "social_history": "Patient is a former smoker, quit 5 years ago. Denies alcohol or illicit drug use."
+}

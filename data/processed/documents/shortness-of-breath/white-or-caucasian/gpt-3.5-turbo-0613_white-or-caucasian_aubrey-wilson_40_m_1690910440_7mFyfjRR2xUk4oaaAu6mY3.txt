@@ -1,0 +1,21 @@
+{
+  "patient_name": "Aubrey Wilson",
+  "age": "40",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Wilson presents to the emergency department with a chief complaint of shortness of breath. He reports that he has been experiencing worsening shortness of breath for the past 2 days. He states that the shortness of breath is associated with exertion and has limited his ability to perform daily activities such as walking or climbing stairs. He denies any chest pain, palpitations, or cough. He has a history of asthma but states that his symptoms are different from his typical asthma exacerbations. On further questioning, he reports occasional wheezing and cough. He denies any fever, chills, night sweats, weight loss, or changes in appetite.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, weight loss, or changes in appetite.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath with exertion, occasional wheezing and cough.",
+    "gi": "Denies nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or changes in urinary habits.",
+    "musculoskeletal": "No musculoskeletal symptoms.",
+    "skin": "No skin changes or rashes.",
+    "neurologic": "No neurologic symptoms."
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of respiratory or cardiac diseases.",
+  "social_history": "Nonsmoker. No alcohol or drug use."
+}

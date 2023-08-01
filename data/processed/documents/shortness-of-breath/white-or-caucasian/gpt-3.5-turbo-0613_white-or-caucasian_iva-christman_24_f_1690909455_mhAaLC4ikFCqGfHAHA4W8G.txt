@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Iva Christman",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents with a chief complaint of shortness of breath. She reports that the symptoms began abruptly approximately 1 hour ago. She describes the shortness of breath as constant and worsening. She denies any associated chest pain, cough, fever, or recent illness. She admits to experiencing some anxiety. There is no prior history of similar episodes. No alleviating or exacerbating factors have been identified. The patient denies any other significant symptoms or complaints at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, but no cough or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain, muscle weakness, or limitations.",
+    "skin": "No rash, pruritus, or wounds.",
+    "neurologic": "No dizziness, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. She denies any recent travel or exposure to sick contacts."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosetta Smith",
+  "age": "83",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient is an 83-year-old female presenting to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been gradually worsening over the past week and is now associated with mild chest discomfort. She denies any fever, cough, wheezing, or sputum production. She also denies any orthopnea or paroxysmal nocturnal dyspnea. Patient reports that she has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril 10 mg daily and simvastatin 20 mg daily. She has no known drug allergies. Patient has no history of smoking or alcohol abuse. She lives alone and is able to perform activities of daily living independently.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, night sweats, and unintentional weight loss.",
+    "cardiovascular": "Reports mild chest discomfort. Denies palpitations.",
+    "respiratory": "Shortness of breath is the primary complaint. Denies cough, wheezing, sputum production, orthopnea, and paroxysmal nocturnal dyspnea.",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea, and constipation.",
+    "gu": "Denies dysuria, hematuria, and changes in urinary frequency or urgency.",
+    "musculoskeletal": "Reports no joint pain.",
+    "skin": "Denies rash, itching, or lesions.",
+    "neurologic": "Reports no headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril 10 mg daily and simvastatin 20 mg daily.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient lives alone and is able to perform activities of daily living independently. No history of smoking or alcohol abuse."
+}

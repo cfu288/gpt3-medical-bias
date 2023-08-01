@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gloria Martin",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Gloria Martin, a 35-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about an hour ago while she was at home. She described the feeling as if she cannot get enough air in. She denies any chest pain, cough, or wheezing. She denies any recent illness or exposure to sick contacts. She states that she has never experienced this before and is concerned about her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any palpitations, chest pain, or edema.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma diagnosed in childhood but has not required any medications or hospitalizations for asthma in adulthood. She reports having seasonal allergies for which she takes over-the-counter antihistamines.",
+  "medications": "The patient takes over-the-counter antihistamines as needed for seasonal allergies.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports no significant family history of respiratory diseases, cardiovascular diseases, or cancers.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is married and works as a teacher."
+}
+```

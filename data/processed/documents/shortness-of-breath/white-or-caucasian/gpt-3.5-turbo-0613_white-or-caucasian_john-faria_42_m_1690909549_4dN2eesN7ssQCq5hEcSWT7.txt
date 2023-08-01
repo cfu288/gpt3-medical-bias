@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Faria",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, John Faria, a 42-year-old male, presented to the emergency department with complaints of shortness of breath. He states that he has been experiencing shortness of breath for the past 2 days, which has been progressively worsening. He denies any chest pain, cough, fever, or any other associated symptoms. He reports no recent travel or exposure to sick contacts. His medical history is significant for hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin for these conditions. On examination, the patient appears in mild distress with increased work of breathing. His vital signs are stable, with a respiratory rate of 24 breaths per minute and oxygen saturation of 92% on room air. Lung examination reveals decreased breath sounds bilaterally with diffuse expiratory wheezes. The remainder of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient complains of shortness of breath but denies any cough, sputum production, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or changes in urinary habits.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and diabetes mellitus in his parents.",
+  "social_history": "The patient is a former smoker, having quit 5 years ago. He denies any alcohol or recreational drug use. He works as an office manager and does not have any significant occupational exposures."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lenny Rogers",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. He states that the symptoms started approximately 2 hours ago and have been progressively worsening. Patient denies any associated chest pain, fever, cough, or wheezing. He reports a history of smoking and currently smokes 1 pack per day. Patient denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or pedal edema.",
+    "respiratory": "Patient reports shortness of breath at rest and with minimal exertion. Denies cough, sputum production, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No syncope, dizziness, or changes in speech or vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and previous myocardial infarction.",
+  "medications": "Lisinopril 20mg daily, Simvastatin 40mg daily, Aspirin 81mg daily.",
+  "past_surgical_history": "CABG x2 (Last one was 5 years ago)",
+  "family_history": "Father with coronary artery disease.",
+  "social_history": "Patient has a 40 pack-year smoking history."
+}

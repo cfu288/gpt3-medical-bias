@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Saeed Mcfadden",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Mcfadden, is a 34-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He states that he has been experiencing difficulty breathing for the past 2 days. He describes the shortness of breath as sudden onset, with a feeling of breathlessness even at rest. He denies any associated chest pain, cough, or fever. He also denies any recent travel or exposure to sick contacts. His shortness of breath has been progressively worsening, and he states that it is now affecting his ability to perform activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma, for which he uses an albuterol inhaler as needed. He reports no other significant medical history.",
+  "medications": "Albuterol inhaler as needed for asthma.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker with no history of alcohol or drug use. He works as a software engineer and denies any exposure to occupational or environmental hazards."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Barton",
+  "age": "88",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Barton is an 88-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning and has been gradually worsening throughout the day. He denies any associated chest pain, cough, or fever. He reports feeling lightheaded and fatigued due to the difficulty in breathing.",
+  "review_of_symptoms": {
+    "constitutional": "He reports generalized weakness and fatigue.",
+    "cardiovascular": "He denies any chest pain, palpitations, or swelling in his legs.",
+    "respiratory": "Shortness of breath is his primary symptom.",
+    "gi": "He denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "He denies any urinary symptoms.",
+    "musculoskeletal": "He reports generalized weakness but denies any joint pain or stiffness.",
+    "skin": "He denies any rashes or lesions.",
+    "neurologic": "He denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Barton has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg once daily, Atorvastatin 20 mg once daily.",
+  "past_surgical_history": "Mr. Barton has no past surgical history.",
+  "family_history": "There is no significant family history of cardiac or respiratory diseases.",
+  "social_history": "Mr. Barton is a retired executive. He is a former smoker, having quit 20 years ago. He denies any alcohol or drug use."
+}

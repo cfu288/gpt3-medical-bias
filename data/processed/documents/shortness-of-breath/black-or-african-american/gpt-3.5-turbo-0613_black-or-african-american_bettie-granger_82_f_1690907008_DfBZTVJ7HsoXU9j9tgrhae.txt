@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bettie Granger",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents today with complaints of shortness of breath that has been worsening over the past few days. She reports feeling tired and weak, and has noticed swelling in her ankles. She denies any chest pain or cough.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and weak.",
+    "cardiovascular": "Patient reports swelling in her ankles and denies any chest pain or palpitations.",
+    "respiratory": "Patient's chief complaint is shortness of breath.",
+    "gi": "Patient reports no gastrointestinal complaints.",
+    "gu": "Patient reports no genitourinary complaints.",
+    "musculoskeletal": "Patient reports no joint or muscle pain.",
+    "skin": "Patient reports no skin changes or rashes.",
+    "neurologic": "Patient does not have any neurologic complaints."
+  },
+  "past_medical_history": "Patient has a history of hypertension and chronic obstructive pulmonary disease (COPD).",
+  "medications": "Patient takes lisinopril for hypertension and uses albuterol inhaler for COPD symptoms as needed.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient denies any significant family medical history.",
+  "social_history": "Patient is a non-smoker and lives alone. She does not drink alcohol or use illicit drugs."
+}

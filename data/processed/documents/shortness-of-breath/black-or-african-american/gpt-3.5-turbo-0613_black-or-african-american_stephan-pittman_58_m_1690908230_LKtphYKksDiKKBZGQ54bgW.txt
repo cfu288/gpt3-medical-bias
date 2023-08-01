@@ -1,0 +1,22 @@
+{
+  "patient_name": "Stephan Pittman",
+  "age": "58",
+  "gender": "m",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Stephan Pittman is a 58-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started suddenly one hour ago and have been progressively worsening. He denies any associated chest pain or palpitations. He has a history of hypertension and is currently taking lisinopril. Other than his shortness of breath, he denies any other symptoms. He denies any recent illnesses or travel. He has never smoked and does not drink alcohol. On physical examination, the patient appears anxious and in mild respiratory distress. His vital signs are as follows: blood pressure 140/90 mmHg, heart rate 100 bpm, respiratory rate 24 bpm, oxygen saturation 92% on room air. Auscultation of the lungs reveals decreased breath sounds and scattered wheezing throughout. Cardiovascular examination is within normal limits. The abdomen is soft and non-tender. Neurological examination reveals no focal deficits. Given his history, physical examination findings, and vital signs, the differential diagnosis includes exacerbation of chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF), and pulmonary embolism (PE). EKG and chest X-ray have been ordered to further evaluate his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath, with associated wheezing and decreased breath sounds.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Non-smoker, non-drinker"
+}

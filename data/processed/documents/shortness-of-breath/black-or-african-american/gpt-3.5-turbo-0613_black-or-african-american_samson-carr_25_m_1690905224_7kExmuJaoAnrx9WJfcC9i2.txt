@@ -1,0 +1,21 @@
+{
+  "patient_name": "Samson Carr",
+  "age": "25",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Carr is a 25-year-old male who presents to the emergency department with complaints of shortness of breath. He reports that his symptoms started suddenly approximately 2 hours ago. He describes his shortness of breath as severe and states that it is associated with chest tightness and wheezing. He denies any preceding symptoms such as cough, fever, or chest pain. He notes that he has a history of asthma and has used his inhaler more frequently in the past few days.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or swelling in the legs.",
+    "respiratory": "Reports shortness of breath, wheezing, and chest tightness.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or pain.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of asthma since childhood. He has been using a short-acting bronchodilator inhaler as needed for symptom relief.",
+  "medications": "The patient is currently taking albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}

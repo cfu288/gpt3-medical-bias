@@ -1,0 +1,27 @@
+{
+  "patient_name": "Richelle Ragsdale",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Patient reports that symptoms started approximately 2 hours ago and have been progressively worsening. Patient denies any fever, cough, or chest pain. Patient reports no recent travel or exposure to sick contacts. Patient has no known history of respiratory conditions. Physical examination reveals tachypnea and increased work of breathing. Oxygen saturation is 90% on room air. Lung auscultation reveals bilateral crackles. Given the severity of symptoms and physical examination findings, further evaluation is warranted to determine the underlying cause of the shortness of breath.",
+
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath as the chief complaint. No cough or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies any urinary symptoms or changes.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "No skin abnormalities or rashes reported by the patient.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+
+  "past_medical_history": "Patient has no significant past medical history.",
+
+  "medications": "Patient denies taking any regular medications.",
+
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+
+  "family_history": "Patient has no significant family history of medical conditions.",
+
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

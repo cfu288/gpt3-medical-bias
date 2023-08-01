@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lorne Edmonds",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Edmonds presents to the emergency department with complaints of shortness of breath. Symptoms began approximately 3 hours ago and have worsened since then. He reports difficulty breathing, especially with exertion, and a sensation of tightness in his chest. He denies any associated pain, cough, or fever. He also denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Negative for palpitations or chest pain.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Edmonds has a past medical history of hypertension and hyperlipidemia. He takes amlodipine 10mg daily and atorvastatin 20mg daily.",
+  "medications": "Amlodipine 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for family history of heart disease or respiratory conditions.",
+  "social_history": "Mr. Edmonds is a non-smoker and does not consume alcohol. He works as a software engineer and denies any occupational exposures."
+}

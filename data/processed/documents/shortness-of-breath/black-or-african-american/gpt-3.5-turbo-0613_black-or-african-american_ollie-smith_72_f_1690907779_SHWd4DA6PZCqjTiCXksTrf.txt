@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ollie Smith",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Ollie Smith, a 72-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that her symptoms started approximately 3 hours ago and have been progressively worsening. She denies any associated chest pain or cough. She states that she has a history of hypertension and takes medication for it. She denies any recent illnesses or injuries. Upon further questioning, she reports that she has had similar episodes of shortness of breath in the past, but they usually resolve on their own.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, weight loss, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "Shortness of breath with exertion, worsened in the past few hours.",
+    "gi": "No nausea, vomiting, or abdominal pain.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or wounds.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unknown",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of heart or lung diseases.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

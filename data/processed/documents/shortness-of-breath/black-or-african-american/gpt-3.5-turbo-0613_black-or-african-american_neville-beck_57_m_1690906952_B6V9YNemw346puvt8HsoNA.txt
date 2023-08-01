@@ -1,0 +1,21 @@
+{
+  "patient_name": "Neville Beck",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Neville Beck, a 57-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about an hour ago while he was at rest. He describes it as a feeling of breathlessness and tightness in his chest. He denies any associated symptoms such as chest pain, cough, or wheezing. He states that he has never experienced shortness of breath like this before. Upon further questioning, he admits to a history of smoking for 25 years but quit 5 years ago. He also reports a recent history of upper respiratory tract infection symptoms, which resolved on their own. He denies any fevers, chills, or night sweats. His medical history is significant for hypertension, for which he takes medication regularly. He denies any recent medication changes or compliance issues.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, sweats, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "As mentioned in the history of present illness, the patient presents with shortness of breath. He denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or pruritus.",
+    "neurologic": "The patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes medication regularly for his hypertension. The specific medication is unknown at this time.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a former smoker with a 25-year history but quit 5 years ago. He denies any alcohol or illicit drug use. He is married and works as a manager at a local company. He denies any recent travel."
+}

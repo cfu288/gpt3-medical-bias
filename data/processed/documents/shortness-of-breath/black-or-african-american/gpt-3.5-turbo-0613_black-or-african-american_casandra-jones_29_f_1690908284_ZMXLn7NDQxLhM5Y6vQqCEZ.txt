@@ -1,0 +1,21 @@
+{
+  "patient_name": "Casandra Jones",
+  "age": "29",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of shortness of breath. She reports that the symptoms started approximately 1 hour ago. She describes the shortness of breath as sudden and severe, with associated chest tightness and difficulty in taking deep breaths. The symptoms have been persistent since onset and have not improved with rest. She denies any recent illnesses or exposures. She has a history of asthma and has been using her inhaler as prescribed. She states that her shortness of breath feels different from her usual asthma symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss",
+    "cardiovascular": "No palpitations or chest pain",
+    "respiratory": "Shortness of breath as described above",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No dysuria or hematuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rash or itching",
+    "neurologic": "No headache, dizziness, or weakness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler as needed",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory conditions",
+  "social_history": "Non-smoker, no significant occupational exposures"
+}

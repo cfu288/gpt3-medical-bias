@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alta Burns",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Alta Burns, an 84-year-old female, presents to the emergency department with complaints of shortness of breath. She reports that her symptoms started this morning and have been progressively worsening throughout the day. She denies any associated chest pain, cough, or fever. She reports that she has a past medical history of hypertension and hyperlipidemia. Her home medications include lisinopril and atorvastatin. She also has a history of non-melanoma skin cancer and had a recent excision of a basal cell carcinoma lesion on her right shoulder. No significant family history of cardiovascular or respiratory diseases. Non-smoker and denies any alcohol or drug use. She denies recent travel or sick contacts. No recent trauma or falls. No known allergies. She denies any changes in her medications or recent hospitalizations. She is alert, oriented, and in moderate respiratory distress.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Reports shortness of breath with minimal exertion, relieved with rest. Denies cough, wheezing, or hemoptysis.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "No joint pains or muscle weakness.",
+    "skin": "Denies rashes, itching, or skin lesions.",
+    "neurologic": "No dizziness, headaches, numbness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, basal cell carcinoma, excision.",
+  "medications": "Lisinopril, atorvastatin.",
+  "past_surgical_history": "Excision of basal cell carcinoma lesion on right shoulder.",
+  "family_history": "No significant family history.",
+  "social_history": "Non-smoker, denies alcohol or drug use."
+}

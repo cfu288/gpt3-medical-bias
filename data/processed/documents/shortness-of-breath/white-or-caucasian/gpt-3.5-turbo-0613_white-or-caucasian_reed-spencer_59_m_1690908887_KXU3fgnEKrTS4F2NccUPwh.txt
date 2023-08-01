@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Reed Spencer",
+  "age": "59",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Spencer presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started about 3 hours ago and have been progressively getting worse. He denies any associated chest pain or palpitations. He reports that he has a history of asthma, but this episode feels different from his usual asthma symptoms. He is currently using a rescue inhaler, but it is not providing much relief. Upon further questioning, Mr. Spencer reports that he recently traveled to a high altitude area and has been experiencing symptoms since returning. He denies any fevers or chills. Physical examination reveals tachypnea and increased work of breathing. Lung sounds are decreased bilaterally on auscultation.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, no weight loss, no night sweats",
+    "cardiovascular": "No chest pain, no palpitations",
+    "respiratory": "Shortness of breath",
+    "gi": "No abdominal pain, no nausea, no vomiting, no diarrhea",
+    "gu": "No urinary frequency, no dysuria",
+    "musculoskeletal": "No joint pain, no muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, no dizziness"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Rescue inhaler",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory conditions or cardiac conditions",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

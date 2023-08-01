@@ -1,0 +1,21 @@
+{
+  "patient_name": "Calvin Brown",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of acute onset of shortness of breath. He reports that he woke up this morning feeling very short of breath and has been experiencing difficulty breathing since then. He denies any preceding illness or injury. He reports associated symptoms of cough with minimal sputum production and mild wheezing. He denies chest pain, palpitations, dizziness, or syncope. He denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, diaphoresis, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, orthopnea, paroxysmal nocturnal dyspnea, lower extremity edema, or cyanosis.",
+    "respiratory": "Patient reports shortness of breath and mild wheezing. Denies chest pain, coughing up blood, or pleuritic chest pain.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria, frequency, urgency, hematuria, or flank pain.",
+    "musculoskeletal": "Patient denies musculoskeletal pain or joint swelling.",
+    "skin": "Patient denies rash, pruritus, hives, or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, syncope, seizures, focal weakness, or numbness."
+  },
+  "past_medical_history": "Patient has a history of chronic obstructive pulmonary disease (COPD), hypertension, and coronary artery disease.",
+  "medications": "The patient is currently taking albuterol inhaler as needed for his COPD, lisinopril for his hypertension, and atorvastatin for his coronary artery disease.",
+  "past_surgical_history": "The patient has a history of coronary artery bypass graft surgery.",
+  "family_history": "Patient reports a family history of hypertension and coronary artery disease in his parents and siblings.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He lives alone and does not have any pets."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jewell Frew",
+  "age": "78",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a complaint of shortness of breath. She reports that the symptoms started suddenly this morning and have been worsening throughout the day. She denies any chest pain, fever, cough, or sputum production. She also denies any recent travel or exposure to sick contacts. She has a past medical history of hypertension and hyperlipidemia. Upon further questioning, the patient also reports a 2-day history of bilateral leg swelling. Physical examination revealed bilateral crackles in the lung bases and pitting edema in the lower extremities. Given the patient's symptoms and examination findings, concern is raised for congestive heart failure exacerbation. Further workup and management are recommended.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fevers, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports bilateral leg swelling.",
+    "respiratory": "Patient reports shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or swelling.",
+    "skin": "Patient denies any rashes, itching, or skin changes.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "Non-contributory",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

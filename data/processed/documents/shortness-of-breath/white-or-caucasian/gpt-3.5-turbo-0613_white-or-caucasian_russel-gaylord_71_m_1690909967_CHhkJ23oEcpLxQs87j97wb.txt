@@ -1,0 +1,21 @@
+{
+  "patient_name": "Russel Gaylord",
+  "age": "71",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started about 5 hours ago and have been progressively worsening. He denies any recent travel or exposure to sick contacts. He has a past medical history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin respectively. He denies any recent changes in medications. He does not have a history of lung disease or allergies. On further questioning, the patient reports experiencing cough, wheezing, and chest tightness. He denies any associated fever, chills, or sputum production. There is no history of recent trauma or injury to the chest or abdomen. The patient has not had any recent surgeries. He denies any recent hospitalizations or emergency department visits. He does not have any family history of similar respiratory symptoms. Patient smokes 1 pack of cigarettes per day for the past 40 years, but denies any other substance use or alcohol consumption.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, cough, wheezing, and chest tightness.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or lesions.",
+    "neurologic": "Negative for headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No family history of respiratory symptoms",
+  "social_history": "Patient is a current smoker, 1 pack per day for 40 years. Denies alcohol or substance use."
+}

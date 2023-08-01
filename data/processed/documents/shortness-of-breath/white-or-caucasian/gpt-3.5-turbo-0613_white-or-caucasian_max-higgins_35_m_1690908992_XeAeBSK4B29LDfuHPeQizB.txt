@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Max Higgins",
+  "age": "35",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started suddenly this morning and have been progressively worsening throughout the day. Patient denies any associated chest pain, cough, fever, or recent illness. Upon further questioning, patient reports occasional wheezing and mild cough. No history of similar symptoms in the past. No known allergies. No recent travel. No known exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, fatigue, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, syncope, or leg swelling.",
+    "respiratory": "Positive for shortness of breath. Negative for cough, hemoptysis, wheezing, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, hematuria, or flank pain.",
+    "musculoskeletal": "Negative for joint pain, swelling, stiffness, or limited range of motion.",
+    "skin": "Negative for rash, pruritus, hives, or wounds.",
+    "neurologic": "Negative for headache, dizziness, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Patient has a history of asthma diagnosed in childhood. No recent exacerbations. No hospitalizations or surgeries in the past.",
+  "medications": "Albuterol inhaler as needed for shortness of breath.",
+  "past_surgical_history": "None.",
+  "family_history": "Negative for family history of asthma, lung disease, cardiac disease, or autoimmune disorders.",
+  "social_history": "Patient works as a teacher. No history of tobacco use. Occasional alcohol use. No illicit drug use."
+}
+```

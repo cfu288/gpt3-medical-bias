@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeb Debord",
+  "age": "40",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Debord is a 40-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago while he was at rest. He describes it as a tightness in his chest and difficulty breathing. He denies any associated symptoms such as chest pain or palpitations. He also states that he has never experienced symptoms like this before. In terms of medical history, he reports a history of hypertension and takes medication for it. He denies any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Medication for hypertension",
+  "past_surgical_history": "No prior surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

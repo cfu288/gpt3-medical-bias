@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheldon Balde",
+  "age": "76",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Sheldon Balde, a 76-year-old male, presents to the emergency department with the chief complaint of shortness of breath. According to the patient, he has been experiencing increasing difficulty in breathing for the past 24 hours. He reports that the shortness of breath is present at rest and worsens with minimal exertion, such as walking short distances. He denies any associated chest pain, cough, fever, or other respiratory symptoms. The patient states that he has a history of congestive heart failure and has been taking medications for hypertension and diuretics. He denies any recent changes in his medication regimen. Upon further examination, the patient appears to be in mild respiratory distress, with increased work of breathing. His vital signs are stable, with a heart rate of 88 beats per minute, blood pressure of 130/80 mmHg, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient reports a history of congestive heart failure and is currently taking medications for hypertension. No chest pain or palpitations.",
+    "respiratory": "Shortness of breath is the primary complaint. No cough or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, weakness, or changes in speech."
+  },
+  "past_medical_history": "The patient has a past medical history of congestive heart failure and hypertension.",
+  "medications": "The patient is currently taking medications for hypertension and diuretics.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is retired and lives at home with his spouse. He denies smoking, alcohol, or illicit drug use. There is no history of recent travel."
+}
+```

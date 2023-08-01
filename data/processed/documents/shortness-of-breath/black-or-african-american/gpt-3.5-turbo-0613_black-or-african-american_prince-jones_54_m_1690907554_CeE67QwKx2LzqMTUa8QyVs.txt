@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Prince Jones",
+  "age": "54",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports a sudden onset of difficulty breathing about 2 hours ago. The shortness of breath is associated with chest pain and tightness. He denies any fever, cough, or sputum production. He also denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or weight loss",
+    "cardiovascular": "Positive for chest pain and tightness",
+    "respiratory": "Positive for shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or wounds",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril 20mg daily and atorvastatin 40mg daily.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient denies smoking, alcohol, and illicit drug use."
+}
+```

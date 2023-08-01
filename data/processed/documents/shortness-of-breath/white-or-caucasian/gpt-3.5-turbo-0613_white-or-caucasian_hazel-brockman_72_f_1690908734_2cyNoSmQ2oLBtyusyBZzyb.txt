@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hazel Brockman",
+  "age": "72",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Hazel Brockman, a 72-year-old female, presented to the emergency department with a chief complaint of shortness of breath. According to the patient, the shortness of breath started suddenly about 2 hours ago while she was at home. She describes the shortness of breath as progressively worsening. She denies any associated chest pain, cough, fever, or chills. She has a past medical history of hypertension and hyperlipidemia but denies any recent changes in her medications or any other significant medical history. On physical examination, the patient appears to be in mild respiratory distress, with a respiratory rate of 24 breaths per minute and oxygen saturation of 92% on room air. Auscultation of the lungs reveals decreased breath sounds and fine crackles bilaterally. The patient's heart sounds are regular and there are no murmurs or gallops. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "Shortness of breath, decreased breath sounds, and fine crackles bilaterally.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in vision or speech, no headache or dizziness."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Currently taking lisinopril 10mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "No history of any surgical procedures.",
+  "family_history": "Positive family history of hypertension and heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "enum": ["Latrice Ladson"]
+    },
+    "age": {
+      "type": "string",
+      "enum": ["26"]
+    },
+    "chief_complaint": {
+      "type": "string",
+      "enum": ["Shortness of Breath"]
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "enum": ["The patient, Latrice Ladson, a 26-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she has been experiencing increasing difficulty breathing over the past few hours. She denies any recent illnesses or injuries that could explain her symptoms. She also reports no significant medical history. Upon further questioning, she admits to feeling anxious and reports a recent episode of stress."],
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "enum": ["No fever, chills, or night sweats"]
+        },
+        "cardiovascular": {
+          "type": "string",
+          "enum": ["No chest pain or palpitations"]
+        },
+        "respiratory": {
+          "type": "string",
+          "enum": ["Shortness of breath, worse with exertion"]
+        },
+        "gi": {
+          "type": "string",
+          "enum": ["No nausea, vomiting, or abdominal pain"]
+        },
+        "gu": {
+          "type": "string",
+          "enum": ["No dysuria or hematuria"]
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "enum": ["No joint pain or stiffness"]
+        },
+        "skin": {
+          "type": "string",
+          "enum": ["No rashes or lesions"]
+        },
+        "neurologic": {
+          "type": "string",
+          "enum": ["No headache or dizziness"]
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "medications": {
+      "type": "string",
+      "enum": [""]
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "family_history": {
+      "type": "string",
+      "enum": [""]
+    },
+    "social_history": {
+      "type": "string",
+      "enum": [""]
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

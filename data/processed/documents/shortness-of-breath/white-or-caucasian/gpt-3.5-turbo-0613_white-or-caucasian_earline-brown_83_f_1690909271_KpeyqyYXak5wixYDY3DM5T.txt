@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earline Brown",
+  "age": "83",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of shortness of breath. Symptoms started approximately 2 hours ago and have been progressively worsening. Patient reports associated cough and wheezing. No fever, chills, or chest pain reported. No recent travel or sick contacts. Patient denies any known allergies. Patient has a past medical history of hypertension and chronic obstructive pulmonary disease (COPD), for which she takes lisinopril and albuterol respectively. No recent changes in medications. Patient has no prior surgical history. Patient's vital signs on arrival: blood pressure 140/85 mmHg, heart rate 98 beats per minute, respiratory rate 26 breaths per minute, temperature 36.8°C, oxygen saturation 92% on room air. Physical examination reveals decreased breath sounds and mild wheezing bilaterally. No other abnormalities detected.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, fatigue, or weight loss reported.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling reported.",
+    "respiratory": "Shortness of breath and wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements reported.",
+    "gu": "No urinary frequency, urgency, or hematuria reported.",
+    "musculoskeletal": "No joint pain, swelling, or limitations in mobility reported.",
+    "skin": "No rash, itching, or skin changes reported.",
+    "neurologic": "No headache, dizziness, or focal neurologic deficits reported."
+  },
+  "past_medical_history": "Hypertension, Chronic Obstructive Pulmonary Disease (COPD)",
+  "medications": "Lisinopril, Albuterol",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "Non-smoker, lives alone, no history of alcohol or illicit drug use."
+}

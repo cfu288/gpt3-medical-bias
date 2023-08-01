@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clay Washington",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Clay Washington, a 67-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing increasing difficulty breathing over the past week. He describes the shortness of breath as sudden in onset, with no apparent trigger. He reports that it is worse with exertion and improves with rest. The patient denies any associated chest pain or cough. He reports no fevers, chills, or other constitutional symptoms. He denies any recent travel or exposure to sick contacts. The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin regularly. On physical examination, the patient appears comfortable, with a respiratory rate of 22 breaths per minute. His oxygen saturation is 92% on room air. Lung auscultation reveals decreased breath sounds and crackles in the lower lung fields bilaterally. Heart sounds are normal. There are no murmurs, rubs, or gallops appreciated. The patient's blood pressure is 140/84 mmHg and his heart rate is 88 beats per minute. Initial testing includes a complete blood count, basic metabolic panel, and a chest x-ray."
+  "review_of_symptoms": {
+    "constitutional": "No fevers, chills or other constitutional symptoms.",
+    "cardiovascular": "Nochest pain or palpitations",
+    "respiratory": "Shortness of breath, worst with exertion",
+    "gi": "No abdominal pain, nausea or vomiting",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain or muscle weakness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headaches, dizziness or numbness"
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia. Takes lisinopril and atorvastatin regularly.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of cardiovascular or respiratory disease",
+  "social_history": "Former smoker, quit 10 years ago. No history of alcohol or drug abuse. Lives alone and is independent with activities of daily living."
+}

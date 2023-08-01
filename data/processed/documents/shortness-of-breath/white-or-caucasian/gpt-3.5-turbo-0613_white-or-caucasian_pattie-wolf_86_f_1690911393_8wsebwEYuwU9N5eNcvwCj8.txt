@@ -1,0 +1,21 @@
+{
+    "patient_name": "Pattie Wolf",
+    "age": "86",
+    "chief_complaint": "Shortness of Breath",
+    "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing progressively worsening shortness of breath for the past week. She reports that the symptoms are worse with exertion and improved with rest. She denies any associated cough, chest pain, or fever.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies any fever, chills, or weight loss.",
+        "cardiovascular": "Patient reports a history of hypertension and coronary artery disease, but denies any chest pain, palpitations, or edema.",
+        "respiratory": "Patient reports shortness of breath as her chief complaint. She denies any cough, sputum production, or wheezing.",
+        "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+        "gu": "Patient denies any urinary symptoms, including dysuria or hematuria.",
+        "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+        "skin": "Patient denies any skin rashes or lesions.",
+        "neurologic": "Patient denies any headaches, dizziness, or focal neurologic deficits."
+    },
+    "past_medical_history": "Patient has a past medical history significant for hypertension and coronary artery disease.",
+    "medications": "Patient takes the following medications: lisinopril for hypertension and metoprolol for coronary artery disease.",
+    "past_surgical_history": "Patient has a history of a coronary artery bypass graft surgery 5 years ago.",
+    "family_history": "Patient denies any significant family history of cardiac or respiratory diseases.",
+    "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

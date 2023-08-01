@@ -1,0 +1,103 @@
+{
+  "patient_name": "Chet Jewell",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Jewell is a 42-year-old male patient who presents to the emergency department complaining of shortness of breath. According to the patient, his symptoms started this morning while he was at home. He has no known history of respiratory problems or allergies. He denies any recent illnesses or exposure to sick contacts. The patient reports feeling anxious and unable to take a deep breath. His shortness of breath is associated with mild cough and tightness in the chest. He has no other complaints at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fevers, chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or history of heart disease.",
+    "respiratory": "The patient complains of shortness of breath and mild cough.",
+    "gi": "The patient denies any gastrointestinal symptoms such as abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints such as joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any skin rashes, lesions, or itching.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office administrator and lives with his wife and two children.",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "string"
+    },
+    "chief_complaint": {
+      "type": "string"
+    },
+    "history_of_present_illness": {
+      "type": "string"
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string"
+        },
+        "cardiovascular": {
+          "type": "string"
+        },
+        "respiratory": {
+          "type": "string"
+        },
+        "gi": {
+          "type": "string"
+        },
+        "gu": {
+          "type": "string"
+        },
+        "musculoskeletal": {
+          "type": "string"
+        },
+        "skin": {
+          "type": "string"
+        },
+        "neurologic": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+    },
+    "past_surgical_history": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "social_history": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

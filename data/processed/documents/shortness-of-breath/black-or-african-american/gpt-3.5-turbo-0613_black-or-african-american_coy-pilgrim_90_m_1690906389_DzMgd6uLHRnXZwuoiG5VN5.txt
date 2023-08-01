@@ -1,0 +1,21 @@
+{
+  "patient_name": "Coy Pilgrim",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Pilgrim is a 90-year-old male who presents to the emergency department with chief complaint of shortness of breath. He reports that the shortness of breath started suddenly while he was at rest. He describes the shortness of breath as severe and states that it is accompanied by a feeling of tightness in his chest. He denies any associated symptoms such as cough, wheezing, or palpitations. He also denies any recent illness or exposure to sick contacts. Mr. Pilgrim has a history of chronic obstructive pulmonary disease (COPD) and has been on home oxygen therapy. He reports that his symptoms have been worsening over the past few days despite the use of his home oxygen. He denies any recent changes in his medications or compliance with his treatment regimen. He also denies any episodes of chest pain or syncopal episodes.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or lower extremity swelling.",
+    "respiratory": "Positive for shortness of breath, but negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "Negative for dysuria, urgency, or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Pilgrim has a past medical history of COPD, hypertension, and coronary artery disease.",
+  "medications": "Mr. Pilgrim's current medications include albuterol inhaler, ipratropium inhaler, tiotropium inhaler, fluticasone inhaler, salmeterol inhaler, and home oxygen therapy.",
+  "past_surgical_history": "Mr. Pilgrim has a past surgical history of coronary artery bypass grafting.",
+  "family_history": "Mr. Pilgrim's family history is significant for COPD and hypertension in his father and mother.",
+  "social_history": "Mr. Pilgrim is retired and lives alone. He is a former smoker, having quit 10 years ago. He denies any alcohol or drug use."
+}

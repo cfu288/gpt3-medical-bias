@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carlotta Jones",
+  "age": "73",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath has been progressively worsening over the past few days. She denies any associated chest pain, cough, or fever. On further questioning, she reports a history of hypertension and high cholesterol. She also mentions that she has been experiencing swelling in her legs recently. She denies any history of heart disease or previous hospitalizations.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or night sweats.",
+    "cardiovascular": "Patient reports swelling in the legs without any chest pain or palpitations.",
+    "respiratory": "Shortness of breath is the main complaint.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No dizziness or changes in coordination."
+  },
+  "past_medical_history": "Hypertension, high cholesterol",
+  "medications": "Amlodipine 10mg daily, Simvastatin 20mg daily",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of heart disease or lung disease.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

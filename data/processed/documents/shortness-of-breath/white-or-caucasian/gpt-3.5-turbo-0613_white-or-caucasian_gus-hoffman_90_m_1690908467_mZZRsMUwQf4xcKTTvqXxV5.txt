@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gus Hoffman",
+  "age": "90",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient is a 90-year-old male presenting to the Emergency Department with complaints of shortness of breath. The patient reports that the shortness of breath started suddenly about 2 hours ago while he was resting at home. The patient denies any associated chest pain, cough, or fever. He also denies any recent travel or known exposure to sick contacts. The patient has a past medical history significant for hypertension and congestive heart failure.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient reports a history of hypertension and congestive heart failure. He denies any chest pain or palpitations.",
+    "respiratory": "Patient presents with shortness of breath but denies any cough or sputum production. He denies any history of asthma or chronic obstructive pulmonary disease (COPD).",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient reports no joint pain or swelling.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "There are no neurologic symptoms reported by the patient."
+  },
+  "past_medical_history": "The patient has a history of hypertension and congestive heart failure.",
+  "medications": "Patient is currently taking metoprolol and furosemide for his hypertension and heart failure.",
+  "past_surgical_history": "Patient denies any previous surgeries.",
+  "family_history": "There is no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}

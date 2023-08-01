@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eloise Crawley",
+  "age": "96",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Eloise Crawley is a 96-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptom started approximately 2 days ago and has been progressively worsening. She notes that she has been experiencing increased fatigue and difficulty breathing with minimal exertion. She denies any associated chest pain, cough, or fever. Patient states that she has a history of congestive heart failure and hypertension, for which she is currently taking furosemide and lisinopril. She denies any recent upper respiratory tract infection symptoms. Physical examination reveals tachypnea with an increased respiratory rate of 24 breaths per minute.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient has a history of congestive heart failure and hypertension. She denies chest pain or palpitations.",
+    "respiratory": "Patient's chief complaint is shortness of breath. Denies cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Denies rash, itching, or changes in skin color.",
+    "neurologic": "Negative for dizziness, headache, or changes in vision."
+  },
+  "past_medical_history": "Congestive heart failure, hypertension",
+  "medications": "Furosemide, lisinopril",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient lives alone. Non-smoker. No alcohol or illicit drug use reported."
+}

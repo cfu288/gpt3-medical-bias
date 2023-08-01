@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Alicia Mcgraw",
+  "age": "35",
+  "gender": "f",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Alicia Mcgraw, a 35-year-old female, presents to the emergency department complaining of shortness of breath. She states that she has been experiencing difficulty breathing for the past 2 days. She reports that the shortness of breath is worse with exertion and lying flat. She denies any associated chest pain, cough, or fever.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or unintentional weight loss.",
+    "cardiovascular": "No chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Shortness of breath with exertion and lying flat.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of asthma, for which she uses an albuterol inhaler as needed. She reports occasional asthma exacerbations, usually associated with upper respiratory infections.",
+  "medications": "Albuterol inhaler as needed for asthma",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient's family history is noncontributory.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

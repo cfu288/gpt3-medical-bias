@@ -1,0 +1,21 @@
+{
+  "patient_name": "Denver Robinson",
+  "age": "42",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Robinson, presents to the emergency department with a chief complaint of shortness of breath. He reports that he started experiencing difficulty breathing about 2 hours ago. The shortness of breath is associated with mild chest pain and cough. He denies any fever, chills, or sputum production. The patient states that he has a history of asthma and has been using his inhaler at home, but it has not provided relief. He also mentions that he has been feeling fatigued lately and has noticed a slight decrease in his exercise tolerance.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Positive for chest pain",
+    "respiratory": "Positive for shortness of breath and cough",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Asthma",
+  "medications": "Albuterol inhaler",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of respiratory diseases",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jasen Miller",
+  "age": "47",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started suddenly and have been progressively worsening over the past few hours. He denies any associated chest pain, cough, fever, or recent illnesses. He reports no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "No history of heart palpitations, chest pain, or edema.",
+    "respiratory": "Reports shortness of breath at rest and with minimal exertion. Denies cough or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No urinary symptoms or history of kidney stones.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or changes in skin color.",
+    "neurologic": "No history of seizures or neurological deficits."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, which is well controlled with medication. He denies any other chronic medical conditions.",
+  "medications": "Patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient reports a family history of heart disease in both parents.",
+  "social_history": "Patient denies tobacco or alcohol use. He is married and works as a software engineer."
+}

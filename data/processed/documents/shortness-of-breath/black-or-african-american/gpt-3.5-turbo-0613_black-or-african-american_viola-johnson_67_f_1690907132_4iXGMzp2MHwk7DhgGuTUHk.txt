@@ -1,0 +1,21 @@
+{
+  "patient_name": "Viola Johnson",
+  "age": "67",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started approximately 3 hours ago while at rest. She denies any associated chest pain or cough. She has a history of hypertension and has been compliant with her medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath without associated cough.",
+    "gi": "Patient denies any abdominal pain, nausea, or vomiting.",
+    "gu": "Patient reports no urinary symptoms.",
+    "musculoskeletal": "Patient denies any musculoskeletal complaints.",
+    "skin": "Patient denies any skin rashes or lesions.",
+    "neurologic": "Patient denies any changes in sensation, weakness, or headaches."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 20mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history of cardiac or respiratory diseases.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

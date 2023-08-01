@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleveland Simpkins",
+  "age": "88",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Simpkins is an 88-year-old male presenting to the emergency department with a chief complaint of shortness of breath. The patient reports that the symptoms started two hours ago, and he has been experiencing increased difficulty breathing since then. He denies any chest pain or palpitations. The shortness of breath is worse with exertion and does not improve with rest.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or swelling.",
+    "respiratory": "Positive for shortness of breath; negative for cough, sputum production, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "Negative for rash, pruritus, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "Mr. Simpkins has a history of hypertension and coronary artery disease. He had a myocardial infarction 2 years ago and underwent coronary artery bypass graft surgery. He is also on medication for his high blood pressure.",
+  "medications": "Mr. Simpkins takes metoprolol 50 mg twice daily for hypertension and aspirin 81 mg once daily for secondary prevention of cardiovascular events.",
+  "past_surgical_history": "Coronary artery bypass graft surgery 2 years ago.",
+  "family_history": "Positive for coronary artery disease in both parents.",
+  "social_history": "Mr. Simpkins is retired and lives alone. He has never smoked or consumed alcohol. He does not have any known drug allergies."
+}

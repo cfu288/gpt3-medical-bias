@@ -1,0 +1,21 @@
+{
+  "patient_name": "Yves Arnold",
+  "age": "37",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mr. Arnold, is a 37-year-old male presenting to the emergency department with complaints of shortness of breath. He reports that he has been experiencing difficulty breathing for the past 24 hours. The symptoms have been progressively worsening, and he now feels short of breath even at rest. He denies any associated chest pain, cough, fever, or sputum production. Upon further questioning, he reports a previous history of asthma, for which he occasionally uses an albuterol inhaler. He denies any recent exacerbation of his asthma symptoms. The patient denies any recent travel or exposure to sick contacts. He has no known allergies to medications. In addition to shortness of breath, he denies any other constitutional symptoms such as fever, chills, weight loss, or night sweats.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Positive for shortness of breath, denies cough, sputum production, or wheezing.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or lower abdominal pain.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma, for which he occasionally uses an albuterol inhaler. He denies any other significant medical conditions.",
+  "medications": "Occasional use of albuterol inhaler for asthma symptoms.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient denies any significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He works as an office manager and denies any recent travel or exposure to sick contacts."
+}

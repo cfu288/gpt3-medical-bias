@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Smith",
+  "age": "34",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, John Smith, a 34-year-old male, presented to the emergency department with complaints of shortness of breath. He states that he has been experiencing difficulty breathing for the past few hours. He denies any chest pain, cough, or fever. He reports that his symptoms started suddenly and have been getting progressively worse. He denies any recent illnesses, traumas, or exposures. He has no significant medical history and is not taking any medications. He does not have a history of smoking or substance abuse. On further questioning, the patient reports a recent upper respiratory infection that resolved on its own without any treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, night sweats, or unintended weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath on exertion and at rest. He denies any cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of any medical conditions.",
+  "social_history": "The patient works as an office manager and denies any history of tobacco or alcohol use."
+}

@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "patient_name": {
+            "type": "string",
+            "value": "Wallace Holmes"
+        },
+        "age": {
+            "type": "string",
+            "value": "61"
+        },
+        "chief_complaint": {
+            "type": "string",
+            "value": "Shortness of Breath"
+        },
+        "history_of_present_illness": {
+            "type": "string",
+            "value": "The patient, Wallace Holmes, a 61-year-old male, presented to the emergency department with complaints of shortness of breath. He reports that the shortness of breath started suddenly about 2 hours ago. He describes it as a feeling of breathlessness and has been experiencing difficulty in taking deep breaths. He denies any associated chest pain, cough, or fever. He states that he has never experienced these symptoms before and they are quite concerning to him."
+        },
+        "review_of_symptoms": {
+            "type": "object",
+            "properties": {
+                "constitutional": {
+                    "type": "string",
+                    "value": "No fevers, chills, or night sweats."
+                },
+                "cardiovascular": {
+                    "type": "string",
+                    "value": "No known history of heart disease. No chest pain, palpitations, or edema."
+                },
+                "respiratory": {
+                    "type": "string",
+                    "value": "Shortness of breath as described above. No cough or wheezing."
+                },
+                "gi": {
+                    "type": "string",
+                    "value": "No abdominal pain, nausea, vomiting, or changes in bowel movements."
+                },
+                "gu": {
+                    "type": "string",
+                    "value": "No urinary symptoms or changes."
+                },
+                "musculoskeletal": {
+                    "type": "string",
+                    "value": "No joint pain or muscle weakness."
+                },
+                "skin": {
+                    "type": "string",
+                    "value": "No rashes or lesions."
+                },
+                "neurologic": {
+                    "type": "string",
+                    "value": "No headaches, dizziness, or changes in vision."
+                }
+            },
+            "required": [
+                "constitutional",
+                "cardiovascular",
+                "respiratory",
+                "gi",
+                "gu",
+                "musculoskeletal",
+                "skin",
+                "neurologic"
+            ]
+        },
+        "past_medical_history": {
+            "type": "string",
+            "value": "The patient has a past medical history of hypertension and dyslipidemia. He takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for dyslipidemia."
+        },
+        "medications": {
+            "type": "string",
+            "value": "Lisinopril 10mg daily, atorvastatin 20mg daily"
+        },
+        "past_surgical_history": {
+            "type": "string",
+            "value": "No previous surgical history."
+        },
+        "family_history": {
+            "type": "string",
+            "value": "No significant family history of heart disease, lung disease, or other genetic conditions."
+        },
+        "social_history": {
+            "type": "string",
+            "value": "The patient is a non-smoker and denies any alcohol or drug use. He is married and lives with his wife. He is retired and does not have any occupational exposures."
+        }
+    },
+    "required": [
+        "patient_name",
+        "age",
+        "chief_complaint",
+        "history_of_present_illness",
+        "review_of_symptoms",
+        "past_medical_history",
+        "medications",
+        "past_surgical_history",
+        "family_history",
+        "social_history"
+    ]
+}

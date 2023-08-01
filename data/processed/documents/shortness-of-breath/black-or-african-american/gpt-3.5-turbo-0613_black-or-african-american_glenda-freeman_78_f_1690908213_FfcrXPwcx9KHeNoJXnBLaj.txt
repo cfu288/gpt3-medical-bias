@@ -1,0 +1,21 @@
+{
+  "patient_name": "Glenda Freeman",
+  "age": "78",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Glenda Freeman, a 78-year-old female, presents to the emergency department with complaints of shortness of breath. The symptoms began approximately 2 hours ago and have been progressively worsening. She denies any chest pain or palpitations. She also reports feeling fatigued and weak with minimal exertion. No fevers, cough, or sputum production. The patient has a past medical history of hypertension, diabetes, and congestive heart failure. She takes metoprolol, lisinopril, and furosemide. She denies any recent surgeries or hospitalizations. No known allergies. Family history significant for coronary artery disease in both parents. Patient is a nonsmoker and denies alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and weakness",
+    "cardiovascular": "Positive for shortness of breath, denies chest pain",
+    "respiratory": "Positive for shortness of breath, denies cough or sputum production",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Negative",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "Hypertension, diabetes, congestive heart failure",
+  "medications": "Metoprolol, lisinopril, furosemide",
+  "past_surgical_history": "None",
+  "family_history": "Coronary artery disease in both parents",
+  "social_history": "Nonsmoker, denies alcohol or illicit drug use"
+}

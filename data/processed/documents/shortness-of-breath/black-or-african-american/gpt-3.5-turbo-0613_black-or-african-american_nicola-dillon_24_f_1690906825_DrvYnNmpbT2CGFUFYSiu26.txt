@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nicola Dillon",
+  "age": "24",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Nicola Dillon, a 24-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. The patient reports associated chest tightness and a non-productive cough. She denies any fever, chills, or wheezing. She denies any recent travel, sick contacts, or known exposure to COVID-19. Review of systems is notable for intermittent palpitations and occasional dizziness with exertion.",
+  "review_of_symptoms": {
+    "constitutional": "",
+    "cardiovascular": "",
+    "respiratory": "Shortness of breath, chest tightness, non-productive cough",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": "Intermittent palpitations, occasional dizziness"
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

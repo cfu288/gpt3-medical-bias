@@ -1,0 +1,36 @@
+{
+  "patient_name": "Tomeka Ellis",
+  "age": "41",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Tomeka Ellis, is a 41-year-old female who presents to the emergency department with a chief complaint of shortness of breath. She reports that she began experiencing the shortness of breath earlier today while at work. She describes the shortness of breath as sudden onset and progressive in nature. She denies any associated chest pain, cough, or fever. She also denies any recent travel or exposure to sick contacts. 
+
+  Upon further questioning, the patient reports a past medical history of asthma, for which she has been using an albuterol inhaler as needed. She states that she has been using her inhaler more frequently over the past few days. The patient also reports a history of seasonal allergies and occasional migraines. She denies any recent changes in her medications or any known drug allergies. 
+
+  For the review of symptoms, the patient denies any constitutional symptoms such as fever, chills, or weight loss. She denies any cardiovascular symptoms such as chest pain or palpitations. She reports respiratory symptoms of shortness of breath, but denies any cough or wheezing. She denies any gastrointestinal, genitourinary, musculoskeletal, skin, or neurologic symptoms. 
+
+  In terms of past medical history, the patient reports a history of asthma and seasonal allergies. She states that she has not had any surgeries in the past. 
+
+  The patient does not regularly take any medications besides her albuterol inhaler for asthma. 
+
+  There is no family history of respiratory diseases. 
+
+  In terms of social history, the patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and lives with her husband and two children. She denies any recent stressors or changes in her living or work environment. 
+
+  Based on the patient's presentation and history, a thorough examination and further investigations including a chest X-ray and spirometry may be needed to determine the underlying cause of her shortness of breath. "
+,
+  "review_of_symptoms": {
+    "constitutional": "denies fever, chills, or weight loss",
+    "cardiovascular": "denies chest pain or palpitations",
+    "respiratory": "reports shortness of breath; denies cough or wheezing",
+    "gi": "denies gastrointestinal symptoms",
+    "gu": "denies genitourinary symptoms",
+    "musculoskeletal": "denies musculoskeletal symptoms",
+    "skin": "denies skin symptoms",
+    "neurologic": "denies neurologic symptoms"
+  },
+  "past_medical_history": "Asthma, seasonal allergies",
+  "medications": "Albuterol inhaler as needed for asthma",
+  "past_surgical_history": "None",
+  "family_history": "No known respiratory diseases",
+  "social_history": "Non-smoker, no alcohol or illicit drug use. Works as a teacher and lives with husband and two children."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Willie Boykin",
+  "age": "55",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Willie Boykin, a 55-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports experiencing difficulty breathing for the past 12 hours. He denies any associated chest pain, fever, cough, or wheezing. He states that his symptoms have been worsening over time and are now significantly affecting his ability to perform his activities of daily living. He denies any recent travel or sick contacts. His medical history is significant for hypertension, hyperlipidemia, and obesity.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, fatigue, or loss of appetite.",
+    "cardiovascular": "The patient reports a history of hypertension and hyperlipidemia. He denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath. He denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and obesity. He reports taking lisinopril 20 mg daily and simvastatin 40 mg daily.",
+  "medications": "Lisinopril 20 mg daily, simvastatin 40 mg daily",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married and works as an office manager. He lives a sedentary lifestyle and does not engage in regular exercise."
+}
+```

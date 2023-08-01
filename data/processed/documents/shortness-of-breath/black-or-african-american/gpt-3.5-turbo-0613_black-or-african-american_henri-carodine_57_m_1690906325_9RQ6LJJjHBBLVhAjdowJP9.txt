@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Carodine",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Carodine is a 57-year-old male who presents to the emergency department with a chief complaint of shortness of breath that started suddenly about 2 hours ago. He describes the shortness of breath as being worse with exertion and relieved with rest. He denies any chest pain, palpitations, or cough.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss",
+    "cardiovascular": "Denies chest pain, palpitations, or edema",
+    "respiratory": "Reports shortness of breath with exertion, denies cough or wheezing",
+    "gi": "Denies abdominal pain, nausea, or vomiting",
+    "gu": "Denies urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Denies joint pain or muscle weakness",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Carodine has a history of hypertension and hyperlipidemia, both well-controlled with medications. He also has a history of smoking, with a 30 pack-year history.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient has a family history of coronary artery disease in both parents.",
+  "social_history": "The patient is a current smoker with a 30 pack-year history. He reports occasional alcohol use but denies any illicit drug use."
+}

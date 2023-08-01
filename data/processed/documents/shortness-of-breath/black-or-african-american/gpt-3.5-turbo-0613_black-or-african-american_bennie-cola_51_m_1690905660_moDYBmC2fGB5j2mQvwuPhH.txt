@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bennie Cola",
+  "age": "51",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of shortness of breath. He reports that the shortness of breath started abruptly about 2 hours ago. He denies any associated chest pain or cough. He states he has a past medical history of hypertension and currently takes lisinopril for this. He does not smoke and denies any recent travel or exposure to sick contacts. Physical examination reveals tachypnea and decreased breath sounds on the left side of the chest. SpO2 is 88% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath, but denies cough or wheezing.",
+    "gi": "Patient denies abdominal pain, nausea, or vomiting.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies muscle or joint pain.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headache or dizziness."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": "Non-smoker"
+}

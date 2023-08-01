@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cecile Clark",
+  "age": "68",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient, a 68-year-old female named Cecile Clark, presents to the emergency department with complaints of shortness of breath. According to the patient, the symptom started suddenly this morning and has been progressively worsening since then. She states that she has never experienced shortness of breath to this extent before. She denies any associated chest pain, cough, or fever. The patient reports that she has been feeling fatigued for the past few weeks and has attributed it to her age. On further questioning, she also reveals a recent weight gain and increased swelling in her lower extremities. She denies any recent travel, trauma, or exposure to sick contacts. The patient states that she has a history of hypertension and takes medication for it. She also mentions that she has been experiencing occasional episodes of palpitations. No other significant past medical history or surgical history reported. Family history significant for hypertension in her father. No significant social history reported.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued for the past few weeks",
+    "cardiovascular": "Patient reports occasional episodes of palpitations",
+    "respiratory": "Patient reports shortness of breath",
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Unspecified hypertension medication",
+  "past_surgical_history": null,
+  "family_history": "Father has a history of hypertension",
+  "social_history": null
+}

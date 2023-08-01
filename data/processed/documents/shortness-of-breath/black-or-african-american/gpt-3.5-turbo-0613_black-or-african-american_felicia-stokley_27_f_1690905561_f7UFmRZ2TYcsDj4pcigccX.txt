@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Felicia Stokley",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The 27-year-old female patient, Felicia Stokley, presented to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath started suddenly about 2 hours ago. She denies any associated chest pain, cough, fever, or wheezing. The patient states that she has never experienced similar symptoms in the past. There is no known trigger for the onset of symptoms. The patient reports no recent travel or exposure to sick contacts. She denies any history of chronic respiratory conditions such as asthma or COPD.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, weight loss, or fatigue.",
+    "cardiovascular": "No palpitations, chest pain, or leg swelling reported.",
+    "respiratory": "The patient reports shortness of breath but denies any cough, wheezing, or hemoptysis.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No dysuria or hematuria reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash or skin lesions reported.",
+    "neurologic": "No headaches, dizziness, or focal neurological deficits reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of respiratory or cardiovascular diseases.",
+  "social_history": "The patient denies any tobacco or substance use and reports occasional alcohol use."
+}
+```

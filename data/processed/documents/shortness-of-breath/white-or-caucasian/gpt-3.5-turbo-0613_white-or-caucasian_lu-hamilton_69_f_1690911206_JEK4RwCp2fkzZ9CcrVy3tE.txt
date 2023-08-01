@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lu Hamilton",
+  "age": "69",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Lu Hamilton, a 69-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that the shortness of breath began suddenly earlier today and has been progressively worsening. She denies any associated chest pain, cough, wheezing, or fever. The patient states that she has a history of hypertension and takes medication for it. She also reports a history of smoking, with a 20 pack-year smoking history. On physical examination, the patient appears anxious and is using accessory muscles to breathe. Lung auscultation reveals decreased breath sounds bilaterally with crackles. The patient's vital signs are stable, with a blood pressure of 130/80 mmHg, heart rate of 90 beats per minute, respiratory rate of 22 breaths per minute, oxygen saturation of 90% on room air, and temperature of 98.6°F. Based on the patient's symptoms, history, and physical examination findings, there is concern for acute exacerbation of chronic obstructive pulmonary disease (COPD) or congestive heart failure (CHF). Further evaluation and management are indicated.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient presents with shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in appetite or bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color or texture.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "The patient takes medication for hypertension.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient reports a family history of cardiovascular disease.",
+  "social_history": "The patient has a 20 pack-year smoking history."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Imran Saintfleur",
+  "age": "27",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents to the emergency department with complaints of shortness of breath. He reports that the symptoms started approximately 2 hours ago and have been gradually worsening. He denies any associated chest pain or cough. He did not have any recent illnesses or infections.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports palpitations but denies chest pain.",
+    "respiratory": "The patient complains of shortness of breath, worsening with minimal exertion, but denies cough.",
+    "gi": "The patient denies any gastrointestinal issues such as abdominal pain, nausea, or vomiting.",
+    "gu": "The patient denies any genitourinary symptoms.",
+    "musculoskeletal": "The patient denies any musculoskeletal complaints.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any neurologic symptoms such as headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications.",
+  "past_surgical_history": "The patient reports no previous surgeries.",
+  "family_history": "The patient reports no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use."
+}
+```

@@ -1,0 +1,28 @@
+{
+  "patient_name": "Roma Mitchell",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+
+  "history_of_present_illness": "Patient Roma Mitchell, an 81-year-old female, presents to the emergency department with a complaint of shortness of breath. The patient reports that the shortness of breath started about two hours ago and has been progressively worsening. She also reports associated chest pain and mild fatigue. There is no history of recent illnesses or injuries. No known allergies.",
+  
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "Positive for chest pain. Negative for palpitations.",
+    "respiratory": "Positive for shortness of breath. Negative for cough or wheezing.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for dizziness or headache."
+  },
+
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis. She takes medications for these conditions. No known history of heart disease, diabetes, or lung disease.",
+
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension and Simvastatin 20mg daily for hyperlipidemia. No other medications."
+
+  "past_surgical_history": "The patient has no significant past surgical history.",
+
+  "family_history": "The patient reports no family history of heart disease, lung disease, or cancer."
+
+  "social_history": "The patient is retired and lives alone. She denies tobacco use, alcohol consumption, or illicit drug use. No history of travel or recent sick contacts."
+}

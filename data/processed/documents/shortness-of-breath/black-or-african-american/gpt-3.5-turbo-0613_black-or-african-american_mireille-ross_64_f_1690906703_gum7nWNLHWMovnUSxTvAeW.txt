@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mireille Ross",
+  "age": "64",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Mireille Ross, a 64-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that she began experiencing dyspnea earlier today while at home. She states that the dyspnea is constant and has been worsening throughout the day. She denies any associated chest pain, cough, fever, or palpitations. She reports no recent illnesses or known exposure to sick contacts. She denies any recent travel or significant changes in physical activity. She states that she has a past medical history of hypertension and hyperlipidemia, for which she takes medication. She also reports a past surgical history of cholecystectomy. There is no significant family history of cardiac or respiratory diseases. Her social history is significant for a 20 pack-year history of smoking, which she quit 10 years ago. She denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports no weight loss, fever, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations or chest pain.",
+    "respiratory": "The patient reports dyspnea at rest, which has been worsening throughout the day. She denies any cough or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or itching.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "The patient takes medications for hypertension and hyperlipidemia. She cannot recall the names of the medications.",
+  "past_surgical_history": "Cholecystectomy.",
+  "family_history": "No significant family history of cardiac or respiratory diseases.",
+  "social_history": "The patient is a former smoker with a 20 pack-year history. She quit smoking 10 years ago. She denies any alcohol or illicit drug use."
+}

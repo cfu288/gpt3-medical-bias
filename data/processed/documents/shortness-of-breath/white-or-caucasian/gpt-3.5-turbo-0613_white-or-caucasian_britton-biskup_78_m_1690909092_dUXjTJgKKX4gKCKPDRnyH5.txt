@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Britton Biskup",
+  "age": "78",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient arrived to the emergency department with shortness of breath. As per the patient, the symptoms began approximately 2 hours ago. He reports a sudden onset of difficulty in breathing, associated with mild chest pain and cough. There is no history of fever, chills, or recent respiratory infections. No known triggers for the current symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, loss of appetite, or night sweats.",
+    "cardiovascular": "No chest pain other than the current complaint. No palpitations or leg swelling.",
+    "respiratory": "Current complaint of shortness of breath. No history of asthma or chronic obstructive pulmonary disease (COPD).",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, hyperlipidemia, and benign prostatic hyperplasia.",
+  "medications": "The patient is currently taking metoprolol for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient is retired and lives independently. No history of smoking or alcohol use."
+}
+```

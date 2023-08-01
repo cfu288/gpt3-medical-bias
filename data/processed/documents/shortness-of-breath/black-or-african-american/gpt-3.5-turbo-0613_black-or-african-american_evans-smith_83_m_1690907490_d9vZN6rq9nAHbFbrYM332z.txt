@@ -1,0 +1,21 @@
+{
+  "patient_name": "Evans Smith",
+  "age": "83",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Evans Smith, an 83-year-old male, presents to the emergency department complaining of shortness of breath. Patient reports that the shortness of breath started suddenly approximately 2 hours ago. He describes the shortness of breath as moderate in severity and associated with mild chest discomfort. He denies any fever, cough, or other respiratory symptoms. Patient states that he has a history of hypertension and takes medications for it.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or diaphoresis.",
+    "cardiovascular": "Mild chest discomfort reported. No palpitations or edema.",
+    "respiratory": "Shortness of breath, moderate in severity.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No dizziness, syncope, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and is on medications.",
+  "medications": "Patient takes medications for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No family history of respiratory diseases or cardiovascular disorders.",
+  "social_history": "Patient is retired and lives alone. He denies smoking, alcohol use, or illicit drug use."
+}

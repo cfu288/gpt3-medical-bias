@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Damien Besley",
+  "age": "32",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Besley is a 32-year-old male who presents to the ED with a chief complaint of shortness of breath. He reports that the shortness of breath started suddenly this morning while he was at home. He states that he was fine until he woke up and noticed that he was having difficulty breathing. He denies any chest pain, cough, fever, or other associated symptoms. He has no history of similar episodes in the past. He reports a significant tobacco smoking history of 10 pack-years.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fever, chills, or weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Reports shortness of breath, but denies cough, wheezing, or chest tightness.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or muscle weakness.",
+    "skin": "Denies rash, itching, or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Mr. Besley admits to smoking tobacco for the past 10 years and drinks alcohol occasionally. He denies any illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Janine Pugliese",
+  "age": "62",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Janine Pugliese presents to the emergency department with a chief complaint of shortness of breath. She reports that this symptom started suddenly about 2 hours ago. She describes the shortness of breath as severe and associated with chest tightness and wheezing. She denies any recent illness or known allergies. She reports no other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "No fever, chills, or weight loss.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "Shortness of breath as described in the history of present illness.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of asthma and hypertension.",
+  "medications": "Patient takes albuterol inhaler twice daily for asthma and lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient reports no relevant family history of respiratory or cardiovascular diseases.",
+  "social_history": "Patient is a lifelong non-smoker and denies alcohol or drug use."
+}
+```

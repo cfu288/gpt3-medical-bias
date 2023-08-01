@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pierre Stanford",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Pierre Stanford, a 60-year-old male, presented to the emergency department with chief complaint of shortness of breath. He reports that his symptoms started suddenly while he was at rest. He describes the shortness of breath as progressively worsening over the past few hours. He also reports associated chest tightness and mild cough. He denies any fever, chills, sputum production, wheezing, or leg swelling. He has no known history of respiratory conditions or cardiac disease.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient reports chest tightness but denies any chest pain or palpitations.",
+    "respiratory": "The patient complains of shortness of breath with minimal exertion. He denies any wheezing or coughing up blood.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movement.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history" : "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of cardiovascular or respiratory diseases.",
+  "social_history": "The patient is a lifelong non-smoker and denies any alcohol or illicit drug use."
+}

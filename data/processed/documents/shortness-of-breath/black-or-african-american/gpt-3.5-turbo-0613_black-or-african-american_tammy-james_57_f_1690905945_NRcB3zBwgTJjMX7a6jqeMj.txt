@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tammy James",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of shortness of breath that started suddenly 3 hours ago. She reports that she was resting at home when she suddenly felt a tightness in her chest and had difficulty breathing. The symptoms have worsened since then and she feels short of breath even at rest. She denies any associated chest pain, cough, or fever. She has a history of asthma and has been using her albuterol inhaler as needed. She states that her inhaler has not been providing relief today.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or weight loss.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient reports shortness of breath that started suddenly 3 hours ago.",
+    "gi": "Patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies dysuria or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies any rash or skin lesions.",
+    "neurologic": "Patient denies headache, dizziness, or numbness/weakness in extremities."
+  },
+  "past_medical_history": "Patient has a history of asthma and takes albuterol as needed. She is also on lisinopril for hypertension.",
+  "medications": "Albuterol as needed for asthma; lisinopril for hypertension.",
+  "past_surgical_history": "Patient denies any past surgical procedures.",
+  "family_history": "Patient's mother had hypertension and diabetes. No significant family history of cardiac or respiratory diseases.",
+  "social_history": "Patient is a lifelong non-smoker. She lives with her spouse and has two adult children. She denies any history of alcohol or illicit drug use."
+}

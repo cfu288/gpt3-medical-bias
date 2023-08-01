@@ -1,0 +1,21 @@
+{
+  "patient_name": "Joanne Melson",
+  "age": "82",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Joanne Melson, an 82-year-old female, presents to the emergency department with a chief complaint of shortness of breath. The symptoms started approximately 2 hours ago and have been progressively worsening. She reports feeling tired and unable to catch her breath even at rest. She denies any chest pain or palpitations. She has a past medical history significant for hypertension and hyperlipidemia. She is not currently taking any medications. She has no known drug allergies. On physical examination, the patient appears diaphoretic and is using accessory muscles to breathe. Her vital signs are as follows: heart rate 110 bpm, blood pressure 150/95 mmHg, respiratory rate 26 breaths per minute, oxygen saturation 90% on room air. The lung examination reveals decreased breath sounds on the left side with dullness to percussion. The rest of the physical examination is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or night sweats.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient presents with shortness of breath but denies cough, wheezing, or hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain or muscle weakness.",
+    "skin": "The patient denies rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "None",
+  "past_surgical_history": "No surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, lives alone, independent with activities of daily living"
+}

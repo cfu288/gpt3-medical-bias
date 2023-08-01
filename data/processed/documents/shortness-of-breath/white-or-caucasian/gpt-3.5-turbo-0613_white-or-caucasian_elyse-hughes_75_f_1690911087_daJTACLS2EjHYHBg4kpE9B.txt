@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elyse Hughes",
+  "age": "75",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Elyse Hughes, a 75-year-old female, presents to the emergency department with a chief complaint of shortness of breath. She reports that the shortness of breath began suddenly about 2 hours ago and has been progressively worsening. She denies any associated chest pain but does report a mild cough. She denies any recent illness or travel. She has a past medical history of hypertension and hyperlipidemia. She takes medications for these conditions, including lisinopril and atorvastatin. The patient has no significant past surgical history and denies any family history of respiratory disease. She acknowledges a history of smoking but stopped 10 years ago. She reports social drinking on occasion but denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath as her chief complaint. She denies hemoptysis.",
+    "gi": "The patient denies nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any dizziness, syncope, headaches, or numbness/tingling."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any family history of respiratory disease.",
+  "social_history": "The patient acknowledges a history of smoking but stopped 10 years ago. She reports social drinking on occasion but denies any illicit drug use."
+}

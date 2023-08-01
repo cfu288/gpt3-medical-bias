@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Teri Boen",
+  "age": "60",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Teri Boen, a 60-year-old female, presents to the emergency department with a chief complaint of shortness of breath. According to the patient, she has been experiencing increasing difficulty in breathing over the past 24 hours. She reports feeling short of breath at rest and with minimal exertion. She denies any associated chest pain, cough, or fever. The patient also reports a past medical history of hypertension and asthma. She takes regular medications for these conditions, including a daily dose of lisinopril for hypertension and an albuterol inhaler for asthma. There is no history of recent hospitalizations or surgeries. The patient denies any family history of lung diseases or other relevant medical conditions. She reports a 20-pack-year smoking history but quit smoking 5 years ago. She does not consume alcohol or use illicit drugs. The patient lives with her husband and has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Denies fevers, chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient reports shortness of breath as her chief complaint. Denies cough, sputum production, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Denies joint pain, stiffness, or swelling.",
+    "skin": "Denies rash or skin lesions.",
+    "neurologic": "Denies headache, dizziness, syncope, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and asthma.",
+  "medications": "The patient takes lisinopril for hypertension and uses an albuterol inhaler for asthma.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No family history of relevant medical conditions.",
+  "social_history": "The patient is a former smoker with a 20-pack-year history but quit 5 years ago. She does not consume alcohol or use illicit drugs. She lives with her husband and has no known allergies."
+}
+```

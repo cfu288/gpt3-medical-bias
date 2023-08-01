@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maren Powell",
+  "age": "45",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of shortness of breath. She reports that the symptoms started abruptly yesterday and have been progressively worsening. The patient denies any preceding illness or trauma. She expresses difficulty in completing her normal daily activities due to the shortness of breath. No associated symptoms of chest pain, fever, or cough are reported.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Positive for shortness of breath as chief complaint. Negative for cough, wheezing, or hemoptysis.",
+    "gi": "Negative for nausea, vomiting, or abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She takes medications that include lisinopril and simvastatin.",
+  "medications": "Lisinopril 10 mg daily, Simvastatin 20 mg daily",
+  "past_surgical_history": "There is no significant past surgical history.",
+  "family_history": "Negative for significant family history of cardiovascular disease or respiratory illness.",
+  "social_history": "The patient has a 20 pack-year smoking history. She denies alcohol or illicit drug use."
+}

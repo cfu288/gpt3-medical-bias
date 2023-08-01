@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Jones",
+  "age": "78",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Henri Jones, a 78-year-old male, presents to the emergency department with a chief complaint of shortness of breath. The patient reports that he has been experiencing increasing difficulty breathing over the past 2 days. He states that the shortness of breath is worse with exertion and that he has been unable to perform tasks that were previously easy for him. He denies any chest pain, cough, or fever. He has a history of chronic obstructive pulmonary disease (COPD) and has previously been prescribed inhalers and oxygen therapy. He reports that his symptoms have been progressively worsening despite the use of his prescribed medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any fever, chills, or weight loss.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath with exertion, but denies any cough, wheezing, or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any changes in urinary frequency, urgency, or incontinence.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of COPD, hypertension, and dyslipidemia.",
+  "medications": "The patient is currently taking albuterol inhaler, tiotropium inhaler, and simvastatin.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and heart disease.",
+  "social_history": "The patient is a retired engineer. He quit smoking 10 years ago and denies any alcohol or illicit drug use."
+}

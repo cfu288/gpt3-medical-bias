@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Davis",
+  "age": "57",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient Willie Davis, a 57-year-old male, presents to the emergency department with a chief complaint of shortness of breath. He reports that his symptoms started earlier this morning and have been gradually worsening throughout the day. He denies any associated chest pain or cough. Patient states that he has a past medical history of hypertension and hyperlipidemia. He takes medications for both conditions, but is unsure of the names. Patient denies any recent surgeries or hospitalizations. He does not have any known allergies. Family history is positive for heart disease in his paternal grandfather. Patient reports a smoking history of 20 pack-years and drinks alcohol occasionally. No illicit drug use reported. Patient works as a construction worker and denies any recent travel. No recent sick contacts. On further questioning, patient admits to occasional wheezing and mild exertional dyspnea, especially when climbing stairs. He also reports occasional swelling of his feet at the end of the day. No fever or chills. No recent travel to high altitude areas."
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling generally fatigued and weak.",
+    "cardiovascular": "Patient denies chest pain or palpitations. Reports occasional swelling in feet.",
+    "respiratory": "Patient reports shortness of breath, especially with exertion. Denies cough or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary symptoms.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "Patient denies headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Unknown",
+  "past_surgical_history": "None",
+  "family_history": "Positive for heart disease in paternal grandfather.",
+  "social_history": "Patient is a current smoker with a 20 pack-year history. Occasionally drinks alcohol. No illicit drug use. Works as a construction worker. No recent travel or sick contacts."
+}

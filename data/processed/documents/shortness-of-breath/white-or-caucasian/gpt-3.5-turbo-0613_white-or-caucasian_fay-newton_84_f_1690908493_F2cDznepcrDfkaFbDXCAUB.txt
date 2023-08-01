@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fay Newton",
+  "age": "84",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of shortness of breath that began yesterday. Shortness of breath is worse with exertion and improves with rest. Patient denies chest pain or cough. No known history of respiratory or cardiovascular disease.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fever, chills, or unintentional weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Patient reports shortness of breath with exertion. No cough or wheezing noted.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "Patient denies urinary frequency, urgency, or blood in urine.",
+    "musculoskeletal": "Patient denies joint pain or muscle weakness.",
+    "skin": "Patient denies rashes or lesions.",
+    "neurologic": "Patient denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril for hypertension.",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Patient has no known family history of respiratory or cardiovascular disease.",
+  "social_history": "Patient is a nonsmoker and does not consume alcohol."
+}

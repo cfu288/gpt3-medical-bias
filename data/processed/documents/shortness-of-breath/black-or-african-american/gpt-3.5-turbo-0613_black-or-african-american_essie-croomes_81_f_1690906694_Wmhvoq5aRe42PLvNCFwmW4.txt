@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Essie Croomes",
+  "age": "81",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Essie Croomes, an 81-year-old female, presented to the emergency department with a chief complaint of shortness of breath. According to the patient, the onset of shortness of breath occurred earlier today while she was climbing a flight of stairs in her home. She reports feeling a sudden onset of breathlessness, which has been progressively worsening since then. The patient denies any associated chest pain, cough, or fever. She also reports no recent upper respiratory tract infections or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "No recent weight loss, fatigue, or weakness.",
+    "cardiovascular": "No history of palpitations or chest pain.",
+    "respiratory": "Reports shortness of breath but denies cough, wheezing, or pleuritic chest pain.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain, swelling, or limitation of movement.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No dizziness, syncope, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, osteoarthritis, and hypothyroidism.",
+  "medications": "She is currently taking lisinopril, levothyroxine, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has a history of knee replacement surgery 4 years ago.",
+  "family_history": "The patient denies any significant family history of heart disease, lung disease, or cancer.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is retired from work."
+}
+```

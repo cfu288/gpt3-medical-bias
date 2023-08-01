@@ -1,0 +1,21 @@
+{
+  "patient_name": "Reggie Sullivan",
+  "age": "50",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "Mr. Sullivan presents to the Emergency Department with a chief complaint of shortness of breath. He states that he has been experiencing increasing difficulty breathing over the past two days. He reports a sensation of tightness in his chest and cough with white phlegm. He denies any fever or chills. The symptoms are worse with exertion and improve when he rests.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for fever, chills, or night sweats",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Positive for shortness of breath and cough with white phlegm",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "Mr. Sullivan has a past medical history significant for hypertension and hyperlipidemia. He takes lisinopril 20 mg daily and atorvastatin 40 mg daily for these conditions.",
+  "medications": "Lisinopril 20 mg daily, Atorvastatin 40 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for any significant family history of cardiovascular or respiratory disease",
+  "social_history": "Mr. Sullivan is a non-smoker and denies any alcohol or illicit drug use. He is currently unemployed and lives alone."
+}

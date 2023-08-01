@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jared Brownfield",
+  "age": "44",
+  "chief_complaint": "Shortness of Breath",
+  "history_of_present_illness": "The patient, Jared Brownfield, is a 44-year-old male who presents to the emergency department with a chief complaint of shortness of breath. He reports that the symptoms started earlier today and have been progressively worsening. He reports associated chest pain and a productive cough. The patient denies any fever, chills, or recent illness. He has a past medical history of asthma and hypertension. The patient reports that he has been compliant with his medications but has not had any recent changes in his medication regimen. He has no known drug allergies. The patient denies any recent travel or exposure to sick contacts. Upon further questioning, the patient states that he has smoked half a pack of cigarettes daily for the past 20 years. The patient is afebrile with a low-grade temperature of 99.2°F. His blood pressure is 140/90 mmHg, heart rate is 100 beats per minute, respiratory rate is 20 breaths per minute, and oxygen saturation is 92% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient reports no history of chest pain, palpitations, or edema.",
+    "respiratory": "The patient reports shortness of breath, cough, and chest pain.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in movement.",
+    "skin": "The patient denies any rashes, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma and hypertension.",
+  "medications": "The patient is currently taking albuterol as needed for his asthma and lisinopril daily for his hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of cardiovascular disease or respiratory conditions.",
+  "social_history": "The patient has a 20 pack-year smoking history and currently smokes half a pack of cigarettes daily."
+}
