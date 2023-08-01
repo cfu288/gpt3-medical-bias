@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rosetta Green",
+  "age": "76",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Rosetta Green, a 76-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever began three days ago and has been persistent since then. She denies any associated symptoms such as chills, body aches, or cough. She has not taken any over-the-counter medications for the fever.",
+  "review_of_symptoms": {
+    "constitutional": "No chills or night sweats",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. She takes metoprolol for hypertension, metformin for diabetes, and atorvastatin for hyperlipidemia. ",
+  "medications": "Metoprolol 50 mg daily, metformin 1000 mg twice daily, atorvastatin 20 mg daily.",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "The patient reports a family history of hypertension and diabetes mellitus in her parents.",
+  "social_history": "The patient is married and lives with her husband. She is a retired teacher. She does not smoke or drink alcohol. She lives a sedentary lifestyle and does not engage in regular exercise."
+}
+```

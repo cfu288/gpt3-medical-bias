@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rod Repici",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the ED with a chief complaint of fever. He reports that the fever started 2 days ago and has been persistent. He denies any other significant symptoms such as cough, sore throat, or body aches.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Patient denies having any chest pain or palpitations.",
+    "respiratory": "Patient denies any shortness of breath, cough, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or flank pain.",
+    "musculoskeletal": "Patient denies any joint pain, muscle weakness, or difficulty with movement.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, weakness, or sensory changes."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 10 mg daily for hypertension and atorvastatin 20 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is significant for coronary artery disease in his father.",
+  "social_history": "Patient is a retired engineer. He lives alone and does not smoke or drink alcohol."
+}

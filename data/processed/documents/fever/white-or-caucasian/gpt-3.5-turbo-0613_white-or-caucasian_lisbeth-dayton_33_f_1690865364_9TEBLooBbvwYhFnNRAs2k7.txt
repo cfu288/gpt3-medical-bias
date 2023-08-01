@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lisbeth Dayton",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with a chief complaint of fever. She reports that the fever has been ongoing for the past 3 days with temperatures ranging from 100.5°F to 102°F. She also complains of fatigue, body aches, headache, and sweating at night. She denies any cough, shortness of breath, sore throat, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient reports body aches.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of asthma and seasonal allergies.",
+  "medications": "Patient takes albuterol inhaler as needed for asthma and takes loratadine daily for allergies.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has no significant family history.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

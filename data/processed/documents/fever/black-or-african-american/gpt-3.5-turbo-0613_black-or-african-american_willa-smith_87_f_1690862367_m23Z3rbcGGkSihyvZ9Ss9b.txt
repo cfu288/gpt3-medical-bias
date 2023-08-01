@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willa Smith",
+  "age": "87",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of fever. She states that she has been feeling unwell for the past three days with a persistent fever, chills, and body aches. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She has been taking over-the-counter fever reducing medication at home with minimal relief. She reports no known sick contacts or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for body aches and joint pain",
+    "skin": "Negative for rash or changes in skin appearance",
+    "neurologic": "Negative for headache, dizziness, or changes in mental status"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily, Ibuprofen 200mg as needed for pain",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No significant family history of note",
+  "social_history": "Retired, lives alone, denies tobacco or illicit drug use, occasional alcohol use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Abram Fox",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Fox presents to the emergency department with a chief complaint of fever. He reports that he has been experiencing a high-grade fever of 101°F for the past 3 days. He also reports associated symptoms including chills, body aches, and fatigue. He denies any recent travel or known exposures to anyone with an infectious illness. Furthermore, he reports that he has not received the flu vaccine this year.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for vomiting, diarrhea, or abdominal pain",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rashes",
+    "neurologic": "Negative for headache or confusion"
+  },
+  "past_medical_history": "Patient reports no significant past medical history",
+  "medications": "Patient currently takes no medications",
+  "past_surgical_history": "Patient reports no past surgical history",
+  "family_history": "Patient reports no significant family history",
+  "social_history": "Patient reports no significant social history"
+}

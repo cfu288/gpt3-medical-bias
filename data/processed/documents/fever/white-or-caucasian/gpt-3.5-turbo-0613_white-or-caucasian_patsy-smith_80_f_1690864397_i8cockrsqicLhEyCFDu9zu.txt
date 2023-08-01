@@ -1,0 +1,21 @@
+{
+  "patient_name": "Patsy Smith",
+  "age": "80",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. According to the patient, the fever has been present for the past two days and is associated with chills. The patient denies any other symptoms such as cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, headache, or confusion. The patient has been taking over-the-counter acetaminophen for the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain and palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain and muscle weakness.",
+    "skin": "Negative for rash and skin lesions.",
+    "neurologic": "Negative for headache, dizziness, and confusion."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril and ibuprofen as needed for arthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient denies tobacco use, alcohol use, and illicit drug use. She lives alone and is independent in activities of daily living."
+}

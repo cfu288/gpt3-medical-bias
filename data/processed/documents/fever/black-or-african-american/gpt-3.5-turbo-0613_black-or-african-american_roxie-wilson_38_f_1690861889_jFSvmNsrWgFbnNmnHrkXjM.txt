@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Roxie Wilson",
+  "age": "38",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Roxie Wilson, a 38-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever for the past 2 days with temperatures ranging from 101°F to 103°F. She reports feeling fatigued and having body aches. The patient denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

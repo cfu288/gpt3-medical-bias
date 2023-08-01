@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kimberly Alford",
+  "age": "38",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with chief complaint of fever. She reports that her symptoms began two days ago and has been experiencing high-grade fever (102°F) along with chills, body aches, headache, and fatigue. She denies any cough or difficulty breathing. She states that she has been taking medications to manage her fever, which have provided temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for myalgias",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or changes in mental status"
+  },
+  "past_medical_history": "Patient has a history of seasonal allergies and occasional migraines.",
+  "medications": "Patient takes over-the-counter antihistamines for allergies and uses ibuprofen occasionally for migraines.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Patient denies smoking, alcohol or illicit drug use. She works as a teacher and lives with her husband and two school-aged children."
+}

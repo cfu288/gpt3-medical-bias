@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clyde Dailey",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Clyde Dailey, is a 53-year-old male who presented to the emergency department with a chief complaint of fever. He reports that the fever began 3 days ago and has been persistent since then. He denies any other significant symptoms such as cough, shortness of breath, abdominal pain, or urinary complaints. He has not taken any over-the-counter medications to alleviate the fever. Upon further questioning, the patient reports that he has not traveled recently and has not been in contact with anyone who is sick. He states that he has been feeling fatigued and has a decreased appetite. He denies any recent changes in weight. His past medical history is significant for hypertension and he takes lisinopril 10 mg daily. He has no known drug allergies. The patient denies any surgical procedures in the past. He has a family history of hypertension but no other significant family history. Socially, he is employed as a construction worker and denies any tobacco, alcohol, or illicit drug use. He is in a monogamous relationship and denies any high-risk sexual behaviors. The patient does not have any pets at home.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary complaints or changes in urine color or odor.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itching, or changes in skin color or texture.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No surgical history",
+  "family_history": "Family history of hypertension",
+  "social_history": "Construction worker, non-smoker, non-drinker, no illicit drug use, monogamous relationship, no pets at home"
+}

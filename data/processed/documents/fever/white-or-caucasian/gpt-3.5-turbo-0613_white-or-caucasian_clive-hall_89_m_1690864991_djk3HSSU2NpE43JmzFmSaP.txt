@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clive Hall",
+  "age": "89",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Clive Hall, is an 89-year-old male who presents to the emergency department with a chief complaint of fever. According to the patient, his fever started three days ago and has been persistent, with a maximum recorded temperature of 101°F. He denies any associated symptoms such as cough, sore throat, shortness of breath, or urinary symptoms. The patient reports feeling fatigued and has noticed a decrease in appetite. He denies any recent travel or exposure to sick individuals. His medical history includes hypertension and osteoarthritis for which he takes daily medications. The patient underwent a total knee replacement surgery five years ago without any complications. In terms of family history, the patient has a brother who had a myocardial infarction at the age of 75. Socially, the patient is a retired accountant and resides in an assisted living facility. He does not smoke or consume alcohol.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "Patient has chronic osteoarthritis but denies any acute joint pain or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes daily medications for hypertension and osteoarthritis.",
+  "past_surgical_history": "The patient underwent a total knee replacement surgery five years ago without any complications.",
+  "family_history": "The patient's brother had a myocardial infarction at the age of 75.",
+  "social_history": "The patient is a retired accountant and resides in an assisted living facility. He does not smoke or consume alcohol."
+}

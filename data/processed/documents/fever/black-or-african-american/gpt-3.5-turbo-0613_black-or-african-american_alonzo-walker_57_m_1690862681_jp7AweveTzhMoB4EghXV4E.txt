@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alonzo Walker",
+  "age": "57",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Alonzo Walker, a 57-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he developed an elevated body temperature of 101°F earlier today and has been experiencing chills and generalized malaise. He denies any other accompanying symptoms or recent significant travel or exposure. The fever has persisted for approximately 24 hours and has not responded to over-the-counter antipyretics. The patient reports that he has been feeling weak and fatigued. Upon further questioning, he denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, joint pain, rash, headache, or any neurological deficits.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20mg daily and atorvastatin 40mg daily for his hypertension and hyperlipidemia respectively.",
+  "past_surgical_history": "The patient reports no prior surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. He works as a construction worker and denies any recent sick contacts or occupational exposures."
+}

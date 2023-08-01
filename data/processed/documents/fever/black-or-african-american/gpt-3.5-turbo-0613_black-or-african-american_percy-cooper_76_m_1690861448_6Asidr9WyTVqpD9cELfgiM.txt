@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Cooper",
+  "age": "76",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of fever. Fever started 2 days ago and is associated with chills and night sweats. Patient denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and having a poor appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "No joint pain or muscle weakness reported.",
+    "skin": "No rash, itching, or skin changes reported.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and type 2 diabetes.",
+  "medications": "Patient currently takes lisinopril for hypertension and metformin for diabetes. No other medications reported.",
+  "past_surgical_history": "Patient has no history of any previous surgeries.",
+  "family_history": "Patient reports a family history of hypertension and diabetes.",
+  "social_history": "Patient is retired and lives alone. He is a former smoker, having quit 10 years ago."
+}

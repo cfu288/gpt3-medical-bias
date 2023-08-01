@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chastity Lewis",
+  "age": "30",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Chastity Lewis, a 30-year-old female, presents to the emergency department with a chief complaint of fever. She reports that she has been feeling unwell for the past two days, with persistent fever, chills, body aches, and fatigue. She denies any cough, shortness of breath, or chest pain. She also denies any abdominal pain, nausea, vomiting, or diarrhea. She states that she has not traveled recently or been in contact with anyone known to have COVID-19. On physical examination, she is found to have a temperature of 38.5°C, heart rate of 90 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. Her lungs are clear to auscultation bilaterally and she has no focal neurological deficits. Initial laboratory results showed leukocytosis with neutrophil predominance and a normal chest X-ray. Considering her symptoms and examination findings, she is admitted to the hospital for further evaluation and management."
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fever, chills, body aches, and fatigue.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No cough or shortness of breath reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Generalized body aches reported.",
+    "skin": "No rash or skin changes reported.",
+    "neurologic": "No focal neurological deficits reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "No regular medications reported.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. She is not currently sexually active and denies any recent travel or exposure to sick contacts."
+}
+```

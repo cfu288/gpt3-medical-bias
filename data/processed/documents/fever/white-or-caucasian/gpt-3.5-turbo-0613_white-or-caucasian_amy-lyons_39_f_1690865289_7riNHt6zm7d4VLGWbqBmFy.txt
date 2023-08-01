@@ -1,0 +1,22 @@
+{
+  "patient_name": "Amy Lyons",
+  "age": "39",
+  "gender": "f",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Amy Lyons, a 39-year-old female, presents to the emergency department with complaints of fever. She reports that she has been experiencing a high-grade fever of 102°F for the past 3 days. She reports associated symptoms of chills, body aches, and fatigue. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, fatigue",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Positive for body aches, joint pain",
+    "skin": "Negative for rash",
+    "neurologic": "Negative for headache, dizziness, confusion"
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "No regular medications reported.",
+  "past_surgical_history": "No previous surgeries reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

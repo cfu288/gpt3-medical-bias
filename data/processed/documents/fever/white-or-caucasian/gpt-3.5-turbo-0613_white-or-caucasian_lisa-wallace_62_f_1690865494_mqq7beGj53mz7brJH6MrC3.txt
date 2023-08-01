@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lisa Wallace",
+  "age": "62",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lisa Wallace, a 62-year-old female, presents to the emergency department with a chief complaint of fever. She reports that her fever began 2 days ago and has been intermittent. She also states that she has been experiencing chills, body aches, and fatigue. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She has not traveled recently or had any known exposure to sick contacts. Upon examination, the patient's temperature is 101.4°F, heart rate is 90 beats per minute, blood pressure is 120/80 mmHg, respiratory rate is 16 breaths per minute, and oxygen saturation is 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes. She takes metformin and lisinopril for her medical conditions.",
+  "medications": "Metformin 1000 mg daily, lisinopril 10 mg daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother had hypertension and her father had type 2 diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives alone and is independent with her activities of daily living."
+}
+```

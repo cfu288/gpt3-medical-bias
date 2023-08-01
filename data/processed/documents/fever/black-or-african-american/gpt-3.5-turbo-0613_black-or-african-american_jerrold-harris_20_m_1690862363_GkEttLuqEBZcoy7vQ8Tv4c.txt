@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jerrold Harris",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jerrold Harris, a 20-year-old male, presents to the emergency department with a chief complaint of fever. The patient reports that his fever started yesterday evening and has been continuous since then. He denies any specific associated symptoms such as cough, sore throat, or body aches. He has been taking over-the-counter acetaminophen for symptomatic relief but it has not brought down his fever significantly.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any chills or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, difficulty breathing, or wheezing.",
+    "gi": "The patient denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

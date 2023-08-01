@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bill Mulvey",
+  "age": "77",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Bill Mulvey, a 77-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he started experiencing a low-grade fever (100.5°F) two days ago. He denies any associated symptoms such as chills, sweats, cough, shortness of breath, abdominal pain, or urinary symptoms. He reports feeling fatigued and weak. His fever is not responding to over-the-counter antipyretics. He denies any recent travel or exposure to sick contacts. He has a past medical history of hypertension and osteoarthritis. He takes lisinopril for his blood pressure and acetaminophen for his osteoarthritis pain. He denies any recent changes in his medications or adherence issues. There is no history of any recent surgeries. His family history is significant for hypertension in both parents. Socially, he is a retired accountant and lives alone. He denies any tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "Lisinopril for blood pressure and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "There is no history of any surgical procedures.",
+  "family_history": "Family history is significant for hypertension in both parents.",
+  "social_history": "The patient is a retired accountant and lives alone. He denies any tobacco, alcohol, or illicit drug use."
+}

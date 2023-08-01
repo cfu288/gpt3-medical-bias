@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marlon Person",
+  "age": "28",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Person is a 28-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started approximately two days ago and has been persistent. He has also been experiencing chills, body aches, and headache. He denies any cough, sore throat, shortness of breath, or any other associated symptoms. He states he has been feeling fatigued and has had a decreased appetite. He has been taking over-the-counter medications for his symptoms, but they have provided minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "Decreased appetite, but no abdominal pain or nausea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Body aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Headache."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient has been taking over-the-counter medications for his symptoms including acetaminophen.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He is currently employed as a software engineer and denies any recent travel."
+}

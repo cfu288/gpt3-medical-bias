@@ -1,0 +1,21 @@
+{
+  "patient_name": "Socorro Counts",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that the fever started 2 days ago and is associated with chills and body aches. She denies any cough, chest pain, shortness of breath, abdominal pain, urinary symptoms, or skin rash. She has been taking over-the-counter acetaminophen to help reduce the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and weak.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Patient reports body aches and joint pain.",
+    "skin": "Patient denies any skin rash.",
+    "neurologic": "Patient denies any headache, dizziness, or numbness/tingling."
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled with medication. No other significant past medical history.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient's mother had a history of high blood pressure.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She lives alone and works as a teacher at a local school. No known exposure to sick contacts or recent travel."
+}

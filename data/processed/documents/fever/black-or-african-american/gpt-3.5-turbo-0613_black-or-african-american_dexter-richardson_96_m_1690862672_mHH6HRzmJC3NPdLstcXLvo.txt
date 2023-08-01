@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dexter Richardson",
+  "age": "96",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Dexter Richardson, a 96-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he started experiencing a mild fever with chills yesterday evening. He denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, or genitourinary symptoms. He also denies any recent travel, sick contacts, or exposure to sick individuals. The patient reports that he has been feeling weak and fatigued for the past few days. He denies any recent changes in his medication or any new allergies. The patient's past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis. He is currently taking lisinopril for his blood pressure and atorvastatin for his hyperlipidemia. The patient has had no recent surgeries and denies any prior major medical interventions. In terms of family history, he reports no specific medical conditions that run in his family. The patient lives alone and denies smoking, alcohol consumption, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any genitourinary symptoms such as dysuria or hematuria.",
+    "musculoskeletal": "The patient reports mild joint pain in his knees and hips.",
+    "skin": "The patient denies any rashes, itching, or swelling of the skin.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin.",
+  "past_surgical_history": "The patient has no prior surgeries or major medical interventions.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient lives alone and denies smoking, alcohol consumption, or illicit drug use."
+}

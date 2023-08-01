@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tim Chamberlin",
+  "age": "51",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tim Chamberlin, a 51-year-old male, presents to the emergency department with a chief complaint of fever. He reports that his symptoms began two days ago with an onset of high-grade fever, chills, and body aches. He denies any recent travel or exposure to sick contacts. He has been taking over-the-counter medications to reduce his fever, but they have only provided temporary relief. He also reports feeling fatigued and having a mild headache. There is no associated cough, shortness of breath, chest pain, diarrhea, or urinary symptoms. He denies any recent changes in appetite, weight loss, or skin rashes. His past medical history is significant for hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin, respectively. He has no known drug allergies. He denies any recent surgeries, family history of similar symptoms, or any other relevant family history. In terms of social history, he is a nonsmoker and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a mild headache.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in consciousness, focal weakness, or sensory changes."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "",
+  "family_history": "No relevant family history.",
+  "social_history": "Nonsmoker, no alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ian White",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. White presents to the emergency department with a chief complaint of fever. He reports that his symptoms began 3 days ago and have been progressively worsening. He describes his fever as high-grade, reaching up to 102°F (39°C). He also reports experiencing chills, body aches, and generalized weakness. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, or neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fever, chills, and generalized weakness.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports body aches and generalized weakness.",
+    "skin": "The patient denies any rashes, sores, or lesions.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or confusion."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and diabetes. He takes lisinopril for his hypertension and metformin for his diabetes.",
+  "medications": "1. Lisinopril 10 mg daily\n2. Metformin 500 mg twice daily",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient reports a family history of diabetes. His mother and two siblings have been diagnosed with diabetes.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or drug abuse. He works as an accountant and lives with his wife and two children."
+}

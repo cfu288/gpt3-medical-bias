@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrick Forbes",
+  "age": "45",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Forbes is a 45-year-old male who presents to the emergency department with a chief complaint of fever. He reports that his fever started three days ago and has been persistent. He also complains of chills and body aches. He denies any cough, shortness of breath, or abdominal pain. He has not noticed any changes in his urine or bowel movements.",
+  "review_of_symptoms": {
+    "constitutional": "positive for fever and chills",
+    "cardiovascular": "denies chest pain, palpitations or edema",
+    "respiratory": "denies cough, shortness of breath, or wheezing",
+    "gi": "denies abdominal pain, nausea, vomiting or diarrhea",
+    "gu": "denies changes in urine color, frequency, or urgency",
+    "musculoskeletal": "positive for body aches",
+    "skin": "denies rash, itchiness, or lesions",
+    "neurologic": "denies headache or changes in vision"
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension",
+  "medications": "The patient is currently taking Lisinopril 10mg daily for hypertension",
+  "past_surgical_history": "The patient has no history of surgical procedures",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Andre Pendleton",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Pendleton is a 64-year-old male who presents to the emergency department with a chief complaint of fever. He reports experiencing an elevated body temperature for the last two days associated with chills and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, headache, or rash. His fever has not responded to over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and chills.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Denies headache or neurological symptoms."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and type 2 diabetes controlled with medication.",
+  "medications": "Patient takes lisinopril and metformin daily.",
+  "past_surgical_history": "Patient denies any prior surgeries.",
+  "family_history": "Patient reports a family history of heart disease in his father.",
+  "social_history": "Patient is a retired mechanic and lives alone. He smokes half a pack of cigarettes per day and denies alcohol or illicit drug use."
+}

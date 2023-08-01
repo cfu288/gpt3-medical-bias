@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jamal Bowen",
+  "age": "18",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jamal Bowen, an 18-year-old male, presents to the emergency department with a chief complaint of fever. He reports a fever of 101 degrees Fahrenheit, which started yesterday evening. The patient denies any other associated symptoms such as cough, shortness of breath, sore throat, abdominal pain, or urinary symptoms. He states that he has been feeling fatigued and has generalized body aches. He denies any recent travel or sick contacts. His past medical history is unremarkable and he is not taking any medications or has any known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No complaints of chest pain or palpitations.",
+    "respiratory": "No complaints of cough or shortness of breath.",
+    "gi": "No complaints of abdominal pain or changes in bowel habits.",
+    "gu": "No complaints of urinary symptoms.",
+    "musculoskeletal": "The patient reports generalized body aches.",
+    "skin": "No complaints of rash or skin changes.",
+    "neurologic": "No complaints of headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history.",
+  "social_history": "The patient denies any tobacco, alcohol, or drug use. He is a student and lives with his family."
+}
+```

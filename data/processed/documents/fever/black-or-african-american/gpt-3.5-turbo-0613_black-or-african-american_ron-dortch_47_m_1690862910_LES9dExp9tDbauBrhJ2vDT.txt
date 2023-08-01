@@ -1,0 +1,22 @@
+{
+  "patient_name": "Ron Dortch",
+  "age": "47",
+  "gender": "m",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ron Dortch, is a 47-year-old male who presents to the emergency department with a chief complaint of fever. He states that he has had a high-grade fever of 102°F for the past two days. He also reports associated symptoms of chills, headache, body aches, and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, or diarrhea. He states that he has not traveled recently.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, headache, and fatigue.",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin for these conditions.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father has a history of heart disease.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He is currently unemployed."
+}

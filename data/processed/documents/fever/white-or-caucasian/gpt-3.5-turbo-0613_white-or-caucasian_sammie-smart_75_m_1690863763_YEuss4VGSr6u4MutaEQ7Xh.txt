@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Sammie Smart"
+    },
+    "age": {
+      "type": "string",
+      "value": "75"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Fever"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Sammie Smart, presented to the emergency department with a complaint of fever. He reports that he has been feeling unwell for the past few days with symptoms of fever, chills, and body aches. He denies any cough, shortness of breath, or chest pain. He states that he has tried taking over-the-counter fever reducers, but they have not provided much relief. He also mentions that he has noticed increased fatigue and decreased appetite. Upon further questioning, he denies any recent travel or exposure to sick individuals."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Positive for fever, chills, fatigue, and decreased appetite."
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Negative for chest pain, palpitations, or edema."
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Negative for cough, shortness of breath, or sputum production."
+        },
+        "gi": {
+          "type": "string",
+          "value": "Negative for abdominal pain, nausea, vomiting, or diarrhea."
+        },
+        "gu": {
+          "type": "string",
+          "value": "Negative for dysuria, frequency, urgency, or hematuria."
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Negative for joint pain, swelling, or stiffness."
+        },
+        "skin": {
+          "type": "string",
+          "value": "Negative for rash, itching, or lesions."
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Negative for headache, dizziness, or focal neurological deficits."
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "The patient has a history of hypertension, well-controlled on medication. He also has a history of osteoarthritis and takes nonsteroidal anti-inflammatory drugs (NSAIDs) as needed for pain management."
+    },
+    "medications": {
+      "type": "string",
+      "value": "Hydrochlorothiazide for hypertension, NSAIDs for osteoarthritis pain."
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "The patient has no history of any surgeries."
+    },
+    "family_history": {
+      "type": "string",
+      "value": "The patient's family history is significant for hypertension and osteoarthritis."
+    },
+    "social_history": {
+      "type": "string",
+      "value": "The patient is retired and lives alone. He does not smoke or consume alcohol. He has no known allergies."
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

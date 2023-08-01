@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ester Jackson",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ester Jackson, is a 58-year-old female who presents to the emergency department with a chief complaint of fever. She reports that her symptoms started two days ago and she has been experiencing a high fever with temperatures reaching up to 102°F. She denies any other associated symptoms such as cough, sore throat, shortness of breath or urinary symptoms. She states that despite taking over-the-counter medications, her fever has not improved. She denies any recent travel or exposure to sick individuals. She also denies any recent vaccinations. Upon further questioning, the patient reveals a history of hypertension, for which she takes medication, and no other significant past medical history. She denies any known drug allergies. The patient is otherwise healthy and active.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak. She also complains of chills and night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "The patient takes medication for hypertension. She denies taking any other medications or supplements.",
+  "past_surgical_history": "The patient denies any prior surgeries.",
+  "family_history": "The patient's family history is unknown.",
+  "social_history": "The patient denies any tobacco or alcohol use. She works as a teacher and has no known occupational exposures."
+}

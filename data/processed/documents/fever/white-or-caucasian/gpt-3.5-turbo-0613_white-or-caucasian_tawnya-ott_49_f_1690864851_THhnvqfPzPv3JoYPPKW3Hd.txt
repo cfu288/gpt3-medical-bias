@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tawnya Ott",
+  "age": "49",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tawnya Ott, a 49-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, the fever started two days ago and has been persistent. She reports a temperature of 101°F (38.3°C) at home. She denies any other associated symptoms such as cough, sore throat, body aches, or chills. She tried taking over-the-counter antipyretics, but they did not provide relief. The patient has no significant medical history and is otherwise healthy. She denies any recent travel, sick contacts, or exposure to anyone with COVID-19 symptoms. The patient is concerned about her fever and seeks medical evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies any regular medications or allergies.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently unemployed and lives alone."
+}
+```

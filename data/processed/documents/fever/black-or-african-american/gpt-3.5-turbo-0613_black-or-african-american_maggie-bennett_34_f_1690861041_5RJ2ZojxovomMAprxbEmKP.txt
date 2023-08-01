@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maggie Bennett",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Maggie Bennett, a 34-year-old female, presents to the emergency department with a chief complaint of fever. She reports experiencing a high-grade fever of 101°F for the past 2 days, accompanied by chills and body aches. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She reports taking over-the-counter acetaminophen for fever control with minimal relief. She denies any recent travel, sick contacts, or exposure to infectious diseases. On further questioning, she reports feeling fatigued and experiencing night sweats. No known allergies to medications or foods.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and experiencing night sweats.",
+    "cardiovascular": "Denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "Denies cough, sore throat, or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "Denies rash, itching, or changes in the skin.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. She works as a teacher and is currently not sexually active."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Norris Farmer",
+  "age": "63",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Norris Farmer, a 63-year-old male, presents to the emergency department with a chief complaint of fever. The patient reports that the fever started 2 days ago and has been persisting since then. He denies any other associated symptoms such as cough, sore throat, body aches, or chills. He states that he has been feeling fatigued and has a decreased appetite. The patient has been taking over-the-counter medications for the fever, but they have not provided relief. He states that his temperature spiked at 101°F (38.3°C) last night and has been fluctuating between 99°F (37.2°C) and 100°F (37.8°C) today. The patient has no significant medical history and is not on any chronic medications. He denies any recent travel, sick contacts, or exposure to infectious diseases. Additionally, he denies any recent changes in his diet or lifestyle. The patient has not had any surgical procedures in the past.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sore throat, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient denies any significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "The patient has not had any previous surgical procedures.",
+  "family_history": "The patient has no known family history of any significant medical conditions.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco, alcohol, or illicit drug use."
+}

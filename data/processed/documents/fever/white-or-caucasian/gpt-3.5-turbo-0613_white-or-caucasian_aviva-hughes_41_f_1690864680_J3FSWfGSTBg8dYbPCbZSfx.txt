@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aviva Hughes",
+  "age": "41",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Aviva Hughes, a 41-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She has associated symptoms of chills, headache, and body aches. She denies any cough, shortness of breath, sore throat, abdominal pain, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or confusion"
+  },
+  "past_medical_history": "Aviva Hughes has a past medical history of hypertension and asthma.",
+  "medications": "She takes daily medications including lisinopril for hypertension and albuterol inhaler for asthma.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "Negative for any significant family history.",
+  "social_history": "She works as a teacher and denies any tobacco or alcohol use."
+}
+```

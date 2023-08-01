@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maury Estes",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents today with a chief complaint of fever. He reports having a high fever for the past 3 days, with temperatures ranging from 101°F to 103°F. He also reports feeling weak and fatigued. He denies any cough, sore throat, or shortness of breath. No other significant symptoms to report.",
+  "review_of_symptoms": {
+    "constitutional": "Fatigue, weakness",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, vomiting or diarrhea",
+    "gu": "No urinary frequency, urgency, or pain",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or altered mental status"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 40mg daily",
+  "past_surgical_history": "None",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "Patient is a retired accountant. He is a non-smoker and does not consume alcohol."
+}
+```

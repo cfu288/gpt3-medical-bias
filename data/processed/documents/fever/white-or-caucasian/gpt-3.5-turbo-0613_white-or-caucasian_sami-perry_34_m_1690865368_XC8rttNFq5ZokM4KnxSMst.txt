@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sami Perry",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Sami Perry, a 34-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever of 101°F for the past 2 days. He also reports associated symptoms of chills, body aches, headache, and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, or neurological symptoms. He reports no recent travel or sick contacts. Upon further questioning, he mentions that he has not noticed any rash or changes in his skin. He denies any previous history of similar episodes of fever. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for neurological symptoms."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of note.",
+  "social_history": "The patient denies smoking, alcohol consumption, or illicit drug use."
+}

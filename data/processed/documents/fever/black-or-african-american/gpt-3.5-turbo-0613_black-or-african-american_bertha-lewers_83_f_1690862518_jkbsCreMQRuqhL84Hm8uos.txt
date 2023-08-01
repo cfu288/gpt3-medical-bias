@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bertha Lewers",
+  "age": "83",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Bertha Lewers, an 83-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a high-grade fever of 101°F for the past two days. She also reports feeling fatigued and has noticed a decrease in appetite. She denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms. She states that she has not traveled recently or been in contact with anyone who is sick. The patient has a past medical history of hypertension and osteoarthritis. She reports being compliant with her medications, which include lisinopril and ibuprofen for pain. She has no known allergies. No significant recent surgeries or hospitalizations. No family history of infectious diseases. The patient lives alone and is independent in her activities of daily living.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and experiencing a decrease in appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms or changes in urinary frequency or color.",
+    "musculoskeletal": "Patient reports chronic joint pain related to osteoarthritis.",
+    "skin": "No rashes, lesions, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis.",
+  "medications": "Lisinopril, ibuprofen.",
+  "past_surgical_history": "No significant surgeries.",
+  "family_history": "No family history of infectious diseases.",
+  "social_history": "The patient lives alone and is independent in her activities of daily living."
+}

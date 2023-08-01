@@ -1,0 +1,22 @@
+{
+  "patient_name": "Marcia Clarke",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Marcia Clarke, is an 81-year-old female who presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing fever for the past two days with temperatures ranging from 100.5°F to 102°F. She denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. The patient states that she has been feeling fatigued and weak and has noticed a decrease in her appetite. She reports no recent travel or exposure to sick individuals. She denies any known contacts with COVID-19."
+  "review_of_symptoms": {
+    "constitutional": "Patient denies chills, night sweats, or weight changes.",
+    "cardiovascular": "No chest pain, palpitations, or swelling in the lower extremities.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, swelling, or muscle weakness.",
+    "skin": "No rash, itching, or changes in the skin.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She is currently on lisinopril 10mg daily and atorvastatin 20mg daily for her hypertension and hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia in her parents. She is unsure about any other family history.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol use, or illicit drug use.",
+  "$schema": "http://json-schema.org/draft-04/schema#"
+}

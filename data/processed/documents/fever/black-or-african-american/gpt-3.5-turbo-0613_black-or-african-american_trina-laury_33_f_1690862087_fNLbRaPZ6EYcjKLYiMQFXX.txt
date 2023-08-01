@@ -1,0 +1,24 @@
+```json
+{
+  "patient_name": "Trina Laury",
+  "age": "33",
+  "gender": "f",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Trina Laury, a 33-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever started three days ago and has been persistent since then. She denies any associated symptoms such as cough, sore throat, or shortness of breath. She also denies any recent travel or exposure to sick contacts. The patient took over-the-counter acetaminophen to manage her fever, but it only provided temporary relief. Her temperature on arrival to the ED was 101.5°F.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "She denies chest pain, palpitations, or lightheadedness.",
+    "respiratory": "She denies cough, shortness of breath, or wheezing.",
+    "gi": "She denies abdominal pain, nausea, or vomiting.",
+    "gu": "She denies dysuria, urinary frequency, or urgency.",
+    "musculoskeletal": "She denies joint pain, swelling, or stiffness.",
+    "skin": "She denies rash, itching, or skin discoloration.",
+    "neurologic": "She denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient works as a teacher and lives with her husband. She denies any tobacco, alcohol, or illicit drug use."
+}
+```

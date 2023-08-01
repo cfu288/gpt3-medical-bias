@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rory Drollette",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Rory Drollette is a 64-year-old male who presented to the emergency department with a chief complaint of fever. The patient reports that he has been experiencing a fever of 101 degrees Fahrenheit for the past 2 days. He denies any associated symptoms such as cough, sore throat, difficulty breathing, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any chills, sweats, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sore throat, or difficulty breathing.",
+    "gi": "Patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies any joint pain, muscle aches, or weakness.",
+    "skin": "Patient denies any rashes, itching, or lesions.",
+    "neurologic": "Patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient's past medical history is notable for hypertension, hyperlipidemia, and type 2 diabetes. He has no history of immunosuppression or cancer.",
+  "medications": "Patient is currently taking lisinopril for hypertension and metformin for diabetes.",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Patient has a family history of hypertension and diabetes. There is no family history of cancer.",
+  "social_history": "Patient is a retired construction worker. He denies tobacco or alcohol use."
+}

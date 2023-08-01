@@ -1,0 +1,21 @@
+{
+  "patient_name": "Duke Picard",
+  "age": "69",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of fever. According to the patient, the fever started 2 days ago and has been persistent. He denies any other associated symptoms at this time. Patient reports taking acetaminophen for the fever, which provided temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss or night sweats.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms.",
+    "musculoskeletal": "Patient denies any joint pain or muscle weakness.",
+    "skin": "Patient denies any rashes or new moles.",
+    "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension, but is not currently taking any medications for it.",
+  "medications": "Patient takes acetaminophen as needed for pain or fever.",
+  "past_surgical_history": "Patient had an appendectomy 10 years ago.",
+  "family_history": "Patient's mother had a history of hypertension and his father had a history of diabetes.",
+  "social_history": "Patient is retired and lives alone. He denies smoking or alcohol use."
+}

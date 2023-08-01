@@ -1,0 +1,21 @@
+{
+  "patient_name": "Curtiss Banks",
+  "age": "26",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. The patient reports that the fever started 2 days ago and has been persistent. He also complains of chills and body aches. The patient denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, and difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, and diarrhea.",
+    "gu": "Negative for dysuria, hematuria, and frequency.",
+    "musculoskeletal": "Positive for body aches and joint pain.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache or confusion."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient does not take any medications.",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has no significant family history.",
+  "social_history": "Patient denies smoking, alcohol use, and drug use. Patient is currently employed as an accountant and lives alone."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Fadi Taylor",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with a chief complaint of fever, which started three days ago. Patient reports a temperature of 102°F. He also complains of chills, body aches, and headache. No cough, shortness of breath, or sore throat.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for altered mental status or headache"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10 mg daily, atorvastatin 20 mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Negative for family history of hypertension, diabetes, or cancer",
+  "social_history": "Patient works as a computer programmer. Denies tobacco or alcohol use."
+}

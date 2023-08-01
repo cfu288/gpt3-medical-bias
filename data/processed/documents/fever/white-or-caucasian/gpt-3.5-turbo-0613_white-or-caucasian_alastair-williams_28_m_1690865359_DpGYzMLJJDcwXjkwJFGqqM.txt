@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alastair Williams",
+  "age": "28",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Williams, presents to the emergency department with a chief complaint of fever. He reports that his symptoms started two days ago, with a sudden onset of high-grade fever (temperature of 102°F), chills, headache, and body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He also denies any recent travel or exposure to sick contacts. He took acetaminophen for the fever, which provided temporary relief but the fever has been persisting.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies any current use of medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is employed as an engineer and denies any tobacco, alcohol, or illicit drug use."
+}

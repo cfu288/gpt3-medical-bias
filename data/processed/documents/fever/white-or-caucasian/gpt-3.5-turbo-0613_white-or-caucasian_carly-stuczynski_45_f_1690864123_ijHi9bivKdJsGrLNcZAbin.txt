@@ -1,0 +1,21 @@
+{
+  "patient_name": "Carly Stuczynski",
+  "age": "45",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Carly Stuczynski, is a 45-year-old female who presented to the emergency department with a chief complaint of fever. The patient reports that her fever began two days ago and has been persistent. She denies any other associated symptoms such as cough, sore throat, or body aches. The patient has been taking ibuprofen for the fever, but it has not provided much relief. She decided to come to the ED due to the persistent fever and concern for underlying infection.\n\nUpon further questioning, the patient denies any recent travel, sick contacts, or exposure to infectious diseases. She has not experienced any urinary or gastrointestinal symptoms. She denies any recent changes in weight or appetite. She has not noticed any rashes or skin lesions. The patient does not have a history of seizures or neurological deficits.\n\nThe patient has a past medical history of hypertension and hyperlipidemia. She takes lisinopril 10mg daily and atorvastatin 20mg daily. The patient has no known drug allergies.\n\nIn terms of past surgical history, the patient has had a cholecystectomy 5 years ago.\n\nThere is no family history of significant medical conditions.\n\nThe patient has been working as an accountant for the past 10 years. She denies any tobacco, alcohol, or illicit drug use. She exercises regularly and maintains a healthy diet.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing chills along with the fever.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, congestion, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as frequency or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or muscle aches.",
+    "skin": "The patient denies any rashes, lesions, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily.",
+  "past_surgical_history": "Cholecystectomy 5 years ago.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient is an accountant, non-smoker, non-drinker, without illicit drug use. She exercises regularly and maintains a healthy diet."
+}

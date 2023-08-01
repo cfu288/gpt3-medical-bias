@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tisha Mars",
+  "age": "38",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of fever for the past 3 days. Patient reports associated symptoms of chills, body aches, and headache. Patient denies any cough, shortness of breath, sore throat, abdominal pain, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, vomiting, diarrhea",
+    "gu": "Negative for dysuria, hematuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash, skin lesions",
+    "neurologic": "Negative for headache, dizziness, weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension and asthma.",
+  "medications": "Patient takes lisinopril for hypertension and albuterol inhaler for asthma.",
+  "past_surgical_history": "Patient has no significant past surgical history.",
+  "family_history": "Patient denies any significant family history.",
+  "social_history": "Patient is a nonsmoker, denies alcohol use, and denies any illicit drug use. Patient is married and works as a teacher."
+}

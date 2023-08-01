@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernadine Briggs",
+  "age": "86",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of fever for the past 2 days. She reports a temperature of up to 101°F and associated symptoms of fatigue, body aches, and headache.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash",
+    "neurologic": "Negative for dizziness or changes in vision"
+  },
+  "past_medical_history": "Hypertension, osteoarthritis, and hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, ibuprofen as needed",
+  "past_surgical_history": "Hysterectomy",
+  "family_history": "Negative for significant family medical history",
+  "social_history": "Non-smoker, lives at home with her daughter"
+}

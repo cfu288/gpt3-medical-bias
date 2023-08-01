@@ -1,0 +1,21 @@
+{
+  "patient_name": "Hazel Jones",
+  "age": "70",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Hazel Jones, is a 70-year-old female who presents to the emergency department with a chief complaint of fever. According to the patient, the fever started approximately 2 days ago and has been persistent. She reports a temperature of 101.5°F and states that she has been feeling weak and fatigued. The patient denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She states that she has not traveled recently or been in close contact with anyone with known infectious illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports weakness and fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis. She takes lisinopril 10mg daily for her hypertension.",
+  "medications": "Lisinopril 10mg daily.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol use, or illicit drug use."
+}

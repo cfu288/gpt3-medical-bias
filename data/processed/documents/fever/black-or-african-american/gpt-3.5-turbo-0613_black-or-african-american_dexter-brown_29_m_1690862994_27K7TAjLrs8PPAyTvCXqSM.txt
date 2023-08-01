@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dexter Brown",
+  "age": "29",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and is associated with chills and body aches. He denies any cough, shortness of breath, abdominal pain, or urinary symptoms. He has been taking over-the-counter acetaminophen for symptom relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or confusion"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Over-the-counter acetaminophen as needed for fever",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use"
+}

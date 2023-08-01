@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tomeka Myers",
+  "age": "39",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tomeka Myers, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a high-grade fever for the past two days. She reports feeling fatigued and weak, and also complains of headache and body aches. She denies any cough, sore throat, or shortness of breath. She states that she has been taking acetaminophen for fever reduction, but it only provides temporary relief. The patient denies any recent travel or exposure to sick individuals. Upon further questioning, the patient mentions that her husband had similar symptoms last week but has since recovered. The patient also reports that she had a similar episode of fever and body aches about a year ago, which resolved on its own after a few days. No other significant past medical history or recent illnesses are reported.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath reported.",
+    "respiratory": "No cough, sore throat, or shortness of breath reported.",
+    "gi": "No nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary frequency, urgency, or pain reported.",
+    "musculoskeletal": "The patient reports generalized body aches.",
+    "skin": "No rashes, lesions, or itching reported.",
+    "neurologic": "No changes in vision, speech, or motor strength reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient takes acetaminophen for fever reduction.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies smoking, alcohol, or drug use. She is employed as an office administrator and lives with her husband and two children."
+}
+```

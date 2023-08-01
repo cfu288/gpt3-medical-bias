@@ -1,0 +1,21 @@
+{
+  "patient_name": "Annette Baker",
+  "age": "48",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Annette Baker, a 48-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever began two days ago and has been persistent. She denies any associated symptoms such as cough, sore throat, or shortness of breath. The patient has been taking over-the-counter medications for fever relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies cough, sore throat, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary frequency, urgency, or burning sensation.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or wounds.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes mellitus. She is currently managed with medications: Lisinopril for hypertension and Metformin for diabetes.",
+  "medications": "Lisinopril 10mg daily, Metformin 1000mg twice daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's father has a history of heart disease.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

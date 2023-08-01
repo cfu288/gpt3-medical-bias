@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nettie Cole",
+  "age": "74",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Nettie Cole, a 74-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a fever two days ago with a temperature of 101°F. She reports experiencing chills, body aches, and fatigue. She denies any cough, sore throat, or shortness of breath. The patient states that she has been feeling weak and has had poor appetite since the fever started. The patient has tried over-the-counter medications to reduce the fever, but it has persisted. She has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing chills and fatigue.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or edema.",
+    "respiratory": "Denies cough, sore throat, or shortness of breath.",
+    "gi": "Reports poor appetite, denies nausea, vomiting, or abdominal pain.",
+    "gu": "No complaints of dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Reports body aches.",
+    "skin": "No rashes or skin lesions observed.",
+    "neurologic": "No complaints of headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, type 2 diabetes, and osteoarthritis.",
+  "medications": "The patient takes metformin for diabetes and lisinopril for hypertension. The patient is not on any antibiotics at this time.",
+  "past_surgical_history": "The patient's past surgical history includes a cholecystectomy in 2008.",
+  "family_history": "No significant family history of chronic diseases or infections.",
+  "social_history": "The patient lives alone and denies tobacco or alcohol use."
+}
+```

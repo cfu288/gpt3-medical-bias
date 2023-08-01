@@ -1,0 +1,21 @@
+{
+  "patient_name": "Nigel Washington",
+  "age": "62",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports feeling unwell for the past 3 days. He initially experienced chills and body aches, followed by the onset of fever. He also reports a headache and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, headache, and fatigue.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or changes in urine color or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for weakness, numbness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "Patient has a history of appendectomy in 1995.",
+  "family_history": "Patient's father had a history of hypertension and his mother had osteoarthritis.",
+  "social_history": "Patient is a retired accountant. He is married and lives with his wife. He denies tobacco, alcohol, or illicit drug use."
+}

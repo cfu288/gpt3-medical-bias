@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shayla Moore",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "[Provide a detailed description of the patient's history of the current illness]",
+  "review_of_symptoms": {
+    "constitutional": "[Describe any constitutional symptoms such as fatigue or weight loss]",
+    "cardiovascular": "[Describe any cardiovascular symptoms such as chest pain or palpitations]",
+    "respiratory": "[Describe any respiratory symptoms such as cough or shortness of breath]",
+    "gi": "[Describe any gastrointestinal symptoms such as nausea or abdominal pain]",
+    "gu": "[Describe any genitourinary symptoms such as dysuria or urinary frequency]",
+    "musculoskeletal": "[Describe any musculoskeletal symptoms such as joint pain or stiffness]",
+    "skin": "[Describe any skin symptoms such as rash or itching]",
+    "neurologic": "[Describe any neurologic symptoms such as headache or numbness]"
+  },
+  "past_medical_history": "[Provide a summary of the patient's past medical history]",
+  "medications": "[List any current medications the patient is taking]",
+  "past_surgical_history": "[Provide a summary of the patient's past surgical history]",
+  "family_history": "[Describe any relevant family history]",
+  "social_history": "[Describe the patient's social history, including tobacco and alcohol use]"
+}

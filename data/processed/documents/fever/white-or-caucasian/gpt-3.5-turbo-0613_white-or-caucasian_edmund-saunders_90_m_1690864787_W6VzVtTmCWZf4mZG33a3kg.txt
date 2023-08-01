@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmund Saunders",
+  "age": "90",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Saunders is a 90-year-old male presenting to the emergency department with a chief complaint of fever. According to the patient, he developed a fever three days ago with a temperature as high as 101°F. He also reports feeling weak and fatigued. There is no history of cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, weakness, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Saunders has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "He takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "Mr. Saunders has no significant past surgical history.",
+  "family_history": "There is no family history of chronic diseases.",
+  "social_history": "Mr. Saunders is retired and lives alone. He does not smoke, drink alcohol, or use illicit drugs. He has no known allergies."
+}

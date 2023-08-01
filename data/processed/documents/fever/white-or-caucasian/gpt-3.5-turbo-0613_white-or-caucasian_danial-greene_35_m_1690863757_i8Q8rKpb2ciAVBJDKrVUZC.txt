@@ -1,0 +1,22 @@
+```json
+{
+  "patient_name": "Danial Greene",
+  "age": "35",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Danial Greene, a 35-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he started experiencing fever three days ago. He reports that his temperature has remained elevated between 100-101°F. The fever is associated with chills, generalized body aches, and fatigue. He denies any cough, shortness of breath, sore throat, urinary symptoms, abdominal pain, vomiting, diarrhea, or rash. He reports no recent travel or known sick contacts. His medical history is unremarkable. He denies any allergies to medications or food. The patient has not taken any medications to alleviate the fever. He has not undergone any surgeries in the past. There are no significant family history or social history findings.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, generalized body aches, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache or focal neurologic deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient is not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use."
+}

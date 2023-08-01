@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Antoine Pollock",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Antoine Pollock is a 50-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent since then. He denies any associated symptoms such as chills, headache, cough, or shortness of breath. He denies any recent travel or exposure to sick contacts. Furthermore, he does not report any other symptoms such as abdominal pain, diarrhea, urinary frequency, or rash.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, loss of appetite, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, vomiting, or change in bowel habits.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is controlled with medications.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "There is no significant family history of any medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use. He is married and works as a teacher."
+}
+```

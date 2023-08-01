@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Katina Robinson",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Katina Robinson, is a 50-year-old female who presents to the emergency department with a chief complaint of fever. The fever started 2 days ago and has progressively worsened. The patient reports associated symptoms of headache, body aches, and chills. She denies any cough, sore throat, shortness of breath, nausea, vomiting, or diarrhea. The patient states that she has been feeling fatigued and has had decreased appetite.",
+  "review_of_symptoms": {
+    "constitutional": "The patient is experiencing fatigue, decreased appetite, and chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient reports body aches and joint pain.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, confusion, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of hypertension in her mother.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

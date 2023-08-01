@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Herminio Leonard",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. According to the patient, the fever started 2 days ago and has been persistent, with a maximum temperature of 101.5°F. The patient denies any associated symptoms such as cough, sore throat, or shortness of breath. He reports feeling fatigued and experiencing occasional chills.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and occasional chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or changes in urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. He denies any other significant medical history.",
+  "medications": "The patient takes lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "The patient has not undergone any previous surgeries.",
+  "family_history": "There is no significant family history of note.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is married and works as an accountant."
+}
+```

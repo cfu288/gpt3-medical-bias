@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marvin Jones",
+  "age": "63",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. He stated that he has been experiencing a high-grade fever for the past 3 days. The fever is associated with chills and night sweats. He denies any cough, shortness of breath, vomiting, diarrhea, or urinary symptoms. He reports feeling fatigued and having body aches. No recent travel or sick contacts. No known COVID-19 exposure.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and type 2 diabetes.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily, metformin 1000mg twice daily.",
+  "past_surgical_history": "Cholecystectomy in 2010.",
+  "family_history": "Negative for significant family history.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}

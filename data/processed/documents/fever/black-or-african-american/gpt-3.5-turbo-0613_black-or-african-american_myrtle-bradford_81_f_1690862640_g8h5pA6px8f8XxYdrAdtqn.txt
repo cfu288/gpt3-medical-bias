@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Myrtle Bradford",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department complaining of fever for the past 2 days. She reports a temperature of 101°F and her symptoms have not improved with over-the-counter fever reducers. She denies any associated symptoms such as cough, shortness of breath, or abdominal pain. She states that she generally feels fatigued and has decreased appetite. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and decreased appetite.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Hypertension managed with amlodipine.",
+  "medications": "Amlodipine 5mg daily.",
+  "past_surgical_history": "Appendectomy at age 40.",
+  "family_history": "No significant family history of chronic diseases.",
+  "social_history": "Retired, lives alone, non-smoker, no alcohol or illicit drug use."
+}
+```

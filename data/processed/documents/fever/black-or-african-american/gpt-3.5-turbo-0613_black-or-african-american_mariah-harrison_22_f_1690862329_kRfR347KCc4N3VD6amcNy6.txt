@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mariah Harrison",
+  "age": "22",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mariah Harrison, is a 22-year-old female who presents to the emergency department with a chief complaint of fever. The patient reports experiencing fever for the past 3 days, with a maximum temperature of 101.2°F. She also complains of body aches and chills. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She denies any recent travel or sick contacts. On further questioning, she mentions that she has been feeling fatigued and has had a decreased appetite. She has been taking over-the-counter acetaminophen for fever and body aches but has not seen any significant improvement in her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No dysuria, frequency, or hematuria.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "No rashes, itching, or changes in skin color.",
+    "neurologic": "No headache, changes in vision, or focal neurological symptoms."
+  },
+  "past_medical_history": "There is no significant past medical history. The patient has had no prior hospitalizations or surgeries.",
+  "medications": "The patient takes over-the-counter acetaminophen as needed for pain and fever.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She is a college student and lives in a dormitory."
+}
+```

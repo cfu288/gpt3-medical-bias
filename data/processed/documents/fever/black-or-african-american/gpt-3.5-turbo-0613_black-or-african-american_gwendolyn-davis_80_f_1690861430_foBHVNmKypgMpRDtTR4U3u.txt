@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gwendolyn Davis",
+  "age": "80",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gwendolyn Davis, an 80-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever started two days ago and has been persistent and high-grade (101°F). She denies any associated symptoms such as chills, sweats, or rigors. She states that she has been feeling weak and fatigued. She does not have any cough, sore throat, shortness of breath, or urinary symptoms. No recent travel or sick contacts. No known exposure to COVID-19. No recent changes in medication or diet. No known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of weakness and fatigue.",
+    "cardiovascular": "No symptoms of chest pain, palpitations, or edema.",
+    "respiratory": "No cough, congestion, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or muscle aches.",
+    "skin": "No rash, itching, or lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes metoprolol 25 mg daily, atorvastatin 20 mg daily, and acetaminophen 650 mg as needed for pain.",
+  "past_surgical_history": "The patient has a history of an appendectomy in 1995.",
+  "family_history": "The patient's family history is significant for hypertension and arthritis.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco, alcohol, or illicit drug use."
+}
+```

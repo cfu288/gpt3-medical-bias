@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Joaquim Boyer",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Joaquim Boyer, a 33-year-old male, presents to the Emergency Department with a chief complaint of fever. He reports the onset of his symptoms two days ago, with fever of 102°F, chills, headache, body aches, and fatigue. He denies any cough, sore throat, shortness of breath, chest pain, nausea, vomiting, diarrhea, abdominal pain, dysuria, or other symptoms. He states that he has been feeling extremely weak and has been unable to perform his daily activities.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, congestion, wheezing, or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria or frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or pruritus.",
+    "neurologic": "Negative for headache, dizziness, or numbness."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "Patient denies any current use of medications or supplements.",
+  "past_surgical_history": "Patient denies any prior surgeries.",
+  "family_history": "Patient has no significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. He is employed as a software engineer and lives with his wife and two children."
+}
+```

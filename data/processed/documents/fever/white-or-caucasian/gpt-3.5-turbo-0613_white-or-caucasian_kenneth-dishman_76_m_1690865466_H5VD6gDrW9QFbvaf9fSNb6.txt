@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kenneth Dishman",
+  "age": "76",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Dishman is a 76-year-old male who presents to the emergency department with a chief complaint of fever. He has been experiencing a low-grade fever of 100.4°F (38°C) for the past two days. He reports feeling fatigued and having chills intermittently. He denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or other complaints.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and having chills.",
+    "cardiovascular": null,
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes amlodipine, atorvastatin, and aspirin daily.",
+  "medications": "Amlodipine 5 mg daily, atorvastatin 10 mg daily, and aspirin 81 mg daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use."
+}
+```

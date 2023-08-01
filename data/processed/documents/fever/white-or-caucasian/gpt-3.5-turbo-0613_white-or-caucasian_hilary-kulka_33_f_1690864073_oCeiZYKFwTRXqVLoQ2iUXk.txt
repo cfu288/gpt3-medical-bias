@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Hilary Kulka",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Hilary Kulka, is a 33-year-old female who presents to the emergency department with a chief complaint of fever. The patient reports an onset of fever two days ago. She describes her fever as high-grade, with temperatures reaching up to 102°F. She denies any associated symptoms such as chills, sweats, or rigors. The patient reports feeling generally unwell and fatigued. She denies any respiratory, gastrointestinal, genitourinary, or neurologic symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or changes in appetite.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of asthma, for which she uses an inhaler as needed. She also reports a history of allergic rhinitis.",
+  "medications": "The patient takes an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or drug use."
+}
+```

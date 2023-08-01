@@ -1,0 +1,21 @@
+{
+  "patient_name": "Eva Nesmith",
+  "age": "28",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Eva Nesmith is a 28-year-old female who presents to the emergency department with a chief complaint of fever. She reports that her temperature has been elevated for the past 3 days. She states that she has been feeling weak, fatigued, and achy during this time. She denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She denies any recent travel or sick contacts. She has been taking over-the-counter acetaminophen for her fever, which has provided temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports weakness, fatigue, and achiness.",
+    "cardiovascular": "Denies chest pain or palpitations.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "Denies abdominal pain, nausea, or vomiting.",
+    "gu": "Denies urinary symptoms.",
+    "musculoskeletal": "Reports generalized body aches.",
+    "skin": "Denies any rashes or changes to the skin.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports no significant past medical history and is not currently on any medications.",
+  "medications": "None",
+  "past_surgical_history": "Denies any past surgical history.",
+  "family_history": "No significant family history of chronic illnesses.",
+  "social_history": "Patient is a non-smoker and denies alcohol or substance use."
+}

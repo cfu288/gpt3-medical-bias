@@ -1,0 +1,21 @@
+{
+  "patient_name": "Velma Roberts",
+  "age": "82",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of fever. The patient reports that the fever started yesterday and has been persistent. She denies any other associated symptoms such as cough, shortness of breath, or abdominal pain. She states that her fever is not responding to over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or changes in bowel habits.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headaches or dizziness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension and acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's mother had a history of hypertension and diabetes.",
+  "social_history": "The patient lives alone and denies any tobacco or alcohol use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Frederic Robinson",
+  "age": "44",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports that the fever started approximately 2 days ago and is associated with chills and body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, headache, or focal neurological deficits. He has taken over-the-counter antipyretics, but the fever has not resolved.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and body aches. Negative for weight loss, night sweats, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, and edema.",
+    "respiratory": "Negative for cough, shortness of breath, and wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for urinary urgency, frequency, dysuria, and hematuria.",
+    "musculoskeletal": "Positive for myalgias. Negative for joint pain or swelling.",
+    "skin": "Negative for rash, lesions, or changes in pigmentation.",
+    "neurologic": "Negative for headache, dizziness, seizure, numbing, tingling, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is not currently taking any medications for these conditions.",
+  "medications": "Patient denies current use of any medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient's family history is unknown at this time as he is unable to provide information.",
+  "social_history": "Patient denies tobacco, alcohol, or illicit drug use. He is employed as a software engineer and lives with his wife and children. He denies any recent travel or exposure to sick contacts."
+}
+```

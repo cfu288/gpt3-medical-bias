@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bernice Groover",
+  "age": "52",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that she has been feeling unwell for the past three days. She noticed the onset of fever, which is high-grade, associated with chills, and intermittent. She denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or rash. She has been taking over-the-counter medications to manage her fever but has not seen any improvement. She denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and has been experiencing night sweats.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "Patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain or muscle aches.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, blurred vision, or changes in coordination."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medication for it.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Patient has no known past surgical history.",
+  "family_history": "Patient reports a family history of hypertension in her parents.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. She is employed as a teacher."
+}

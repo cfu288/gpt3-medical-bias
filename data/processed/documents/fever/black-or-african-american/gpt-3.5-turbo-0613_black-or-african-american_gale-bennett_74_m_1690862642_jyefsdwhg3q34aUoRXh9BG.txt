@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gale Bennett",
+  "age": "74",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gale Bennett, is a 74-year-old male who presents to the emergency department with a chief complaint of fever. The fever reportedly started two days ago and has been persistent. The patient reports feeling generally unwell and fatigued. He denies any respiratory symptoms such as cough or shortness of breath. There is no known exposure to tuberculosis or COVID-19. The patient has a past medical history of hypertension and type 2 diabetes. He takes metformin and lisinopril for these conditions. The patient denies any recent surgeries or hospitalizations. His family history is significant for hypertension but negative for any other chronic illnesses. Socially, the patient is retired and lives alone. He denies any tobacco or alcohol use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rashes, sores, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Hypertension, Type 2 diabetes",
+  "medications": "Metformin, Lisinopril",
+  "past_surgical_history": "No past surgeries",
+  "family_history": "Hypertension",
+  "social_history": "Retired, lives alone, no tobacco or alcohol use"
+}

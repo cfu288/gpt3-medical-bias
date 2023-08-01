@@ -1,0 +1,21 @@
+{
+  "patient_name": "Phoebe Pinkston",
+  "age": "22",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of fever that started 3 days ago. She reported a temperature of 101°F at home and has been experiencing chills and body aches. She denies any cough, shortness of breath, sore throat, or urinary symptoms. She has been taking over-the-counter acetaminophen for fever and body aches with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has no known medical conditions and has never been hospitalized in the past.",
+  "medications": "The patient only takes over-the-counter acetaminophen as needed.",
+  "past_surgical_history": "The patient has no known history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

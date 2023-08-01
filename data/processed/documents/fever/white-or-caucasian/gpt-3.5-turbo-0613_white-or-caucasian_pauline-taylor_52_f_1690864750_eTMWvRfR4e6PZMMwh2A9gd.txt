@@ -1,0 +1,21 @@
+{
+  "patient_name": "Pauline Taylor",
+  "age": "52",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Pauline Taylor, is a 52-year-old female who presents to the emergency department with a chief complaint of fever. She states that she has been feeling unwell for the past three days. She initially noticed a mild headache and body aches, which were followed by the development of a high-grade fever. She has also experienced chills and sweats. She denies any associated cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, or rash. She has been taking over-the-counter acetaminophen for symptom relief, which has been partially effective. The patient reports no recent travel or sick contacts. Medical history is significant for hypertension, for which she takes lisinopril. She has no known allergies. She denies any recent surgeries or hospitalizations. The patient is otherwise generally healthy and active, leading an active lifestyle and following a balanced diet.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, sweats, headache, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or swelling.",
+    "respiratory": "Negative for cough, shortness of breath, wheezing, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or new lesions.",
+    "neurologic": "Negative for changes in vision, speech, or motor function."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient lives with her spouse and two adult children. She is a non-smoker and does not consume alcohol or use drugs. She works as a teacher and denies any recent stressors or changes in her daily routine."
+}

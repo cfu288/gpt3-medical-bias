@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ivory Olszewski",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ivory Olszewski, an 84-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever for the past 2 days with temperatures ranging from 100 to 101 degrees Fahrenheit. She denies any other associated symptoms such as cough, sore throat, shortness of breath, or urinary symptoms. She also reports feeling fatigued and having a lack of appetite.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a lack of appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or pain.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes, lesions, or skin changes.",
+    "neurologic": "No headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5 mg daily for hypertension, atorvastatin 20 mg daily for hyperlipidemia, and acetaminophen 650 mg as needed for pain.",
+  "past_surgical_history": "The patient has a history of cholecystectomy in 2005.",
+  "family_history": "The patient's family history is significant for hypertension and osteoarthritis.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}
+```

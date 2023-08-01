@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tomas Starkey",
+  "age": "31",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Starkey presented to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever for the past two days, with associated chills and body aches. He denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath or sputum production.",
+    "gi": "Negative for abdominal pain, nausea or vomiting.",
+    "gu": "Negative for dysuria, frequency or urgency.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Denies tobacco, alcohol or illicit drug use. Works as an office manager."
+}

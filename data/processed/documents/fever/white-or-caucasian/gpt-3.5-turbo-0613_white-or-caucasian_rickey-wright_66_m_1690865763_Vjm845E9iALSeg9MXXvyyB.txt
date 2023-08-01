@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rickey Wright",
+  "age": "66",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Wright presents to the emergency department with a chief complaint of fever. He reports that his symptoms began 3 days ago and have been gradually worsening. He initially noticed a low-grade fever but it has since increased to 101F (38.3C). He denies any other associated symptoms such as cough, sore throat, or shortness of breath. He has been taking over-the-counter medications for the fever with minimal relief. He has not had any recent travel or sick contacts. He has a past medical history of hypertension and type 2 diabetes. Upon further questioning, he admits to having a recent urinary tract infection for which he completed a course of antibiotics 2 weeks ago. His last hospitalization was 1 year ago for a non-ST elevation myocardial infarction. He denies any recent surgeries or hospitalizations.",
+  "review_of_symptoms": {
+    "constitutional": "Reports fatigue and malaise associated with the fever.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Denies cough, shortness of breath, or sputum production.",
+    "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Admits to a recent urinary tract infection but denies any current urinary symptoms.",
+    "musculoskeletal": "Reports generalized body aches and joint pain associated with the fever.",
+    "skin": "Denies any rashes, skin lesions, or changes in skin color.",
+    "neurologic": "Denies headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, type 2 diabetes",
+  "medications": "None",
+  "past_surgical_history": "Non-ST elevation myocardial infarction 1 year ago",
+  "family_history": "Non-contributory",
+  "social_history": "Social drinker, denies smoking or illicit drug use."
+}

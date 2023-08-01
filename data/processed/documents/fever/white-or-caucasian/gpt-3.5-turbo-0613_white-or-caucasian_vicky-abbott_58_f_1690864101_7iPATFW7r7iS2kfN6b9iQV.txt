@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vicky Abbott",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Vicky Abbott, is a 58-year-old female presenting to the emergency department with a chief complaint of fever. She states that she has been experiencing a high-grade fever, chills, and body aches for the past two days. She denies any cough, shortness of breath, sore throat, or urinary symptoms. She has not traveled recently and has not been in contact with anyone known to have COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches and myalgias.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril and atorvastatin daily for her hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is notable for hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is married and lives with her husband."
+}
+```

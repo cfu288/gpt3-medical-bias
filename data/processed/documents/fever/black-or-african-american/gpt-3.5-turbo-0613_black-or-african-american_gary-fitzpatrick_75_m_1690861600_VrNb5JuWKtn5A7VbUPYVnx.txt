@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gary Fitzpatrick",
+  "age": "75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, a 75-year-old male named Gary Fitzpatrick, presents to the emergency department with a chief complaint of fever. Onset of fever was one day ago and the patient reports a temperature of 101°F. Patient denies any other associated symptoms such as cough, shortness of breath, headache, or body aches.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and has a decreased appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or edema.",
+    "respiratory": "No complaints of cough, shortness of breath, or wheezing.",
+    "gi": "No complaints of abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No complaints of dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No complaints of joint pain, swelling, or stiffness.",
+    "skin": "No complaints of rash, itching, or changes in skin color.",
+    "neurologic": "No complaints of headache, dizziness, blurred vision, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He takes amlodipine and atorvastatin for these conditions.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient reports a family history of heart disease in his father and a sister.",
+  "social_history": "The patient is retired and lives independently. He denies tobacco use, alcohol use, or illicit drug use."
+}
+```

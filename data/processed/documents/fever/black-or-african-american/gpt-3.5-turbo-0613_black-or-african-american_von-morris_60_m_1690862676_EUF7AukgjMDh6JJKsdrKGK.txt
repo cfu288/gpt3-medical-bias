@@ -1,0 +1,21 @@
+{
+  "patient_name": "Von Morris",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Von Morris, a 60-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever for the past 3 days, with temperatures ranging from 101 to 103 degrees Fahrenheit. The fever is associated with chills, fatigue, and generalized body aches. The patient reports no recent travel or exposure to sick contacts. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Chills, fatigue",
+    "cardiovascular": "No chest pain, palpitations or edema",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "No abdominal pain, nausea or vomiting",
+    "gu": "No dysuria, frequency or hematuria",
+    "musculoskeletal": "Generalized body aches",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness or neurologic deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension, controlled with lisinopril.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is a nonsmoker and denies alcohol or illicit drug use."
+}

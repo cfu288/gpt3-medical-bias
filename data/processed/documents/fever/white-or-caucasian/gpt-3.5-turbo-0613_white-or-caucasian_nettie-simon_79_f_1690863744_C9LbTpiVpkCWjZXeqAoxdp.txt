@@ -1,0 +1,30 @@
+{
+  "patient_name": "Nettie Simon",
+  "age": "79",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Nettie Simon, a 79-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports that her fever started two days ago and has been persistent. She denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She states that she has been feeling fatigued and has been experiencing occasional chills. She has taken over-the-counter medications to manage her fever, but it has not improved.
+  
+  The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She is on amlodipine 5mg daily for blood pressure control, atorvastatin 10mg daily for cholesterol management, and acetaminophen as needed for osteoarthritic pain. She denies any known drug allergies.
+  
+  Regarding her past surgical history, the patient has previously undergone a knee replacement surgery five years ago and a hysterectomy 15 years ago.
+  
+  The patient denies any significant family history of chronic diseases or other relevant medical conditions. She states that her parents both passed away in their 70s due to natural causes.
+  
+  In terms of her social history, the patient is a retired teacher and lives alone. She denies any history of smoking, alcohol consumption, or illegal drug use. She has been practicing social distancing and adhering to mask-wearing guidelines during the COVID-19 pandemic."
+  
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and occasional chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient reports chronic osteoarthritic pain in the knees.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "1. Amlodipine 5mg daily; 2. Atorvastatin 10mg daily; 3. Acetaminophen as needed.",
+  "past_surgical_history": "1. Knee replacement surgery 5 years ago; 2. Hysterectomy 15 years ago.",
+  "family_history": "No significant family history of chronic diseases.",
+  "social_history": "The patient is a retired teacher and lives alone. She denies any history of smoking, alcohol consumption, or illegal drug use. She is adhering to COVID-19 preventive measures."
+}

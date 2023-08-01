@@ -1,0 +1,21 @@
+{
+  "patient_name": "Robin Rapp",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of fever. The patient states that the fever started two days ago and has been progressively getting worse. She reports a temperature of 101°F and associated chills. She denies any other significant symptoms such as cough, sore throat, or body aches.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or changes in mental status"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. She is on medication for these conditions.",
+  "medications": "Patient takes metoprolol and simvastatin daily",
+  "past_surgical_history": "The patient had an appendectomy at age 38.",
+  "family_history": "There is no significant family history of any chronic illnesses.",
+  "social_history": "Patient is a non-smoker and denies alcohol or drug use."
+}

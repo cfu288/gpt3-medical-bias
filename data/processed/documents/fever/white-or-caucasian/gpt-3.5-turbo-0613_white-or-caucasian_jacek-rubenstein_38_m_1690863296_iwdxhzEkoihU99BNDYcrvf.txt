@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jacek Rubenstein",
+  "age": "38",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jacek Rubenstein, a 38-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has had a fever of 101°F for the past two days, along with chills and body aches. He denies any other significant symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having decreased appetite.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No nausea, vomiting, or abdominal pain reported.",
+    "gu": "No complaints of dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient reports generalized body aches and joint pain.",
+    "skin": "No rashes, lesions, or skin changes reported.",
+    "neurologic": "No complaints of headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant medical history.",
+  "medications": "The patient currently takes no medications.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He currently works as an office administrator and is married with two children."
+}
+```

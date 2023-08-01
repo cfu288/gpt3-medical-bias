@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Elaine Duran",
+  "age": "68",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Elaine Duran, is a 68-year-old female who presents to the emergency department with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She states that her temperature has ranged between 100.5°F to 102°F. She denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She has tried taking over-the-counter medication to reduce her fever, but it has not provided any relief. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle aches, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes.",
+  "medications": "The patient takes metformin 1000 mg daily for diabetes and lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of heart disease in her mother and breast cancer in her sister.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is retired and lives alone."
+}
+```

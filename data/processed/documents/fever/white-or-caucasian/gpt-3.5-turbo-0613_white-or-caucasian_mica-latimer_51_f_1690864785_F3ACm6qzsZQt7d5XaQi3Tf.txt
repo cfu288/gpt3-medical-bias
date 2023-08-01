@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mica Latimer",
+  "age": "51",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mica Latimer, is a 51-year-old female who presents with a chief complaint of fever. She reports that her fever started two days ago and has been fluctuating between 100-102°F. She also complains of body aches and fatigue. She denies any cough, shortness of breath, sore throat, or urinary symptoms. She has been taking over-the-counter acetaminophen for symptomatic relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for subjective fever, fatigue",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting",
+    "gu": "Negative for dysuria, frequency, urgency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash, changes in skin color",
+    "neurologic": "Negative for headache, dizziness, confusion"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. She is compliant with her medications for both conditions.",
+  "medications": "Metoprolol 50 mg daily, lisinopril 20 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension, diabetes, and breast cancer.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She works as an office administrator and lives with her spouse and two children."
+}

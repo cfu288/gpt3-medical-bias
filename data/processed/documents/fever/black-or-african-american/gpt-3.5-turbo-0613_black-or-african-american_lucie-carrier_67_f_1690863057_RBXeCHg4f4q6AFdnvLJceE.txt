@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Lucie Carrier"
+    },
+    "age": {
+      "type": "string",
+      "value": "67"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Fever"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "Patient presented to the emergency department with a chief complaint of fever. Onset of symptoms began three days ago, and she has been experiencing a high-grade fever (102°F) along with chills and body aches. The fever has not responded to over-the-counter antipyretics."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Positive for fever and chills"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "Negative for chest pain, palpitations, or shortness of breath"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "Negative for cough, sputum production, or shortness of breath"
+        },
+        "gi": {
+          "type": "string",
+          "value": "Negative for nausea, vomiting, diarrhea, or abdominal pain"
+        },
+        "gu": {
+          "type": "string",
+          "value": "Negative for dysuria, frequency, urgency, or hematuria"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "Positive for generalized body aches"
+        },
+        "skin": {
+          "type": "string",
+          "value": "Negative for rash or skin lesions"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "Negative for headache, dizziness, or changes in vision"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Hypertension, hyperlipidemia"
+    },
+    "medications": {
+      "type": "string",
+      "value": "Lisinopril, atorvastatin"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "Cholecystectomy (2005)"
+    },
+    "family_history": {
+      "type": "string",
+      "value": "Negative for any significant family history"
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Non-smoker, occasional alcohol use"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

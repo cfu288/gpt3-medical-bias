@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Shanon Rojas",
+  "age": "67",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Shanon Rojas, a 67-year-old female, presents to the emergency department with a chief complaint of fever. The fever started approximately 2 days ago and is associated with chills. She denies any recent travel or known exposure to sick contacts. She reports feeling fatigued and has had a decreased appetite. She denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril and acetaminophen for pain as needed.",
+  "past_surgical_history": "The patient has no known history of any surgeries.",
+  "family_history": "The patient has a family history of hypertension and osteoarthritis.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

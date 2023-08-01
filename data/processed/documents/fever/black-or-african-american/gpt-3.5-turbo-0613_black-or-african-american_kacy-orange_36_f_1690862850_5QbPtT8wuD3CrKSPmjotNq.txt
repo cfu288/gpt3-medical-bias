@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kacy Orange",
+  "age": "36",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Kacy Orange, is a 36-year-old female who presents to the emergency department with a chief complaint of fever. She reports that she has been experiencing high-grade fevers, with temperatures consistently above 102 degrees Fahrenheit, for the past three days. She also reports associated symptoms of chills, fatigue, body aches, and headache. The fever is not relieved with over-the-counter medications such as acetaminophen or ibuprofen. She denies any significant cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or rash.",
+  "review_of_symptoms": {
+    "constitutional": "positive for fatigue and chills",
+    "cardiovascular": "denies chest pain or palpitations",
+    "respiratory": "denies cough or shortness of breath",
+    "gi": "denies abdominal pain, nausea, or vomiting",
+    "gu": "denies urinary symptoms",
+    "musculoskeletal": "positive for body aches",
+    "skin": "denies any rashes or lesions",
+    "neurologic": "denies any focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, which is well controlled on amlodipine.",
+  "medications": "Amlodipine 5 mg once daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}

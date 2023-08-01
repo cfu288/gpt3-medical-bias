@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ruby Gordon",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Ruby Gordon is an 81-year-old female who presents to the emergency department with a chief complaint of fever. She states that she has been experiencing high-grade fevers over the past few days, along with chills and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She reports feeling fatigued and weak. She denies any recent travel or sick contacts. Her symptoms have not improved with over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Positive for body aches and weakness.",
+    "skin": "Negative for rash, pruritus, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include lisinopril, atorvastatin, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is retired and lives alone. She denies tobacco or alcohol use."
+}

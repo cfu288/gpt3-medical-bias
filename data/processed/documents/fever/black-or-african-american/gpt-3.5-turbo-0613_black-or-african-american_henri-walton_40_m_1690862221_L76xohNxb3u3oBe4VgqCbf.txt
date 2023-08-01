@@ -1,0 +1,21 @@
+{
+  "patient_name": "Henri Walton",
+  "age": "40",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Henri Walton, a 40-year-old male, presented to the emergency department with a chief complaint of fever. According to the patient, he started experiencing a fever of 101°F along with chills and body aches two days ago. He denies any associated cough, sore throat, shortness of breath, abdominal pain, nausea, vomiting, urinary symptoms, or rash. He has been taking over-the-counter acetaminophen to manage his fever but has not seen any improvement.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and seasonal allergies.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and loratadine 10mg daily for allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is married with two children and works as an accountant."
+}

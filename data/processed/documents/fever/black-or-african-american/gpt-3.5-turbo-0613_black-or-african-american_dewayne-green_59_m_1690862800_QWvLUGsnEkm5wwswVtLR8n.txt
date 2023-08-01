@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dewayne Green",
+  "age": "59",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever of 102°F for the past 3 days. The patient denies any associated symptoms such as chills, cough, sore throat, or body aches. He states that his fever is persistent and has not responded to over-the-counter antipyretic medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. He takes lisinopril for hypertension and metformin for diabetes.",
+  "medications": "Lisinopril 10mg daily, metformin 500mg twice daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. He is currently unemployed."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Marlyn Radel",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Marlyn Radel, is a 33-year-old female who presents to the emergency department with a chief complaint of fever. She reports that her temperature has been elevated for the past 2 days, reaching a maximum of 101°F. She also complains of chills and body aches. She denies any sore throat, cough, shortness of breath, or urinary symptoms. She states that she has not noticed any rash or changes in her skin. She has been taking over-the-counter medication to help control her fever, but it has not been consistently effective.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches and joint pain.",
+    "skin": "Negative for rash or changes in skin.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no known significant past medical history.",
+  "medications": "The patient reports taking over-the-counter acetaminophen and ibuprofen to help control her fever.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient works as a teacher and lives with her husband and two children. She denies tobacco, alcohol, or recreational drug use."
+}
+```

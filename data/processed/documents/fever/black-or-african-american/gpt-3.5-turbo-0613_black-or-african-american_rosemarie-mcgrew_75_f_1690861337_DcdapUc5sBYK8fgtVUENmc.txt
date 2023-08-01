@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosemarie Mcgrew",
+  "age": "75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. She reported that she has been experiencing a high-grade fever of 102°F for the past two days. She also noticed generalized weakness and fatigue. She denies any other associated symptoms such as cough, sore throat, or urinary symptoms. There is no significant travel history or known exposure to sick contacts. She states that she has been taking over-the-counter acetaminophen for fever reduction.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and generalized weakness",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms or changes",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and hypothyroidism. She is currently on medications for these conditions.",
+  "medications": "Amlodipine 5mg daily, Atorvastatin 20mg daily, Levothyroxine 75mcg daily",
+  "past_surgical_history": "Patient has a history of cholecystectomy and appendectomy",
+  "family_history": "Negative for any significant family history of medical conditions",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use"
+}

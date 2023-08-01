@@ -1,0 +1,21 @@
+{
+  "patient_name": "Latanya Johnson",
+  "age": "37",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Latanya Johnson, is a 37-year-old female who presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing high-grade fevers (temperature ranging from 101°F to 103°F) for the past three days. She reports associated symptoms including chills, body aches, headache, and fatigue. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, dysuria, or other localized symptoms. She states that she has tried over-the-counter antipyretics, but they provide temporary relief. The patient denies any known exposures to individuals with infectious diseases. She states that she has not traveled recently. Her last menstrual period was two weeks ago and she is not sexually active. She denies any recent changes in her medications or any known drug allergies. Her past medical, surgical, and family history are unremarkable. Her social history is significant for being a non-smoker and occasional alcohol use. She denies any illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, body aches, headache, and fatigue",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling",
+    "respiratory": "Negative for cough, shortness of breath, or hemoptysis",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal neurological deficits"
+  },
+  "past_medical_history": "The patient's past medical history is unremarkable.",
+  "medications": "The patient does not take any regular medications.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and occasionally consumes alcohol. She denies any illicit drug use."
+}

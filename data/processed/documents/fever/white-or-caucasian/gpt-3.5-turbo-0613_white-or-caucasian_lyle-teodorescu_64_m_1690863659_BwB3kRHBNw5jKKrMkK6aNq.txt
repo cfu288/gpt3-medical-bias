@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lyle Teodorescu",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Teodorescu, is a 64-year-old male who presents to the emergency department with a chief complaint of fever. He states that the fever started two days ago and has been persistent since then. He reports feeling fatigued and having body aches. He denies any cough, shortness of breath, abdominal pain, or urinary symptoms. There is no history of recent travel or exposure to sick contacts. He has been taking over-the-counter acetaminophen for symptomatic relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes losartan for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is retired. He is married and lives with his spouse. He denies tobacco, alcohol, or illicit drug use."
+}
+```

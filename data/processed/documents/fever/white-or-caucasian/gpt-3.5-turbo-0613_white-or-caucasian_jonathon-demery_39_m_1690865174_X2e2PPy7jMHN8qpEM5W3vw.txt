@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonathon Demery",
+  "age": "39",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. He states that the fever began two days ago and has been persistent. He has also experienced chills and body aches. The patient denies any recent travel, sick contacts, or known exposures to contagious illnesses. He reports no other significant symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Negative for cough and shortness of breath.",
+    "gi": "Negative for nausea, vomiting, diarrhea, and abdominal pain.",
+    "gu": "Negative for dysuria, hematuria, and frequency.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash, itching, and lesions.",
+    "neurologic": "Negative for headache, dizziness, and changes in vision or speech."
+  },
+  "past_medical_history": "The patient reports a history of hypertension and seasonal allergies.",
+  "medications": "The patient takes lisinopril for hypertension and loratadine for allergies.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use. He is employed as a software engineer."
+}

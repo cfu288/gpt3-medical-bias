@@ -1,0 +1,21 @@
+{
+  "patient_name": "Walter Andrus",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing fever for the past 3 days with associated chills and night sweats. He denies any recent travel or sick contacts. He also denies any other symptoms such as cough, sore throat, abdominal pain, diarrhea, or urinary symptoms. On further inquiry, the patient reports a loss of appetite and fatigue. He has been taking over-the-counter acetaminophen for fever control with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and night sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for dysuria, hematuria, or frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or skin discoloration",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension managed with amlodipine.",
+  "medications": "Amlodipine 5 mg orally daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient is a retired construction worker. He denies tobacco or alcohol use."
+}

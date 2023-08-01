@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roxie Benford",
+  "age": "78",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department complaining of fever. She reports that the fever started approximately 2 days ago and has been persistent. She denies any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies fatigue, malaise, or weight loss.",
+    "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+    "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+    "gi": "Patient denies nausea, vomiting, or abdominal pain.",
+    "gu": "Patient denies urinary frequency, urgency, or burning.",
+    "musculoskeletal": "Patient denies joint pain or stiffness.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is taking lisinopril 10mg once daily for hypertension and atorvastatin 20mg once daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has a history of appendectomy.",
+  "family_history": "Patient's family history is noncontributory.",
+  "social_history": "Patient is a retired teacher and lives alone. She denies tobacco or alcohol use."
+}

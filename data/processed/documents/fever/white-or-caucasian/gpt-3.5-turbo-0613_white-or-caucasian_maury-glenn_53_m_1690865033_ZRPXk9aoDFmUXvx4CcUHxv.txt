@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maury Glenn",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Maury Glenn, a 53-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever for the past 2 days, with a maximum recorded temperature of 103°F. He has also noticed associated symptoms of chills, body aches, and headache. He denies any recent travel or sick contacts. He states that he has been taking over-the-counter fever reducers, but they have not provided significant relief. He decided to come to the emergency department due to the persistence of his symptoms and concerns about their severity.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, diarrhea",
+    "gu": "Negative for dysuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash",
+    "neurologic": "Negative for headache"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is taking metoprolol for his blood pressure and atorvastatin for his cholesterol.",
+  "medications": "Metoprolol, atorvastatin",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of cardiovascular disease in his immediate family, including his father who had a heart attack at the age of 60.",
+  "social_history": "The patient is currently employed as an accountant. He denies any tobacco or alcohol use."
+}

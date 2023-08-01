@@ -1,0 +1,21 @@
+{
+  "patient_name": "Shelia Gregory",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. She reports that her fever started three days ago and has been persistently high. She has also experienced chills, body aches, and fatigue. The patient denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of chills and fatigue.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough or shortness of breath.",
+    "gi": "Patient denies any abdominal pain or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urine output.",
+    "musculoskeletal": "Patient reports body aches.",
+    "skin": "No skin abnormalities reported by the patient.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "None",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use."
+}

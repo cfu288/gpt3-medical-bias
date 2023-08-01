@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dwight Roberts",
+  "age": "70",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. According to the patient, the fever started yesterday evening and has been persistent. The patient denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. He has not taken any over-the-counter medications to help with the fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having chills associated with the fever.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No urinary symptoms or changes in urinary pattern.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes, both well-controlled on medications.",
+  "medications": "The patient takes metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's father had a history of heart disease.",
+  "social_history": "The patient lives alone and is retired. He denies smoking, alcohol, or illicit drug use."
+}

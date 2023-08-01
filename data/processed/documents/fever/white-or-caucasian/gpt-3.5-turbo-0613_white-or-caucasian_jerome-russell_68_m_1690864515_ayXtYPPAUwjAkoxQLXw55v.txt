@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerome Russell",
+  "age": "68",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jerome Russell, a 68 year old male, presented to the emergency department with a chief complaint of fever. He reports that the fever developed abruptly approximately two days ago and is associated with chills and body aches. The patient denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or changes in bowel habits. He also denies any recent travel or sick contacts. On physical examination, the patient appeared ill and was found to have a temperature of 101.2°F. Further evaluation is indicated to identify the underlying cause of the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative",
+    "neurologic": "Negative"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes, which are well-controlled with medications.",
+  "medications": "The patient is taking lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is notable for hypertension and diabetes.",
+  "social_history": "The patient is a retired teacher and denies any tobacco or alcohol use."
+}

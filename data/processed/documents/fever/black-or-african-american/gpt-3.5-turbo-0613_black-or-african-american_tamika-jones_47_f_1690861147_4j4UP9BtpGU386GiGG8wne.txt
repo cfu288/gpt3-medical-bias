@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tamika Jones",
+  "age": "47",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a high-grade fever for the past three days. She reports associated symptoms of chills, fatigue, body aches, and headache. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, or diarrhea. She has not noticed any changes in her urine or bowel movements. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea",
+    "gu": "Negative for changes in urinary frequency or color",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Positive for headache"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily to manage these conditions.",
+  "medications": "Lisinopril 10 mg once daily, Atorvastatin 20 mg once daily",
+  "past_surgical_history": "Patient has not had any previous surgeries.",
+  "family_history": "No significant family history of chronic illnesses.",
+  "social_history": "Patient denies smoking or alcohol use. She is married and works as a teacher."
+}

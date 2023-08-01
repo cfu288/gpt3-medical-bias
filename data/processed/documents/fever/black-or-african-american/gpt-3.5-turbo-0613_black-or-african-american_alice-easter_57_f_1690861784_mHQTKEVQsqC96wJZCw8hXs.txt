@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alice Easter",
+  "age": "57",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She denies any other associated symptoms such as cough, sore throat, or shortness of breath. She reports feeling fatigued and achy, but denies any other significant symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and achy",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough, sore throat, or shortness of breath",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or swelling",
+    "skin": "No rashes or skin lesions",
+    "neurologic": "No headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes.",
+  "medications": "The patient takes lisinopril for blood pressure and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for diabetes and hypertension.",
+  "social_history": "The patient is a non-smoker and denies alcohol and illicit drug use."
+}

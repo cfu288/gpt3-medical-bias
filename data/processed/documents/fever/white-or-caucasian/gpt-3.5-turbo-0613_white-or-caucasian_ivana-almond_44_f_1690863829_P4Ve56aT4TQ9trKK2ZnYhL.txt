@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ivana Almond",
+  "age": "44",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of fever for the past 2 days. She reports a temperature of 101°F (38.3°C) and associated symptoms of body aches, headache, and fatigue. She denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or rash. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, body aches, headache, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or skin infections.",
+    "neurologic": "Negative for altered mental status, confusion, seizures, or focal deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and migraines.",
+  "medications": "Patient takes lisinopril for hypertension and ibuprofen as needed for migraines.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Family history is unremarkable for any significant medical conditions.",
+  "social_history": "Patient denies smoking or alcohol use. No illicit drug use. She works as a school teacher and lives alone."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alton Lawhon",
+  "age": "78",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of fever. He states that the fever started approximately 2 days ago and has been persistent. He reports feeling tired and weak. He denies any cough, shortness of breath, or chest pain. No other specific symptoms mentioned.",
+  "review_of_symptoms": {
+    "constitutional": "Fatigue, generalized weakness",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain or change in bowel habits",
+    "gu": "No urinary frequency or urgency",
+    "musculoskeletal": "No joint pain or stiffness",
+    "skin": "No rashes or lesions",
+    "neurologic": "No headache or changes in sensation or motor function"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy at age 45",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "Retired, lives alone, non-smoker, occasional alcohol intake"
+}
+```

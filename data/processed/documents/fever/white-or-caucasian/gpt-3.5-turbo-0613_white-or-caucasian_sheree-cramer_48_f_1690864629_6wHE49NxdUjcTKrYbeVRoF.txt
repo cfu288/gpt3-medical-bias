@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sheree Cramer",
+  "age": "48",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that the fever started two days ago and has been persistent since then. Patient also reports associated symptoms including chills, body aches, and fatigue. She denies any cough, sore throat, shortness of breath, chest pain, abdominal pain, urinary symptoms, or rash. Patient states that she took acetaminophen for fever relief but did not notice much improvement.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for generalized weakness and malaise.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches and joint pain.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and seasonal allergies. She is not currently taking any medications for these conditions.",
+  "medications": "Patient takes over-the-counter acetaminophen as needed for pain and fever relief.",
+  "past_surgical_history": "Positive for appendectomy at the age of 25. No other significant surgical history.",
+  "family_history": "Negative for any significant family medical history.",
+  "social_history": "Patient is a non-smoker and does not consume alcohol. She works as a teacher and lives with her husband and two children."
+}
+```

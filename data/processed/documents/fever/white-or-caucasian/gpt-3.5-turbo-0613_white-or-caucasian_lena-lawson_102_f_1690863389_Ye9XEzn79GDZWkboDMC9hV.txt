@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lena Lawson",
+  "age": "102",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lena Lawson, a 102-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever with a highest recorded temperature of 101°F for the past two days. She denies any associated symptoms such as cough, sore throat, shortness of breath, urinary symptoms, or abdominal pain. She reports feeling weak and fatigued. The patient also mentions that she lives alone and has not been able to consume an adequate amount of fluids due to decreased appetite. She denies any recent travels or exposure to sick contacts. Upon further questioning, the patient reports a possible mild headache. There is no history of recent trauma or injuries. The patient has a significant past medical history of hypertension, hypothyroidism, and osteoarthritis.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain, palpitations, or lightheadedness.",
+    "respiratory": "No cough, shortness of breath, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain, stiffness, or limitations in mobility.",
+    "skin": "No rashes, skin changes, or wounds.",
+    "neurologic": "Mild headache reported."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hypothyroidism, and osteoarthritis. She takes medications for these conditions.",
+  "medications": "The patient takes medications for her hypertension, hypothyroidism, and osteoarthritis. Details of the specific medications are unknown at this time.",
+  "past_surgical_history": "The patient denies any previous surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension and osteoarthritis.",
+  "social_history": "The patient lives alone and has limited social support. She denies smoking, alcohol use, or illicit drug use. She is independent with her activities of daily living."
+}

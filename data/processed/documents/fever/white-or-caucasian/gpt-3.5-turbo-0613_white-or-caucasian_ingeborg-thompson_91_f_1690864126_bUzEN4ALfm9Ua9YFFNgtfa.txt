@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ingeborg Thompson",
+  "age": "91",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Ingeborg Thompson, a 91-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports experiencing a fever for the past 2 days with temperatures ranging between 101-102°F. She denies any chills or sweats. Patient states that she has been feeling weak and fatigued along with the fever. She denies any associated respiratory symptoms like cough, shortness of breath, or chest pain. No gastrointestinal or genitourinary symptoms reported. No recent travel or sick contacts. The patient has tried over-the-counter fever reducers with minimal relief. Given the patient's advanced age, further evaluation is warranted.",
+  "review_of_symptoms": {
+    "constitutional": "Weakness and fatigue",
+    "cardiovascular": "No complaints of chest pain or palpitations",
+    "respiratory": "Denies cough, shortness of breath or sputum production",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "No joint pain or muscle aches",
+    "skin": "No rashes, itching, or lesions",
+    "neurologic": "No confusion, headache, or focal neurological deficits"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Lisinopril 10mg daily, Simvastatin 20mg daily, Acetaminophen 500mg PRN",
+  "past_surgical_history": "None",
+  "family_history": "Mother had hypertension and father had diabetes",
+  "social_history": "Retired, lives alone, non-smoker, non-drinker"
+}

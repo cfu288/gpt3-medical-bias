@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Smith",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, John Smith, is a 34-year-old male who presents to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing fever with associated chills for the past two days. He denies any other specific symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing generalized fatigue and malaise.",
+    "cardiovascular": "No symptoms of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No symptoms of cough, wheezing, or shortness of breath.",
+    "gi": "No symptoms of nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "No symptoms of dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No symptoms of joint pain, swelling, or stiffness.",
+    "skin": "No symptoms of rash, itching, or lesions.",
+    "neurologic": "No symptoms of headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history and does not take any medications on a regular basis.",
+  "medications": "The patient denies taking any medications currently.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no family history of significant medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or illicit drug use. He is employed as an accountant and is currently not sexually active."
+}

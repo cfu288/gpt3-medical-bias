@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tamera Bell",
+  "age": "55",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tamera Bell, a 55-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports experiencing a high fever of 102°F for the past 2 days. She also complains of body aches, fatigue, and headache. She denies any cough, shortness of breath, or chest pain. There is no history of recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having body aches.",
+    "cardiovascular": "No cardiac symptoms reported.",
+    "respiratory": "No respiratory symptoms reported.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "Patient reports body aches.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "Patient reports headache."
+  },
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes.",
+  "medications": "The patient takes lisinopril for hypertension and metformin for type 2 diabetes.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. She is currently unemployed and lives alone."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Malcolm Motley",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Malcolm Motley, a 53-year-old male, presented to the emergency department with complaints of fever. He states that the fever has been persistent for the past 3 days and has been associated with chills and body aches. He denies any cough, sore throat, or shortness of breath. He also denies any abdominal pain, vomiting, or diarrhea. No urinary symptoms or joint pain reported.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fever and chills, indicating a systemic response.",
+    "cardiovascular": "No cardiovascular symptoms reported.",
+    "respiratory": "No respiratory symptoms reported.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "The patient complains of body aches.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurologic symptoms reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and simvastatin for his hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in both parents.",
+  "social_history": "The patient smokes 1 pack of cigarettes per day and consumes alcohol occasionally."
+}
+```

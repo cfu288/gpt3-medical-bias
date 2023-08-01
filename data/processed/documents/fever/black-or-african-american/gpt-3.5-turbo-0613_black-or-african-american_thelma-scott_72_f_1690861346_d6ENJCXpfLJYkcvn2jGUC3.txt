@@ -1,0 +1,21 @@
+{
+  "patient_name": "Thelma Scott",
+  "age": "72",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Thelma Scott, a 72-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a fever of 101.5 degrees Fahrenheit two days ago. She reports associated symptoms of cough, congestion, and body aches. She denies any shortness of breath, chest pain, or abdominal pain. She states that she has been taking over-the-counter medications for symptomatic relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Positive for cough and congestion",
+    "gi": "Negative for abdominal pain or nausea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. She is on medications including lisinopril, atorvastatin, and metformin.",
+  "medications": "Lisinopril, atorvastatin, and metformin",
+  "past_surgical_history": "The patient denies any previous surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and type 2 diabetes in her parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

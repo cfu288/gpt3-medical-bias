@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Daryl Milbourn",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Daryl Milbourn, a 60-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he developed a fever approximately 2 days ago. He reports that his temperature has been consistently elevated ranging between 100-101 degrees Fahrenheit. He also reports feeling fatigued and having chills. He has not noticed any other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Denies weight loss, night sweats",
+    "cardiovascular": "Denies chest pain, palpitations",
+    "respiratory": "Denies cough, shortness of breath",
+    "gi": "Denies abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Denies urinary frequency, urgency, dysuria",
+    "musculoskeletal": "Denies joint pain, muscle weakness",
+    "skin": "Denies rash, itching",
+    "neurologic": "Denies headache, dizziness, numbness, weakness"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes. He takes lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "medications": "Lisinopril 10 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a positive family history of hypertension and diabetes. His mother and two siblings have been diagnosed with these conditions.",
+  "social_history": "The patient is a retired construction worker. He is married and lives with his wife. He denies tobacco, alcohol, or illicit drug use."
+}
+```

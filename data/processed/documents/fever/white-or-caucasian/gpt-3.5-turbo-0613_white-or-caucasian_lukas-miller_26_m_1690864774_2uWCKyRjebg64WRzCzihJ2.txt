@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lukas Miller",
+  "age": "26",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. The patient reports an approximate onset of symptoms 2 days ago. He states that he has been experiencing a high-grade fever, with a temperature ranging between 101-103°F. The patient also reports associated symptoms of fatigue, body aches, and chills. He denies any cough, shortness of breath, chest pain, or abdominal pain. The patient has been taking over-the-counter acetaminophen to manage his fever, but his symptoms have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "Fatigue, chills",
+    "cardiovascular": "No chest pain, palpitations",
+    "respiratory": "No cough, shortness of breath",
+    "gi": "No nausea, vomiting, or diarrhea",
+    "gu": "No urinary complaints",
+    "musculoskeletal": "Body aches",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or dizziness"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Over-the-counter acetaminophen for fever",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No significant family history",
+  "social_history": "Non-smoker, occasional alcohol use"
+}

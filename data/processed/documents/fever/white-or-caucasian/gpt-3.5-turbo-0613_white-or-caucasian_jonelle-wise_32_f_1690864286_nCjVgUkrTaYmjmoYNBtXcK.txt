@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jonelle Wise",
+  "age": "32",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Jonelle Wise, a 32-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a high-grade fever with chills for the past 3 days. She reports feeling fatigued and has had no appetite. She denies any cough, sore throat, or shortness of breath. She also denies any urinary or gastrointestinal symptoms. Upon further questioning, the patient reports recent travel to a malaria-endemic region and recalls multiple mosquito bites during her trip. She received prophylaxis for malaria but did not complete the full course. The patient reports no known allergies and is not currently taking any medications. No significant past medical or surgical history is reported. She states that there is no family history of any significant medical conditions. The patient denies any tobacco, alcohol, or illicit drug use. She is employed as a teacher and has no recent changes in her social history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and experiencing chills.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": "The patient is a non-smoker, does not consume alcohol, and denies any illicit drug use. She is employed as a teacher and has no recent changes in her social history."
+}
+```

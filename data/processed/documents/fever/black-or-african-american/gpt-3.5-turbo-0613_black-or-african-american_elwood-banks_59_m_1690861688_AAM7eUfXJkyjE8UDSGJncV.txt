@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Elwood Banks",
+  "age": "59",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Elwood Banks is a 59-year-old male who presents to the emergency department with complaints of fever. He reports that the fever started 3 days ago and has been persistent, with temperatures ranging between 100-101°F. He denies any associated chills, cough, sore throat, or urinary symptoms. Additionally, he has not noticed any rashes or joint pains. He reports feeling fatigued and having a decreased appetite. His wife mentioned that he appeared more pale than usual today. He denies recent travel, sick contacts, or exposure to anyone with similar symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient describes feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or flank pain.",
+    "musculoskeletal": "No joint pains or muscle aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headaches, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension and type 2 diabetes. He is on medication for both conditions and reports good control of his blood pressure and blood sugar levels.",
+  "medications": "The patient takes metoprolol for hypertension and metformin for his diabetes.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient has a family history of hypertension on both his maternal and paternal sides.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. He is married and works as a teacher."
+}
+```

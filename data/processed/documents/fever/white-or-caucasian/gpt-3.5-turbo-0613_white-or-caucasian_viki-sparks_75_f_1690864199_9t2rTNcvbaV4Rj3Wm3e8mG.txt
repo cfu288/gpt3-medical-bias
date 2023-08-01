@@ -1,0 +1,21 @@
+{
+  "patient_name": "Viki Sparks",
+  "age": "75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. According to the patient, the fever started 3 days ago and has been persistent. She has not checked her temperature at home. She denies any associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, urinary symptoms, joint pain, or rash. She reports feeling fatigued and weak. No recent travel or sick contacts. No known COVID-19 exposure. She has been taking over-the-counter analgesics for her fever with minimal relief. The patient reports a known history of hypertension and osteoarthritis, for which she takes medication. No recent changes in medications. No significant past surgical history. Patient has no family history of similar symptoms. She lives alone and denies any recent social gatherings or exposure. She has been adhering to COVID-19 precautions, including wearing a mask, practicing hand hygiene, and maintaining social distancing.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and weakness.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes or skin changes.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and acetaminophen as needed for osteoarthritis pain.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No family history of similar symptoms.",
+  "social_history": "Patient lives alone and denies recent social gatherings or exposure. She adheres to COVID-19 precautions, including wearing a mask, practicing hand hygiene, and maintaining social distancing."
+}

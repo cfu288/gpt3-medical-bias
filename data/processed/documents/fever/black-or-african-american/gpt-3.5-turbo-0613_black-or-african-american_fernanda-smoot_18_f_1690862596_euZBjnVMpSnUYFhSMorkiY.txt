@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fernanda Smoot",
+  "age": "18",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. She states that she has been feeling unwell for the past 3 days, with an onset of fever, chills, and generalized weakness. She denies any respiratory symptoms such as cough or shortness of breath. She also denies any gastrointestinal symptoms, urinary symptoms, or skin changes. No significant past medical history reported. No recent surgeries. No known allergies. No family history of similar symptoms. No drug or alcohol use. The patient denies any recent travel or known exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports a low-grade fever and generalized weakness.",
+    "cardiovascular": "No chest pain, palpitations, or edema reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No gastrointestinal symptoms such as nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms such as frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling reported.",
+    "skin": "No rash, itching, or other skin changes reported.",
+    "neurologic": "No headache, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies any current medications.",
+  "past_surgical_history": "No history of surgical procedures reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies any tobacco or drug use. She is currently a student and lives with her parents."
+}
+```

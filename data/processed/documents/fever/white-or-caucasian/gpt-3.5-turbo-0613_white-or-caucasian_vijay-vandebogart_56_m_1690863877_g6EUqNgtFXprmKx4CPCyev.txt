@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Vijay Vandebogart",
+  "age": "56",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Vandebogart is a 56-year-old male who presents to the emergency department with a chief complaint of fever. He reports that he has been experiencing high-grade fever for the past two days, along with chills, headache, and body aches. He denies any cough, chest pain, shortness of breath, abdominal pain, urinary symptoms, joint pain, rash, or neurologic symptoms. He states that he has been feeling weak and fatigued. The fever has not responded to over-the-counter antipyretics.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue.",
+    "cardiovascular": "Negative for chest pain.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain.",
+    "skin": "Negative for rash.",
+    "neurologic": "Negative for neurologic symptoms."
+  },
+  "past_medical_history": "Mr. Vandebogart has a past medical history of hypertension and type 2 diabetes. His hypertension is controlled with lisinopril 10 mg daily and his diabetes is managed with metformin 1000 mg twice daily.",
+  "medications": "Lisinopril 10 mg daily, metformin 1000 mg twice daily.",
+  "past_surgical_history": "Appendectomy in 1998.",
+  "family_history": "Positive for hypertension and diabetes in his parents.",
+  "social_history": "Mr. Vandebogart is a non-smoker and denies any alcohol or recreational drug use. He is employed as an accountant and denies any recent travel or sick contacts."
+}
+```

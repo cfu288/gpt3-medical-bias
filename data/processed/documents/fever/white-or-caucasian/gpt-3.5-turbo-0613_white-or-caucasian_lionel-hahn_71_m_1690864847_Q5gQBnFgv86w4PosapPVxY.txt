@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lionel Hahn",
+  "age": "71",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lionel Hahn, a 71-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever started 3 days ago and has been persistent. He denies any other significant symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any significant weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any nausea, vomiting, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and denies any tobacco or alcohol use."
+}
+```

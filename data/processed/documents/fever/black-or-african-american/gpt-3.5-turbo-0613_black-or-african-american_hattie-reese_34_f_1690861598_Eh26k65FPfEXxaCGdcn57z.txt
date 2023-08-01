@@ -1,0 +1,28 @@
+{
+  "patient_name": "Hattie Reese",
+  "age": "34",
+  "chief_complaint": "Fever",
+
+  "history_of_present_illness": "The patient, Hattie Reese, a 34-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports that she has been experiencing a high-grade fever of 103°F for the past 3 days. She also complains of chills, body aches, fatigue, and headache. The patient denies any cough, shortness of breath, chest pain, abdominal pain, diarrhea, urinary symptoms, joint pain, or skin rashes. She has taken over-the-counter fever reducers but has seen no improvement. She states that her symptoms started suddenly and have been progressively worsening. She denies any recent travel or sick contacts. The patient has no known allergies and has not had any recent illnesses or surgeries. She has no significant past medical history and takes no regular medications.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and generalized malaise.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+
+  "past_medical_history": "The patient has no significant past medical history.",
+
+  "medications": "The patient denies taking any medications.",
+
+  "past_surgical_history": "The patient has no history of surgeries.",
+
+  "family_history": "The patient denies any significant family history of medical conditions.",
+
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She reports being married and working as a teacher with no exposure to sick students or colleagues."
+}

@@ -1,0 +1,37 @@
+```json
+{
+  "patient_name": "Betty Pollard",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Betty Pollard, is a 53-year-old female presenting to the emergency department with a chief complaint of fever. She reports that the fever started yesterday and has been persistent. She denies any associated symptoms such as cough, sore throat, or shortness of breath. She has also not noticed any skin rash or joint pain. 
+
+The patient denies any recent travel or exposure to sick individuals. There is no significant past medical history of note. She takes over-the-counter acetaminophen for occasional headaches. She has never had any surgeries in the past. Family history is unremarkable. The patient does not smoke, drink alcohol, or use recreational drugs.
+
+Physical examination reveals a temperature of 101.5°F, heart rate of 90 beats per minute, blood pressure of 120/80 mmHg, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air. The patient appears well and in no acute distress.
+
+Based on the patient's chief complaint of fever and the absence of respiratory or other constitutional symptoms, the initial differential diagnosis includes a viral illness, urinary tract infection, or early sepsis. Further evaluation, including laboratory investigations, will be pursued to determine the underlying cause of the fever.
+
+A complete blood count, comprehensive metabolic panel, and urinalysis will be ordered to assess for any signs of infection or organ dysfunction. A chest X-ray will also be obtained to rule out any pulmonary abnormalities.
+
+The patient will be managed symptomatically with antipyretics and fluids as needed. Close monitoring of vital signs and symptoms will be performed to assess for any worsening or development of new symptoms.
+
+A follow-up appointment will be scheduled with the patient's primary care physician in 2-3 days to discuss the results of the investigations and provide further management recommendations.
+
+End of note."
+  },
+  "review_of_symptoms": {
+    "constitutional": "Negative for fatigue, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or numbness/weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Occasional use of over-the-counter acetaminophen for headaches.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Unremarkable family history.",
+  "social_history": "The patient does not smoke, drink alcohol, or use recreational drugs."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tomasz Guzman",
+  "age": "29",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tomasz Guzman, a 29-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever began two days ago and has been persistent since. He denies any associated symptoms such as chills, sweats, or rigors. He also denies any cough, sore throat, shortness of breath, abdominal pain, vomiting, diarrhea, dysuria, or other significant symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, wheezing, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or weakness.",
+    "skin": "The patient denies any rashes, itching, or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient has no significant past medical history. He is not taking any medications regularly.",
+  "medications": "The patient does not take any medications regularly.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is employed as a software engineer. He denies any alcohol, tobacco, or illicit drug use."
+}
+```

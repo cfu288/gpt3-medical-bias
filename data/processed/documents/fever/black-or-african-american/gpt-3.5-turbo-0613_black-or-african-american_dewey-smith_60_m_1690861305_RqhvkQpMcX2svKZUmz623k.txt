@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewey Smith",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Dewey Smith is a 60-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started three days ago and has been persistent since then. He describes the fever as high-grade, with temperatures reaching up to 102°F. He also reports associated symptoms such as chills and body aches. The patient denies any cough, shortness of breath, sore throat, or urinary symptoms. He has been taking over-the-counter acetaminophen to manage his fever, but it has not been very effective.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having decreased appetite.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient reports body aches and joint pain.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is on medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

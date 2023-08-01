@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Allyson Tobler",
+  "age": "46",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Allyson Tobler, is a 46-year-old female who presents to the emergency department with a chief complaint of fever. She reports an acute onset of fever, with a temperature of 101.2 degrees Fahrenheit. She states that her fever started yesterday evening and has been persistent since then. She denies any associated symptoms at this time, such as chills, cough, shortness of breath, abdominal pain, genitourinary symptoms, or neurological symptoms. She has not tried any over-the-counter medications to alleviate her fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or edema.",
+    "respiratory": "The patient denies any cough, sputum production, or shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or trauma.",
+    "skin": "The patient denies any rash, itching, or bruising.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and seasonal allergies. She takes lisinopril for her blood pressure and cetirizine for her allergies. There is no history of diabetes, heart disease, or any other significant medical conditions.",
+  "medications": "Lisinopril (10mg daily) for hypertension and cetirizine (10mg daily) for seasonal allergies.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She works as an office administrator and denies any recent travel or exposure to sick contacts."
+}
+```

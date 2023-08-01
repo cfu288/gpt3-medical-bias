@@ -1,0 +1,21 @@
+{
+  "patient_name": "Emmanuel Morgan",
+  "age": "25",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He states that he has been experiencing a high fever of 103°F for the past two days. He reports associated symptoms of chills, body aches, headache, and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He has been taking over-the-counter pain relievers to manage the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, body aches, headache, and fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rashes or skin changes",
+    "neurologic": "Negative for changes in consciousness or focal neurologic deficits"
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is currently employed as a software engineer and lives with his family."
+}

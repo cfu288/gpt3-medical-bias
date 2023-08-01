@@ -1,6 +1,6 @@
-# Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Medical History Note Completions
+# What's In a Name: Exploring Implicit Bias in `gpt-3.5-turbo-0613` When Generating Medical History Note Completions And Providing A Patient's Name
 
-We ask GPT to generate medical histories given only a patient's name, age, and gender. Does GPT give different responses if we use names more commonly used by one race vs another?
+We ask GPT to generate medical histories given only a patient's name. Does GPT give different responses if we use names more commonly used by one race vs another?
 
 The goal is to see if there is any implicit bias shown by GPT in a medical context (shown by differing word frequencies in the returned documents). This is good to explore, as future healthcare applications that may choose to incorporate GPT models should be aware of these implicit biases.
 
@@ -26,7 +26,12 @@ See `propensity_score_matching.py` to see how the the final matched cohorts were
 
 ## Generating the Medical History Documents From Cohort Data
 
-See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$10 using the gpt-3-turbo model.
+See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$15 using the gpt-3-turbo model.
+
+In the prompt, we pick common chief complaints patients may present with
+- chest pain
+- abdominal pain
+- fever
 
 The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
 
@@ -36,8 +41,8 @@ All generated documents can be found [here](/data/processed/documents/).
 
 Things we will explore in the generated GPT medical history documents:
 
-- [Frequency of words used in the African-American vs Caucasian corpus](/reports/4_word_frequencies_analysis.html)
-- [Uses of medications in the African-American vs Caucasian corpus](/reports/3_medication_analysis.html)
+- Frequency of words used in the African-American vs Caucasian corpus 
+- Uses of medications in the African-American vs Caucasian corpus
 - Medical conditions found in the African-American vs Caucasian corpus
 
 ## Code Structure

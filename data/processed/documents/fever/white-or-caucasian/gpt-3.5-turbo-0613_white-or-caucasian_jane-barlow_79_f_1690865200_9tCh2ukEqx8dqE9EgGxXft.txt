@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Barlow",
+  "age": "79",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jane Barlow, a 79-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a fever of 101°F two days ago accompanied by chills and body aches. She denies any respiratory or gastrointestinal symptoms. She has been taking over-the-counter medications for fever, but her symptoms have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, dyspnea, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, confusion, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. She is on regular medications, including lisinopril and atorvastatin.",
+  "medications": "Lisinopril 10 mg once daily and atorvastatin 20 mg once daily.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "Negative for any significant family history of chronic medical conditions.",
+  "social_history": "The patient resides alone and denies any tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jerod Nutter",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jerod Nutter, a 53-year-old male, presents to the emergency department with a chief complaint of fever. He reports having an elevated temperature of 101°F for the past 2 days. He also complains of chills and generalized body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological deficits. Additionally, he denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash or open wounds.",
+    "neurologic": "Negative for headache, dizziness, or focal deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, both well-controlled with medications.",
+  "medications": "The patient currently takes lisinopril 20 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's father had a history of coronary artery disease.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

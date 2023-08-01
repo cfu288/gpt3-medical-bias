@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gordon Roberts",
+  "age": "48",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gordon Roberts, a 48-year-old male, presents to the emergency department with a chief complaint of fever. He reports that he has been experiencing fever for the past two days. The fever is intermittent and has been associated with chills and body aches. He denies any cough, sore throat, shortness of breath, abdominal pain, vomiting, diarrhea, urinary symptoms, rashes, or neurologic symptoms. No significant travel or sick contacts recently.",
+  "review_of_symptoms": {
+    "constitutional": "Fever with chills and body aches.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pains or muscle weakness.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "Hypertension, controlled on metoprolol 100mg daily.",
+  "medications": "Metoprolol 100mg daily",
+  "past_surgical_history": "Appendectomy at age 20.",
+  "family_history": "No significant family history of chronic illnesses.",
+  "social_history": "Currently works as an accountant. Denies tobacco or alcohol use."
+}
+```

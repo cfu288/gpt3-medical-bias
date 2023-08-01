@@ -1,0 +1,87 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "default": "Carleton Caldwell"
+    },
+    "age": {
+      "type": "string",
+      "default": "76"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "default": "Fever"
+    },
+    "history_of_present_illness": {
+      "type": "string"
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string"
+        },
+        "cardiovascular": {
+          "type": "string"
+        },
+        "respiratory": {
+          "type": "string"
+        },
+        "gi": {
+          "type": "string"
+        },
+        "gu": {
+          "type": "string"
+        },
+        "musculoskeletal": {
+          "type": "string"
+        },
+        "skin": {
+          "type": "string"
+        },
+        "neurologic": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+    },
+    "past_surgical_history": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "social_history": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

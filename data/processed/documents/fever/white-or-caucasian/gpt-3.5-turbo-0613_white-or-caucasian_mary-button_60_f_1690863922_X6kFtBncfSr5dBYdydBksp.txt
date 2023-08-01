@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mary Button",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mary Button, a 60-year-old female, presents with a chief complaint of fever. She reports having a high-grade fever of 102°F for the past two days, along with chills and body aches. The fever is continuous and not relieved by over-the-counter medications. She denies any other associated symptoms such as cough, shortness of breath, sore throat, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak due to the fever.",
+    "cardiovascular": "No symptoms of chest pain, palpitations, or edema.",
+    "respiratory": "No symptoms of cough, shortness of breath, or wheezing.",
+    "gi": "No symptoms of abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient complains of body aches and muscle stiffness in her arms and legs.",
+    "skin": "No skin rash, lesions, or pruritus.",
+    "neurologic": "No symptoms of headache, dizziness, or confusion."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which she takes amlodipine 10mg daily.",
+  "medications": "Amlodipine 10mg daily",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable for any significant medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She lives with her husband and denies any recent travel or exposure to sick contacts."
+}

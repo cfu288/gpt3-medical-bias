@@ -1,0 +1,21 @@
+{
+  "patient_name": "Addie Raymo",
+  "age": "74",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient, a 74-year-old female named Addie Raymo, presents to the emergency department with a chief complaint of fever. The patient reports feeling unwell for the past 2 days with a temperature of 101°F. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, urinary symptoms, or musculoskeletal complaints. She states that she has been feeling fatigued and has also noticed a decrease in appetite. The patient has been taking over-the-counter acetaminophen for her fever, but it has not provided significant relief. She denies any recent travel, sick contacts, or known exposures to infectious diseases. No known allergies. The patient has a previous medical history of hypertension and osteoarthritis. She takes metoprolol for her hypertension and does not have a known history of surgical procedures. The patient reports no significant family history of medical conditions or known genetic disorders. Her social history is unremarkable.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and decreased appetite.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or lightheadedness.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies urinary symptoms or changes in urinary frequency.",
+    "musculoskeletal": "The patient denies musculoskeletal complaints.",
+    "skin": "The patient denies any skin rashes, itching, or lesions.",
+    "neurologic": "The patient denies any neurological symptoms such as headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension and osteoarthritis",
+  "medications": "Metoprolol",
+  "past_surgical_history": "No known surgical procedures",
+  "family_history": "No significant family history of medical conditions or known genetic disorders",
+  "social_history": "Unremarkable social history"
+}

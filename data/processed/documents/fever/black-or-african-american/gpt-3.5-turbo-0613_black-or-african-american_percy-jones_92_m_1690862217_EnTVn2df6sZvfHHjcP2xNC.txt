@@ -1,0 +1,21 @@
+{
+  "patient_name": "Percy Jones",
+  "age": "92",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Jones is a 92-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started yesterday and has been persistent. He denies any associated symptoms such as cough, shortness of breath, abdominal pain, or dysuria. He has a past medical history of hypertension and osteoarthritis. His current medications include lisinopril for hypertension and acetaminophen for osteoarthritis pain. He has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of fever.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or change in bowel movements.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "Pain consistent with osteoarthritis.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis.",
+  "medications": "Lisinopril, acetaminophen.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "Retired. Lives alone. Non-smoker. Occasional alcohol use."
+}

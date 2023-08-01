@@ -1,0 +1,27 @@
+{
+  "patient_name": "Eddie Thomas",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Eddie Thomas is an 81-year-old male who presents to the emergency department with a chief complaint of fever. According to the patient, his fever started yesterday evening and has been persistent. He reports feeling tired and weak. There is no associated cough, sore throat, or difficulty breathing. He denies any recent travel or exposure to sick contacts. On further examination, the patient appears flushed and is warm to touch. His vital signs are as follows: heart rate 98 beats per minute, blood pressure 130/80 mmHg, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air. The rest of the physical examination is unremarkable at this time.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient denies chills, night sweats, or unintentional weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies joint pain, muscle weakness, or swelling.",
+    "skin": "The patient denies rash, itching, or skin lesions.",
+    "neurologic": "The patient denies headache, dizziness, or focal neurological deficits."
+  },
+
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. He is not on any prescribed medications except for over-the-counter acetaminophen for occasional pain relief. He has not had any recent surgeries.",
+
+  "medications": "The patient takes over-the-counter acetaminophen as needed for pain relief.",
+
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia in his parents. There is no family history of malignancies or autoimmune disorders.",
+
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use. He is independent with activities of daily living and has no known allergies. He does not have any recent travel history or exposure to sick contacts."
+}

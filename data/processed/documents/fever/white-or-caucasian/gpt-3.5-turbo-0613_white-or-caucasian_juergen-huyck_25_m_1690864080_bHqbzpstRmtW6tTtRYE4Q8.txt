@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Juergen Huyck",
+  "age": "25",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. The fever is associated with chills and sweating. The patient states that the fever started 2 days ago and has been progressively getting worse. He denies any recent travel or sick contacts. He has been taking over-the-counter acetaminophen for symptom relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient takes no medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies current tobacco or alcohol use. He is not sexually active and does not use illicit drugs."
+}
+```

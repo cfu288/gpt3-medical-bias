@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Christiana Newson",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Christiana Newson, a 33-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever started two days ago and has been persistent. She denies any other associated symptoms such as cough, sore throat, or shortness of breath. She has been taking over-the-counter antipyretics to manage her fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient is currently taking no medications.",
+  "past_surgical_history": "No history of surgical procedures.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient reports being a non-smoker and does not consume alcohol."
+}
+```

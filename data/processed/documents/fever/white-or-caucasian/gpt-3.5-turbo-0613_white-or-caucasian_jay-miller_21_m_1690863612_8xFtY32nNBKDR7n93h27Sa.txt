@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jay Miller",
+  "age": "21",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Jay Miller is a 21-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started three days ago and has been persistent. He denies any other associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He has been taking over-the-counter acetaminophen for symptom relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any chills or rigors.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has no significant past medical history and is not currently taking any medications.",
+  "medications": "None",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of chronic illnesses.",
+  "social_history": "The patient denies any tobacco, alcohol, or recreational drug use. He is a student and lives in a dormitory."
+}
+```

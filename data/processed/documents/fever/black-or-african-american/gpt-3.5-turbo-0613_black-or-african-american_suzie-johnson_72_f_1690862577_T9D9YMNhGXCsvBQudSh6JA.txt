@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzie Johnson",
+  "age": "72",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Suzie Johnson, a 72-year-old female, presented to the emergency department with a chief complaint of fever. The fever has been persistent for the past 2 days and is associated with chills and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She has also noticed a decreased appetite and fatigue.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes mellitus, both well-controlled with medications.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes mellitus.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has a family history of hypertension and diabetes mellitus.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

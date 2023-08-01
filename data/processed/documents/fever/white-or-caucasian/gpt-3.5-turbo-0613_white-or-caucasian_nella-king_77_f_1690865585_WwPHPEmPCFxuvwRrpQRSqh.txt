@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nella King",
+  "age": "77",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Nella King, a 77-year-old female, presented to the emergency department with a chief complaint of fever. According to the patient, the fever has been persistent for the past two days and is accompanied by chills and generalized body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. On further questioning, the patient reports feeling fatigued but does not have any other specific symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fever and chills.",
+    "cardiovascular": "No cardiovascular symptoms reported.",
+    "respiratory": "No respiratory symptoms reported.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "The patient reports generalized body aches.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is retired and lives alone. She denies alcohol, tobacco, or illicit drug use."
+}
+```

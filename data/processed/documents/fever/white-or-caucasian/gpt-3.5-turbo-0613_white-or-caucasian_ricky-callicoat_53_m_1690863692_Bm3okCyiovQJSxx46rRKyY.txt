@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ricky Callicoat",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Ricky Callicoat, a 53-year-old male, presented to the emergency department with a chief complaint of fever. He states that he began feeling unwell two days ago with the sudden onset of a high-grade fever. He denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, dysuria, or rash. He has been taking over-the-counter fever reducers, but they have provided only temporary relief. His fever has persisted despite these interventions.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of a high-grade fever and associated chills.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, pruritus, or skin lesions.",
+    "neurologic": "No headache, dizziness, visual disturbances, or focal weakness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. He takes losartan and rosuvastatin daily for these conditions.",
+  "medications": "Losartan 50mg daily, rosuvastatin 20mg daily.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use. He works as an accountant and lives with his wife and two adult children."
+}
+```

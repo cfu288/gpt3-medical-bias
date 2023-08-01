@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dominic Ferguson",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Dominic Ferguson, is a 20-year-old male who presents to the emergency department with a chief complaint of fever. He reports that his symptoms started two days ago and have been worsening since then. He has been experiencing intermittent fevers with temperatures up to 101°F. He denies any associated chills, cough, or shortness of breath. Additionally, he denies any headache, sore throat, or body aches. He states that he has been feeling fatigued and has had a poor appetite. No significant past medical history or recent travel was reported. On review of systems, the patient denies any other constitutional, cardiovascular, respiratory, gastrointestinal, genitourinary, musculoskeletal, skin, or neurologic symptoms. His vital signs are within normal limits. Physical examination is unremarkable except for an elevated body temperature of 100.4°F.",
+  "review_of_symptoms": {
+    "constitutional": "Negative for weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or changes in pigmentation.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "No regular medications reported.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use."
+}
+```

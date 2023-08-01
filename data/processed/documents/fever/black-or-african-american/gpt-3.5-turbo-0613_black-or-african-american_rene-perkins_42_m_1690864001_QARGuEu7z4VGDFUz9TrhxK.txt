@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rene Perkins",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of fever. Fever has been present for the past two days and is accompanied by chills and generalized body ache. No associated cough, sore throat, or difficulty breathing.",
+  "review_of_symptoms": {
+    "constitutional": "Patient has experienced fever and chills for the past two days.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "Patient complains of generalized body ache.",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}  
+```

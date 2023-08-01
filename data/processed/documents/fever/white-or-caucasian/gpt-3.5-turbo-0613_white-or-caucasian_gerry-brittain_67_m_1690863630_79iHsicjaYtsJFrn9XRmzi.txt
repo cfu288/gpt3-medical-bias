@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gerry Brittain",
+  "age": "67",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever for the past two days, with associated chills and generalized weakness. He denies any other localized symptoms such as cough, sore throat, abdominal pain, or urinary symptoms. He also denies any recent travel or exposure to sick contacts. Patient states that he has been taking over-the-counter medications such as acetaminophen to manage the fever, but the fever has not resolved.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and weak.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin respectively.",
+  "medications": "Lisinopril, atorvastatin, over-the-counter acetaminophen",
+  "past_surgical_history": "Patient had a cholecystectomy 10 years ago.",
+  "family_history": "Patient's father had a history of myocardial infarction.",
+  "social_history": "Patient is a retired accountant and reports occasional alcohol use."
+}
+```

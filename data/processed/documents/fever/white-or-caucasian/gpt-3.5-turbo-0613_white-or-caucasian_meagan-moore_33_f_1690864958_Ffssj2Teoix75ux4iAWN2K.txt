@@ -1,0 +1,21 @@
+{
+  "patient_name": "Meagan Moore",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. She reports that the fever started yesterday and has been persistent, with a temperature of 101°F. She denies any associated symptoms such as cough, sore throat, urinary symptoms, or rash.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies weight loss, fatigue, or night sweats.",
+    "cardiovascular": "Patient denies chest pain, shortness of breath, or palpitations.",
+    "respiratory": "Patient denies cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient denies joint pain or swelling.",
+    "skin": "Patient denies rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies taking any medications.",
+  "past_surgical_history": "Patient reports no past surgical history.",
+  "family_history": "Patient denies any significant family history of medical conditions.",
+  "social_history": "Patient denies tobacco use, alcohol consumption, or illicit drug use. She is married and works as a teacher."
+}

@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Luciano Hail",
+  "age": "37",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Luciano Hail, is a 37-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent. He has been experiencing chills and sweating. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He also denies any recent travel or exposure to sick contacts. There is no known history of recent illness or infections. He has been taking over-the-counter acetaminophen for symptomatic relief, but the fever has not subsided. Upon further questioning, the patient reports no other associated symptoms such as headache, muscle aches, sore throat, or rash. The patient has no known allergies to medications. No significant past medical history is reported. The patient denies any recent surgeries. There is no family history of any significant medical conditions. The patient does not smoke, drink alcohol, or use recreational drugs."
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "No joint pain, swelling, or difficulty with movement.",
+    "skin": "No rash, itching, or skin discoloration.",
+    "neurologic": "No headache, dizziness, or changes in vision."  
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Over-the-counter acetaminophen for fever relief.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient does not smoke, drink alcohol, or use recreational drugs."
+}
+```

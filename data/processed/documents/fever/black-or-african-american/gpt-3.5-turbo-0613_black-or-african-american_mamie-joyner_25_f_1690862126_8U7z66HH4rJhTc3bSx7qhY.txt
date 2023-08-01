@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Mamie Joyner",
+  "age": "25",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with chief complaint of fever. She reports that the fever started two days ago and has been persistent. Over the past 24 hours, the fever has been associated with chills and rigors. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, dysuria, or focal neurological symptoms. She has taken over-the-counter acetaminophen without significant relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and having night sweats over the past few days.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No focal neurological symptoms or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No prior surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient denies smoking, alcohol use, or illicit drug use. She is not sexually active and uses barrier contraceptives."
+}
+```

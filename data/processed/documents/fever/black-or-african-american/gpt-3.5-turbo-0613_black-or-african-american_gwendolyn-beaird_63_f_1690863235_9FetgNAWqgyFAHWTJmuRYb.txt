@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gwendolyn Beaird",
+  "age": "63",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gwendolyn Beaird, a 63-year-old female, presents to the emergency department with a chief complaint of fever. The fever began 3 days ago and has been persistent. Patient denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She reports feeling fatigued and has had no appetite. No recent travel or sick contacts reported. No known exposure to COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "Appendectomy in 1998",
+  "family_history": "No significant family history of note",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use"
+}
+```

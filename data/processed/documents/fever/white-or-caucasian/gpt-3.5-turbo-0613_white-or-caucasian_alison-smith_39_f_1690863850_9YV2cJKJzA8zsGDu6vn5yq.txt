@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alison Smith",
+  "age": "39",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. She reports that she has had a high-grade fever for the past 3 days, with temperatures ranging from 101°F to 104°F. The fever is associated with chills and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She reports feeling fatigued and weak. She has taken over-the-counter acetaminophen for fever reduction with minimal relief. She states that she has not traveled recently and has not had any sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue, weakness, and reduced appetite.",
+    "cardiovascular": "No complaints of chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or sputum production reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "Body aches reported.",
+    "skin": "No rashes, itching, or changes in the skin reported.",
+    "neurologic": "No headaches, dizziness, or changes in mental status reported."
+  },
+  "past_medical_history": "The patient has a history of chronic migraines and seasonal allergies.",
+  "medications": "The patient takes ibuprofen as needed for migraines and over-the-counter antihistamines for allergies.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco use, alcohol use, and illicit drug use. She is married and works as a teacher."
+}
+```

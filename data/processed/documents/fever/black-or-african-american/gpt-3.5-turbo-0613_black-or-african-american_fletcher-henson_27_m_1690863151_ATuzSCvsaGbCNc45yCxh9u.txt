@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Fletcher Henson",
+  "age": "27",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports an onset of fever 2 days ago, with a maximum recorded temperature of 101 degrees Fahrenheit. The fever is continuous and has been associated with chills and body aches. There is no associated cough, sore throat, or shortness of breath. He denies any recent travel or exposure to sick contacts. He has been taking over-the-counter medications for fever and has seen minimal improvement in his symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and a general feeling of malaise.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No cough or shortness of breath reported.",
+    "gi": "No abdominal pain, nausea, or vomiting reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "No skin rashes or lesions reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient has been taking acetaminophen for fever relief.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

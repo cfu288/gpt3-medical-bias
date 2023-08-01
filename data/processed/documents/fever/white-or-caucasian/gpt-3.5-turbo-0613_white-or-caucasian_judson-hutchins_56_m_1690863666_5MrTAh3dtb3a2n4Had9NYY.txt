@@ -1,0 +1,21 @@
+{
+  "patient_name": "Judson Hutchins",
+  "age": "56",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Judson Hutchins, a 56-year-old male, presented to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing a fever of 101°F for the past two days. He reports feeling tired and having body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, or changes in bowel or bladder habits. He states that he has not traveled recently and denies any known exposure to individuals with infectious diseases. No other associated symptoms were reported by the patient. On physical examination, the patient appeared fatigued but was alert and oriented. Vital signs were as follows: temperature 101.1°F, blood pressure 124/82 mmHg, heart rate 88 bpm, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, fatigue",
+    "cardiovascular": "No chest pain, palpitations",
+    "respiratory": "No cough, shortness of breath",
+    "gi": "No abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "No dysuria, hematuria",
+    "musculoskeletal": "Body aches",
+    "skin": "No rash, itching",
+    "neurologic": "No headache, dizziness, numbness or weakness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and diabetes. He is on regular medication for these conditions.",
+  "medications": "Lisinopril and metformin",
+  "past_surgical_history": "The patient has not undergone any surgeries in the past.",
+  "family_history": "The patient has a family history of diabetes in his parents.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He works as an office manager and is married with two adult children."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Erica Clark",
+  "age": "48",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. According to the patient, the fever started 2 days ago and has been persistent. She denies any associated symptoms such as cough, sore throat, or shortness of breath. The fever is associated with chills and night sweats. She has not taken any over-the-counter medications for the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and asthma",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension and albuterol inhaler as needed for asthma symptoms",
+  "past_surgical_history": "Negative for any past surgical procedures",
+  "family_history": "Patient's mother has a history of hypertension and her father has a history of diabetes",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. She works as a teacher and lives with her spouse and two children."
+}

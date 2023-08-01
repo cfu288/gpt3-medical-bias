@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rona Bennett",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of fever for the past 3 days. Her temperature has been ranging between 100°F to 101°F. She denies any associated symptoms such as cough, sore throat, or body aches. She has been taking over-the-counter fever reducers but they have not provided significant relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any chills, excessive sweating, or unintentional weight loss.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sore throat, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Patient denies any dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Patient denies any joint pain, stiffness, or swelling.",
+    "skin": "Patient denies any rash or changes in skin color.",
+    "neurologic": "Patient denies any headaches, dizziness, changes in vision or speech."
+  },
+  "past_medical_history": "Patient has a history of hypertension and takes medications for it.",
+  "medications": "Patient takes lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Patient's mother had hypertension and diabetes.",
+  "social_history": "Patient is currently a non-smoker and denies any alcohol or illicit drug use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tara Page",
+  "age": "39",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of fever for the past two days. She states that her temperature has been consistently above 100℉ and she has been experiencing chills and body aches as well. She denies any other associated symptoms such as cough, sore throat, or shortness of breath. She also denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and seasonal allergies.",
+  "medications": "Patient takes lisinopril for her hypertension and loratadine for her allergies.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or recreational drug use."
+}

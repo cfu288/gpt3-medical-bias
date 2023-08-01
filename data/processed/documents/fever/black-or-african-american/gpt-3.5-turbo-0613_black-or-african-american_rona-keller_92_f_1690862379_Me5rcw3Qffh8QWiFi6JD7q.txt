@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rona Keller",
+  "age": "92",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Rona Keller, a 92-year-old female, presents to the emergency department with a chief complaint of fever. The fever reportedly started two days ago and has been accompanied by chills. She denies any cough, shortness of breath, abdominal pain, urinary symptoms, or other associated symptoms. The patient reports feeling weak and fatigued. She has not taken any over-the-counter medications for her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medications. She denies any other significant past medical history.",
+  "medications": "The patient takes the following medications:\n- Lisinopril 20 mg daily for hypertension\n- Aspirin 81 mg daily for cardiovascular prophylaxis",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is an independent community-dwelling elderly woman. She lives alone and is able to perform her activities of daily living without assistance. She denies any tobacco or alcohol use."
+}
+```

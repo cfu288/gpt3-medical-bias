@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lawanda Jones",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Lawanda Jones, a 42-year-old female, presents to the emergency department with a chief complaint of fever. She reports having a high-grade fever for the past two days, along with associated symptoms of chills, body aches, and fatigue. She states that she has not experienced any cough, shortness of breath, chest pain, sore throat, or urinary symptoms. She denies any recent travel or exposure to sick contacts. The fever has not responded to over-the-counter medications.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient reports a history of hypertension and seasonal allergies. She takes lisinopril daily for blood pressure control and uses over-the-counter antihistamines as needed for allergy symptoms.",
+  "medications": "Lisinopril, over-the-counter antihistamines",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Negative for any significant family history",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

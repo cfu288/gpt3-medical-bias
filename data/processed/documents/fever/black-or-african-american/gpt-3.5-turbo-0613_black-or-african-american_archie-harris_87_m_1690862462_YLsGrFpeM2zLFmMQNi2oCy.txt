@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Harris",
+  "age": "87",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Archie Harris, an 87-year-old male, presents to the emergency department with a chief complaint of fever. He reports an onset of fever approximately 3 days ago with a maximum temperature of 101.2°F. He denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He states that he has been feeling weak and lethargic. He has been taking over-the-counter acetaminophen for the fever, which has helped in reducing the temperature in the short-term. However, he continues to have a low-grade fever. He denies any recent travel or exposure to sick contacts. His medical history is significant for hypertension, hyperlipidemia, and osteoarthritis. He has been taking amlodipine 10 mg daily and atorvastatin 40 mg daily for hypertension and hyperlipidemia respectively. He has not had any recent surgeries. His family history is unremarkable. Patient is a nonsmoker and does not consume any alcohol. He has been living alone and managing his daily activities independently.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, weakness, lethargy",
+    "cardiovascular": "No chest pain, no palpitations, no leg swelling",
+    "respiratory": "No cough, no shortness of breath",
+    "gi": "No abdominal pain, no nausea/vomiting, no diarrhea, no constipation",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No joint pain, no muscle weakness",
+    "skin": "No rash, no itching",
+    "neurologic": "No headache, no dizziness, no changes in vision"
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Amlodipine 10 mg daily, atorvastatin 40 mg daily",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Unremarkable",
+  "social_history": "Nonsmoker, no alcohol consumption, lives alone and manages daily activities independently"
+}

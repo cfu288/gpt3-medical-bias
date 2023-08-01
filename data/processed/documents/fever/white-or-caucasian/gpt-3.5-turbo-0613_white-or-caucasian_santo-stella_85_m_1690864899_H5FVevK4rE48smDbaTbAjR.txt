@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Santo Stella",
+  "age": "85",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "This is an 85-year-old male patient named Santo Stella presenting to the emergency department with a chief complaint of fever. He reports a temperature of 101.5°F that started 2 days ago. He also complains of chills, body aches, and decreased appetite. He denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms. He states that he has been feeling tired and weak but no other specific complaints.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, chills, fatigue",
+    "cardiovascular": null,
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": "Body aches",
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes.",
+  "medications": "The patient takes metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of cardiovascular disease.",
+  "social_history": "The patient lives alone and denies any tobacco or alcohol use."
+}
+```

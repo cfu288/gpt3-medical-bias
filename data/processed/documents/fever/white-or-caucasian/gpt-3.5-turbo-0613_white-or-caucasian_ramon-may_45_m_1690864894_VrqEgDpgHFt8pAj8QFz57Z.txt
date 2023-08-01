@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ramon May",
+  "age": "45",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Ramon May, a 45-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever started 2 days ago and has been persistent, with temperatures ranging from 100.4°F to 101.2°F. He denies any associated symptoms such as cough, sore throat, or shortness of breath. He also denies any recent travel outside of the country. He states that he has been feeling generally unwell and fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and malaise.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel movements.",
+    "gu": "No dysuria, urgency, frequency, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash, itching, or changes in skin color.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. He denies any other significant medical conditions.",
+  "medications": "The patient is currently taking lisinopril 20mg daily for hypertension.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco or alcohol use. He works as a software engineer and lives alone."
+}

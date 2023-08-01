@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tamika Haynes",
+  "age": "47",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tamika Haynes, is a 47-year-old female who presents to the emergency department with a chief complaint of fever. Patient states that she has been experiencing an elevated body temperature for the past 2 days. She reports feeling fatigued, experiencing chills, and having body aches. She denies any cough, sore throat, shortness of breath, or other respiratory symptoms. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Fatigue, chills",
+    "cardiovascular": "None",
+    "respiratory": "None",
+    "gi": "None",
+    "gu": "None",
+    "musculoskeletal": "Body aches",
+    "skin": "None",
+    "neurologic": "None"
+  },
+  "past_medical_history": "Patient reports a history of hypertension and seasonal allergies. She takes daily medications for these conditions.",
+  "medications": "Lisinopril 10 mg daily for hypertension, loratadine 10 mg daily for allergies",
+  "past_surgical_history": "Patient reports no history of surgical procedures.",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "Patient is a non-smoker, does not consume alcohol, and denies any illicit drug use."
+}
+```

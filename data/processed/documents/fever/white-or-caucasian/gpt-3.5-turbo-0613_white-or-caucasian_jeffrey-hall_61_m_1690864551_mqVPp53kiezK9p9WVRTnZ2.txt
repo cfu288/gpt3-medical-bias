@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jeffrey Hall",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. He reports experiencing fever for the past 3 days, with temperatures reaching as high as 101°F. He complains of accompanying symptoms such as chills, fatigue, and body aches. The patient denies any recent travel, sick contacts, or exposure to infectious diseases.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing chills and fatigue in addition to the fever.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sore throat, or difficulty breathing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient complains of body aches.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient is currently taking lisinopril and atorvastatin for his hypertension and hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient reports a family history of hypertension in his parents.",
+  "social_history": "The patient denies tobacco, alcohol, and illicit drug use. He is retired and lives alone."
+}

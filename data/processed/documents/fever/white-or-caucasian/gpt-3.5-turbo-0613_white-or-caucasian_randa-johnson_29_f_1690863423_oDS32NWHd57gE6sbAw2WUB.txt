@@ -1,0 +1,21 @@
+{
+  "patient_name": "Randa Johnson",
+  "age": "29",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Randa Johnson, a 29-year-old female, presents to the emergency department with a chief complaint of fever. She reports that her fever began three days ago and has been accompanied by chills, sweating, and generalized body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, rash, or neurologic symptoms. She states that she has been feeling weak and fatigued over the past few days. There is no significant past medical history or recent travel. Upon further questioning, the patient reports no exposure to sick contacts or known COVID-19 cases. She denies any recent changes in medications or known drug allergies. The patient is a non-smoker and does not consume alcohol. Please refer to the review of symptoms and pertinent medical history sections for further details.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Generalized body aches.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No neurologic symptoms noted."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

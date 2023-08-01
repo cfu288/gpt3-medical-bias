@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josiah Murphy",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Josiah Murphy, is a 20-year-old male who presented to the emergency department with a chief complaint of fever. He reports that he has had a high-grade fever of 102°F (38.9°C) for the past two days. The fever is associated with chills, body aches, and fatigue. He denies any cough, sore throat, or shortness of breath. He also denies any abdominal pain, diarrhea, or urinary symptoms. He has not experienced any recent travel or sick contacts. His past medical history is unremarkable and he is not currently taking any medications. He has never had any surgeries. There is no significant family history of note. Regarding his social history, he is not a smoker and does not drink alcohol or use illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Not currently taking any medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "The patient does not smoke, drink alcohol, or use illicit drugs."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Roderick Simmons",
+  "age": "70",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Simmons is a 70-year-old male presenting with fever. He reports that the fever started 2 days ago and has been persistent. He denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary complaints. He also denies any recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Denies chest pain, palpitations, or any other cardiovascular symptoms",
+    "respiratory": "Denies cough, shortness of breath, or any other respiratory symptoms",
+    "gi": "Denies abdominal pain, nausea, vomiting, or any other gastrointestinal symptoms",
+    "gu": "Denies urinary complaints",
+    "musculoskeletal": "Negative for any musculoskeletal symptoms such as joint pain or muscle weakness",
+    "skin": "Denies any rashes or lesions",
+    "neurologic": "Negative for any neurologic symptoms such as headache or altered mental status"
+  },
+  "past_medical_history": "Mr. Simmons has a past medical history of hypertension and diabetes mellitus, controlled with medications. He also had a cardiac stent placement in 2015.",
+  "medications": "Metoprolol 50 mg daily, Lisinopril 10 mg daily, Metformin 1000 mg twice a day",
+  "past_surgical_history": "Cardiac stent placement in 2015",
+  "family_history": "No significant family history of chronic diseases",
+  "social_history": "Mr. Simmons is a retired teacher. He is a nonsmoker and does not consume alcohol. He lives with his wife and has no significant exposure history."
+}

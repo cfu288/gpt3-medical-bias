@@ -1,0 +1,21 @@
+{
+  "patient_name": "Geri Living",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She has also been experiencing chills, body aches, headache, and fatigue. No other significant symptoms reported.",
+  "review_of_symptoms": {
+    "constitutional": "Chills",
+    "cardiovascular": "No significant symptoms",
+    "respiratory": "No significant symptoms",
+    "gi": "No significant symptoms",
+    "gu": "No significant symptoms",
+    "musculoskeletal": "Body aches",
+    "skin": "No rashes or lesions",
+    "neurologic": "Headache"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, for which she takes lisinopril and simvastatin respectively.",
+  "medications": "Lisinopril, Simvastatin",
+  "past_surgical_history": "No significant surgical history",
+  "family_history": "No significant family history",
+  "social_history": "Patient denies smoking, alcohol, or illicit drug use."
+}

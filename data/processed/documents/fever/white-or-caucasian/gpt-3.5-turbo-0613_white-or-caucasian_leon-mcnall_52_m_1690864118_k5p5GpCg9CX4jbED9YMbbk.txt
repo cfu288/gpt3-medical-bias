@@ -1,0 +1,21 @@
+{
+  "patient_name": "Leon Mcnall",
+  "age": "52",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Leon Mcnall, is a 52-year-old male who presents to the emergency department with a chief complaint of fever. The patient reports experiencing high-grade fever for the past 3 days, with temperatures ranging from 101-103°F. He also complains of chills, body aches, and headache. The patient denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, or diarrhea. He has been taking over-the-counter ibuprofen for fever and body aches, but the symptoms have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or frequency.",
+    "musculoskeletal": "The patient reports generalized body aches.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, vision changes, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension controlled with lisinopril.",
+  "medications": "Lisinopril 10mg once daily.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use. He is married and works as a software engineer."
+}

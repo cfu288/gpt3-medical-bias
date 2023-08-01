@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sam Jones",
+  "age": "82",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. He reports that the fever started three days ago and has been persistent. The patient also reports feeling weak and fatigued. He denies any cough, sore throat, or difficulty breathing. No significant travel or sick contacts. No recent changes in medications or diet. No other symptoms or complaints at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Denies chills or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No dysuria or hematuria.",
+    "musculoskeletal": "Denies joint pain or swelling.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily, and acetaminophen as needed for pain.",
+  "past_surgical_history": "Appendectomy in 1995.",
+  "family_history": "Father had a history of heart disease.",
+  "social_history": "Retired. Former smoker, quit 20 years ago. Drinks alcohol occasionally."
+}

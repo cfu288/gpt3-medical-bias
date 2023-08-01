@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jae Gudger",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jae Gudger, a 20-year-old male, presents to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever of 102°F (39°C) for the past 48 hours. He also complains of chills and generalized body aches. He denies any sore throat, cough, shortness of breath, or urinary symptoms. He reports no recent travel or sick contacts. Upon further questioning, he reports a recent camping trip where he was exposed to ticks. He noticed a rash on his right arm shortly after the trip, which he believed was a spider bite. The rash has since resolved. He denies any recent tick bites or direct exposure to animals. He has been taking over-the-counter acetaminophen for the fever, which has provided some relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Positive for a resolved rash on the right arm.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Over-the-counter acetaminophen for fever.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "No significant social history."
+}

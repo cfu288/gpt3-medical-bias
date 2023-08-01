@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ron Edwards",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Ron Edwards, a 58-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he developed a fever two days ago with temperature ranging between 100°F-101°F. He reports associated symptoms of chills, body aches, and fatigue. The fever has been persistent and the patient has not noticed any improvement with over-the-counter fever reducers. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, or diarrhea.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, fatigue, and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rashes or skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision or speech."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, controlled with medications.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Negative for any previous surgeries.",
+  "family_history": "Negative for any significant family history of chronic diseases.",
+  "social_history": "Patient denies smoking, alcohol, or recreational drug use."
+}
+```

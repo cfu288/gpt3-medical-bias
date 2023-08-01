@@ -1,0 +1,21 @@
+{
+  "patient_name": "Edmundo Hill",
+  "age": "51",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports that the fever started 3 days ago and has been consistently high, ranging from 101°F to 103°F. He denies any associated symptoms such as cough, sore throat, or shortness of breath. He also reports experiencing body aches and fatigue.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or hematuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in sensation"
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril for hypertension and atorvastatin for hyperlipidemia.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "Positive for hypertension in both parents",
+  "social_history": "Patient denies smoking or illicit drug use. He consumes alcohol socially."
+}

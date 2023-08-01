@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sally Costello",
+  "age": "44",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Sally Costello, is a 44-year-old female who presents to the emergency department with a chief complaint of fever. She reports that the fever started two days ago and has been accompanied by chills and body aches. She denies any cough, sore throat, shortness of breath, or other respiratory symptoms. She also denies any gastrointestinal symptoms such as nausea, vomiting, or diarrhea. Additionally, she denies any genitourinary symptoms, musculoskeletal pain, skin changes, or neurologic symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency, urgency, or pain",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or numbness/tingling"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of previous surgeries.",
+  "family_history": "The patient reports no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She works as a teacher and lives with her husband and two children."
+}

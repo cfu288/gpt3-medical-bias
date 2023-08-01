@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "patient_name": "Anneliese Cole",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Anneliese Cole, a 33-year-old female, presented to the emergency department with a chief complaint of fever. The fever started two days ago and has been persistent. She reports a temperature of 101°F along with generalized body aches and fatigue. She denies any cough, sore throat, difficulty breathing, or any other respiratory symptoms. She denies any recent travel or exposure to sick individuals. No other significant medical history is reported. Patient states that she stopped taking oral contraceptive pills three months ago and has not started any new medications or supplements since then.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of generalized body aches and fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or edema reported.",
+    "respiratory": "No cough, shortness of breath, or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Generalized body aches reported.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "No headache, confusion, dizziness, or weakness reported."
+  },
+  "past_medical_history": "No significant past medical history reported.",
+  "medications": "The patient denies currently taking any medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "No significant family history reported.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use. She works as a receptionist and lives alone. No recent travel history reported."
+}

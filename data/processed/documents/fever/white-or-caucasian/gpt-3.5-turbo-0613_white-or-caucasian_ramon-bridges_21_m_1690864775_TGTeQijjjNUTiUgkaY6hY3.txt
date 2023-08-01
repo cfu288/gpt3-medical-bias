@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ramon Bridges",
+  "age": "21",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ramon Bridges, a 21-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever began yesterday evening and has been persistent since then. He initially noticed a low-grade fever with temperatures around 100.5°F (38.1°C), but over the last few hours, the fever has spiked to 102.2°F (39°C). The patient denies any associated symptoms such as chills, sore throat, cough, shortness of breath, nausea, vomiting, abdominal pain, dysuria, or other complaints. He also denies any recent travel or exposure to sick contacts. The patient states that he has been feeling fatigued lately and has experienced intermittent headaches, although he does not believe these symptoms are related to the current febrile illness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "No dysuria or frequency.",
+    "musculoskeletal": "Intermittent headaches reported by the patient.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No focal motor or sensory deficits."
+  },
+  "past_medical_history": "The patient denies any significant past medical history.",
+  "medications": "The patient denies taking any medications regularly.",
+  "past_surgical_history": "The patient denies any past surgical procedures.",
+  "family_history": "The patient reports no significant family medical history.",
+  "social_history": "The patient reports being a non-smoker and denies alcohol or illicit drug use."
+}
+```

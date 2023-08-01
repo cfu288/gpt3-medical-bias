@@ -1,0 +1,21 @@
+{
+  "patient_name": "Bertram Danvers",
+  "age": "47",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports that the fever started 2 days ago and has been persistent. He has also experienced chills and body aches. He denies any cough, sore throat, or shortness of breath. No recent travel or sick contacts reported. No known exposure to COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills. Negative for fatigue and weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches and joint pain. Negative for muscle weakness or stiffness.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia, both controlled with medication. No known allergies.",
+  "medications": "Patient takes lisinopril 10mg daily and atorvastatin 20mg daily for hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's father had a history of hypertension and his mother had a history of hyperlipidemia.",
+  "social_history": "Patient is married and works as an accountant. Non-smoker and denies alcohol or illicit drug use."
+}

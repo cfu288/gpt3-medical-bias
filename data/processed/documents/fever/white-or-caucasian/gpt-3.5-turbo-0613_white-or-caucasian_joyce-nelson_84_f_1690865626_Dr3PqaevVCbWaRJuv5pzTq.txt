@@ -1,0 +1,23 @@
+```json
+{
+    "patient_name": "Joyce Nelson",
+    "age": "84",
+    "chief_complaint": "Fever",
+    "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a low-grade fever for the past 2 days. She denies any other associated symptoms such as cough, sore throat, body aches, or chills. She also denies any recent travel or sick contacts. Patient states she has been taking over-the-counter medication for fever relief, but the fever persists. Upon further questioning, patient reports mild fatigue, but no other constitutional symptoms. Patient denies any other concerning symptoms or recent changes in health.",
+    "review_of_symptoms": {
+        "constitutional": "Denies fatigue, malaise, weight loss, or night sweats.",
+        "cardiovascular": "Denies chest pain, palpitations, or shortness of breath.",
+        "respiratory": "Denies cough, shortness of breath, or sputum production.",
+        "gi": "Denies nausea, vomiting, diarrhea, or abdominal pain.",
+        "gu": "Denies dysuria, hematuria, or urinary frequency.",
+        "musculoskeletal": "Denies joint pain, swelling, or stiffness.",
+        "skin": "Denies rash, itching, or lesions.",
+        "neurologic": "Denies headache, dizziness, or changes in sensation."
+    },
+    "past_medical_history": "Patient has a past medical history significant for hypertension and osteoarthritis.",
+    "medications": "Patient takes amlodipine 5 mg daily for hypertension and acetaminophen as needed for pain relief.",
+    "past_surgical_history": "Patient had a total knee replacement surgery 5 years ago.",
+    "family_history": "Patient's family history is non-contributory for any significant medical conditions.",
+    "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

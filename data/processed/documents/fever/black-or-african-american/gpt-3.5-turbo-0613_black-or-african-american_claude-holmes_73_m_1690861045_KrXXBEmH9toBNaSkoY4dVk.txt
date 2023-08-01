@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claude Holmes",
+  "age": "73",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Holmes, is a 73-year-old male who presents to the emergency department with a chief complaint of fever. He states that his fever started yesterday and has been persisting throughout the day. He denies any associated symptoms such as cough, shortness of breath, abdominal pain, vomiting, or urinary symptoms. He reports feeling fatigued and has noticed a decrease in his appetite. He denies any recent travel or sick contacts. His medical history is significant for hypertension and osteoarthritis. He takes medications for these conditions, including lisinopril and ibuprofen.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued.",
+    "cardiovascular": "No complaints of chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Patient reports joint pain due to osteoarthritis.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Lisinopril and ibuprofen.",
+  "past_surgical_history": "No significant surgical history.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Patient is a retired mechanic. He denies smoking, alcohol consumption, or illicit drug use."
+}

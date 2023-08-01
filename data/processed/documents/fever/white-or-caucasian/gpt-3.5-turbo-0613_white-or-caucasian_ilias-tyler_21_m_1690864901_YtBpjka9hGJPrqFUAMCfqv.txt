@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ilias Tyler",
+  "age": "21",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports that the fever began yesterday and has been persistent. He denies any other associated symptoms such as cough, sore throat, or body aches. The patient states that he has taken over-the-counter fever reducers but they have only provided temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient reports no significant past medical history",
+  "medications": "Patient takes no regular medications",
+  "past_surgical_history": "Patient has no history of surgical procedures",
+  "family_history": "Patient has no known family history of significant medical conditions",
+  "social_history": "Patient denies smoking, alcohol or drug use. He is a student and lives in a college dormitory."
+}

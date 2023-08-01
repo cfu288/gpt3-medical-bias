@@ -1,0 +1,21 @@
+{
+  "patient_name": "Kitty Mullins",
+  "age": "90",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with complaints of fever. Fever started 3 days ago and has been persistent. Patient denies any other symptoms at this time. Vital signs taken upon arrival show an elevated temperature of 101.2°F.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "Patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any urinary symptoms or changes in urinary habits.",
+    "musculoskeletal": "Patient denies any joint pain, swelling, or stiffness.",
+    "skin": "Patient denies any rash, itching, or changes in skin color.",
+    "neurologic": "Patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoporosis. She is on lisinopril for blood pressure control and takes calcium and vitamin D supplements for osteoporosis.",
+  "medications": "Lisinopril, calcium, vitamin D",
+  "past_surgical_history": "Patient has no history of surgery.",
+  "family_history": "Mother had hypertension and father had osteoporosis.",
+  "social_history": "Patient lives alone at home. She does not smoke or consume alcohol. She has no known allergies."
+}

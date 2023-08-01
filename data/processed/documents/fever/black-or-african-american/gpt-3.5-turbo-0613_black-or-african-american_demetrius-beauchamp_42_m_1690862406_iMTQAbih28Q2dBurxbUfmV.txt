@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Demetrius Beauchamp",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports that the fever started yesterday and has persisted since then. The patient denies any associated symptoms such as cough, sore throat, or shortness of breath. He has also been experiencing mild body aches and fatigue.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing chills with the fever.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "The patient reports mild body aches.",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

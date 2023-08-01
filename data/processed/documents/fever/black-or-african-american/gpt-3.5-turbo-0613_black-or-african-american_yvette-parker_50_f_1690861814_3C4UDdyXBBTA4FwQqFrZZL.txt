@@ -1,0 +1,23 @@
+{
+  "patient_name": "Yvette Parker",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Yvette Parker, is a 50-year-old female who presents with a chief complaint of fever. According to the patient, she developed a fever of 101°F yesterday evening and it has persisted since then. She denies any other associated symptoms such as cough, sore throat, or body aches. She also denies any recent travel, exposure to sick contacts, or changes in her medication or diet. The patient reports feeling tired and weak, but denies any shortness of breath or chest pain.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue and weakness.",
+    "cardiovascular": "No cardiovascular symptoms reported.",
+    "respiratory": "No respiratory symptoms reported.",
+    "gi": "No gastrointestinal symptoms reported.",
+    "gu": "No genitourinary symptoms reported.",
+    "musculoskeletal": "No musculoskeletal symptoms reported.",
+    "skin": "No skin symptoms reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "No significant past surgical history reported.",
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office manager and lives with her husband and two adult children."
+}

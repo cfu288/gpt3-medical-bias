@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dexter Darden",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Dexter Darden, a 53-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, he started experiencing a high-grade fever of 102°F yesterday evening. He also complains of body aches and chills. The patient denies any other associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, urinary symptoms, or neurological symptoms. He states that he has been taking over-the-counter acetaminophen to manage his fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia, which are well-controlled with medication.",
+  "medications": "The patient is taking lisinopril 10mg once daily for hypertension and atorvastatin 20mg once daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient has a family history of hypertension in his father and hyperlipidemia in his mother.",
+  "social_history": "The patient currently works as an accountant. He does not smoke and denies any history of alcohol or drug abuse."
+}

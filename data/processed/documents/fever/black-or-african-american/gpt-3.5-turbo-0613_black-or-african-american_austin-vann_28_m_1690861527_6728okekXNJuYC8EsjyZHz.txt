@@ -1,0 +1,21 @@
+{
+  "patient_name": "Austin Vann",
+  "age": "28",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Austin Vann, is a 28-year-old male who presents to the emergency department with a chief complaint of fever. The fever started approximately 3 days ago and has persisted since then. He describes the fever as high-grade, with temperatures reaching up to 103°F (39.4°C). He denies any associated symptoms such as chills, sweats, or rigors. He reports feeling fatigued and weak. He denies any cough, sore throat, or congestion. He denies any abdominal pain, nausea, vomiting, or changes in bowel movements. He denies any urinary symptoms such as frequency, urgency, or dysuria. He does report some myalgias but denies any joint pain or swelling. He denies any rashes or skin changes. There are no reported neurological symptoms such as headache, confusion, or focal deficits. He denies any recent travel or exposure to sick contacts. He has been taking over-the-counter acetaminophen for the fever but has not noticed any significant improvement.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever as described above. Negative for chills, sweats, or rigors.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, or congestion.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for myalgias. Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin changes.",
+    "neurologic": "Negative for headache, confusion, or focal deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "Patient takes no prescribed medications. Has been taking over-the-counter acetaminophen for the fever.",
+  "past_surgical_history": "No known past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient works as a software engineer. He denies smoking, alcohol use, and recreational drug use. He lives with his partner and has no known exposure to infectious illnesses."
+}

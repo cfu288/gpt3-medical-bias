@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donny Alexander",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Donny Alexander, presents to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever for the past two days, with temperatures reaching up to 103 degrees Fahrenheit. He states that he has also been experiencing chills, body aches, and fatigue. The patient denies any other associated symptoms such as cough, sore throat, or shortness of breath. He does not have any known exposures to sick contacts recently.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Positive for generalized body aches and fatigue.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia. He is currently taking Losartan for blood pressure control and Atorvastatin for cholesterol management.",
+  "medications": "Losartan 50mg once daily and Atorvastatin 20mg once daily.",
+  "past_surgical_history": "Negative for any past surgical procedures.",
+  "family_history": "The patient's family history is significant for diabetes on his father's side.",
+  "social_history": "The patient is married and works as an accountant. He denies any tobacco or alcohol use."
+}

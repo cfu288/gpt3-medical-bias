@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Edmund Bender",
+  "age": "24",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Bender, is a 24-year-old male who presents to the emergency department with a chief complaint of fever. The fever began 2 days ago and has been persistent since then. There are no associated symptoms such as cough, sore throat, or shortness of breath. He denies any recent travel or exposure to sick contacts. He has been taking acetaminophen to control the fever, but it only provides temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or numbness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies any illicit drug use. He drinks alcohol occasionally on social occasions."
+}
+```

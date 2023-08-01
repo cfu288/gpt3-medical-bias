@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Erskine",
+  "age": "68",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Johnie Erskine, a 68-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever of 101 degrees Fahrenheit for the past two days. He reports associated symptoms of chills, body aches, and fatigue. He denies any cough, sore throat, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, joint pain, or rash. On further inquiry, the patient states that he has not traveled recently, been exposed to anyone with a known infectious illness, or had any significant changes in his medication or daily routine. He reports no significant medical history or allergies. The patient denies any recent surgeries or hospitalizations. He has no known family history of infectious or chronic illnesses. His social history is unremarkable. He is a non-smoker and does not consume alcohol or illicit drugs.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or flank pain.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "Patient reports no significant past medical history.",
+  "medications": "Patient denies taking any regular medications or over-the-counter supplements.",
+  "past_surgical_history": "Patient reports no history of surgeries.",
+  "family_history": "Patient denies any significant family history of infectious or chronic illnesses.",
+  "social_history": "Patient is a retired mechanic and lives alone. He denies any recent travel, exposure to sick contacts, or significant changes in his daily routine."
+}

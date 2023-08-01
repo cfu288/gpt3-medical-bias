@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cheryl Weathers",
+  "age": "52",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of fever. The patient reports that the fever started yesterday and has been consistently high. She also complains of generalized malaise, body aches, and chills. No other specific symptoms have been reported by the patient. The patient denies any recent travel, sick contacts, or exposure to ill individuals. No other significant medical history or recent changes in medications. She has not had any recent surgeries. The patient has a family history of hypertension and diabetes. No significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of generalized malaise, body aches, and chills.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "Family history of hypertension and diabetes.",
+  "social_history": "No significant social history."
+}
+```

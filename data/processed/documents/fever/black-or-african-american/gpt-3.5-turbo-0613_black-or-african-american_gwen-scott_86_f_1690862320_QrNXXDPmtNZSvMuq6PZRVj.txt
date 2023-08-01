@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Gwen Scott",
+  "age": "86",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gwen Scott, an 86-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, the fever started two days ago and has been persistently high. She denies any associated symptoms such as chills, cough, difficulty breathing, nausea, vomiting, or diarrhea. She states that she has been feeling weak and fatigued due to the fever. The patient reports no recent travel or sick contacts. She has been staying at home and practicing social distancing due to the COVID-19 pandemic. There is no known exposure to COVID-19. She has partially vaccinated against COVID-19 with one dose of the Pfizer-BioNTech vaccine three months ago.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling weak and fatigued.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, difficulty breathing, or sputum production.",
+    "gi": "No abdominal pain, vomiting, or diarrhea.",
+    "gu": "No dysuria, hematuria, or urgency.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, managed with lisinopril.",
+  "medications": "Lisinopril 10mg once daily",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and lives alone. She denies smoking or alcohol use. She reports maintaining a healthy diet and attending regular exercise classes at a local senior center."
+}
+```

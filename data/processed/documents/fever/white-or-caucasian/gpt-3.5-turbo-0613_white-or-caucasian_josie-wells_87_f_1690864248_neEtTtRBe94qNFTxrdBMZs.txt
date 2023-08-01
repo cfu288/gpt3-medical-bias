@@ -1,0 +1,21 @@
+{
+  "patient_name": "Josie Wells",
+  "age": "87",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Josie Wells, an 87-year-old female, presented to the emergency department with a chief complaint of fever. She reports an onset of fever approximately 3 days ago, with temperatures ranging from 100°F to 101°F. The fever is associated with generalized weakness and fatigue. She denies any other specific symptoms. She has not taken any over-the-counter medications for the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for feeling weak and fatigued.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sneezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis. She denies any history of diabetes, heart disease, or respiratory disorders.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension and ibuprofen 200 mg as needed for joint pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension in her mother and sister.",
+  "social_history": "The patient is retired and lives alone. She denies smoking, alcohol, or illicit drug use."
+}

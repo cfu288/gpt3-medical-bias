@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Stefan Phillips"
+    },
+    "age": {
+      "type": "string",
+      "value": "27"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Fever"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Stefan Phillips, is a 27-year-old male presenting with a chief complaint of fever. According to the patient, he started experiencing a high-grade fever (101°F) yesterday evening. He also reports feeling fatigued and having body aches. He denies any associated cough, shortness of breath, abdominal pain, urinary symptoms, or rash. He states that he has not traveled recently and has not been in contact with any sick individuals. He has been taking over-the-counter acetaminophen to help manage his fever and symptoms."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "Fever, fatigue"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": ""
+        },
+        "respiratory": {
+          "type": "string",
+          "value": ""
+        },
+        "gi": {
+          "type": "string",
+          "value": ""
+        },
+        "gu": {
+          "type": "string",
+          "value": ""
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": ""
+        },
+        "skin": {
+          "type": "string",
+          "value": ""
+        },
+        "neurologic": {
+          "type": "string",
+          "value": ""
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": ""
+    },
+    "medications": {
+      "type": "string",
+      "value": ""
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": ""
+    },
+    "family_history": {
+      "type": "string",
+      "value": ""
+    },
+    "social_history": {
+      "type": "string",
+      "value": ""
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

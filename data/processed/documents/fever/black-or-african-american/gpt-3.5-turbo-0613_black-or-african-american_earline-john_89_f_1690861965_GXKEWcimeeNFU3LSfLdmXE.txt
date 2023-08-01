@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earline John",
+  "age": "89",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Earline John, an 89-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a high-grade fever of 102°F for the past two days. She reports feeling weak and fatigued, and has also noticed increased sweating during the night. She denies any other associated symptoms such as cough, shortness of breath, abdominal pain, urinary symptoms, or rash. She has not taken any over-the-counter medications to treat her fever. Her medical history is significant for hypertension and osteoarthritis. She takes hydrochlorothiazide for hypertension and ibuprofen as needed for arthritis pain. She denies any recent surgical procedures. She reports no significant family history of medical conditions. Socially, she lives alone and is independent in her activities of daily living. She used to smoke in the past but quit over 20 years ago and denies any alcohol or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, weakness, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or hematuria.",
+    "musculoskeletal": "Positive for arthritis pain.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headaches, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Hypertension, osteoarthritis.",
+  "medications": "Hydrochlorothiazide, ibuprofen.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient lives alone and is independent in her activities of daily living. She used to smoke in the past but quit over 20 years ago. She denies any alcohol or illicit drug use."
+}

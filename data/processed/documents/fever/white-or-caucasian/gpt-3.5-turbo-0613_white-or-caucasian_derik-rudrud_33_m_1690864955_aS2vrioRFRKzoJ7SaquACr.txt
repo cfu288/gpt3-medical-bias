@@ -1,0 +1,21 @@
+{
+  "patient_name": "Derik Rudrud",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the ED with a chief complaint of fever. He states that he has been experiencing a high-grade fever of 101°F for the past three days. He also reports associated symptoms of chills, headache, and body aches. The patient denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, or diarrhea. He states that his fever has not responded to over-the-counter medications such as acetaminophen or ibuprofen. Upon further questioning, the patient reports recent travel to a tropical country about a week ago. He denies any known exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, headache, and body aches. Negative for fatigue, weight loss, or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash or changes to the skin.",
+    "neurologic": "Negative for headache, dizziness, syncope, or focal neurological symptoms."
+  },
+  "past_medical_history": "Patient has no significant past medical history.",
+  "medications": "The patient denies any current use of prescription medications.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "No significant family history reported by the patient.",
+  "social_history": "Patient denies tobacco or alcohol use. He works as a software engineer and lives with his partner."
+}

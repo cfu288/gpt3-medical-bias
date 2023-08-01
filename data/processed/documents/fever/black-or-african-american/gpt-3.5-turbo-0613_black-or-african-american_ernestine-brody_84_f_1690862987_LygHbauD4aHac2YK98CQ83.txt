@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ernestine Brody",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "84-year-old female Ernestine Brody presents to the Emergency Department with complaint of fever. According to the patient, she has been feeling unwell for the past 3 days with subjective fever, chills, and fatigue. She denies any respiratory symptoms, cough, or shortness of breath. She reports no other complaints at this time. On physical examination, the patient appears tired and has a temperature of 101°F.",
+  "review_of_symptoms": {
+    "constitutional": "Patient complains of fatigue and chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, sputum production, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or change in bowel habits.",
+    "gu": "No dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes amlodipine for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports a family history of hypertension.",
+  "social_history": "The patient is a non-smoker and lives alone. She denies alcohol or illicit drug use."
+}
+```

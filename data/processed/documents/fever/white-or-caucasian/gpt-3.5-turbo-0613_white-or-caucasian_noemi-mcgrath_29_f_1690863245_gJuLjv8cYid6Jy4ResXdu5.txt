@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Noemi Mcgrath",
+  "age": "29",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Noemi Mcgrath, a 29-year-old female, presents to the emergency department with a chief complaint of fever. She states that she has been experiencing a high-grade fever of 102°F for the past 3 days. She reports associated symptoms of headache, body aches, and chills. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She has been taking acetaminophen for her fever but it only provides temporary relief. She states that she has not traveled recently and has not been in contact with anyone known to have COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills",
+    "cardiovascular": "Denies chest pain, palpitations, or shortness of breath",
+    "respiratory": "Denies cough, sore throat, and shortness of breath",
+    "gi": "Denies abdominal pain, diarrhea, or vomiting",
+    "gu": "Denies urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Denies rash or lesions",
+    "neurologic": "Denies headaches or changes in vision"
+  },
+  "past_medical_history": "",
+  "medications": "Acetaminophen 650mg every 6 hours as needed for fever",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

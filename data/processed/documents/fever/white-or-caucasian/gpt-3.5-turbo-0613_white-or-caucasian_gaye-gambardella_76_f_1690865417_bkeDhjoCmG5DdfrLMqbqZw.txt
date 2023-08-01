@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gaye Gambardella",
+  "age": "76",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a complaint of fever. According to the patient, she started experiencing fever last night. She reports that her temperature has been consistently high, reaching up to 101°F. The fever is associated with generalized body aches and chills. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She states that she has been feeling fatigued and has had a poor appetite. The patient denies any recent travel, sick contacts, or known exposure to COVID-19. She has not taken any over-the-counter medications for fever relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for generalized body aches and chills associated with the fever. Denies weight changes.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Negative for cough, shortness of breath, wheezing, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or change in bowel habits.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches associated with the fever. Denies joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "Patient takes metoprolol 25 mg once daily for hypertension and ibuprofen 400 mg as needed for arthritis pain.",
+  "past_surgical_history": "Patient had a cholecystectomy in 2012.",
+  "family_history": "Patient's mother had hypertension and type 2 diabetes.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. Lives alone and is independent with activities of daily living."
+}

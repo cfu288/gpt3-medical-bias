@@ -1,0 +1,21 @@
+{
+  "patient_name": "Donnie Williams",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Donnie Williams, an 81-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever started approximately 3 days ago and has been persistent. He denies any cough, shortness of breath, or chest pain. Additionally, he denies any abdominal pain, diarrhea, or vomiting. There is no reported change in urinary frequency or appearance. The patient states that he has been feeling fatigued and weak. On further questioning, he reports a decrease in appetite but no significant weight loss. He denies any recent trauma or injury. The patient's vital signs upon arrival are as follows: temperature 101.2°F, heart rate 90 bpm, blood pressure 130/80 mmHg, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or respiratory symptoms.",
+    "gi": "The patient denies any abdominal pain, diarrhea, or vomiting.",
+    "gu": "The patient denies any urinary frequency or change in urine appearance.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes or changes in the skin.",
+    "neurologic": "The patient denies any changes in sensation, vision, or coordination."
+  },
+  "past_medical_history": "The patient's past medical history is significant for hypertension and hyperlipidemia. He takes lisinopril 20mg daily and atorvastatin 40mg nightly.",
+  "medications": "Lisinopril 20mg daily, atorvastatin 40mg nightly",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory. His parents are deceased.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco, alcohol, or illicit drug use."
+}

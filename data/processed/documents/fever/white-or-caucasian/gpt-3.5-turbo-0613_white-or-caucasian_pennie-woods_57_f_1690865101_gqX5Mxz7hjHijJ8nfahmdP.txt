@@ -1,0 +1,22 @@
+{
+  "patient_name": "Pennie Woods",
+  "age": "57",
+  "gender": "f",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that she has been experiencing a high-grade fever for the past two days, accompanied by chills and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She also denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough or shortness of breath.",
+    "gi": "Negative for abdominal pain or vomiting.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or changes in consciousness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient takes lisinopril 20 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient's family history is unremarkable for any major illnesses.",
+  "social_history": "Patient is a lifelong non-smoker. She consumes alcohol socially on occasion. She lives alone and is retired."
+}

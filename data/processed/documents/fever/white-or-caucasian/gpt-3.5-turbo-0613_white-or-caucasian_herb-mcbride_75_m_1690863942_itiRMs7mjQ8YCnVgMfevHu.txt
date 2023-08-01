@@ -1,0 +1,22 @@
+{
+  "patient_name": "Herb Mcbride",
+  "age": "75",
+  "gender": "m",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Herb Mcbride is a 75-year-old male who presents to the emergency department with a chief complaint of fever. According to the patient, the fever developed two days ago, accompanied by chills and body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. The patient has not taken any over-the-counter medications for his symptoms. He denies any recent travel or sick contacts. He reports no known exposure to COVID-19. His medical history is significant for hypertension, for which he takes lisinopril. He denies any known allergies. The patient's vital signs on presentation are as follows: temperature 101.5°F, heart rate 90 beats per minute, blood pressure 140/90 mmHg, respiratory rate 18 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having a decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sputum production, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes.",
+    "musculoskeletal": "The patient reports generalized body aches and joint pain.",
+    "skin": "No rashes, itching, or lesions.",
+    "neurologic": "No headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension.",
+  "medications": "Lisinopril for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has no significant family history of illness.",
+  "social_history": "The patient is retired and lives alone. He denies smoking, alcohol use, or illicit drug use."
+}

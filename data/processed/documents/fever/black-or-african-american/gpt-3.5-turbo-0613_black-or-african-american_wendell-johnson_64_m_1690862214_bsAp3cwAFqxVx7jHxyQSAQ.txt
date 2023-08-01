@@ -1,0 +1,21 @@
+{
+  "patient_name": "Wendell Johnson",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent. He denied any other symptoms such as cough, sore throat, or shortness of breath. He does not recall any recent travel or exposure to sick individuals. The patient states that he has been feeling tired and fatigued. He has not taken any over-the-counter medications for the fever. His past medical history is significant for hypertension and type 2 diabetes. His current medications include lisinopril and metformin. He has no history of surgical procedures. The patient reports no family history of any significant medical conditions. He is a former smoker and quit smoking 10 years ago. He denies any alcohol or substance abuse. He reports no recent changes in his social or occupational environment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and lack of energy.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath or difficulty breathing.",
+    "gi": "No abdominal pain, nausea, vomiting or diarrhea.",
+    "gu": "No urinary frequency, urgency or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes, lesions or itching.",
+    "neurologic": "No headaches, dizziness or changes in coordination."
+  },
+  "past_medical_history": "Hypertension, type 2 diabetes.",
+  "medications": "Lisinopril, metformin.",
+  "past_surgical_history": "No surgical procedures.",
+  "family_history": "No significant family history of medical conditions.",
+  "social_history": "Former smoker, quit 10 years ago. No alcohol or substance abuse."
+}

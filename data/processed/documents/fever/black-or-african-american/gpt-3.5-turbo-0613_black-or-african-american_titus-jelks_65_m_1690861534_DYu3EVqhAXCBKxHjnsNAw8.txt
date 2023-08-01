@@ -1,0 +1,21 @@
+{
+  "patient_name": "Titus Jelks",
+  "age": "65",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Jelks presents to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent. He denies any other symptoms such as cough, sore throat, headache, body aches, or shortness of breath. He has taken over-the-counter medication for fever, but it has not provided relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or diarrhea",
+    "gu": "Negative for urinary frequency or urgency",
+    "musculoskeletal": "Negative for joint pain or stiffness",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or confusion"
+  },
+  "past_medical_history": "Mr. Jelks has a past medical history of hypertension and diabetes. He is currently on medication for both conditions.",
+  "medications": "Lisinopril 10 mg and metformin 1000 mg daily",
+  "past_surgical_history": "None",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Mr. Jelks is a retired accountant. He denies smoking or alcohol use."
+}

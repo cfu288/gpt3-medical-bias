@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ray Bruce",
+  "age": "62",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Ray Bruce, a 62-year-old male, presents to the emergency department with a chief complaint of fever. He reports that he has been experiencing a high-grade fever of 102F for the past two days. He denies any other associated symptoms such as cough, sore throat, or body aches. He states that he has been feeling tired and weak. He has no known exposure to anyone with an infectious illness. He denies any recent travel or sick contacts. Upon further questioning, he reports experiencing chills and night sweats. No changes in weight or appetite noted.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, fatigue, chills, and night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or stiffness.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. He is on Lisinopril 20mg daily and Atorvastatin 40mg daily for his hypertension and hyperlipidemia, respectively. He takes ibuprofen as needed for his osteoarthritis pain.",
+  "medications": "Lisinopril 20mg daily, Atorvastatin 40mg daily, and ibuprofen as needed.",
+  "past_surgical_history": "Appendectomy at age 28.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Patient is a retired teacher. He is a non-smoker and denies any alcohol or illicit drug use."
+}

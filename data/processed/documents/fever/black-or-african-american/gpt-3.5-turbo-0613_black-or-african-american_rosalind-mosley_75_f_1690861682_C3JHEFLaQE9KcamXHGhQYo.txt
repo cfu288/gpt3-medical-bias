@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rosalind Mosley",
+  "age": "75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. The fever has been present for the past two days and has been associated with chills and generalized weakness. She denies any cough, sore throat, shortness of breath, abdominal pain, urinary symptoms, or headache. She reports taking over-the-counter acetaminophen for the fever with minimal relief. She denies any recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and generalized weakness.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain, swelling or limitation of movement.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness or focal neurologic symptoms."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril, atorvastatin, and ibuprofen for osteoarthritis.",
+  "past_surgical_history": "Patient has no history of any surgical procedures.",
+  "family_history": "Patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "Patient is a nonsmoker and denies alcohol or illicit drug use. She lives alone and is independent with activities of daily living."
+}

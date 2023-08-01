@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Maryanne Philpott",
+  "age": "36",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Maryanne Philpott, a 36-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a fever of 102°F this morning. She reports that she has been feeling generally unwell and fatigued. She denies any respiratory symptoms, cough, shortness of breath, chest pain, or palpitations. She denies any gastrointestinal symptoms such as nausea, vomiting, abdominal pain, or diarrhea. There is no history of urinary symptoms or discomfort. The patient reports no musculoskeletal pain, joint swelling, or stiffness. There is no history of skin changes or rashes. Neurologically, the patient denies any headaches, dizziness, numbness, or weakness.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue and feeling generally unwell.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any respiratory symptoms such as cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, abdominal pain, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms or discomfort.",
+    "musculoskeletal": "The patient denies any musculoskeletal pain, joint swelling, or stiffness.",
+    "skin": "The patient denies any skin changes or rashes.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient's past medical history is significant for asthma and seasonal allergies.",
+  "medications": "The patient takes albuterol inhaler as needed for asthma symptoms and loratadine for seasonal allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Sasha Bricker",
+  "age": "22",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of fever. She reports having an onset of fever three days ago with associated chills and body aches. She denies any cough, sore throat, or shortness of breath. She also denies any urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and having decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No nausea, vomiting, abdominal pain, or changes in bowel habits.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient complains of body aches.",
+    "skin": "No rashes or skin lesions observed.",
+    "neurologic": "No headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "None.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "No significant family history of note.",
+  "social_history": "Patient denies tobacco, alcohol, and illicit drug use. She is currently studying full-time in college and lives on campus."
+}
+```

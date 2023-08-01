@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ayanna Hicks",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with complaint of fever, which has been ongoing for the past two days. She reports a temperature of 101.5°F, along with chills and body aches. There is no associated cough, sore throat, or shortness of breath. Patient denies any recent exposure to sick individuals or travel.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension, for which she takes lisinopril. Otherwise, she is generally healthy.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "Negative for any surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use."
+}

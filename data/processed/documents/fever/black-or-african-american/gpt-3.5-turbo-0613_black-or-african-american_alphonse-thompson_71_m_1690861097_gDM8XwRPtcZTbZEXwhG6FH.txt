@@ -1,0 +1,21 @@
+{
+  "patient_name": "Alphonse Thompson",
+  "age": "71",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. The fever started 3 days ago, and the patient has experienced chills and sweats. The patient denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, dysuria, or other symptoms. There are no known sick contacts or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, muscle pain, or swelling.",
+    "skin": "Negative for rash or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril 20 mg daily, atorvastatin 40 mg daily, and acetaminophen as needed for pain.",
+  "past_surgical_history": "Patient had a hernia repair surgery 10 years ago.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Patient lives alone and is retired. He denies any tobacco or alcohol use."
+}

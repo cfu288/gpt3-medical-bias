@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jasen Johnson",
+  "age": "22",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jasen Johnson, a 22-year-old male, presented to the emergency department with a chief complaint of fever. Upon arrival, the patient reported an onset of fever approximately 2 days ago. He described the fever as high-grade and associated with chills. The patient denied any other symptoms such as cough, sore throat, or body aches. He also denied any recent travel or exposure to sick contacts. The patient reported taking over-the-counter antipyretics for symptomatic relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or urgency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not regularly take any medications.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient denies tobacco, alcohol, or drug use. He is currently employed as a software engineer."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Allan Rodriguez",
+  "age": "45",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Allan Rodriguez, a 45-year-old male, presented to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing a high-grade fever (103°F) for the past 2 days. He also reported associated symptoms such as chills, headache, body aches, and fatigue. The patient denies any respiratory symptoms, gastrointestinal symptoms, or urinary symptoms. He has been taking over-the-counter acetaminophen for fever reduction.",
+  "review_of_symptoms": {
+    "constitutional": "positive for fever, chills, headache, body aches, and fatigue",
+    "cardiovascular": "negative",
+    "respiratory": "negative",
+    "gi": "negative",
+    "gu": "negative",
+    "musculoskeletal": "negative",
+    "skin": "negative",
+    "neurologic": "negative"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is well-controlled with medication. No other significant past medical history.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and occasional over-the-counter acetaminophen as needed for fever.",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient's social history is unremarkable. He is a non-smoker and denies any alcohol or illicit drug use."
+}

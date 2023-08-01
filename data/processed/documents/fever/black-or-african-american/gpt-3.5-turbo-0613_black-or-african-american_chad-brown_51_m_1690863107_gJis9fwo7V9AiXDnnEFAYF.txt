@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chad Brown",
+  "age": "51",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Brown is a 51-year-old male presenting to the emergency department with a chief complaint of fever. Per the patient, his symptoms began two days ago and have been progressively worsening. He reports a measured temperature of 101°F. He denies any associated chills, cough, sore throat, shortness of breath, abdominal pain, urinary symptoms, or rash. He also denies any recent travel or sick contacts. Mr. Brown states that he has tried taking over-the-counter antipyretics, but they have provided minimal relief. He is concerned and seeks further evaluation.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever.",
+    "cardiovascular": "Negative for chest pain, palpitations, or orthopnea.",
+    "respiratory": "Negative for cough, shortness of breath, sputum production, wheezing, or hemoptysis.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or melena.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash, pruritus, or recent trauma.",
+    "neurologic": "Negative for headache, dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "Mr. Brown has a past medical history of hypertension and type 2 diabetes mellitus, which are both well-controlled. He is not allergic to any medications.",
+  "medications": "Mr. Brown takes metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "Negative for any past surgical history.",
+  "family_history": "Family history is non-contributory.",
+  "social_history": "Mr. Brown is a non-smoker and denies any alcohol or drug use."
+}

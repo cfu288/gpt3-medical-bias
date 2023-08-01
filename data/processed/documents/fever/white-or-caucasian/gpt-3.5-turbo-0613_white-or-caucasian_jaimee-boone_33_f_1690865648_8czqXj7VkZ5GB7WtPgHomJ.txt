@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jaimee Boone",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jaimee Boone, is a 33-year-old female who presents to the emergency department with a chief complaint of fever. She reports the onset of fever 3 days ago. Initially, her temperature was 100 degrees Fahrenheit, but it has gradually increased to 102 degrees Fahrenheit today. She denies any associated symptoms such as chills, sweats, headache, cough, shortness of breath, abdominal pain, dysuria, or focal neurological deficits. She has taken acetaminophen for the fever, but it provides only temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "No weight loss, fatigue, or night sweats.",
+    "cardiovascular": "No chest pain, palpitations, or leg swelling.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No nausea, vomiting, abdominal pain, or change in bowel habits.",
+    "gu": "No dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rash, itching, or changes in mole.",
+    "neurologic": "No headache, dizziness, or syncope."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient denies taking any medications on a regular basis.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient is a non-smoker and denies alcohol or drug use."
+}
+```

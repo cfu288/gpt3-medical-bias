@@ -1,0 +1,21 @@
+{
+  "patient_name": "Sami Johnson",
+  "age": "42",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports having a temperature of 101°F for the past two days. The fever is associated with chills, headache, and body aches. The patient denies any cough, shortness of breath, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and has a decreased appetite.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "The patient denies any urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "The patient reports generalized body aches and joint pains.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well-controlled with medication. He has no known allergies.",
+  "medications": "The patient takes Lisinopril 10 mg daily for hypertension.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

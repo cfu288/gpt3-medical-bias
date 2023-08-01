@@ -1,0 +1,23 @@
+```
+{
+  "patient_name": "Keiko Jackson",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Keiko Jackson, a 34-year-old female, presents to the emergency department with a chief complaint of fever. She reports that she has been experiencing a high-grade fever of 101°F for the past two days. She also reports associated symptoms of chills, body aches, and fatigue. She denies any cough, sore throat, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, headache, or any other neurological symptoms. She states that she has not traveled recently or been in contact with anyone who has been sick.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or flank pain.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or any other neurological symptoms."
+  },
+  "past_medical_history": "The patient reports a past medical history significant for seasonal allergies and childhood asthma.",
+  "medications": "The patient takes over-the-counter antihistamines for seasonal allergies as needed.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient has no significant family history of chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}
+```

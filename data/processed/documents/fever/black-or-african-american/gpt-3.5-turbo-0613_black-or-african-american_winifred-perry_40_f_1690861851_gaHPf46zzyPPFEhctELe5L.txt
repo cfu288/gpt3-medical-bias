@@ -1,0 +1,21 @@
+{
+    "patient_name": "Winifred Perry",
+    "age": "40",
+    "chief_complaint": "Fever",
+    "history_of_present_illness": "The patient, Winifred Perry, a 40-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever began two days ago and has been persistent. She denies any associated symptoms such as cough, sore throat, or shortness of breath. She also denies any recent travel or exposure to sick individuals. In terms of her medical history, she reports a history of hypertension, for which she takes medication. She has no history of surgeries. Her family history is unremarkable. Socially, she is a non-smoker and denies any alcohol or illicit drug use.",
+    "review_of_symptoms": {
+        "constitutional": "Patient reports feeling fatigued and weak.",
+        "cardiovascular": "Patient denies chest pain, palpitations, or edema.",
+        "respiratory": "Patient denies cough, shortness of breath, or wheezing.",
+        "gi": "Patient denies abdominal pain, nausea, vomiting, or changes in bowel habits.",
+        "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+        "musculoskeletal": "Patient denies joint pain, swelling, or stiffness.",
+        "skin": "Patient denies rash, itching, or lesions.",
+        "neurologic": "Patient denies headaches, numbness, or weakness in any extremities."
+    },
+    "past_medical_history": "Hypertension",
+    "medications": "Patient takes medication for hypertension.",
+    "past_surgical_history": "None",
+    "family_history": "Non-contributory",
+    "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use."
+}

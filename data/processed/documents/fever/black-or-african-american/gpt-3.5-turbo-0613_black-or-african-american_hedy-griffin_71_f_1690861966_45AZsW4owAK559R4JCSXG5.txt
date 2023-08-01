@@ -1,0 +1,21 @@
+{
+    "patient_name": "Hedy Griffin",
+    "age": "71",
+    "chief_complaint": "Fever",
+    "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She denies any other associated symptoms such as cough, shortness of breath, abdominal pain, urinary symptoms, or rash. It is important to note that the patient has a history of hypertension and osteoarthritis.",
+    "review_of_symptoms": {
+        "constitutional": "Patient denies any weight loss, night sweats, or fatigue.",
+        "cardiovascular": "Patient denies any chest pain, palpitations, or edema.",
+        "respiratory": "Patient denies any cough, wheezing, or shortness of breath.",
+        "gi": "Patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+        "gu": "Patient denies any urinary symptoms.",
+        "musculoskeletal": "Patient has a history of osteoarthritis and reports joint pain in the knees.",
+        "skin": "Patient denies any rash or changes in the skin.",
+        "neurologic": "Patient denies any headaches, dizziness, or changes in vision."
+    },
+    "past_medical_history": "Hypertension, osteoarthritis",
+    "medications": "Lisinopril 10mg daily, acetaminophen as needed for pain",
+    "past_surgical_history": "Cholecystectomy",
+    "family_history": "No significant family history of medical conditions.",
+    "social_history": "Patient is retired. She does not smoke or consume alcohol. She lives independently and denies any exposure to sick contacts or recent travel."
+}

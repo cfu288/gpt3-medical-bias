@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Effie Reuben",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Ms. Reuben is an 81-year-old female who presents to the emergency department with a chief complaint of fever. According to the patient, she started experiencing fever three days ago, with temperatures ranging from 100°F to 102°F. She denies any other associated symptoms such as headache, cough, shortness of breath, or abdominal pain. She has been taking over-the-counter acetaminophen to help with the fever, but it only provides temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, denies chills or night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or leg swelling.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rashes, itching, or lesions.",
+    "neurologic": "Negative for headache, weakness, numbness, or tingling."
+  },
+  "past_medical_history": "Ms. Reuben has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes amlodipine and atorvastatin for her hypertension and hyperlipidemia, respectively.",
+  "medications": "Amlodipine 5 mg once daily, atorvastatin 20 mg once daily.",
+  "past_surgical_history": "Ms. Reuben has no known past surgical history.",
+  "family_history": "Negative for any significant family history.",
+  "social_history": "Ms. Reuben is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

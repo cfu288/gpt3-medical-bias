@@ -1,0 +1,21 @@
+{
+  "patient_name": "Vaughn Krueger",
+  "age": "68",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Krueger is a 68-year-old male who presents to the emergency department with a chief complaint of fever. He reports the onset of fever approximately 3 days ago with temperatures ranging from 100 to 102 degrees Fahrenheit. He denies any associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He also denies any recent travel or exposure to sick contacts. He states that he has been taking over-the-counter acetaminophen to manage his fever with only partial relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever.",
+    "cardiovascular": "Negative for chest pain, palpitations, or swelling.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Mr. Krueger has a past medical history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg once daily.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history.",
+  "social_history": "Mr. Krueger is a retired construction worker. He is a former smoker, having quit 10 years ago. He denies alcohol or illicit drug use."
+}

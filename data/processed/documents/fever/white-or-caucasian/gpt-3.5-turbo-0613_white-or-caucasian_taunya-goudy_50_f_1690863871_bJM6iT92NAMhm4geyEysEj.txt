@@ -1,0 +1,27 @@
+{
+  "patient_name": "Taunya Goudy",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mrs. Goudy is a 50-year-old female who presents to the emergency department with a chief complaint of fever. She states that her fever started two days ago and has been persistent with temperatures ranging from 101°F-103°F. In addition to the fever, she also reports feeling tired, weak, and experiencing occasional chills. She denies any other associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms.",
+
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue, weakness, and occasional chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+
+  "past_medical_history": "Mrs. Goudy has a past medical history of hypertension and type 2 diabetes mellitus. She takes lisinopril and metformin for these conditions, both of which she reports being compliant with.",
+
+  "medications": "Lisinopril 10 mg daily, metformin 1000 mg twice daily",
+
+  "past_surgical_history": "Mrs. Goudy has no significant past surgical history.",
+
+  "family_history": "Negative for any significant family history of chronic illnesses or genetic disorders.",
+
+  "social_history": "Mrs. Goudy is a nonsmoker and denies any alcohol or illicit drug use. She works as an office manager and lives with her husband, who is currently healthy and has no similar symptoms."
+}

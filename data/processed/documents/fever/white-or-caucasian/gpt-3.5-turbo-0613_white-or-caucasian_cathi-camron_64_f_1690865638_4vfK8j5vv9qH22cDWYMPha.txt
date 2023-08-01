@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cathi Camron",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Cathi Camron, a 64-year-old female, presents with a chief complaint of fever. She states that her temperature started to rise yesterday evening and has remained elevated since then. The patient denies any associated symptoms such as cough, sore throat, or body aches. She also reports no recent travel or exposure to sick contacts. The patient states that she initially tried to manage her fever at home with over-the-counter medications, but decided to come to the emergency department due to the persistence of her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies chills, night sweats, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or shortness of breath.",
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes. She is currently taking lisinopril for blood pressure control and metformin for diabetes management.",
+  "medications": null,
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": null,
+  "social_history": null
+}
+```

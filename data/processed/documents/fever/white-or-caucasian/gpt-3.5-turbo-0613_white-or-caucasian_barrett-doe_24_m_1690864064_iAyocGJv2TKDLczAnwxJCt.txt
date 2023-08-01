@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barrett Doe",
+  "age": "24",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing intermittent fevers for the past 3 days. The fever is associated with chills and night sweats. There are no other significant symptoms noted at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or malaise.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any nausea, vomiting, abdominal pain, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle pain, or swelling.",
+    "skin": "The patient denies any rashes, lesions, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient is currently not taking any medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies any tobacco, alcohol, or drug use. He is currently employed as a software engineer and denies any recent travel or exposure to sick contacts."
+}

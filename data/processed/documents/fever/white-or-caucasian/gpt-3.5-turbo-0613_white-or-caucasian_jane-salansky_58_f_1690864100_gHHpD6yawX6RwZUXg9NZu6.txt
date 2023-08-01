@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Jane Salansky",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jane Salansky, a 58-year-old female, presents to the emergency department with a chief complaint of fever. The fever started 2 days ago and is associated with chills and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, dysuria, or rash. No recent travel outside of the country or exposure to sick contacts. She reports feeling tired and weak.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, chills",
+    "cardiovascular": "No chest pain or palpitations",
+    "respiratory": "No cough or shortness of breath",
+    "gi": "No abdominal pain, vomiting, or diarrhea",
+    "gu": "No dysuria or frequency",
+    "musculoskeletal": "Body aches",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She is currently on metoprolol for hypertension and atorvastatin for hyperlipidemia. She is compliant with her medications.",
+  "medications": "Metoprolol (100mg daily), Atorvastatin (20mg daily)",
+  "past_surgical_history": "The patient had an appendectomy at age 30; otherwise, unremarkable.",
+  "family_history": "There is no significant family history of heart disease, cancer, or other genetic conditions.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. She is married and lives with her husband. She works as an office manager and reports no recent significant stressors."
+}
+```

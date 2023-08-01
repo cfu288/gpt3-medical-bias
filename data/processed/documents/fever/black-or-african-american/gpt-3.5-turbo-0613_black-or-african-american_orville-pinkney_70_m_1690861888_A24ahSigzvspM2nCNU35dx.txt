@@ -1,0 +1,21 @@
+{
+  "patient_name": "Orville Pinkney",
+  "age": "70",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Orville Pinkney, a 70-year-old male, presents to the emergency department with complaints of fever for the past 3 days. He reports a temperature of 101°F, associated with chills, fatigue, and generalized body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, or neurological symptoms. The patient resides at a nursing home and his caregiver reported an outbreak of respiratory illness in the facility. The patient is concerned about COVID-19 infection.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, fatigue, and generalized body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, and edema.",
+    "respiratory": "Negative for cough and shortness of breath.",
+    "gi": "Negative for abdominal pain, vomiting, and diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rashes or skin lesions.",
+    "neurologic": "Negative for headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "The patient has a history of hypertension and type 2 diabetes mellitus, both well-controlled with medication. He has no known allergies.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has no history of any surgeries.",
+  "family_history": "The patient reports a family history of hypertension and diabetes, with no history of cancer or genetic disorders.",
+  "social_history": "The patient is a retired teacher and lives in a nursing home. He is a non-smoker and has no history of alcohol or illicit drug use."
+}

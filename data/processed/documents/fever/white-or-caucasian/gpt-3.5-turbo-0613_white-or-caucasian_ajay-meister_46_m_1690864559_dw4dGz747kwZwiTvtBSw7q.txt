@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Ajay Meister",
+  "age": "46",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Ajay Meister, a 46-year-old male, presents to the emergency department with a chief complaint of fever. He states that his symptoms began approximately 3 days ago, with the sudden onset of high-grade fever (102°F), chills, and generalized body aches. He also reports mild headache and fatigue. He denies any cough, chest pain, shortness of breath, abdominal pain, vomiting, diarrhea, dysuria, or any other specific symptoms. He has been taking acetaminophen for his fever, which has provided partial relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fever and chills.",
+    "cardiovascular": "Patient denies any chest pain or palpitations.",
+    "respiratory": "Patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "Patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Patient reports generalized body aches and mild headache.",
+    "skin": "Patient denies any rash, itching, or lesions.",
+    "neurologic": "Patient reports mild headache and fatigue."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes amlodipine.",
+  "medications": "Amlodipine 5 mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "There is no significant family history of note.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

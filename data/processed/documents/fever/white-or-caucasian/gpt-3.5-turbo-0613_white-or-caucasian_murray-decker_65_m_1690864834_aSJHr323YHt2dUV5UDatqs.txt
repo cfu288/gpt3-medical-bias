@@ -1,0 +1,21 @@
+{
+  "patient_name": "Murray Decker",
+  "age": "65",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. The patient reports having a high-grade fever for the past two days, with temperatures reaching 103°F. He also complains of generalized weakness and body aches. The patient denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He states that he has been feeling fatigued and has had a reduced appetite. He has been self-medicating with over-the-counter acetaminophen without significant improvement in his symptoms. There is no known exposure to sick contacts or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and generalized weakness.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms such as frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He reports compliance with his medications for these conditions.",
+  "medications": "Lisinopril 10mg daily, atorvastatin 20mg daily",
+  "past_surgical_history": "Patient has no prior surgical history.",
+  "family_history": "Positive for hypertension and hyperlipidemia in mother and brother.",
+  "social_history": "Patient is a retired accountant and denies tobacco or alcohol use."
+}

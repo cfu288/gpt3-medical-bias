@@ -1,0 +1,21 @@
+{
+  "patient_name": "Selina Baylor",
+  "age": "37",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Selina Baylor, a 37-year-old female, presents to the emergency department with a chief complaint of fever. She states that her symptoms began two days ago and have been progressively getting worse. She reports a high-grade fever, measured at 102 degrees Fahrenheit, which is accompanied by chills and body aches. She denies any cough, shortness of breath, chest pain, or other respiratory symptoms. She reports feeling fatigued and has experienced a mild headache. She denies any recent travel, sick contacts, or exposure to anyone with COVID-19. She has been taking over-the-counter acetaminophen to manage her fever with minimal relief. Her past medical history is significant for hypertension and seasonal allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports fatigue and chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No nausea, vomiting, abdominal pain, or diarrhea reported.",
+    "gu": "No dysuria, frequency, urgency, or hematuria reported.",
+    "musculoskeletal": "Patient reports body aches.",
+    "skin": "No rashes, itching, or lesions reported.",
+    "neurologic": "Patient reports mild headache."
+  },
+  "past_medical_history": "Hypertension, seasonal allergies.",
+  "medications": "Acetaminophen 500 mg PRN for fever.",
+  "past_surgical_history": "No previous surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-smoker, social alcohol drinker."
+}

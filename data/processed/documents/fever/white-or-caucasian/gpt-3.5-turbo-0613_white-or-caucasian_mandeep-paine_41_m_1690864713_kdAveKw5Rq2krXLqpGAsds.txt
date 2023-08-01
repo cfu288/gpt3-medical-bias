@@ -1,0 +1,21 @@
+{
+  "patient_name": "Mandeep Paine",
+  "age": "41",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with fever, which started yesterday. He reports feeling generally unwell, with chills and body aches. He denies any cough, shortness of breath, abdominal pain, or urinary symptoms. He has been taking acetaminophen every 4 hours for the fever, but it has only provided temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or other skin changes.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological symptoms."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril.",
+  "medications": "Lisinopril 10mg daily, acetaminophen 500mg every 4 hours as needed for fever.",
+  "past_surgical_history": "The patient has no prior surgeries.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient is married, works as a software engineer, and denies tobacco or alcohol use."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Claudia Miller",
+  "age": "43",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Claudia Miller is a 43-year-old female who presents to the emergency department with a chief complaint of fever. According to the patient, she developed a fever yesterday with a temperature of 101°F. She has been experiencing chills, generalized weakness, and body aches. She denies any other accompanying symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and generalized weakness",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, numbness or weakness"
+  },
+  "past_medical_history": "Patient has a history of hypertension, controlled with hydrochlorothiazide. No history of diabetes, asthma or other chronic medical conditions.",
+  "medications": "Hydrochlorothiazide 25mg daily for hypertension",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No family history of significant medical conditions.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or illicit drug use. She works as an office manager and does not have any recent travel history."
+}

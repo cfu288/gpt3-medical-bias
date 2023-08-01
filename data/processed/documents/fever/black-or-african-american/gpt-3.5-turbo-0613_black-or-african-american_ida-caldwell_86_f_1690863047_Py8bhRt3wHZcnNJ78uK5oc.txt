@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ida Caldwell",
+  "age": "86",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ida Caldwell, an 86-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever with a maximum temperature of 101°F for the past 2 days. She also reports a mild headache but denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. The patient states that she has been feeling fatigued and has had a decreased appetite. She has not noticed any rashes or changes in her skin. The patient states that she has not traveled recently or had any recent sick contacts. She denies any chest pain, palpitations, or shortness of breath. Her past medical history is significant for hypertension, diabetes mellitus type 2, and osteoarthritis. She takes metoprolol, metformin, and ibuprofen regularly. The patient has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies cough or shortness of breath.",
+    "gi": "The patient reports a decreased appetite.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports chronic joint pain related to her osteoarthritis.",
+    "skin": "The patient denies any rashes or changes in her skin.",
+    "neurologic": "The patient reports a mild headache."
+  },
+  "past_medical_history": "Hypertension, diabetes mellitus type 2, osteoarthritis",
+  "medications": "Metoprolol, metformin, ibuprofen",
+  "past_surgical_history": "Notable for a cholecystectomy in 2010",
+  "family_history": "No significant family history of note",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Veronique Burden",
+  "age": "58",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Ms. Burden is a 58-year-old female who presents to the emergency department with a chief complaint of fever. She reports experiencing a fever with temperatures ranging from 101 to 102 degrees Fahrenheit for the past 2 days. She states that she has also been feeling weak and fatigued. She denies any cough, sore throat, shortness of breath, abdominal pain, urinary symptoms, or rash. She reports no recent travel or known exposure to sick contacts. In addition to fever, she denies any other specific symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for weakness and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, and edema.",
+    "respiratory": "Negative for cough, sore throat, and shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain and muscle weakness.",
+    "skin": "Negative for rash or skin changes.",
+    "neurologic": "Negative for headache, dizziness, and focal neurologic deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and ibuprofen as needed for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She is retired and lives alone."
+}
+```

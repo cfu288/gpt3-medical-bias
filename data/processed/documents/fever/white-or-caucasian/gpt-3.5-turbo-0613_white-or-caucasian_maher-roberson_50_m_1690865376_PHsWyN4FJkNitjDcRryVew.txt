@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maher Roberson",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Maher Roberson, is a 50-year-old male who presents to the emergency department with a chief complaint of fever. He reports having a fever for the past three days, with temperatures ranging from 100-101°F. Additionally, he complains of generalized body aches and fatigue. He denies any cough, shortness of breath, or chest pain. He also denies any gastrointestinal symptoms such as nausea, vomiting, or diarrhea. Upon further questioning, he reports no recent travel or exposure to sick contacts. He states that he has been taking over-the-counter antipyretics for symptom relief, but they have provided only temporary relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Positive for generalized body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "The patient reports a history of hypertension, which is well-controlled with amlodipine. He is not currently taking any other medications.",
+  "medications": "Amlodipine",
+  "past_surgical_history": "No history of surgical procedures",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as a software engineer and denies any occupational exposures."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kimberli Gianni",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Kimberli Gianni, is a 61-year-old female presenting to the emergency department with a chief complaint of fever. The patient reports that her fever started two days ago and has been progressively worsening. She has also been experiencing chills and body aches. No other significant symptoms have been noted by the patient.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, or difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, urinary frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and Type 2 diabetes. She is currently taking metoprolol for hypertension.",
+  "medications": "Metoprolol 25 mg once daily.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is a nonsmoker and denies any alcohol or illicit drug use."
+}
+```

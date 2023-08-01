@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marika Warren",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Marika Warren, a 50-year-old female, presented to the emergency department with a chief complaint of fever. She reports that she has been experiencing a high-grade fever (101.5°F) for the past 2 days. She also complains of generalized body aches and fatigue. She denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms. She states that she has tried over-the-counter acetaminophen for fever relief with minimal effect. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and generalized body aches",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or nausea/vomiting",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for generalized body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or neurological symptoms"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and asthma.",
+  "medications": "The patient takes lisinopril for hypertension and uses an albuterol inhaler as needed for asthma symptoms.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes in her parents.",
+  "social_history": "The patient is a non-smoker and does not use alcohol or recreational drugs. She works as a receptionist and denies recent travel or sick contacts."
+}

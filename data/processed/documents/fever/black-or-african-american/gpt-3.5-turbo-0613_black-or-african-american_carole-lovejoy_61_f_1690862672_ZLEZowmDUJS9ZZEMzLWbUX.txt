@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Carole Lovejoy",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Carole Lovejoy, a 61-year-old female, presents to the emergency department with a chief complaint of fever. She states that she has been experiencing a high-grade fever of 102°F for the past 2 days. She also complains of chills, body aches, and fatigue. She denies any cough, sore throat, shortness of breath, or urinary symptoms. No known exposure to sick contacts or recent travel. No significant past medical history. Current medications include lisinopril for hypertension. She denies any allergies. No history of recent surgeries. No significant family history of note. Socially, she is a retired teacher and non-smoker, and she denies any alcohol or drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and body aches.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, wheezing, or shortness of breath.",
+    "gi": "No nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No headaches or neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "Lisinopril",
+  "past_surgical_history": "No history of surgeries.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient is a retired teacher and non-smoker. Denies alcohol or drug use."
+}
+```

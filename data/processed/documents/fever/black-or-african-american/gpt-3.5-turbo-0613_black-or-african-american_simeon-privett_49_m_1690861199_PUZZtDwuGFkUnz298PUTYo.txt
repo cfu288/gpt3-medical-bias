@@ -1,0 +1,21 @@
+{
+  "patient_name": "Simeon Privett",
+  "age": "49",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Privett, is a 49-year-old male presenting to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing high-grade fever of 39.5 degrees Celsius for the past two days. He reports associated symptoms of chills, body aches, and fatigue. The patient denies any cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He denies any recent travel or exposure to sick contacts. Upon further questioning, the patient reports no significant past medical history and is not taking any medications. He has not had any previous surgeries. The patient's family history is non-contributory. Socially, he is married and works as a software engineer.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and associated chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Positive for generalized body aches",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Not taking any medications",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "Non-contributory",
+  "social_history": "Married, software engineer"
+}

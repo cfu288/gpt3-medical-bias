@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Kristofer Kingston",
+  "age": "29",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the Emergency Department with a chief complaint of fever. Onset of fever was noted two days ago, with subjective fevers up to 102 degrees Fahrenheit. Patient also complains of generalized malaise, body aches, and chills. No associated symptoms of sore throat, cough, shortness of breath, nausea, vomiting, diarrhea, urinary symptoms, rash, headache, or confusion. No recent travel or sick contacts. No previous episodes of similar symptoms. No recent medication changes or new exposures.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for subjective fevers up to 102 degrees Fahrenheit, generalized malaise and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, orthopnea, and paroxysmal nocturnal dyspnea.",
+    "respiratory": "Negative for cough, shortness of breath, sputum production, wheezing, and hemoptysis.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, diarrhea, and melena.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, hematuria or pelvic pain.",
+    "musculoskeletal": "Negative for joint pain, swelling or stiffness.",
+    "skin": "Negative for rash, itching or lesions.",
+    "neurologic": "Negative for headache, dizziness, syncope, numbness, or weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-contributory."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Willie Ford",
+  "age": "66",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Willie Ford, a 66-year-old male, presents to the emergency department with a chief complaint of fever. He states that the fever started yesterday and has been persistent. He also reports a headache and body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He has no known sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fever and body aches, but denies any chills or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient reports body aches and myalgias.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He denies any history of diabetes, asthma, or other chronic medical conditions.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is retired and currently living alone. He denies any tobacco or alcohol use."
+}

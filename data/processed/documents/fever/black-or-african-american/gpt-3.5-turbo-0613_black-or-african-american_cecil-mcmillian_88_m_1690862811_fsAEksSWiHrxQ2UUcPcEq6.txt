@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cecil Mcmillian",
+  "age": "88",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Cecil McMillian, an 88-year-old male, presents to the emergency department with a chief complaint of fever. The patient reports experiencing a fever for the past 3 days. He denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or rash. The patient reports feeling fatigued and weak. He states that his appetite has decreased during this time. There is no known exposure to sick contacts or recent travel.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and weakness.",
+    "cardiovascular": "No symptoms of chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or changes in bowel movements.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No changes in mental status or focal neurologic symptoms."
+  },
+  "past_medical_history": "The patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes a daily medication regimen which includes lisinopril, atorvastatin, and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has a history of a knee replacement surgery.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is retired and lives alone. He does not smoke or consume alcohol."
+}
+```

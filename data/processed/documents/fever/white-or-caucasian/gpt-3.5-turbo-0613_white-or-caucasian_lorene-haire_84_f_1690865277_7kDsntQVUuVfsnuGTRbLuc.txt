@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lorene Haire",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lorene Haire, an 84-year-old female, presents to the Emergency Department with complaints of fever. According to the patient, she developed a fever of 101°F approximately 2 days ago. She reports feeling fatigued and experiencing generalized body aches. The patient denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She has been taking acetaminophen for the fever, but has not found relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No complaints of chest pain or palpitations.",
+    "respiratory": "Denies cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Reports generalized body aches.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No dizziness or headache."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, osteoarthritis, and diabetes.",
+  "medications": "The patient takes the following medications: lisinopril 10mg daily for hypertension, acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgeries.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is retired. She does not smoke or consume alcohol."
+}
+```

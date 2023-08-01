@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lynnette Gasior",
+  "age": "59",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lynnette Gasior, is a 59-year-old female who presents to the emergency department with a chief complaint of fever. She reports feeling unwell for the past 3 days, with an elevated temperature up to 102°F. She also complains of fatigue, body aches, and a mild headache. She denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, rash, or neurological symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, fatigue",
+    "cardiovascular": null,
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": "Body aches",
+    "skin": null,
+    "neurologic": "Mild headache"
+  },
+  "past_medical_history": null,
+  "medications": null,
+  "past_surgical_history": null,
+  "family_history": null,
+  "social_history": null
+}
+```

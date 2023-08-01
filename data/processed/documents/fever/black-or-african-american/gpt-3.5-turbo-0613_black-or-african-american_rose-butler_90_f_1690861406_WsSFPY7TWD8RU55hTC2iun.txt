@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rose Butler",
+  "age": "90",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient, Rose Butler, a 90-year-old female, presents to the emergency department with a chief complaint of fever. She states that the fever started two days ago and has been persistent. She denies any other associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She reports feeling weak and fatigued. She has not taken any medications to alleviate the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain or changes in bowel movements",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or changes in consciousness"
+  },
+  "past_medical_history": "Patient has a past medical history significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient's current medications include lisinopril 10 mg daily for hypertension and acetaminophen 500 mg as needed for pain.",
+  "past_surgical_history": "Patient has no history of past surgical procedures.",
+  "family_history": "Patient's family history is unremarkable.",
+  "social_history": "Patient lives alone and denies any tobacco, alcohol, or illicit drug use. She is independent with her activities of daily living and has no known allergies."
+}

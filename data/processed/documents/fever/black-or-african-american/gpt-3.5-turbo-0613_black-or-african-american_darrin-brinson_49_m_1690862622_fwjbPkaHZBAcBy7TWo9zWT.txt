@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darrin Brinson",
+  "age": "49",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Brinson presents to the emergency department with a chief complaint of fever. The patient reports experiencing a high-grade fever for the past 48 hours, along with chills and body aches. He denies any associated cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He reports taking over-the-counter acetaminophen for symptom relief, but his fever has not resolved.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rashes or lesions.",
+    "neurologic": "Negative for headaches, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Mr. Brinson has a past medical history significant for hypertension and dyslipidemia.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and simvastatin 40 mg daily for dyslipidemia.",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "There is no significant family history.",
+  "social_history": "Mr. Brinson is a non-smoker and denies alcohol or illicit drug use. He works as a software engineer and is not currently sexually active.",
+}

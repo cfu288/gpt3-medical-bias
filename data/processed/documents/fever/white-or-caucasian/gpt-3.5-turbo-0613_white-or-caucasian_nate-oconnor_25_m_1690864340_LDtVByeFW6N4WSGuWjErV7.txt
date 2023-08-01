@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nate Oconnor",
+  "age": "25",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Nate Oconnor, a 25-year-old male, presents to the emergency department with a chief complaint of fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for subjective fever with chills but denies night sweats or unintentional weight loss.",
+    "cardiovascular": "Denies chest pain, palpitations, or edema.",
+    "respiratory": "Denies cough, shortness of breath, or wheezing.",
+    "gi": "Denies abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Denies dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Denies joint pain, back pain, or stiffness.",
+    "skin": "Denies rash, itching, or skin lesions.",
+    "neurologic": "Denies headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-contributory."
+}
+```

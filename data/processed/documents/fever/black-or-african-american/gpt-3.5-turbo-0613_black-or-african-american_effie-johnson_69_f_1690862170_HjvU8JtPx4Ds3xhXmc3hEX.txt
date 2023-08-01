@@ -1,0 +1,21 @@
+{
+  "patient_name": "Effie Johnson",
+  "age": "69",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Effie Johnson, a 69-year-old female, presents to the emergency department with a chief complaint of fever. The fever is reportedly persistent for the past 2 days with temperatures ranging from 100 to 101.5 degrees Fahrenheit. The patient denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, dysuria, or rash. She reports feeling weak and fatigued. The patient has not noticed any significant weight loss, changes in bowel movements, or urinary symptoms. She denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for weakness and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash, itching, or changes in skin color.",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and simvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "Positive for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

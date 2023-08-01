@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Xin Stevens",
+  "age": "18",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Xin Stevens, an 18-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever for the past two days. She reports no other associated symptoms such as cough, sore throat, or body aches. The patient denies any recent travel or exposure to sick contacts. She has tried taking over-the-counter fever reducers without significant relief.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies chills, sweats, or weight loss.",
+    "cardiovascular": "The patient denies chest pain, palpitations, or lightheadedness.",
+    "respiratory": "The patient denies cough, shortness of breath, or difficulty breathing.",
+    "gi": "The patient denies nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports no significant past medical history and has not been hospitalized in the past.",
+  "medications": "The patient takes no routine medications and has no known allergies.",
+  "past_surgical_history": "The patient has not undergone any previous surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker, denies alcohol or drug use."
+}
+```

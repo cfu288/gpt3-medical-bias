@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jonas Magee",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jonas Magee, is a 50-year-old male who presented to the emergency department with a chief complaint of fever. He reports that his symptoms started two days ago and have gradually worsened. He describes the fever as high-grade, with temperatures reaching 102°F. He also reports associated symptoms of chills, body aches, and fatigue. He denies any cough, sore throat, shortness of breath, or urinary symptoms. He has not experienced any recent travel or sick contacts. His medical history is significant for hypertension, for which he is taking lisinopril. He has no known allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension",
+  "medications": "Lisinopril",
+  "past_surgical_history": "No surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient is married and works as a bank teller. He does not smoke or drink alcohol."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Katina Spellman",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents with a chief complaint of fever. She reports that she has been experiencing a high temperature of 101°F for the past two days, along with fatigue and body aches. She denies any other significant symptoms such as cough, sore throat, or shortness of breath. She states that she has not travelled recently and has not been in close contact with anyone who has been sick.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and body aches",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or changes in skin color",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it. She denies any other significant past medical history.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "Negative for any past surgeries.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a non-smoker. She drinks alcohol occasionally and denies any illicit drug use."
+}

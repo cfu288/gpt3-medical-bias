@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Teryl Jensen",
+  "age": "67",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mrs. Jensen, is a 67-year-old female who presents to the emergency department with a chief complaint of fever. She reports that her fever started two days ago and has been associated with chills, body aches, and fatigue. She denies any cough, shortness of breath, sore throat, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "positive for fever, chills, fatigue",
+    "cardiovascular": "negative",
+    "respiratory": "negative",
+    "gi": "negative",
+    "gu": "negative",
+    "musculoskeletal": "positive for body aches",
+    "skin": "negative",
+    "neurologic": "negative"
+  },
+  "past_medical_history": "The patient has a history of hypertension, controlled on lisinopril. She denies any other significant medical history or hospitalizations.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "No prior surgeries",
+  "family_history": "No family history of note",
+  "social_history": "Non-smoker, occasional alcohol use"
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Brendon Beil",
+  "age": "33",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Brendon Beil, a 33-year-old male, presents to the emergency department with a chief complaint of fever. He reports an onset of fever approximately 2 days ago. The fever is described as high-grade, with a maximum documented temperature of 102 degrees Fahrenheit. He has been experiencing associated symptoms such as chills, body aches, and headache. The patient denies any other significant symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of fatigue and feeling generally unwell.",
+    "cardiovascular": "No complaints of chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, sore throat, or difficulty breathing reported.",
+    "gi": "No nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary frequency, urgency, or dysuria reported.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "No rashes, itching, or changes in the skin reported.",
+    "neurologic": "No headaches, dizziness, or changes in vision reported."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient denies taking any regular medications.",
+  "past_surgical_history": "The patient reports no previous surgical procedures.",
+  "family_history": "The patient denies any significant family history of medical conditions.",
+  "social_history": "The patient is employed as a software engineer. He denies smoking, alcohol, or drug use."
+}
+```

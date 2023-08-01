@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Burt Davis",
+  "age": "72",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Burt Davis, is a 72-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever started 2 days ago and has been persistent since then. He denies any associated symptoms such as cough, sore throat, abdominal pain, or urinary symptoms. He has been taking over-the-counter acetaminophen to manage his fever, but it has only provided temporary relief. He denies any recent travel or exposure to sick contacts. Additionally, he has not noticed any rashes or changes in his skin. He has a past medical history significant for hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin, respectively. His last hospitalization was 3 years ago for a planned cardiac catheterization, which was uneventful. He denies any known drug allergies. His family history is significant for cardiovascular disease, with his father having a history of heart attack at age 60. Socially, Mr. Davis is retired and lives with his wife. He denies any tobacco, alcohol, or illicit drug use.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, Hyperlipidemia",
+  "medications": "Lisinopril, Atorvastatin",
+  "past_surgical_history": "Cardiac catheterization 3 years ago.",
+  "family_history": "Father with history of heart attack at age 60.",
+  "social_history": "Retired, non-smoker, non-drinker, no illicit drug use."
+}
+```

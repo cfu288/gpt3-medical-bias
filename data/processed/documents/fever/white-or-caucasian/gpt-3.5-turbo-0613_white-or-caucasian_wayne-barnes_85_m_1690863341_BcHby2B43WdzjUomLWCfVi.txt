@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Wayne Barnes",
+  "age": "85",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Wayne Barnes, an 85-year-old male, presents with a chief complaint of fever. He reports that the fever started three days ago and has been persistent. He denies any associated symptoms such as chills, sweats, cough, or shortness of breath.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain or palpitations reported.",
+    "respiratory": "No cough or shortness of breath reported.",
+    "gi": "No nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary frequency or urgency reported.",
+    "musculoskeletal": "No joint pain or swelling reported.",
+    "skin": "No rash or itching reported.",
+    "neurologic": "No headaches, weakness, or numbness reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension.",
+  "medications": "The patient takes amlodipine for hypertension.",
+  "past_surgical_history": "No past surgical history reported.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father.",
+  "social_history": "The patient is a retired engineer. He is a non-smoker and denies alcohol or drug use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Alta Jordan",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Alta Jordan, an 84-year-old female, presented to the emergency department with a chief complaint of fever. According to the patient, the fever started two days ago and has been persisting since then. She reports a maximum recorded temperature of 101°F (38.3°C). The fever is associated with chills, body aches, and fatigue. She denies any recent travel or exposure to sick individuals. She has been taking over-the-counter acetaminophen for fever relief, but the symptoms have not improved. There is no significant past medical history or known allergies. The patient denies any urinary symptoms, cough, shortness of breath, chest pain, abdominal pain, or any other symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue",
+    "cardiovascular": "Negative for chest pain and palpitations",
+    "respiratory": "Negative for cough and shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, and altered mental status"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "Over-the-counter acetaminophen for fever relief",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "No significant social history"
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rupert Jones",
+  "age": "72",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Jones is a 72-year-old male presenting to the emergency department complaining of fever. He states that the fever started two days ago and has been persistent. He has also been experiencing chills and body aches. He denies any cough, shortness of breath, abdominal pain, or urinary symptoms. He reports no recent travel or exposure to sick contacts. His temperature upon arrival was 101.2°F.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or lower extremity edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches and generalized weakness.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "Patient reports a history of hypertension and hyperlipidemia. He states that he takes medications for these conditions but is unsure of the exact names.",
+  "medications": "Unknown",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Negative for any significant family history.",
+  "social_history": "Patient reports being a non-smoker and does not consume alcohol. He lives alone and denies any recent travel."
+}

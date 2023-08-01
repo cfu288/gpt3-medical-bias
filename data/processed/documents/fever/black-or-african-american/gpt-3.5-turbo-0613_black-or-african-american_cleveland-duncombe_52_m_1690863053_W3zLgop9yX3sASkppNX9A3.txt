@@ -1,0 +1,21 @@
+{
+  "patient_name": "Cleveland Duncombe",
+  "age": "52",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. He reports having a temperature of 101 degrees Fahrenheit for the past two days. He denies any associated symptoms such as cough, sore throat, shortness of breath, or urinary symptoms. He also denies any recent travel or exposure to sick contacts. He states that he has been taking over-the-counter medications to reduce his fever, but they have not been effective.",
+  "review_of_symptoms": {
+    "constitutional": "Patient denies chills or night sweats.",
+    "cardiovascular": "Patient denies chest pain or palpitations.",
+    "respiratory": "Patient denies cough or shortness of breath.",
+    "gi": "Patient denies nausea, vomiting, abdominal pain, or diarrhea.",
+    "gu": "Patient denies urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "Patient denies joint pain or muscle aches.",
+    "skin": "Patient denies any rashes or skin changes.",
+    "neurologic": "Patient denies headaches, dizziness, or weakness."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia. He takes medications for these conditions, including lisinopril and simvastatin.",
+  "medications": "Lisinopril 20 mg daily, simvastatin 40 mg daily",
+  "past_surgical_history": "Patient has no history of surgeries.",
+  "family_history": "Patient reports a family history of diabetes in both parents.",
+  "social_history": "Patient denies tobacco use, alcohol use, and illicit drug use. He works as a software engineer and denies any recent stressors or changes in his living or working environment."
+}

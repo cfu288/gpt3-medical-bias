@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Junior Johnson",
+  "age": "65",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with complaints of fever for the past three days. He reports that his temperature has been consistently high, peaking at 102°F. The fever is associated with chills and body aches. Patient denies any other respiratory or gastrointestinal symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports feeling fatigued and weak.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "",
+  "medications": "",
+  "past_surgical_history": "",
+  "family_history": "",
+  "social_history": ""
+}
+```

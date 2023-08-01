@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barney Braga",
+  "age": "94",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Barney Braga, is a 94-year-old male who presents to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever of 101°F for the past 3 days. He also complains of generalized weakness, fatigue, and chills. The fever is persistent and has not responded to over-the-counter antipyretics. The patient denies any other associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He has a past medical history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin. The patient denies any recent travel or exposure to sick contacts. He lives alone and has not been in contact with anyone who is sick. There is no known family history of immune or infectious diseases. The patient does not have any allergies to medications.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports generalized weakness and fatigue.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in frequency or color of urine.",
+    "musculoskeletal": "No joint pain, swelling, or stiffness.",
+    "skin": "No rashes, itching, or skin changes.",
+    "neurologic": "No headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia",
+  "medications": "Lisinopril, atorvastatin",
+  "past_surgical_history": "No previous surgeries",
+  "family_history": "No known family history of immune or infectious diseases",
+  "social_history": "The patient lives alone and has not been in contact with anyone who is sick. He does not use tobacco or alcohol."
+}

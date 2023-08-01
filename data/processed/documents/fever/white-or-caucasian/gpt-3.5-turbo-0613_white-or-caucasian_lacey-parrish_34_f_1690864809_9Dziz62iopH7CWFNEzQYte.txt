@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lacey Parrish",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. She states that she has been experiencing high fever for the past two days, with a temperature reaching up to 103°F. She denies any other associated symptoms such as cough, sore throat, or body aches. She reports feeling fatigued and has been taking over-the-counter acetaminophen for fever reduction.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria or frequency",
+    "musculoskeletal": "Negative for joint pain or muscle aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of asthma and seasonal allergies.",
+  "medications": "The patient takes an albuterol inhaler as needed for asthma symptoms and takes loratadine daily for seasonal allergies.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of hypertension and her father has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

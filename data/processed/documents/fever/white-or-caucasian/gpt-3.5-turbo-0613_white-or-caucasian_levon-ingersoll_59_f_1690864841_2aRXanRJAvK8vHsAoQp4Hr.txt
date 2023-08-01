@@ -1,0 +1,21 @@
+{
+  "patient_name": "Levon Ingersoll",
+  "age": "59",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient Levon Ingersoll, a 59-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she has been experiencing a fever for the past two days. The fever is associated with chills, body aches, and fatigue. The patient denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, urinary symptoms, joint pain, rash, or neurological symptoms. She reports no recent travel, sick contacts, or known exposure to COVID-19. Her vital signs on presentation are as follows: temperature 101.5°F, blood pressure 120/80 mmHg, heart rate 80 bpm, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and chills associated with the fever.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient denies any joint pain.",
+    "skin": "The patient denies any rash or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril, atorvastatin, and ibuprofen for her medical conditions.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is significant for hypertension and diabetes.",
+  "social_history": "The patient is a retired teacher and lives alone. She denies any tobacco or alcohol use."
+}

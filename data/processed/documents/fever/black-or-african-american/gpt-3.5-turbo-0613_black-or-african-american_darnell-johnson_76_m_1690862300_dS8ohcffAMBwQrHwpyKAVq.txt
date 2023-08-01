@@ -1,0 +1,21 @@
+{
+  "patient_name": "Darnell Johnson",
+  "age": "76",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Darnell Johnson, a 76-year-old male, presents to the emergency department with a chief complaint of fever. The patient reports that he started feeling feverish two days ago and has had a temperature ranging from 100.4°F to 101.2°F. He denies any associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He also denies any recent travel or exposure to sick individuals. He has been taking acetaminophen for his fever, which provides temporary relief but the fever returns after a few hours.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever as mentioned above. Patient denies chills, night sweats, fatigue, or weight loss.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, wheezing, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or blood in stool.",
+    "gu": "Negative for dysuria, frequency, urgency, hematuria, or urinary incontinence.",
+    "musculoskeletal": "Negative for joint pain, swelling, or stiffness.",
+    "skin": "Negative for rash, itching, or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, weakness, or changes in sensation."
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes mellitus, well controlled with medications. He denies any history of autoimmune disorders, HIV/AIDS, or cancer.",
+  "medications": "Patient is currently taking metoprolol for hypertension and metformin for diabetes.",
+  "past_surgical_history": "Patient has a history of appendectomy in 2005. No other significant surgical history.",
+  "family_history": "Patient's mother had a history of hypertension and his father had a history of type 2 diabetes.",
+  "social_history": "Patient lives alone and is retired. He denies smoking, alcohol, or illegal drug use. He is independent with his activities of daily living."
+}

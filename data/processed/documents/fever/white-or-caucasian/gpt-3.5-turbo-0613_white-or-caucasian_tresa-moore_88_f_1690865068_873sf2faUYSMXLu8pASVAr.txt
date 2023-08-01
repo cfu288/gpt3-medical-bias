@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Tresa Moore",
+  "age": "88",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tresa Moore, is an 88-year-old female presenting to the emergency department with a chief complaint of fever. The fever started approximately two days ago and is associated with chills and generalized weakness. She denies any other symptoms at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, fatigue, or night sweats.",
+    "cardiovascular": "The patient denies any chest pain, shortness of breath, or palpitations.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or muscle weakness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes amlodipine 5 mg once daily and atorvastatin 20 mg once daily for her hypertension and hyperlipidemia, respectively.",
+  "past_surgical_history": "The patient has a past surgical history of cholecystectomy in 2012.",
+  "family_history": "The patient cannot provide any information regarding her family history as she is not aware of her family medical history.",
+  "social_history": "The patient is a non-smoker and does not drink alcohol. She lives alone and is able to perform her activities of daily living independently."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Spencer Brandt",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. He reports that the fever started about 3 days ago and has been persistent. He has not measured his temperature at home but describes feeling warm and having chills. He denies any specific associated symptoms such as cough, sore throat, or urinary symptoms. He reports feeling fatigued and has had a decreased appetite. No recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and decreased appetite. Otherwise negative.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria or urinary frequency.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No regular medications. Takes ibuprofen as needed for pain.",
+  "past_surgical_history": "No previous surgeries.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-smoker, occasional alcohol use."
+}
+```

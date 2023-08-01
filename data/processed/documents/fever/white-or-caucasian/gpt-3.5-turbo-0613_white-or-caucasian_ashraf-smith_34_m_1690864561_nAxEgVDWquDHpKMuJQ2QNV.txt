@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ashraf Smith",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Smith, presents to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent. He also mentions experiencing chills, body aches, headache, and loss of appetite. He denies any cough, shortness of breath, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued, weak, and is experiencing night sweats.",
+    "cardiovascular": "No palpitations or chest pain reported.",
+    "respiratory": "No cough, shortness of breath, or wheezing reported.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea reported.",
+    "gu": "No urinary symptoms reported.",
+    "musculoskeletal": "The patient reports body aches and joint pain.",
+    "skin": "No rashes or lesions reported.",
+    "neurologic": "No neurological symptoms reported."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, for which he takes medication.",
+  "medications": "The patient takes medication for hypertension, but is not on any current medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient reports no significant family history of genetic or hereditary conditions.",
+  "social_history": "The patient is married and works as an office administrator. He denies any tobacco or alcohol use."
+}

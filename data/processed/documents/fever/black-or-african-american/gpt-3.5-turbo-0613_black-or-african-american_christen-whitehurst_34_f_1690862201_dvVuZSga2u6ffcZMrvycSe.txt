@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Christen Whitehurst",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Christen Whitehurst, a 34-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports that the fever started 2 days ago and has been persistent. She has been experiencing chills, sweats, and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. She denies any recent travel or sick contacts. She has been taking over-the-counter acetaminophen for the fever with minimal relief. She states that her temperature has been fluctuating between 101°F and 103°F. She denies any recent illness or infections. She has no known drug allergies.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and sweats.",
+    "cardiovascular": "Negative for chest pain or palpitations.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms or dysuria.",
+    "musculoskeletal": "Positive for body aches and joint pain.",
+    "skin": "Negative for rash or changes in the skin.",
+    "neurologic": "Negative for headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "The patient reports a past medical history of allergic rhinitis.",
+  "medications": "The patient takes over-the-counter acetaminophen for fever and allergies.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history of medical conditions.",
+  "social_history": "The patient works as a teacher and denies any tobacco, alcohol, or illicit drug use. She lives alone and has no recent travels."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Olivier Gibson",
+  "age": "19",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Olivier Gibson, is a 19-year-old male who presents to the emergency department with a chief complaint of fever. The patient reports experiencing a high-grade fever of 103°F for the past two days. He also complains of headache, body aches, and fatigue. No other specific symptoms are noted at this time.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports experiencing fatigue and generalized malaise.",
+    "cardiovascular": null,
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": null,
+    "skin": null,
+    "neurologic": null
+  },
+  "past_medical_history": null,
+  "medications": null,
+  "past_surgical_history": null,
+  "family_history": null,
+  "social_history": null
+}
+```

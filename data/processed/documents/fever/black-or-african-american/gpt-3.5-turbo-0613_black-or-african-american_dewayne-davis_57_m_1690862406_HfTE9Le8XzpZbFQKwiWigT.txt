@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewayne Davis",
+  "age": "57",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Davis is a 57-year-old male presenting to the emergency department with a chief complaint of fever. He states that he has been experiencing a high-grade fever of 101°F for the past three days. He also reports feeling fatigued and having generalized body aches. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic" : "Negative for headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "Mr. Davis has a past medical history of hypertension and type 2 diabetes. He takes lisinopril and metformin for these conditions.",
+  "medications": "Lisinopril 20 mg daily and metformin 1000 mg twice daily.",
+  "past_surgical_history": "Appendectomy at age 25. No other surgical history reported.",
+  "family_history": "Family history is negative for any significant medical conditions.",
+  "social_history": "Mr. Davis is a non-smoker and denies any alcohol or illicit drug use. He works as a construction worker and denies recent travel or exposures."
+}

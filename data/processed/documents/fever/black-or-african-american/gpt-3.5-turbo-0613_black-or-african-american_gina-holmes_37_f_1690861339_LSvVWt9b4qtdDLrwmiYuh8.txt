@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gina Holmes",
+  "age": "37",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gina Holmes, a 37-year-old female, presents to the emergency department with a chief complaint of fever. She reports that the fever started approximately 3 days ago and is associated with chills and body aches. She denies any recent travel or exposure to sick contacts. She states that she has been taking over-the-counter medications to manage the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for subjective fevers, chills, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, or difficulty breathing.",
+    "gi": "Negative for nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or wounds.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient reports a history of asthma but is not currently on any prescribed medications for it.",
+  "medications": "Over-the-counter acetaminophen for fever.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "The patient denies any tobacco, alcohol, or illicit drug use."
+}

@@ -1,0 +1,20 @@
+{ "patient_name": "Tracie Shelburne", 
+  "age": "60", 
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Tracie Shelburne, a 60-year-old female, presented to the emergency department with a chief complaint of fever. She reports experiencing an elevated body temperature for the past two days, with a maximum recorded temperature of 101.5°F. She denies any associated symptoms such as cough, sore throat, or shortness of breath. Additionally, she denies any stomach pain, diarrhea, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feelings of fatigue and malaise.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, sore throat, or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "No urinary frequency, urgency, or dysuria.",
+    "musculoskeletal": "No joint pain, stiffness, or swelling.",
+    "skin": "No rashes, lesions, or itching.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia, both well-controlled with medications. She has no known history of infectious diseases or immunizations.",
+  "medications": "Lisinopril 10mg daily for hypertension, and simvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "No significant family history of infectious diseases or immunodeficiency.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

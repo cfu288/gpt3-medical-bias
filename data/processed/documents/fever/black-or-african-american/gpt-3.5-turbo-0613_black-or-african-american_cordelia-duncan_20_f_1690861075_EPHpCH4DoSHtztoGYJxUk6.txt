@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Cordelia Duncan",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Cordelia Duncan, a 20-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, the fever started yesterday evening and has persisted. She reports feeling generally unwell, with fatigue and body aches. She denies any cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. She has not taken any medications to relieve the fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and body aches.",
+    "cardiovascular": "No symptoms.",
+    "respiratory": "No cough, shortness of breath, or other respiratory symptoms.",
+    "gi": "No abdominal pain or changes in bowel habits.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "The patient reports body aches.",
+    "skin": "No rash or skin lesions.",
+    "neurologic": "No neurological symptoms."
+  },
+  "past_medical_history": "The patient reports no significant past medical history. She has not been hospitalized in the past.",
+  "medications": "The patient denies taking any regular medications or over-the-counter medications.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient does not have any significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco, alcohol, or drug use. She is a full-time university student and lives on campus. She denies any recent travel."
+}
+```

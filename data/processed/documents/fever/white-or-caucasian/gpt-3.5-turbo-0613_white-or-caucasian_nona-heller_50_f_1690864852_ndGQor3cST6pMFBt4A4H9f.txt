@@ -1,0 +1,27 @@
+{
+  "patient_name": "Nona Heller",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Nona Heller, a 50-year-old female, presents with a chief complaint of fever. She reports that the fever started three days ago and has been persistent. She also complains of chills and body aches. There is no associated cough, shortness of breath, or chest pain. She denies any gastrointestinal symptoms such as nausea, vomiting, or diarrhea. The patient denies any urinary or gynecological symptoms. She has not noticed any rashes or skin changes. She denies any neurological symptoms such as headache, dizziness, or confusion.",
+
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary or gynecological symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rashes or skin changes",
+    "neurologic": "Negative for headache, dizziness, or confusion"
+  },
+
+  "past_medical_history": "The patient has a history of hypertension and diabetes mellitus type 2. She takes lisinopril 10 mg once daily and metformin 1000 mg twice daily for her conditions. She is compliant with her medications and follows up regularly with her primary care physician.",
+
+  "medications": "Lisinopril 10 mg once daily, metformin 1000 mg twice daily",
+
+  "past_surgical_history": "The patient's past surgical history is unremarkable. She has never had any surgeries.",
+
+  "family_history": "The patient's family history is significant for hypertension and diabetes mellitus in her father and paternal grandmother. Her mother and siblings are healthy.",
+
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is married and works as a teacher. She lives with her husband and two children."
+}

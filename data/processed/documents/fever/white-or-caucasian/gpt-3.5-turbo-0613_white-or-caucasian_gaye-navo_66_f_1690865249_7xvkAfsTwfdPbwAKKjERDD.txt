@@ -1,0 +1,21 @@
+{
+  "patient_name": "Gaye Navo",
+  "age": "66",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Gaye Navo, a 66-year-old female, presents to the emergency department with complaints of fever. She states that her fever started two days ago and has been persistent. She also reports feeling weak and fatigued. She denies any other associated symptoms like cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and weakness",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rashes or lesions",
+    "neurologic": "Negative for headache or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and diabetes.",
+  "medications": "The patient takes metformin for diabetes and amlodipine for hypertension.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient's family history is significant for diabetes in her mother and hypertension in her father.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol."
+}

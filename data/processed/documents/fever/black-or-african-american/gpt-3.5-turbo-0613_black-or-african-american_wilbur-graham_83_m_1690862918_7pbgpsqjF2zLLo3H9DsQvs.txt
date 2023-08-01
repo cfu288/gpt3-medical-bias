@@ -1,0 +1,22 @@
+{
+  "patient_name": "Wilbur Graham",
+  "age": "83",
+  "gender": "m",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Graham is an 83-year-old male who presents to the emergency department with a chief complaint of fever. He states that the fever started 2 days ago and has been persistent. He denies any associated symptoms such as cough, headache, or body aches. He also denies any recent travel or exposure to sick contacts. Upon further questioning, he reports a loss of appetite and decreased energy level. No other significant past medical history or recent changes in medications."
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, wheezing, or shortness of breath.",
+    "gi": "Positive for loss of appetite.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache or changes in sensory or motor function."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "No current medications.",
+  "past_surgical_history": "No past surgical history.",
+  "family_history": "Non-contributory.",
+  "social_history": "Non-contributory."
+}

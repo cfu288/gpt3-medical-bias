@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dion Johnson",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Dion Johnson, a 50-year-old female, presents to the emergency department with a chief complaint of fever. She reports having a fever of 101°F since last night, along with chills and body aches. She denies any cough, sore throat, shortness of breath, or urinary symptoms. She also denies any recent travel or exposure to sick contacts. She denies any known allergies or recent changes in medications. She states that she has been taking Tylenol for the fever, which has provided temporary relief. Upon further questioning, she reports having a history of diabetes and hypertension. She states that she takes Metformin and Lisinopril for these conditions. She underwent an appendectomy in her twenties, but has had no other surgeries. She denies any significant family history of medical conditions. She is a non-smoker and does not consume alcohol. No illicit drug use reported.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, chills",
+    "cardiovascular": "No palpitations, chest pain or tightness",
+    "respiratory": "No cough, shortness of breath or wheezing",
+    "gi": "No abdominal pain, nausea, or vomiting",
+    "gu": "No dysuria, frequency, or hematuria",
+    "musculoskeletal": "Body aches",
+    "skin": "No rash or lesions",
+    "neurologic": "No headache or numbness/weakness"
+  },
+  "past_medical_history": "Diabetes, hypertension",
+  "medications": "Metformin, Lisinopril",
+  "past_surgical_history": "Appendectomy",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "Non-smoker, no alcohol or drug use"
+}

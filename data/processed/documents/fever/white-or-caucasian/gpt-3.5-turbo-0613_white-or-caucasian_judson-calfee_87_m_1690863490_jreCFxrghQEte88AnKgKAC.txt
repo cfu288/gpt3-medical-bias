@@ -1,0 +1,21 @@
+{
+  "patient_name": "Judson Calfee",
+  "age": "87",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Calfee is an 87-year-old male who presents to the emergency department with a chief complaint of fever. The patient reports that he has been experiencing a high-grade fever of 102°F for the past three days. He states that the fever is associated with chills and sweats, but denies any cough, sore throat, shortness of breath, or chest pain.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and sweats",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "Mr. Calfee has a past medical history of hypertension and type 2 diabetes mellitus. He is on amlodipine 5 mg daily and metformin 1000 mg twice daily for his chronic medical conditions.",
+  "medications": "Amlodipine 5 mg daily and metformin 1000 mg twice daily",
+  "past_surgical_history": "Negative for any past surgical procedures",
+  "family_history": "Negative for any significant family history",
+  "social_history": "Mr. Calfee is retired and lives alone. He denies tobacco or alcohol use."
+}

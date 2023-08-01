@@ -1,0 +1,21 @@
+{
+  "patient_name": "Antoine Thompson",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Antoine Thompson, a 64-year-old male, presented to the emergency department with a chief complaint of fever. He reports experiencing a high-grade fever of 102°F for the past two days. He also complains of chills, body aches, and fatigue. The patient denies any cough, sore throat, shortness of breath, or other respiratory symptoms. He denies any recent travel or exposure to sick contacts. No significant associated symptoms were reported.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "Positive for body aches and fatigue.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes daily medications for hypertension (amlodipine 5 mg daily) and hyperlipidemia (atorvastatin 20 mg daily).",
+  "past_surgical_history": "The patient has no prior surgical history.",
+  "family_history": "The patient's family history is significant for hypertension in his father and brother.",
+  "social_history": "The patient denies tobacco, alcohol, and illicit drug use. He is retired and currently lives alone."
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Demetria Jones",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Demetria Jones, a 50-year-old female, presents to the emergency department with a chief complaint of fever. The fever began three days ago and has been associated with chills, headache, and body aches. The patient denies any cough, difficulty breathing, abdominal pain, dysuria, or rash. She reports taking over-the-counter acetaminophen to manage her symptoms, but they have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, headache, and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough or difficulty breathing.",
+    "gi": "Negative for abdominal pain, nausea, or vomiting.",
+    "gu": "Negative for dysuria or hematuria.",
+    "musculoskeletal": "Negative for joint pain or muscle weakness.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for dizziness, weakness, or numbness."
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which she takes lisinopril.",
+  "medications": "Lisinopril 20 mg daily",
+  "past_surgical_history": "The patient has no previous surgical history.",
+  "family_history": "The patient has no significant family history of chronic illnesses.",
+  "social_history": "The patient is a non-smoker and denies alcohol or illicit drug use."
+}

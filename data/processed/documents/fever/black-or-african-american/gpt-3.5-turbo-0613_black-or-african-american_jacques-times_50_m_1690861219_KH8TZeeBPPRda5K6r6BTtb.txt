@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string",
+      "value": "Jacques Times"
+    },
+    "age": {
+      "type": "string",
+      "value": "50"
+    },
+    "chief_complaint": {
+      "type": "string",
+      "value": "Fever"
+    },
+    "history_of_present_illness": {
+      "type": "string",
+      "value": "The patient, Mr. Times, presents to the Emergency Department with a chief complaint of fever. He states that the fever started 3 days ago and has been persistent with a maximum temperature of 101 degrees Fahrenheit. He denies any other associated symptoms at this time."
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string",
+          "value": "No chills or diaphoresis"
+        },
+        "cardiovascular": {
+          "type": "string",
+          "value": "No chest pain or palpitations"
+        },
+        "respiratory": {
+          "type": "string",
+          "value": "No cough or shortness of breath"
+        },
+        "gi": {
+          "type": "string",
+          "value": "No nausea, vomiting, or abdominal pain"
+        },
+        "gu": {
+          "type": "string",
+          "value": "No dysuria or hematuria"
+        },
+        "musculoskeletal": {
+          "type": "string",
+          "value": "No joint pain or swelling"
+        },
+        "skin": {
+          "type": "string",
+          "value": "No rash or lesions"
+        },
+        "neurologic": {
+          "type": "string",
+          "value": "No headache or dizziness"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string",
+      "value": "Hypertension, diabetes"
+    },
+    "medications": {
+      "type": "string",
+      "value": "Lisinopril 10mg daily, metformin 1000mg twice daily"
+    },
+    "past_surgical_history": {
+      "type": "string",
+      "value": "Appendectomy in 2005"
+    },
+    "family_history": {
+      "type": "string",
+      "value": "No significant family history"
+    },
+    "social_history": {
+      "type": "string",
+      "value": "Non-smoker, occasional alcohol use"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}

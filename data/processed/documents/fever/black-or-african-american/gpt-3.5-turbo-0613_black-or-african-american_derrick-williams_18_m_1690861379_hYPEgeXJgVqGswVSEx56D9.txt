@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Derrick Williams",
+  "age": "18",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Derrick Williams, an 18-year-old male, presents to the emergency department with a chief complaint of fever. He states that he has been experiencing high-grade fevers, chills, headache, and body aches for the past 3 days. He denies any respiratory symptoms or gastrointestinal symptoms. He reports feeling fatigued and has had decreased appetite. He has been taking over-the-counter acetaminophen, which temporarily relieved his fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Negative for joint pain or swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal weakness."
+  },
+  "past_medical_history": "No significant past medical history.",
+  "medications": "The patient takes no regular medications.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "There is no significant family history of medical conditions.",
+  "social_history": "The patient denies tobacco use, alcohol consumption, or illicit drug use. He is a senior in high school and lives with both of his parents. He has no recent travel history or exposure to sick contacts."
+}
+```

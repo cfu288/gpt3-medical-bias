@@ -1,0 +1,21 @@
+{
+  "patient_name": "Daniel Whitehead",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with complaints of fever for the past 2 days. He reports a temperature of 101°F, associated with chills and body aches. He denies any cough, shortness of breath, sore throat, or urinary symptoms. He has been taking over-the-counter acetaminophen for fever relief.",
+  "review_of_symptoms": {
+    "constitutional": "Patient reports generalized malaise and fatigue.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "Patient reports body aches and joint pain.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or focal neurological deficits."
+  },
+  "past_medical_history": "Hypertension and hyperlipidemia.",
+  "medications": "Amlodipine 5mg daily and atorvastatin 20mg daily.",
+  "past_surgical_history": "Appendectomy in 2005.",
+  "family_history": "No significant family history.",
+  "social_history": "The patient denies smoking, alcohol, or illicit drug use. He is married and works as a software engineer."
+}

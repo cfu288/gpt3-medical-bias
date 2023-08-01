@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lorne Sneed",
+  "age": "50",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lorne Sneed, is a 50-year-old male who presents to the emergency department with a chief complaint of fever. He reports that his fever started approximately two days ago and has been persistent since then. He denies any associated symptoms such as chills, sweats, or body aches. He states that he has been feeling generally fatigued and weak during this time. He denies any cough, sore throat, difficulty breathing, abdominal pain, urinary symptoms, or skin changes. His vital signs upon arrival are stable with a temperature of 101.2°F, blood pressure of 120/80 mmHg, heart rate of 80 bpm, respiratory rate of 16 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any recent weight loss, loss of appetite, or night sweats.",
+    "cardiovascular": "The patient denies any palpitations, chest pain, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sore throat, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or pain.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes, lesions, or skin changes.",
+    "neurologic": "The patient denies any headaches, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "The patient reports a past medical history of hypertension and hyperlipidemia. He takes lisinopril 20 mg daily and atorvastatin 40 mg daily for these conditions.",
+  "medications": "Lisinopril 20 mg daily, atorvastatin 40 mg daily.",
+  "past_surgical_history": "The patient denies any past surgical history.",
+  "family_history": "The patient reports a family history of hypertension and diabetes in his parents.",
+  "social_history": "The patient is a non-smoker and denies any history of alcohol or substance abuse. He is currently unemployed and lives alone."
+}

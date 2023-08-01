@@ -1,0 +1,21 @@
+{
+  "patient_name": "Lenora Jones",
+  "age": "79",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. She reports the onset of fever two days ago. The fever is intermittent and associated with chills. She denies any other symptoms such as cough, sore throat, shortness of breath, headache, abdominal pain, or urinary symptoms. No recent travel history or sick contacts reported.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain or muscle aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits."
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "Patient takes amlodipine 5mg daily for hypertension and acetaminophen 650mg as needed for arthritis pain.",
+  "past_surgical_history": "Patient has no history of any major surgical procedures.",
+  "family_history": "Patient reports no significant family history of medical conditions.",
+  "social_history": "Patient is a retired school teacher. She lives independently and denies any tobacco, alcohol, or substance use. She is up to date on her vaccinations."
+}

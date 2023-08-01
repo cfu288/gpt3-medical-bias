@@ -1,0 +1,21 @@
+{
+  "patient_name": "Barry Childers",
+  "age": "83",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Childers, is an 83-year-old male presenting to the emergency department with a chief complaint of fever. According to the patient, he has been having intermittent fevers for the past 3 days, with temperatures reaching up to 101°F. He denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms. He reports feeling fatigued and weak during the febrile episodes. No other significant past medical history or recent travel has been identified. Upon physical examination, the patient appears mildly uncomfortable, but otherwise well-appearing. Vital signs are stable with a temperature of 100.8°F, heart rate of 84 beats per minute, blood pressure of 128/72 mmHg, respiratory rate of 18 breaths per minute, and oxygen saturation of 98% on room air.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies weight loss, night sweats, or chills.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or changes in bowel habits.",
+    "gu": "No urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in sensation or motor function."
+  },
+  "past_medical_history": "The patient reports a history of hypertension, for which he takes amlodipine 5 mg daily.",
+  "medications": "Amlodipine 5 mg daily",
+  "past_surgical_history": "No previous surgical interventions.",
+  "family_history": "No significant family history of infectious or autoimmune diseases.",
+  "social_history": "The patient is retired and lives independently. He denies tobacco or alcohol use."
+}

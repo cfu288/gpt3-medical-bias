@@ -1,0 +1,21 @@
+{
+  "patient_name": "Elsie Chastain",
+  "age": "80",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Elsie Chastain, an 80-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports that the fever started two days ago and has been persistent. She denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. She also denies any recent travel or exposure to sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or urgency",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or changes in mental status"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and acetaminophen as needed for pain.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension.",
+  "social_history": "The patient lives alone and denies any tobacco, alcohol, or drug use."
+}

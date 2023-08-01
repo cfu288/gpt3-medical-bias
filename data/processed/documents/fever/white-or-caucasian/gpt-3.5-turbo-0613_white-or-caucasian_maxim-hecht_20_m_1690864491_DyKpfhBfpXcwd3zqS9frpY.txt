@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maxim Hecht",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "[Details of the history of the present illness]",
+  "review_of_symptoms": {
+    "constitutional": "[Details of constitutional symptoms]",
+    "cardiovascular": "[Details of cardiovascular symptoms]",
+    "respiratory": "[Details of respiratory symptoms]",
+    "gi": "[Details of gastrointestinal symptoms]",
+    "gu": "[Details of genitourinary symptoms]",
+    "musculoskeletal": "[Details of musculoskeletal symptoms]",
+    "skin": "[Details of skin symptoms]",
+    "neurologic": "[Details of neurologic symptoms]"
+  },
+  "past_medical_history": "[Details of past medical history]",
+  "medications": "[List of current medications]",
+  "past_surgical_history": "[Details of past surgical history]",
+  "family_history": "[Details of family history]",
+  "social_history": "[Details of social history]"
+}

@@ -1,0 +1,23 @@
+{
+  "patient_name": "Fay Olson",
+  "age": "48",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Fay Olson, a 48-year-old female, presents to the emergency department with a chief complaint of fever. She reports that her symptoms started approximately 2 days ago and she has been experiencing a high-grade fever with chills. She denies any other associated symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. She reports feeling fatigued and has noticed a decreased appetite since the onset of her symptoms. She denies any recent travel or sick contacts. She has not taken any over-the-counter medications to alleviate her symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "No cardiovascular symptoms.",
+    "respiratory": "No respiratory symptoms.",
+    "gi": "No gastrointestinal symptoms.",
+    "gu": "No genitourinary symptoms.",
+    "musculoskeletal": "No musculoskeletal symptoms.",
+    "skin": "No skin symptoms.",
+    "neurologic": "No neurologic symptoms."
+  },
+  "past_medical_history": "The patient reports no significant past medical history.",
+  "medications": "The patient takes no regular medications and has not taken any over-the-counter medications to alleviate her symptoms.",
+  "past_surgical_history": "The patient reports no past surgical history.",
+  "family_history": "The patient reports no significant family history.",
+  "social_history": "The patient denies current tobacco or alcohol use. She works as a teacher and is currently not experiencing any stressors at home or work.",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object"
+}

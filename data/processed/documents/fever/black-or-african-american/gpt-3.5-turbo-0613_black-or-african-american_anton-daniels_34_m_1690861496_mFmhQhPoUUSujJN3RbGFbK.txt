@@ -1,0 +1,21 @@
+{
+  "patient_name": "Anton Daniels",
+  "age": "34",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Anton Daniels, a 34-year-old male, presented to the emergency department with a chief complaint of fever. He reports having a fever of 101.5°F that started yesterday evening. The fever is associated with chills and body aches. He denies any cough, shortness of breath, sore throat, or urinary symptoms. He also denies any recent travel or exposure to sick individuals.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or hemoptysis",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or hematuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurologic deficits"
+  },
+  "past_medical_history": "No significant past medical history reported",
+  "medications": "The patient denies any current or prior use of medications",
+  "past_surgical_history": "No prior surgeries reported",
+  "family_history": "No significant family history reported",
+  "social_history": "The patient denied any history of tobacco or alcohol use."
+}

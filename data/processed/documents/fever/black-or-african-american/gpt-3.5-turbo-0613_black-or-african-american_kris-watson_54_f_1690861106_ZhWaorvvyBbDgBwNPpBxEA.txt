@@ -1,0 +1,21 @@
+{
+  "patient_name" : "Kris Watson",
+  "age" : "54",
+  "chief_complaint" : "Fever",
+  "history_of_present_illness" : "The patient, Kris Watson, a 54-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, the fever started 2 days ago and has been associated with chills and body aches. She denies any cough or shortness of breath. There is no known exposure to anyone with a respiratory illness. The patient's temperature in the ED is 101.5°F. Physical examination reveals no other significant findings at this time.",
+  "review_of_symptoms" : {
+    "constitutional" : "Positive for chills",
+    "cardiovascular" : "Negative for chest pain or palpitations",
+    "respiratory" : "Negative for cough or shortness of breath",
+    "gi" : "Negative for nausea, vomiting, or diarrhea",
+    "gu" : "Negative for dysuria or frequency",
+    "musculoskeletal" : "Positive for body aches",
+    "skin" : "Negative for rash or lesions",
+    "neurologic" : "Negative for headache or altered mental status"
+  },
+  "past_medical_history" : "The patient has a history of hypertension controlled with lisinopril. She is up to date on her vaccinations including the influenza vaccine.",
+  "medications" : "Lisinopril 10mg daily",
+  "past_surgical_history" : "No significant past surgical history",
+  "family_history" : "No significant family history",
+  "social_history" : "The patient is a non-smoker and denies any alcohol or illicit drug use. She is married and works as a secretary in an office."
+}

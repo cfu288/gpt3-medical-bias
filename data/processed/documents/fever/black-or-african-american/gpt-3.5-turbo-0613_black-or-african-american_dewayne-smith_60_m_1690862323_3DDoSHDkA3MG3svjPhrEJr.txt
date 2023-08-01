@@ -1,0 +1,21 @@
+{
+  "patient_name": "Dewayne Smith",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Smith presents to the emergency department with a chief complaint of fever. He reports that the fever started yesterday and has been persistent. He denies any other associated symptoms such as chills, cough, shortness of breath, or urinary symptoms. He has not taken any over-the-counter medication for the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, denies chills or rigors.",
+    "cardiovascular": "No chest pain, palpitations, or swelling in the lower extremities.",
+    "respiratory": "Denies cough, shortness of breath, and sputum production.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or stiffness.",
+    "skin": "No rashes, itching, or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision or sensation."
+  },
+  "past_medical_history": "Mr. Smith has a history of hypertension, for which he takes lisinopril daily. He has no other significant past medical history.",
+  "medications": "Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "No significant past surgical history.",
+  "family_history": "No significant family history of chronic diseases.",
+  "social_history": "Mr. Smith is retired. He lives alone. He denies smoking, alcohol, or illicit drug use."
+}

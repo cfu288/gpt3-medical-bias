@@ -1,0 +1,21 @@
+{
+  "patient_name": "Maury Butler",
+  "age": "61",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports that the fever started 2 days ago and has been persistent. He has also been experiencing chills and body aches. He denies any cough, shortness of breath, or other respiratory symptoms. He has been taking over-the-counter medication for the fever, but it has not resolved.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Negative for abdominal pain, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency, urgency, dysuria, or hematuria",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking amlodipine and atorvastatin.",
+  "medications": "Amlodipine 10 mg daily and atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and diabetes.",
+  "social_history": "The patient is a retired teacher. He is a non-smoker and denies any alcohol or illicit drug use."
+}

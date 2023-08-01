@@ -1,0 +1,21 @@
+{
+  "patient_name": "Archie Johnson",
+  "age": "77",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. According to the patient, he has been experiencing high-grade fever for the past 4 days. He reports associated symptoms of fatigue, body aches, headache, and chills. He denies any cough, shortness of breath, chest pain, abdominal pain, urinary symptoms, or neurological symptoms. He has been taking over-the-counter medication for fever without significant improvement.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for neurological symptoms such as headache or confusion"
+  },
+  "past_medical_history": "Patient has a past medical history of hypertension and type 2 diabetes mellitus. He reports being on lisinopril 20 mg daily and metformin 1000 mg twice daily.",
+  "medications": "Lisinopril 20 mg daily, metformin 1000 mg twice daily",
+  "past_surgical_history": "Patient has no previous surgical history.",
+  "family_history": "No significant family history of note.",
+  "social_history": "Patient is a retired teacher. He denies tobacco use, alcohol consumption or illicit drug use."
+}

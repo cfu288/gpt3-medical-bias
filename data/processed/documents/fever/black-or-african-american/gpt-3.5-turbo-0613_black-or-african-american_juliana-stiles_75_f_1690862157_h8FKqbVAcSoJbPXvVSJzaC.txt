@@ -1,0 +1,21 @@
+{
+  "patient_name": "Juliana Stiles",
+  "age":"75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents with a chief complaint of fever. According to the patient, the fever started approximately 2 days ago and has been associated with chills and body aches. The patient denies any recent travel or exposure to sick contacts. There is no associated cough, shortness of breath, sore throat, or urinary complaints.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough and shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, and vomiting",
+    "gu": "Negative for dysuria, urgency, and frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or focal neurologic deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient's current medications include amlodipine 5mg daily, simvastatin 20mg daily, and naproxen 500mg as needed for pain.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "The patient is a retired elementary school teacher. She is a nonsmoker and denies alcohol and illicit drug use."
+}

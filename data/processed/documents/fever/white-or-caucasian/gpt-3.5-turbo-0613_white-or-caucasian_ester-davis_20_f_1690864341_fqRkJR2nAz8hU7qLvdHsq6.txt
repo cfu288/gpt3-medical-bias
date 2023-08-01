@@ -1,0 +1,21 @@
+{
+  "patient_name": "Ester Davis",
+  "age": "20",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Ester Davis, is a 20-year-old female who presents to the emergency department with a chief complaint of fever. The patient reports that the fever started two days ago and has been persistent. She also complains of headache and body aches. She denies any recent travel or exposure to sick contacts. She has been taking over-the-counter fever reducers without significant improvement. The patient reports no other associated symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and body aches",
+    "cardiovascular": "Negative",
+    "respiratory": "Negative",
+    "gi": "Negative",
+    "gu": "Negative",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative",
+    "neurologic": "Positive for headache"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "The patient takes no regular medications",
+  "past_surgical_history": "No past surgical history",
+  "family_history": "Negative for any significant family medical history",
+  "social_history": "The patient denies smoking, alcohol use, or illicit drug use. She is a student and lives on campus."
+}

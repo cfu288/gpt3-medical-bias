@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Aleta Zahn",
+  "age": "79",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with a chief complaint of fever. The patient reports having an oral temperature of 101.2°F for the past 3 days. She also complains of chills and generalized body aches. The patient denies any upper respiratory symptoms or changes in urinary habits. She has been taking over-the-counter acetaminophen without much relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain.",
+    "gu": "Negative for dysuria, urinary frequency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash or other skin changes.",
+    "neurologic": "Negative for headache, dizziness, or changes in mental status."
+  },
+  "past_medical_history": "Patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for her hypertension and ibuprofen 400 mg as needed for her osteoarthritis.",
+  "past_surgical_history": "Patient has a history of appendectomy at age 30 and a hysterectomy at age 45.",
+  "family_history": "Patient's mother had hypertension, but no other significant family history.",
+  "social_history": "Patient is a retired school teacher. She is a nonsmoker and nondrinker."
+}
+```

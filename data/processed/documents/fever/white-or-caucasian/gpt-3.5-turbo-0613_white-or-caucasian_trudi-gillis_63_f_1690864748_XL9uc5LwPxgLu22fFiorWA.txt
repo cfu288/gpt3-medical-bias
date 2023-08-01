@@ -1,0 +1,27 @@
+{
+  "patient_name": "Trudi Gillis",
+  "age": "63",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Trudi Gillis, a 63-year-old female, presents to the emergency department with a chief complaint of fever. She states that she has been experiencing a fever of 101°F for the past two days. She denies any other associated symptoms such as cough, sore throat, body aches, or chills. She reports feeling fatigued and weak. The patient states that she has not been able to eat much due to the fever and has noticed a decrease in her appetite. She denies any recent travel or exposure to sick contacts. Upon further questioning, the patient reports occasional night sweats and unintentional weight loss of 5 pounds over the past month. There is no history of similar symptoms in the past.",
+
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "Decreased appetite, but no nausea, vomiting, or abdominal pain.",
+    "gu": "No dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "No joint pain or muscle weakness.",
+    "skin": "No rash or skin changes.",
+    "neurologic": "No headache, dizziness, or focal neurological deficits."
+  },
+
+  "past_medical_history": "The patient has a history of hypertension and osteoporosis. She takes medications for these conditions.",
+
+  "medications": "The patient takes amlodipine and alendronate for her hypertension and osteoporosis, respectively.",
+
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+
+  "family_history": "The patient reports a positive family history of cardiovascular disease and cancer.",
+
+  "social_history": "The patient is a nonsmoker and does not consume alcohol. She lives alone and does not have any pets. She denies any recent travel or exposure to sick contacts."
+}

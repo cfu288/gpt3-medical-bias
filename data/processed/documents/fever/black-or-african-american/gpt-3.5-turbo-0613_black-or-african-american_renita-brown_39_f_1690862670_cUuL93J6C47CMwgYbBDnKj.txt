@@ -1,0 +1,22 @@
+{
+  "patient_name": "Renita Brown",
+  "age": "39",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that her symptoms began three days ago and have been progressively worsening. She describes her fever as high-grade and associated with chills. She denies any cough, shortness of breath, sore throat, or other respiratory symptoms. She also denies any abdominal pain, nausea, vomiting, diarrhea, or urinary symptoms. No recent travel or sick contacts reported.",
+
+  "review_of_symptoms": {
+    "constitutional": "Fever, chills",
+    "cardiovascular": "No chest pain, palpitations, or edema",
+    "respiratory": "No cough, shortness of breath, or sore throat",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "No urinary symptoms",
+    "musculoskeletal": "No muscle or joint pain",
+    "skin": "No rash or skin lesions",
+    "neurologic": "No headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Patient has a history of hypertension and type 2 diabetes. She takes metoprolol and metformin for her medical conditions. She has no known allergies to medications.",
+  "medications": "Metoprolol 50 mg daily, metformin 1000 mg twice a day",
+  "past_surgical_history": "Patient has no past surgical history.",
+  "family_history": "Patient has a family history of hypertension and diabetes.",
+  "social_history": "Patient is a non-smoker and denies any alcohol or drug use."
+}

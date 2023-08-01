@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Barton Johnson",
+  "age": "81",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Johnson is an 81-year-old male who presents to the emergency department with a chief complaint of fever. He reports having a fever for the past three days with an associated cough and shortness of breath. He denies any chest pain, abdominal pain, or urinary symptoms. He denies any recent travel or sick contacts. The patient states that his symptoms have been gradually worsening and he decided to come to the hospital for evaluation and treatment.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and has experienced night sweats.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient reports a persistent cough and shortness of breath.",
+    "gi": "The patient denies any gastrointestinal symptoms such as nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as frequency, urgency, or dysuria.",
+    "musculoskeletal": "The patient denies any joint pain or swelling.",
+    "skin": "The patient denies any rashes or skin lesions.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient denies any significant family history of chronic conditions.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco or alcohol use."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Rodrick Gallishaw",
+  "age": "53",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Rodrick Gallishaw, is a 53-year-old male who presents to the emergency department with a chief complaint of fever. The fever started three days ago and is associated with chills and sweats. The patient denies any recent travel, sick contacts, or exposures. He also denies any other symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having decreased appetite.",
+    "cardiovascular": "No chest pain, palpitations, or dyspnea.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms or changes in urine color.",
+    "musculoskeletal": "No joint swelling, pain, or limited range of motion.",
+    "skin": "No rashes or skin lesions.",
+    "neurologic": "No headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. He is currently taking lisinopril and atorvastatin.",
+  "medications": "Lisinopril and atorvastatin",
+  "past_surgical_history": "The patient has no known past surgical history.",
+  "family_history": "The patient's mother has a history of hypertension and his father has a history of diabetes.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}
+```

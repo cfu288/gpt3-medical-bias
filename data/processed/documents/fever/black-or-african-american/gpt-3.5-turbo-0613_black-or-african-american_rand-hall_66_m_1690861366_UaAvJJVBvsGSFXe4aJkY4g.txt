@@ -1,0 +1,21 @@
+{
+  "patient_name": "Rand Hall",
+  "age": "66",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Rand Hall, is a 66-year-old male who presents to the emergency department with a chief complaint of fever. He reports experiencing an elevated body temperature of 101 degrees Fahrenheit for the past two days. The fever is intermittent and associated with chills and body aches. There is no associated cough, shortness of breath, sore throat, or urinary symptoms. He denies any recent travel or sick contacts. He also denies any chest pain, palpitations, abdominal pain, or gastrointestinal symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Fever, chills, body aches",
+    "cardiovascular": "Negative for chest pain, palpitations",
+    "respiratory": "Negative for cough, shortness of breath",
+    "gi": "Negative for abdominal pain or gastrointestinal symptoms",
+    "gu": "Negative for urinary symptoms",
+    "musculoskeletal": "Negative for joint pain or muscle weakness",
+    "skin": "Negative for rash, redness, or itching",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes. He is on medications for these conditions.",
+  "medications": "The patient takes lisinopril for hypertension, atorvastatin for hyperlipidemia, and metformin for type 2 diabetes.",
+  "past_surgical_history": "The patient has no significant past surgical history.",
+  "family_history": "The patient has a family history of hypertension and type 2 diabetes but no known family history of malignancies or autoimmune disorders.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He is retired and lives alone. No history of recent travel or sick contacts."
+}

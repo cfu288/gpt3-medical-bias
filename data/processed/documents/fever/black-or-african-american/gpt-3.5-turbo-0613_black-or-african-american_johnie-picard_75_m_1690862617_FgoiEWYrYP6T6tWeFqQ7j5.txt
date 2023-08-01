@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Picard",
+  "age": "75",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Mr. Picard is a 75-year-old male presenting to the emergency department with a chief complaint of fever. He reports that the fever began approximately 2 days ago and has been persistent. He denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. On further questioning, he reports feeling generally unwell and fatigued. He denies any recent travel or exposure to sick contacts. He has not taken any over-the-counter medications or home remedies to alleviate the fever.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for generalized fatigue",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough, shortness of breath, or sputum production",
+    "gi": "Negative for abdominal pain or changes in bowel habits",
+    "gu": "Negative for urinary symptoms such as frequency or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache, dizziness, or focal neurological deficits"
+  },
+  "past_medical_history": "Mr. Picard has a history of hypertension, hyperlipidemia, and type 2 diabetes. He takes regular medications for these conditions including lisinopril, atorvastatin, and metformin. He reports being in overall good health and has not been hospitalized within the past year.",
+  "medications": "Lisinopril 20 mg/day, atorvastatin 40 mg/day, metformin 1000 mg twice daily",
+  "past_surgical_history": "Appendectomy in childhood",
+  "family_history": "Positive for hypertension and diabetes in his immediate family",
+  "social_history": "Mr. Picard is a retired engineer. He denies tobacco or illicit drug use. He consumes alcohol occasionally, usually in social settings. He lives with his wife and has a supportive network of family and friends."
+}

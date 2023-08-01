@@ -1,0 +1,21 @@
+{
+  "patient_name": "Johnie Jones",
+  "age": "85",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Johnie Jones, is an 85-year-old male who presents to the emergency department with a chief complaint of fever. He reports that the fever began yesterday and has been persistent. The patient denies any associated symptoms such as cough, shortness of breath, chest pain, abdominal pain, dysuria, or any other specific complaints. He has not taken any medications to treat the fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports subjective fever with chills. He denies night sweats, weight loss, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or orthopnea.",
+    "respiratory": "The patient denies any cough, shortness of breath, or sputum production.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or limitations in mobility.",
+    "skin": "The patient denies any rashes, itching, or changes in skin color.",
+    "neurologic": "The patient denies any headaches, dizziness, syncope, or changes in sensation or coordination."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. He reports being compliant with his medications, which include amlodipine and atorvastatin. He has no known drug allergies and denies any other significant medical conditions or hospitalizations.",
+  "medications": "Amlodipine 5 mg daily, Atorvastatin 20 mg daily",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia.",
+  "social_history": "The patient is retired and lives alone. He denies any tobacco, alcohol, or illicit drug use. He does not have any recent travel history or known exposure to infectious illnesses."
+}

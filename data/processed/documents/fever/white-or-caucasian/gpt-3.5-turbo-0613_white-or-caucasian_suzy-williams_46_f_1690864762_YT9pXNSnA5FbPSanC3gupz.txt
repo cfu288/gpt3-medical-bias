@@ -1,0 +1,21 @@
+{
+  "patient_name": "Suzy Williams",
+  "age": "46",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. Patient reports that the fever started 3 days ago and has been persistent. Patient denies any other associated symptoms such as cough, sore throat, or body aches. Patient has been taking over-the-counter medications for fever but has not seen improvement. No known exposure to sick contacts. Patient states that she has been feeling weak and fatigued.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and weakness",
+    "cardiovascular": "Negative for chest pain, palpitations, or shortness of breath",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Negative for joint pain or swelling",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache or changes in vision"
+  },
+  "past_medical_history": "Patient has a history of hypertension and is taking lisinopril 10mg daily. No other significant past medical history.",
+  "medications": "Lisinopril 10mg daily",
+  "past_surgical_history": "Negative for any past surgical procedures",
+  "family_history": "Negative for any significant family history",
+  "social_history": "Patient is a nonsmoker and denies any alcohol or illicit drug use"
+}

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Clayton Hall",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Clayton Hall, an 84-year-old male, presents to the emergency department with a chief complaint of fever. The patient reports that he has been experiencing a high-grade fever for the past 3 days. He denies any associated symptoms such as cough, shortness of breath, abdominal pain, or urinary symptoms. He reports feeling fatigued and weak, with a persistent headache. The patient denies any recent travel or exposure to sick contacts. He has not taken any over-the-counter medications for his symptoms. His medical history includes hypertension, hyperlipidemia, and osteoarthritis. He takes amlodipine, atorvastatin, and acetaminophen on an as-needed basis. He has no known allergies. The patient recently had a cataract surgery performed 2 years ago. He denies any family history of significant medical conditions. He lives alone and is retired.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and weak.",
+    "cardiovascular": "No chest pain, palpitations, or edema.",
+    "respiratory": "No cough, shortness of breath, or wheezing.",
+    "gi": "No abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "No urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "The patient reports a persistent headache."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, osteoarthritis",
+  "medications": "Amlodipine, atorvastatin, acetaminophen",
+  "past_surgical_history": "Cataract surgery performed 2 years ago",
+  "family_history": "No significant family history of medical conditions",
+  "social_history": "The patient lives alone and is retired."
+}

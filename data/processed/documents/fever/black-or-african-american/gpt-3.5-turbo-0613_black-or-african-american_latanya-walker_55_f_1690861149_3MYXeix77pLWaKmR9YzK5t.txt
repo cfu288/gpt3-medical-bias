@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Latanya Walker",
+  "age": "55",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Latanya Walker, a 55-year-old female, presents to the emergency department with a chief complaint of fever. The fever started three days ago and has been persistent. She reports a temperature of 101°F (38.3°C) orally. She denies any associated symptoms such as chills, headache, or body aches. She has not noticed any rash or cough. She denies any recent travel or sick contacts. She states that she has been feeling fatigued and lethargic. She reports no other significant symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Presenting complaint of fever.",
+    "cardiovascular": "No chest pain, palpitations, or shortness of breath.",
+    "respiratory": "No cough, difficulty breathing, or sputum production.",
+    "gi": "No nausea, vomiting, abdominal pain, or diarrhea.",
+    "gu": "No dysuria, frequency, or urgency.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rash or lesions.",
+    "neurologic": "No headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient’s past medical history is significant for hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for hypertension and atorvastatin 20mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of any surgical procedures.",
+  "family_history": "The patient has a family history of hypertension and hyperlipidemia in her parents.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. She is married and lives with her husband. She works as an office administrator and denies any recent travel or sick contacts."
+}
+```

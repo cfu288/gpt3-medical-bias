@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jane Clark",
+  "age": "89",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Jane Clark, an 89-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a low-grade fever of 100.5°F yesterday afternoon. She reports feeling tired and experiencing intermittent chills. She denies any cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, or urinary symptoms. She states that she has been drinking fluids and trying to rest at home, but her symptoms have persisted. She denies any recent travel or known sick contacts. The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis. She takes lisinopril, simvastatin, acetaminophen, and ibuprofen for these conditions. She denies any recent surgeries, family history of similar symptoms, or significant social history.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having intermittent chills.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, wheezing, or shortness of breath.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient reports having osteoarthritis and experiencing chronic joint pain.",
+    "skin": "The patient denies any rashes, itching, or skin lesions.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, tingling, weakness, or changes in vision."
+  },
+  "past_medical_history": "Hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Lisinopril, simvastatin, acetaminophen, ibuprofen.",
+  "past_surgical_history": "None.",
+  "family_history": "No known family history of similar symptoms.",
+  "social_history": "No significant social history."
+}

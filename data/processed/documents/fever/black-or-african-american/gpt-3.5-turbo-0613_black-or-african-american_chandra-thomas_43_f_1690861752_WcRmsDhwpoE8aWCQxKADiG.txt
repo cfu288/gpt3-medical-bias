@@ -1,0 +1,21 @@
+{
+  "patient_name": "Chandra Thomas",
+  "age": "43",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presented to the emergency department with chief complaint of fever. She reports that she has been experiencing a high-grade fever for the past three days, with temperatures ranging from 101-103 degrees Fahrenheit. She has also been experiencing chills, body aches, and fatigue. She denies any cough, sore throat, or shortness of breath. No other significant symptoms are reported at this time.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for chills and fatigue.",
+    "cardiovascular": "Negative for chest pain, palpitations, or other cardiovascular symptoms.",
+    "respiratory": "Negative for cough, shortness of breath, or other respiratory symptoms.",
+    "gi": "Negative for nausea, vomiting, abdominal pain, or other gastrointestinal symptoms.",
+    "gu": "Negative for dysuria, frequency, urgency, or other genitourinary symptoms.",
+    "musculoskeletal": "Positive for body aches.",
+    "skin": "Negative for rash or other skin symptoms.",
+    "neurologic": "Negative for headache, dizziness, weakness, or other neurologic symptoms."
+  },
+  "past_medical_history": "Patient reports history of hypertension, managed with medication.",
+  "medications": "Patient currently takes amlodipine 10mg daily for hypertension.",
+  "past_surgical_history": "Negative for any past surgeries.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "Patient denies tobacco or illicit drug use. She reports occasional alcohol use, consuming approximately 1-2 alcoholic beverages per week. She is married and works as a teacher."
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Asha Sharp",
+  "age": "30",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Asha Sharp, a 30-year-old female, presents to the emergency department with complaints of fever. The patient reports that she started experiencing fever two days ago. The fever has been persistent, with a maximum temperature of 101°F. She has also been experiencing generalized weakness and body aches. She denies any cough, chest pain, shortness of breath, abdominal pain, vomiting, urinary symptoms, or neurological deficits.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports generalized weakness and body aches.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "No joint pain or swelling.",
+    "skin": "No rashes or lesions.",
+    "neurologic": "No headache or neurological deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient does not take any medications on a regular basis.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient is unaware of any significant family medical history.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use. She is currently employed as a software engineer and lives alone."
+}
+```

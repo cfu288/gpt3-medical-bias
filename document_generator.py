@@ -215,12 +215,16 @@ def call_openai_document_complete(
 
 
 def gen_document(race_pt_name_tuple):
-    (race, pt_name, pt_age, pt_gender) = race_pt_name_tuple
-    folder_location = DATA_PROCESSED_DOCUMENTS_DIR / f'{race.replace(" ", "-").lower()}'
+    (race, pt_name, pt_age, pt_gender, chief_complaint) = race_pt_name_tuple
+    folder_location = (
+        DATA_PROCESSED_DOCUMENTS_DIR
+        / f'{chief_complaint.replace(" ", "-").lower()}'
+        / f'{race.replace(" ", "-").lower()}'
+    )
 
     chat_completion = retry_with_backoff(
         lambda: call_openai_document_complete(
-            pt_name, pt_age, pt_gender, "Abdominal Pain"
+            pt_name, pt_age, pt_gender, chief_complaint
         )
     )
     try:
@@ -235,7 +239,7 @@ def gen_document(race_pt_name_tuple):
 
 
 if __name__ == "__main__":
-    x = 0
+    chief_complaint = "Fever"
     aa_name_list = pd.read_csv(DATA_PROCESSED_COHORT_DIR / "aa_matched.csv").to_dict(
         "records"
     )
@@ -252,6 +256,7 @@ if __name__ == "__main__":
                     f'{i.get("first_name").title()} {i.get("last_name")}',
                     i.get("age"),
                     i.get("gender"),
+                    chief_complaint,
                 )
                 for i in aa_name_list
             ],
@@ -265,6 +270,7 @@ if __name__ == "__main__":
                     f'{i.get("first_name").title()} {i.get("last_name")}',
                     i.get("age"),
                     i.get("gender"),
+                    chief_complaint,
                 )
                 for i in ca_name_list
             ],

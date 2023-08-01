@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Judie Hawkins",
+  "age": "64",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Judie Hawkins, a 64-year-old female, presents to the emergency department with a chief complaint of fever. According to the patient, she developed a low-grade fever (100.5°F) yesterday evening. She reports feeling fatigued and experiencing chills intermittently throughout the day. She denies any other associated symptoms such as cough, sore throat, headache, body aches, or shortness of breath. Upon further questioning, the patient reports no recent travel, sick contacts, or known exposure to any infectious illnesses.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and chills.",
+    "cardiovascular": "",
+    "respiratory": "",
+    "gi": "",
+    "gu": "",
+    "musculoskeletal": "",
+    "skin": "",
+    "neurologic": ""
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10mg daily for her hypertension, atorvastatin 20mg daily for hyperlipidemia, and occasional acetaminophen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has no previous surgeries.",
+  "family_history": "The patient's mother had a history of hypertension and her father had a history of heart disease.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use. She lives alone and is retired. She is a widow and her children live out of state. She denies any recent travel or exposure to sick contacts."
+}
+```

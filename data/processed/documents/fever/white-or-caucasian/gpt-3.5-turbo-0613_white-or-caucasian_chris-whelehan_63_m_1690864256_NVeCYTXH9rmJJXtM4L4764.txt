@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Chris Whelehan",
+  "age": "63",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Chris Whelehan, a 63-year-old male, presents to the emergency department with a chief complaint of fever. He reports that his temperature has been elevated for the past 2 days, with a maximum recorded temperature of 101.5°F. He states that he has been feeling fatigued and weak, and has experienced chills intermittently. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He reports no recent travel or known exposure to sick contacts. Upon further questioning, he reports a mild headache and generalized body aches.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports fatigue and weakness.",
+    "cardiovascular": null,
+    "respiratory": null,
+    "gi": null,
+    "gu": null,
+    "musculoskeletal": "The patient reports generalized body aches.",
+    "skin": null,
+    "neurologic": "The patient reports a mild headache."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and hyperlipidemia.",
+  "medications": "The patient takes lisinopril 20 mg daily for hypertension and atorvastatin 40 mg daily for hyperlipidemia.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is significant for diabetes mellitus in his mother. No other significant family history is reported.",
+  "social_history": "The patient is a retired construction worker. He denies tobacco, alcohol, or illicit drug use."
+}
+```

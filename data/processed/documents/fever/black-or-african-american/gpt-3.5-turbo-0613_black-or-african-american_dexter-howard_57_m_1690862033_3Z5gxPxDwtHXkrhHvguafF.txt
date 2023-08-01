@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Dexter Howard",
+  "age": "57",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Dexter Howard, a 57-year-old male, presents to the emergency department with a chief complaint of fever. He reports that the fever started three days ago and has been persistent since then. He also complains of chills and body aches. He denies any cough, shortness of breath, nausea, vomiting, diarrhea, urinary symptoms, chest pain, or headache. He states that he has not had any recent travel or exposure to sick contacts. He admits to feeling fatigued and has been resting at home but states that his symptoms have not improved.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued and having chills associated with the fever.",
+    "cardiovascular": "The patient denies any chest pain or palpitations.",
+    "respiratory": "The patient denies any cough or shortness of breath.",
+    "gi": "The patient denies any nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms.",
+    "musculoskeletal": "The patient complains of body aches.",
+    "skin": "The patient denies any rash or changes in the skin.",
+    "neurologic": "The patient denies any headache or changes in mental status."
+  },
+  "past_medical_history": "The patient has a history of hypertension and takes medication for it.",
+  "medications": "The patient takes Lisinopril 10mg daily for hypertension.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient's family history is unremarkable.",
+  "social_history": "The patient is a non-smoker and does not consume alcohol. He works as a teacher and has been mostly staying home due to the COVID-19 pandemic."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Damion Jones",
+  "age": "22",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the Emergency Department with a chief complaint of fever. He states that he has been experiencing a high-grade fever for the past two days, which has been accompanied by chills, headache, and body aches. He denies any cough, sore throat, or shortness of breath. He reports a decreased appetite but denies any nausea, vomiting, or diarrhea. Upon further questioning, the patient states that he recently returned from a trip to a malaria-endemic country. He reports taking prophylactic medication for malaria during his trip. The patient denies any other significant symptoms or medical history.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills, negative for diaphoresis",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Positive for decreased appetite, negative for nausea, vomiting, or diarrhea",
+    "gu": "Negative for dysuria, frequency, or hematuria",
+    "musculoskeletal": "Positive for body aches, negative for joint pain or swelling",
+    "skin": "Negative for rash or pruritus",
+    "neurologic": "Negative for headache, dizziness, or confusion"
+  },
+  "past_medical_history": "No significant past medical history",
+  "medications": "The patient reports taking mefloquine as prophylactic medication for malaria during his recent trip",
+  "past_surgical_history": "No significant past surgical history",
+  "family_history": "No significant family history",
+  "social_history": "The patient is a non-smoker and denies any alcohol or drug use."
+}

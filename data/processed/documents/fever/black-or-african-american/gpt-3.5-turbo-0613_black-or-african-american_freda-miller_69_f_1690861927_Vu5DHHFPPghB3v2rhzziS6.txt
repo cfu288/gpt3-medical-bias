@@ -1,0 +1,21 @@
+{
+  "patient_name": "Freda Miller",
+  "age": "69",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a chief complaint of fever. She reports that she has been experiencing a high-grade fever of 101°F for the past 3 days. She also complains of generalized weakness, fatigue, and body aches. She denies any cough, sore throat, shortness of breath, abdominal pain, nausea, vomiting, or diarrhea. She states that she has been taking over-the-counter acetaminophen for fever control.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fatigue and body aches.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, sore throat, or shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "Negative for dysuria, frequency, or hematuria.",
+    "musculoskeletal": "Positive for generalized body aches.",
+    "skin": "Negative for rash or lesions.",
+    "neurologic": "Negative for headache, dizziness, or changes in speech or vision."
+  },
+  "past_medical_history": "Patient has a history of hypertension and hyperlipidemia.",
+  "medications": "Patient is currently taking lisinopril for hypertension and simvastatin for hyperlipidemia.",
+  "past_surgical_history": "Patient has no history of surgical procedures.",
+  "family_history": "Patient reports a family history of hypertension and diabetes in her immediate family.",
+  "social_history": "Patient is a non-smoker. She lives alone and denies any recent travel or sick contacts."
+}

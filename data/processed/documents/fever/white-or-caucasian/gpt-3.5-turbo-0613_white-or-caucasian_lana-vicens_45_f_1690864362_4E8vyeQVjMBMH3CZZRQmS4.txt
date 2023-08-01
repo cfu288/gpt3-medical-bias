@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Lana Vicens",
+  "age": "45",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Lana Vicens, a 45-year-old female, presents to the emergency department with a complaint of fever. She reports that her symptoms started three days ago with a sudden onset of high-grade fever, chills, and body aches. She denies any cough, shortness of breath, chest pain, abdominal pain, vomiting, diarrhea, urinary symptoms, joint pain, or rash. The fever has been persistent and has not responded to over-the-counter antipyretics.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of subjective fever and chills but denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, vomiting, diarrhea, or changes in appetite or bowel movements.",
+    "gu": "The patient denies any dysuria, hematuria, or urinary frequency.",
+    "musculoskeletal": "The patient denies any joint pain, muscle weakness, or difficulty with ambulation.",
+    "skin": "The patient denies any rashes, ulcers, or skin changes.",
+    "neurologic": "The patient denies any headache, dizziness, numbness, weakness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is well controlled on medication.",
+  "medications": "The patient takes hydrochlorothiazide 25 mg daily for her hypertension.",
+  "past_surgical_history": "The patient has no known history of any surgical procedures.",
+  "family_history": "The patient has no significant family history of any medical conditions.",
+  "social_history": "The patient reports being a non-smoker and denies any alcohol or illicit drug use. She is married, lives with her husband, and works as an accountant."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Willie Parmley",
+  "age": "66",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Willie Parmley, a 66-year-old male, presents to the emergency department with a chief complaint of fever. He states that the fever started 3 days ago and is accompanied by generalized body aches and a headache. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms. He has been feeling fatigued and has had a poor appetite. No recent travel or sick contacts. Vital signs are significant for a temperature of 102.5°F.",
+  "review_of_symptoms": {
+    "constitutional": "The patient complains of anorexia, fatigue, and generalized body aches.",
+    "cardiovascular": "No chest pain or palpitations.",
+    "respiratory": "No cough or shortness of breath.",
+    "gi": "No abdominal pain, nausea, or vomiting.",
+    "gu": "No urinary symptoms.",
+    "musculoskeletal": "The patient reports generalized body aches. No joint swelling or stiffness.",
+    "skin": "No rashes or changes in skin color.",
+    "neurologic": "The patient complains of a headache."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus.",
+  "medications": "The patient takes amlodipine 5 mg daily, atorvastatin 20 mg daily, and metformin 1000 mg bid.",
+  "past_surgical_history": "The patient has no history of surgery.",
+  "family_history": "The patient's family history is significant for coronary artery disease in his father and siblings.",
+  "social_history": "The patient is married and retired. He denies smoking, alcohol, or illicit drug use."
+}
+```

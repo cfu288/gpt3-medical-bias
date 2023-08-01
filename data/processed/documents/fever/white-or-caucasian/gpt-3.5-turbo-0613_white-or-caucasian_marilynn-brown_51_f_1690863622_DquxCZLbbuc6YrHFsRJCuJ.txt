@@ -1,0 +1,21 @@
+{
+  "patient_name": "Marilynn Brown",
+  "age": "51",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Marilynn Brown, a 51-year-old female, presents to the emergency department with a chief complaint of fever. The patient reports experiencing an increase in body temperature over the past 24 hours. She also complains of feeling fatigued and having muscle aches. The patient denies any cough, shortness of breath, or chest pain. She states that she has not traveled recently and has not been in contact with anyone known to have COVID-19.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, fatigue, and muscle aches",
+    "cardiovascular": "Negative for chest pain or palpitations",
+    "respiratory": "Negative for cough or shortness of breath",
+    "gi": "Negative for abdominal pain, nausea, or vomiting",
+    "gu": "Negative for urinary frequency, urgency, or dysuria",
+    "musculoskeletal": "Positive for muscle aches",
+    "skin": "Negative for rash or lesions",
+    "neurologic": "Negative for headache or dizziness"
+  },
+  "past_medical_history": "The patient has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin daily.",
+  "medications": "Lisinopril 10mg daily, Atorvastatin 20mg daily",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "Negative for any significant family history of medical conditions.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or illicit drug use."
+}

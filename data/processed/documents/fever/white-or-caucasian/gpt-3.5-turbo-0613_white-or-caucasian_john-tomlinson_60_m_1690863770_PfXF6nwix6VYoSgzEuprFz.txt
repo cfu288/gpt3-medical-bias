@@ -1,0 +1,21 @@
+{
+  "patient_name": "John Tomlinson",
+  "age": "60",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, John Tomlinson, presented to the emergency department with a chief complaint of fever. He reports that the fever started two days ago and has been persistent. He denies any associated symptoms such as chills, headache, or body aches. He has been taking over-the-counter medications such as acetaminophen to manage the fever, but it has not responded significantly. He denies any recent travel or sick contacts.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any dysuria, frequency, urgency, or hematuria.",
+    "musculoskeletal": "The patient denies any joint pain, swelling, or stiffness.",
+    "skin": "The patient denies any rash, itching, or changes in the skin.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a past medical history of hypertension and type 2 diabetes, both well-controlled with medications.",
+  "medications": "The patient is currently taking lisinopril 10 mg daily for hypertension and metformin 1000 mg twice daily for diabetes.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has a family history significant for hypertension in both parents.",
+  "social_history": "The patient is a non-smoker and denies any alcohol or recreational drug use. He is retired and lives alone."
+}

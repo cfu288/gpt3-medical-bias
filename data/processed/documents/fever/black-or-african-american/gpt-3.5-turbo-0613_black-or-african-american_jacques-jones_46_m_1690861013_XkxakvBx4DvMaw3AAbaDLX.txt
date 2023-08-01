@@ -1,0 +1,21 @@
+{
+  "patient_name": "Jacques Jones",
+  "age": "46",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presented to the emergency department with a chief complaint of fever. He reports that the fever started approximately three days ago and has been persistent. He denies any other associated symptoms such as cough, sore throat, or abdominal pain. The patient states that he has been feeling fatigued and has had a loss of appetite. He has not taken any over-the-counter medications to treat the fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient reports feeling fatigued.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or shortness of breath.",
+    "respiratory": "The patient denies any cough, sputum production, or difficulty breathing.",
+    "gi": "The patient reports a loss of appetite, but denies any nausea, vomiting, or changes in bowel movements.",
+    "gu": "The patient denies any urinary symptoms such as dysuria or frequency.",
+    "musculoskeletal": "The patient denies any joint pain, stiffness, or swelling.",
+    "skin": "The patient denies any rash or lesions.",
+    "neurologic": "The patient denies any headache, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension, which is currently well-controlled with medication.",
+  "medications": "The patient takes amlodipine 5mg daily for hypertension.",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's mother has a history of diabetes.",
+  "social_history": "The patient has a history of tobacco use and currently smokes one pack per day. He does not consume alcohol or use illicit drugs."
+}

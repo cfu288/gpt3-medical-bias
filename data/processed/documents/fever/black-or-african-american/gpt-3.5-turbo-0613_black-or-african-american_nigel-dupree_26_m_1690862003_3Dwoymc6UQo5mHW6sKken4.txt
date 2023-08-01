@@ -1,0 +1,23 @@
+```json
+{
+  "patient_name": "Nigel Dupree",
+  "age": "26",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents with a chief complaint of fever. He reports experiencing fever for the past 2 days. The fever is intermittent and has been associated with chills. The patient denies any other symptoms such as cough, sore throat, shortness of breath, abdominal pain, or urinary symptoms. He states that he has been taking acetaminophen for the fever, with minimal relief.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for intermittent fever and chills.",
+    "cardiovascular": "Negative for chest pain, palpitations, and shortness of breath.",
+    "respiratory": "Negative for cough, sputum production, and shortness of breath.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, and diarrhea.",
+    "gu": "Negative for dysuria, frequency, and urgency.",
+    "musculoskeletal": "Negative for joint pain and swelling.",
+    "skin": "Negative for rash or skin lesions.",
+    "neurologic": "Negative for headache, dizziness, and focal neurological deficits."
+  },
+  "past_medical_history": "The patient has no significant past medical history.",
+  "medications": "The patient takes acetaminophen for fever relief.",
+  "past_surgical_history": "The patient has no past surgical history.",
+  "family_history": "The patient has no significant family history.",
+  "social_history": "The patient is employed as an office worker. He does not smoke cigarettes or use recreational drugs. He consumes alcohol occasionally on weekends."
+}
+```

@@ -1,0 +1,21 @@
+{
+  "patient_name": "Julie Friend",
+  "age": "57",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient Julie Friend presents to the emergency department with a chief complaint of fever. She reports that the fever started three days ago and has been persistent since then. She denies any other associated symptoms such as cough, sore throat, shortness of breath, or urinary symptoms. She has been taking over-the-counter antipyretics to manage her fever.",
+  "review_of_symptoms": {
+    "constitutional": "The patient denies any weight loss, night sweats, or fatigue.",
+    "cardiovascular": "The patient denies any chest pain, palpitations, or leg swelling.",
+    "respiratory": "The patient denies any cough, shortness of breath, or wheezing.",
+    "gi": "The patient denies any abdominal pain, nausea, vomiting, or diarrhea.",
+    "gu": "The patient denies any urinary symptoms such as dysuria, frequency, or urgency.",
+    "musculoskeletal": "The patient denies any joint pain or muscle weakness.",
+    "skin": "The patient denies any rashes, itching, or skin discoloration.",
+    "neurologic": "The patient denies any headaches, dizziness, or changes in vision."
+  },
+  "past_medical_history": "The patient has a history of hypertension and osteoarthritis.",
+  "medications": "The patient takes lisinopril 10 mg daily for hypertension and occasional ibuprofen for osteoarthritis pain.",
+  "past_surgical_history": "The patient has a history of a cholecystectomy performed 10 years ago.",
+  "family_history": "The patient reports a family history of hypertension and osteoarthritis.",
+  "social_history": "The patient does not smoke and drinks alcohol occasionally."
+}

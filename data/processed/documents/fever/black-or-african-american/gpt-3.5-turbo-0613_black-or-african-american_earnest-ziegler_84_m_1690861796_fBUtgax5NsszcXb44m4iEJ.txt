@@ -1,0 +1,21 @@
+{
+  "patient_name": "Earnest Ziegler",
+  "age": "84",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "Patient presents to the emergency department with a fever for the past two days. He reports having chills and night sweats. Additionally, he complains of generalized weakness and fatigue. He denies any cough, shortness of breath, chest pain, abdominal pain, or urinary symptoms.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever, chills, and night sweats.",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema.",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing.",
+    "gi": "Negative for abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits.",
+    "gu": "Negative for urinary symptoms.",
+    "musculoskeletal": "Negative for joint pain, stiffness, or swelling.",
+    "skin": "Negative for rash, itching, or skin discoloration.",
+    "neurologic": "Negative for headache, dizziness, numbness, or weakness."
+  },
+  "past_medical_history": "Patient reports a history of hypertension, hyperlipidemia, and osteoarthritis.",
+  "medications": "Patient takes lisinopril for blood pressure control and atorvastatin for cholesterol management.",
+  "past_surgical_history": "Patient had knee replacement surgery 5 years ago.",
+  "family_history": "Patient's family history is significant for hypertension and hyperlipidemia.",
+  "social_history": "Patient is a non-smoker and denies alcohol or illicit drug use. He lives alone and is able to perform activities of daily living independently."
+}

@@ -1,0 +1,22 @@
+{
+  "patient_name": "Darrick Pender",
+  "age": "37",
+  "gender": "m",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient presents to the emergency department with a chief complaint of fever. The fever started two days ago and is associated with chills and body aches. The patient denies any headache, cough, shortness of breath, abdominal pain, or dysuria.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and body aches, negative for chills, fatigue, and weight loss",
+    "cardiovascular": "Negative for chest pain, palpitations, or edema",
+    "respiratory": "Negative for cough, shortness of breath, or wheezing",
+    "gi": "Negative for nausea, vomiting, diarrhea, or abdominal pain",
+    "gu": "Negative for dysuria or urinary frequency",
+    "musculoskeletal": "Positive for body aches",
+    "skin": "Negative for rash or skin lesions",
+    "neurologic": "Negative for headache, dizziness, or changes in vision"
+  },
+  "past_medical_history": "The patient has a history of hypertension, for which he takes lisinopril. He denies any other medical conditions.",
+  "medications": "Lisinopril 10 mg daily",
+  "past_surgical_history": "The patient has no history of surgical procedures.",
+  "family_history": "The patient's family history is non-contributory.",
+  "social_history": "The patient denies tobacco use or alcohol consumption. He is married and works as an accountant."
+}

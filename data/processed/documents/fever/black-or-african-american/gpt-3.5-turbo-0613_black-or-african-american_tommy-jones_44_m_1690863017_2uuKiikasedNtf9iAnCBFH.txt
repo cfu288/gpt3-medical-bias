@@ -1,0 +1,21 @@
+{
+  "patient_name": "Tommy Jones",
+  "age": "44",
+  "chief_complaint": "Fever",
+  "history_of_present_illness": "The patient, Mr. Tommy Jones, a 44-year-old male, presents to the emergency department with a chief complaint of fever. According to the patient, his symptoms began two days ago. He reports having a high-grade fever, reaching up to 102°F, along with chills and body aches. He denies any cough or shortness of breath. He states that he has been feeling fatigued and weak. He has tried taking over-the-counter antipyretics which provided temporary relief. No known exposure to sick individuals, recent travel, or change in medications or diet.",
+  "review_of_symptoms": {
+    "constitutional": "Positive for fever and chills",
+    "cardiovascular": "Negative for chest pain and palpitations",
+    "respiratory": "Negative for cough and shortness of breath",
+    "gi": "Negative for nausea, vomiting, and abdominal pain",
+    "gu": "Negative for dysuria, polyuria, and hematuria",
+    "musculoskeletal": "Positive for myalgias and body aches",
+    "skin": "Negative for rashes and lesions",
+    "neurologic": "Negative for headache and altered mental status"
+  },
+  "past_medical_history": "Patient reports no significant past medical history. He states he is generally in good health and rarely visits the doctor.",
+  "medications": "Patient denies taking any prescription medications. He has been taking over-the-counter antipyretics such as acetaminophen for his fever.",
+  "past_surgical_history": "Patient denies any past surgical history.",
+  "family_history": "Patient denies any significant family medical history.",
+  "social_history": "Patient is married and has two children. He works as an office manager and denies any recent travel or contact with sick individuals. He does not smoke or consume alcohol regularly."
+}
