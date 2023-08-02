@@ -50,6 +50,8 @@ Things we will explore in the generated GPT medical history documents:
 
 ### Frequency of words used in the African-American vs Caucasian corpus
 
+- TODO
+
 ### Uses of medications in the African-American vs Caucasian corpus
 
 - For documents generated with a chief complaint of **chest pain**:
