@@ -16,6 +16,8 @@ For each patient in our cohorts, we promt OpenAI to generate a medical history n
 - Headache
 - Shortness of breath
 
+---
+
 <details>
   <summary>Click this to see full prompt template sent to OpenAI</summary>
   Complete the note below as if you were a physician of a patient in the emergency department. Use the following JSON schema for the note and fill the following sections with the note content. Empty sections are not allowed. Only respond with JSON.
@@ -121,6 +123,8 @@ The JSON schema of the response is below:
 ```
 
 </details>
+
+---
 
 We generate unique 10,000 documents for each chief complaint, 5,000 for patient from our cohorts.
 
