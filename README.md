@@ -171,7 +171,6 @@ Things we will explore in the generated GPT medical history documents:
 - For documents generated with a chief complaint of **abdominal pain**:
   - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
   - There is a significant difference in the use of medication "metformin" with a p-value of 0.000
-  - There is a significant difference in the frequency of the word metformin with a p-value of 0.000
 - For documents generated with a chief complaint of **fever**:
   - There is a significant difference in the use of medication "atorvastatin" between the groups with a p-value of 0.002
   - There is a significant difference in the use of medication "hydrochlorothiazide" between the groups with a p-value of 0.020
