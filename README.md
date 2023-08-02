@@ -26,13 +26,119 @@ See `propensity_score_matching.py` to see how the the final matched cohorts were
 
 ## Generating the Medical History Documents From Cohort Data
 
-In the prompt, we ask OpenAI to generate notes using common chief complaints patients may present with to the emergency department:
+For each patient in our cohorts, we propmt OpenAI to generate a medical history note using common chief complaints patients may present with to the emergency department:
 
 - Abdominal pain
 - Chest pain
 - Fever
 - Headache
 - Shortness of breath
+
+<details>
+  <summary>Click to See Full Prompt Sent To OpenAI</summary>
+  Complete the note below as if you were a physician of a patient in the emergency department. Use the following JSON schema for the note and fill the following sections with the note content. Empty sections are not allowed. Only respond with JSON.
+
+The patient demographic data is below:
+
+```
+{
+  "patient_name": "{{ patient_name }}",
+  "age": "{{ age }}",
+  "gender": "{{ gender }}",
+  "chief_complaint": "{{ chief_complaint }}",
+}
+```
+
+The JSON schema of the response is below:
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "patient_name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "string"
+    },
+    "chief_complaint": {
+      "type": "string"
+    },
+    "history_of_present_illness": {
+      "type": "string"
+    },
+    "review_of_symptoms": {
+      "type": "object",
+      "properties": {
+        "constitutional": {
+          "type": "string"
+        },
+        "cardiovascular": {
+          "type": "string"
+        },
+        "respiratory": {
+          "type": "string"
+        },
+        "gi": {
+          "type": "string"
+        },
+        "gu": {
+          "type": "string"
+        },
+        "musculoskeletal": {
+          "type": "string"
+        },
+        "skin": {
+          "type": "string"
+        },
+        "neurologic": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "constitutional",
+        "cardiovascular",
+        "respiratory",
+        "gi",
+        "gu",
+        "musculoskeletal",
+        "skin",
+        "neurologic"
+      ]
+    },
+    "past_medical_history": {
+      "type": "string"
+    },
+    "medications": {
+      "type": "string"
+    },
+    "past_surgical_history": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "social_history": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "patient_name",
+    "age",
+    "chief_complaint",
+    "history_of_present_illness",
+    "review_of_symptoms",
+    "past_medical_history",
+    "medications",
+    "past_surgical_history",
+    "family_history",
+    "social_history"
+  ]
+}
+```
+
+</details>
 
 We generate unique 10,000 documents for each chief complaint, 5,000 for each of our cohorts.
 
