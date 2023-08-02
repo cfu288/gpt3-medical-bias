@@ -4,6 +4,8 @@ We ask GPT to generate medical histories given only a patient's name. Does GPT g
 
 The goal is to see if there is any implicit bias shown by GPT in a medical context (shown by differing word frequencies in the returned documents). This is good to explore, as future healthcare applications that may choose to incorporate GPT models should be aware of these implicit biases.
 
+To jump straight to the generated gpt-3.5 response data (50,000 documents), [go here](/data/processed/documents/).
+
 ## Generating accurate cohorts for African-American and Caucasian patients
 
 In order to see whether gpt generates unbiased data, we need to make sure that our underlying mock patient name data attempts to control for biases such as age and gender. Having different distributions of age and gender between our African-American and Caucasian cohorts would obviously be confounding variables. We account for this by attempting to generate accurate age and gender from the generated names, and match each patient from the African-American cohort to a patient of the Caucasian cohort using propensity score matching. More details on how we did this below.
