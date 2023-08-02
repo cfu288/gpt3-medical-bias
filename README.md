@@ -35,7 +35,7 @@ For each patient in our cohorts, we propmt OpenAI to generate a medical history 
 - Shortness of breath
 
 <details>
-  <summary>Click to See Full Prompt Sent To OpenAI</summary>
+  <summary>Click this to see full prompt template sent to OpenAI</summary>
   Complete the note below as if you were a physician of a patient in the emergency department. Use the following JSON schema for the note and fill the following sections with the note content. Empty sections are not allowed. Only respond with JSON.
 
 The patient demographic data is below:
