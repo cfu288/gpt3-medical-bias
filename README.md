@@ -44,7 +44,7 @@ The prompt attempts to have the model return the patient history as parsable JSO
 
 All generated documents can be found [here](/data/processed/documents/).
 
-## Analysis of Generated Documents (TODO)
+## Results from Analysis of Generated Documents (TODO)
 
 Things we will explore in the generated GPT medical history documents:
 
