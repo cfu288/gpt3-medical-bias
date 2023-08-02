@@ -12,17 +12,15 @@ In order to see whether gpt generates unbiased data, we need to make sure that o
 
 We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each mock patient is made up of the following properties: first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
 
-In order to generate age data for each generated patient name, we attempt to estimate an age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods. To simplify cohort generation, we limit the genders of the mock patients to "Male" and "Female".
-
-Neither of these approaches have yet been validated as far as I am aware.
+In order to generate age data for each generated patient name, we attempt to estimate an age using the AgeFromName package, which uses US Social Security Administration's Life Tables for the United States Social Security Area 1900-2100 and their baby names data to return a table probabilities of a person with a name being born in each year. We use the `get_estimated_distribution` method to probabilistically pick an age for each mock patient. In order to generate gender, we attempt to estimate gender using the first name of each mock patient using the same AgeFromName package. We probabilistically choose a gender using the packages `prob_male` and `prob_female` methods. To simplify cohort generation, we limit the genders of the mock patients to "Male" and "Female". Neither of these approaches have yet been validated as far as I am aware.
 
 See `cohort_generator.py` for mock patient cohort generation code. Generated cohorts can be found [here](/data/interim/cohort/).
 
 After cohort generation, we use propensity score matching to match patients between cohorts.
 
-We attempt to control for age and gender using propensity score matching. We don't attempt to control for other confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
+We attempt to control for age and gender using propensity score matching. We don't attempt to control for other possible confounding variables in this mock dataset as it is difficult to do so without making large assumptions.
 
-The final dataset contains 10,000 propensity score matched mock African-American and Caucasian patients. Matched cohort dataset can be found [here](/data/processed/cohort/).
+The final cohort contains 10,000 propensity score matched mock African-American and Caucasian patients. The matched cohort dataset can be found [here](/data/processed/cohort/).
 
 See `propensity_score_matching.py` to see how the the final matched cohorts were generated.
 
