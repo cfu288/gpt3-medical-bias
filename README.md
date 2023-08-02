@@ -6,6 +6,8 @@ The goal is to see if there is any implicit bias shown by GPT in a medical conte
 
 ## Generating accurate cohorts for African-American and Caucasian patients
 
+In order to see whether gpt generates unbiased data, we need to make sure that our underlying mock patient name data attempts to control for biases such as age and gender. Having different distributions of age and gender between our African-American and Caucasian cohorts would obviously be confounding variables. We account for this by attempting to generate accurate age and gender from the generated names, and match each patient from the African-American cohort to a patient of the Caucasian cohort using propensity score matching. More details on how we did this below.
+
 We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each mock patient is made up of the following properties: first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
 
 However, there may be implicit gender and age biases in the names of the voter data.
@@ -55,7 +57,7 @@ Things we will explore in the generated GPT medical history documents:
 - For documents generated with a chief complaint of **chest pain**:
   - No significant differences in medications between groups found
 - For documents generated with a chief complaint of **headache**:
-  - There is a significant difference in the use of medication "simvastatin" between the groups with a p-value of 0.008 
+  - There is a significant difference in the use of medication "simvastatin" between the groups with a p-value of 0.008
 - For documents generated with a chief complaint of **abdominal pain**:
   - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
   - There is a significant difference in the use of medication "metformin" with a p-value of 0.000
