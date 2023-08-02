@@ -58,19 +58,17 @@ Things we will explore in the generated GPT medical history documents:
   - There is a significant difference in the use of medication "simvastatin" between the groups with a p-value of 0.008 
 - For documents generated with a chief complaint of **abdominal pain**:
   - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
-  - There is a significant difference in the use of medication "metformin" with a p-value of 0.000 - There is a significant difference in the frequency of the word metformin with a p-value of 0.000
+  - There is a significant difference in the use of medication "metformin" with a p-value of 0.000
+  - There is a significant difference in the frequency of the word metformin with a p-value of 0.000
 - For documents generated with a chief complaint of **fever**:
   - There is a significant difference in the use of medication "atorvastatin" between the groups with a p-value of 0.002
   - There is a significant difference in the use of medication "hydrochlorothiazide" between the groups with a p-value of 0.020
   - There is a significant difference in the use of medication "loratadine" between the groups with a p-value of 0.022
   - There is a significant difference in the use of medication "metformin" between the groups with a p-value of 0.000
 - For documents generated with a chief complaint of **shortness of breath**:
-  - There is a significant difference in the use of medication "furosemide"
-    between the groups with a p-value of 0.041
-  - There is a significant difference in the use of medication "ibuprofen"
-    between the groups with a p-value of 0.002
-  - There is a significant difference in the use of medication "metformin"
-    between the groups with a p-value of 0.016
+  - There is a significant difference in the use of medication "furosemide" between the groups with a p-value of 0.041
+  - There is a significant difference in the use of medication "ibuprofen" between the groups with a p-value of 0.002
+  - There is a significant difference in the use of medication "metformin" between the groups with a p-value of 0.016
 
 ### Medical conditions found in the African-American vs Caucasian corpus
 
