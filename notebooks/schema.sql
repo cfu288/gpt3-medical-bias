@@ -57,8 +57,10 @@ CREATE TABLE History (
     FOREIGN KEY (patient_id) REFERENCES Patient (id) ON DELETE CASCADE
 );
 
+CREATE INDEX idx_history_patient_id
+ON History (patient_id);
 CREATE INDEX idx_history_chief_complaint
 ON History (chief_complaint);
 
 -- insert into History(History) values ('optimize'); -- for every FTS table you have (if you have any)
-vacuum; -- reorganize database and apply changed page size
+VACUUM; -- reorganize database and apply changed page size
