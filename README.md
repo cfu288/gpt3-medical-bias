@@ -4,7 +4,7 @@ We ask GPT to generate medical histories given only a patient's name. Does GPT g
 
 The goal is to see if there is any implicit bias shown by GPT in a medical context (shown by differing word frequencies in the returned documents). This is good to explore, as future healthcare applications that may choose to incorporate GPT models should be aware of these implicit biases.
 
-To jump straight to the generated gpt-3.5 response data (50,000 documents), [go here](/data/processed/documents/).
+To explore the gpt-3.5 response data (50,000 documents) via sql queries, you can use our [interactive web app](https://cfu288.github.io/gpt3-medical-bias/). The raw data can be [found here](/data/processed/documents/).
 
 ## Generating the Medical History Documents From Cohort Data
 
