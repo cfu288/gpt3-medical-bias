@@ -14,7 +14,7 @@ async function load(query: string) {
         from: "inline",
         config: {
           serverMode: "full",
-          url: "/database.sqlite3",
+          url: "/gpt3-medical-bias/database.sqlite3",
           requestChunkSize: 4096,
         },
       },
