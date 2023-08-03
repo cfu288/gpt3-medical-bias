@@ -2,8 +2,6 @@ PRAGMA foreign_keys = ON;
 PRAGMA journal_mode = delete; -- to be able to actually set page size
 PRAGMA page_size = 1024; -- trade off of number of requests that need to be made vs overhead. 
 
-
-
 DROP TABLE IF EXISTS Patient;
 DROP TABLE IF EXISTS History;
 DROP TABLE IF EXISTS MedicationEntity;
@@ -16,7 +14,7 @@ CREATE TABLE Patient (
     age INTEGER NOT NULL,
     gender CHAR(1) NOT NULL,
     race CHAR(1) NOT NULL
-    -- CHECK (race IN ("W", "B"))
+    CHECK (race IN ("W", "B"))
 );
 
 CREATE INDEX idx_patient_gender 
@@ -38,7 +36,7 @@ CREATE TABLE MedicationEntity (
     FOREIGN KEY (history_id) REFERENCES History (id) ON DELETE CASCADE
 );
 
-CREATE VIRTUAL TABLE History USING fts4(
+CREATE TABLE History (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     patient_id INTEGER NOT NULL,
     chief_complaint TEXT NOT NULL,
@@ -59,5 +57,8 @@ CREATE VIRTUAL TABLE History USING fts4(
     FOREIGN KEY (patient_id) REFERENCES Patient (id) ON DELETE CASCADE
 );
 
-insert into History(History) values ('optimize'); -- for every FTS table you have (if you have any)
+CREATE INDEX idx_history_chief_complaint
+ON History (chief_complaint);
+
+-- insert into History(History) values ('optimize'); -- for every FTS table you have (if you have any)
 vacuum; -- reorganize database and apply changed page size
