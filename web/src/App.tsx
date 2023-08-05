@@ -29,6 +29,19 @@ async function load(query: string) {
 }
 
 const EXAMPLE_QUERIES = {
+  "Extracted medicine entities by patient": `SELECT 
+  p.first_name,
+  p.last_name,
+  p.race,
+  h.chief_complaint,
+  h.medications,
+  n.entity,
+  n.loc_idx 
+FROM 
+  Patient p 
+JOIN History h ON  h.patient_id = p.id 
+JOIN NLPEntity n ON n.history_id = h.id
+LIMIT 100;`,
   "Most common medications by race for chief complaint of SOB": `SELECT 
   p.race,
   h.chief_complaint,
@@ -72,19 +85,7 @@ function App() {
   const [rows, setRows] = useState<QueryResult[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [query, setQuery] = useState<string>(
-    `SELECT 
-    p.first_name,
-    p.last_name,
-    p.race,
-    h.chief_complaint,
-    h.medications,
-    n.entity,
-    n.loc_idx 
-FROM 
-    Patient p 
-JOIN History h ON  h.patient_id = p.id 
-JOIN NLPEntity n ON n.history_id = h.id
-LIMIT 100;`
+    EXAMPLE_QUERIES["Extracted medicine entities by patient"]
   );
   const onSubmit = () => {
     setLoading(true);
