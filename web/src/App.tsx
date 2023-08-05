@@ -51,13 +51,13 @@ LIMIT 50;`,
 FROM
   NLPEntity n
 WHERE
-  n.entity_type = 'MEDICATION'
+  n.type = 'medication'
 GROUP BY
   n.entity
 ORDER BY
   count DESC
 LIMIT 10;`,
-  "Show gender count by race": `SELECT
+  "Show gender count by race (SLOW)": `SELECT
   p.race,
   p.gender,
   COUNT(*) AS count
