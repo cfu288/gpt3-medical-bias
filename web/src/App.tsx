@@ -73,7 +73,7 @@ function App() {
         </div>
       </header>
       <main>
-        <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="relative py-4">
             <div
               className="absolute inset-0 flex items-center"
@@ -178,7 +178,7 @@ function App() {
       </main>
       <button
         type="button"
-        className="absolute bottom-0 right-0 m-4 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
+        className="sticky bottom-4 float-right m-4 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
         onClick={() => {
           const json = JSON.stringify(rows, null, 2);
           const blob = new Blob([json], { type: "application/json" });
