@@ -98,7 +98,7 @@ function App() {
               type="text"
               name="search"
               id="search"
-              className="block w-full rounded-md border-0 p-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 relative"
+              className="block w-full rounded-md border-0 p-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 relative pr-10"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
             />
@@ -177,6 +177,19 @@ function App() {
           </div>
         </div>
       </main>
+      <button
+        type="button"
+        className="absolute bottom-0 right-0 m-4 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
+        onClick={() => {
+          const fileName = "data.json";
+          const json = JSON.stringify(rows, null, 2);
+          const blob = new Blob([json], { type: "application/json" });
+          const href = URL.createObjectURL(blob);
+          window.open(href);
+        }}
+      >
+        Download Data
+      </button>
     </div>
   );
 }
