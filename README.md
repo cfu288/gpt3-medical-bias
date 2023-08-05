@@ -198,6 +198,12 @@ Things we will explore in the generated GPT medical history documents:
   - There is a significant difference in the prevalence of the condition "copd" between the groups with a p-value of 0.010
   - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.003
 
+## Limitations
+
+- Results generated for gpt-3.5-turbo may not be generalizable to other LLMs.
+- We only attempt to control for age and gender of the names associated with each race. We did not attempt to control for other data that may be encoded with each name (SES).
+- Race and ethnicity are social constructs with many subgroups. Evaluating word frequencies over these broad categories of race and ethnicity may hide the disparities in smaller distinct subpopulations.
+
 ## Code Structure
 
 ```
