@@ -28,6 +28,46 @@ async function load(query: string) {
   return await worker.db.query(query);
 }
 
+const EXAMPLE_QUERIES = {
+  "Most common medications by race for chief complaint of SOB": `SELECT 
+  p.race,
+  h.chief_complaint,
+  n.entity,
+  COUNT(n.entity) AS count
+FROM 
+  Patient p 
+JOIN History h ON  h.patient_id = p.id 
+JOIN NLPEntity n ON n.history_id = h.id
+WHERE
+  h.chief_complaint = 'shortness-of-breath'
+GROUP BY
+  n.entity,
+  p.race
+ORDER BY COUNT(n.entity) DESC
+LIMIT 50;`,
+  "Show top 10 medications across all documents": `SELECT
+  n.entity,
+  COUNT(*) AS count
+FROM
+  NLPEntity n
+WHERE
+  n.entity_type = 'MEDICATION'
+GROUP BY
+  n.entity
+ORDER BY
+  count DESC
+LIMIT 10;`,
+  "Show gender count by race": `SELECT
+  p.race,
+  p.gender,
+  COUNT(*) AS count
+FROM
+  Patient p
+GROUP BY
+  p.race,
+  p.gender;`,
+};
+
 function App() {
   const [rows, setRows] = useState<QueryResult[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
@@ -44,7 +84,7 @@ FROM
     Patient p 
 JOIN History h ON  h.patient_id = p.id 
 JOIN NLPEntity n ON n.history_id = h.id
-LIMIT 500;`
+LIMIT 100;`
   );
   const onSubmit = () => {
     setLoading(true);
@@ -86,6 +126,7 @@ LIMIT 500;`
       </header>
       <main>
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          {/* Divider */}
           <div className="relative py-4">
             <div
               className="absolute inset-0 flex items-center"
@@ -97,6 +138,7 @@ LIMIT 500;`
               <span className="bg-white px-2 text-gray-500"></span>
             </div>
           </div>
+          {/* Text entry */}
           <label
             htmlFor="search"
             className="block text-sm font-medium leading-6 text-gray-900"
@@ -111,6 +153,19 @@ LIMIT 500;`
             </a>
             .
           </label>
+          <p className="block text-sm font-medium leading-6 text-gray-900">
+            Or, try one of these example queries:
+            {Object.entries(EXAMPLE_QUERIES).map(([name, query]) => (
+              <button
+                key={name}
+                type="button"
+                className="m-1 rounded-md bg-white px-2.5 py-1 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
+                onClick={() => setQuery(query)}
+              >
+                {name}
+              </button>
+            ))}
+          </p>
           <div className="relative mt-2 flex items-center">
             <textarea
               rows={5}
@@ -147,8 +202,8 @@ LIMIT 500;`
               <div className="flex-1 p-4">
                 <div className="h-4">
                   <div
-                    className={`h-2 bg-slate-300 rounded transition duration-150 ${
-                      loading ? "opacity-100" : "opacity-0"
+                    className={`h-2 bg-slate-300 rounded transition duration-300 ease-out ${
+                      loading ? "opacity-100 scale-100" : "opacity-0 scale-90"
                     }`}
                   ></div>
                 </div>
