@@ -29,6 +29,9 @@ async function load(query: string) {
 }
 
 const EXAMPLE_QUERIES = {
+  "Show 10 patients": "SELECT * FROM Patient LIMIT 10;",
+  "Show 10 medical histories": "SELECT * FROM History LIMIT 10;",
+  "Show 10 extracted NLP entities": "SELECT * FROM NLPEntity LIMIT 10;",
   "Extracted medicine entities by patient": `SELECT 
   p.first_name,
   p.last_name,
