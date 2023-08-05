@@ -34,7 +34,7 @@ function App() {
   const [query, setQuery] = useState<string>(
     "SELECT first_name, last_name, age, gender, race, chief_complaint, medications FROM Patient p JOIN History h ON h.patient_id = p.id LIMIT 5;"
   );
-  const onSubmit = (e?: any) => {
+  const onSubmit = () => {
     setLoading(true);
     load(query)
       .then((result) => {
@@ -95,7 +95,6 @@ function App() {
           <div className="relative mt-2 flex items-center">
             <textarea
               rows={2}
-              type="text"
               name="search"
               id="search"
               className="block w-full rounded-md border-0 p-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 relative pr-10"
@@ -113,7 +112,7 @@ function App() {
                   viewBox="0 0 24 24"
                   stroke-width="1.5"
                   stroke="currentColor"
-                  class="w-6 h-6"
+                  className="w-6 h-6"
                 >
                   <path
                     stroke-linecap="round"
@@ -125,11 +124,11 @@ function App() {
             </button>
           </div>
           <div>
-            <div class="animate-pulse flex">
-              <div class="flex-1 p-4">
-                <div class="h-4">
+            <div className="animate-pulse flex">
+              <div className="flex-1 p-4">
+                <div className="h-4">
                   <div
-                    class={`h-2 bg-slate-300 rounded transition duration-150 ${
+                    className={`h-2 bg-slate-300 rounded transition duration-150 ${
                       loading ? "opacity-100" : "opacity-0"
                     }`}
                   ></div>
@@ -181,7 +180,6 @@ function App() {
         type="button"
         className="absolute bottom-0 right-0 m-4 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
         onClick={() => {
-          const fileName = "data.json";
           const json = JSON.stringify(rows, null, 2);
           const blob = new Blob([json], { type: "application/json" });
           const href = URL.createObjectURL(blob);
