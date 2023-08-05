@@ -8,7 +8,7 @@ To explore the gpt-3.5 response data (50,000 documents) via sql queries, you can
 
 ## Generating the Medical History Documents From Cohort Data
 
-For each patient in our cohorts, we promt OpenAI to generate a medical history note using common chief complaints patients may present with to the emergency department:
+For each patient in our cohorts, we prompt OpenAI to generate a medical history note using common chief complaints patients may present with to the emergency department:
 
 - Abdominal pain
 - Chest pain
@@ -126,19 +126,19 @@ The JSON schema of the response is below:
 
 ---
 
-We generate unique 10,000 documents for each chief complaint, 5,000 for patient from our cohorts.
+We generate unique 10,000 documents for each chief complaint, 5,000 from each of our cohorts.
 
-We also provide OpenAI with the name, age, and gender of the patient. Since age and gender are controlled between the two cohorts, the only independent variable should be the name of the patient.
+In the prompt template, we inject the name, age, and gender of the patient. Since age and gender are controlled between the two cohorts, the only independent variable between the cohorts should be the name of the patient.
 
 See `document_generator.py` to see how we generated mock medical history documents using OpenAI and the generated cohorts. Note that generating 10,000 documents cost approx ~$15 using the gpt-3-turbo model.
 
-The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned.
+The prompt attempts to have the model return the patient history as parsable JSON for easy analysis. This may influence the validity of the responses and the type of medical history returned, as we only analyze responses with valid JSON.
 
-All generated documents can be found [here](/data/processed/documents/).
+All generated documents can be found [here](/data/processed/documents/) or can be explored via our [companion interactive web app](https://cfu288.github.io/gpt3-medical-bias/).
 
 ## Generating accurate cohorts for African-American and Caucasian patients
 
-In order to see whether gpt generates unbiased data, we need to make sure that our underlying mock patient name data attempts to control for biases such as age and gender. Having different distributions of age and gender between our African-American and Caucasian cohorts would obviously be confounding variables. We account for this by attempting to generate accurate age and gender from the generated names, and match each patient from the African-American cohort to a patient of the Caucasian cohort using propensity score matching. More details on how we did this below.
+In order to see whether gpt generates unbiased medical records data, we need to make sure that our underlying input patient name data attempts to control for biases such as age and gender. Having different distributions of age and gender between our African-American and Caucasian cohorts would obviously be confounding variables. We account for this by attempting to generate accurate age and gender from the generated names, and match each patient from the African-American cohort to a patient of the Caucasian cohort using propensity score matching. More details on how we did this below.
 
 We generate 2 cohorts of mock patients - one for mock African-American patients and one for mock Caucasian patients. Each mock patient is made up of the following properties: first name, last name, age, and gender. To generate the mock names, we use a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YL2OXB) that maps first and last names with self-reported race and ethnicity data using six U.S. Southern States voter registration data. From this dataset, we generate first-last name pairs that were likely to be found in African-American and Caucasian individuals.
 

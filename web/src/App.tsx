@@ -32,7 +32,19 @@ function App() {
   const [rows, setRows] = useState<QueryResult[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [query, setQuery] = useState<string>(
-    "SELECT first_name, last_name, age, gender, race, chief_complaint, medications FROM Patient p JOIN History h ON h.patient_id = p.id LIMIT 5;"
+    `SELECT 
+    p.first_name,
+    p.last_name,
+    p.race,
+    h.chief_complaint,
+    h.medications,
+    n.entity,
+    n.loc_idx 
+FROM 
+    Patient p 
+JOIN History h ON  h.patient_id = p.id 
+JOIN NLPEntity n ON n.history_id = h.id
+LIMIT 500;`
   );
   const onSubmit = () => {
     setLoading(true);
@@ -62,7 +74,7 @@ function App() {
             This is a companion app to the{" "}
             <a
               className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-              href="https://cfu288.github.io/gpt3-medical-bias/"
+              href="https://github.com/cfu288/gpt3-medical-bias"
             >
               code repository on GitHub.
             </a>
@@ -94,7 +106,7 @@ function App() {
           </label>
           <div className="relative mt-2 flex items-center">
             <textarea
-              rows={2}
+              rows={5}
               name="search"
               id="search"
               className="block w-full rounded-md border-0 p-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6 relative pr-10"
@@ -105,18 +117,18 @@ function App() {
               className="absolute inset-y-0 right-0 flex py-1.5 pr-1.5 z-10 h-full"
               onClick={onSubmit}
             >
-              <kbd className="transition inline-flex items-center rounded border border-gray-200 hover:border-gray-400 hover:text-gray-500 px-1 font-sans text-xs text-gray-400 h-full">
+              <kbd className="max-h-12 transition inline-flex items-center rounded border border-gray-200 hover:border-gray-400 hover:text-gray-500 px-1 font-sans text-xs text-gray-400 h-full self-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
                   viewBox="0 0 24 24"
-                  stroke-width="1.5"
+                  strokeWidth="1.5"
                   stroke="currentColor"
                   className="w-6 h-6"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                     d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5"
                   />
                 </svg>
@@ -156,7 +168,7 @@ function App() {
                   </thead>
                   <tbody className="divide-y divide-gray-200">
                     {rows.map((person) => (
-                      <tr key={person.first_name + person.last_name}>
+                      <tr key={Object.values(person).join("|")}>
                         {Object.values(person).map((value) => (
                           <td
                             key={`td-${

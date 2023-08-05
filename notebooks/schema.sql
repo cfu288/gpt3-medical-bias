@@ -4,7 +4,7 @@ PRAGMA page_size = 1024; -- trade off of number of requests that need to be made
 
 DROP TABLE IF EXISTS Patient;
 DROP TABLE IF EXISTS History;
-DROP TABLE IF EXISTS MedicationEntity;
+DROP TABLE IF EXISTS NLPEntity;
 DROP TABLE IF EXISTS GenderType;
 
 CREATE TABLE Patient (
@@ -29,12 +29,20 @@ ON Patient (race);
 -- W White
 -- O Unknown
 
-CREATE TABLE MedicationEntity (
+CREATE TABLE NLPEntity (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     history_id INTEGER NOT NULL,
-    content TEXT NOT NULL,
+    type TEXT NOT NULL,
+    entity TEXT NOT NULL,
+    json JSON,
+    loc_idx INTEGER NOT NULL,
     FOREIGN KEY (history_id) REFERENCES History (id) ON DELETE CASCADE
 );
+
+CREATE INDEX idx_nlpentity_type
+ON NLPEntity (type);
+CREATE INDEX idx_nlpentity_value
+ON NLPEntity (entity);
 
 CREATE TABLE History (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
