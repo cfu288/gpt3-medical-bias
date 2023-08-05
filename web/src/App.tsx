@@ -102,7 +102,14 @@ LIMIT 500;`
             className="block text-sm font-medium leading-6 text-gray-900"
           >
             Enter your SQLite query below and press the arrow on the right to
-            execute it.
+            execute it. See the database schema{" "}
+            <a
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              href="https://github.com/cfu288/gpt3-medical-bias/blob/main/notebooks/schema.sql"
+            >
+              here
+            </a>
+            .
           </label>
           <div className="relative mt-2 flex items-center">
             <textarea
