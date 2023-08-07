@@ -250,7 +250,7 @@ function App() {
                   </table>
                 ) : (
                   <p className="text-gray-400 w-full text-center py-10">
-                    No results found for query.
+                    {loading ? "Loading data..." : "No results found for query"}
                   </p>
                 )}
               </div>
