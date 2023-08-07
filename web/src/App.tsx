@@ -108,7 +108,7 @@ function App() {
   }, []);
 
   return (
-    <div className="py-10">
+    <div className="py-10 min-h-screen">
       <header>
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h1 className="text-3xl font-bold leading-tight tracking-tight text-gray-900 pb-3">
@@ -214,56 +214,64 @@ function App() {
               </div>
             </div>
           </div>
-          <div className="flow-root">
-            <div className="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
-              <div className="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
-                <table className="min-w-full divide-y divide-gray-300 table-fixed">
-                  <thead>
-                    <tr>
-                      {rows?.[0] &&
-                        Object.keys(rows?.[0]).map((key) => (
-                          <th
-                            key={key}
-                            scope="col"
-                            className="px-3 py-2 text-left text-sm font-semibold text-gray-900"
-                          >
-                            {key}
-                          </th>
-                        ))}
-                    </tr>
-                  </thead>
-                  <tbody className="divide-y divide-gray-200">
-                    {rows.map((person) => (
-                      <tr key={Object.values(person).join("|")}>
-                        {Object.values(person).map((value) => (
-                          <td
-                            key={Object.values(person).join("|") + value}
-                            className="px-3 py-2 text-sm text-gray-500"
-                          >
-                            {value}
-                          </td>
-                        ))}
+          <div className="flow-root max-h-96 border border-gray-300 rounded-md overflow-y-scroll">
+            <div className="overflow-x-auto">
+              <div className="inline-block min-w-full align-middle">
+                {rows.length > 0 ? (
+                  <table className="min-w-full divide-y divide-gray-300 table-fixed">
+                    <thead>
+                      <tr>
+                        {rows?.[0] &&
+                          Object.keys(rows?.[0]).map((key) => (
+                            <th
+                              key={key}
+                              scope="col"
+                              className="px-3 py-2 text-left text-sm font-semibold text-gray-900"
+                            >
+                              {key}
+                            </th>
+                          ))}
                       </tr>
-                    ))}
-                  </tbody>
-                </table>
+                    </thead>
+                    <tbody className="divide-y divide-gray-200">
+                      {rows.map((person) => (
+                        <tr key={Object.values(person).join("|")}>
+                          {Object.values(person).map((value) => (
+                            <td
+                              key={Object.values(person).join("|") + value}
+                              className="px-3 py-2 text-sm text-gray-500"
+                            >
+                              {value}
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                ) : (
+                  <p className="text-gray-400 w-full text-center py-10">
+                    No results found for query.
+                  </p>
+                )}
               </div>
             </div>
+            <button
+              type="button"
+              className={`opacity-60 hover:opacity-100 transition bottom-4 float-right mr-4 -mt-10 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 ${
+                rows.length > 0 ? "sticky" : "hidden"
+              }`}
+              onClick={() => {
+                const json = JSON.stringify(rows, null, 2);
+                const blob = new Blob([json], { type: "application/json" });
+                const href = URL.createObjectURL(blob);
+                window.open(href);
+              }}
+            >
+              Download Data
+            </button>
           </div>
         </div>
       </main>
-      <button
-        type="button"
-        className="sticky bottom-4 float-right m-4 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
-        onClick={() => {
-          const json = JSON.stringify(rows, null, 2);
-          const blob = new Blob([json], { type: "application/json" });
-          const href = URL.createObjectURL(blob);
-          window.open(href);
-        }}
-      >
-        Download Data
-      </button>
     </div>
   );
 }
