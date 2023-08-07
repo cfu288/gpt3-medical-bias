@@ -169,41 +169,31 @@ Early summary of findings so far:
 
 - TODO
 
-### Uses of medications in the African-American vs Caucasian corpus
+### Differences in medical conditions and uses of medications between the African-American vs Caucasian corpus
 
 - For documents generated with a chief complaint of **chest pain**:
-  - No significant differences in medications between groups found
+  - No significant differences in medications or medical conditions between groups found.
 - For documents generated with a chief complaint of **headache**:
-  - There is a significant difference in the use of medication "simvastatin" between the groups with a p-value of 0.008
+  - No significant differences in any conditions between groups found, but the use of medication "simvastatin" was more common in the caucasian cohort (0.033 of patients) compared to the african-american cohort (0.024 of patients) with a p-value of 0.008.
 - For documents generated with a chief complaint of **abdominal pain**:
-  - There is a significant difference in tin the use of medication "atorvastatin" with a p-value of 0.001
-  - There is a significant difference in the use of medication "metformin" with a p-value of 0.000
+  - The medication "atorvastatin" was found more commonly in the caucasian cohort with a p-value of 0.001.
+  - The condition "hyperlipidemia" was found more commonly in the caucasian cohort with a p-value of 0.002.
+  - The medication "metformin" was found more commonly in the african-american cohort with a p-value of 0.000.
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort between the groups with a p-value of 0.000.
 - For documents generated with a chief complaint of **fever**:
-  - There is a significant difference in the use of medication "atorvastatin" between the groups with a p-value of 0.002
-  - There is a significant difference in the use of medication "hydrochlorothiazide" between the groups with a p-value of 0.020
-  - There is a significant difference in the use of medication "loratadine" between the groups with a p-value of 0.022
-  - There is a significant difference in the use of medication "metformin" between the groups with a p-value of 0.000
+  - The medication "atorvastatin" was found more commonly in the caucasian cohort with a p-value of 0.002.
+  - The medication "loratadine" was found more commonly in the caucasian cohort with a p-value of 0.022.
+  - The condition "hyperlipidemia" was found more commonly in the caucasian cohort with a p-value of 0.026.
+  - The medication "metformin" was found more commonly in the african-american cohort with a p-value of 0.000.
+  - The medication "hydrochlorothiazide" was found more commonly in the african-american cohort a p-value of 0.020.
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.001.
 - For documents generated with a chief complaint of **shortness of breath**:
-  - There is a significant difference in the use of medication "furosemide" between the groups with a p-value of 0.041
-  - There is a significant difference in the use of medication "ibuprofen" between the groups with a p-value of 0.002
-  - There is a significant difference in the use of medication "metformin" between the groups with a p-value of 0.016
-
-### Medical conditions found in the African-American vs Caucasian corpus
-
-- For documents generated with a chief complaint of **chest pain**:
-  - No significant differences in any conditions between groups found
-- For documents generated with a chief complaint of **headache**:
-  - No significant differences in any conditions between groups found
-- For documents generated with a chief complaint of **abdominal pain**:
-  - There is a significant difference in the prevalence of the condition "hyperlipidemia" between the groups with a p-value of 0.002
-  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.000
-- For documents generated with a chief complaint of **fever**:
-  - There is a significant difference in the prevalence of the condition "hyperlipidemia" between the groups with a p-value of 0.026
-  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.001
-- For documents generated with a chief complaint of **shortness of breath**:
-  - There is a significant difference in the prevalence of the condition "osteoarthritis" between the groups with a p-value of 0.045
-  - There is a significant difference in the prevalence of the condition "copd" between the groups with a p-value of 0.010
-  - There is a significant difference in the prevalence of the condition "type ii diabetes mellitus" between the groups with a p-value of 0.003
+  - The medication "ibuprofen" was found more commonly in the caucasian cohort with a p-value of 0.002
+  - The condition "osteoarthritis" was found more commonly in the caucasian cohort with a p-value of 0.045
+  - The condition "copd" was found more commonly in the caucasian cohort with a p-value of 0.010
+  - The medication "furosemide" was found more commonly in the african-american cohort with a p-value of 0.041
+  - The medication "metformin" was found more commonly in the african-american cohort with a p-value of 0.016
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.003
 
 ## Limitations
 
