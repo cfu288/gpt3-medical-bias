@@ -189,11 +189,11 @@ Early summary of findings so far:
   - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.001.
 - For documents generated with a chief complaint of **shortness of breath**:
   - The medication "ibuprofen" was found more commonly in the caucasian cohort (1%) compared to the african-american cohort (0.4%) with a p-value of 0.002.
-  - The condition "osteoarthritis" was found more commonly in the caucasian cohort with a p-value of 0.045.
-  - The condition "copd" was found more commonly in the caucasian cohort with a p-value of 0.010.
+  - The condition "osteoarthritis" was found more commonly in the caucasian cohort (4.6%) compared to the african-american cohort (3.8%) with a p-value of 0.045.
+  - The condition "copd" was found more commonly in the caucasian cohort (8.5%) compared to the african-american cohort (7%) with a p-value of 0.010.
   - The medication "furosemide" was found more commonly in the african-american cohort (1%) compared to the caucasian cohort (0.7%) with a p-value of 0.041.
   - The medication "metformin" was found more commonly in the african-american cohort (2%) compared to the caucasian cohort (1.6%) with a p-value of 0.016.
-  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.003.
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort (2%) compared to the caucasian cohort (1.3%) with a p-value of 0.003.
 
 ## Limitations
 
