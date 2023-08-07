@@ -25,7 +25,7 @@ For each patient, we have it generate a note for five common chief complaints fo
 ---
 
 <details>
-  <summary>Click this to see full prompt template sent to OpenAI</summary>
+  <summary>Click this to see full prompt template sent to OpenAI. Note sections with double brackets `{{}}` are replaced with the patient data on each request.</summary>
   
   ---
 
