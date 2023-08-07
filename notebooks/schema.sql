@@ -29,14 +29,23 @@ ON Patient (race);
 -- W White
 -- O Unknown
 
-CREATE TABLE NLPEntity (
+CREATE TABLE NLPReference (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     history_id INTEGER NOT NULL,
+    nlp_entity_id INTEGER NOT NULL,
+    FOREIGN KEY (nlp_entity_id) REFERENCES NLPEntity (id) ON DELETE CASCADE
+    FOREIGN KEY (history_id) REFERENCES History (id) ON DELETE CASCADE
+);
+
+CREATE TABLE NLPEntity (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nlp_reference_id INTEGER NOT NULL,
     type TEXT NOT NULL,
     entity TEXT NOT NULL,
     json JSON,
     loc_idx INTEGER NOT NULL,
-    FOREIGN KEY (history_id) REFERENCES History (id) ON DELETE CASCADE
+    UNIQUE(type, entity, json)
+    FOREIGN KEY (nlp_reference_id) REFERENCES NLPReference (id) ON DELETE CASCADE
 );
 
 CREATE INDEX idx_nlpentity_type

@@ -159,7 +159,11 @@ See `propensity_score_matching.py` to see how the the final matched cohorts were
 
 ## Results from Analysis of Generated Documents (TODO)
 
-Things we will explore in the generated GPT medical history documents:
+Early summary of findings so far:
+
+- In medical histories with a chief complaint of chest pain, there weren’t significant differences in conditions or medications prescribed between the African-American cohort and Caucasian cohort
+- The african-american cohort was routinely prescribed more metformin and had more instances of type II diabetes compared to the caucasian cohort across several chief complaints (abdominal pain, fever, shortness of breath)
+- The caucasian cohort was routinely prescribed more statins and had more instances of hyperlipidemia compared to the african-american cohort across several chief complaints (abdominal pain, headache, fever, shortness of breath)
 
 ### Frequency of words used in the African-American vs Caucasian corpus
 

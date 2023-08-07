@@ -237,9 +237,7 @@ function App() {
                       <tr key={Object.values(person).join("|")}>
                         {Object.values(person).map((value) => (
                           <td
-                            key={`td-${
-                              person.first_name + person.last_name
-                            }-${value}`}
+                            key={Object.values(person).join("|") + value}
                             className="px-3 py-2 text-sm text-gray-500"
                           >
                             {value}
