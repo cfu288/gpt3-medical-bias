@@ -176,10 +176,10 @@ Early summary of findings so far:
 - For documents generated with a chief complaint of **headache**:
   - No significant differences in any conditions between groups found, but the use of medication "simvastatin" was more common in the caucasian cohort (3.3% of patients) compared to the african-american cohort (2.4% of patients) with a p-value of 0.008.
 - For documents generated with a chief complaint of **abdominal pain**:
-  - The medication "atorvastatin" was found more commonly in the caucasian cohort with a p-value of 0.001.
-  - The condition "hyperlipidemia" was found more commonly in the caucasian cohort with a p-value of 0.002.
-  - The medication "metformin" was found more commonly in the african-american cohort with a p-value of 0.000.
-  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort between the groups with a p-value of 0.000.
+  - The medication "atorvastatin" was found more commonly in the caucasian cohort (27%) compared to the african-american cohort (22%) with a p-value of 0.001.
+  - The condition "hyperlipidemia" was found more commonly in the caucasian cohort (36.4%) compared to the african-american cohort (31.8%) with a p-value of 0.002.
+  - The medication "metformin" was found more commonly in the african-american cohort (7%) compared to the caucasian cohort (4.2%) with a p-value of 0.000.
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort (5.9%) compared to the caucasian cohort (3.5%) with a p-value of 0.000.
 - For documents generated with a chief complaint of **fever**:
   - The medication "atorvastatin" was found more commonly in the caucasian cohort with a p-value of 0.002.
   - The medication "loratadine" was found more commonly in the caucasian cohort with a p-value of 0.022.
