@@ -163,6 +163,14 @@ The final cohort contains 10,000 propensity score matched mock African-American 
 
 See `propensity_score_matching.py` to see how the final matched cohorts were generated.
 
+### Analysis of Medication Use Between Cohorts
+
+For each generated document, we parse the "medications" field of the response and use NLP to extract the medications the patient is on. We normalize medications to their generic forms and track which patients are taking which medications. Note that even if a medication is mentioned several times in the "medications" section, we only count each medication once to avoid double-counting medications for a patient. We use the 'drug_named_entity_recognition' package to assist in extraction of these entities from the text.
+
+### Analysis of Medical Conditions Between Cohorts
+
+For each generated document, we parse the "past_medical_history" field of the response and use NLP to extract the medical conditions the patient currently has. We make sure to account for negation to not include conditions the patient does not have (e.x. "The patient denies a history of hypertension but admits to a history of type II diabetes" would only extract the entity "type II diabetes"). Note that even if a condition is mentioned several times in the "past_medical_history" section, we only count each condition once to avoid double-counting of conditions for a patient. We use the 'medspacy' python package to assist in extraction of these entities from the text.
+
 ## Results (In Progress)
 
 While this data exploration is still ongoing, an early analysis reveals:
