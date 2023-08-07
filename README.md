@@ -157,7 +157,7 @@ The final cohort contains 10,000 propensity score matched mock African-American 
 
 See `propensity_score_matching.py` to see how the the final matched cohorts were generated.
 
-## Results from Analysis of Generated Documents (TODO)
+## Results from Analysis of Generated Documents (In Progress)
 
 Early summary of findings so far:
 
@@ -174,7 +174,7 @@ Early summary of findings so far:
 - For documents generated with a chief complaint of **chest pain**:
   - No significant differences in medications or medical conditions between groups found.
 - For documents generated with a chief complaint of **headache**:
-  - No significant differences in any conditions between groups found, but the use of medication "simvastatin" was more common in the caucasian cohort (0.033 of patients) compared to the african-american cohort (0.024 of patients) with a p-value of 0.008.
+  - No significant differences in any conditions between groups found, but the use of medication "simvastatin" was more common in the caucasian cohort (3.3% of patients) compared to the african-american cohort (2.4% of patients) with a p-value of 0.008.
 - For documents generated with a chief complaint of **abdominal pain**:
   - The medication "atorvastatin" was found more commonly in the caucasian cohort with a p-value of 0.001.
   - The condition "hyperlipidemia" was found more commonly in the caucasian cohort with a p-value of 0.002.
@@ -188,12 +188,12 @@ Early summary of findings so far:
   - The medication "hydrochlorothiazide" was found more commonly in the african-american cohort a p-value of 0.020.
   - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.001.
 - For documents generated with a chief complaint of **shortness of breath**:
-  - The medication "ibuprofen" was found more commonly in the caucasian cohort with a p-value of 0.002
-  - The condition "osteoarthritis" was found more commonly in the caucasian cohort with a p-value of 0.045
-  - The condition "copd" was found more commonly in the caucasian cohort with a p-value of 0.010
-  - The medication "furosemide" was found more commonly in the african-american cohort with a p-value of 0.041
-  - The medication "metformin" was found more commonly in the african-american cohort with a p-value of 0.016
-  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.003
+  - The medication "ibuprofen" was found more commonly in the caucasian cohort (1%) compared to the african-american cohort (0.4%) with a p-value of 0.002.
+  - The condition "osteoarthritis" was found more commonly in the caucasian cohort with a p-value of 0.045.
+  - The condition "copd" was found more commonly in the caucasian cohort with a p-value of 0.010.
+  - The medication "furosemide" was found more commonly in the african-american cohort (1%) compared to the caucasian cohort (0.7%) with a p-value of 0.041.
+  - The medication "metformin" was found more commonly in the african-american cohort (2%) compared to the caucasian cohort (1.6%) with a p-value of 0.016.
+  - The condition "type ii diabetes mellitus" was found more commonly in the african-american cohort with a p-value of 0.003.
 
 ## Limitations
 
