@@ -212,7 +212,7 @@ While this data exploration is still ongoing, an early analysis reveals:
 ## Limitations
 
 - Results generated for gpt-3.5-turbo may not be generalizable to other LLMs.
-- We use one specific prompt for this experiment. Ot is unclear if variations on this prompt may reveal very different results.
+- We use one specific prompt for this experiment. It is unclear if variations on this prompt may reveal very different results.
 - The prompt attempts to have GPT return the patient history as parsable JSON. This constraint may influence the validity of the responses and the type of medical history returned.
 - We only attempt to control for the age and gender of the names associated with each race. We did not attempt to control for other data that may be encoded with each name (socioeconomic status).
 - Race and ethnicity are social constructs with many subgroups. Evaluating word frequencies over these broad categories of race and ethnicity may hide the disparities in smaller distinct subpopulations.
