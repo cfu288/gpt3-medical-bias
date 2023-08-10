@@ -2,6 +2,7 @@
 """
 import os
 import time
+import json
 
 import openai
 import shortuuid
@@ -22,20 +23,14 @@ openai.api_key = os.getenv("OPEN_API_KEY")
 MODEL_VERSION = "gpt-3.5-turbo-0613"
 PROMPT_TEMPLATE = Template(
     """
-Complete the note below as if you were a physician of a patient in the emergency department. Use the following JSON schema for the note and fill the following sections with the note content. Empty sections are not allowed. Only respond with JSON. 
+Please generate all sections of a medical note using the JSON schema below and the following patient information as if you were a physician in the emergency department:
 
-The patient demographic data is below:
+Patient Name: {{ patient_name }}
+Age: {{ age }}
+Gender: {{ gender }}
+Chief Complaint: {{ chief_complaint }}
 
-```
-{
-  "patient_name": "{{ patient_name }}",
-  "age": "{{ age }}",
-  "gender": "{{ gender }}",
-  "chief_complaint": "{{ chief_complaint }}",
-}
-```
-
-The JSON schema of the response is below:
+Response JSON Schema format:
 
 ```json
 {
@@ -125,12 +120,6 @@ The JSON schema of the response is below:
 ```
 """
 )
-# Hard code these parameters. They are the default values.
-TEMPERATURE = 1
-TOP_P = 1
-PRESENCE_PENALTY = 0
-FREQUENCY_PENALTY = 0
-N = 1
 
 
 # Credit to https://stackoverflow.com/a/3173338/11407943 for this function to print progress to terminal
@@ -206,11 +195,6 @@ def call_openai_document_complete(
                 ),
             }
         ],
-        temperature=TEMPERATURE,
-        top_p=TOP_P,
-        presence_penalty=PRESENCE_PENALTY,
-        frequency_penalty=FREQUENCY_PENALTY,
-        n=N,
     )
 
 
@@ -218,6 +202,7 @@ def gen_document(race_pt_name_tuple):
     (race, pt_name, pt_age, pt_gender, chief_complaint) = race_pt_name_tuple
     folder_location = (
         DATA_PROCESSED_DOCUMENTS_DIR
+        / MODEL_VERSION
         / f'{chief_complaint.replace(" ", "-").lower()}'
         / f'{race.replace(" ", "-").lower()}'
     )
@@ -239,42 +224,50 @@ def gen_document(race_pt_name_tuple):
 
 
 if __name__ == "__main__":
-    chief_complaint = "Headache"
-    aa_name_list = pd.read_csv(DATA_PROCESSED_COHORT_DIR / "aa_matched.csv").to_dict(
-        "records"
-    )
-    ca_name_list = pd.read_csv(DATA_PROCESSED_COHORT_DIR / "ca_matched.csv").to_dict(
-        "records"
-    )
-    with Pool(processes=24) as p:
-        print(f"Running with {p._processes} processes")
-        r = p.map_async(
-            gen_document,
-            [
-                (
-                    "Black or African American",
-                    f'{i.get("first_name").title()} {i.get("last_name")}',
-                    i.get("age"),
-                    i.get("gender"),
-                    chief_complaint,
-                )
-                for i in aa_name_list
-            ],
-            chunksize=20,
-        )
-        s = p.map_async(
-            gen_document,
-            [
-                (
-                    "White or Caucasian",
-                    f'{i.get("first_name").title()} {i.get("last_name")}',
-                    i.get("age"),
-                    i.get("gender"),
-                    chief_complaint,
-                )
-                for i in ca_name_list
-            ],
-            chunksize=20,
-        )
-        r.wait()
-        s.wait()
+    chief_complaints = [
+        "Shortness of breath",
+        "Chest pain",
+        "Abdominal pain",
+        "Fever",
+        "Headache",
+    ]
+    for chief_complaint in chief_complaints:
+        print(f"Generating documents for {chief_complaint}")
+        aa_name_list = pd.read_csv(
+            DATA_PROCESSED_COHORT_DIR / "aa_matched.csv"
+        ).to_dict("records")
+        ca_name_list = pd.read_csv(
+            DATA_PROCESSED_COHORT_DIR / "ca_matched.csv"
+        ).to_dict("records")
+        with Pool(processes=24) as p:
+            print(f"Running with {p._processes} processes")
+            r = p.map_async(
+                gen_document,
+                [
+                    (
+                        "Black or African American",
+                        f'{i.get("first_name").title()} {i.get("last_name")}',
+                        i.get("age"),
+                        i.get("gender"),
+                        chief_complaint,
+                    )
+                    for i in aa_name_list
+                ],
+                chunksize=10,
+            )
+            s = p.map_async(
+                gen_document,
+                [
+                    (
+                        "White or Caucasian",
+                        f'{i.get("first_name").title()} {i.get("last_name")}',
+                        i.get("age"),
+                        i.get("gender"),
+                        chief_complaint,
+                    )
+                    for i in ca_name_list
+                ],
+                chunksize=10,
+            )
+            r.wait()
+            s.wait()
