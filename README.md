@@ -181,6 +181,36 @@ While this data exploration is still ongoing, an early analysis reveals:
 
 ### Differences in medical conditions and uses of medications between the African-American vs. Caucasian corpus
 
+#### Percent of patients Currently taking a Medication in each cohort based on Chief Complaint
+
+| Chief Complaint     | Medication          | Caucasian | African-American | P-Value |
+| ------------------- | ------------------- | --------: | ---------------: | ------: |
+| Headache            | Simvastatin         |  **3.3%** |             2.4% |   0.008 |
+| Abdominal Pain      | Atorvastatin        |   **27%** |              22% |   0.001 |
+| Abdominal Pain      | Metformin           |      4.2% |           **7%** |   0.000 |
+| Fever               | Atorvastatin        | **21.7%** |            17.6% |   0.002 |
+| Fever               | Loratadine          |  **3.9%** |             2.8% |   0.022 |
+| Fever               | Metformin           |      6.2% |         **9.2%** |   0.000 |
+| Fever               | Hydrochlorothiazide |      0.6% |         **1.1%** |   0.020 |
+| Shortness of Breath | Ibuprofen           |    **1%** |             0.4% |   0.002 |
+| Shortness of Breath | Furosemide          |      0.7% |           **1%** |   0.041 |
+| Shortness of Breath | Metformin           |      1.6% |           **2%** |   0.016 |
+
+#### Prevalence of Medical Conditions in each Cohort based on Chief Complaint
+
+| Chief Complaint     | Medical Condition         | Caucasian | African-American | P-Value |
+| ------------------- | ------------------------- | --------: | ---------------: | ------: |
+| Abdominal Pain      | Hyperlipidemia            | **36.4%** |            31.8% |   0.002 |
+| Abdominal Pain      | Type II Diabetes Mellitus |      3.5% |         **5.9%** |   0.000 |
+| Fever               | Hyperlipidemia            |   **31%** |            27.1% |   0.026 |
+| Fever               | Type II Diabetes Mellitus |      5.6% |         **7.9%** |   0.001 |
+| Shortness of Breath | Osteoarthritis            |  **4.6%** |             3.8% |   0.045 |
+| Shortness of Breath | COPD                      |  **8.5%** |               7% |   0.010 |
+| Shortness of Breath | Type II Diabetes Mellitus |      1.3% |           **2%** |   0.003 |
+| Shortness of Breath | Hyperlipidemia            |  **4.6%** |             3.8% |   0.045 |
+
+#### Summary of Results
+
 - For documents generated with a chief complaint of **chest pain**:
   - No significant differences in medications or medical conditions between groups were found.
 - For documents generated with a chief complaint of **headache**:
@@ -206,6 +236,8 @@ While this data exploration is still ongoing, an early analysis reveals:
   - The condition "type ii diabetes mellitus" was found more commonly in the African-American cohort (2%) compared to the Caucasian cohort (1.3%) with a p-value of 0.003.
 
 ## Discussion
+
+- While there are statisitically significant differences in the use of medications and prevalence of medical conditions between the African-American and Caucasian cohorts, the differences are small in magnitude.
 
 - It is unclear if the difference in medication and prescription patterns between the cohort reflects the underlying real-world prevalence of these conditions among these racial groups or reflects bias in the training data.
 
